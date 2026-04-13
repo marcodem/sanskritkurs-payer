@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="de" class="h-full">
+<head>
+  <meta charset="utf-8">
+  <title>Sanskritkurs – Warmes Inline-Layout</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Serif: Display + Body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"
+    rel="stylesheet">
+
+  <!-- Tailwind CDN + Typography -->
+  <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            serif: ['Source Serif 4', 'Georgia', 'serif'],
+            display: ['Playfair Display', 'Georgia', 'serif'],
+            mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'Liberation Mono', 'monospace']
+          }
+        }
+      }
+    };
+  </script>
+
+  <style>
+    html, body { height: 100%; }
+    html { scroll-behavior: smooth; }
+
+    :root {
+      --color-bg:               #f7f6f2;
+      --color-surface:          #fbfbf9;
+      --color-surface-2:        #f3f0ec;
+      --color-surface-offset:   #edeae5;
+      --color-border:           #d4d1ca;
+
+      --color-text:             #28251d;
+      --color-text-muted:       #7a7974;
+      --color-text-faint:       #a3a19c;
+      --color-text-inverse:     #f9f8f4;
+
+      --color-primary:          #01696f;
+      --color-primary-hover:    #0c4e54;
+      --color-primary-soft:     #cedcd8;
+
+      --shadow-sm: 0 1px 2px oklch(0.2 0.01 80 / 0.06);
+      --shadow-md: 0 10px 30px oklch(0.2 0.01 80 / 0.12);
+
+      --text-xs:   clamp(0.75rem,  0.7rem  + 0.25vw, 0.875rem);
+      --text-sm:   clamp(0.875rem, 0.8rem  + 0.35vw, 1rem);
+      --text-base: clamp(1.05rem,  1.0rem  + 0.25vw, 1.15rem);
+      --text-lg:   clamp(1.25rem,  1.1rem  + 0.6vw,  1.55rem);
+      --text-xl:   clamp(1.7rem,   1.3rem  + 1.2vw,  2.35rem);
+      --text-2xl:  clamp(2.2rem,   1.4rem  + 2.2vw,  3.3rem);
+
+      --radius-sm: 0.5rem;
+      --radius-md: 0.75rem;
+      --radius-lg: 1rem;
+      --radius-xl: 1.5rem;
+
+      --transition: 180ms cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .dark {
+      --color-bg:               #171614;
+      --color-surface:          #1c1b19;
+      --color-surface-2:        #201f1d;
+      --color-surface-offset:   #2d2c2a;
+      --color-border:           #393836;
+
+      --color-text:             #e3e1dc;
+      --color-text-muted:       #9e9b92;
+      --color-text-faint:       #6b6861;
+      --color-text-inverse:     #2b2a28;
+
+      --color-primary:          #4f98a3;
+      --color-primary-hover:    #227f8b;
+      --color-primary-soft:     #273639;
+
+      --shadow-sm: 0 1px 2px oklch(0 0 0 / 0.25);
+      --shadow-md: 0 12px 36px oklch(0 0 0 / 0.45);
+    }
+
+    body {
+      min-height: 100dvh;
+      font-family: "Source Serif 4", Georgia, serif;
+      font-size: var(--text-base);
+      line-height: 1.65;
+      background: var(--color-bg);
+      color: var(--color-text);
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    ::-webkit-scrollbar { width: 10px; height: 10px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb {
+      background: color-mix(in oklab, var(--color-text) 18%, transparent);
+      border-radius: 9999px;
+    }
+
+    :focus-visible {
+      outline: 2px solid var(--color-primary);
+      outline-offset: 3px;
+      border-radius: var(--radius-sm);
+    }
+
+    .nav-item[data-active="true"] {
+      background: color-mix(in oklab, var(--color-primary) 14%, var(--color-surface));
+      border-color: color-mix(in oklab, var(--color-primary) 35%, var(--color-border));
+      color: var(--color-text);
+    }
+
+    .fade-enter { opacity: 0; transform: translateY(4px); }
+    .fade-enter-active {
+      opacity: 1; transform: translateY(0);
+      transition: opacity var(--transition), transform var(--transition);
+    }
+
+    .prose {
+      font-family: "Source Serif 4", Georgia, serif;
+      max-width: 78ch;
+    }
+    .prose h1, .prose h2, .prose h3, .prose h4 {
+      font-family: "Playfair Display", Georgia, serif;
+      letter-spacing: 0.01em;
+    }
+    .prose code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, monospace;
+      font-size: 0.9em;
+    }
+
+    .btn {
+      transition: background var(--transition), border-color var(--transition), color var(--transition), box-shadow var(--transition);
+    }
+  </style>
+</head>
+
+<body class="min-h-screen">
+  <a href="#content" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-[color:var(--color-surface)] focus:px-4 focus:py-2 focus:shadow-[var(--shadow-md)]">
+    Zum Inhalt springen
+  </a>
+
+  <header class="sticky top-0 z-40 border-b border-[color:var(--color-border)] bg-[color:var(--color-surface)]/88 backdrop-blur">
+    <div class="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 lg:px-8">
+      <a href="#top" class="flex items-center gap-3">
+        <div class="flex h-10 w-10 items-center justify-center rounded-[var(--radius-md)] bg-[color:var(--color-primary)] text-[color:var(--color-text-inverse)] shadow-[var(--shadow-sm)]">
+          <span aria-hidden="true" class="text-2xl leading-none">सं</span>
+          <span class="sr-only">Sanskritkurs</span>
+        </div>
+        <div class="leading-tight">
+          <div class="font-display text-[length:var(--text-lg)] font-semibold tracking-tight">Sanskritkurs</div>
+          <div class="text-xs text-[color:var(--color-text-muted)]">Inline‑Viewer · warmes Layout · Serif</div>
+        </div>
+      </a>
+
+      <div class="flex items-center gap-2">
+        <button id="themeToggle" type="button"
+          class="btn inline-flex h-10 w-10 items-center justify-center rounded-full border border-[color:var(--color-border)] bg-[color:var(--color-surface)] text-[color:var(--color-text)] shadow-[var(--shadow-sm)] hover:border-[color:var(--color-primary)]"
+          aria-label="Darstellung umschalten">
+          <span id="themeToggleIcon" class="text-lg" aria-hidden="true">☾</span>
+        </button>
+
+        <button id="sidebarToggle" type="button"
+          class="btn inline-flex items-center justify-center rounded-full border border-[color:var(--color-border)] bg-[color:var(--color-surface)] px-3 py-2 text-sm font-semibold text-[color:var(--color-text)] shadow-[var(--shadow-sm)] hover:border-[color:var(--color-primary)] lg:hidden"
+          aria-expanded="false" aria-controls="sidebar">
+          <span class="mr-2 text-xs uppercase tracking-[0.18em] text-[color:var(--color-text-muted)]">Inhalt</span>
+          <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top" class="mx-auto max-w-7xl px-4 py-6 lg:px-8 lg:py-10">
+    <section class="mb-8 rounded-[var(--radius-xl)] border border-[color:var(--color-border)] bg-gradient-to-br from-[color:var(--color-surface)] via-[color:var(--color-surface-2)] to-[color:var(--color-primary-soft)] p-6 shadow-[var(--shadow-md)] lg:mb-10 lg:p-10">
+      <div class="grid gap-8 lg:grid-cols-[minmax(0,3fr)_minmax(0,2fr)] lg:items-center">
+        <div>
+          <p class="text-xs font-semibold uppercase tracking-[0.22em] text-[color:var(--color-text-muted)]">
+            Lokale Dateien · Navigation · Dark/Light
+          </p>
+          <h1 class="mt-3 font-display text-[length:var(--text-2xl)] font-semibold leading-[1.05] tracking-tight">
+            Devanāgarī & Sanskrit — warm, groß, serif
+          </h1>
+          <p class="mt-4 max-w-2xl text-[color:var(--color-text-muted)]">
+            Diese Seite lädt deine heruntergeladenen Dateien aus <code class="font-mono text-[0.9em]">./sanskritkurs/</code>
+            und rendert sie inline mit einem warmen, lesefreundlichen Layout.[file:77]
+          </p>
+          <p class="mt-2 text-[11px] text-[color:var(--color-text-faint)]">
+            Hinweis: Die Originaldateien sind Latin‑1/Windows‑1252; am besten einmalig nach UTF‑8 konvertieren, damit Umlaute sauber erscheinen.[file:77]
+          </p>
+
+          <div class="mt-6 flex flex-wrap gap-3">
+            <a href="#content"
+               class="btn inline-flex items-center justify-center rounded-full bg-[color:var(--color-primary)] px-5 py-2.5 text-sm font-semibold text-[color:var(--color-text-inverse)] shadow-[var(--shadow-sm)] hover:bg-[color:var(--color-primary-hover)] hover:shadow-[var(--shadow-md)]">
+              Zum Viewer
+            </a>
+            <a href="http://www.payer.de/sanskritkurs/inhaltsverzeichnis.htm" target="_blank" rel="noopener noreferrer"
+               class="btn inline-flex items-center justify-center rounded-full border border-[color:var(--color-border)] bg-[color:var(--color-surface)]/70 px-5 py-2.5 text-sm font-semibold text-[color:var(--color-text)] shadow-[var(--shadow-sm)] hover:border-[color:var(--color-primary)]">
+              Original-Seite öffnen
+            </a>
+          </div>
+
+          <p class="mt-4 text-xs text-[color:var(--color-text-faint)]">
+            Tipp: Mit <kbd class="rounded bg-[color:var(--color-surface-offset)] px-1.5 py-0.5 font-mono text-[10px]">/</kbd> fokussierst du die Suche in der Sidebar.
+          </p>
+        </div>
+
+        <div class="rounded-[var(--radius-lg)] border border-[color:var(--color-border)] bg-[color:var(--color-surface)]/85 p-4 shadow-[var(--shadow-sm)]">
+          <div class="rounded-[var(--radius-md)] bg-[color:var(--color-surface-offset)] p-4">
+            <p class="text-[10px] uppercase tracking-[0.22em] text-[color:var(--color-text-muted)]">Preview</p>
+            <div class="mt-3 flex items-start justify-between gap-3">
+              <div>
+                <div class="text-xs text-[color:var(--color-text-muted)]">Beispiel</div>
+                <div class="font-display text-xl font-semibold">देवनागरी</div>
+              </div>
+              <div class="rounded-full bg-[color:var(--color-primary-soft)] px-3 py-1 text-[11px] font-semibold text-[color:var(--color-text)]">
+                Unicode · lokal
+              </div>
+            </div>
+            <p class="mt-4 text-sm text-[color:var(--color-text-muted)]">
+              Wenn der Viewer „Fetch‑Fehler“ meldet, starte einen lokalen Server (z.B. mit <code>python3 -m http.server</code>).[web:49]
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="grid gap-6 lg:grid-cols-[minmax(0,280px)_minmax(0,1fr)]">
+      <aside id="sidebar"
+        class="hidden flex-col gap-4 rounded-[var(--radius-lg)] border border-[color:var(--color-border)] bg-[color:var(--color-surface)]/92 p-4 shadow-[var(--shadow-sm)] lg:flex lg:sticky lg:top-24 lg:max-h-[calc(100vh-9rem)] lg:overflow-auto"
+        aria-label="Navigation">
+        <div class="flex items-center justify-between gap-3">
+          <h2 class="text-xs font-semibold uppercase tracking-[0.22em] text-[color:var(--color-text-muted)]">
+            Navigation
+          </h2>
+          <span id="countBadge" class="rounded-full bg-[color:var(--color-surface-offset)] px-2 py-0.5 text-[11px] text-[color:var(--color-text-muted)]">
+            –
+          </span>
+        </div>
+
+        <label class="block">
+          <span class="sr-only">Suche</span>
+          <input id="navSearch" type="search" placeholder="Suchen (z.B. PPP, Bahuvrihi, Instrumentalis)…"
+            class="w-full rounded-[var(--radius-md)] border border-[color:var(--color-border)] bg-[color:var(--color-surface)] px-3 py-2 text-sm text-[color:var(--color-text)] placeholder:text-[color:var(--color-text-faint)] shadow-[var(--shadow-sm)] focus:border-[color:var(--color-primary)]">
+        </label>
+
+        <div class="space-y-5" id="navSections"></div>
+      </aside>
+
+      <section id="content" class="space-y-4">
+        <div class="flex flex-wrap items-center justify-between gap-3 text-xs text-[color:var(--color-text-muted)]">
+          <div class="flex items-center gap-2">
+            <span class="inline-flex h-7 w-7 items-center justify-center rounded-full bg-[color:var(--color-surface-offset)] text-[color:var(--color-text)] shadow-[var(--shadow-sm)]">
+              ℹ︎
+            </span>
+            <span>
+              Quelle: lokale Dateien in <code class="font-mono text-[10px]">./sanskritkurs/</code>.[file:77]
+            </span>
+          </div>
+          <span id="currentFile" class="rounded-full border border-dashed border-[color:var(--color-border)] px-2 py-0.5 text-[11px] text-[color:var(--color-text-faint)]">
+            –
+          </span>
+        </div>
+
+        <article id="viewer"
+          class="rounded-[var(--radius-lg)] border border-[color:var(--color-border)] bg-[color:var(--color-surface)]/98 p-5 shadow-[var(--shadow-sm)] sm:p-6 lg:p-8">
+          <div class="prose prose-slate dark:prose-invert max-w-none">
+            <h2 class="font-display text-[length:var(--text-xl)]">Bereit.</h2>
+            <p>
+              Wähle links eine Schriftübung, Lektion oder Übungslösung.
+            </p>
+            <p class="text-sm text-[color:var(--color-text-muted)]">
+              Wenn du diese Seite per <code>file://</code> öffnest, blockieren manche Browser <code>fetch()</code>.
+              Starte dann im Ordner mit dieser Datei einen lokalen Server, z.B.:
+            </p>
+            <pre><code class="language-bash">python3 -m http.server 8000
+# dann öffnen: http://localhost:8000/sanskritkurs-inline-warm.html</code></pre>
+          </div>
+        </article>
+
+        <footer class="pt-4 text-xs text-[color:var(--color-text-faint)]">
+          <p>
+            Layout-Template: warmes Farbschema, Serif-Schriften, Dark/Light, lokale Navigation.[web:38]
+          </p>
+        </footer>
+      </section>
+    </div>
+  </main>
+
+  <script>
+    // Theme
+    (function () {
+      const root = document.documentElement;
+      const btn = document.getElementById('themeToggle');
+      const icon = document.getElementById('themeToggleIcon');
+
+      function setMode(mode) {
+        if (mode === 'dark') {
+          root.classList.add('dark');
+          icon.textContent = '☀︎';
+          btn.setAttribute('aria-label', 'Zur hellen Darstellung wechseln');
+        } else {
+          root.classList.remove('dark');
+          icon.textContent = '☾';
+          btn.setAttribute('aria-label', 'Zur dunklen Darstellung wechseln');
+        }
+      }
+
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      setMode(prefersDark ? 'dark' : 'light');
+
+      btn.addEventListener('click', () => {
+        setMode(root.classList.contains('dark') ? 'light' : 'dark');
+      });
+    })();
+
+    // Mobile Sidebar Toggle
+    (function () {
+      const sidebar = document.getElementById('sidebar');
+      const toggle = document.getElementById('sidebarToggle');
+      if (!sidebar || !toggle) return;
+
+      function setOpen(open) {
+        if (open) {
+          sidebar.classList.remove('hidden');
+          sidebar.classList.add('flex');
+          toggle.setAttribute('aria-expanded', 'true');
+        } else {
+          sidebar.classList.add('hidden');
+          sidebar.classList.remove('flex');
+          toggle.setAttribute('aria-expanded', 'false');
+        }
+      }
+
+      setOpen(false);
+
+      toggle.addEventListener('click', () => {
+        const open = toggle.getAttribute('aria-expanded') === 'true';
+        setOpen(!open);
+      });
+
+      window.addEventListener('resize', () => {
+        if (window.innerWidth >= 1024) {
+          sidebar.classList.remove('hidden');
+          sidebar.classList.add('flex');
+          toggle.setAttribute('aria-expanded', 'true');
+        }
+      });
+    })();
+
+    const BASE_PATH = 'sanskritkurs/';
+    const pad2 = (n) => String(n).padStart(2, '0');
+
+    const schriftLessons = Array.from({length: 11}, (_, idx) => {
+      const i = idx + 1;
+      const n = pad2(i);
+      return { id: `schrift-${i}`, group: 'Schriftübungen', label: `Schriftübung ${i}`, filename: `schrift${n}.htm` };
+    });
+
+    const grammarLessons = Array.from({length: 61}, (_, idx) => {
+      const i = idx + 1;
+      const n = pad2(i);
+      return { id: `lektion-${i}`, group: 'Lektionen', label: `Lektion ${i}`, filename: `lektion${n}.htm`, summary: '' };
+    });
+
+    const solutionLessons = Array.from({length: 60}, (_, idx) => {
+      const i = idx + 1;
+      const n = pad2(i);
+      return { id: `uebung-${i}`, group: 'Übungslösungen', label: `Übungslösung ${i}`, filename: `uebung${n}.htm` };
+    });
+
+    const ALL = [...schriftLessons, ...grammarLessons, ...solutionLessons];
+    // Volltext-Cache: filename -> plain text
+	const FULLTEXT = new Map();
+
+	async function loadFullTextFor(item) {
+	  if (FULLTEXT.has(item.filename)) return;
+	  const path = BASE_PATH + item.filename;
+	  try {
+	    const resp = await fetch(path, { cache: 'no-store' });
+	    if (!resp.ok) return;
+	    const raw = await resp.text();
+	    const txt = cleanHtml(raw).replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+	    FULLTEXT.set(item.filename, txt.toLowerCase());
+	  } catch (e) {
+	    // ignorieren
+	  }
+	}
+
+	// Im Hintergrund alle Dateien vorladen
+	(async () => {
+	  for (const item of ALL) {
+	    await loadFullTextFor(item);
+	  }
+	})();
+
+    const navSections = document.getElementById('navSections');
+    const countBadge = document.getElementById('countBadge');
+    const navSearch = document.getElementById('navSearch');
+    let collapsedGroups = new Set();
+
+    // Inhaltsverzeichnis (HTML) parsen: alle lektionXX.htm, h1/h2 + folgendes ul
+    async function loadSummaries() {
+      try {
+        const resp = await fetch(BASE_PATH + 'inhaltsverzeichnis.htm', { cache: 'no-store' });
+        if (!resp.ok) return;
+
+        const raw = await resp.text();
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(raw, 'text/html');
+
+        const links = Array.from(doc.querySelectorAll('a[href*="lektion"]'));
+        links.forEach(a => {
+          const href = a.getAttribute('href') || '';
+          const m = href.match(/lektion(\d{2})\.htm/i);
+          if (!m) return;
+          const nr = parseInt(m[1], 10);
+          if (!nr) return;
+
+          let heading = a.closest('h1, h2');
+          let ul = null;
+          if (heading) {
+            let el = heading.nextElementSibling;
+            while (el && el.tagName && el.tagName.toLowerCase() !== 'ul') {
+              el = el.nextElementSibling;
+            }
+            ul = el;
+          }
+          if (!ul) return;
+
+          const textLines = [];
+          ul.querySelectorAll('li').forEach(li => {
+            const t = li.textContent.replace(/\s+/g, ' ').trim();
+            if (t) textLines.push('• ' + t);
+          });
+          const summary = textLines.slice(0, 8).join('\n');
+
+          const lesson = grammarLessons.find(gl => {
+            const num = parseInt(gl.label.replace(/\D+/g, ''), 10);
+            return num === nr;
+          });
+          if (lesson) {
+            lesson.summary = summary;
+          }
+        });
+      } catch (e) {
+        console.warn('Konnte inhaltsverzeichnis.htm nicht parsen:', e);
+      }
+    }
+
+    function navItemTemplate(item) {
+      const hasSummary = item.group === 'Lektionen' && item.summary && item.summary.trim().length > 0;
+      return `
+        <div class="border border-[color:var(--color-border)] rounded-[var(--radius-md)] bg-[color:var(--color-surface)] shadow-[var(--shadow-sm)]">
+          <button type="button"
+            class="nav-item btn w-full px-3 py-2 text-left text-sm flex items-center justify-between gap-2"
+            data-id="${item.id}">
+            <span class="truncate font-semibold text-[color:var(--color-text)]">${item.label}</span>
+            ${hasSummary ? '<span class="text-[10px] text-[color:var(--color-text-muted)]">Details</span>' : ''}
+          </button>
+          ${hasSummary ? `
+          <button type="button"
+            class="w-full text-xs text-left px-3 pb-2 pt-0 text-[color:var(--color-text-muted)] hover:text-[color:var(--color-primary)]"
+            data-summary-toggle="${item.id}">
+            <span class="inline-flex items-center gap-1">
+              <span aria-hidden="true">▸</span>
+              <span>Zusammenfassung anzeigen</span>
+            </span>
+          </button>
+          <div class="hidden px-3 pb-3 text-xs text-[color:var(--color-text-muted)] whitespace-pre-line"
+               data-summary-panel="${item.id}">
+            ${item.summary.replace(/</g, '&lt;')}
+          </div>
+          ` : ''}
+        </div>
+      `;
+    }
+
+    function groupBy(arr, key) {
+      return arr.reduce((acc, x) => {
+        const k = x[key];
+        acc[k] = acc[k] || [];
+        acc[k].push(x);
+        return acc;
+      }, {});
+    }
+
+    function renderNav(filtered = ALL) {
+      const groups = groupBy(filtered, 'group');
+      const order = ['Schriftübungen', 'Lektionen', 'Übungslösungen'];
+
+      navSections.innerHTML = order.map(groupName => {
+        const items = groups[groupName] || [];
+        if (!items.length) return '';
+        const isCollapsed = collapsedGroups.has(groupName);
+        return `
+          <section data-group="${groupName}">
+            <button type="button"
+              class="flex w-full items-center justify-between mb-2 text-[11px] font-semibold uppercase tracking-[0.2em] text-[color:var(--color-text-muted)]"
+              data-group-toggle="${groupName}">
+              <span>${groupName}</span>
+              <span>${isCollapsed ? '▸' : '▾'}</span>
+            </button>
+            <div class="space-y-2" style="${isCollapsed ? 'display:none;' : ''}">
+              ${items.map(navItemTemplate).join('')}
+            </div>
+          </section>
+        `;
+      }).join('');
+
+      countBadge.textContent = `${filtered.length} Dateien`;
+    }
+
+    // Initial: Summaries laden, dann Nav rendern
+    (async () => {
+      await loadSummaries();
+      renderNav();
+    })();
+
+    // Navigation / Toggles
+    navSections.addEventListener('click', (e) => {
+      const toggleGroup = e.target.closest('[data-group-toggle]');
+      if (toggleGroup) {
+        const groupName = toggleGroup.dataset.groupToggle;
+        if (collapsedGroups.has(groupName)) collapsedGroups.delete(groupName);
+        else collapsedGroups.add(groupName);
+        renderNav(ALL);
+        return;
+      }
+
+      const summaryToggle = e.target.closest('[data-summary-toggle]');
+      if (summaryToggle) {
+        const id = summaryToggle.dataset.summaryToggle;
+        const panel = navSections.querySelector(`[data-summary-panel="${id}"]`);
+        if (panel) {
+          const hidden = panel.classList.contains('hidden');
+          panel.classList.toggle('hidden', !hidden);
+          const texts = summaryToggle.querySelectorAll('span span');
+          const arrow = texts[0];
+          const label = texts[1];
+          if (hidden) {
+            if (arrow) arrow.textContent = '▾';
+            if (label) label.textContent = 'Zusammenfassung ausblenden';
+          } else {
+            if (arrow) arrow.textContent = '▸';
+            if (label) label.textContent = 'Zusammenfassung anzeigen';
+          }
+        }
+        return;
+      }
+
+      const btn = e.target.closest('button[data-id]');
+      if (btn) {
+        const id = btn.dataset.id;
+        const item = ALL.find(x => x.id === id);
+        if (item) loadItem(item);
+      }
+    });
+
+    const currentFile = document.getElementById('currentFile');
+
+    // Suche (inkl. Inhalte aus inhaltsverzeichnis.htm)
+    window.addEventListener('keydown', (e) => {
+      if (e.key === '/' && document.activeElement !== navSearch) {
+        e.preventDefault();
+        navSearch.focus();
+      }
+    });
+
+    navSearch.addEventListener('input', () => {
+      const q = navSearch.value.trim().toLowerCase();
+      if (!q) {
+        renderNav();
+        return;
+      }
+
+      const filtered = ALL.filter(x => {
+        const parts = [
+          x.group || '',
+          x.label || '',
+          x.filename || '',
+          x.summary || ''
+        ];
+        const hay = parts.join(' ').toLowerCase();
+        return hay.includes(q);
+      });
+
+      renderNav(filtered);
+    });
+
+    function getViewer() {
+      return document.getElementById('viewer');
+    }
+
+    function setActive(id) {
+      document.querySelectorAll('.nav-item').forEach(btn => {
+        btn.dataset.active = (btn.dataset.id === id) ? 'true' : 'false';
+      });
+    }
+
+    function cleanHtml(raw) {
+      let txt = raw;
+      txt = txt.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+      txt = txt.replace(/<style\b[^<]*(?:(?!<\/style>)<[^<]*)*<\/style>/gi, '');
+      txt = txt.replace(/<!DOCTYPE[^>]*>/gi, '');
+      txt = txt.replace(/<html[^>]*>/gi, '').replace(/<\/html>/gi, '');
+      txt = txt.replace(/<head[^>]*>[\s\S]*?<\/head>/gi, '');
+      txt = txt.replace(/<body[^>]*>/gi, '').replace(/<\/body>/gi, '');
+      return txt.trim();
+    }
+
+    function rewriteRelativeUrls(html, basePath) {
+      return html
+        .replace(/\s(href|src)\s*=\s*"([^"]+)"/gi, (m, attr, url) => {
+          const u = url.trim();
+          const isAbs = /^(https?:|data:|mailto:|javascript:|#)/i.test(u);
+          const isRoot = u.startsWith('/');
+          if (isAbs || isRoot) return m;
+          return ` ${attr}="${basePath}${u}"`;
+        })
+        .replace(/\s(href|src)\s*=\s*'([^']+)'/gi, (m, attr, url) => {
+          const u = url.trim();
+          const isAbs = /^(https?:|data:|mailto:|javascript:|#)/i.test(u);
+          const isRoot = u.startsWith('/');
+          if (isAbs || isRoot) return m;
+          return ` ${attr}='${basePath}${u}'`;
+        });
+    }
+
+    function postProcessAnchors(scopeEl) {
+      scopeEl.querySelectorAll('a[href]').forEach(a => {
+        const href = a.getAttribute('href') || '';
+
+        if (/^https?:\/\//i.test(href)) {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+          return;
+        }
+
+        const m = href.match(/^(lektion|schrift|uebung)(\d{2})\.htm$/i);
+        if (m) {
+          const [, typ, nr] = m;
+          const filename = `${typ.toLowerCase()}${nr}.htm`;
+          const item = ALL.find(x => x.filename.toLowerCase() === filename);
+          if (item) {
+            a.addEventListener('click', (e) => {
+              e.preventDefault();
+              loadItem(item);
+            });
+          }
+        }
+      });
+    }
+
+    async function loadItem(item) {
+      const path = BASE_PATH + item.filename;
+      currentFile.textContent = path;
+
+      setActive(item.id);
+
+      const oldViewer = getViewer();
+
+      const tmp = document.createElement('article');
+      tmp.className = oldViewer.className + ' fade-enter';
+      tmp.id = 'viewer';
+
+      tmp.innerHTML = `
+        <div class="prose prose-slate dark:prose-invert max-w-none">
+          <h2 class="font-display text-[length:var(--text-xl)]">${item.label}</h2>
+          <p class="text-sm text-[color:var(--color-text-muted)]">
+            Datei: <code class="font-mono text-[0.9em]">${path}</code>
+          </p>
+          <p class="text-sm text-[color:var(--color-text-muted)]">Lade Inhalt …</p>
+        </div>
+      `;
+
+      oldViewer.parentNode.replaceChild(tmp, oldViewer);
+
+      requestAnimationFrame(() => tmp.classList.add('fade-enter-active'));
+      setTimeout(() => tmp.classList.remove('fade-enter', 'fade-enter-active'), 200);
+
+      try {
+        const resp = await fetch(path, { cache: 'no-store' });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const raw = await resp.text();
+
+        let cleaned = cleanHtml(raw);
+        cleaned = rewriteRelativeUrls(cleaned, BASE_PATH);
+
+        tmp.innerHTML = `
+          <div class="prose prose-slate dark:prose-invert max-w-none">
+            ${cleaned || `<p class="text-sm text-[color:var(--color-text-muted)]">Keine darstellbaren Inhalte gefunden.</p>`}
+          </div>
+        `;
+
+        postProcessAnchors(tmp);
+      } catch (err) {
+        tmp.innerHTML = `
+          <div class="prose prose-slate dark:prose-invert max-w-none">
+            <h2 class="font-display text-[length:var(--text-xl)]">${item.label}</h2>
+            <p class="text-sm text-[color:var(--color-text-muted)]">
+              Datei: <code class="font-mono text-[0.9em]">${path}</code>
+            </p>
+            <div class="rounded-[var(--radius-md)] border border-[color:var(--color-border)] bg-[color:var(--color-surface-offset)] p-4">
+              <p class="text-sm">
+                <strong>Fehler beim Laden.</strong> Browser blockiert häufig <code>fetch()</code>, wenn du die Datei per <code>file://</code> öffnest.
+              </p>
+              <p class="text-sm text-[color:var(--color-text-muted)]">
+                Starte im Ordner mit dieser HTML-Datei einen lokalen Server:
+              </p>
+              <pre><code class="language-bash">python3 -m http.server 8000
+# dann öffnen: http://localhost:8000/sanskritkurs-inline-warm.html</code></pre>
+              <p class="text-sm text-[color:var(--color-text-muted)]">
+                Technische Meldung: <code class="font-mono text-[0.9em]">${String(err.message || err)}</code>
+              </p>
+            </div>
+          </div>
+        `;
+      }
+    }
+
+    // Start: Schriftübung 1
+    loadItem(schriftLessons[0]);
+  </script>
+</body>
+</html>
