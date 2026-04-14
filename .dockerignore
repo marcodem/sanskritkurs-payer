@@ -1,5 +1,8 @@
 node_modules
 .git
 .github
-Dockerfile
-.dockerignore
+# WICHTIG: Wir ignorieren deinen lokalen dist-Ordner!
+docs/.vitepress/dist
+# Und alles andere, was nicht Code ist
+*.log
+.DS_Store
