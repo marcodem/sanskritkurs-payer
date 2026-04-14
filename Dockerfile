@@ -2,6 +2,9 @@
 FROM node:20-alpine AS builder
 WORKDIR /app
 
+# Neu: npm global auf die aktuellster Version bringen
+RUN npm install -g npm@latest
+
 # Nur Package-Dateien kopieren für schnellen Cache
 COPY package*.json ./
 RUN npm install
