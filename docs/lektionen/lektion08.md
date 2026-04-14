@@ -157,7 +157,7 @@ Beispiele:
   
  
 
-<table><caption><b>Das Ur-Mantra Oṃ (ॐ) in verschiedenen indischen Schriften</b></caption><tbody><tr><td><p><img src="/images/lekt0803.jpg"><br>Abb.: In Devanāgarī<br>देवनागरी</p></td><td><p><img src="/images/lekt0807.jpg"><br>Abb.: In Bengali Schrift<br>বাংলা লিপি</p></td></tr><tr><td><p><img src="/images/lekt0802.jpg"><br>Abb.: In Kannaresischer Schrift<br>ಕನ್ನಡ</p></td><td><p><img src="/images/lekt0804.jpg"><br>Abb.: In Tamil-Schrift<br>தமிழ் அரிச்சுவடி</p></td></tr><tr><td><p><img src="/images/lekt0805.jpg"><br>Abb.: In Malayalam-Schrift<br>മലയാളം</p></td><td><p><img src="/images/lekt0808.jpg"><br>Abb.: Jaina-Oṃ<br>&nbsp;</p></td></tr><tr><td colspan="2">[Bildquelle für alle Oṃs: Wikipedia, Public domain]</td></tr></tbody></table>
+<table><caption>**Das Ur-Mantra Oṃ (ॐ) in verschiedenen indischen Schriften**</caption><tbody><tr><td><img src="/images/lekt0803.jpg"><br>Abb.: In Devanāgarī<br>देवनागरी</td><td><img src="/images/lekt0807.jpg"><br>Abb.: In Bengali Schrift<br>বাংলা লিপি</td></tr><tr><td><img src="/images/lekt0802.jpg"><br>Abb.: In Kannaresischer Schrift<br>ಕನ್ನಡ</td><td><img src="/images/lekt0804.jpg"><br>Abb.: In Tamil-Schrift<br>தமிழ் அரிச்சுவடி</td></tr><tr><td><img src="/images/lekt0805.jpg"><br>Abb.: In Malayalam-Schrift<br>മലയാളം</td><td><img src="/images/lekt0808.jpg"><br>Abb.: Jaina-Oṃ<br> </td></tr><tr><td colspan="2">[Bildquelle für alle Oṃs: Wikipedia, Public domain]</td></tr></tbody></table>
 
 ### 8.3.4. -ti f. (kṛt)
 

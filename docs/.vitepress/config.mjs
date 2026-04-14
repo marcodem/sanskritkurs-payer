@@ -4,30 +4,21 @@ import path from 'path'
 
 // Auto-Navigation Generator
 function getSidebarItems(prefix, labelTitle, groupSize = 0) {
-  const lektionenDir = path.join(__dirname, '../lektionen');
+  const lektionenDir = path.resolve(__dirname, '../lektionen');
   if (!fs.existsSync(lektionenDir)) return [];
   
   const files = fs.readdirSync(lektionenDir).filter(f => f.startsWith(prefix) && f.endsWith('.md'));
-  
-  // Sortiere alphabetisch/numerisch
   files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
   
-  const items = files.map(file => {
-    let text = file.replace('.md', '');
-    text = text.replace(new RegExp('^' + prefix + '0*', 'i'), labelTitle + ' ');
-    
-    return {
-      text: text.trim(),
-      link: `/lektionen/${file.replace('.md', '')}`
-    }
-  });
+  const items = files.map(file => ({
+    text: file.replace('.md', '').replace(new RegExp('^' + prefix + '0*', 'i'), labelTitle + ' ').trim(),
+    link: `/lektionen/${file.replace('.md', '')}`
+  }));
 
-  // Wenn Gruppierung erwünscht ist und wir genug Items haben
-  if (groupSize > 0 && items.length > groupSize) {
+  if (groupSize > 0 && items.length > 0) {
     const groups = [];
     for (let i = 0; i < items.length; i += groupSize) {
       const chunk = items.slice(i, i + groupSize);
-      // Nimm nur die Nummer/Suffix aus dem formatierten Namen für den Titel (z.B. "10")
       const startText = chunk[0].text.split(' ').pop();
       const endText = chunk[chunk.length - 1].text.split(' ').pop();
       
@@ -39,7 +30,6 @@ function getSidebarItems(prefix, labelTitle, groupSize = 0) {
     }
     return groups;
   }
-
   return items;
 }
 
@@ -49,55 +39,31 @@ export default defineConfig({
   cleanUrls: true,
   
   themeConfig: {
-    outline: {
-      level: [2, 3],
-      label: 'Auf dieser Seite'
-    },
-    
-    search: {
-      provider: 'local',
-      options: {
-        locales: {
-          root: { translations: { button: { buttonText: 'Suchen' } } }
-        }
-      }
-    },
+    outline: { level: [2, 3], label: 'Auf dieser Seite' },
+    search: { provider: 'local', options: { locales: { root: { translations: { button: { buttonText: 'Suchen' } } } } } },
     
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
-      { text: 'Impressum', link: '/impressum' },
-      { text: 'Lizenzen', link: '/licenses' }
+      { text: 'Themen-Index', link: '/grammatik' },
+      { text: 'Impressum', link: '/impressum' }
     ],
     
+    docFooter: {
+      prev: 'Vorherige Lektion',
+      next: 'Nächste Lektion'
+    },
+
     sidebar: [
-      {
-        text: 'Inhaltsverzeichnis',
-        link: '/lektionen/inhaltsverzeichnis'
-      },
-      {
-        text: 'Lektionen',
-        collapsed: false,
-        items: getSidebarItems('lektion', 'Lektion', 10)
-      },
-      {
-        text: 'Schrift (Einführung)',
-        collapsed: true,
-        items: getSidebarItems('schrift', 'Schrift')
-      },
-      {
-        text: 'Übungen',
-        collapsed: true,
-        items: getSidebarItems('uebung', 'Übung', 10)
-      },
-      {
-        text: 'Rechtliches',
-        collapsed: true,
-        items: [
+      { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
+      { text: 'Grammatik Themen (Index)', link: '/grammatik' },
+      { text: 'Lektionen', collapsed: false, items: getSidebarItems('lektion', 'Lektion', 10) },
+      { text: 'Schrift (Einführung)', collapsed: true, items: getSidebarItems('schrift', 'Schrift') },
+      { text: 'Übungen', collapsed: true, items: getSidebarItems('uebung', 'Übung', 10) },
+      { text: 'Rechtliches', collapsed: true, items: [
           { text: 'Impressum & Zitieren', link: '/impressum' },
           { text: 'Bildlizenzen (Audit)', link: '/licenses' }
-        ]
-      }
+      ]}
     ],
 
     footer: {

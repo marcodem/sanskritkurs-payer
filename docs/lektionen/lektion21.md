@@ -24,14 +24,14 @@ Beispiele:
 > "Während Vater liest, raucht er = der lesende Vater raucht"  
 > "ein seiender (= wirklicher, echter) Freund"
 
-<table><tbody><tr><td colspan="3"><b>Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:</b><p>&nbsp;</p></td></tr><tr><td><b>Maskulinum, Neutrum</b></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><b>starker Stamm</b></td><td><b>Präsensstamm + -nt-</b></td></tr><tr><td>&nbsp;</td><td><b>schwacher Stamm</b></td><td><b>Präsensstamm + -t-</b></td></tr><tr><td><b>Femininum</b></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><b>Präsensstamm + -nt- + -ī (Deklination wie देवी)</b></td></tr><tr><td>&nbsp;</td><td><b>6. Präsensklasse</b></td><td><b>Präsensstamm + -nt- + -ī</b><p><b>oder:</b></p><p><b>Präsensstamm + -t- + -ī</b></p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">**Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** </td></tr><tr><td>**Maskulinum, Neutrum**</td><td> </td><td> </td></tr><tr><td> </td><td>**starker Stamm**</td><td>**Präsensstamm + -nt-**</td></tr><tr><td> </td><td>**schwacher Stamm**</td><td>**Präsensstamm + -t-**</td></tr><tr><td>**Femininum**</td><td> </td><td> </td></tr><tr><td> </td><td> </td><td>**Präsensstamm + -nt- + -ī (Deklination wie देवी)**</td></tr><tr><td> </td><td>**6. Präsensklasse**</td><td>**Präsensstamm + -nt- + -ī****oder:**<br>**Präsensstamm + -t- + -ī**</td></tr></tbody></table>
 
 Beispiele:
 
 1\. Präsensklasse:
 
 > यजब्त् "ein mit einem Opfer verehrender"
-> 
+>
 > |   |   | Maskulinum  
 > पुंस् | Neutrum  
 > नपुंसक | Femininum  
@@ -84,14 +84,14 @@ Beispiele:
 > *   Neutrum Nom. Akk. sg. विशत्
 > *   Femininum Nom. sg. विशन्ती । विशती
 
-<table><tbody><tr><td colspan="3"><b>Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):</b><p>&nbsp;</p></td></tr><tr><td><b>Maskulinum, Neutrum</b></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td><b>starker Stamm</b></td><td><b>Präsensstamm + -ant-</b></td></tr><tr><td>&nbsp;</td><td><b>schwacher Stamm</b></td><td><b>Präsensstamm + -at-</b><p><b>Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P</b></p></td></tr><tr><td><b>Femininum</b></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td><b>Präsensstamm + -at- + -ī (Deklination wie देवी)</b></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">**Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** </td></tr><tr><td>**Maskulinum, Neutrum**</td><td> </td><td> </td></tr><tr><td> </td><td>**starker Stamm**</td><td>**Präsensstamm + -ant-**</td></tr><tr><td> </td><td>**schwacher Stamm**</td><td>**Präsensstamm + -at-****Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P**</td></tr><tr><td>**Femininum**</td><td> </td><td> </td></tr><tr><td> </td><td> </td><td>**Präsensstamm + -at- + -ī (Deklination wie देवी)**</td></tr></tbody></table>
 
 Beispiele:
 
 2\. Präsensklasse:
 
 > अस् "sein": सन्त् "seiend, echter, guter, wahrer"
-> 
+>
 > |   |   | Maskulinum  
 > पुंस् | Neutrum  
 > नपुंसक | Femininum  

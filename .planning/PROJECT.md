@@ -51,8 +51,8 @@ Das Original-Material existiert bereits in Form von `.htm` Dateien (z.B. Lektion
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| SSG (VitePress oder MkDocs) | Bester Mix aus Auto-Navigation, Volltextsuche und statischem Deployment. | — Pending |
-| Markdown als Ziel-Quellformat | Dauerhaft leichter zu pflegen, standardisiert für alle modernen Dokumentations Tools. | — Pending |
+| SSG (VitePress) | Bester Mix aus Auto-Navigation, Volltextsuche und statischem Deployment. | — Finished (Phase 2) |
+| Markdown als Ziel-Quellformat | Dauerhaft leichter zu pflegen, standardisiert für alle modernen Dokumentations Tools. | — Finished (Phase 1) |
 
 ## Evolution
 

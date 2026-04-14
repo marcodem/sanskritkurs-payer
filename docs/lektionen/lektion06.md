@@ -123,11 +123,11 @@ yaj =  यज् = "mit einem Opfer verehren", "opfern"
 
 ### 6.5.1. Verben der 6. Präsensklasse (tudādi = तुदादि = "tud usw.")
 
-<table><tbody><tr><td colspan="2"><b>Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-</b></td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Präsensstamm</th></tr><tr><th>viś<br>विश्</th><th>viśa-<br>विश-</th></tr><tr><th>sṛj<br>सृज्</th><th>sṛja-<br>सृज</th></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**</td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Präsensstamm</th></tr><tr><th>viś<br>विश्</th><th>viśa-<br>विश-</th></tr><tr><th>sṛj<br>सृज्</th><th>sṛja-<br>सृज</th></tr></tbody></table>
 
 ### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū usw.")
 
-<table><tbody><tr><td colspan="4"><b>Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a-</b></td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Hochstufe</th><th>Hochstufe vor a-</th><th>Präsensstamm</th></tr><tr><th>bhū<br>भू</th><th>bho<br>भो</th><th>bhav<br>भव्</th><th>bhava-<br>भव-</th></tr><tr><th>nī<br>नी</th><th>ne<br>ने</th><th>nay<br>नय्</th><th>naya-<br>नय-</th></tr><tr><th>smṛ<br>स्मृ</th><th>smar<br>स्मर्</th><th>smar<br>स्मर्</th><th>smara-<br>स्मर-</th></tr><tr><th>yaj<br>यज्</th><th>yaj<br>यज्</th><th>yaj<br>यज्</th><th>yaja-<br>यज-</th></tr><tr><th colspan="4">Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten , unterbleibt die Bildung der Hochstufe</th></tr><tr><th>nind<br>निन्द्</th><th>nind<br>निन्द्</th><th>nind<br>निन्द्</th><th>ninda-<br>निन्द-</th></tr></tbody></table>
+<table><tbody><tr><td colspan="4">**Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a-**</td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Hochstufe</th><th>Hochstufe vor a-</th><th>Präsensstamm</th></tr><tr><th>bhū<br>भू</th><th>bho<br>भो</th><th>bhav<br>भव्</th><th>bhava-<br>भव-</th></tr><tr><th>nī<br>नी</th><th>ne<br>ने</th><th>nay<br>नय्</th><th>naya-<br>नय-</th></tr><tr><th>smṛ<br>स्मृ</th><th>smar<br>स्मर्</th><th>smar<br>स्मर्</th><th>smara-<br>स्मर-</th></tr><tr><th>yaj<br>यज्</th><th>yaj<br>यज्</th><th>yaj<br>यज्</th><th>yaja-<br>यज-</th></tr><tr><th colspan="4">Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten , unterbleibt die Bildung der Hochstufe</th></tr><tr><th>nind<br>निन्द्</th><th>nind<br>निन्द्</th><th>nind<br>निन्द्</th><th>ninda-<br>निन्द-</th></tr></tbody></table>
 
 ### 6.5.2.1. Wortsandhi von e und o
 
@@ -151,7 +151,7 @@ Vṛddhi f.
 
 ### 6.5.3. Verben der 4. Präsensklasse (divādi = दिवादि = "div usw.")
 
-<table><tbody><tr><td colspan="2"><b>Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-</b></td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Präsensstamm</th></tr><tr><th>nṛt<br>नृत्</th><th>nṛtya-<br>नृत्य-</th></tr><tr><th>muh<br>मुह्</th><th>muhya-<br>मुह्य-</th></tr><tr><th>yudh<br>युध्</th><th>yudhya-<br>युध्य-</th></tr><tr><th>man<br>मन्</th><th>manya-<br>मन्य-</th></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**</td></tr><tr><th>Wurzel<br>dhātu m.<br>धातु</th><th>Präsensstamm</th></tr><tr><th>nṛt<br>नृत्</th><th>nṛtya-<br>नृत्य-</th></tr><tr><th>muh<br>मुह्</th><th>muhya-<br>मुह्य-</th></tr><tr><th>yudh<br>युध्</th><th>yudhya-<br>युध्य-</th></tr><tr><th>man<br>मन्</th><th>manya-<br>मन्य-</th></tr></tbody></table>
 
 ### 6.5.4. Themavokal, thematische Präsensklassen
 

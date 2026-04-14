@@ -10,8 +10,8 @@ hero:
       text: Kurs Starten
       link: /lektionen/lektion01
     - theme: alt
-      text: Inhaltsverzeichnis
-      link: /lektionen/lektion01
+      text: Grammatik Themen
+      link: /grammatik
 
 features:
   - title: Devanāgarī ready

@@ -27,7 +27,7 @@
 
 ## 58.1. Die Primärendungen des Dual (द्विवचनम्)
 
-<table><tbody><tr><td>&nbsp;</td><th><b>परस्मैपदम्</b></th><th colspan="2">आत्मनेपदम्</th></tr><tr><td>&nbsp;</td><th>&nbsp;</th><th>thematisch</th><th>athematisch</th></tr><tr><td><b>1. तृतीयः</b></td><td>-vas</td><td colspan="2">-vahe</td></tr><tr><td><b>2. मध्यमः</b></td><td>-thas</td><td>-īthe</td><td>-āthe</td></tr><tr><td><b>3. प्रथमः</b></td><td>-tas</td><td>-īte</td><td>-āte</td></tr></tbody></table>
+<table><tbody><tr><td> </td><th>**परस्मैपदम्**</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th> </th><th>thematisch</th><th>athematisch</th></tr><tr><td>**1. तृतीयः**</td><td>-vas</td><td colspan="2">-vahe</td></tr><tr><td>**2. मध्यमः**</td><td>-thas</td><td>-īthe</td><td>-āthe</td></tr><tr><td>**3. प्रथमः**</td><td>-tas</td><td>-īte</td><td>-āte</td></tr></tbody></table>
 
 ## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (लट्)
 
@@ -284,7 +284,7 @@ Augment + Wurzel + i + s + athematische Sekundärendung
 
 Stammbildungssuffix + Endungen  des iṣ-Aorist lauten also:
 
-<table><tbody><tr><td>&nbsp;</td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td>&nbsp;</td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td><b>1. तृतीयः</b></td><td><b>-iṣam</b></td><td><b>-iṣma</b></td><td><b>-iṣi</b></td><td><b>-iṣmahi</b></td></tr><tr><td><b>2. द्वितीयः</b></td><td><b>-īs</b></td><td><b>-iṣṭa</b></td><td><b>-iṣṭhās</b></td><td><b>-idhvam /<br>-iḍhvam<br></b>(wahlweise nach -h oder Halbvokal)</td></tr><tr><td><b>3. प्रथमः</b></td><td><b>-īt</b></td><td><b>-iṣur</b></td><td><b>-iṣṭa</b></td><td><b>-iṣata</b></td></tr></tbody></table>
+<table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>**-iṣam**</td><td>**-iṣma**</td><td>**-iṣi**</td><td>**-iṣmahi**</td></tr><tr><td>**2. द्वितीयः**</td><td>**-īs**</td><td>**-iṣṭa**</td><td>**-iṣṭhās**</td><td>**-idhvam /<br>-iḍhvam<br>**(wahlweise nach -h oder Halbvokal)</td></tr><tr><td>**3. प्रथमः**</td><td>**-īt**</td><td>**-iṣur**</td><td>**-iṣṭa**</td><td>**-iṣata**</td></tr></tbody></table>
 
 Form der Wurzel:
 
@@ -317,15 +317,15 @@ Paradigmen:
 
 पू 9U "reinigen"
 
-> <table><tbody><tr><td>&nbsp;</td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td>&nbsp;</td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td><b>1. तृतीयः</b></td><td>अपाविषम्</td><td>पाविष्म</td><td>अपविषि</td><td>अपविष्महि</td></tr><tr><td><b>2. द्वितीयः</b></td><td>अपावीस्</td><td>अपाविष्ट</td><td>अपविष्ठास्</td><td>अपविध्वम् /<br>अपविढ्वम्</td></tr><tr><td><b>3. प्रथमः</b></td><td>अपावीत्</td><td>अपाविषुर्</td><td>अपविष्ट</td><td>पविषत</td></tr></tbody></table>
+> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अपाविषम्</td><td>पाविष्म</td><td>अपविषि</td><td>अपविष्महि</td></tr><tr><td>**2. द्वितीयः**</td><td>अपावीस्</td><td>अपाविष्ट</td><td>अपविष्ठास्</td><td>अपविध्वम् /<br>अपविढ्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अपावीत्</td><td>अपाविषुर्</td><td>अपविष्ट</td><td>पविषत</td></tr></tbody></table>
 
 बुध् 1U  "erwachen, erkennen"
 
-> <table><tbody><tr><td>&nbsp;</td><th colspan="2">परस्मैपदम्</th></tr><tr><td>&nbsp;</td><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td><b>1. तृतीयः</b></td><td>अबोधिषम्</td><td>अबोधिष्म</td></tr><tr><td><b>2. द्वितीयः</b></td><td>अबोधीस्</td><td>अबोधिष्ट</td></tr><tr><td><b>3. प्रथमः</b></td><td>अबोधीत्</td><td>अबोधिषुर्</td></tr></tbody></table>
+> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अबोधिषम्</td><td>अबोधिष्म</td></tr><tr><td>**2. द्वितीयः**</td><td>अबोधीस्</td><td>अबोधिष्ट</td></tr><tr><td>**3. प्रथमः**</td><td>अबोधीत्</td><td>अबोधिषुर्</td></tr></tbody></table>
 
 कॢप् 1Ā "passend sein"
 
-> <table><tbody><tr><td>&nbsp;</td><th colspan="2">आत्मनेपदम्</th></tr><tr><td>&nbsp;</td><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td><b>1. तृतीयः</b></td><td>अकल्पिषि</td><td>अकल्पिष्महि</td></tr><tr><td><b>2. द्वितीयः</b></td><td>अकल्पिष्ठास्</td><td>अकल्पिध्वम्</td></tr><tr><td><b>3. प्रथमः</b></td><td>अकल्पिष्ट</td><td>अकल्पिषत</td></tr></tbody></table>
+> <table><tbody><tr><td> </td><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अकल्पिषि</td><td>अकल्पिष्महि</td></tr><tr><td>**2. द्वितीयः**</td><td>अकल्पिष्ठास्</td><td>अकल्पिध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अकल्पिष्ट</td><td>अकल्पिषत</td></tr></tbody></table>
 
 Besonderheiten:
 

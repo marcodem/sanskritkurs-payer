@@ -201,7 +201,7 @@ Abb.: क्व ?
 
  
 
-<table><tbody><tr><td colspan="2"><b>Weitere Adverbialsuffixe</b></td></tr><tr><td>-वत्</td><td><b>kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"</b><p><b>&nbsp;</b>z.B. पुत्रवत् "wie ein(en) Sohn"</p></td></tr><tr><td>-तस्</td><td><b>an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"</b><p>z.B. आदितस् "von Anfang an"</p></td></tr><tr><td>-धा</td><td><ol><li><b>Bei Zahladverbien in der Bedeutung "-fach", "-fältig"<br></b>z.B. द्विधा "zweifach"<br>&nbsp;</li><li><b>in der Bedeutung "in der und der Weise"<br></b>z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")</li></ol></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**Weitere Adverbialsuffixe**</td></tr><tr><td>-वत्</td><td>**kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie"**** **z.B. पुत्रवत् "wie ein(en) Sohn"</td></tr><tr><td>-तस्</td><td>**an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?"**z.B. आदितस् "von Anfang an"</td></tr><tr><td>-धा</td><td><ol><li>**Bei Zahladverbien in der Bedeutung "-fach", "-fältig"<br>**z.B. द्विधा "zweifach"<br> </li><li>**in der Bedeutung "in der und der Weise"<br>**z.B. समधा "in gleicher Weise" (zu सम 3 "gleich")</li></ol></td></tr></tbody></table>
 
 ## 37.5. Adverbiale Komposita
 

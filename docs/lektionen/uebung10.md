@@ -1,518 +1,356 @@
 > [!INFO] Zitierweise & Rechte
 > Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
-# Lösung der Übungen
+# Übung Lektion 10
 
-## Übungen Lektion 1 - 5
+A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform), d.h. das Passiv, das der Verbform in Person und Zahl entspricht:
 
-## Übung Lektion 2
+1.  sṛjati सृजति : sṛjyate सृज्यते
+2.  yudhyate युध्यते : yudhyate युध्यते
+3.  bhavanti भवन्ति : bhūyante भूयन्ते
+4.  yajati यजति : ijyate इज्यते
+5.  nṛtyati नृत्यति : nṛtyate नृत्यते
+6.  nayanti नयन्ति : nīyante नीयन्ते
+7.  smarati स्मरति : smaryate स्मर्यते
+8.  śṛṇvanti शृण्वन्ति : śrūyante श्रूयन्ते
+9.  pāśyati पश्यति (Passiv wird von dṛś gebildet!) : dṛśyate दृश्यते
+10.  jayanti जयन्ति : jīyante जीयन्ते
+11.  kurvate कुर्वते : kriyante क्रियन्ते
+12.  āpnuvanti आप्नुवन्ति : āpyante आप्यन्ते
+13.  viśati विशति : viśyate विश्यते
+14.  khādanti खादन्ति : khādyante खाद्यन्ते
+15.  sunoti सुनोति : sūyate सूयन्ते
+16.  gacchati गच्छति : gamyate गम्यते
+17.  manyante मन्यन्ते : manyante मन्यन्ते
+18.  labhante लभन्ते : labhyante लभ्यन्ते
+19.  rakṣanti रक्षन्ति : rakṣyante रक्ष्यन्ते
+20.  vadanti वदन्ति : udyante उद्यन्ते
+21.  pṛcchanti पृच्छन्ति : pṛcchyante पृच्छ्यन्ते
+22.  tanvanti तन्वन्ति (2 Formen!) : tanyante / tāyante तन्यन्ते तायन्ते
 
-A) Setzen Sie in den folgenden Sätzen unter Beachtung des Sandhi die angegebenen Namen und Nomina ein und bilden Sie Nominalsätze:
+B) Bilden Sie den Instrumentalis singular und plural zu allen bisher gelernten Nomina
 
-1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = देवस् ... (शिव, अग्नि, विष्णु, गणेश, कृष्ण, इन्द्र)
+C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:
 
-devaḥ śivaḥ. devo 'gniḥ. devo viṣṇuḥ. devo gaṇeśaḥ. devaḥ kṛṣṇaḥ. deva indra.
+1\. brāhmaṇo devīm yajati. ब्राह्मणो देवीं यजति |
 
-देवः शिवः | देवो ऽग्निः | देवो विष्णुः | देवो गणेशः | देवः कृष्णः | देव इन्द्रः ||
+brāhmaṇena devījyate.
 
-2\. dvijas ... (brāhmaṇa, kṣatriya, vaiśya) = द्विजस् ... (ब्राह्मण, क्षत्रिय, वैश्य)
+ब्राह्मणेन देवीज्यते ।
 
-dvijo brāhmaṇaḥ. dvijaḥ kṣatriyaḥ. dvijo vaiśyaḥ.
+2\. sādhuḥ svargaṃ gacchati. साधुः स्वर्गं गच्छति |
 
-द्विजो ब्राह्मणः | द्विजः क्षत्रियः | द्विजो वैश्यः ||
+sādhunā svargaṃ / svargo gamyate.
 
-3\. gurus ... (brāhmaṇa, Candrakīrti) = गुरुस् ... (ब्राह्मण, चन्द्रकीर्ति)
+साधुना स्वर्गं गम्यते । साधुना स्वर्गो गम्यते ।
 
-gurur brāhmaṇaḥ. guruś candrakīrtiḥ.
+3\. śūdraṃ jayati. शूद्रं जयति |
 
-गुरुर्ब्राह्मणः | गुरुश्चन्द्रकीर्तिः ||
+śūdro jīyate.
 
-4\. vaiśyas ... (Tulādhara) = वैश्यस् ... (तुलाधर)
+शूद्रो जीयते ।
 
-vaiśyas tulādharaḥ.
+4\. guruḥ phalāni khādati. गुरुः फलानि खादति |
 
-वैश्यस्तुलाधरः ||
+guruṇā phalāni khādyante.
 
-5\. sādhus ... (guru, Rāma) = साधुस् ... (गुरु, राम)
+गुरुना फलानि खाद्यन्ते ।
 
-sādhur guruḥ. sādhū rāmaḥ.
+5\. gurūñchṛṇoti. गुरूञ्छृणोति |
 
-साधुर्गुरुः | साधू रामः ||
+guravaḥ śrūyante.
 
-6\. kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva) = कविस् ... (कालिदास, माघ, भारवि, हर्षदेव)
+गुरवः श्रूयन्ते ।
 
-kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
+6\. ko 'gniṃ paśyati. को ऽग्निं पश्यति |
 
-कविः कालिदासः | कविर्माघः | कविर्भारविः | कविर्हर्षदेवः ||
+kenāgnir dṛśyate.
 
-B) Übersetzen Sie ins Sanskrit:
+केनाग्निर्दृश्यते ।
 
-1\. Rāma ist ein Brahmane.
+7\. ayaṃ kavirmantraṃ smarati. अयं कविर्मन्त्रं स्मरति |
 
-brāhmaṇo rāmaḥ.
+anena kavinā mantraḥ smaryate.
 
-ब्राह्मणो रामः |
+अनेन कविना मन्त्रः स्मर्यते ।
 
-2\. Der Lehrer ist ein vaiśya.
+8\. iyaṃ devī kṣatriyā rakṣati. इयं देवी क्त्रिया रक्षति |
 
-vaiśyo guruḥ.
+anayā devyā kṣatriyā rakṣyante.
 
-वैश्यो गुरुः |
+अनया देव्या क्षत्रिया रक्ष्यन्ते ।
 
-3\. Der Śūdra ist ein heiliger Mann.
+9\. kṣatriyā viṣṇuṃ yajante. क्षत्रिया विष्णुं यजन्ते | (2 Möglichkeiten)
 
-sādhuḥ śūdraḥ.
+kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
-साधुः शूद्रः |
+क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।
 
-4\. Der Dichter ist der Lehrer.
+10\. brāhmaṇo 'gniṃ karoti. ब्राह्मणो ऽग्निं करोति |
 
-guruḥ kaviḥ.
+brāhmaṇenāgniḥ kriyate.
 
-गुरुः कविः |
+ब्राह्मणेनाग्निः क्रियते ।
 
-5\. Viṣṇu ist der HERR.
+11\. vaiśyā imaṃ grāmaṃ gacchanti. वैश्या इमं ग्रामं गच्छन्ति | (2 Möglichkeiten)
 
-īśvaro viṣṇuḥ.
+vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
-ईश्वरो विष्णुः |
+वैश्यैरिमं ग्रामं गम्यते । वैश्यैरयं ग्रामो गम्यते । वैश्याभिरिमं ग्रामं गम्यते । वैश्याभिरयं ग्रामो गम्यते ।
 
-6\. Der HERR ist Śiva.
+Vaiśyas / Vaiśyafrauen gehen in dieses Dorf.
 
-śiva īśvaraḥ.
+12\. ete gurūṃstu śṛṇvanti. एते गुरूंस्तु शृण्वन्ति |
 
-शिव ईश्वरः |
+etair guravas tu śrūyante.
 
-7\. Der Zweimalgeborene ist ein Brahmane.
+एतैर्गुरवस्तु श्रूयन्ते ।
 
-brāhmaṇo dvijaḥ.
+Sie hören aber auf ihre Meister.
 
-ब्राह्मणो द्विजः |
+13\. sādhuḥ svargamāpnoti. साधुः स्वर्गमाप्नोति |
 
-8\. Der heilige Mann ist ein Lehrer.
+sādhunā svarga āpyate.
 
-guruḥ sādhuḥ.
+साधुना स्वर्ग आप्यते ।
 
-गुरुः साधुः |
+Ein Heiliger aerlangt den Himmel.
 
-9\. Der Lehrer ist ein heiliger Mann.
+14\. brāhmāṇāḥ somaṃ sunvanti. ब्राह्मणाः सोमं सुन्वन्ति |
 
-sādhur guruḥ.
+brāhmaṇaiḥ somaḥ sūyate.
 
-साधुर्गुरुः ||
+ब्राह्मणैः सोमः सूयते ।
 
-![](/images/uebung002.jpg)  
-Abb.: īśvaraḥ śivaḥ = ईश्वरः शिवः  
-Śiva als Adrdhnārīśvara (अर्धनारीश्वर), d.h. in der Gestalt von halb Mann, halb Frau  
-\[Bildquelle: Wikipedia, Public domain\]
+Brahmanen pressen Soma.
 
-## Übung Lektion 3
+15\. paśūṃllabhate. पशूल्ंलभते |
 
-A) Setzen Sie folgende Sätze in den Plural:
+paśavo labhyante.
 
-1\. dvijo brāhmaṇaḥ = द्विजो ब्राह्मणः
+पशवो लभ्यन्ते ।
 
-dvijā brāhmaṇāḥ.
+Man bekommt Haustiere.
 
-द्वि्जा ब्राह्मणाः |
+16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. के योधाः क्षत्रियैः सह युध्यन्ते |
 
-2\. dvijaḥ kṣatriyaḥ = द्विजः क्षत्रियः
+kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
-dvijāḥ kṣatriyāḥ.
+कैर्योधैः क्षत्रियैः सह युध्यते ॥
 
-द्विजाः क्षत्रियाः |
-
-3\. dvijo vaiśyaḥ = द्विजो वैश्यः
-
-dvijā vaiśyāḥ.
-
-द्विजा वैश्याः |
-
-4\. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-
-guravo brāhmaṇāḥ.
-
-गुरवो ब्राह्मणाः |
-
-5\. sādhur guruḥ = साधुर्गुरुः
-
-sādhavo guravaḥ.
-
-साधवो गुरवः |
-
-6\. guruḥ kaviḥ = गुरुः कविः
-
-guravaḥ kavayaḥ.
-
-गुरवः कवयः |
-
-7\. sādhvī brāhmaṇī = साध्वी ब्राह्मणी
-
-sādhvyo brāhmaṇyaḥ.
-
-साध्व्यो ब्राह्मण्यः |
-
-8\. devatā guruḥ = देवता गुरुः
-
-devatā guravaḥ.
-
-देवता गुरवः |
-
-9\. paśur dhenuḥ = पशुर्धेनुः
-
-paśavo dhenavaḥ.
-
-पशवो धेनवः |
-
-10\. gurvī sādhvī = गुर्वी साध्वी
-
-gurvyaḥ sādhvyaḥ.
-
-गुर्व्यः साध्व्यः ||
-
-B) Bilden Sie durch Einsetzen Nominalsätze:
-
-1\. śrutis ... (veda) = श्रुतिस् ... वेद
-
-śrutir vedaḥ.
-
-श्रुतिर्वेदः |
-
-2\. paśus ... (dhenu) = पशुस् ... धेनु
-
-paśur dhenuḥ.
-
-पशुर्धेनुः |
-
-3\. devī ... (durgā, umā, indrāṇī) = देवी ... दुर्गा, उमा, इन्द्राणी
-
-devī durgā. devy umā. devīndrāṇī.
-
-देवी दुर्गा | देव्युमा | देवीन्द्राणी |
-
-4\. devatā ... (mīnākṣī, annapūrṇā) = देवता ... मीनाक्षी, अन्नपूर्णा
-
-devatā mīnākṣī. devatānnapūrṇā.
-
-देवता मीनाक्षी | देवतान्नपूर्णा |
-
-5\. śūdrā ... (itarā) = शूद्र ... इतरा
-
-śūdretarā.
-
-शूद्रेतरा ||
-
-C) Übertragen Sie ins Femininum:
-
-1\. gurur brāhmaṇaḥ = गुरुर्ब्राह्मणः
-
-gurvī brāhmaṇī.
-
-गुर्वी ब्राह्मणी |
-
-2\. sādhur guruḥ = साधुर्गुरुः
-
-sādhvī gurvī.
-
-साध्वी गुर्वी |
-
-3\. kṣatriyaḥ sādhuḥ = क्षत्रियः साधुः
-
-kṣatriyā sādhvī.
-
-क्षत्रिया साध्वी ||
+Welche Soldaten kämpfen (zusammen) mit den Kṣatriyas?
 
 D) Übersetzen Sie ins Sanskrit:
 
-1\. Umā ist eine Göttin.
+1\. Ein Brahmane geht mit einem Vaiśya ins Dorf.
 
-devy umā.
+brāhmano vaiśyena saha grāmaṃ gacchati.
 
-देव्युमा |
+ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।
 
-2\. Der Veda ist śruti.
+2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!)
 
-śrutir vedaḥ.
+yajñena viṣṇuṃ yajati / yajate.
 
-श्रुतिर्वेदः |
+यज्ञेन विष्णुं यजति / यजते ।
 
-3\. Die Lehrerinnen sind Göttinnen.
+3\. Der Veda wird śruti genannt. (vad)
 
-devyo gurvyaḥ.
+vedaḥ śrutir (ity) udyate.
 
-देव्यो गुर्व्यः
+वेदः श्रुतिरित्युद्यते ।
 
-4\. Milchkühe sind domestizierte Tiere.
+4\. Man spannt die Webkette auf. (2 Möglichkeiten)
 
-paśavo dhenavaḥ.
+tantraṃ tanyate / tāyate / tanvanti.
 
-पशवो धेनवः |
+तन्त्रं तन्यते / तायते / तन्वन्ति ।
 
-5\. Dichter sind Lehrer.
+5\. Lehrer fragen. (Passivkonstruktion)
 
-guravaḥ kavayaḥ.
+gurubhiḥ pṛcchyate.
 
-गुरवः कवयः |
+गुरुभिः प्र्च्छ्यते ।
 
-6\. Kṣatriyas sind Zweimalgeborene.
+6\. Das Auge führt. (Passivkonstruktion) (Auge und Ohr werden sonst normalerweise im Dual verwendet)
 
-dvijāḥ kṣatriyāḥ.
+netreṇa nīyate.
 
-द्वि्जाः क्षत्रियाः |
+नेत्रेण नीयते ।
 
-7\. Die heiligen Männer sind Śūdras.
+7\. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
 
-śūdrāḥ sādhavaḥ.
+kavinā devatā dṛśyate.
 
-शूद्राः साधवः ||
+कविना देवता दृश्यते ।
 
-![](/images/uebung001.jpg)  
-paśur dhenuḥ =  पशुर्धेनुः  
-Indische Zeburinder bei Bangalore  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/529395270/](http://www.flickr.com/photos/mckaysavage/529395270/). -- Zugriff am 2008-11-27. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung) \]
+8\. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
 
-## Übung Lektion 4
+kayā bālā rakṣyate.
 
-A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (विष्णुः कः) und beantworten Sie die Fragen auf Sanskrit:
+कया बाला रक्ष्यते ।
 
-śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
+9\. Der Kṣatriya verehr den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort yajña zu verwenden)
 
-\= श्रुति, शिव, ब्राह्मण, द्विज (बहुवचनम्), इन्द्राणी, धेनु, तुलाधर, कालिदास
+kṣatriyeṇeśvara ijyate.
 
-śrutiḥ kā? vedaḥ śrutiḥ.
+क्षत्रियेनेश्वर इज्यते ।
 
-श्रुतिः का । वेदः श्रुतिः ।
+10\. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
 
-śivaḥ kaḥ? īśvaraḥ śivaḥ.
+dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-शिवः कः । ईश्वरः शिवः ।
+दानेन श्रावकः स्वर्गमाप्नोति / स्वर्गमश्नुते ।
 
-brāhmaṇaḥ kaḥ? dvijo brāhmaṇaḥ.
+![](/images/uebung011.jpg)  
+Abb.: grāmaḥ =  ग्रामः, Madhya Pradesh  
+\[Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2168794710/](http://www.flickr.com/photos/webethere/2168794710/). -- Zugriff am 2008-11-29. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
 
-ब्राह्मणः कः । द्विजो ब्राह्मणः ।
+Lesen und übersetzen Sie und setzen Sie ins Passiv:
 
-dvijāḥ ke? brāhmānakṣatriyavaiśyā dvijāḥ.
+क
 
-द्विजाः के । ब्राह्मणक्षत्रियवैश्या द्विजाः ।
+१.
 
-indrāṇī kā? devīndrāṇī.
+> मक्सिका व्रणमिच्छन्ति  
+> धनमिच्छन्ति पार्थिवाः |  
+> नीचाः कलहमिच्छन्ति  
+> शान्तिमिच्छन्ति साधवः ||
+> 
+> मक्षिकाभिर्व्रण इष्यते  
+> धनमिष्यते पार्थिवैः ।  
+> नीचैः कलह इष्यते  
+> शान्तिरिष्यते साधुभिः ॥
+> 
+> Fliegen wünschen sich eine Wunde,  
+> Könige wünschen sich Reichtum,  
+> Niederträchtige wünschen Streit,  
+> Frieden wünschen Heilige.
 
-इन्द्राणी का । देवीन्द्राणी ।
+२. नरान्सृजति देवः |
 
-dhenuḥ kā? paśur dhenuḥ.
+नरा देवैः सृज्यन्ते ।
 
-धेनुः का । पशुर्धेनुः ।
+Die Götter erschaffen die Menschen.
 
-tulādharaḥ kaḥ? vaiśyas tulādharaḥ.
+३. कवयो धनं लुभ्यन्ति |
 
-तुलाधरः कः । वैश्यस्तुलाधरः ।
+कविभिर्धनं लभ्यते ।
 
-kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
+Dichter begehren Reichtum.
 
-कालिदासः कः । कविः कालिदासः ॥
+४. ऋषिः सूक्तानि पश्यति |
 
-B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (एतत्किम्) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (एष बालः):
+ऋषिणा सूक्तानि दृश्यन्ते ।
 
-![](/images/lekt0401.jpg)
+Der vedische Weise sieht die vedischen Lieder.
 
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+५. विष्णुमृषिर्यजति |
 
-एष कः । एष गजः । अयं गजः । स गजः ।
+विष्णुरृषिणेज्यते ।
 
-eṣā kā? eṣā bālā / iyaṃ bālā / sā bālā.
+Der vedische Weise opfert Viṣṇu.
 
-एषा का । एषा बाला । इयं बाला । सा बाला ।
+६. गुरूञ्शिष्यांश्च पश्यति |
 
-etad kim? eṣa śukaḥ.
+गुरवः शिष्याश्च दृश्यन्ते ।
 
-एतत्किम् । एष शुकः ।
+Er sieht Meister und Schüler.
 
-etat kim? eṣa kākaḥ.
+७. स्वर्गं लभन्ते |
 
-एतत्किम् । एष काकः ।
+स्वर्गो लभ्यते ।
 
-etat kim? eṣā peṭikā.
+Sie erlangen den Himmel.
 
-एतत्किम् । एषा पेटिका ।
+८. अत्रर्षिर्भानुं वन्दते |
 
-etat kim? eṣā lātā.
+अत्रर्षिणा भानुर्वन्स्यते ।
 
-एतत्किम् । एषा लाता ।
+Dort begrüßt ein vedischer Weiser die Sonne.
 
-etat kim? eṣa pādaḥ.
+९. ग्रामं गच्छन्ति |
 
-एतत्किम् । एष पादः ।
+ग्रामं गम्यते । ग्रामो गम्यते ।
 
-eṣa kaḥ? eṣa bālaḥ.
+Sie gehen ins Dorf.
 
-एष कः । एष बालः ।
+१०. दानानि वर्षन्ति नृपाः ||
 
-etat kim? eṣā pipīlikā.
+दानानि वृष्यन्ते नृपैः ॥
 
-एतत्किम् । एषा पिपीलिका ॥
+Könige lassen Geschenke regnen.
 
-![](/images/uebung003.jpg)  
-Abb.: etat kim? eṣa kākaḥ.  एतत्किम् | एष काकः ||  
-Glanzkrähen (_Corvus splendens_), Rājasthān (राजस्थान)  
-\[Bildquelle: Duncan Wright / Wikipedia. -- GNU FDLizenz\]
+ख
 
-## Übung Lektion 5
+१. सदा देवान्स्मरन्ति |
 
-A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:
+सदा देवाः स्मर्यन्ते।
 
-1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
+Sie vergegenwärtigen sich stets die Götter.
 
-चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः ||
+२. ऋषिभी रामो वसति |
 
-Erklärung catvāras = चत्वारस् = "vier"
+ऋषिभिः सह रामेणोष्यते ।
 
-Brahmanen, Kṣatriyas, Vaiśyas und Śūdras sind die vier Stände.
+Rāma wohnt bei den vedischen Weisen.
 
-catvāro varnā brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca / catvāro varṇā brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca.
+३. हरिं क्षीरेण यजति |
 
-चत्वारो वर्णा ब्राह्मणः क्षत्रियो वश्यः शूद्रश्च । चत्वारो वर्णब्राह्मणाः क्षत्रिया वश्याः शूद्राश्च । 
+हरिः क्षीरेणेज्यते ।
 
-2\. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ. (Vāsiṣṭhadharmaśāstra II,1)
+Er verehrt Hari mit einem Milchopfer.
 
-त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः ||
+४. मार्गेण ग्रामं गच्छन्ति |
 
-Erklärung: trayas = त्रयस् =  "drei"
+मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।
 
-Brahmanen, Kṣatriyas, und Vaiśyas sind die drei zweimalgeborenen Stände.
+Sie gehen auf dem Weg ins Dorf.
 
-trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇā dvijātayo brāhmaṇāḥ kṣatriyā vaiśyāś ca.
+५. धनेन सुखमिच्छन्ति नराः |
 
-त्रयो वर्णा द्विजातयो ब्राह्मणः क्षत्रियो वैश्यश्च । त्रयो वर्णाद्विजातयो ब्राह्मणाः क्षत्रिया वैश्याश्च ।
+धनेने नरैः सुखमिष्यते ।
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmargyajurvedās trayī)
+Die Menschen wollen Glück durch Reichtum.
 
-सामवेदर्ग्वेदयजुर्वेदास्त्रयी ||
+६. एवं वदन्ति |
 
-(in gutem Sanskrit: सामर्ग्यजुर्वेदास्त्रयी)
+एवमुद्यते ।
 
-Die drei Veden sind: Sāmavaeda, Ṛgveda und Yajurveda.
+So sagt man.
 
-sāmaveda ṛgvedo yajurvedaś ca trayī.
+७. शान्त्यर्षय इह शोभन्ते |
 
-सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी ।
+शान्त्यर्षिभिरिह शुभ्यते ।
 
-4\. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+Auf Erden glänzen Heilige durch Friedsamkeit.
 
-कामक्रोधलोभाः ||
+८. कपयः फलानि खादन्ति |
 
-Leidenschaft, Zorn und Gier.
+कपिभिः फलानि खाद्यन्ते ।
 
-kāmaḥ krodho lobhaś ca.
+Affen fressen Früchte.
 
-कामः क्रोधो लोभश्च ।
+९. गजो गच्छति |
 
-5\. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
+गजेन गम्यते ।
 
-मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः ||
+Der Elefant läuft.
 
-Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt: unbegrenzte Haltungen. Sie stellen buddhistische Meditationsformen dar, mit denen der Meditierende allmählich, schrittweise die ganze Wirklichkeit "durchstrahlt". Auch im Yoga (Yogasūtra 1,33) spielen diese vier eine Rolle beim Zurruhekommen des Bewusstseins.
+१०. हरिर्गृहं गच्छति |
 
-Die grenzenlosen Haltungen sind: Wohlwollen, Mitgefühl, Mitfreude und Gleichmut.
+हरिणा गृहं गम्यते ।
 
-maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
+Hari geht nachhause.
 
-मैत्री करुणा मुदितोपेक्षा च चत्वारो ब्रह्मविहाराः ।
+११. सारथी रथं नयति ||
 
-6\. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ. (Yogasūtra 2,3)
+सारथिना रथो नीयते ॥
 
-अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः ||
+Der Fuhrmann lenkt den Wagen.
 
-Erklärung: pañca = "fünf"
+![](/images/uebung012.jpg)  
+Abb.: सारथी रथं नयति |  
+\[Bildquelle: World Bank Photo Collection. -- [http://www.flickr.com/photos/worldbank/2277349299/](http://www.flickr.com/photos/worldbank/2277349299/). -- Zugriff am 2008-11-29. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
 
-Die fünf Plagen sind: Unwissenheit, Ichsucht, Gier, Hass und Körperbezogenheit.
-
-avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
-
-अविद्यास्मिता रागो द्वेषो ऽभिनिवेषश्च पञ्च क्लेशाः ।
-
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-
-आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः ||
-
-Wissenschaften sind Philosophie, Vedistik, Ökonomie und Politik.
-
-ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
-
-आन्वीक्षिकी त्रयी वार्त्ता दण्डनीतिश्च विद्याः ।
-
-![](/images/uebung010.jpg)  
-Abb.: abhiniveśo na vā ? = अभ्निवेशो न वा । Körperbezogenheit oder nicht ? -- das ist hier dies Frage  
-"Schöne mit dem Spiegel", Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ)  
-\[Bildquelle: ~Panache. -- [http://www.flickr.com/photos/enamor/278398152/](http://www.flickr.com/photos/enamor/278398152/). -- Zugriff am 2008-11-28. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
-
-## Wiederholungsübung Lektion 5
-
-A) Übersetzen Sie:
-
-1\. vidyā vārttā.
-
-विद्या वार्त्ता |
-
-Ökonomie ist eine Wissenschaft.
-
-2\. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-
-ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः |
-
-Die drei zweimalgeborenen Stände sind: Brahmane, Kṣatriya und Vaiśya.
-
-3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
-
-द्विजा वैश्याः |
-
-Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene.
-
-B) Setzen Sie die entsprechende Form ein:
-
-(dvija, sādhu, kavi) ... rāmaḥ
-
-(द्विज, साधु, कवि) ... रामः |
-
-dvijo rāmaḥ. sādhū rāmaḥ. kavī rāmaḥ.
-
-द्विजो रामः । साधू रामः । कवी रामः ।
-
-(devī) ... indrāṇī
-
-(देवी) ... इन्द्राणी |
-
-devīndrāṇī.
-
-देवीन्द्राणी ।
-
-dvijātayas ... (vaiśyā, kṣatriya)
-
-द्विजातयस् ... (वैश्या, क्षत्रिय) |
-
-dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
-
-द्विजातयो वश्याः । द्विजातयः क्षत्रियाः ॥
-
-C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:
-
-sāmargyajurvedās trayī.
-
-सामर्ग्यजुर्वेदास्त्रयी |
-
-sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
-
-सामवेद ऋग्वेदो यजुर्वेदश्च त्रयी । ... यजुर्वेदस्त्रयी ॥
-
-D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal  mit einem Kompositum, einmal ohne):
-
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
-
-maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
-
-मैत्रीकरुणामुदितोपेक्षा ब्रह्मविहाराः । मैत्री करुणा मुदितोपेक्षा (च) ब्रह्मविहाराः ॥
-
-![](/images/uebung009.jpg)  
-Abb.: ṛgvedaḥ = ऋग्वेदः  
-Ṛgveda-Manuskript, frühes 19. Jhdt. n. Chr.  
-\[Bildquelle: Wikipedia. Public domain\]
-
+Zu Lösung der [Übungen Lektion 11 - 15](uebung11.md)

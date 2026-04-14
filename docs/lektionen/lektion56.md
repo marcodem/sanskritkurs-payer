@@ -28,7 +28,7 @@ Paradigma:
 
 श्रि 1U "sich begeben zu, sich anlehnen"
 
-> <table><tbody><tr><td>&nbsp;</td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td>&nbsp;</td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td><b>1. तृतीयः</b></td><td>अशिश्रियम्<br>(अ-शि-श्रिय्-अम्)</td><td>अशिश्रियाम</td><td>अशिश्रिये</td><td>अशिश्रियामहि</td></tr><tr><td><b>2. द्वितीयः</b></td><td>अशिश्रियस्</td><td>अशिश्रियत</td><td>अशिश्रियथास्</td><td>अशिश्रियध्वम्</td></tr><tr><td><b>3. प्रथमः</b></td><td>अशिश्रियत्</td><td>अशिश्रियन्</td><td>अशिश्रियत</td><td>अशिश्रियन्त</td></tr></tbody></table>
+> <table><tbody><tr><td> </td><th colspan="2">परस्मैपदम्</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th>एकवचनम्</th><th>बहुवचनम्</th><th>एकवचनम्</th><th>बहुवचनम्</th></tr><tr><td>**1. तृतीयः**</td><td>अशिश्रियम्<br>(अ-शि-श्रिय्-अम्)</td><td>अशिश्रियाम</td><td>अशिश्रिये</td><td>अशिश्रियामहि</td></tr><tr><td>**2. द्वितीयः**</td><td>अशिश्रियस्</td><td>अशिश्रियत</td><td>अशिश्रियथास्</td><td>अशिश्रियध्वम्</td></tr><tr><td>**3. प्रथमः**</td><td>अशिश्रियत्</td><td>अशिश्रियन्</td><td>अशिश्रियत</td><td>अशिश्रियन्त</td></tr></tbody></table>
 
 Diese Form des Aorist bilden u.a.:
 

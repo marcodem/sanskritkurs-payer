@@ -18,6 +18,7 @@
 - [ ] Generierung von In-Page-Menüs (rechts) aus den Markdown-Headings
 - [ ] Aktivierte "Next / Previous" Footer-Navigation für durchgehendes Lesen
 - [ ] Lokale Volltextsuche (Search-Plugin) konfigurieren
+- [ ] **Ergänzung:** Zentrale Übersicht der Grammatik-Themen mit Verlinkung zu den Lektionen (Index-Page)
 
 ## 4. Visuals & Theme
 - [ ] Umfangreiches CSS-Override des VitePress Default-Themes

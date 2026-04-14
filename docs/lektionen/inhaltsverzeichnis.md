@@ -3,7 +3,7 @@
 
 # Inhaltsverzeichnis
 
-## [Lektion 1](lektion01.md)
+## [Lektion 1](lektion01)
 
 *   गणेशपूजनम् = gaṇeśapūjanam = Verehrung des Gaṇeśa
 *   मङ्गलचरणम् = maṅgalacaraṇam = "Glückbringender Anfang"
@@ -12,7 +12,7 @@
     *   2.1. Zur Aussprache einzelner Laute
 *   3\. Übung
 
-## [Lektion 2](lektion02.md)
+## [Lektion 2](lektion02)
 
 *   1\. Der Nominalsatz
 *   2\. Zur Deklination (Beugung von Nomina)
@@ -23,7 +23,7 @@
 *   5\. Wortliste
 *   6\. Übung
 
-## [Lektion 3](lektion03.md)
+## [Lektion 3](lektion03)
 
 *   1\. Nominativ singular = prathamā ekavacanam = प्रथमा एकवचनम् (Fortsetzung)
     *   1.1. Nominativ Singular auf -s (Fortsetzung)
@@ -35,7 +35,7 @@
 *   6\. Wortliste
 *   7\. Übung
 
-## [Lektion 4](lektion04.md)
+## [Lektion 4](lektion04)
 
 Gesprochenes Sanskrit
 
@@ -49,7 +49,7 @@ Gesprochenes Sanskrit
     *   1.5. Frageformeln
 *   2\. Übung
 
-## [Lektion 5](lektion05.md)
+## [Lektion 5](lektion05)
 
 *   1\. Nominalkomposita = samāsa m. = समास
 *   2\. Zur Sanskrit-Terminologie für Komposita
@@ -59,7 +59,7 @@ Gesprochenes Sanskrit
 *   4\. Wortliste
 *   5\. Übung
 
-## [Lektion 6](lektion06.md)
+## [Lektion 6](lektion06)
 
 *   1\. Der Verbalsatz
 *   2\. Zur Bildung der Verbalformen
@@ -77,7 +77,7 @@ Gesprochenes Sanskrit
 *   8\. Übung
 *   9\. Wiederholungsübung
 
-## [Lektion 7](lektion07.md)
+## [Lektion 7](lektion07)
 
 Wochenspruch
 
@@ -94,7 +94,7 @@ Wochenspruch
 *   6\. Wortliste
 *   7\. Übung
 
-## [Lektion 8](lektion08.md)
+## [Lektion 8](lektion08)
 
 *   1\. Zur Bildung von Nomina
 *   2\. Einteilung der Nominalsuffixe
@@ -109,7 +109,7 @@ Wochenspruch
 *   6\. Übung
 *   7\. Lese- und Übersetzungsübung
 
-## [Lektion 9](lektion09.md)
+## [Lektion 9](lektion09)
 
 *   1\. Samāhāradvandva = सआहारद्वन्द्व ("Zusammenfassungsdvandva")
 *   2\. Zur Bildung von Nominalstämmen
@@ -118,7 +118,7 @@ Wochenspruch
 *   3\. Wortliste
 *   4\. Übung
 
-## [Lektion 10](lektion10.md)
+## [Lektion 10](lektion10)
 
 *   1\. Der Passivsatz
 *   2\. Der Instrumentalis = tṛtīyā f. = तृतीया = "dritte Kasusendung"
@@ -131,14 +131,14 @@ Wochenspruch
 *   7\. Wortliste 2
 *   8\. Lese- und Übersetzungsübung
 
-## [Lektion 11](lektion11.md)
+## [Lektion 11](lektion11)
 
 *   1\. Doppelter Akkusativ
 *   2\. Wortliste
 *   3\. Übung
 *   4\. Wiederholungsübung
 
-## [Lektion 12](lektion12.md)
+## [Lektion 12](lektion12)
 
 *   1\. Partizip Perfekt Passiv (PPP)
     *   1.1. Schema für transitive Verben
@@ -154,7 +154,7 @@ Wochenspruch
     *   5.1. Passiv und PPP der bisher gelernten Wurzeln
 *   6\. Übung
 
-## [Lektion 13](lektion13.md)
+## [Lektion 13](lektion13)
 
 *   1\. PPP auf -na-
 *   2\. Weiteres zum Gebrauch des PPP
@@ -168,7 +168,7 @@ Wochenspruch
 *   10\. Übung
 *   11\. Wiederholungsübung
 
-## [Lektion 14](lektion14.md)
+## [Lektion 14](lektion14)
 
 *   1\. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)
 *   2\. Bildung der Genetivformen (ṣāṣṭhī f. = षष्ठी)
@@ -177,7 +177,7 @@ Wochenspruch
 *   5\. Subhāṣitāni = सुभाषितानि = Sprichwörter
 *   6\. Übung
 
-## [Lektion 15](lektion15.md)
+## [Lektion 15](lektion15)
 
 *   १. सुभाषितम्
 *   2\. Determinativkomposita = Tatpuruṣa m. = तत्पुरुष
@@ -192,14 +192,14 @@ Wochenspruch
 *   10\. Übung 2
 *   11\. Übung 3
 
-## [Lektion 16](lektion16.md)
+## [Lektion 16](lektion16)
 
 *   1\. Zum Sandhi auslautender Konsonanten
 *   2\. Wortliste
 *   3\. Übung
 *   4\. Wiederholungsübung
 
-## [Lektion 17](lektion17.md)
+## [Lektion 17](lektion17)
 
 *   1\. Zweite Präsensklasse (अदादि = अद् usw.)
 *   2\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
@@ -210,7 +210,7 @@ Wochenspruch
 *   7\. Übung 1
 *   8\. Übung 2
 
-## [Lektion 18](lektion18.md)
+## [Lektion 18](lektion18)
 
 *   १. सुभाषितम्
 *   2\. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
@@ -222,7 +222,7 @@ Wochenspruch
 *   5\. Übung
 *   6\. Wiederholungsübung
 
-## [Lektion 19](lektion19.md)
+## [Lektion 19](lektion19)
 
 *   1\. Der Relativsatz
 *   2\. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
@@ -230,7 +230,7 @@ Wochenspruch
 *   4\. Übung
 *   ५. सुभाषितानि
 
-## [Lektion 20](lektion20.md)
+## [Lektion 20](lektion20)
 
 *   1\. Possesivkomposita = बहुव्रीहि m.
 *   2\. Bahuvrīhi mit attributivem Vorderglied
@@ -245,7 +245,7 @@ Wochenspruch
 *   11\. Übung 2
 *   12\. Übersetzungsübung
 
-## [Lektion 21](lektion21.md)
+## [Lektion 21](lektion21)
 
 *   1\. Weitere Präsensstämme auf -nt
     *   1.1. Partizip Präsens (लडादेशः) Parasmaipada
@@ -255,7 +255,7 @@ Wochenspruch
 *   4\. Wortliste
 *   5\. Übung
 
-## [Lektion 22](lektion22.md)
+## [Lektion 22](lektion22)
 
 *   1\. Das Absolutivum (क्त्वा । ल्यप्)
 *   2\. Bildung des Absolutivums
@@ -268,7 +268,7 @@ Wochenspruch
 *   3\. Wortliste
 *   4\. Übung
 
-## [Lektion 23](lektion23.md)
+## [Lektion 23](lektion23)
 
 *   1\. Der Infinitiv (तुमुन्)
 *   2\. Bildung des Infinitiv (तुमुन्)
@@ -277,7 +277,7 @@ Wochenspruch
 *   5\. Übung
 *   6\. Wiederholungsübung
 
-## [Lektion 24](lektion24.md)
+## [Lektion 24](lektion24)
 
 *   1\. Der Dativ (चतुर्थी = "vierte Kasusendung")
 *   2\. Bildung des Dativ (चतुर्थी)
@@ -290,7 +290,7 @@ Wochenspruch
 *   5\. Übung
 *   6\. Weitere Übungen zum Gebrauch des Dativ
 
-## [Lektion 25](lektion25.md)
+## [Lektion 25](lektion25)
 
 *   1\. Bildung des Ablativ (पञ्चमी = "fünfte Kasusendung")
 *   2\. Gebrauch des Ablativ (पञ्चमी)
@@ -301,7 +301,7 @@ Wochenspruch
 *   7\. सुभाषितानि
 *   8\. Übersetzungsübung
 
-## [Lektion 26](lektion26.md)
+## [Lektion 26](lektion26)
 
 *   1\. Cerebralisationsgesetz für -s- im Wortinnern
 *   2\. Cerebralisationsgesetz für Dentale im Wortinnern
@@ -312,7 +312,7 @@ Wochenspruch
 *   7\. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
 *   8\. Übung
 
-## [Lektion 27](lektion27.md)
+## [Lektion 27](lektion27)
 
 *   1\. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung)
 *   2\. Bildung des Lokativ (सप्तमी)
@@ -339,7 +339,7 @@ Wochenspruch
     *   7.13. Relativpronomen: यद्
     *   7.14. Fragepronomen: किम्
 
-## [Lektion 28](lektion28.md)
+## [Lektion 28](lektion28)
 
 *   1\. Das Kausativum (णि, णिच्, कारित)
 *   2\. Satzkonstruktion mit dem Kausativ (णि, णिच्, कारित)
@@ -353,14 +353,14 @@ Wochenspruch
 *   10\. Wortliste
 *   11\. Übung
 
-## [Lektion 29](lektion29.md)
+## [Lektion 29](lektion29)
 
 *   1\. Verwendung des Parasmaipada und Ātmanepada im Kausativum
 *   2\. Wortliste
 *   3\. Übersetzungsübung zur Wiederholung
 *   4\. Futur und Kausativ zu den bisher gelernten Wurzeln
 
-## [Lektion 30](lektion30.md)
+## [Lektion 30](lektion30)
 
 *   1\. Die 9. Präsensklasse (क्र्यादि = "क्री u.s.w.")
 *   2\. Gebrauch des Optativ (लिङ्)
@@ -373,13 +373,13 @@ Wochenspruch
 *   7\. Übung
 *   8\. Wiederholungsübung zur Formenlehre
 
-## [Lektion 31](lektion31.md)
+## [Lektion 31](lektion31)
 
 *   1\. Die 7. Präsensklasse (रुधादि = "रुध् u.s.w.")
 *   2\. Wortliste
 *   3\. Übung
 
-## [Lektion 32](lektion32.md)
+## [Lektion 32](lektion32)
 
 *   1\. Die Vergangenheitstempora
 *   2\. Das Imperfekt (लङ्)
@@ -391,7 +391,7 @@ Wochenspruch
 *   6\. Übung
 *   7\. Übung zur Wiederholung über die Weihnachtsferien
 
-## [Lektion 33](lektion33.md)
+## [Lektion 33](lektion33)
 
 *   1\. Die Reduplikation (अभ्यास m.)
     *   1.1. Der Reduplikationskonsonant
@@ -404,7 +404,7 @@ Wochenspruch
 *   6\. Wortliste
 *   7\. Übung
 
-## [Lektion 34](lektion34.md)
+## [Lektion 34](lektion34)
 
 *   1\. Das Perfekt (लिट्)
 *   2\. Das reduplizierte Perfekt (द्वित्वलिट्)
@@ -420,7 +420,7 @@ Wochenspruch
 *   7\. Übung
 *   8\. Übersetzungsübung
 
-## [Lektion 35](lektion35.md)
+## [Lektion 35](lektion35)
 
 *   1\. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
     *   1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
@@ -433,7 +433,7 @@ Wochenspruch
 *   4\. Wortliste
 *   5\. Übung
 
-## [Lektion 36](lektion36.md)
+## [Lektion 36](lektion36)
 
 *   1\. Besondere Bildungen des Perfekts
 *   2\. Das periphrastische Perfekt (अनुप्रयोगलिट्)
@@ -444,7 +444,7 @@ Wochenspruch
 *   7\. Übersetzungsübung
 *   8\. Wiederholungsübung zur Formenlehre
 
-## [Lektion 37](lektion37.md)
+## [Lektion 37](lektion37)
 
 *   1\. Das Adverb (क्रियाविशेषनम्)
 *   2\. Adverbialer Gebrauch von Kasusformen
@@ -469,7 +469,7 @@ Wochenspruch
 *   10\. Übung
 *   11\. Wiederholungsübung
 
-## [Lektion 38](lektion38.md)
+## [Lektion 38](lektion38)
 
 *   1\. Losung der Woche
 *   2\. Lautwandel von Nasalen im Wort
@@ -487,7 +487,7 @@ Wochenspruch
 *   11\. Wortliste zur Übersetzungsübung
 *   12\. Übersetzungsübung
 
-## [Lektion 39](lektion39.md)
+## [Lektion 39](lektion39)
 
 *   1\. Die Personalendungen der ersten Person (तृतीयः पुरुषः = "dritte Person")
 *   2\. Bildung der Verbformen der ersten Person thematischer Präsensstämme
@@ -508,7 +508,7 @@ Wochenspruch
     *   4.6. Neunte Präsensklasse (क्र्यादि)
 *   5\. Übung
 
-## [Lektion 40](lektion40.md)
+## [Lektion 40](lektion40)
 
 *   1\. सुभाषितानि
 *   2\. Bildung der Verbformen der ersten Person Perfekt (लिट्)
@@ -530,7 +530,7 @@ Wochenspruch
 *   7\. Übung
 *   8\. Wiederholungsübung zur Formenlehre
 
-## [Lektion 41](lektion41.md)
+## [Lektion 41](lektion41)
 
 *   1\. सुभाषिते  (zwei Sprichwörter)
 *   2\. Weitere कृत्-Bildungen auf -a
@@ -548,7 +548,7 @@ Wochenspruch
 *   3\. Wortliste
 *   4\. Übung
 
-## [Lektion 42](lektion42.md)
+## [Lektion 42](lektion42)
 
 *   1\. Stämme auf -ṛ
     *   1.1. Stämme mit Dehnstufe im starken Stamm
@@ -560,7 +560,7 @@ Wochenspruch
 *   3\. Übung
 *   4\. Übersetzungsübung
 
-## [Lektion 43](lektion43.md)
+## [Lektion 43](lektion43)
 
 *   1\. Personalendungen der 2. Person (मध्यमः = "mittlere &lt;Person&gt;")
 *   2\. Bildung der Verbalformen der 2. Person (मध्यमः)
@@ -578,7 +578,7 @@ Wochenspruch
 *   5\. Übung
 *   6\. संवादः = Gespräch
 
-## [Lektion 44](lektion44.md)
+## [Lektion 44](lektion44)
 
 *   1.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme mit vokalisch endendem Suffix
     *   1.1. Fünfte Präsensklasse (स्वादि)
@@ -594,7 +594,7 @@ Wochenspruch
 *   6\. Übung
 *   7\. Wiederholungsübung zur Formenlehre
 
-## [Lektion 45](lektion45.md)
+## [Lektion 45](lektion45)
 
 *   1\. Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
     *   1.1. Dritte Präsensklasse (जुहोत्यादि)
@@ -603,7 +603,7 @@ Wochenspruch
 *   3\. Wortliste
 *   4\. Übung
 
-## [Lektion 46](lektion46.md)
+## [Lektion 46](lektion46)
 
 *   1\. Bildung der Verbalformen der 2. Person (मध्यमः) Perfekt (लिट्)
     *   1.1. Endungen
@@ -623,7 +623,7 @@ Wochenspruch
 *   2\. Wortliste
 *   3\. Übung
 
-## [Lektion 47](lektion47.md)
+## [Lektion 47](lektion47)
 
 *   1\. Der Imperativ (लोट्)
 *   2\. Bildung des Imperativs (लोट्) thematischer Präsensstämme
@@ -635,7 +635,7 @@ Wochenspruch
     *   2.6. Passiv
 *   3\. Übung
 
-## [Lektion 48](lektion48.md)
+## [Lektion 48](lektion48)
 
 *   1\. सुभाषितानि
 *   2\. Bildung des Imperativs (लोट्) athematischer Präsensstämme
@@ -648,7 +648,7 @@ Wochenspruch
 *   5\. Übung
 *   6\. Übersetzungsübung
 
-## [Lektion 49](lektion49.md)
+## [Lektion 49](lektion49)
 
 *   1\. Bildung des Imperativs (लोट्) athematischer Präsensstämme (Fortsetzung)
     *   1.1. Siebte Präsensklasse  (रुधादि)
@@ -661,13 +661,13 @@ Wochenspruch
 *   5\. Wiederholungsübung zur Formenlehre
 *   6\. Übersetzungsübung
 
-## [Lektion 50](lektion50.md)
+## [Lektion 50](lektion50)
 
 *   1\. Nominalbildung: regelmäßige Steigerung
 *   2\. Wortliste
 *   3\. Übersetzungsübung
 
-## [Lektion 51](lektion51.md)
+## [Lektion 51](lektion51)
 
 *   1\. उपपद-Komposita
 *   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
@@ -680,7 +680,7 @@ Wochenspruch
 *   6\. Wortliste
 *   7\. Übersetzungsübung
 
-## [Lektion 52](lektion52.md)
+## [Lektion 52](lektion52)
 
 *   1\. Neutrum der Stämme auf -i und -u
 *   2\. Nominalbildung
@@ -705,7 +705,7 @@ Wochenspruch
 *   8\. Übersetzungsübung
 *   9\. Aufgaben während der Semesterferien
 
-## [Lektion 53](lektion53.md)  (Semesterferien)
+## [Lektion 53](lektion53)  (Semesterferien)
 
 *   1\. Der Dual (द्विवचन n.) der Nomina
 *   2\. Dualendungen des Nomen
@@ -725,7 +725,7 @@ Wochenspruch
     *   10.4. Der epische Śloka (श्लोक m.)
 *   11\. Übung
 
-## [Lektion 54](lektion54.md)
+## [Lektion 54](lektion54)
 
 *   1\. Vorbemerkung
 *   2\. Wortbildung: कृत्-Suffix -u an Desiderativstämme
@@ -736,12 +736,12 @@ Wochenspruch
     *   6.1. Der Aorist der 3.sg.Passiv
 *   7\. Übung
 
-## [Lektion 55](lektion55.md)
+## [Lektion 55](lektion55)
 
 *   1\. Der a-Aorist (Aorist mit Themavokal)
 *   2\. Übung
 
-## [Lektion 56](lektion56.md)
+## [Lektion 56](lektion56)
 
 *   1\. Der reduplizierte Aorist
     *   1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
@@ -750,12 +750,12 @@ Wochenspruch
 *   4\. स्म
 *   5\. Übung
 
-## [Lektion 57](lektion57.md)
+## [Lektion 57](lektion57)
 
 *   1\. Aorist 4: s-Aorist
 *   2\. Übung
 
-## [Lektion 58](lektion58.md)
+## [Lektion 58](lektion58)
 
 *   1\. Die Primärendungen des Dual (द्विवचनम्)
 *   2\. Der Dual thematischer Präsensklassen: Indikativ Präsens (लट्)
@@ -777,7 +777,7 @@ Wochenspruch
 *   6\. Aorist 5: iṣ-Aorist
 *   7\. Übung
 
-## [Lektion 59](lektion59.md)
+## [Lektion 59](lektion59)
 
 *   1\. Die Sekundärendungen und Imperativendungen des Dual (द्विवचनम्)
 *   2\. Der Dual thematischer Präsensklassen: Optativ (विधिलिङ्), Imperfekt (लङ्), Imperativ (लोट्)
@@ -803,7 +803,7 @@ Wochenspruch
 *   6\. Aorist (लुङ्) 7: sa-Aorist (thematischer s-Aorist)
 *   7\. Übung
 
-## [Lektion 60](lektion60.md)
+## [Lektion 60](lektion60)
 
 *   1\. Die Perfektendungen des Dual (द्विवचनम्)
 *   2\. Der Dual des reduplizierten Perfekt (द्वित्वलिट्)
@@ -827,7 +827,7 @@ Wochenspruch
     *   6.2. Konjugation des Desiderativs (सन्)
 *   7\. Übung
 
-## [Lektion 61](lektion61.md)
+## [Lektion 61](lektion61)
 
 *   1\. Deklination der Wurzelnomina auf -ā, -ī, -ū
     *   1.1. Wurzelnomina auf -ā am Ende von तत्पुरुष
