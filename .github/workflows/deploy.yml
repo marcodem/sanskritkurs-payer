@@ -1,0 +1,54 @@
+name: Multi-Platform Docker Build
+
+on:
+  push:
+    branches: [ "main" ]
+    # Startet auch, wenn du eine Version markierst (z.B. v1.1)
+    tags: [ 'v*.*.*' ]
+
+env:
+  REGISTRY: ghcr.io
+  # Nutzt automatisch deinen Repo-Namen (marcodem/sanskritkurs-payer)
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. QEMU installieren (erlaubt das Bauen für fremde Architekturen via Emulation)
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v3
+
+      # 2. Buildx einrichten (Das moderne Docker-Werkzeug für Multi-Plattform)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      # 3. Login bei GitHub Container Registry
+      - name: Log in to the Container registry
+        uses: actions/docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4. Der eigentliche Bau-Vorgang
+      - name: Build and push
+        uses: docker/build-push-action@v6 # Version 6 ist aktuell der 2026er Standard
+        with:
+          context: .
+          push: true
+          # HIER passiert die Magie: Er baut für Intel (amd64) und Apple/ARM (arm64)
+          platforms: linux/amd64,linux/arm64
+          tags: |
+            ghcr.io/${{ env.IMAGE_NAME }}:latest
+            ghcr.io/${{ env.IMAGE_NAME }}:${{ github.sha }}
+          # Cache-Optimierung: Macht zukünftige Builds deutlich schneller
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
