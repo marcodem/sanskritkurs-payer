@@ -12,64 +12,42 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 
 ### Validated
 
-<!-- Shipped and confirmed valuable. -->
-
-(None yet — ship to validate)
+- ✓ **Konverter & Import** — v1.0 (Skripte konvertieren 133 Lektionen)
+- ✓ **Bild-Übernahme** — v1.0 (513 Assets erfolgreich migriert)
+- ✓ **Lizenz-Audit** — v1.0 (Alle 513 Bilder in licenses.md dokumentiert)
+- ✓ **Typografie & Unicode** — v1.0 (OpenType Ligaturen für Devanāgarī aktiv)
+- ✓ **Navigation & Seitenstruktur** — v1.0 (Hierarchische Sidebar mit CSS-Numbering)
+- ✓ **Theme & Design** — v1.0 (Solarized Dark/Light Custom Theme)
+- ✓ **Volltextsuche** — v1.0 (VitePress Search integriert)
+- ✓ **Deployment-Mechanismus** — v1.0 (Produktions-Build via npm run docs:build)
 
 ### Active
 
-<!-- Current scope. Building toward these. -->
-
-- [ ] **Konverter & Import**: Einliest der bestehenden `.htm`-Dateien aus dem `/sanskritkurs`-Ordner, Bereinigung von altem HTML und Umwandlung in sauberes Markdown (`.md`).
-- [ ] **Bild-Übernahme**: Bilder werden inklusive Original-URLs in die neue Struktur gerettet.
-- [ ] **Lizenz-Audit**: Ein Mechanismus/Step, um sicherzustellen, dass nur permissiv lizenzierte Bilder migriert/verwendet werden.
-- [ ] **Typografie & Unicode**: Garantierte, makellose Darstellung von Devanāgarī (UTF-8), inklusive Laden der benötigten Webfonts.
-- [ ] **Navigation & Seitenstruktur**: Autogenerierte Sidebar basierend auf Überschriften (mit einklappbaren Unterkapiteln), "Nächste/Vorherige Lektion"-Buttons und In-Page-Verzeichnis (rechts).
-- [ ] **Theme & Design**: Überschreiben des kühlen Tech-Designs des SSGs durch das etablierte "warme" und lesefreundliche Layout (aus `index.html`).
-- [ ] **Volltextsuche**: Integration einer funktionierenden Suche über alle Dokumente.
-- [ ] **Deployment-Mechanismus**: Pipeline generiert fertigen Code für lokales Testen. Danach publizierbar auf GitHub Pages und beliebigen Standard-Hoster (wie z.B. Netlify/Vercel).
+- [ ] **Erweiterte Übungs-Validierung**: Automatisierte Prüfung auf korrekte Sanskrit-Transliteration-Einbettung in den Übungen.
+- [ ] **Interaktive Quiz-Module**: Integration von interaktiven Test-Komponenten für Vokabelabfragen.
 
 ### Out of Scope
-
-<!-- Explicit boundaries. Includes reasoning to prevent re-adding. -->
 
 - Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG), da dies ausreichend für Lektionen ist und das Hosting drastisch vereinfacht und absichert.
 
 ## Context
 
-Das Original-Material existiert bereits in Form von `.htm` Dateien (z.B. Lektionen, Schriftübungen, Lösungen). Ein Proof-of-Concept in der `index.html` zeigte ein Single-Page-Laden dieser Dokumente mit einem schönen warmen Theme. Die neue Lösung erweitert das auf ein professionelles Production-Pipeline Setup (MkDocs/VitePress), bei dem künftig neue Markdown-Seiten einfach in das System "reingeworfen" und prozessiert werden können.
+Das Projekt wurde erfolgreich von einer Sammlung statischer HTML-Dateien in ein modernes VitePress-System migriert. Shipped v1.0 mit ~35,277 Zeilen Content/Code. Das Original-Material wird nun durch zwei Post-Processing Skripte (`fix_links.js`, `cleanup_html.js`) sauber aufbereitet.
 
 ## Constraints
 
-- **[Architektur]**: SSG-Ansatz — Die fertige Seite muss ein Set von statischen Dateien sein, um Hosting extrem unkompliziert und flexibel zu halten.
+- **[Architektur]**: SSG-Ansatz — Die fertige Seite muss ein Set von statischen Dateien sein.
 - **[Medien]**: Lizenzen der verwendeten Bilder müssen zwingend geklärt (permissive) sein.
 - **[Design]**: Die Ästhetik (Farben, Typografie) muss dem warmen Serif-Konzept treu bleiben.
 
 ## Key Decisions
 
-<!-- Decisions that constrain future work. Add throughout project lifecycle. -->
-
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| SSG (VitePress) | Bester Mix aus Auto-Navigation, Volltextsuche und statischem Deployment. | — Finished (Phase 2) |
-| Markdown als Ziel-Quellformat | Dauerhaft leichter zu pflegen, standardisiert für alle modernen Dokumentations Tools. | — Finished (Phase 1) |
-
-## Evolution
-
-This document evolves at phase transitions and milestone boundaries.
-
-**After each phase transition** (via `/gsd-transition`):
-1. Requirements invalidated? → Move to Out of Scope with reason
-2. Requirements validated? → Move to Validated with phase reference
-3. New requirements emerged? → Add to Active
-4. Decisions to log? → Add to Key Decisions
-5. "What This Is" still accurate? → Update if drifted
-
-**After each milestone** (via `/gsd-complete-milestone`):
-1. Full review of all sections
-2. Core Value check — still the right priority?
-3. Audit Out of Scope — reasons still valid?
-4. Update Context with current state
+| SSG (VitePress) | Bester Mix aus Auto-Navigation, Volltextsuche und statischem Deployment. | ✓ Good (Phase 2) |
+| Markdown als Ziel-Quellformat | Dauerhaft leichter zu pflegen, standardisiert. | ✓ Good (Phase 1) |
+| CSS-Hierarchy | Vermeidung von manuellem Nummerieren in MD Files. | ✓ Good (Phase 2) |
+| Solarized Dark | Ergonomische Lösung für langes Lesen von Sanskrit-Texten. | ✓ Good (Phase 3) |
 
 ---
-*Last updated: 2026-04-12 after initialization*
+*Last updated: 2026-04-14 after v1.0 milestone completion*
