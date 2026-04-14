@@ -8,46 +8,58 @@ Ein automatisiertes Produktionssystem (Static Site Generator Pipeline), das best
 
 Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine blitzschnelle, übersichtliche und voll durchsuchbare Struktur, die als einfache Pipeline vollautomatisch neue Kapitel integrieren kann.
 
+## Current Milestone: v1.1 Interaktion & Flexibilität
+
+**Goal:** Ausbau der Lernplattform zu einem interaktiven, mehrsprachigen System mit flexiblerem Layout.
+
+**Target features:**
+- **Interaktive Quiz-Module**: Vue-Komponenten für direktes Feedback bei Übungen.
+- **Wide-Mode-Schalter**: Layout-Optimierung für große Bildschirme.
+- **Mehrsprachigkeit (i18n)**: Vorbereitung der Struktur für Deutsch/Englisch.
+
 ## Requirements
 
 ### Validated
 
-- ✓ **Konverter & Import** — v1.0 (Skripte konvertieren 133 Lektionen)
-- ✓ **Bild-Übernahme** — v1.0 (513 Assets erfolgreich migriert)
-- ✓ **Lizenz-Audit** — v1.0 (Alle 513 Bilder in licenses.md dokumentiert)
-- ✓ **Typografie & Unicode** — v1.0 (OpenType Ligaturen für Devanāgarī aktiv)
-- ✓ **Navigation & Seitenstruktur** — v1.0 (Hierarchische Sidebar mit CSS-Numbering)
-- ✓ **Theme & Design** — v1.0 (Solarized Dark/Light Custom Theme)
-- ✓ **Volltextsuche** — v1.0 (VitePress Search integriert)
-- ✓ **Deployment-Mechanismus** — v1.0 (Produktions-Build via npm run docs:build)
+- ✓ **Konverter & Import** — v1.0
+- ✓ **Bild-Übernahme** — v1.0
+- ✓ **Lizenz-Audit** — v1.0
+- ✓ **Typografie & Unicode** — v1.0
+- ✓ **Navigation & Seitenstruktur** — v1.0
+- ✓ **Theme & Design** — v1.0
+- ✓ **Volltextsuche** — v1.0
+- ✓ **Deployment-Mechanismus** — v1.0
 
 ### Active
 
-- [ ] **Erweiterte Übungs-Validierung**: Automatisierte Prüfung auf korrekte Sanskrit-Transliteration-Einbettung in den Übungen.
-- [ ] **Interaktive Quiz-Module**: Integration von interaktiven Test-Komponenten für Vokabelabfragen.
+- [ ] **Quiz-Komponenten**: Entwicklung einer Basis-Komponente für Single-Choice/Multiple-Choice Fragen.
+- [ ] **Layout Toggle**: Integration eines Buttons in die VitePress-Navbar zur Breitensteuerung.
+- [ ] **i18n Setup**: Konfiguration der `config.mjs` für Multi-Language Support und Erstellung des `/en/` Verzeichnisses.
 
 ### Out of Scope
 
-- Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG), da dies ausreichend für Lektionen ist und das Hosting drastisch vereinfacht und absichert.
+- Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG).
 
 ## Context
 
-Das Projekt wurde erfolgreich von einer Sammlung statischer HTML-Dateien in ein modernes VitePress-System migriert. Shipped v1.0 mit ~35,277 Zeilen Content/Code. Das Original-Material wird nun durch zwei Post-Processing Skripte (`fix_links.js`, `cleanup_html.js`) sauber aufbereitet.
+Das Projekt wurde erfolgreich migriert. Shipped v1.0 am 2026-04-14. Fokus liegt nun auf Interaction und UX-Verbesserungen.
 
-## Constraints
+## Evolution
 
-- **[Architektur]**: SSG-Ansatz — Die fertige Seite muss ein Set von statischen Dateien sein.
-- **[Medien]**: Lizenzen der verwendeten Bilder müssen zwingend geklärt (permissive) sein.
-- **[Design]**: Die Ästhetik (Farben, Typografie) muss dem warmen Serif-Konzept treu bleiben.
+This document evolves at phase transitions and milestone boundaries.
 
-## Key Decisions
+**After each phase transition** (via `/gsd-transition`):
+1. Requirements invalidated? → Move to Out of Scope with reason
+2. Requirements validated? → Move to Validated with phase reference
+3. New requirements emerged? → Add to Active
+4. Decisions to log? → Add to Key Decisions
+5. "What This Is" still accurate? → Update if drifted
 
-| Decision | Rationale | Outcome |
-|----------|-----------|---------|
-| SSG (VitePress) | Bester Mix aus Auto-Navigation, Volltextsuche und statischem Deployment. | ✓ Good (Phase 2) |
-| Markdown als Ziel-Quellformat | Dauerhaft leichter zu pflegen, standardisiert. | ✓ Good (Phase 1) |
-| CSS-Hierarchy | Vermeidung von manuellem Nummerieren in MD Files. | ✓ Good (Phase 2) |
-| Solarized Dark | Ergonomische Lösung für langes Lesen von Sanskrit-Texten. | ✓ Good (Phase 3) |
+**After each milestone** (via `/gsd-complete-milestone`):
+1. Full review of all sections
+2. Core Value check — still the right priority?
+3. Audit Out of Scope — reasons still valid?
+4. Update Context with current state
 
 ---
-*Last updated: 2026-04-14 after v1.0 milestone completion*
+*Last updated: 2026-04-14 after v1.1 milestone initialization*
