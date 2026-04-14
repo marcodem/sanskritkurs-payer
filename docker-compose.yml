@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  sanskritkurs:
+    image: sanskritkurs:latest
+    build: .
+    ports:
+      - "8080:80" # Erreichbar unter http://DEINE-NAS-IP:8080
+    restart: unless-stopped
+    container_name: sanskrit-payer
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
