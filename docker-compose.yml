@@ -1,13 +1,10 @@
-version: '3.8'
-
 services:
-  sanskritkurs:
-    image: sanskritkurs:latest
-    build: .
+  sanskrit-app:
+    container_name: sanskrit-kurs
+    image: ghcr.io/marcodem/sanskrit-kurs:latest # Der volle Pfad zu GitHub
     ports:
       - "8080:80" # Erreichbar unter http://DEINE-NAS-IP:8080
     restart: unless-stopped
-    container_name: sanskrit-payer
     logging:
       driver: "json-file"
       options:

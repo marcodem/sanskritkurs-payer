@@ -9,10 +9,10 @@ See: .planning/PROJECT.md (updated 2026-04-14)
 
 ## Current Position
 
-Phase: Not started (defining requirements)
+Phase: 5 - Interaktion & Layout
 Plan: —
-Status: Defining requirements
-Last activity: 2026-04-14 — Milestone v1.1 started. Fokus auf Quiz-Module, Wide-Mode und i18n.
+Status: Ready to plan
+Last activity: 2026-04-14 — Milestone v1.1 initialisiert. Anforderungen und Roadmap für Phase 5 & 6 erstellt.
 
 Progress: [░░░░░░░░░░] 0% (Milestone v1.1)
 
