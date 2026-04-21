@@ -5,22 +5,6 @@
 
 
 
-## Übersicht
-
-*   12.1. Partizip Perfekt Passiv (PPP)
-    *   12.1.1. Schema für transitive Verben
-    *   12.1.2. Schema I für intransitive Verben und Verben der der Bewegung
-    *   12.1.3. Schema II für intransitive Verben und Verben der Bewegung
-*   12.2. Zur Bedeutung des PPP
-*   12.3. Bildung des PPP
-    *   12.3.1. PPP auf -ta (kta)
-        *   12.3.1.1. Ohne Bindevokal -i- (aniṭ)
-        *   12.3.1.2. Mit Bindevokal -i- (seṭ)
-*   12.4. Gesetze der Lautverbindung im Wort
-*   12.5. Wortliste
-    *   12.5.1. Passiv und PPP der bisher gelernten Wurzeln
-*   12.6. Übung
-
 ## 12.1. Partizip Perfekt Passiv (PPP)
 
 Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
@@ -404,4 +388,3 @@ A) Bilden Sie aus den Aktivsätzen von [Lektion 7](lektion07.md), Übung A mit d
 B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](lektion10.md), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.
 
 C) Setzen Sie die Sätze von [Lektion 10](lektion10.md), Übung C passiv in die Vergangenheit.
-

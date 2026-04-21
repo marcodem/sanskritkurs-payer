@@ -1,35 +1,10 @@
+---
+next: false
+---
 > [!INFO] Zitierweise & Rechte
 > Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
 
 # Lektion 61
-
-## Übersicht
-
-*   61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
-    *   61.1.1. Wurzelnomina auf -ā am Ende von तत्पुरुष
-    *   61.1.2. Feminine Wurzelnomina auf -ī
-    *   61.1.3. Wurzelnomina auf -ī am Ende von तत्पुरुष
-    *   61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
-    *   61.1.5. Wurzelnomina auf -ū am Ende von तत्पुरुष
-    *   61.1.6. Deklination mehrsilbiger Feminina auf -ū
-*   61.2. Das periphrastische Futur (लुट्)
-*   61.3. Das Intensivum (Frequentativum) (चर्करीतम्)
-    *   61.3.1. Ātmanepada-Intensivum
-    *   61.3.2. Parasmaipada-Intensivum
-*   61.4. Denominativa (नामधातु)
-    *   61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
-    *   61.4.2. Bildung mit Suffix -ya, Parasmaipada
-    *   61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
-    *   61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
-    *   61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
-    *   61.4.6. Bildung mit dem Suffix -aya, -āpaya
-*   61.5. Der Benediktiv (आशीर्लिङ्)
-*   61.6. Der Konditionalis (ऌङ्)
-*   61.7. Deklination der Nomina auf -ai, -o, -au
-*   61.8. Restliche Pronomina
-    *   61.8.1. Personalpronomen des Dual
-    *   61.8.2. Demonstrativpronomen अदस् "jener (entfernte)"
-*   61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / श्रीगणनाथ
 
 ## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 

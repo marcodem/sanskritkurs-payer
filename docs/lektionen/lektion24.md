@@ -3,19 +3,6 @@
 
 # Lektion 24
 
-## Übersicht
-
-*   24.1. Der Dativ (चतुर्थी = "vierte Kasusendung")
-*   24.2. Bildung des Dativ (चतुर्थी)
-    *   24.2.1. Konsonantische Stämme
-    *   24.2.2. Fragepronomen
-    *   24.2.3. Demonstrativpronomina
-    *   24.2.4. Vokalische Stämme
-*   24.3. Sandhi von auslautendem -ai und -au
-*   24.4. Wortliste
-*   24.5. Übung
-*   24.6. Weitere Übungen zum Gebrauch des Dativ
-
 ## 24.1. Der Dativ (चतुर्थी = "vierte Kasusendung")
 
 1\. Um den Zweck oder eine Absicht ("um zu") einer handlung wiederzugeben, kann man statt des Infinitivs (तुमुन्) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (चतुर्थी = "vierte Kasusendung") verwenden.
@@ -382,4 +369,3 @@ Abb.: नरो नरसिंहाय नमस्करोति
 14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
 
 15\. Auf Widersehen! (Neusanskrit: पुनर्दर्शनाय)
-

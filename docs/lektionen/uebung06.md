@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Zu welcher Verbklasse gehört die Wurzel „viś“ (Präsensstamm: viśa-)?',
+    options: ['1. Klasse', '4. Klasse', '6. Klasse', '10. Klasse'],
+    answer: 2,
+    explanation: 'viś gehört zur 6. Klasse (tudādi), die den Themavokal -a an die Schwachstufe anfügt.'
+  },
+  {
+    question: 'Was ist die korrekte 3. Person Plural von „manyate“ (er/sie denkt)?',
+    options: ['manyanti', 'manante', 'manyante', 'manyanti'],
+    answer: 2,
+    explanation: 'manyate ist ein Ātmanepada der 4. Klasse; der Plural lautet manyante.'
+  },
+  {
+    question: 'Was bedeutet das Wort „Ubhayapada“ in der Grammatik?',
+    options: ['Nur im Aktiv gebraucht', 'Nur im Medium gebraucht', 'Sowohl im Aktiv (Parasmaipada) als auch im Medium (Ātmanepada) gebraucht', 'Nur im Passiv gebraucht'],
+    answer: 2,
+    explanation: 'Ubhayapada bedeutet „beide Wortformen“ (Aktiv und Medium).'
+  }
+]
+</script>
 
 # Übung Lektion 6
 

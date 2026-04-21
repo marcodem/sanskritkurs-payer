@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Bestimme die Form „vettha“ (Übung A.2).',
+    options: ['vid (wissen), Perfekt, 2. Pers. Sg. Parasmaipada', 'vid (wissen), Präsens, 2. Pers. Pl. Parasmaipada', 'viś (eintreten), Perfekt, 2. Pers. Sg. Parasmaipada', 'vid (wissen), Imperfekt, 2. Pers. Sg. Parasmaipada'],
+    answer: 0,
+    explanation: 'vettha ist das präsentische Perfekt von vid (Übung 46.15).'
+  },
+  {
+    question: 'Welcher Vers aus der Bhagavadgītā beschreibt die Kette vom Zorn bis zum Verderben (Übung B.2)?',
+    options: ['krodhād bhavati saṃmohaḥ...', 'nāsti buddhir ayuktasya...', 'tat tvam asi...', 'na yotsya iti...'],
+    answer: 0,
+    explanation: 'Der Vers beginnt mit: krodhād bhavati saṃmohaḥ... (Übung 46.74).'
+  },
+  {
+    question: 'Was ist die Bedeutung von „bhraṃśaḥ“?',
+    options: ['Verlust / Entfallen', 'Aufstieg', 'Frieden', 'Kraft'],
+    answer: 0,
+    explanation: 'bhraṃśaḥ bedeutet das Entfallen oder der Verlust (Lektion 46.2.444).'
+  }
+]
+</script>
 
 # Übung Lektion 46
 
@@ -85,4 +105,4 @@ B) Übersetzen Sie:
 ![](/images/uebung080.jpg)  
 Abb.: सक्तः  
 Darjeeling = দার্জিলিং / दार्जिलिंग;  
-\[Bildquelle: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/482884011/](http://www.flickr.com/photos/thebigdurian/482884011/). -- Zugriff am 2009-01-23. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+\[Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/482884011/. -- Zugriff am 2009-01-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]

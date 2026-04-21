@@ -3,19 +3,6 @@
 
 # Lektion 26
 
-## Übersicht
-
-*   26.1. Cerebralisationsgesetz für -s- im Wortinnern
-*   26.2. Cerebralisationsgesetz für Dentale im Wortinnern
-*   26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
-*   26.4. Grassmannsches Hauchdissimilationsgesetz
-*   26.5. Wortsandhi für -m, -n vor Zischlaut
-*   26.6. Gebrauch des einfachen Futurs (ऌत्, भविष्यन्ती f.)
-*   26.7. Bildung des einfachen Futurs (ऌत्, भविष्यन्ती  f.)
-*   26.8. Übung
-
-Zur Bildung des einfachen Futurs (ऌत्) benötigen wir noch folgende Gesetze des Wortsandhi:
-
 ## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
 
 \-s- wird durch -ṣ- ersetzt, wenn k, r, l oder ein Vokal - außer a, ā - unmittelbar oder nur durch अनुस्वार oder विसर्ग getrennt vorausgeht und ein anderer Laut als ṛ, r folgt.  
@@ -191,4 +178,3 @@ C) Futur optionell mit und ohne -i-:
 1.  मुह्यन्ति
 2.  वर्तते
 3.  अश्नुवते (im Futur Parasmaipada)
-

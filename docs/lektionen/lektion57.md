@@ -3,11 +3,6 @@
 
 # Lektion 57
 
-## Übersicht
-
-*   57.1. Aorist 4: s-Aorist
-*   57.2. Übung
-
 ## 57.1. Aorist 4: s-Aorist
 
 | Der s-Aorist wird zu den meisten अनिट्-Wurzeln gebildet, sofern sie nicht ausschließlich eine andere Aoristform haben. Fakultative अनिट्-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden.
@@ -220,4 +215,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 54.  आदि्षि
 55.  पाणी
 56.  अस्प्राक्षम्
-

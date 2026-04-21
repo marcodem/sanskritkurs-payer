@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist das korrekte Fragepronomen für „peṭikā“ (f. Schachtel)?',
+    options: ['eṣa kaḥ?', 'eṣā kā?', 'etat kim?', 'eṣā kaḥ?'],
+    answer: 1,
+    explanation: 'peṭikā ist feminin, daher wird „eṣā kā?“ (für Personen/Dinge) verwendet.'
+  },
+  {
+    question: 'Wie lautet die maskuline Antwort auf „ayaṃ kaḥ?“, wenn es sich um einen Vogel (śukaḥ) handelt?',
+    options: ['ayaṃ śukaḥ', 'iyaṃ śukaḥ', 'idam śukaḥ', 'ayaṃ śukaṃ'],
+    answer: 0,
+    explanation: 'śukaḥ ist maskulin, daher wird das maskuline Pronomen „ayaṃ“ verwendet.'
+  },
+  {
+    question: 'Welcher Demonstrativstamm bezieht sich im Sanskrit auf bereits Erwähntes?',
+    options: ['etad', 'idam', 'tad', 'adaḥ'],
+    answer: 2,
+    explanation: 'tad wird typischerweise für bereits im Text eingeführte Personen oder Dinge verwendet.'
+  }
+]
+</script>
 
 # Übung Lektion 4
 

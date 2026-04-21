@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist die Bedeutung von „akāri“ laut Übung 13?',
+    options: ['es wurde getan (Aorist Passiv)', 'er tut (Präsens)', 'er wird tun (Futur)', 'getan habend'],
+    answer: 0,
+    explanation: 'akāri ist die 3.sg.Aorist Passiv von kṛ (Übung 56.20).'
+  },
+  {
+    question: 'Was bedeutet die Vokabel „ātatāyī“ (Übung 56.30)?',
+    options: ['Schwerverbrecher', 'König', 'Lehrer', 'Affe'],
+    answer: 0,
+    explanation: 'ātatāyin bedeutet Schwerverbrecher (Übung 56.37).'
+  },
+  {
+    question: 'Was bedeutet „ekashaḥ“ (Übung 56.76)?',
+    options: ['je einer, einzeln', 'einmal', 'einfach', 'immer'],
+    answer: 0,
+    explanation: 'ekashaḥ ist ein distributives Adverb (Übung 56.83).'
+  }
+]
+</script>
 
 # Übung Lektion 56
 

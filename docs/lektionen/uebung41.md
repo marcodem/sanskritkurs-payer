@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Ausdruck „buddhaṃ śaraṇaṃ gacchāmi“?',
+    options: ['Ich nehme Zuflucht zum Buddha', 'Ich gehe zum Haus des Buddha', 'Ich sehe den Buddha', 'Der Buddha ist mein Lehrer'],
+    answer: 0,
+    explanation: 'śaraṇaṃ gam bedeutet „Zuflucht nehmen“.'
+  },
+  {
+    question: 'Welches Gerundivum von „dṛś“ (sehen) bedeutet „sehenswert“?',
+    options: ['draṣṭavya', 'darśanīya', 'dṛśya', 'Alle genannten'],
+    answer: 3,
+    explanation: 'Alle drei Formen (draṣṭavya, darśanīya, dṛśya) können „sehenswert“ oder „zu sehen“ bedeuten (Lektion 41.2.2).'
+  },
+  {
+    question: 'Was drückt der Satz „gurubhiḥ śiṣyāḥ śāsitavyāḥ“ (Übung B.5) aus?',
+    options: ['Lehrer müssen Schüler unterweisen', 'Lehrer lieben ihre Schüler', 'Schüler lehren die Lehrer', 'Lehrer und Schüler lernen gemeinsam'],
+    answer: 0,
+    explanation: 'śāsitavyāḥ (Gerundivum von śās) drückt eine Notwendigkeit/Verpflichtung aus (Lektion 41.2.3).'
+  }
+]
+</script>
 
 # Übung Lektion 41
 
@@ -54,4 +74,4 @@ Wer zu Buddha gegangen ist, soll sprechen: "Ich nehme meine Zuflucht zu Buddha, 
 ![](/images/uebung067.jpg)  
 Abb.: बुद्धं शरणं गच्छामि  
 Pilger zum angeblichen Fußabdruck Buddhas auf dem Adams Peak (श्रीपाद), Sri Lanka  
-\[Bildquelle: Sailing Nomad. -- [http://www.flickr.com/photos/ryanwhisner/3076149134/](http://www.flickr.com/photos/ryanwhisner/3076149134/). -- Zugriff am 2009-01-21. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+\[Bildquelle: Sailing Nomad. -- http://www.flickr.com/photos/ryanwhisner/3076149134/. -- Zugriff am 2009-01-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]

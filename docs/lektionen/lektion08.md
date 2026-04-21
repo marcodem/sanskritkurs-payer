@@ -5,21 +5,6 @@
 
 
 
-## Übersicht
-
-*   8.1. Zur Bildung von Nomina
-*   8.2. Einteilung der Nominalsuffixe
-*   8.3. Einige wichtige Nominalsuffixe
-    *   8.3.1. -a m. (kṛt)
-    *   8.3.2. -ana n. (kṛt)
-    *   8.3.3. -tra n. (kṛt)
-    *   8.3.4. -ti f. (kṛt)
-    *   8.3.5. -tva n., tā f. (taddhita)
-*   8.4. Die 8. Präsensklasse (tanādi = तनादि = "tan usw.")
-*   8.5. Wortliste
-*   8.6. Übung
-*   8.7. Lese- und Übersetzungsübung
-
 ## 8.1. Zur Bildung von Nomina
 
 In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
@@ -425,5 +410,3 @@ D) Übersetzen Sie
 17\. शुकः पतति |
 
 18\. बालः पत्रिकां लिखति |
-
-

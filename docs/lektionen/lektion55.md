@@ -3,11 +3,6 @@
 
 # Lektion 55
 
-## Übersicht
-
-*   55.1. Der a-Aorist (Aorist mit Themavokal)
-*   55.2. Übung
-
 ## 55.1. Der a-Aorist (Aorist mit Themavokal)
 
 Der a-Aorist wird gebildet wie ein Imperfekt (लङ्) der 6. Präsensklasse (तुदादि), d.h.:
@@ -86,4 +81,3 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 Abb.: अजीर्यमिति  
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618  
 \[Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei\]
-

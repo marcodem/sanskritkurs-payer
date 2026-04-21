@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „prajñā duḥkhasambhavaṃ rundhyāt“?',
+    options: ['Weisheit soll das Entstehen von Leiden verhindern', 'Leiden entsteht aus Weisheit', 'Die Welt ist voller Leiden', 'Der Buddha lehrt den Weg'],
+    answer: 0,
+    explanation: 'rundhyāt ist der Optativ von rudh (7U, verhindern/stoppen).'
+  },
+  {
+    question: 'Was bedeutet „bhanakti“?',
+    options: ['Er biegt', 'Er bricht (zerbricht etwas)', 'Er spricht', 'Er isst'],
+    answer: 1,
+    explanation: 'bhanakti (भनक्ति) ist die 3. Person Singular von bhañj (7P, zerbrechen).'
+  },
+  {
+    question: 'Was bedeutet das Wort „śarīra“?',
+    options: ['Leib / Körper', 'Geist', 'Waffe', 'Frieden'],
+    answer: 0,
+    explanation: 'śarīra (शरीर) bedeutet Körper oder Leib.'
+  }
+]
+</script>
 
 # Übung Lektion 31
 
@@ -59,4 +79,4 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 
 ![](/images/uebung049.jpg)  
 Abb.: कुलबन्धनम्  
-\[Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2171088197/](http://www.flickr.com/photos/webethere/2171088197/). -- Zugriff am 2009-01-05. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative commons Lizenz (Namensnennung, keine Bearbeitung)\]
+\[Bildquelle: Carol Mitchell. -- http://www.flickr.com/photos/webethere/2171088197/. -- Zugriff am 2009-01-05. -- Creative commons Lizenz (Namensnennung, keine Bearbeitung)\]

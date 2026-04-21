@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satzteil „gurvādēśād rāmo grāmān nagaraṃ gatvā ...“ (aus Übung B.1)?',
+    options: ['Rāma geht zum Dorf', 'Rāma geht aufgrund des Befehls des Meisters vom Dorf in die Stadt', 'Der Meister geht weg', 'Ein Haus im Dorf'],
+    answer: 1,
+    explanation: 'gurvādēśāt (Ablativ) = „aufgrund des Befehls“; grāmāt (Ablativ) = „vom Dorf“.'
+  },
+  {
+    question: 'Was drückt das Wort „yatō“ (यतो) am Anfang des Subhāṣitams aus?',
+    options: ['Dort', 'Von wo auch immer / weil', 'Wer', 'Wann'],
+    answer: 1,
+    explanation: 'yatō (yataḥ) ist das Relativpronomen mit -tas Suffix; hier hat es eine ablativische/kausale Bedeutung („wovon auch immer“ / „weil“).'
+  },
+  {
+    question: 'Wie lautet der Ablativ Singular von „agniḥ“ (Feuer)?',
+    options: ['agnaye', 'agnāt', 'agnēḥ', 'agnau'],
+    answer: 2,
+    explanation: 'In fast allen Klassen außer a-Stämmen sind Ablativ und Genitiv Singular identisch (hier: agnēḥ).'
+  }
+]
+</script>
 
 # Übung Lektion 25
 
@@ -103,5 +123,6 @@ Deswegen haben die drei Wissenschaften den Stock als Grundlage. Der Stock, der d
 ![](/images/uebung042.jpg)  
 Abb.: वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥  
 \[Bildquelle: World Bank Photo Collection. -- Zugriff am 2008-12-24. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]   
+
 
 Lösung zu den [Übungen Lektion 26 - 30](uebung26.md)

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „ekasminneva kāle kṣatriyo mahān yaṣṭum upacakrame“?',
+    options: ['Zu eben derselben Zeit begann ein großer Kṣatriya zu opfern', 'Ein Kṣatriya kämpfte gegen den König', 'Der Kṣatriya gab den Brahmanen Geschenke', 'Ein Kṣatriya wurde geboren'],
+    answer: 0,
+    explanation: 'upacakrame ist die 3. Person Singular Perfekt Ātmanepada von upa-kram (beginnen). yaṣṭum ist der Infinitiv von yaj (opfern).'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „śru“ (hören)?',
+    options: ['śṛṇvanti', 'śuśruvuḥ', 'śuśrāva', 'aśṛṇvan'],
+    answer: 1,
+    explanation: 'śru bildet das Perfekt śuśrāva (Singular) und śuśruvuḥ (Plural).'
+  },
+  {
+    question: 'Was bedeutet „arhentaḥ kulabandhanaṃ bibhiduḥ“?',
+    options: ['Die Arhats haben die Familienbande gespalten/zerbrochen', 'Die Arhats ehren ihre Familie', 'Die Arhats essen zusammen', 'Die Arhats sind weise'],
+    answer: 0,
+    explanation: 'bibhiduḥ ist die 3. Person Plural Perfekt von bhid (spalten).'
+  }
+]
+</script>
 
 # Übung Lektion 35
 
@@ -80,6 +100,7 @@ C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta 
 ![](/images/uebung058.jpg)  
 Abb.: ब्राह्मणीषु पचन्तीषु ...  
 In der Nähe von Thiruvananthapuram \= തിരുവനന്തപുരം  
-\[Bildquelle: FriskoDude. -- [http://www.flickr.com/photos/friskodude/1177242/](http://www.flickr.com/photos/friskodude/1177242/). -- Zugriff am 2009-01-06. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] 
+\[Bildquelle: FriskoDude. -- http://www.flickr.com/photos/friskodude/1177242/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+ 
 
 Zu den [Lösungen der Übungen 36 - 40](uebung36.md)

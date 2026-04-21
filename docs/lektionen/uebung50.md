@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Welches Phänomen führt laut Manusmṛti zur Entstehung von Getreide und Geschöpfen (Übung B.5)?',
+    options: ['Regen (vṛṣṭi)', 'Wind', 'Feuer', 'Arbeit'],
+    answer: 0,
+    explanation: 'Aus dem Regen entsteht Speise (anna), daraus die Geschöpfe (prajā) (Übung 50.60).'
+  },
+  {
+    question: 'Was bedeutet der Vers „santushto bhāryayā bhartā...“ (Übung B.3)?',
+    options: ['Wenn Gatte und Gattin gegenseitig zufrieden sind, herrscht stetes Glück.', 'Der Gatte soll die Frau immer belehren.', 'Die Frau muss dem Gatten immer dienen.', 'Glück ist im Leben nicht gewiss.'],
+    answer: 0,
+    explanation: 'Der Vers betont die gegenseitige Zufriedenheit als Grundlage für das Familienglück (Übung 50.49).'
+  },
+  {
+    question: 'Wer ist laut Definition ein „upādhyāya“ (Übung B.10)?',
+    options: ['Jemand, der beruflich Teile des Veda oder Hilfswissenschaften lehrt.', 'Jemand, der das Upanayana-Ritual gibt.', 'Der leibliche Vater.', 'Ein königlicher Berater.'],
+    answer: 0,
+    explanation: 'Ein Upādhyāya lehrt Teile des Veda oder Hilfswissenschaften für den Lebensunterhalt (Übung 50.101).'
+  }
+]
+</script>
 
 # Übung Lektion 50
 
@@ -115,4 +135,4 @@ Abb.:  संतुष्टो भार्यया भर्ता
 यस्मिन्नेव कुले नित्यम्  
 कल्याणं तत्र वै ध्रुवम् ॥  
 Christliche Familie, ca. 1900  
-\[Bildquelle: whatsthatpicture. -- [http://www.flickr.com/photos/whatsthatpicture/2993549480/](http://www.flickr.com/photos/whatsthatpicture/2993549480/). -- Zugriff am 2009-01-24. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)\]
+\[Bildquelle: whatsthatpicture. -- http://www.flickr.com/photos/whatsthatpicture/2993549480/. -- Zugriff am 2009-01-24. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]

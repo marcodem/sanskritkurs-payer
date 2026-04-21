@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist die s-Aoristform (2.sg.P) von dṛś 4P "sehen" (Übung B.13)?',
+    options: ['adrākṣīḥ', 'adarśat', 'adrākṣaḥ', 'adṛkta'],
+    answer: 0,
+    explanation: 'dṛś bildet den s-Aorist Parasmaipada mit Dehnstufe (adrākṣīḥ) (Übung 57.54).'
+  },
+  {
+    question: 'Welche Form ist "ajaiṣīt" (Übung A.8)?',
+    options: ['3.sg.Aorist (s-Aorist Parasmaipada) von ji ("siegen")', '3.sg.Futur von ji', '3.sg.Perfekt von ji', '2.sg.Aorist (s-Aorist Ātmanepada) von ji'],
+    answer: 0,
+    explanation: 'ajaiṣīt ist die 3.sg.s-Aorist.P von ji (Übung 57.17).'
+  },
+  {
+    question: 'Welche Form ist "akṛthāḥ" (Übung A.5)?',
+    options: ['2.sg.s-Aorist (Ātmanepada) von kṛ ("tun")', '2.sg.Imperfekt von kṛ', '3.sg.Aorist von kṛ', '2.pl.Aorist von kṛ'],
+    answer: 0,
+    explanation: 'akṛthāḥ ist die 2.sg.Ā des Aorist von kṛ (Übung 57.14).'
+  }
+]
+</script>
 
 # Übung Lektion 57
 

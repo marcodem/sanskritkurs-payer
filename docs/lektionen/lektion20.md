@@ -3,21 +3,6 @@
 
 # Lektion 20
 
-## Übersicht
-
-*   20.1. Possesivkomposita = बहुव्रीहि m.
-*   20.2. Bahuvrīhi mit attributivem Vorderglied
-*   20.3. Bahuvrīhi mit appositionellem Vorderglied
-*   20.4. Bahuvrīhi mit kasuellem Vorderglied
-*   20.5. Bahuvrīhi mit adverbiellem Vorderglied
-*   20.6. Flexion des Schlussglieds eines Bahuvrīhi
-*   20.7. Eine andere Einteilung der Arten von Bahuvrīhis
-*   20.8. Verhältnis von Bahuvrīhi und Relativsatz
-*   20.9. Wortliste
-*   20.10. Übung 1
-*   20.11. Übung 2
-*   20.12. Übersetzungsübung
-
 ## 20.1. Possesivkomposita = बहुव्रीहि m.
 
 ![](/images/lekt2004.jpg)  
@@ -525,4 +510,3 @@ Noch ein सुभाषितम् :
 > विचित्रं विधिचेष्टितम् ॥
 > 
 > Erklärung: इच्छताम् = gen. Pl. Part Präs. P zu इष् : der wünschenden
-

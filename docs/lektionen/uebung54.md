@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist die Aoristform von „yanti“ (sie gehen) laut Übung 1?',
+    options: ['aguḥ', 'agāt', 'ayuḥ', 'agacchanta'],
+    answer: 0,
+    explanation: 'Die Aoristform (Wurzelaorist, 3.pl) von yanti (i) ist aguḥ (Übung 54.12).'
+  },
+  {
+    question: 'Wie lautet der Passiv-Aorist von „stūyate“ (er wird gelobt) laut Übung 19?',
+    options: ['astāvi', 'astuta', 'astūyata', 'astāvita'],
+    answer: 0,
+    explanation: 'Der Passiv-Aorist (3.sg) von stu ist astāvi (Übung 54.30).'
+  },
+  {
+    question: 'Was ist die Aoristform von „pibāmi“ (ich trinke) laut Übung 2?',
+    options: ['apām', 'apibat', 'apāyi', 'apāmi'],
+    answer: 0,
+    explanation: 'Die Aoristform (1.sg) von pā (trinken) ist apām (Übung 54.12).'
+  }
+]
+</script>
 
 # Übung Lektion 54
 

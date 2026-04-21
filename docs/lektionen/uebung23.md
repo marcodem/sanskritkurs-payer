@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Übersetzen Sie den Satzanfang „narāḥ svargaṃ labdhuṃ ...“ (aus Übung D.1).',
+    options: ['Die Menschen haben den Himmel erreicht', 'Menschen, um den Himmel zu erlangen ...', 'Den Himmel sehen', 'Wasser im Himmel'],
+    answer: 1,
+    explanation: 'labdhuṃ ist der Infinitiv von labh (erhalten/erlangen); er drückt die Absicht aus.'
+  },
+  {
+    question: 'Wie lautet der Infinitiv der Wurzel „dṛś“ (sehen) unter Beachtung der Lautveränderung?',
+    options: ['darśitum', 'draṣṭum', 'dṛśitum', 'draṣṭun'],
+    answer: 1,
+    explanation: 'dṛś wird zu draṣṭum (Hochstufe mit -ra- und Sandhi-Regel für ś + t).'
+  },
+  {
+    question: 'Was bedeutet das Wort „vaktukāmaḥ“ (वक्तुकामः) als Bahuvrīhi?',
+    options: ['Ein lieblicher Sprecher', 'Einer, dessen Wunsch es ist, zu sprechen', 'Das Ende der Rede', 'Viel reden'],
+    answer: 1,
+    explanation: 'vaktu (Infinitiv) + kāma (Wunsch). Es beschreibt jemanden, dessen Wunsch das Sprechen ist = einer, der sprechen möchte.'
+  }
+]
+</script>
 
 # Übung Lektion 23
 
@@ -236,4 +256,4 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 ![](/images/uebung036.jpg)  
 Abb.: बालाः पिबन्ति  
 Hampi = ಹಂಪೆ  
-\[Bildquelle: fraboof. -- [http://www.flickr.com/photos/fraboof/2126653290/](http://www.flickr.com/photos/fraboof/2126653290/). -- Zugriff am 2008-12-24. -- [](http://creativecommons.org/licenses/by-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, share alike)\]
+[Bildquelle: fraboof. -- http://www.flickr.com/photos/fraboof/2126653290/. -- Zugriff am 2008-12-24. -- Creative Commons Lizenz (Namensnennung, share alike)]

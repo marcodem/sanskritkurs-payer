@@ -3,20 +3,6 @@
 
 # Lektion 32
 
-## Übersicht
-
-*   32.1. Die Vergangenheitstempora
-*   32.2. Das Imperfekt (लङ्)
-*   32.3. Regeln für das Augment
-*   32.4. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
-    *   32.4.1. Thematische Präsensklassen
-    *   32.4.2. Athematische Präsensklassen
-*   32.5. Wortliste
-*   32.6. Übung
-*   32.7. Übung zur Wiederholung über die Weihnachtsferien
-*   32.8. Übung zur Wiederholung
-*   32.9. Übersetzungsübung
-
 ## 32.1. Die Vergangenheitstempora
 
 In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:
@@ -660,4 +646,3 @@ Erklärungen:
 ![](/images/lekt3210.jpg)  
 Abb.: तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त  
 \[Bildquelle: Wikipedia. GNU FDLicense\]
-

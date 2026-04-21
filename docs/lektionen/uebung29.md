@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet das Wort „mātsyanayāya“ (मात्स्यन्याय) in der indischen Staatstheorie?',
+    options: ['Das Gesetz der Fische (Recht des Stärkeren)', 'Ein buddhistisches Gesetz', 'Die Ordnung der Brahmanen', 'Ein Opferritual'],
+    answer: 0,
+    explanation: 'Es bedeutet, dass die Großen die Kleinen verschlingen (Recht des Stärkeren), wenn keine staatliche Ordnung (daṇḍa) existiert.'
+  },
+  {
+    question: 'Was drückt das Wort „udbhāvayati“ (Kausativ zu ud-bhū) aus?',
+    options: ['Er vernichtet', 'Er bewirkt das Entstehen / bringt hervor', 'Er geht aufwärts', 'Er meditiert'],
+    answer: 1,
+    explanation: 'Kausativ zu ud-bhū (aufstehen/entstehen) = „hervorbringen / entstehen lassen“.'
+  },
+  {
+    question: 'Wer ist ein „Parivrājaka“?',
+    options: ['Ein König', 'Ein Diener', 'Ein umherwandernder Mönch', 'Ein Kaufmann'],
+    answer: 2,
+    explanation: 'Ein Parivrājaka (von pari-vraj) ist ein umherwandernder Asket.'
+  }
+]
+</script>
 
 # Übung Lektion 29
 
@@ -58,4 +78,4 @@ Abb.: चतुर्वर्णाश्रमो लोको
 स्वधर्मकर्माभिरतो  
 वर्तते स्वेषु वर्त्मसु ॥१६॥  
 Dr. Raman Singh = ड. रमण सिंग, seit 2003 Chief Minister (मुख्यमंत्री) von Chhatisgarh छत्तीसगढ़ = छत्तीसगढ़  
-\[Bildquelle: Amita Sharma. -- [http://www.flickr.com/photos/hindibhasha/2593298459/in/set-72157605709733141/](http://www.flickr.com/photos/hindibhasha/2593298459/in/set-72157605709733141/). -- Zugriff am 2008-12-29. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+\[Bildquelle: Amita Sharma. -- http://www.flickr.com/photos/hindibhasha/2593298459/in/set-72157605709733141/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung)\]

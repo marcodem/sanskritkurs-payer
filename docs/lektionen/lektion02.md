@@ -3,17 +3,6 @@
 
 # Lektion 2
 
-## Übersicht
-
-*   2.1. Der Nominalsatz
-*   2.2. Zur Deklination (Beugung von Nomina)
-*   2.3. Der Nominativ Singular = prathamā ekavacanam = प्रथमा एकवचनम्
-    *   2.3.1. Nominativ Singular auf -s
-*   2.4. Sandhi -- सन्धि
-    *   2.4.1. Sandhi von auslautendem -s
-*   2.5. Wortliste
-*   2.6. Übung
-
 ## 2.1. Der Nominalsatz
 
 Schema: Prädikatsnomen - Subjekt
@@ -240,5 +229,3 @@ B) Übersetzen Sie ins Sanskrit:
 7.  Der Zweimalgeborene ist ein Brahmane.
 8.  Der heilige Mann ist ein Lehrer.
 9.  Der Lehrer ist ein heiliger Mann.
-
-

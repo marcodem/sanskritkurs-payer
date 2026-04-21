@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „yogayukto matiṃ ... prajñāyāṃ samādhatte“?',
+    options: ['Wer dem Yoga verbunden ist, konzentriert seinen Geist auf die zur Erlösung führende Weisheit', 'Der Yogi isst zusammen mit seinen Schülern', 'Wer Yoga übt, wird reich', 'Der Geist ist die Wurzel des Leidens'],
+    answer: 0,
+    explanation: 'samādhatte (von sam-ā-dhā, 3U) bedeutet „konzentriert sich auf / richtet seine Aufmerksamkeit auf“.'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Indikativ Präsens Parasmaipada von „bhī“ (sich fürchten)?',
+    options: ['bibheti', 'bibhyati', 'bhayanti', 'bhayante'],
+    answer: 1,
+    explanation: 'bhī bildet den schwachen Stamm bibhy- + ati = bibhyati.'
+  },
+  {
+    question: 'Was bedeutet die Phrase „putram ādaya“?',
+    options: ['Den Sohn schlagend', 'In Begleitung des Sohnes / Den Sohn mitnehmend', 'Dem Sohn gebend', 'Den Sohn messend'],
+    answer: 1,
+    explanation: 'ādaya ist der Absolutiv von ā-dā (nehmen). Mit Akkusativ bedeutet es „begleitet von / mit“.'
+  }
+]
+</script>
 
 # Übung Lektion 33
 
@@ -109,4 +129,4 @@ Wat Saen Suk = วัดแสนสุข, Bang Saen = บางแสน, Thai
 ![](/images/uebung056.jpg)  
 Abb.: मितमतयो नरकभयाद्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति  
 Wat Saen Suk = วัดแสนสุข, Bang Saen = บางแสน, Thailand  
-\[Bildquelle: Michael Sarver. -- [http://www.flickr.com/photos/michaelsarver/72315946/in/set-420804/](http://www.flickr.com/photos/michaelsarver/72315946/in/set-420804/). -- Zugriff am 2009-01-06. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+\[Bildquelle: Michael Sarver. -- http://www.flickr.com/photos/michaelsarver/72315946/in/set-420804/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]

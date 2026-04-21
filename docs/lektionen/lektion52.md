@@ -3,31 +3,6 @@
 
 # Lektion 52
 
-## Übersicht
-
-*   52.1. Neutrum der Stämme auf -i und -u
-*   52.2. Nominalbildung
-    *   52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-    *   52.2.2. तद्धित-Suffix -maya / -mayī
-    *   52.2.3. तद्धित-Suffix -eya
-*   52.3. Adverbialbildung: Adverbialsuffix -śas
-*   52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (अभुततद्भावः)
-    *   52.4.1. cvi-Bildungen
-    *   52.4.2. Suffix -sāt
-*   52.5. Wortwiederholungen (द्विरुक्तम्)
-*   52.6. Das Zahlwort (सम्ख्या f.)
-    *   52.6.1. Kardinalzahlen
-        *   52.6.1.1. Zahladjektive (für 1 bis 19)
-        *   52.6.1.2. Zahlsubstantive (für 19ff.)
-        *   52.6.1.3. Syntaktisches zu den Kardinalzahlen
-    *   52.6.2. Ordinalzahlen
-    *   52.6.3. Zahladverbien
-    *   52.6.4. Zahladjektive
-    *   52.6.5. Komposita mit Kardinalzahlen im Vorderglied
-*   52.7. Wortliste
-*   52.8. Übersetzungsübung
-*   52.9. Aufgaben während der Semesterferien
-
 ## 52.1. Neutrum der Stämme auf -i und -u
 
 Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).
@@ -743,4 +718,3 @@ Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 ![](/images/lekt5201.jpg)  
 Abb.: श्रीगुम्पिः , मम मन्त्री  
 (Bild: Payer)
-

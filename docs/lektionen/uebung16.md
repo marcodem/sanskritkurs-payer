@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie wird das Kompositum aus "guṇavat" (tugendhaft) und "brāhmaṇī" (Brahminenfrau) nach den Sandhi-Regeln korrekt gebildet?',
+    options: ['guṇavatbrāhmaṇī', 'guṇavadbrāhmaṇī', 'guṇavanbrāhmaṇī', 'guṇavabrāhmaṇī'],
+    answer: 1,
+    explanation: 'Vor stimmhaften Konsonanten (b-) wird das auslautende -t im Kompositum zum stimmhaften -d.'
+  },
+  {
+    question: 'Was passiert, wenn ein Wort auf einen dentalen Verschlusslaut (-t, -d) endet und das nächste Wort mit einem Palatal (c-, ch-, j-, jh-) beginnt?',
+    options: ['Nichts, es bleibt wie es ist', 'Der Dental wird zum entsprechenden Palatal (z.B. -t + j- -> -jj-)', 'Es wird ein Anusvara eingeschoben', 'Der Palatal wird zum Dental'],
+    answer: 1,
+    explanation: 'Dentale assimilieren sich vollständig an folgende Palatale (z.B. -t + j -> -jj-).'
+  },
+  {
+    question: 'Was ist die korrekte Sandhi-Verbindung für "satyavat" + "caitanya"?',
+    options: ['satyavatcaitanya', 'satyavadcaitanya', 'satyavaccaitanya', 'satyavaṃcaitanya'],
+    answer: 2,
+    explanation: 'Vor dem Palatal c- wird das auslautende -t zu -cc- assimiliert.'
+  }
+]
+</script>
 
 # Übung Lektion 16
 
@@ -242,4 +262,4 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 
 ![](/images/uebung024.jpg)  
 Abb.: योगश्चित्तवृत्तिनिरोधः  
-\[Bildquelle: Roshnii. -- [http://www.flickr.com/photos/roshnii/110087684/](http://www.flickr.com/photos/roshnii/110087684/). -- Zugriff am 2008-12-22. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+[Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110087684/. -- Zugriff am 2008-12-22. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]

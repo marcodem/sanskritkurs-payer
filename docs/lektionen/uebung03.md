@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist der Plural von „gurur brāhmaṇaḥ“?',
+    options: ['guravo brāhmaṇāḥ', 'gurū brāhmaṇāḥ', 'guravaḥ brāhmaṇas', 'gurur brāhmaṇas'],
+    answer: 0,
+    explanation: 'Im Plural wird guru- zu guravas und brāhmaṇa- zu brāhmaṇās (brāhmaṇāḥ).'
+  },
+  {
+    question: 'Wie lautet die feminine Form von „sādhur guruḥ“?',
+    options: ['sādhvī gurvī', 'sādhvī gurvīḥ', 'sādhvī gurvīm', 'sādhu gurvī'],
+    answer: 0,
+    explanation: 'Sowohl sādhu als auch guru bilden das Femininum auf -ī (sādhvī und gurvī).'
+  },
+  {
+    question: 'Wie verbindet sich „devatā + annapūrṇā“ im Sandhi?',
+    options: ['devatānnapūrṇā', 'devatā annapūrṇā', 'devatannapūrṇā', 'devatāyayannapūrṇā'],
+    answer: 0,
+    explanation: 'ā + a ergibt im Sandhi langes ā.'
+  }
+]
+</script>
 
 # Übung Lektion 3
 

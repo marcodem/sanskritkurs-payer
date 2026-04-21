@@ -3,15 +3,6 @@
 
 # Lektion 56
 
-## Übersicht
-
-*   56.1. Der reduplizierte Aorist
-    *   56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-*   56.2. Der Injunktiv
-*   56.3. Der Verbotssatz
-*   56.4. स्म
-*   56.5. Übung
-
 ## 56.1. Der reduplizierte Aorist
 
 Bildung:
@@ -279,4 +270,3 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 78.  अकस्मात्
 79.  मित्रध्रुक्
 80.  अवोचन्
-

@@ -3,24 +3,6 @@
 
 # Lektion 38
 
-## Übersicht
-
-*   38.1. Losung der Woche
-*   38.2. Lautwandel von Nasalen im Wort
-*   38.3. Deklination der Stämme auf -n
-    *   38.3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
-    *   38.3.2. Nomina auf -man bzw. -van nach Konsonant
-    *   38.3.3. Maskulina und Neutra auf -in, -min, -vin
-*   38.4. Zur Nominalbildung: तद्धित-Suffix -in
-*   38.5. Syntaktisches zu नामन्
-*   38.6. Syntaktisches zu आत्मन्
-*   38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
-*   38.8. Stämme auf -an als Hinterglied eines बहुव्रीहि
-*   38.9. Wortliste
-*   38.10. Übung
-*   38.11. Wortliste zur Übersetzungsübung
-*   38.12. Übersetzungsübung
-
 ## 38.1. Losung der Woche
 
 मनुस्मृति ४.३२ über rechtes Urinieren:
@@ -551,4 +533,3 @@ Erklärungen:
 यूयम् Nom.pl. "ihr"
 
 युष्माकम् Gen.pl. zu यूयम्
-

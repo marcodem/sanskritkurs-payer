@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Welcher der folgenden Sätze ist eine korrekte Passivkonstruktion?',
+    options: ['devaḥ mantraṃ karoti', 'devena mantraḥ kriyate', 'devaḥ mantrena kriyate', 'devaṃ mantraḥ karoti'],
+    answer: 1,
+    explanation: 'Im Passiv steht der Agens im Instrumental (devena/von dem Gott), das Objekt im Nominativ (mantraḥ/der Spruch).'
+  },
+  {
+    question: 'Wie lautet der Instrumentalis Plural von „kavi“ (Dichter)?',
+    options: ['kavaiḥ', 'kavibhis', 'kavīnā', 'kavyā'],
+    answer: 1,
+    explanation: 'i-Stämme bilden den Instrumentalis Plural auf -bhis (kavibhis).'
+  },
+  {
+    question: 'Was bedeutet das Wort „satya“?',
+    options: ['Unwahrheit', 'Lüge', 'Wahrheit', 'Himmel'],
+    answer: 2,
+    explanation: 'Satya bedeutet Wahrheit und ist ein zentraler Begriff in der indischen Philosophie.'
+  }
+]
+</script>
 
 # Übung Lektion 10
 
@@ -352,5 +372,6 @@ Der Fuhrmann lenkt den Wagen.
 ![](/images/uebung012.jpg)  
 Abb.: सारथी रथं नयति |  
 \[Bildquelle: World Bank Photo Collection. -- [http://www.flickr.com/photos/worldbank/2277349299/](http://www.flickr.com/photos/worldbank/2277349299/). -- Zugriff am 2008-11-29. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+ 
 
 Zu Lösung der [Übungen Lektion 11 - 15](uebung11.md)

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Imperativ „ehi“ (Übung 47.29)?',
+    options: ['Komm!', 'Geh!', 'Bleib!', 'Sprich!'],
+    answer: 0,
+    explanation: 'ehi ist der Imperativ von ā-gam (herbeikommen) oder ā-i (Lektion 47.29).'
+  },
+  {
+    question: 'Wie lautet die 1. Person Singular Imperativ Parasmaipada von „bhū“ (sein)?',
+    options: ['bhavāni', 'bhava', 'bhavatu', 'bhavāma'],
+    answer: 0,
+    explanation: 'Die Form lautet bhavāni (Lektion 47.90).'
+  },
+  {
+    question: 'Was bedeutet der Ausruf „ārye svāgataṃ te“ (Übung A.6)?',
+    options: ['Willkommen, gnädige Frau!', 'Setzen Sie sich!', 'Befehlen Sie!', 'Viel Glück!'],
+    answer: 0,
+    explanation: 'svāgataṃ (Willkommen) te (dir) (Übung 47.30).'
+  }
+]
+</script>
 
 # Übung Lektion 47
 
@@ -191,4 +211,4 @@ B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ):
 Abb.: माद्यत  
 Toddy-Shop = കള്ള്  
 Kochi = കൊച്ചി  
-\[Bildquelle: Nice Logo. -- [http://www.flickr.com/photos/nicelogo/869115128/](http://www.flickr.com/photos/nicelogo/869115128/). -- Zugriff am 2009-01-23. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+\[Bildquelle: Nice Logo. -- http://www.flickr.com/photos/nicelogo/869115128/. -- Zugriff am 2009-01-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]

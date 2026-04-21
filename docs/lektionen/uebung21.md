@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet das Wort „satī“ (सती) wörtlich und in welchem historischen Kontext wurde es bekannt?',
+    options: ['Eine schlechte Frau', 'Eine „treue“ Frau (Witwe, die sich verbrennt)', 'Eine ledige Frau', 'Eine Göttin'],
+    answer: 1,
+    explanation: 'satī (weibl. Partizip von as „sein“) bedeutet „die Seiende/Gute“; historisch bezeichnet es eine Witwe, die sich mit ihrem verstorbenen Mann verbrennt.'
+  },
+  {
+    question: 'Wie wird der Stamm von „mahānt-“ (groß) üblicherweise als Vorderglied eines Kompositums verwendet?',
+    options: ['mahatt-', 'māha-', 'mahā-', 'mahat-'],
+    answer: 2,
+    explanation: 'In Komposita wird meist mahā- verwendet (z.B. mahā-kavi, mahā-deva).'
+  },
+  {
+    question: 'Übersetzen Sie den Satzteil „mṛtaṃ dahann agniḥ“ (aus Übung B.1).',
+    options: ['Das Feuer, das den Toten verbrennt', 'Der tote Mann brennt', 'Das Feuer stirbt', 'Ein Haus im Feuer'],
+    answer: 0,
+    explanation: 'dahann (brennend/verbrennend) ist das Partizip Präsens von dah (brennen); mṛtaṃ ist das Objekt (der Tote).'
+  }
+]
+</script>
 
 # Übung Lektion 21
 
@@ -29,4 +49,4 @@ B) Übersetzen Sie:
 
 ![](/images/uebung033.jpg)  
 Abb.: हतान्धकारा दीपाः  
-\[Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/3099964027/](http://www.flickr.com/photos/mckaysavage/3099964027/). -- Zugriff am 2008-12-23. -- [](http://creativecommons.org/licenses/by/2.0/deed.de)Creative Commons Lizenz (Namensnennung)\]
+[Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3099964027/. -- Zugriff am 2008-12-23. -- Creative Commons Lizenz (Namensnennung)]

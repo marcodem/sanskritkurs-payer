@@ -3,15 +3,6 @@
 
 # Lektion 14
 
-## Übersicht
-
-*   14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)
-*   14.2. Bildung der Genetivformen (ṣāṣṭhī f. = षष्ठी)
-*   14.3. Weiteres zum Gebrauch des Genetiv (षष्ठी)
-*   14.4. Wortliste
-*   14.5. Subhāṣitāni = सुभाषितानि = Sprichwörter
-*   14.6. Übung
-
 ## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = षष्टी = sechste Kasusendung)
 
 Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
@@ -369,4 +360,3 @@ B) Übersetzen Sie:
 Abb.: केषामिमानि गृहाणि ।  
 Fischerdorf, Kerala (കേരളം)  
 \[Bildquelle: FriskoDude. -- [http://www.flickr.com/photos/friskodude/1148923/](http://www.flickr.com/photos/friskodude/1148923/). -- Zugriff am 2008-12-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-

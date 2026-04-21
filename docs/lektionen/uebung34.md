@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „kṣitiṃ saśasyāṃ yo dadyāt...“?',
+    options: ['Wer dem Brahmanen die Erde mit der Saat gibt...', 'Das Getreide wächst auf der Erde', 'Brahmanen essen Getreide', 'Die Erde ist rund'],
+    answer: 0,
+    explanation: 'dadyāt ist der Optativ von dā (geben). śasya bedeutet „Saat/Getreide“.'
+  },
+  {
+    question: 'Was ist die Bedeutung von „dvijottama“?',
+    options: ['Letzter der Zweimalgeborenen', 'Bester der Zweimalgeborenen (Brahmane)', 'Zweimalgeborener Sohn', 'Gott der Brahmanen'],
+    answer: 1,
+    explanation: 'uttama bedeutet „höchster/bester“. Ein dvijottama ist ein Brahmane.'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „as“ (sein)?',
+    options: ['āsan', 'āsur', 'asanti', 'babhūvuḥ'],
+    answer: 1,
+    explanation: 'as bildet das Perfekt āsa (Singular) und āsur (Plural).'
+  }
+]
+</script>
 
 # Übung Lektion 34
 

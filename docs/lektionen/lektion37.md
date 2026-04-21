@@ -3,31 +3,6 @@
 
 # Lektion 37
 
-## Übersicht
-
-*   37.1. Das Adverb (क्रियाविशेषनम्)
-*   37.2. Adverbialer Gebrauch von Kasusformen
-    *   37.2.1. Akkusativ (द्वितीया)
-    *   37.2.2. Instrumentalis (तृतीया)
-    *   37.2.3. Dativ (चतुर्थी)
-    *   37.2.4. Ablativ (पञ्चमी)
-    *   37.2.5. Genetiv (षष्ठी)
-    *   37.2.6. Lokativ (सप्तमी)
-*   37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
-*   37.4. Bildung von Adverbien mit Adverbialsuffixen
-*   37.5. Adverbiale Komposita
-    *   37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
-    *   37.5.2. Adverbial gebrauchte बहुव्रीहि
-    *   37.5.3. अव्ययीभाव-Komposita
-*   37.6. Syntaktisches
-*   37.7. Indefinitpronomina
-*   37.8. Der Fragesatz
-    *   37.8.1. Wortfragen (Ergänzungsfragen)
-    *   37.8.2. Satzfragen
-*   37.9. Wortliste
-*   37.10. Übung
-*   37.11. Wiederholungsübung
-
 ## 37.1. Das Adverb (क्रियाविशेषनम्)
 
 Adverbien werden im Sanskrit gebildet
@@ -506,4 +481,3 @@ Delhi = दहली / دہلی
 Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden:
 
 Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-

@@ -3,15 +3,6 @@
 
 # Lektion 45
 
-## Übersicht
-
-*   45.1. Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
-    *   45.1.1. Dritte Präsensklasse (जुहोत्यादि)
-    *   45.1.2. Siebte Präsensklasse (रुधादि)
-*   45.2. Der Vokativ Singular (आमन्त्रितमेकवचने)
-*   45.3. Wortliste
-*   45.4. Übung
-
 ## 45.1. Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
 
 ### 45.1.1. Dritte Präsensklasse (जुहोत्यादि)
@@ -170,4 +161,3 @@ B) Übersetzen Sie:
 ![](/images/lekt4502.jpg)  
 Abb.: कन्ये किं लिखसि  
 \[Bildquelle: John Isaac / World Bank. -- [http://www.flickr.com/photos/worldbank/2348425672/](http://www.flickr.com/photos/worldbank/2348425672/). -- Zugriff am 2009-01-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-

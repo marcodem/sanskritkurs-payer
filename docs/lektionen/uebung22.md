@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet das Absolutivum „smṛtvā“ (स्मृत्वा)?',
+    options: ['Erinnert werden', 'Nachdem er sich erinnert hat / nach dem Erinnern', 'Sich erinnern wollend', 'Vergessen'],
+    answer: 1,
+    explanation: 'smṛtvā ist das Absolutivum von smṛ (sich erinnern).'
+  },
+  {
+    question: 'Übersetzen Sie den Satzanfang „annaṃ paktvā ...“ (aus Übung B.1).',
+    options: ['Nachdem sie das Essen gekocht hat ...', 'Das Essen wird gekocht', 'Die Speise ist fertig', 'Wasser trinken'],
+    answer: 0,
+    explanation: 'paktvā ist das Absolutivum von pac (kochen/garen).'
+  },
+  {
+    question: 'Welches dieser Absolutiva hat ein Präfix?',
+    options: ['kṛtvā', 'gatvā', 'āgatya', 'śrutvā'],
+    answer: 2,
+    explanation: 'ā-gatya enthält das Präfix ā- und endet daher auf -ya (Lösung 22.2.2).'
+  }
+]
+</script>
 
 # Übung Lektion 22
 
@@ -87,4 +107,4 @@ C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen
 ![](/images/uebung034.jpg)  
 Abb.: धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति  
 Thailand  
-\[Bildquelle: dbz885.-- [http://www.flickr.com/photos/dibdabdebi/217939309/](http://www.flickr.com/photos/dibdabdebi/217939309/). -- Zugriff am 2008-12-23. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
+[Bildquelle: dbz885.-- http://www.flickr.com/photos/dibdabdebi/217939309/. -- Zugriff am 2008-12-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]

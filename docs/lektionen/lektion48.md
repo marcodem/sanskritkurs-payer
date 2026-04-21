@@ -3,19 +3,6 @@
 
 # Lektion 48
 
-## Übersicht
-
-*   48.1. सुभाषितानि
-*   48.2. Bildung des Imperativs (लोट्) athematischer Präsensstämme
-    *   48.2.1. Endungen des Imperativ an athematischen Präsensstämmen
-    *   48.2.2. Form des Präsensstamms
-    *   48.2.3. Zweite Präsensklasse (अदादि)
-    *   48.2.4. Dritte Präsensklasse (जुहोत्यादि)
-*   48.3. Zur Nominalbildung: तद्धित-Suffixe -a und -ya
-*   48.4. Wortliste
-*   48.5. Übung
-*   48.6. Übersetzungsübung
-
 ## 48.1. सुभाषितानि
 
 सत्यम् वद ॥१॥
@@ -488,4 +475,3 @@ B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichs
 > 
 > Erklärung:  
 > द्वयोर्हि कुलयोः : Gen. (षष्ठी) Dual zu द्वे कुले "zwei Familien"
-

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet der Genitiv Plural von „kavi“ (Dichter)?',
+    options: ['kaveḥ', 'kavīnām', 'kavānām', 'kavyānām'],
+    answer: 1,
+    explanation: 'Vokalische Stämme bilden den Genitiv Plural auf -nām mit Dehnung des vorangehenden Vokals (kavi -> kavī-nām).'
+  },
+  {
+    question: 'Welcher Genitiv Singular ist korrekt für den Stamm „devatā“ (Gottheit)?',
+    options: ['devatāyāḥ', 'devatāyai', 'devatāsya', 'devatāyām'],
+    answer: 0,
+    explanation: 'Feminina auf -ā bilden den Genitiv Singular auf -āyāḥ (devatāyāḥ).'
+  },
+  {
+    question: 'Was bedeutet der Satz „शीलं नरस्य भूषणम्“?',
+    options: ['Wahrheit ist das Licht der Welt.', 'Tugend/Charakter ist des Menschen Schmuck.', 'Böse Menschen kommen nicht in den Himmel.', 'Glück entsteht durch Wahrheit.'],
+    answer: 1,
+    explanation: 'Śīlam (Charakter/Tugend) narasya (des Menschen) bhūṣaṇam (Schmuck).'
+  }
+]
+</script>
 
 # Übung Lektion 14
 

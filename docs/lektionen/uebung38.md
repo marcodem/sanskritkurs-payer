@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „daśa mūḍhā deśāṭanāya prasthitāḥ“?',
+    options: ['Zehn Toren machten sich auf, das Land zu durchwandern', 'Zehn Könige kämpften um das Land', 'Zehn Elefanten liefen durch den Wald', 'Neun Toren suchten den zehnten'],
+    answer: 0,
+    explanation: 'daśa bedeutet „zehn“. mūḍha bedeutet „Tor/Dummkopf“. deśāṭana bedeutet „Landesdurchwanderung“.'
+  },
+  {
+    question: 'Warum glaubten die Toren in der Geschichte, einer von ihnen sei ertrunken?',
+    options: ['Weil sie das Zählen nicht beherrschten', 'Weil jeder beim Zählen sich selbst vergaß', 'Weil tatsächlich einer im Fluss blieb', 'Weil ein Affe einen gestohlen hatte'],
+    answer: 1,
+    explanation: '„yuṣmākam ekaiko \'pi nātmānam agaṇayat“ — Jeder von euch hat sich selbst nicht mitgezählt (Lektion 38.12).'
+  },
+  {
+    question: 'Welches Wort im Satz „ātmanā kṛtaṃ pāpam“ (Übung 13) drückt „selbst“ aus?',
+    options: ['kṛtaṃ', 'pāpam', 'ātmanā', 'prasannātman'],
+    answer: 2,
+    explanation: 'ātmanā ist der Instrumentalis von ātman und bedeutet hier „durch sich selbst“ oder „selbst“.'
+  }
+]
+</script>
 
 # Übung Lektion 38
 

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „putre jāte sugataḥ ... pravavrāja“?',
+    options: ['Als ein Sohn geboren war, ging Sugata in die Hauslosigkeit', 'Sugata liebt seinen Sohn', 'Der Sohn des Sugata wird König', 'Als der Sohn wuchs, wurde Sugata reich'],
+    answer: 0,
+    explanation: 'pravavrāja ist das Perfekt von pra-vraj (ausziehen/heimlos werden). jāte is Lokativus Absolutus (als geboren worden war).'
+  },
+  {
+    question: 'Wie lautet die 3. Person Plural Perfekt Parasmaipada von „tyaj“ (verlassen)?',
+    options: ['tyajanti', 'tatyājuḥ', 'tatyajuḥ', 'atyajan'],
+    answer: 2,
+    explanation: 'tyaj bildet das Perfekt tatyāja (Singular) und tatyajuḥ (Plural) - Typ Vc.'
+  },
+  {
+    question: 'Was bedeutet „jitendriyaḥ“ laut Manu-Smṛti 2.98?',
+    options: ['Einer, der Indra besiegt hat', 'Einer, der seine Sinne besiegt/beherrscht', 'Ein Diener Indras', 'Einer, dessen Sinne schwach sind'],
+    answer: 1,
+    explanation: 'jitendriya bedeutet „einer, dessen indriyas (Sinne) besiegt (jita) sind“.'
+  }
+]
+</script>
 
 # Übung Lektion 36
 
@@ -163,4 +183,4 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
 ![](/images/uebung059.jpg)  
 Abb.: जगौ  
 Baul = বাউল mit Dotara = দোতারা, Shantikniketan = শান্তিনিকেতন  
-\[Bildquelle: paulancheta. -- [http://www.flickr.com/photos/paulancheta/3164774529/](http://www.flickr.com/photos/paulancheta/3164774529/). -- Zugriff am 2009-01-20. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielel Nutzung, keine Bearbeitung)\]
+\[Bildquelle: paulancheta. -- http://www.flickr.com/photos/paulancheta/3164774529/. -- Zugriff am 2009-01-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielel Nutzung, keine Bearbeitung)\]

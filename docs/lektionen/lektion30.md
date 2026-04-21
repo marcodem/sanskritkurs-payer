@@ -3,19 +3,6 @@
 
 # Lektion 30
 
-## Übersicht
-
-*   30.1. Die 9. Präsensklasse (क्र्यादि = "क्री u.s.w.")
-*   30.2. Gebrauch des Optativ (लिङ्)
-*   30.3. Sekundärendungen der 3. Personen Singular und Plural
-*   30.4. Bildung des Optativ Präsens (लिङ्)
-    *   30.4.1. Thematische Präsensklassen
-    *   30.4.2. Athematische Präsensklassen
-*   30.5. Sandhi von auslautendem -r
-*   30.6. Wortliste
-*   30.7. Übung
-*   30.8. Wiederholungsübung zur Formenlehre
-
 ## 30.1. Die 9. Präsensklasse (क्र्यादि = "क्री u.s.w.")
 
 Bildung:
@@ -516,4 +503,3 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 38.  तस्यै
 39.  तस्मिन्
 40.  सते
-

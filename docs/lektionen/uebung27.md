@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satzteil „vāsitásuvastrāṃ narā lubhyanti“ (aus Übung B.3)?',
+    options: ['Männer begehren eine Frau, die schöne Kleider trägt', 'Männer hassen schöne Kleider', 'Die Stadt ist voll von Menschen', 'Rāma trägt ein neues Gewand'],
+    answer: 0,
+    explanation: 'vāsitá-su-vastrāṃ (Akk. fem.) = „eine, die schöne Kleider trägt“; lubhyanti = „begehren“.'
+  },
+  {
+    question: 'Wie lautet der Lokativ Singular von „kaví“ (Dichter)?',
+    options: ['kavyāḥ', 'kavau', 'kavyām', 'kavaye'],
+    answer: 1,
+    explanation: 'Maskuline i-Stämme bilden den Lokativ Singular auf -au.'
+  },
+  {
+    question: 'Was bedeutet die Form „matyām“ (मत्याम्) bei femininen i-Stämmen (z.B. mati)?',
+    options: ['Lokativ Singular', 'Akkusativ Plural', 'Dativ Singular', 'Instrumental Singular'],
+    answer: 0,
+    explanation: 'Feminine i-Stämme können den Lokativ Singular entweder auf -au oder auf -ām bilden (Lektion 27.2.3).'
+  }
+]
+</script>
 
 # Übung Lektion 27
 
@@ -46,4 +66,4 @@ B) Übersetzen Sie und lösen Sie die Komposita auf:
 ![](/images/uebung044.jpg)  
 Abb.: गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति  
 Uttarakhand = उत्तराखण्ड  
-\[Bildquelle: Peter Davis. -- [http://www.flickr.com/photos/pediddle/327799554/](http://www.flickr.com/photos/pediddle/327799554/). -- Zugriff am 2008-12-29. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+[Bildquelle: Peter Davis. -- http://www.flickr.com/photos/pediddle/327799554/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]

@@ -5,26 +5,6 @@
 
 ## Lektion 53 (Semesterferien)
 
-## Übersicht
-
-*   53.1. Der Dual (द्विवचन n.) der Nomina
-*   53.2. Dualendungen des Nomen
-*   53.3. Der Dual konsonantisch auslautender Stämme
-    *   53.3.1. Stämme ohne Stammabstufung
-    *   53.3.2. Stämme mit Stammabstufung
-*   53.4. Der Dual vokalisch auslautender Stämme
-*   53.5. Dualdvandva
-*   53.6. Der Dual von Pronomina
-*   53.7. Pronominaladjektive
-*   53.8. Unregelmäßige Steigerung
-*   53.9. Deklination der Komparative auf -īyas
-*   53.10. Metrik (Lehre von den Versmaßen)
-    *   53.10.1. Bedeutung der Bestimmung des Metrums
-    *   53.10.2. Arten von Metren
-    *   53.10.3. Die metrische Quantität von Silben
-    *   53.10.4. Der epische Śloka (श्लोक m.)
-*   53.11. Übung
-
 ## 53.1. Der Dual (द्विवचन n.) der Nomina
 
 Der Dual (द्विवचनम्) wird verwendet, um "zwei" zu bezeichnen:
@@ -668,4 +648,3 @@ Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 
 श्रीगणेषाय नमः
-

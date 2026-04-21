@@ -3,24 +3,6 @@
 
 # Lektion 43
 
-## Übersicht
-
-*   43.1. Personalendungen der 2. Person (मध्यमः = "mittlere &lt;Person&gt;")
-*   43.2. Bildung der Verbalformen der 2. Person (मध्यमः)
-    *   43.2.1. Thematische Stämme
-        *   43.2.1.1. Erste Präsensklasse (भ्वादि)
-        *   43.2.1.2. Sechste Präsensklasse (तुदादि)
-        *   43.2.1.3. Vierte Präsensklasse (दिवादि)
-        *   43.2.1.4. Zehnte Präsensklasse (चुरादि) und Kausative
-        *   43.2.1.5. Passiv
-        *   43.2.1.6. Futur (ऌट्)
-            *   43.2.1.6.1. अनिट्-Bildungen
-            *   43.2.1.6.2. सेट्-Bildungen
-*   43.3. Das Personalpronomen der zweiten Person
-*   43.4. Wortliste
-*   43.5. Übung
-*   43.6. संवादः = Gespräch
-
 ## 43.1. Personalendungen der 2. Person (मध्यमः = "mittlere &lt;Person&gt;")
 
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -443,4 +425,3 @@ Abb.: कदा पूराववर्तथाः ।
 Abb.: शर्करा  
 गुड़ (शक्कर),  
 \[Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2178184852/](http://www.flickr.com/photos/webethere/2178184852/). -- Zugriff am 2009-01-07. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)\]
-

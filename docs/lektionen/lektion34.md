@@ -3,22 +3,6 @@
 
 # Lektion 34
 
-## Übersicht
-
-*   34.1. Das Perfekt (लिट्)
-*   34.2. Das reduplizierte Perfekt (द्वित्वलिट्)
-    *   34.2.1. Stammabstufung
-    *   34.2.2. Die Perfektendungen
-    *   34.2.3. Bindevokal -i-
-    *   34.2.4. Reduplikation konsonantisch anlautender Wurzeln
-    *   34.2.5. Reduplikation vokalisch anlautender Wurzeln
-*   34.3. Typen des reduplizierten Perfekts
-*   34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
-*   34.5. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-*   34.6. Wortliste
-*   34.7. Übung
-*   34.8. Übersetzungsübung
-
 ## 34.1. Das Perfekt (लिट्)
 
 Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
@@ -331,5 +315,4 @@ Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. देव "Gott!"
 ![](/images/lekt3407.jpg)  
 Abb.: सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः ।  
 स गच्छेद्ब्रह्मसदनं पुनर्जन्म न विद्यते ॥४॥  
-\[Bildquelle: BriceFR. -- [http://www.flickr.com/photos/bricecanonne/1350452995/](http://www.flickr.com/photos/bricecanonne/1350452995/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+\[Bildquelle: BriceFR. -- [http://www.flickr.com/photos/bricecanonne/1350452995/](http://www.flickr.com/photos/bricecanonne/1350452995/). -- Zugriff am 2008-12-27. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]

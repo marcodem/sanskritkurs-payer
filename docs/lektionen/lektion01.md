@@ -1,6 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-
 # Lektion 1
 
 ### गणेशपूजनम्  
@@ -52,14 +49,6 @@ Die so fest miteinander verbunden sind
 Wie Wort und Sinn zum Verständnis  
 Des Wortsinns.
 
-## 1.0. Übersicht
-
-*   गणेशपूजनम् = gaṇeśapūjanam = Verehrung des Gaṇeśa
-*   मङ्गलचरणम् = maṅgalacaraṇam = "Glückbringender Anfang"
-*   1.1. Literatur für Anfänger in Indologie
-*   1.2. Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift
-    *   1.2.1. Zur Aussprache einzelner Laute
-*   1.3. Übung
 
 Zu Beginn ein Kuriosum:
 
@@ -135,12 +124,7 @@ Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikatio
 | ṣ - ष् | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
 | h - ह् | Hauchlaut, nie Dehnungszeichen. |
 | ḥ - : | Visarga (Visarjanīya) -- विसर्ग / विसर्जनीय. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- अग्निः = agnihi, devaiḥ -- देवैः = devaihi, gauḥ -- गौः = gauhu |
-| ṃ | Anusvara -- अनुस्वर
-*   vor Zischlauten, h, l: Nasalierung des Vokals
-*   im Auslaut = m
-*   im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि
-
- |
+| ṃ | Anusvara -- अनुस्वर<br>vor Zischlauten, h, l: Nasalierung des Vokals<br>im Auslaut = m<br>im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- संधि = sandhi -- सन्धि |
 
  Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
 
@@ -160,5 +144,3 @@ A) Lesen Sie folgende Worte:
 10.  saṃskṛta -- संस्कृत
 
 B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.
-
-

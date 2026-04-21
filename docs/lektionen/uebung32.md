@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „āsīt kṣatriya upapanno guṇair iṣṭaiḥ“?',
+    options: ['Es war einmal ein Kṣatriya, der mit erwünschten Tugenden ausgestattet war', 'Der Kṣatriya kämpft gegen die Feinde', 'Ein Kṣatriya wird geboren', 'Der Kṣatriya ist tugendhaft'],
+    answer: 0,
+    explanation: 'āsīt (von as) ist die 3. Person Singular Imperfekt („er war“).'
+  },
+  {
+    question: 'Wie lautet das Imperfekt von „as“ (sein) in der 3. Person Plural?',
+    options: ['āsan', 'āsiṣyan', 'abhavan', 'santi'],
+    answer: 0,
+    explanation: 'as (Klasse 2) bildet den Imperfekt Plural āsan.'
+  },
+  {
+    question: 'Was bedeutet „aho vṛddhasya kauśalam“ am Ende der Geschichte?',
+    options: ['Oh, das Alter des Greises!', 'Oh, das Geschick des Greises!', 'Oh, der Greis ist schwach!', 'Der Greis hat Pech'],
+    answer: 1,
+    explanation: 'kauśalam bedeutet „Geschick“ oder „Fertigkeit“.'
+  }
+]
+</script>
 
 # Übung Lektion 32
 
@@ -540,4 +560,4 @@ Erklärungen:
 ![](/images/uebung054.jpg)  
 Abb.: वानरः कुपितः  
 Ranakpur  
-\[Bildquelle: SkilliShots. -- [http://www.flickr.com/photos/skillicorn/3028654887/](http://www.flickr.com/photos/skillicorn/3028654887/). -- Zugriff am 2009-01-05. -- [](http://creativecommons.org/licenses/by-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]
+\[Bildquelle: SkilliShots. -- http://www.flickr.com/photos/skillicorn/3028654887/. -- Zugriff am 2009-01-05. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)\]

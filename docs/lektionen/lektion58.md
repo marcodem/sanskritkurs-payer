@@ -3,28 +3,6 @@
 
 # Lektion 58
 
-## Übersicht
-
-*   58.1. Die Primärendungen des Dual (द्विवचनम्)
-*   58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (लट्)
-    *   58.2.1. Erste Präsensklasse (भ्वादिगणः)
-    *   58.2.2. Vierte Präsensklasse (दिवादिगणः)
-    *   58.2.3. Sechste Präsensklasse (तुदादिगणः)
-    *   58.2.4. Zehnte Präsensklasse (चुरादिगणः) und Kausative (णिजन्त)
-*   58.3. Der Dual des einfachen Futurs (ऌत्)
-    *   58.3.1. अनिट्
-    *   58.3.2. सेट्
-*   58.4. Der Dual Passiv (Suffix -यक्)
-*   58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (लट्)
-    *   58.5.1. Zweite Präsensklasse (अदादिगणः)
-    *   58.5.2. Dritte Präsensklasse (जुहोत्यादिगणः)
-    *   58.5.3. Fünfte Präsensklasse (स्वादिगणः)
-    *   58.5.4. Achte Präsensklasse (तनादिगणः)
-    *   58.5.5. Siebte Präsensklasse (रुधादिगणः)
-    *   58.5.6. Neunte Präsensklasse (क्र्यादिगणः)
-*   58.6. Aorist 5: iṣ-Aorist
-*   58.7. Übung
-
 ## 58.1. Die Primärendungen des Dual (द्विवचनम्)
 
 <table><tbody><tr><td> </td><th>**परस्मैपदम्**</th><th colspan="2">आत्मनेपदम्</th></tr><tr><td> </td><th> </th><th>thematisch</th><th>athematisch</th></tr><tr><td>**1. तृतीयः**</td><td>-vas</td><td colspan="2">-vahe</td></tr><tr><td>**2. मध्यमः**</td><td>-thas</td><td>-īthe</td><td>-āthe</td></tr><tr><td>**3. प्रथमः**</td><td>-tas</td><td>-īte</td><td>-āte</td></tr></tbody></table>
@@ -413,4 +391,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 37.  इतः
 38.  दद
 39.  अञ्ज्वः
-

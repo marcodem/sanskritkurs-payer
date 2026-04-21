@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Zu welcher Kategorie gehört das Suffix „-tra“?',
+    options: ['kṛt-Suffix (Primärsuffix)', 'taddhita-Suffix (Sekundärsuffix)', 'Kasusendung', 'Verbendung'],
+    answer: 0,
+    explanation: '-tra ist ein kṛt-Suffix, das direkt an die Verbalwurzel tritt.'
+  },
+  {
+    question: 'Was ist die korrekte 3. Person Plural von „kṛ“ im Parasmaipada?',
+    options: ['karonti', 'kurvanti', 'karvanti', 'kurvante'],
+    answer: 1,
+    explanation: 'Die Form lautet kurvanti (Wurzel in Schwachstufe kur + v + anti).'
+  },
+  {
+    question: 'Welches Suffix bildet ein Abstraktum (z.B. „Brahmane-sein“)?',
+    options: ['-a', '-ana', '-tva', '-tra'],
+    answer: 2,
+    explanation: '-tva (n.) und -tā (f.) sind taddhita-Suffixe zur Bildung von Abstrakta.'
+  }
+]
+</script>
 
 # Übung Lektion 8
 

@@ -22,23 +22,6 @@ Die Wahrheit siegt, nicht die Unwahrheit,
 Nachsicht siegt nicht Zorn,  
 Gott siegt, nicht der Widergott.
 
-## Übersicht
-
-Wochenspruch
-
-*   7.1. Der Verbalsatz mit direktem Objekt
-*   7.2. Der Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
-    *   7.2.1. Akkusativ singular und Plural der Frage- und Demonstrativpronomina
-    *   7.2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = द्वितीया = "zweite Kasusendung")
-*   7.3. Sandhi von auslautendem -n
-*   7.4. Das Neutrum (napuṃsaka n. =  नपुंसक)
-    *   7.4.1. Neutrum der Stämme auf -a
-*   7.5. Athematische Präsensklassen
-    *   7.5.1. Primärendungen der 3. Person Plural bei athematischen Präsensstämmen
-    *   7.5.2. Die 5. Präsensklasse (svādi = स्वादि = "su usw."
-*   7.6. Wortliste
-*   7.7. Übung
-
 ## 7.1. Der Verbalsatz mit direktem Objekt
 
 | Schema:
@@ -412,5 +395,3 @@ Gaṇapatihoma (Gaṇapatiyajna)
 10\. Was pressen diese (hier) aus?
 
 11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
-
-

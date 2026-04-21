@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wer ist laut Arthaśāstra (Übung 1.8) für die Verehrung von Göttern, Ahnen und Gästen (devapitrātithipūjā) verantwortlich?',
+    options: ['Der Gṛhastha (Haushalter)', 'Der Brahmacārin', 'Der Vānaprastha', 'Sowohl Gṛhastha als auch Vānaprastha'],
+    answer: 3,
+    explanation: 'Sowohl der Haushalter als auch der Waldeinsiedler haben diese religiöse Pflicht (Übung 51.8, 51.10).'
+  },
+  {
+    question: 'Was ist laut Vaiśampāyana das „Lehrwerk“ (śāstram) der Jäger (Übung 3.64)?',
+    options: ['Das Geheul der Schakale', 'Die Veden', 'Die Grammatik', 'Die Politik'],
+    answer: 0,
+    explanation: 'Vaiśampāyana kritisiert spöttisch, dass das Geheul der Schakale ihr Lehrwerk sei (Übung 51.64 und 51.66).'
+  },
+  {
+    question: 'Was bedeutet das Wort „mṛgayā“ (Übung 3.64)?',
+    options: ['Jagd', 'Wald', 'Tier', 'Pfeil'],
+    answer: 0,
+    explanation: 'mṛgayā bedeutet Jagd (Übung 51.66).'
+  }
+]
+</script>
 
 # Übung Lektion 51
 

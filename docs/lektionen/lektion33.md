@@ -3,19 +3,6 @@
 
 # Lektion 33
 
-## Übersicht
-
-*   33.1. Die Reduplikation (अभ्यास m.)
-    *   33.1.1. Der Reduplikationskonsonant
-*   33.2. Die dritte Präsensklasse (जुहोत्यादि = "जुहोति u.s.w.")
-    *   33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
-*   33.3. Zum Ablaut von ā
-*   33.4. Wurzeln auf -ā der dritten Präsensklasse
-    *   33.4.1. Die Wurzeln दा und धा
-*   33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
-*   33.6. Wortliste
-*   33.7. Übung
-
 ## 33.1. Die Reduplikation (अभ्यास m.)
 
 *   Die dritte Präsensklasse
@@ -441,4 +428,3 @@ Delhi = दहली / دہلی
 यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥
 
 मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥
-

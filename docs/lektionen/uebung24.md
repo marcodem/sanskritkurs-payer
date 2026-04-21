@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Satz „brāhmaṇo devapratimādarśanāya garbhagṛhaṃ viśati“?',
+    options: ['Der Brahmane sieht ein Bild', 'Der Brahmane betritt den inneren Schreinraum, um das Götterbild zu sehen', 'Der Brahmane gibt dem Gott eine Gabe', 'Das Haus ist fertig'],
+    answer: 1,
+    explanation: '„devapratimādarśanāya“ (Dativ) bedeutet wörtlich „zum Zweck des Götterbild-Sehens“.'
+  },
+  {
+    question: 'Wie lautet der Dativ Singular von „kavi“ (Dichter/Sänger)?',
+    options: ['kavyai', 'kavaye', 'kavibhyaḥ', 'kaveḥ'],
+    answer: 1,
+    explanation: 'Maskuline i-Stämme bilden den Dativ Singular auf -aye.'
+  },
+  {
+    question: 'Was bedeutet der Ausspruch „alaṃ krodhena“ (अलङ्क्रोधेन)?',
+    options: ['Zorn ist gut', 'Schmücke den Zorn', 'Genug mit dem Zorn / lass ab vom Zorn!', 'Großer Zorn'],
+    answer: 2,
+    explanation: 'alaṃ (genug) mit dem Instrumentalis (krodhena) drückt eine Aufforderung aus, mit etwas aufzuhören.'
+  }
+]
+</script>
 
 # Übung Lektion 24
 
@@ -113,4 +133,4 @@ Nepal = नेपाल
 ![](/images/uebung038.jpg)  
 Abb.: इदं फलं अलं खादनाय  
 Jackfruit = _Artocarpus heterophyllus_ Lam.  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/834840160/](http://www.flickr.com/photos/mattlogelin/834840160/). -- Zugriff am 2008-12-24. --  [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+[Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/834840160/. -- Zugriff am 2008-12-24. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]

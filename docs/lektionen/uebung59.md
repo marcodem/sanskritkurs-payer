@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Welche Aorist-Form ist „abhyagur“ (Übung A.2)?',
+    options: ['a-bhy-agur (abhi-gā), Wurzelaorist (Aorist 1) Parasmaipada', 'abhi-gur, s-Aorist (Aorist 4)', 'a-gur, a-Aorist (Aorist 2)', 'abhi-gam, iṣ-Aorist (Aorist 5)'],
+    answer: 0,
+    explanation: 'abhyagur ist der Wurzelaorist von abhi-gā zu i (Übung 59.35).'
+  },
+  {
+    question: 'Was bedeutet die Form „adrākṣīt“ in Übung A.7?',
+    options: ['dṛś Aorist 4 (s-Aorist): "er sah"', 'dṛś Kausativ Aorist 3: "er ließ sehen"', 'drā Aorist 1: "er schlief"', 'drāv Aorist 4: "er lief"'],
+    answer: 0,
+    explanation: 'adrākṣīt ist der s-Aorist von dṛś: er sah (Übung 59.88).'
+  },
+  {
+    question: 'Die Form „avocat“ (Übung A.13) gehört zu welchem Aorist-Typ?',
+    options: ['Aorist 3 (reduplizierter Aorist) von vac', 'Aorist 1 (Wurzelaorist) von vac', 'Aorist 2 (a-Aorist) von vac', 'Aorist 4 (s-Aorist) von vac'],
+    answer: 0,
+    explanation: 'avocat ist der reduplizierte Aorist von vac (Übung 59.146).'
+  }
+]
+</script>
 
 # Übung Lektion 59
 

@@ -3,18 +3,6 @@
 
 # Lektion 3
 
-## Übersicht
-
-*   3.1. Nominativ singular = prathamā ekavacanam = प्रथमा एकवचनम् (Fortsetzung)
-    *   3.1.1. Nominativ Singular auf -s (Fortsetzung)
-    *   3.1.2. Nominativ singular ohne Endung
-*   3.2. Bildung der Feminina zu Maskulina (Adjektive und Substantive)
-*   3.3. Nominativ plural = prathamā bahuvacanam = प्रथमा बहुचनम्
-*   3.4. Vokalsandhi
-*   3.5. Satzsandhi von -ās
-*   3.6. Wortliste
-*   3.7. Übung
-
 ## 3.1. Nominativ singular = prathamā ekavacanam = प्रथमा एकवचनम् (Fortsetzung)
 
 ### 3.1.1. Nominativ Singular auf -s (Fortsetzung)
@@ -227,4 +215,3 @@ D) Übersetzen Sie ins Sanskrit:
 5.  Dichter sind Lehrer.
 6.  Kṣatriyas sind Zweimalgeborene.
 7.  Die heiligen Männer sind Śūdras.
-

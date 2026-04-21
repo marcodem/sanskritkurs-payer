@@ -3,12 +3,6 @@
 
 # Lektion 50
 
-## Übersicht
-
-*   50.1. Nominalbildung: regelmäßige Steigerung
-*   50.2. Wortliste
-*   50.3. Übersetzungsübung
-
 ## 50.1. Nominalbildung: regelmäßige Steigerung
 
 Die regelmäßige Steigerung erfolgt im Sanskrit mit den तद्धित-Suffixen
@@ -275,4 +269,3 @@ B) Übersetzen Sie:
 > 
 > Erklärungen:  
 > निषेकादीनि : Nom.Akk.pl.Neutrum
-

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Welches dieser Verben gehört zur 2. Präsensklasse (adādi)?',
+    options: ['भू (bhū)', 'अद् (ad)', 'गम् (gam)', 'नृत् (nṛt)'],
+    answer: 1,
+    explanation: 'ad (essen) ist das Musterverb der 2. Klasse, bei der Endungen direkt an die Wurzel treten.'
+  },
+  {
+    question: 'Was ist die 3. Person Plural von "ad" (essen) im Präsens Indikativ?',
+    options: ['adanti', 'atti', 'adate', 'adani'],
+    answer: 0,
+    explanation: 'Die Endung -anti tritt direkt an die Wurzel: ad-anti.'
+  },
+  {
+    question: 'Was bedeutet das Wort "āsana" (आसन)?',
+    options: ['Essen', 'Sitz / Sitzposition', 'Schlag / Hieb', 'Weinen'],
+    answer: 1,
+    explanation: 'āsana (von der Wurzel ās „sitzen“) bedeutet Sitz oder Sitzposition.'
+  }
+]
+</script>
 
 # Übung Lektion 17
 
@@ -149,4 +169,4 @@ Abb.: बालब्राह्मणी रोदिति
 ![](/images/uebung026.jpg)  
 Abb.: शृणोति  
 Bangalore  
-\[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/401785290/](http://www.flickr.com/photos/mattlogelin/401785290/). -- Zugriff am 2008-12-22. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
+[Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/401785290/. -- Zugriff am 2008-12-22. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]

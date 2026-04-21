@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die neutrale Form des PPP von „nṛt“ (tanzen), wenn es als Verbalabstraktum („das Tanzen / der Tanz“) verwendet wird?',
+    options: ['nṛtyati', 'nṛttyam', 'nṛttam', 'nṛtyat'],
+    answer: 2,
+    explanation: 'Das Neutrum Singular des PPP (hier nṛttam) kann als Abstraktnomen für die Handlung verwendet werden.'
+  },
+  {
+    question: 'Wie wird der Satz „Durch die Erkenntnis wurde Gautama erlöst“ (bodhyā gautamo muktaḥ) ins Aktiv gesetzt?',
+    options: ['bodhir gautamaṃ muñcati', 'bodhis gautamaḥ mucyate', 'bodhena gautamaḥ muktaḥ', 'gautamo bodhiṃ muñcati'],
+    answer: 0,
+    explanation: 'Im Aktiv steht das Subjekt (bodhiḥ/die Erkenntnis) im Nominativ und das Objekt (gautamam/Gautama) im Akkusativ; das Verb tritt in die aktive Form (6. Klasse: muñcati).'
+  },
+  {
+    question: 'Was bewirkt die Partikel „eva“ hinter einem Wort?',
+    options: ['Es verneint das Wort', 'Es betont das Wort (genau, eben, nur)', 'Es macht das Wort zum Plural', 'Es wandelt ein Verb in ein Nomen um'],
+    answer: 1,
+    explanation: 'eva dient der Hervorhebung des vorangegangenen Wortes (z.B. satyam eva = eben die Wahrheit / nur die Wahrheit).'
+  }
+]
+</script>
 
 # Übung Lektion 13
 

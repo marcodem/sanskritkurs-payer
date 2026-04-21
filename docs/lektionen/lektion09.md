@@ -5,15 +5,6 @@
 
 
 
-## Übersicht
-
-*   9.1. Samāhāradvandva = सआहारद्वन्द्व ("Zusammenfassungsdvandva")
-*   9.2. Zur Bildung von Nominalstämmen
-    *   9.2.1. -ka (taddhita)
-    *   9.2.2. -aka (kṛt), fem. oft -ikā
-*   9.3. Wortliste
-*   9.4. Übung
-
 ## 9.1. Samāhāradvandva = सआहारद्वन्द्व ("Zusammenfassungsdvandva")
 
 Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular neutrum:
@@ -237,5 +228,3 @@ kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im 
 6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. कृषिः पाशुपाल्यं वणिज्या च वार्त्ता |
 
 (nach Kauṭilīya-arthaśāstra 1.4.1.)
-
-

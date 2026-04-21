@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die aufgelöste Form (vigrahavākya) von „kāmakrodhalobhāḥ“?',
+    options: ['kāmaḥ krodho lobhaś ca', 'kāma krodha lobhāḥ', 'kāme krodhe lobhaś ca', 'kāmena krodhena lobhena'],
+    answer: 0,
+    explanation: 'Ein Itaretaradvandva wird in der Auflösung typischerweise mit „ca“ (und) nach dem letzten Glied versehen.'
+  },
+  {
+    question: 'Welches grammatische Geschlecht übernimmt das Kompositum „maitrīkaruṇāmuditopekṣāḥ“?',
+    options: ['Maskulinum', 'Femininum', 'Neutrum', 'Plural (geschlechtsneutral)'],
+    answer: 1,
+    explanation: 'Das Itaretaradvandva übernimmt das Geschlecht seines letzten Gliedes (upekṣā ist feminin).'
+  },
+  {
+    question: 'Wie viele Glieder hat das Kompositum „avidyāsmitārāgadveṣābhiniveṣāḥ“?',
+    options: ['3', '4', '5', '6'],
+    answer: 2,
+    explanation: 'Das Kompositum besteht aus: avidyā, asmitā, rāga, dveṣa und abhiniveṣa (die fünf „Plagen“ oder Kleśas).'
+  }
+]
+</script>
 
 # Übung Lektion 5
 

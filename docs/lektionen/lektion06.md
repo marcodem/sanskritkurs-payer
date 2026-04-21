@@ -3,24 +3,6 @@
 
 # Lektion 6
 
-## Übersicht
-
-*   6.1. Der Verbalsatz
-*   6.2. Zur Bildung der Verbalformen
-*   6.3. Indikativ Präsens (laṭ = लट्)
-*   6.4. Primärendungen der dritten Person (prathama m. = प्रथम = "erste (!) Person")
-*   6.5. Bildung des Präsensstamms
-    *   6.5.1. Verben der 6. Präsensklasse (tudādi = तुदादि = "tud usw.")
-    *   6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = भ्वादि / भूवादि = "bhū usw.")
-        *   6.5.2.1. Wortsandhi von e und o
-        *   6.5.2.2. Lautabstufung (Ablaut)
-    *   6.5.3. Verben der 4. Präsensklasse (divādi = दिवादि = "div usw.")
-    *   6.5.4. Themavokal, thematische Präsensklassen
-*   6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = प्रश्न)
-*   6.7. Wortliste
-*   6.8. Übung
-*   6.9. Wiederholungsübung
-
 ## 6.1. Der Verbalsatz
 
 Schema I: Verbalform
@@ -459,5 +441,3 @@ F) Übersetzen Sie ins Sanskrit:
 17.  Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
 18.  Geht es Ihnen gut?
 19.  (Es geht mir) in jeder Hinsicht gut.
-
-

@@ -3,20 +3,6 @@
 
 # Lektion 13
 
-## Übersicht
-
-*   13.1. PPP auf -na-
-*   13.2. Weiteres zum Gebrauch des PPP
-*   13.3. Attributive Bestimmungen von Nomina (Wortstellung)
-*   13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
-*   13.5. Stammabstufung von Nomina
-*   13.6. Zum Wortsandhi
-*   13.7. Kasusendungen konsonantischer Stämme
-*   13.8. Deklination der Stämme auf -mant und -vant
-*   13.9. Wortliste
-*   13.10. Übung
-*   13.11. Wiederholungsübung
-
 ## 13.1. PPP auf -na-
 
 Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch
@@ -486,4 +472,3 @@ E) Übersetzen Sie ins Sanskrit:
 10\. Die vedischen Weisen haben die Śruti gehört.
 
 11\. Die Opferpriester haben den Soma gepresst.
-

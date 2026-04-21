@@ -3,15 +3,6 @@
 
 # Lektion 23
 
-## Übersicht
-
-*   23.1. Der Infinitiv (तुमुन्)
-*   23.2. Bildung des Infinitiv (तुमुन्)
-*   23.3. Der Infinitiv (तुमुन्) zu den bisher gelernten Wurzeln
-*   23.4. Wortliste
-*   23.5. Übung
-*   23.6. Wiederholungsübung
-
 ## 23.1. Der Infinitiv (तुमुन्)
 
 Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (तुमुन्) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:
@@ -372,4 +363,3 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 ३. वच्
 
 ४. हन्
-

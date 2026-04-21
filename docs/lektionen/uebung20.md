@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie wird das Kompositum „bahuvrīhiḥ“ (बहुव्रीहिः) korrekt als Relativsatz aufgelöst?',
+    options: ['Bahavaḥ vrīhayaḥ (viele Reiskörner)', 'Bahavo vrīhayo yasya saḥ (einer, dessen Reis viel ist)', 'Bahu vrīhim karoti (er macht viel Reis)', 'Bahuvrīhiḥ puruṣaḥ'],
+    answer: 1,
+    explanation: 'Die klassische Auflösung lautet „dessen (yasya) Reis (vrīhayaḥ) viel (bahavaḥ) ist“.'
+  },
+  {
+    question: 'Was bedeutet der Bahuvrīhi „daṇḍahastaḥ“ (दण्डहस्तः)?',
+    options: ['Die Hand eines Stockes', 'Einer, in dessen Hand ein Stock ist', 'Einen Stock schlagen', 'Ein hölzerner Arm'],
+    answer: 1,
+    explanation: 'daṇḍa (Stock) + hasta (Hand). Es beschreibt jemanden, der einen Stock hält oder führt.'
+  },
+  {
+    question: 'Wenn ein Bahuvrīhi auf आदि (ādi) endet (z.B. "indrādayaḥ"), was bedeutet es meistens?',
+    options: ['Indra und die anderen / u.s.w.', 'Der erste Indra', 'Ohne Indra', 'Indra am Ende'],
+    answer: 0,
+    explanation: 'ādi (Anfang) bedeutet in Bahuvrīhis „dessen Anfang X ist“, was wir mit „X u.s.w.“ oder „X und die übrigen“ übersetzen.'
+  }
+]
+</script>
 
 # Übung Lektion 20
 

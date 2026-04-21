@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die 2. Person Singular des Imperfekts von „bhū“ (sein)?',
+    options: ['abhavas', 'abhavat', 'abhavan', 'abhavāmi'],
+    answer: 0,
+    explanation: 'Die Sekundärendung der 2. Person Singular ist -s: abhavas (Lektion 43.1).'
+  },
+  {
+    question: 'Was bedeutet der Satz „kva gacchasīdānīm“?',
+    options: ['Wohin gehst du jetzt?', 'Was machst du hier?', 'Woher kommst du?', 'Bist du ein Kaufmann?'],
+    answer: 0,
+    explanation: 'kva = wohin, gacchasi = du gehst, idānīm = jetzt (Lektion 43.6).'
+  },
+  {
+    question: 'Wie reagiert Aśoka auf den Betrug des Kaufmanns beim Zuckerwiegen?',
+    options: ['Er zahlt nur den halben Preis', 'Er ruft die Polizei', 'Er wiegt den Zucker selbst nach', 'Er beschwert sich bei seinem Vater'],
+    answer: 0,
+    explanation: 'Er zahlt nur 4 statt 8 Anna mit der Begründung, dass der Kaufmann dann weniger Mühe beim Zählen hat (Lektion 43.133).'
+  }
+]
+</script>
 
 # Übung Lektion 43
 

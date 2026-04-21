@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist laut Manusmṛti 4.160 das wesentliche Merkmal von Glück (sukha) (Übung 52.20)?',
+    options: ['Eigenständigkeit / Selbstbestimmung (ātmavaśam)', 'Reichtum', 'Dienst an anderen', 'Gute Nahrung'],
+    answer: 0,
+    explanation: 'Alles, was auf eigenem Willen/Kontrolle beruht (ātmavaśam), ist Glück (Übung 52.20).'
+  },
+  {
+    question: 'Welches Ziel hält Kauṭilya für das wichtigste (pradhāna) (Übung 52.57)?',
+    options: ['Artha (zweckrationales Handeln)', 'Dharma (Recht)', 'Kāma (Lust)', 'Mokṣa (Erlösung)'],
+    answer: 0,
+    explanation: 'Kauṭilya betrachtet Artha als die Wurzel von Dharma und Kāma (Übung 52.57).'
+  },
+  {
+    question: 'Womit vergleicht der Buddha den Saṃsāra, um seine Substanzlosigkeit zu betonen (Übung 52.101)?',
+    options: ['Das Innere einer Bananenpflanze (kadalī-garbha)', 'Einen Spiegel', 'Ein Rad', 'Eine Antilope'],
+    answer: 0,
+    explanation: 'Der Saṃsāra ist marklos wie der Stamm einer Bananenpflanze (Übung 52.101).'
+  }
+]
+</script>
 
 # Übung Lektion 52
 

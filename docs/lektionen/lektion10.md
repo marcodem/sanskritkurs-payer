@@ -5,19 +5,6 @@
 
 
 
-## Übersicht
-
-*   10.1. Der Passivsatz
-*   10.2. Der Instrumentalis = tṛtīyā f. = तृतीया = "dritte Kasusendung"
-    *   10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = तृतीया)
-*   10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
-*   10.4. Das Passiv, Indikativ Präsens (yak = यक्)
-    *   10.4.1. Sonderregeln zur Bildung des Passiv
-*   10.5. Wortliste
-*   10.6. Übung
-*   10.7. Wortliste 2
-*   10.8. Lese- und Übersetzungsübung
-
 ## 10.1. Der Passivsatz
 
 | Schema:
@@ -551,5 +538,3 @@ Lesen und übersetzen Sie und setzen Sie ins Passiv:
 १०. हरिर्गृहं गच्छति |
 
 ११. सारथी रथं नयति ||
-
-

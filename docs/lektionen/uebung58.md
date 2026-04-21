@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist die Perfekt-Form von arc (verehren) in der 1./3. Person Singular Parasmaipada laut Übung A.4?',
+    options: ['ānarca', 'ānartṭa', 'āriṣam', 'arcyate'],
+    answer: 0,
+    explanation: 'Die Perfektform ist ānarca (Übung 58.15).'
+  },
+  {
+    question: 'Wie lautet der iṣ-Aorist (1. Person Singular) von ūh 1Ā laut Übung A.1?',
+    options: ['auhiṣi', 'auhe', 'auhata', 'auhastha'],
+    answer: 0,
+    explanation: 'Der iṣ-Aorist (Ātmanepada) von ūh ist auhiṣi (Übung 58.12).'
+  },
+  {
+    question: 'Was bedeutet das Wort "purā" (Übung B.27)?',
+    options: ['früher, einst', 'die Stadt', 'vorn', 'vorwärts'],
+    answer: 0,
+    explanation: 'purā bedeutet "früher, einst" (Übung 58.70).'
+  }
+]
+</script>
 
 # Übung Lektion 58
 

@@ -3,16 +3,6 @@
 
 # Lektion 21
 
-## Übersicht
-
-*   21.1. Weitere Präsensstämme auf -nt
-    *   21.1.1. Partizip Präsens (लडादेशः) Parasmaipada
-    *   21.1.2. महान्त् "groß"
-*   21.2. Sandhi für auslautende Nasale
-*   21.3. Höfliche Formen der Anrede
-*   21.4. Wortliste
-*   21.5. Übung
-
 ## 21.1. Weitere Präsensstämme auf -nt
 
 ### 21.1.1. Partizip Präsens (लडादेशः) Parasmaipada
@@ -321,4 +311,3 @@ B) Übersetzen Sie:
 गुरूपनीतनरो द्विजः ॥५॥
 
 जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥
-

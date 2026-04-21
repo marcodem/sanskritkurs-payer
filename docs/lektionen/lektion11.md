@@ -3,13 +3,6 @@
 
 # Lektion 11
 
-## Übersicht
-
-*   11.1. Doppelter Akkusativ
-*   11.2. Wortliste
-*   11.3. Übung
-*   11.4. Wiederholungsübung
-
 ## 11.1. Doppelter Akkusativ
 
 Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren:
@@ -189,4 +182,3 @@ E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
 ![](/images/lekt1103.jpg)  
 Abb.: कर्षकेण कृष्यते  
 \[Bildquelle: Ray Witlin / World Bank. -- [http://www.flickr.com/photos/worldbank/2183019617/](http://www.flickr.com/photos/worldbank/2183019617/). -- Zugriff am 2008-11-18. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-

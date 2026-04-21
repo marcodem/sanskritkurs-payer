@@ -3,13 +3,6 @@
 
 # Lektion 29
 
-## Übersicht
-
-*   29.1. Verwendung des Parasmaipada und Ātmanepada im Kausativum
-*   29.2. Wortliste
-*   29.3. Übersetzungsübung zur Wiederholung
-*   29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
-
 ## 29.1. Verwendung des Parasmaipada und Ātmanepada im Kausativum
 
 Das Kausativ ist mit wenigen Ausnahmen Ubhayapada
@@ -250,4 +243,3 @@ Erklärungen:
 स्मरयति |
 | हन् २ प | हनिष्यति | घातयति |
 | हृ १ उ | हरिष्यति | हारयति |
-

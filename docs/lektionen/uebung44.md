@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der berühmte Ausspruch „tat tvam asi“?',
+    options: ['Das bist du', 'Du bist es', 'Ich bin das', 'Alles ist eins'],
+    answer: 0,
+    explanation: 'tat = das, tvam = du, asi = bist. Er drückt die Identität des Einzelnen mit dem Absoluten aus (Lektion 44.217).'
+  },
+  {
+    question: 'Wie lautet die Bestimmung der Form „āsīḥ“ (Übung A.5)?',
+    options: ['as (sein), Imperfekt, 2. Pers. Sg. Parasmaipada', 'ās (sitzen), Imperfekt, 1. Pers. Sg. Ātmanepada', 'as (sein), Präsens, 2. Pers. Sg. Parasmaipada', 'ās (sitzen), Präsens, 2. Pers. Sg. Ātmanepada'],
+    answer: 0,
+    explanation: 'āsīḥ ist das Imperfekt von as (sein), 2. Person Singular (Übung 44.12).'
+  },
+  {
+    question: 'Was bedeutet der Satz „na yotsya ity arjuna uvāca“ (Übung B.7)?',
+    options: ['„Ich werde nicht kämpfen“, sprach Arjuna', '„Ich will siegen“, sprach Arjuna', '„Wo ist mein Wagen?“, fragte Arjuna', '„Lehre mich“, bat Arjuna'],
+    answer: 0,
+    explanation: 'yotsye ist das Futur von yudh (kämpfen) (Übung 44.89).'
+  }
+]
+</script>
 
 # Übung Lektion 44
 
@@ -144,4 +164,4 @@ Bestimmen Sie folgende Formen:
 ![](/images/uebung073.jpg)  
 Abb.: वदिता  
 Hari S. Bhartia, Co-Chairman and Managing Director, Jubilant Organosys, India, World Economic Forum's India Economic Summit 2008 in New Delhi  
-\[Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038333212/](http://www.flickr.com/photos/worldeconomicforum/3038333212/). -- Zugriff am 2009-01-22. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)\]
+\[Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038333212/. -- Zugriff am 2009-01-22. -- Creative Commons Lizenz (Namensnennung, share alike)\]

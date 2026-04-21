@@ -3,19 +3,6 @@
 
 # Lektion 22
 
-## Übersicht
-
-*   22.1. Das Absolutivum (क्त्वा । ल्यप्)
-*   22.2. Bildung des Absolutivums
-    *   22.2.1. Verben ohne Präverb: Absolutiv auf -त्वा
-    *   22.2.2. Verben mit Präverb
-        *   22.2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
-        *   22.2.2.2. Wurzeln auf -ā
-        *   22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
-        *   22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
-*   22.3. Wortliste
-*   22.4. Übung
-
 ## 22.1. Das Absolutivum (क्त्वा । ल्यप्)
 
 Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (कर्तृ) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (क्त्वा । ल्यप्). Also
@@ -227,4 +214,3 @@ C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen
 ![](/images/lekt2204.jpg)  
 Abb.: अन्नं पक्त्वा ...  
 \[Bildquelle: Curt Carnemark / World Bank. -- [http://www.flickr.com/photos/worldbank/2183558378/](http://www.flickr.com/photos/worldbank/2183558378/). -- Zugriff am 2008-12-12. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
-

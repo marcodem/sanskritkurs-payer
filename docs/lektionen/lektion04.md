@@ -3,20 +3,6 @@
 
 # Lektion 4
 
-## Übersicht
-
-Gesprochenes Sanskrit
-
-*   4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
-    *   4.1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च
-        *   1.1.1.Fragepronomen (praśnārthakasarvanāma n. = प्रश्नार्थकसर्वनामन्)
-        *   4.1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = निदर्शकसर्वनामानि)
-    *   4.1.2. Sandhi von auslautendem -m
-    *   4.1.3. Sandhi von auslautendem -e
-    *   4.1.4. Sandhi von auslautendem -d
-    *   4.1.5. Frageformeln
-*   4.2. Übung
-
 ## Gesprochenes Sanskrit
 
 ## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
@@ -82,7 +68,4 @@ A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇu�
 
 B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (एतत्किम्) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (एष बालः):
 
-![](/images/lekt0401.jpg)  
- 
-
-
+![](/images/lekt0401.jpg)

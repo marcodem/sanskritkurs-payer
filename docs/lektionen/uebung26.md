@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die Futurform von „pacati“ (er kocht) unter Berachtung der Sandhi-Regeln?',
+    options: ['paciṣyati', 'pakṣyati', 'pacyat', 'pacya-sya-ti'],
+    answer: 1,
+    explanation: 'pac + sya ergibt pakṣyati (c + s verschmilzt zu kṣ).'
+  },
+  {
+    question: 'Welche Futurform gehört zur Wurzel „sthā“ (stehen)?',
+    options: ['sthāsyati', 'tiṣṭhiṣyati', 'sthāyati', 'sthāsyante'],
+    answer: 0,
+    explanation: 'sthā bildet das Futur ohne Bindevokal zu sthāsyati.'
+  },
+  {
+    question: 'Was ist eine Besonderheit der Wurzel „mṛ“ (sterben) im Futur?',
+    options: ['Sie wird völlig irregulär', 'Sie bildet das Futur im Parasmaipada (mariṣyati)', 'Sie hat kein Futur', 'Sie nimmt das Suffix -ya'],
+    answer: 1,
+    explanation: 'Obwohl mṛ im Präsens Ātmanepada steht (mriyate), bildet sie das Futur im Parasmaipada (mariṣyati).'
+  }
+]
+</script>
 
 # Übung Lektion 26
 
@@ -78,4 +98,4 @@ C) Futur optionell mit und ohne -i-:
 ![](/images/uebung043.jpg)  
 Abb.: अविपालो ऽविं रक्षति (अवि m. Schaf)  
 Uttarakhand = उत्तराखण्ड  
-\[Bildquelle: aRfi!. -- [http://www.flickr.com/photos/zutshy/2639124622/](http://www.flickr.com/photos/zutshy/2639124622/). -- Zugriff am 2008-12-29. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]
+[Bildquelle: aRfi!. -- http://www.flickr.com/photos/zutshy/2639124622/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]

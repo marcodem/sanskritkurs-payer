@@ -3,17 +3,6 @@
 
 # Lektion 17
 
-## Übersicht
-
-*   17.1. Zweite Präsensklasse (अदादि = अद् usw.)
-*   17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
-*   17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
-*   17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
-*   17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
-*   17.6. Wortliste
-*   17.7. Übung 1
-*   17.8. Übung 2
-
 ## 17.1. Zweite Präsensklasse (अदादि = अद् usw.)
 
 Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachte.
@@ -356,4 +345,3 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 ४५. जीव्यते
 
 ४६. दिश्यन्ते
-

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Welche Form ist „cakartha“ (Übung B.29)?',
+    options: ['kṛ 2.sg.Perfekt Parasmaipada: du hast gemacht', 'kṛt 1.3.sg.Perfekt Parasmaipada: du hast geschnitten', 'kṛ Kausativ: du ließest machen', 'kṛ Desiderativ: du wünschst zu machen'],
+    answer: 0,
+    explanation: 'cakartha ist die unregelmäßige 2.sg.P des Perfekts von kṛ (Übung 60.66).'
+  },
+  {
+    question: 'Was bedeutet „ditsāmi“ (Übung B.33)?',
+    options: ['dā (geben) Desiderativ 1.sg.Ind.Präs.P: ich wünsche zu geben', 'dā Futurum: ich werde geben', 'dā Aorist: ich gab', 'dṛś Desid.: ich wünsche zu sehen'],
+    answer: 0,
+    explanation: 'ditsāmi ist das Desiderativ von dā (geben) (Übung 60.74).'
+  },
+  {
+    question: 'Was ist die Form „jagmuṣaḥ“ laut Übung B.42?',
+    options: ['Part.Perf.P zu gam (Abl./Gen.sg.m.n. oder Akk.pl.m.): von einem, der gegangen ist / die Gegangenen', 'Part.Präs.P zu gam', '3.pl.Perfekt Parasmaipada von gam', '1.sg.Aorist von gam'],
+    answer: 0,
+    explanation: 'jagmuṣaḥ ist die schwache Form des Part.Perf.P (auf -uṣ) von gam in verschiedenen Kasus (Übung 60.92).'
+  }
+]
+</script>
 
 # Übung Lektion 60
 
@@ -110,6 +130,6 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 51.  अवाचः - अवाञ्च् 3 Abl.Gen.sg.m.n.Akk.pl.m. des abwärts gerichteten ...
      
 52.  ईयुषे - ईयिवांस् Part.Perf.P zu इ 2P Dat.sg.m.n. dem, der gegangen ist
-     
+ 
 
 ENDE DER ÜBUNGEN

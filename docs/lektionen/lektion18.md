@@ -3,18 +3,6 @@
 
 # Lektion 18
 
-## Übersicht
-
-*   १. सुभाषितम्
-*   18.2. Determinativkomposita (तत्पुरुष) mit adverbialem Vorderglied
-    *   18.2.1. Komposita vom Typ सुकर / दुष्कर
-    *   18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
-*   18.3. Verbalkomposita
-    *   18.3.1. Nominalbildungen zu Verbalkomposita
-*   18.4. Wortliste
-*   18.5. Übung
-*   18.6. Wiederholungsübung
-
 ## १. सुभाषितम्
 
 > नास्ति कामसमो व्याधिर्  
@@ -402,4 +390,3 @@ C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter V
 D) Übersetzen Sie:
 
 (धर्मः) सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥
-

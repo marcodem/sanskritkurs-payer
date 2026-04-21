@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was ist die a-Aoristform (3.sg) von „budh 1U“ (er erwachte) laut Übung 2?',
+    options: ['abudhat', 'abudhatam', 'abodha', 'abudhyata'],
+    answer: 0,
+    explanation: 'Die a-Aoristform von budh ist abudhat (Übung 55.9).'
+  },
+  {
+    question: 'Wie lautet die a-Aorist-Entsprechung zu „paśyatha“ (ihr seht) laut Übung 9?',
+    options: ['adarśata', 'apaśyata', 'adarśan', 'adarśaḥ'],
+    answer: 0,
+    explanation: 'Die Form ist adarśata, da dṛś im a-Aorist hochstufig gebildet wird (Übung 55.16).'
+  },
+  {
+    question: 'Was ist der Aorist (3.sg.Passiv) von „jāyate“ (er wird geboren) laut Übung 21?',
+    options: ['ajani', 'ajāyata', 'ajanat', 'ajāyi'],
+    answer: 0,
+    explanation: 'Bei jan ist die spezielle Aorist-Passiv-Form ajani üblich (Übung 55.32).'
+  }
+]
+</script>
 
 # Übung Lektion 55
 

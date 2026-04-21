@@ -3,17 +3,6 @@
 
 # Lektion 25
 
-## Übersicht
-
-*   25.1. Bildung des Ablativ (पञ्चमी = "fünfte Kasusendung")
-*   25.2. Gebrauch des Ablativ (पञ्चमी)
-*   25.3. Das Suffix -तस्
-*   25.4. Andere Möglichkeiten, Begründungen auszudrücken
-*   25.5. Wortliste
-*   25.6. Übung
-*   25.7. सुभाषितानि
-*   25.8. Übersetzungsübung
-
 ## 25.1. Bildung des Ablativ (पञ्चमी = "fünfte Kasusendung")
 
 Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (पञ्चमी) mit denen des Genetiv (षष्ठी) identisch.
@@ -453,4 +442,3 @@ Erklärung der im obigen Text rot hervorgehobenen Wörter:
 1.5.16. धि Sandhiform zu हि ; आत्मवत्ता f.: "Selbstbesitz"
 
 1.6.1. कार्य ३ "zu tuendes, was getan werden muss"
-

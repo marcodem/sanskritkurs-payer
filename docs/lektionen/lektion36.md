@@ -3,17 +3,6 @@
 
 # Lektion 36
 
-## Übersicht
-
-*   36.1. Besondere Bildungen des Perfekts
-*   36.2. Das periphrastische Perfekt (अनुप्रयोगलिट्)
-*   36.3. Perfekt Passiv
-*   36.4. Wortliste
-*   36.5. Übung
-*   36.6. Das Perfekt (लिट्) zu den bisher gelernten Wurzeln
-*   36.7. Übersetzungsübung
-*   36.8. Wiederholungsübung zur Formenlehre
-
 ## 36.1. Besondere Bildungen des Perfekts
 
 1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts.
@@ -525,4 +514,3 @@ Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
 38.  युगे
 39.  अपिपः
 40.  अपिबत्
-

@@ -3,20 +3,6 @@
 
 # Lektion 28
 
-## Übersicht
-
-*   28.1. Das Kausativum (णि, णिच्, कारित)
-*   28.2. Satzkonstruktion mit dem Kausativ (णि, णिच्, कारित)
-*   28.3. Bildung des Präsensstamms zum Kausativ (णि, णिच्, कारित)
-*   28.4. Bildung des Passivs (यक्)  zum Kausativ
-*   28.5. Bildung des Futurs (ऌत्, भविष्यन्ती f.) zum Kausativ
-*   28.6. Bildung des PPP (क्त) zum Kausativ
-*   28.7. Bildung des Absolutivs (क्त्वा । ल्यप्) zum Kausativ
-*   28.8. Bildung des Infinitivs (तुमुन्) zum Kausativ
-*   28.9. Die 10. Präsensklasse (चुरादि = चुर् u.s.w.)
-*   28.10. Wortliste
-*   28.11. Übung
-
 ## 28.1. Das Kausativum (णि, णिच्, कारित)
 
 Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (णि, णिच्, कारित).
@@ -522,4 +508,3 @@ Beispiel: रामो दासं भारं हारयति » दास
 धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥
 
 पापाद्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥
-

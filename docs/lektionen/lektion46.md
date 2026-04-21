@@ -3,26 +3,6 @@
 
 # Lektion 46
 
-## Übersicht
-
-*   46.1. Bildung der Verbalformen der 2. Person (मध्यमः) Perfekt (लिट्)
-    *   46.1.1. Endungen
-    *   46.1.2. Lautveränderung der Endung -dhve
-    *   46.1.3. Perfekt Typ I: keine Stammabstufung
-    *   46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
-        *   46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   46.1.8. Besondere Perfekt-Bildungen
-    *   46.1.9. Periphrastisches Perfekt (अनुप्रयोगलिट्)
-*   46.2. Wortliste
-*   46.3. Übung
-
 ## 46.1. Bildung der Verbalformen der 2. Person (मध्यमः) Perfekt (लिट्)
 
 ### 46.1.1. Endungen
@@ -644,4 +624,3 @@ Abb.: क्रोधाद्भवति संमोहः
 बुद्धिनाशात्प्रनश्यति ॥  
 Mumbai = मुंबई nach dem Attentat, 11. Juli 2006  
 \[Bildquelle: Sun Pictures / Lakshman. -- [http://www.flickr.com/photos/lakshmananand/383843516/](http://www.flickr.com/photos/lakshmananand/383843516/). -- Zugriff am 2009-01-09. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)\]
-

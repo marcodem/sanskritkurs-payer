@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet der Akkusativ Plural Maskulinum von „kavi“ (Dichter)?',
+    options: ['kavīn', 'kavān', 'kavayas', 'kavin'],
+    answer: 0,
+    explanation: 'Bei maskulinen i-Stämmen für den Akkusativ Plural wird der Vokal gelängt und -n angefügt: kavīn.'
+  },
+  {
+    question: 'Was ist die korrekte Akkusativ-Singular-Form des Femininums von „etad“ (dieser), wenn es bereits erwähnt wurde?',
+    options: ['etām', 'enām', 'tām', 'enad'],
+    answer: 1,
+    explanation: 'enām ist die anaphorische Form (bei Wiedererwähnung) für den Akkusativ Singular Femininum.'
+  },
+  {
+    question: 'Welche Endung hat der Akkusativ Plural bei neutralen a-Stämmen (z.B. phala)?',
+    options: ['-ān', '-ās', '-āni', '-am'],
+    answer: 2,
+    explanation: 'Neutra auf -a bilden den Nominativ und Akkusativ Plural auf -āni (z.B. phalāni).'
+  }
+]
+</script>
 
 # Übung Lektion 7
 

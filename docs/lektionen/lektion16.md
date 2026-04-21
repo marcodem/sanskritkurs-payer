@@ -3,13 +3,6 @@
 
 # Lektion 16
 
-## Übersicht
-
-*   16.1. Zum Sandhi auslautender Konsonanten
-*   16.2. Wortliste
-*   16.3. Übung
-*   16.4. Wiederholungsübung
-
 ## 16.1. Zum Sandhi auslautender Konsonanten
 
 Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln:
@@ -274,4 +267,3 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 > Satz 13: सर्वेषाम् Gen. pl. mask. zu सर्व "jeder, alle" (Pronomen, dekliniert nicht wie deva)
 
 ३. आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः, तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १.४.३॥
-

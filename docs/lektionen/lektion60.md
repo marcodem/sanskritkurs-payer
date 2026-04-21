@@ -3,30 +3,6 @@
 
 # Lektion 60
 
-## Übersicht
-
-*   60.1. Die Perfektendungen des Dual (द्विवचनम्)
-*   60.2. Der Dual des reduplizierten Perfekt (द्वित्वलिट्)
-    *   60.2.1. Typ 1: keine Stammabstufung
-    *   60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
-        *   60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   60.2.4. Typ 4: Wurzeln auf -ā / -ai
-    *   60.2.5. Typ 5: Konsonant-a-Konsonant
-        *   60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-*   60.3. Der Dual des periphrastischen Perfekt (अनुप्रयोगलिट्)
-*   60.4. Das Partizip परस्मैपद des reduplizierten Perfekt (द्वित्वलिट्)
-*   60.5. Deklination der Stämme auf -añc (-ac)
-    *   60.5.1. Dreistämmige Stämme auf -añc
-    *   60.5.2. Zweistämmige Stämme auf -añc
-*   60.6. Das Desiderativum (सन्)
-    *   60.6.1. Bildung des Desiderativstammes
-    *   60.6.2. Konjugation des Desiderativs (सन्)
-*   60.7. Übung
-
 ## 60.1. Die Perfektendungen des Dual (द्विवचनम्)
 
 |   | परस्मैपदम् | आत्मनेपदम् |
@@ -524,5 +500,3 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 51.  अवाचः
      
 52.  ईयुषे
-     
-

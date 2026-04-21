@@ -3,12 +3,6 @@
 
 # Lektion 31
 
-## Übersicht
-
-*   31.1. Die 7. Präsensklasse (रुधादि = "रुध् u.s.w.")
-*   31.2. Wortliste
-*   31.3. Übung
-
 ## 31.1. Die 7. Präsensklasse (रुधादि = "रुध् u.s.w.")
 
 Bildung:
@@ -240,4 +234,3 @@ B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und P
 ४. अञ्ज् (nur P)
 
 ५. भञ्ज् (nur P)
-

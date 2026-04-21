@@ -3,18 +3,6 @@
 
 # Lektion 47
 
-## Übersicht
-
-*   47.1. Der Imperativ (लोट्)
-*   47.2. Bildung des Imperativs (लोट्) thematischer Präsensstämme
-    *   47.2.1. Endungen des Imperativ an thematischen Präsensstämmen
-    *   47.2.2. Erste Präsensklasse (भ्वादि)
-    *   47.2.3. Sechste Präsensklasse (तुदादि)
-    *   47.2.4. Vierte Präsensklasse (दिवादि)
-    *   47.2.5. Zehnte Präsensklasse (चुरादि) und Kausative
-    *   47.2.6. Passiv
-*   47.3. Übung
-
 ## 47.1. Der Imperativ (लोट्)
 
 Der Imperativ (लोट्) bezeichnet
@@ -275,4 +263,3 @@ B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ):
 33\. Wir wollen von dir geführt werden.
 
 34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
-

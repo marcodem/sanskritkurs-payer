@@ -3,22 +3,6 @@
 
 # Lektion 44
 
-## Übersicht
-
-*   44.1.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme mit vokalisch endendem Suffix
-    *   44.1.1. Fünfte Präsensklasse (स्वादि)
-    *   44.1.2. Achte Präsensklasse (तनादि)
-    *   44.1.3. Neunte Präsensklasse (क्र्यादि)
-*   44.2. Zum Wortsandhi
-    *   44.2.1. Zum Wortsandhi für dh-
-    *   44.2.2. Zum Wortsandhi für s-
-*   44.3.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme ohne vokalisch endendem Suffix
-    *   44.3.1. Zweite Präsensklasse (अदादि)
-*   44.4. Der Vokativ (आमन्त्रितम्)
-*   44.5. Wortliste
-*   44.6. Übung
-*   44.7. Wiederholungsübung zur Formenlehre
-
 ## 44.1.  Bildung der Verbalformen der 2. Person (मध्यमः) athematischer Stämme mit vokalisch endendem Suffix
 
 ![](/images/lekt4301.jpg)
@@ -539,4 +523,3 @@ Bestimmen Sie folgende Formen:
 38.  पिपूर्मः
 39.  कैः
 40.  कृत्येन
-

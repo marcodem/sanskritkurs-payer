@@ -3,21 +3,6 @@
 
 # Lektion 15
 
-## Übersicht
-
-*   १. सुभाषितम्
-*   15.2. Determinativkomposita = Tatpuruṣa m. = तत्पुरुष
-*   15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = कर्मधारय
-*   15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   15.5. Zerlegung von Komposita (außer Dvandvas)
-*   15.6. Die Form des Vorderglieds in Komposita (समास m.)
-*   15.7. Einteilung der तत्पुरुष
-    *   15.7.1. Einteilung der कर्मधारय
-*   15.8. Wortliste
-*   15.9. Übung 1
-*   15.10. Übung 2
-*   15.11. Übung 3
-
 ## १. सुभाषितम्
 
 > गुरुशुश्रूषया विद्या  
@@ -575,4 +560,3 @@ B) Lösen Sie folgende Tatpuruṣa auf:
 Abb.: नागदेवाः  
 Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ)  
 \[Bildquelle: Dineshkannambadi / Wikipedia, GNU FDLicense\]
-

@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Was bedeutet der Vers „vidyā dadāti vinayaṃ...“?',
+    options: ['Wissen gibt Bescheidenheit, aus Bescheidenheit folgt Würdigkeit', 'Wissen ist Macht, Macht ist Geld', 'Wissenschaft ist schwerer als Sport', 'Der Lehrer gibt dem Schüler ein Buch'],
+    answer: 0,
+    explanation: 'vidyā = Wissen/Bildung, vinaya = Bescheidenheit/Zucht, pātratā = Würdigkeit (Lektion 40.1).'
+  },
+  {
+    question: 'Wie lautet die 1. Person Plural Perfekt Parasmaipada von „śru“ (hören)?',
+    options: ['śuśruma', 'śuśruvimah', 'śruṇumaḥ', 'aśṛṇvama'],
+    answer: 0,
+    explanation: 'śru ist eine aniṭ-Wurzel, daher tritt die Endung -ma direkt an den schwachen Stamm śuśru: śuśruma (Lektion 40.2).'
+  },
+  {
+    question: 'Welches Wort würde „durch mich“ (Instrumental von ich) bedeuten?',
+    options: ['mayā', 'mama', 'mat', 'mām'],
+    answer: 0,
+    explanation: 'mayā ist der Instrumental Singular von asmad und bedeutet „durch mich“ (Lektion 40.5).'
+  }
+]
+</script>
 
 # Übung Lektion 40
 
@@ -150,5 +170,6 @@ Lösungen ohne Anspruch auf Vollständigkeit!
 Abb.: काश्चन वाहिकाः  
 Karwar = ಕಾರವಾರ  
 \[Bildquelle: Songkran. -- [http://www.flickr.com/photos/thomasbrauner/847560576/](http://www.flickr.com/photos/thomasbrauner/847560576/). -- Zugriff am 2009-01-21. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzzielle Nutzung, share alike)\]
+ 
 
 Zu den [Lösungen der Übungen 41 - 45](uebung41.md)

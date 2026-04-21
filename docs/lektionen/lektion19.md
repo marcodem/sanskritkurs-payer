@@ -3,14 +3,6 @@
 
 # Lektion 19
 
-## Übersicht
-
-*   19.1. Der Relativsatz
-*   19.2. Das Relativpronomen = व्यपेक्षकसर्वनाम n.
-*   19.3. Wortliste
-*   19.4. Übung
-*   ५. सुभाषितानि
-
 ## 19.1. Der Relativsatz
 
 Schema:
@@ -187,4 +179,3 @@ Erklärung: यथाकालम्  Avyayībhavakompositum: zur rechten Zeit 
 यस्यार्थाः स हि पण्डितः ॥४॥
 
 Erklärung: पुमान् Nom. sg. zu पुंस् "Mann" ; लोके Lokativ sg. zu लोक m.: in der ...
-

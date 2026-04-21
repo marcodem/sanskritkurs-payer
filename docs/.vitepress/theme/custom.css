@@ -142,3 +142,10 @@ h2, h3 {
 .VPDoc {
   padding-top: 0 !important;
 }
+
+
+/* Native VitePress Prev/Next ausgeblendet – ersetzt durch PayerDocFooter */
+.VPDocFooter .prev-next {
+  display: none;
+}
+

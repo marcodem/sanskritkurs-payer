@@ -3,16 +3,6 @@
 
 # Lektion 5
 
-## Übersicht
-
-*   5.1. Nominalkomposita = samāsa m. = समास
-*   5.2. Zur Sanskrit-Terminologie für Komposita
-*   5.3. Kopulative Komposita = Dvandva n. ("Paar") = द्वन्द्व
-    *   5.3.1. Vorderglieder von Komposita
-    *   5.3.2. Plural-Itaretaradvandva
-*   5.4. Wortliste
-*   5.5. Übung
-
 ## 5.1. Nominalkomposita = samāsa m. = समास
 
 Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit.
@@ -211,5 +201,3 @@ sāmargyajurvedās trayī.
 D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmअl  mit einem Kompositum, einmal ohne):
 
 "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
-
-

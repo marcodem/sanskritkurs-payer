@@ -3,19 +3,6 @@
 
 # Lektion 35
 
-## Übersicht
-
-*   35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-    *   35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-    *   35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-*   35.2. Perfekt Typ IV: Wurzeln auf -ā / -ai
-*   35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
-    *   35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
-    *   35.3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
-    *   35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
-*   35.4. Wortliste
-*   35.5. Übung
-
 ## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 Bildung:
@@ -302,4 +289,3 @@ Abb.: ... ब्राह्मणाश्चेजुः
 अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥
 
 C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
-

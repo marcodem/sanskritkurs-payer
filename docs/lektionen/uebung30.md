@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'Wie lautet die 3. Person Plural Optativ Parasmaipada von „bhū“ (sein)?',
+    options: ['bhavet', 'bhaveyur', 'bhavantu', 'bhavān'],
+    answer: 1,
+    explanation: 'bhū bildet den Optativ Plural auf -eyur (Lektion 30.4.1).'
+  },
+  {
+    question: 'Was bedeutet der Satz „janā āryasatyāni jānīyur“?',
+    options: ['Die Menschen kennen die Wahrheiten', 'Die Menschen mögen die edlen Wahrheiten erkennen', 'Die Menschen werden die Wahrheiten lehren', 'Die Menschen hören die Wahrheiten'],
+    answer: 1,
+    explanation: 'jānīyur ist die 3. Person Plural Optativ von jñā (erkennen).'
+  },
+  {
+    question: 'Was besagt der Vers „satyaṃ brūyāt priyaṃ brūyāt...“ (Manu IV.138)?',
+    options: ['Man soll nur die Wahrheit sagen, auch wenn sie weh tut', 'Man soll Wahres sagen und Angenehmes sagen, aber keine unangenehme Wahrheit', 'Man soll immer lügen, wenn es nützt', 'Man soll schweigen'],
+    answer: 1,
+    explanation: 'Der Vers lehrt, Wahres und Angenehmes zu sagen, aber keine unangenehme Wahrheit und keine angenehme Unwahrheit.'
+  }
+]
+</script>
 
 # Übung Lektion 30
 
@@ -150,5 +170,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 Abb.: भक्त्याः  
 Hare Krishna devotees perform a parade in Florida, USA in 2008  
 \[Bildquelle: Tim Ross / Wikipedia. Public domain\]
+
+ 
 
 Zu den Lösungen der [Übungen Lektion 31 - 35](uebung31.md)

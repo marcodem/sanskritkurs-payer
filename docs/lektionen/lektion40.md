@@ -3,28 +3,6 @@
 
 # Lektion 40
 
-## Übersicht
-
-*   40.1. सुभाषितानि
-*   40.2. Bildung der Verbformen der ersten Person Perfekt (लिट्)
-    *   40.2.1. Perfekt Typ I: keine Stammabstufung
-    *   40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
-        *   40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   40.2.6. Besondere Perfekt-Bildungen
-*   40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (अनुप्रयोगलिट्)
-*   40.4. Syntaktisches zur ersten Person (तृतीयः)
-*   40.5. Personalpronomen (पुरुषार्थकसर्वनाम) der 1. Person Singular und Plural
-*   40.6. Wortliste
-*   40.7. Übung
-*   40.8. Wiederholungsübung zur Formenlehre
-
 ## 40.1. सुभाषितानि
 
 > विद्या ददाति विनयं  
@@ -647,4 +625,3 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ऐक्षे
 37.  आह
 38.  आहन्
-

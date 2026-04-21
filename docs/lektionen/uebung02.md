@@ -1,6 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-
 # Übung Lektion 2
 
 A) Setzen Sie in den folgenden Sätzen unter Beachtung des Sandhi die angegebenen Namen und Nomina ein und bilden Sie Nominalsätze:
@@ -101,3 +98,5 @@ sādhur guruḥ.
 Abb.: īśvaraḥ śivaḥ = ईश्वरः शिवः  
 Śiva als Adrdhnārīśvara (अर्धनारीश्वर), d.h. in der Gestalt von halb Mann, halb Frau  
 \[Bildquelle: Wikipedia, Public domain\]
+
+---

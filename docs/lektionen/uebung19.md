@@ -1,5 +1,25 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
+<script setup>
+const quizQuestions = [
+  {
+    question: 'In welchem Kasus stehen Relativpronomen (yad) und Beziehungswort im Relativsatz meistens?',
+    options: ['Immer im Nominativ', 'Immer im selben Kasus wie das Korrelativum im Hauptsatz', 'In dem Kasus, den der Relativsatz syntaktisch erfordert', 'Immer im Genitiv'],
+    answer: 2,
+    explanation: 'Das Relativpronomen steht in dem Kasus, den seine Rolle im Relativsatz verlangt (z.B. Agens im Instr., Ziel im Akk.).'
+  },
+  {
+    question: 'Was bedeutet der Ausdruck „yena yena ca vātena ... tena tena ca ...“?',
+    options: ['Aus diesem und jenem Grund', 'Mit welchem Wind auch immer ... mit eben diesem ...', 'Dort und hier', 'Früher oder später'],
+    answer: 1,
+    explanation: 'Die Verdopplung des Relativums (yad yad) drückt Allgemeingültigkeit oder „wer/was auch immer“ aus.'
+  },
+  {
+    question: 'Was ist ein „vāridda“ (वारिद)?',
+    options: ['Wind', 'Wassergeber / Regenwolke', 'Sonnenschirm', 'Gelehrter'],
+    answer: 1,
+    explanation: 'vāri (Wasser) + da (gebend) bedeutet wörtlich „Wassergeber“ und bezeichnet eine Regenwolke.'
+  }
+]
+</script>
 
 # Übung Lektion 19
 
@@ -65,4 +85,4 @@ Abb.: यस्यार्थास्तस्य मित्राणि
 यस्यार्थाः स पुमांल्लोके  
 यस्यार्थाः स हि पण्डितः ॥  
 "An 1895 group photograph of the eleven year old Krishnaraja Wadiyar IV (ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರು), ruler of the princely state of Mysore (ಮೈಸೂರು ಸಾಮ್ರಾಜ್ಯ) in South India, with his brothers and sisters."  
-\[Bildquelle: Wikipedia. Public domain\]
+[Bildquelle: Wikipedia. Public domain]

@@ -1,6 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-
 # Schriftübung 8
 
 Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:

@@ -1,6 +1,3 @@
-> [!INFO] Zitierweise & Rechte
-> Dieses Kapitel ist Teil des Sanskritkurses. Details zum Copyright und zur Zitierweise der Ursprungsfassung siehe: [Impressum & Copyright](/impressum)
-
 # Devanāgarī = देवनागरी
 
 ## Schriftübung 4

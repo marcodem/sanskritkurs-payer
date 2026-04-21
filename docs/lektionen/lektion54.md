@@ -3,17 +3,6 @@
 
 # Lektion 54
 
-## Übersicht
-
-*   54.1. Vorbemerkung
-*   54.2. Wortbildung: कृत्-Suffix -u an Desiderativstämme
-*   54.3. Metrik II: die epische त्रिष्टुभ् und die जगती
-*   54.4. Übung zur Metrik
-*   54.5. Bildungstypen des Aorist (लुङ्)
-*   54.6. Wurzelaorist
-    *   54.6.1. Der Aorist der 3.sg.Passiv
-*   54.7. Übung
-
 ## 54.1. Vorbemerkung
 
 Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
@@ -251,4 +240,3 @@ Nasalinfix:
 Abb.: त्रिचक्रेणेश्वरः स्तूयते  
 Tamil Nadu  
 \[Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)\]
-

@@ -3,33 +3,6 @@
 
 # Lektion 27
 
-## Übersicht
-
-*   27.1. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung)
-*   27.2. Bildung des Lokativ (सप्तमी)
-    *   27.2.1. Konsonatische Stämme
-    *   27.2.2. Frage, Demonstrativ- und Relativpronomina
-    *   27.2.3. Vokalische Stämme
-*   27.3. Übersicht über die regulären Kasusendungen (विभक्ति) des Singular und Plural
-*   27.4. Ein Vers mit allen Deklinationsformen des Singular zu राम
-*   27.5. Wortliste
-*   27.6. Übung
-*   27.7. Deklinationsparadigmen zum Auswendiglernen
-    *   27.7.1. Maskulina auf -a: नर
-    *   27.7.2. Neutra auf -a: फल
-    *   27.7.3. Feminina auf -ā: क्षत्रिया
-    *   27.7.4. Maskulina auf -i: अरि
-    *   27.7.5. Feminina auf -i: मति
-    *   27.7.6. Maskulina auf -u: गुरु
-    *   27.7.7. Feminina auf -u: धेनु#
-    *   27.7.8. Mehrsilbige Feminina auf -ī: देवी
-    *   27.7.9. Partizip Präsens Parasmaipada auf -ant: सन्त्
-    *   27.7.10. महान्त्
-    *   27.7.11. Maskulina und Neutra auf -vant / -mant: गुणवन्त्
-    *   27.7.12. Demonstrativpronomina: तद् । एतद् । इदम्
-    *   27.7.13. Relativpronomen: यद्
-    *   27.7.14. Fragepronomen: किम्
-
 ## 27.1. Gebrauch des Lokativ (सप्तमी f. = "siebte Kasusendung)
 
 Der Lokativ (सप्तमी) steht auf die Fragen:
@@ -760,5 +733,4 @@ Abb.: सद्गुरुः Sai Baba of Shirdi (1835 - 1918)
 ![](/images/lekt2717.jpg)  
 Abb.: कस्मात् ?  
 Tsunami 2005, Sri Lanka  
-\[Bildquelle: Hjálparstarf. -- [http://www.flickr.com/photos/help/6248954/](http://www.flickr.com/photos/help/6248954/). -- Zugriff am 2008-12-19. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] 
-
+\[Bildquelle: Hjálparstarf. -- [http://www.flickr.com/photos/help/6248954/](http://www.flickr.com/photos/help/6248954/). -- Zugriff am 2008-12-19. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]

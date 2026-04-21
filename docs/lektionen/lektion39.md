@@ -3,27 +3,6 @@
 
 # Lektion 39
 
-## Übersicht
-
-*   39.1. Die Personalendungen der ersten Person (तृतीयः पुरुषः = "dritte Person")
-*   39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme
-    *   39.2.1. Erste Präsensklasse (भ्वादि)
-    *   39.2.2. Sechste Präsensklasse (तुदादि)
-    *   39.2.3. Vierte Präsensklasse (दिवादि)
-    *   39.2.4. Zehnte Präsensklasse (चुरादि) und Kausative (णिजन्त)
-    *   39.2.5. Passiv (Suffix यक्)
-*   39.3. Bildung der Verbformen der ersten Person des einfachen Futur (ऌत्)
-    *   39.3.1. अनिट्-Bildung
-    *   39.3.2. सेट्-Bildung
-*   39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
-    *   39.4.1. Zweite Präsensklasse (अदादि)
-    *   39.4.2. Dritte Präsensklasse (जुहोत्यादि)
-    *   39.4.3. Fünfte Präsensklasse (स्वादि)
-    *   39.4.4. Achte Präsensklasse (तनादि)
-    *   39.4.5. Siebte Präsensklasse (रुधादि)
-    *   39.4.6. Neunte Präsensklasse (क्र्यादि)
-*   39.5. Übung
-
 ## 39.1. Die Personalendungen der ersten Person (तृतीयः पुरुषः = "dritte Person")
 
 Die Endungen der ersten Person (तृतीयः पुरुषः = "dritte Person") sind:
@@ -366,4 +345,3 @@ Beispiel: गच्छन्ति » गच्छामस्
 87.  जहति
 88.  अजुहवुः
 89.  हरति
-
