@@ -8,14 +8,19 @@ Ein automatisiertes Produktionssystem (Static Site Generator Pipeline), das best
 
 Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine blitzschnelle, übersichtliche und voll durchsuchbare Struktur, die als einfache Pipeline vollautomatisch neue Kapitel integrieren kann.
 
-## Current Milestone: v1.1 Interaktion & Flexibilität
+## Current State: v1.1 Interaktion & Flexibilität (Shipped)
 
-**Goal:** Ausbau der Lernplattform zu einem interaktiven, mehrsprachigen System mit flexiblerem Layout.
+**Satus:** Die Grundplattform ist interaktiv und mehrsprachig. Alle Lexionen (1-60) sind ins Englische übersetzt.
 
-**Target features:**
-- **Interaktive Quiz-Module**: Vue-Komponenten für direktes Feedback bei Übungen.
-- **Wide-Mode-Schalter**: Layout-Optimierung für große Bildschirme.
-- **Mehrsprachigkeit (i18n)**: Vorbereitung der Struktur für Deutsch/Englisch.
+**Shipped v1.1:**
+- **Interactive Quizzes**: `PayerQuiz` Komponente für Single/Multiple Choice Fragen integriert.
+- **i18n Foundation**: Vollständiger locales Support (DE/EN) mit Sprachumschalter und gespiegelter Struktur.
+- **Batch Translation**: Vollständige Übersetzung der Übungsdateien (Batch 2 & 3).
+
+## Next Milestone Goals (v1.2)
+- **Thematische Indizes**: Deep-Linking von grammatikalischen Konzepten über alle Lektionen hinweg.
+- **Erweiterte Suche**: Integration von Devanāgarī-spezifischer Suche und Filterung.
+- **Multimedia**: Pilot-Phase für Audio-Integration zur Aussprache-Unterstützung.
 
 ## Requirements
 
@@ -29,37 +34,24 @@ Perfekte typografische Darstellung von Sanskrit/Devanāgarī eingebettet in eine
 - ✓ **Theme & Design** — v1.0
 - ✓ **Volltextsuche** — v1.0
 - ✓ **Deployment-Mechanismus** — v1.0
+- ✓ **Quiz-Komponenten (L10N)** — v1.1
+- ✓ **i18n Setup (DE/EN)** — v1.1
+- ✓ **Grammar Exercise Translation (1-60)** — v1.1
+- ⚠ **Wide-Mode (Layout Toggle)** — Discarded in v1.1 in favor of standard responsive layout.
 
 ### Active
 
-- [ ] **Quiz-Komponenten**: Entwicklung einer Basis-Komponente für Single-Choice/Multiple-Choice Fragen.
-- [ ] **Layout Toggle**: Integration eines Buttons in die VitePress-Navbar zur Breitensteuerung.
-- [ ] **i18n Setup**: Konfiguration der `config.mjs` für Multi-Language Support und Erstellung des `/en/` Verzeichnisses.
+- [ ] **Thematische Indizes**: Aufbau einer Querverweis-Struktur für grammatikalische Begriffe.
+- [ ] **Devanāgarī-Suche**: Optimierung der Suchfunktion für transliterierte und native Devanāgarī Zeichen.
 
 ### Out of Scope
 
 - Dynamisches Backend (PHP/DB) — Die Pipeline erzeugt statische Seiten (SSG).
+- Forum / Community-Features — Fokus auf Content und Lernstruktur.
 
 ## Context
 
-Das Projekt wurde erfolgreich migriert. Shipped v1.0 am 2026-04-14. Fokus liegt nun auf Interaction und UX-Verbesserungen.
-
-## Evolution
-
-This document evolves at phase transitions and milestone boundaries.
-
-**After each phase transition** (via `/gsd-transition`):
-1. Requirements invalidated? → Move to Out of Scope with reason
-2. Requirements validated? → Move to Validated with phase reference
-3. New requirements emerged? → Add to Active
-4. Decisions to log? → Add to Key Decisions
-5. "What This Is" still accurate? → Update if drifted
-
-**After each milestone** (via `/gsd-complete-milestone`):
-1. Full review of all sections
-2. Core Value check — still the right priority?
-3. Audit Out of Scope — reasons still valid?
-4. Update Context with current state
+Shipped v1.1 am 2026-04-19. Das System ist nun technisch bereit für eine breitere internationale Nutzerschaft. Nächster Fokus ist die vertikale Erschließung der Inhalte (Indizes, Suche).
 
 ---
-*Last updated: 2026-04-14 after v1.1 milestone initialization*
+*Last updated: 2026-04-21 after v1.1 milestone completion*
