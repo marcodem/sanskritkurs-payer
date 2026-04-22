@@ -3,6 +3,10 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [1.1.2] - 2026-04-22
+### Behoben
+- **Tabellen-Layout:** Fehlerhafte Markdown-Tabellen in Lektion 52 (DE) korrigiert, um eine saubere Darstellung in VitePress zu gewährleisten.
+
 ## [1.1.1] - 2026-04-21
 ### Behoben
 - **Build-Fehler:** Unmaskiertes `<Absolutive>`-Tag in `docs/en/lektionen/uebung37.md` korrigiert, das den Vue-Compiler blockierte.
