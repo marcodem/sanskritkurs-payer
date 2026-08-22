@@ -1,270 +1,265 @@
-
 ---
-title: Lektion 30
-subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
+title: "Les 30"
+subtitle: 'De negende presentieklassse (⟪क्र्यादि⟫ = \"⟪क्री⟫ enz.\")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
+## 30.1. De negende presentieklass (⟪क्र्यादि⟫ = "⟪क्री⟫ enz.")
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-*   starker Stamm: tiefstufige Wurzel + -nā-
-    
-*   schwacher Stamm:
-    
-    *   vor Konsonant: Tiefstufige Wurzel + -nī-
-        
-    *   vor Vokal: tiefstufige Wurzel + -n-
+*   sterke stam: wortel in de lage graad + -nā-
+
+*   zwakke stam:
+
+*   voor medeklinker: wortel in de lage graad + -nī-
+
+*   voor klinker: wortel in de lage graad + -n-
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "kopen"
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3. Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+|**3e persoon:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
+|**3e persoon:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
-Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ⟪ज्ञा⟫ 9U "erkennen, wissen":
+Bij deze presentieklass is vooral de vorming van de presentiestam op basis van de wortel ⟪ज्ञा⟫ 9U "kennen, weten" van belang:
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3. Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+|**3e persoon:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
+|**3e persoon:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
-Die Form ⟪जा⟫ die dem Präsensstamm von ⟪ज्ञा⟫ zugrundeliegt, ist entweder durch eine Ablautreihe -ā (Tiefstufe) -nā (Hochstufe) zu erklären, oder durch Dissimilation aus *jñā-nā-ti.
+De vorm ⟪जा⟫ die aan de presentiestam van ⟪ज्ञा⟫ ten grondslag ligt, is hetzij te verklaren door een ablautreeks -ā (lage graad) -nā (hoge graad), hetzij door dissimilatie uit *jñā-nā-ti.
 
-Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix der 9. Klasse:
+Enkele wortels op lange klinker verkorten deze voor het presentiestamsuffix van de negende klasse:
 
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪पू⟫ 9U "reinigen"
+⟪पू⟫ 9U "zuiveren"
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3. Person:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+|**3e persoon:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
+|**3e persoon:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
 :::
-Bildung des Partizip Präsens Parasmaipada:
+Vorming van het participium praesens Parasmaipada:
 
-Beispiel:
+Voorbeeld:
 
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
+## 30.2. Gebruik van de optativus (⟪लिङ्⟫)
 
-Der Optativ wird gebraucht:
+De optativus wordt gebruikt:
 
 ::: grammar-box
-**1. zur Bezeichnung**
+**1. ter aanduiding**
 
-*   **eines Wunsches**
-*   **einer Bitte**
-*   **eines gemilderten Befehls**
+*   **van een wens**
+*   **van een verzoek**
+*   **van een afgezwakt bevel**
 
-**(hierbei überschneidet sich der Optativ - ⟪लिङ्⟫ - mit dem Imperativ - ⟪लोट्⟫)**
+**(hierbij overlapt de optativus - ⟪लिङ्⟫ - met de imperativus - ⟪लोट्⟫)**
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Der Leibeigene möge ins Dorf kommen"
+⟪दासो ग्राममागच्छेत्⟫ = "Moge de lijfeigene naar het dorp komen"
 :::
 ::: grammar-box
-**2. Wenn etwas als**
+**2. Wanneer iets als**
 
-*   **möglich**
-*   **wahrscheinlich**
-*   **vermutlich**
+*   **mogelijk**
+*   **waarschijnlijk**
+*   **vermoedelijk**
 
-**dargestellt werden soll.**
+**weergegeven moet worden.**
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात्⟫ = "Als hij uit het dorp zou gaan, zou hij de meester niet horen"
 :::
 ::: grammar-box
-**3. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."**
+**3. Betrekkelijke zinnen met optativus hebben soms de betekenis: "Als iemand ..."**
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
+⟪यो नृतं वदेत्स नरकं पतेत्⟫ = "Als iemand de onwaarheid zou zeggen, zou hij in de hel vallen = Als iemand onwaarheid zegt, valt hij in de hel"
 :::
-## 30.3. Sekundärendungen der 3. Personen Singular und Plural
+## 30.3. Secundaire uitgangen van de 3e persoon enkelvoud en meervoud
 
-Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (⟪लुङ्⟫), Prekativ (⟪आशिर्लिङ्⟫) und Konditionalis haben die sog. Sekundärendungen:
+De optativus (⟪लिङ्⟫), het imperfectum (⟪लङ्⟫), de aoristus (⟪लुङ्⟫), de precativus (⟪आशिर्लिङ्⟫) en de conditionalis hebben de zgn. secundaire uitgangen:
 
 ::: grammar-box
 
-| |3. Person Singular|3. Person Plural|
+| |3e persoon enkelvoud|3e persoon meervoud|
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur**|
-|**Ātmanepada**|**-ta**|athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran**|
+|**Parasmaipada**|**-t**|athematische klassen: **-an** of **-ur** :brOptativus: **-ur**|
+|**Ātmanepada**|**-ta**|athematische klassen: **-ata** (uit *nta):brOptativus: **-ran**|
 
 :::
-## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
+## 30.4. Vorming van de Optatief Present (⟪लिङ्⟫)
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. Thematische presentklassen
 
 ::: grammar-box
-**vor konsonantisch anlautenden Endungen:**
+**voor medeklinkerbeginnende uitgangen:**
 
-**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
+**Presentstam + -i- (die met het -a- versmelt tot -e-) + secundaire uitgangen**
 
-**vor vokalisch anlautenden Endungen:**
+**voor klinkerbeginnende uitgangen:**
 
-**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
+**Presentstam + -i- (» -e-) + -y- + secundaire uitgang**
 :::
-Beispiele:
+Voorbeelden:
 
-1\. Präsensklasse:
+1\. Presentklasse:
 
 ⟪भू⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3. Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+|**3e persoon:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
+|**3e persoon:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
-4\. Präsensklasse:
+4\. Presentklasse:
 
 ⟪नृत्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3. Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+|**3e persoon:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
+|**3e persoon:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
-6\. Präsensklasse
+6\. Presentklasse
 
 ⟪विश्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3. Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+|**3e persoon:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
+|**3e persoon:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
-10\. Präsensklasse und Kausative
+10\. Presentklasse en causativa
 
 ⟪चुर्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3. Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+|**3e persoon:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
+|**3e persoon:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. Athematische presentklassen
 
 ::: grammar-box
 **Parasmaipada:**
 
-**schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung**
+**zwakke presentstam + -yā- (voor -ur: -y-) + secundaire uitgang**
 
 **Ātmanepada:**
 
-**schwacher Präsensstamm + -ī- + Sekundärendung**
+**zwakke presentstam + -ī- + secundaire uitgang**
 :::
-Beispiele:
+Voorbeelden:
 
-2\. Präsensklasse:
+2\. presentklasse:
 
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3. Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+|**3e persoon:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
+|**3e persoon:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
 :::
-5\. Präsensklasse
+5\. presentklasse
 
 ⟪सु⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**3. Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+|**3e persoon:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
+|**3e persoon:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
 :::
-8\. Präsensklasse
+8\. presentklasse
 
 ⟪तन्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3. Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+|**3e persoon:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
+|**3e persoon:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
 :::
-**kṛ**
-(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3. Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+|**3e persoon:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
+|**3e persoon:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| |Enkelvoud:br⟪एकवचन⟫|Meervoud:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3. Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+|**3e persoon Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
+|**3e persoon Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. Sandhi van de uitluidende -r
 
 ::: grammar-box
-**Ausser für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
+**Behalve voor -ar gelden voor de uitluidende -r dezelfde Sandhi-regels als voor de uitluidende -s.**
 
-**-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
+**-ar voor stemhebbende klanken blijft -ar, maar voor r- valt de -r weg en wordt de -a- door -ā- vervangen.**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
-
-⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
-
-⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
+⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना रोदिति⟫
 :::
-## 30.6. Wortliste
+## 30.6. Woordenlijst
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kopen
 
 ::: indent
 Fut. ⟪क्रेष्यति⟫  
@@ -272,18 +267,18 @@ Pass. ⟪क्रीयते⟫
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkopen
 
 ::: indent
 Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Afb.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, herkennen, weten, begrijpen
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -293,17 +288,17 @@ Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-davon:
+daarvan:
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ m.: (bloed)verwant (verwanten zijn degenen die men kent!)
 
-⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+⟪ज्ञान⟫ n.: inzicht, kennis, het kennen (m.n. de "hogere" waarheden in religie en filosofie)
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
+Afb.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3002))
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
 
@@ -316,10 +311,10 @@ Inf. ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Details](/licenses#lekt3003))
+Afb.: ⟪श्रोत्राणि पुनाति⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : eten, verteren
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -330,61 +325,60 @@ Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
-⟪थाली⟫, Südindien
-(Bildquelle: [Details](/licenses#lekt3005))
+Afbeelding: ⟪अश्नीयात् थाली⟫, Zuid-India
+(Bron afbeelding: [Details](/nl/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+⟪प्रिय ३⟫: lief, liefhebbend, vriendelijk
 
 ::: media
 ![](/images/lekt3004.webp)
-Abb.: ⟪प्रिया⟫
-(Bildquelle: [Details](/licenses#lekt3004))
+Afbeelding: ⟪प्रिया⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+⟪चेत्⟫ Conjunctie: indien; mits, dat (staat nooit aan het begin van een zin)
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न चेत्⟫ : indien niet
 :::
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Conjunctie: indien
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
+⟪यद्यपि⟫ : hoewel, zelfs indien, ofschoon
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫ : indien het zo is, onder deze omstandigheden
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫ : weder, steeds weer, terug, nogmaals, daarentegen, maar
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
+⟪पुनः पुनर्⟫ : steeds weer
 
-davon:
+daarvan:
 
-⟪पुनर्भव⟫ m.: Wiedergeburt
+⟪पुनर्भव⟫ m.: wedergeboorte
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/licenses#lekt2904))
+Afbeelding: ⟪पुनर्भवः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+⟪जीव्⟫ 1P ⟪जीवति⟫ : leven
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : lebend  
+PPP ⟪जीवित⟫ : levend  
 Inf. ⟪जीवितुम्⟫
 
-davon:
+daarvan:
 
-⟪जीव⟫ m./n.: Leben, individuelle Seele
+⟪जीव⟫ m./n.: leven, individuele ziel
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+⟪सनातन ३⟫ v.: ⟪सनातनी⟫ : eeuwig, onvergankelijk, bestendig
 
-## 30.7. Übung
+## 30.7. Oefening
 
-A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi entsprechende Optativformen um:
+A) Wandel de volgende werkwoordsvormen om in de overeenkomstige optatiefvormen naar persoon, getal en genus verbi:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -452,69 +446,51 @@ A) Wandeln Sie folgende Verbalformen in die in Person, Zahl und Genus verbi ents
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Überrsetzen Sie die folgenden Sätze und lösen Sie die Komposita auf Sanskrit auf:
+B) Vertaal de volgende zinnen en ontbinden de samenstellingen in het Sanskriet:
 
-⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
+⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥ ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥ ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥ अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥ क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥ कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥ ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥ यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥ सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४⟫.⟪१३८॥⟫
 
-⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫
+## 30.8. Herhalingsoefening voor de vormleer
 
-⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫
+Bepaal en vertaal de volgende woordvormen:
 
-⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫
-
-⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫
-
-⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫
-
-⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫
-
-⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
-⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
-
-## 30.8. Wiederholungsübung zur Formenlehre
-
-Bestimmen und übersetzen Sie folgende Wortformen:
-
-1.  ⟪भारे⟫
-2.  ⟪अध्ययनम्⟫
-3.  ⟪वस्तुतस्⟫
-4.  ⟪वस्त्राणि⟫
-5.  ⟪प्रतिमया⟫
-6.  ⟪आचाराय⟫
-7.  ⟪आचार्यैः⟫
-8.  ⟪अश्वेषु⟫
-9.  ⟪ताम्⟫
-10.  ⟪वृत्त्यै⟫
-11.  ⟪चरितस्य⟫
-12.  ⟪अर्हता⟫
-13.  ⟪शक्तीः⟫
-14.  ⟪कामम्⟫
-15.  ⟪भिक्षवे⟫
-16.  ⟪भगवद्गीतायाम्⟫
-17.  ⟪भगवति⟫
-18.  ⟪भक्त्याः⟫
-19.  ⟪स्थानात्⟫
-20.  ⟪स्थित्या⟫
-21.  ⟪मात्रायै⟫
-22.  ⟪प्रभृतौ⟫
-23.  ⟪हस्तेन⟫
-24.  ⟪आदेः⟫
-25.  ⟪दिष्टिम्⟫
-26.  ⟪रुद्रः⟫
-27.  ⟪मृत्यौ⟫
-28.  ⟪मृतिः⟫
-29.  ⟪द्विजातये⟫
-30.  ⟪जातिभिः⟫
-31.  ⟪व्याघ्रान्⟫
-32.  ⟪पूजाः⟫
-33.  ⟪शत्रोः⟫
-34.  ⟪उक्तिभ्यः⟫
-35.  ⟪महान्ति⟫
-36.  ⟪महति⟫
-37.  ⟪सा⟫
-38.  ⟪तस्यै⟫
-39.  ⟪तस्मिन्⟫
-40.  ⟪सते⟫
-
+1. ⟪भारे⟫
+2. ⟪अध्ययनम्⟫
+3. ⟪वस्तुतस्⟫
+4. ⟪वस्त्राणि⟫
+5. ⟪प्रतिमया⟫
+6. ⟪आचाराय⟫
+7. ⟪आचार्यैः⟫
+8. ⟪अश्वेषु⟫
+9. ⟪ताम्⟫
+10. ⟪वृत्त्यै⟫
+11. ⟪चरितस्य⟫
+12. ⟪अर्हता⟫
+13. ⟪शक्तीः⟫
+14. ⟪कामम्⟫
+15. ⟪भिक्षवे⟫
+16. ⟪भगवद्गीतायाम्⟫
+17. ⟪भगवति⟫
+18. ⟪भक्त्याः⟫
+19. ⟪स्थानात्⟫
+20. ⟪स्थित्या⟫
+21. ⟪मात्रायै⟫
+22. ⟪प्रभृतौ⟫
+23. ⟪हस्तेन⟫
+24. ⟪आदेः⟫
+25. ⟪दिष्टिम्⟫
+26. ⟪रुद्रः⟫
+27. ⟪मृत्यौ⟫
+28. ⟪मृतिः⟫
+29. ⟪द्विजातये⟫
+30. ⟪जातिभिः⟫
+31. ⟪व्याघ्रान्⟫
+32. ⟪पूजाः⟫
+33. ⟪शत्रोः⟫
+34. ⟪उक्तिभ्यः⟫
+35. ⟪महान्ति⟫
+36. ⟪महति⟫
+37. ⟪सा⟫
+38. ⟪तस्यै⟫
+39. ⟪तस्मिन्⟫
+40. ⟪सते⟫

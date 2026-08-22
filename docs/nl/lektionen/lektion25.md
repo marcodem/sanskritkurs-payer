@@ -1,34 +1,32 @@
-
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: "Les 25"
+subtitle: 'Vorming van de ablatief (⟪पञ्चमी⟫ = \"vijfde naamvaluitgang\")'
 lesson_id: 25
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 25
+---# Les 25
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. Vorming van de ablatief (⟪पञ्चमी⟫ = "vijfde naamvaluitgang")
 
 ::: grammar-box
-Ausser bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch.
+Behalve bij mannelijke en onzijdige zelfstandige naamwoorden op -a en bij de voornaamwoorden zijn de vormen van de ablatief (⟪पञ्चमी⟫) in het enkelvoud in alle verbuigingsklassen identiek aan die van de genitief (⟪षष्ठी⟫) identiek.
 
-Ausser bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch.
+Behalve bij de persoonlijke voornaamwoorden zijn in alle verbuigingen in het meervoud de vormen van de ablatief identiek aan die van de datief (⟪चतुर्थी⟫).
 :::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen.
+Nu begrijpt u de reden voor de volgorde van de naamvallen (⟪विभक्ति⟫) in het Sanskriet: ze zijn zo gerangschikt dat vormen met dezelfde klank zoveel mogelijk naast elkaar – of onder elkaar – staan.
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a**
+**Ablatief enkelvoud van de mannelijke en onzijdige zelfstandige naamwoorden op -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
-Frage-, Relativ- und Demonstrativpronomina:
+Vraag-, relatieve en aanwijzende voornaamwoorden:
 
 ::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum |
+| | Ablatief enkelvoud:brMannelijk / Onzijdig | Ablatief enkelvoud:brVrouwelijk |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -37,172 +35,170 @@ Frage-, Relativ- und Demonstrativpronomina:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
+## 25.2. Gebruik van de ablatief (⟪पञ्चमी⟫)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht."
+"De ablatief duidt datgene aan wat achterblijft wanneer er iets van weggaat."
 
 Pāṇini 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
+De ablatief wordt vooral gebruikt bij de vragen "Waarvandaan?", "Waarom?".
 
 ::: grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff.
-
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw.
+1\. De ablatief duidt dus het uitgangspunt, de herkomst en het materiaal aan.
+De ablatief kan daarom ook de persoon aanduiden van wie men iets koopt, hoort, wenst, enz.
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf"
+⟪ग्रमादागच्छति⟫ = "Hij komt uit het dorp"
 
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen"
+⟪अश्वात्पतितः⟫ = "van het paard gevallen"
 
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen"
+⟪तेभ्यो लब्धम्⟫ = "van hen ontvangen"
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma"
+⟪गुरोर्धर्मं शृणोति⟫ = "hij hoort van de leraar over de Dharma"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh"
+⟪ब्राह्मणः क्षत्रियाद्धेनुमिच्छति⟫ = "de brahmaan vraagt de kṣatriya om een melkkoe"
 :::
 ::: grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor":
+2\. De ablatief wordt gebruikt bij werkwoorden met de betekenissen „afhouden van”, „beschermen tegen”, „verdedigen tegen”, „bang zijn voor”:
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden"
+⟪अरिभ्यो रक्षति⟫ = „hij beschermt tegen de vijanden“
 :::
 ::: grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache:
+3\. De ablatief duidt de reden of de oorzaak aan:
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn"
+⟪क्रोधात्पुत्रं हन्ति⟫ = "Hij doodt zijn zoon uit woede"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde)
+⟪कृतपापत्वान्नरकं गच्छति⟫ = "Omdat hij kwaad heeft gedaan, komt hij in de hel" («Omdat hij iemand is door wie kwaad is gedaan»)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle"
+⟪पापकरणान्नरकं गच्छति⟫ = "Omdat hij kwaad doet / deed, komt hij in de hel"
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen.
+Zelfstandige naamwoorden die geen vrouwelijke vorm hebben, kunnen, om de reden van een handeling aan te duiden, in de instrumentalis (⟪तृतीया⟫) of de ablativus (⟪पञ्चमी⟫) staan. Vrouwelijke zelfstandige naamwoorden staan in deze betekenis meestal in de instrumentalis, maar kunnen af en toe ook in de ablatief staan.
 
-## 25.3. Das Suffix -⟪तस्⟫
+## 25.3. Het achtervoegsel -⟪तस्⟫
 
 ::: grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"):
+Als men in het enkelvoud (eenduidig) wil aangeven dat het woord in de ablatieve betekenis wordt gebruikt, kan men aan de woordstam het achtervoegsel -⟪तस्⟫ toevoegen, dat bijwoorden vormt met meestal een ablatieve betekenis (op de vraag „Waarvandaan?“):
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪आदितस्⟫ = "von Anfang an"
+⟪आदितस्⟫ = "vanaf het begin"
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma"
+⟪धर्मतस्⟫ = "wegens de dharma, op grond van de dharma"
 :::
 ::: grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme:
+Het suffix -⟪तस्⟫ treedt ook op bij pronominaalstammen:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum"
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "van daar, daar, daarheen, daarop, toen, daarom"
 
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ)
+⟪यद्⟫ : ⟪यतस्⟫ "van welk, waarvan, waarvandaan, waar, waarnaartoe, waarom, omdat" (relatief)
 
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?"
+⟪किम्⟫ :  ⟪कुतस्⟫ "waarvandaan?" "waarom?"
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
+## 25.4. Andere manieren om motiveringen uit te drukken
 
 ::: grammar-box
-**1\. Relativsätze**
+**1\. Betrekkelijke zinnen**
 
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus.
+Betrekkelijke zinnen drukken vaak een causale (motiverende), consecutieve (gevolgaanduidende) of finale (doelaanduidende) relatie tot de hoofdzin uit.
 
-Formen des Relativpronomens, die als kausale Konjunktion dienen:
+Vormen van het betrekkelijk voornaamwoord die als causaal voegwoord dienen:
 
 *   ablativisch:
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..."
-*   instrumental:
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..."
+*   ⟪यतस्⟫ ... bijzin ... ⟪ततस्⟫ ... hoofdzin ... = "omdat ..., daarom ..."
+*   ⟪यस्मात्⟫ ... bijzin ... ⟪तस्मात्⟫ ... hoofdzin ... = "omdat ..., daarom ..."
+*   instrumentaal:
+*   ⟪येन⟫ ... bijzin ... ⟪तेन⟫ ... hoofdzin ... = "waardoor/omdat ..., daardoor / daarom ..."
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde"
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो व्रतं चरति⟫ = "Omdat Rāma welvaart wenst, beoefent hij de gelofte"
 :::
 ::: grammar-box
 **2\. ⟪हि⟫**
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz:
+Hoofdzinnen kan men met behulp van het partikel ⟪हि⟫ "want, omdat" met elkaar verbinden. Een zin met ⟪हि⟫ (dat niet op de eerste plaats mag staan, maar in proza op de tweede plaats moet staan) geeft een motivering voor ofwel de voorgaande zin ofwel de daaropvolgende zin:
 :::
-Beispiel:
-
+Voorbeeld:
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen."
+⟪जनाः पुण्यं कुर्वन्ति । स्वर्गं हि गन्तुमिच्छन्ति⟫ = "Mensen doen goede daden. Ze willen namelijk naar de hemel gaan."
 :::
 ::: grammar-box
 **3\. Instrumentalis (⟪तृतीया⟫)**
 
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
+Naast de ablatief (⟪पञ्चमी⟫) wordt de instrumentalis (⟪तृतीया⟫) gebruikt om de reden of oorzaak aan te geven. Bij vrouwelijke zelfstandige naamwoorden is de instrumentalis over het algemeen verplicht.
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn"
+⟪क्रोधेन पुत्रं हन्ति⟫ = „Hij doodt zijn zoon uit woede“ = „Hij doodt zijn zoon in woede“
 :::
 ::: grammar-box
-**4\. Nomina**
+**4\. Zelfstandige naamwoorden**
 
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit
+Daarnaast kan men redenen natuurlijk ook uitdrukken door middel van constructies met
 
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫
+*   ⟪कारण⟫ n. „oorzaak”: ⟪कारणात् । कारणेन⟫
 *   ⟪हेतु⟫ m.
-*   andere Nomina in der Bedeutung "Ursache"
+*   andere zelfstandige naamwoorden in de betekenis van “oorzaak”
 
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita:
+\+ genitief (⟪षष्ठी⟫) of als achterlid van samengestelde woorden:
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes"
+⟪पुण्यस्य कारणात्⟫ (⟪हेतोः⟫ enz.) = „vanwege de verdienste“
 :::
 ::: grammar-box
 **5\. ⟪इति⟫**
 
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben:
+Het motief voor een handeling kan worden aangegeven als gedachten met ⟪इति⟫:
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...)
+⟪सम्यक्संबुद्धः सुगत इत्यानन्दो गौतमं धर्मं पृच्छति⟫  = "Omdat de Sugata volledig tot de waarheid is ontwaakt, vraagt Ānanda de Gautama naar zijn leer" (« "Denkend: 'De Sugata is volledig tot de waarheid ontwaakt' ...)
 :::
-## 25.5. Wortliste
+## 25.5. Woordenlijst
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlaten, opgeven, in de steek laten
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
+Toekomst ⟪त्यक्ष्यति⟫  
+Passief ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
 Inf. ⟪त्यक्तुम्⟫  
 Absol. 2: -⟪त्यज्य⟫
 
-davon:
+waarvan:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ m.: opgeven, afzien, vermijden
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ m. pl. (!!!): vrouw
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ n.: voorwerp, bezittingen, materieel eigendom, geld
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪धान्य⟫ n.: gedorsen graan
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+Afb.: ⟪धान्यम्⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 1U ⟪धरति⟫ : vasthouden, stevig vasthouden
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -211,20 +207,20 @@ PPP ⟪धृत⟫
 Inf. ⟪धर्तुम्⟫  
 Absol. 2: -⟪धृत्य⟫
 
-davon:
+daarvandaan:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.: dat wat vast is en vasthoudt = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ : voortdurend, bestendig, eeuwig
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ Adv.: altijd, bestendig steeds
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.: wijsheid, kennis
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.: geven, schenken ; geschenk, donatie
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : zich verheugen, zich aan iets (Instr., Gen., Lok.) bedwalmen
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -232,17 +228,17 @@ Pass. ⟪मद्यते⟫
 PPP ⟪मत्त⟫  
 Inf. ⟪मदितुम्⟫
 
-davon:
+daarvandaan:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪मद⟫ m.: bedwelming, zintuiglijke bedwelming = zinslust
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪मान⟫ m.: inschatting, aanzien, roem, eer, trots, hoogmoed, minderwaardigheidscomplex ; (men meet zich aan anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Konjunctie: als
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪न्याय⟫ m.: regel, principe, methode, oordeel (juridisch), logica (uit ni + i + a)
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪अन्यथा⟫ Adv.: anders, anderszins, ten onrechte, onjuist
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -252,37 +248,33 @@ PPP ⟪यात⟫
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. mv.) : bevelen, onderwijzen, straffen
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
+PPP ⟪शिष्ट ३⟫ : onderwezen  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+daarvandaan:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
+⟪शिक्षा⟫ f.: wetenschap, onderwijs ; fonetiek
 :::
-⟪स्तेन⟫ m.: Dieb
+⟪स्तेन⟫ m.: dief
 
-⟪स्तेय⟫ n.: Diebstahl
+⟪स्तेय⟫ n.: diefstal
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
+⟪किल्बिष⟫ n.: schuld, belediging, zonde
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.)
+⟪विना⟫ Postpositie: zonder, behalve (met Akk., Instr., Abl.)
 
-⟪मूल⟫ n.: Wurzel
+⟪मूल⟫ n.: wortel
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
+Afb.: ⟪मूलानि⟫
+(Bron: [Details](/nl/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): besmeren, insmeren
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -290,85 +282,83 @@ Pass. ⟪लिप्यते⟫
 PPP ⟪लिप्त⟫  
 Inf. ⟪लेप्तुम्⟫
 
-davon:
+daarvan:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ f.: besmering, schrijven, schrift
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+Afb.: ⟪लिप्तिः⟫
+(Bron: [Details](/nl/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: regen, regentijd, jaar
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : leiden, varen, waaien (wind)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+Absol 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegleiden (namelijk de bruid uit het ouderlijk huis) = trouwen
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+daarvan:
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: wegleiden, huwelijk van een vrouw (Instr., saha) (voor het huwelijk zie Basham, Wonder S. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+Afb.: ⟪विवाहः⟫
+(Bron: [Details](/nl/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegleiden, onderrichten, opvoeden
 
 ::: indent
-davon:
+daarvan:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: verwijderen, opvoeden, discipline, boeddhistisch: kloosterdiscipline, kloosterrichtlijn
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: kennis, inzicht
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: arbeid, dwangarbeid
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+Afb.: ⟪विष्टिः⟫
+(Bron: [Details](/nl/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : groeien, groter worden
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
+PPP ⟪वृद्ध⟫ : volwassen, oud, vermeerderd  
 Inf. ⟪वर्धितुम्⟫
 
-davon:
+daarvan:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: groei, groeiing, verdubbelingsgraad (uit: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.: hetgeen aan zijn doel beantwoordt
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.: wezen, natuur, karakter
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.: (het rechtopzetten van het lichaamshaar), vreugde
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ : gouden ; n.: goud, geld, rijkdom
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+Afb.: ⟪हिरण्यम्⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ : dun, fijn, zeer klein ; m.: atoom
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
+⟪गोदान⟫ n.: geven van koeien / een koe ; tweede haarsnijceremonie (een ⟪संस्कार⟫)
 
-## 25.6. Übung
+## 25.6. Oefening
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie ausserdem Deklinationsreihen mit allen bisher gelernten Formen zu
+A) Vul de vervoegingsvoorbeelden van [Les 16](lektion16.md), herhalingsoefening A aan door toevoeging van 4. Dativus (⟪चतुर्थी⟫) en 5. Ablativus (⟪पञ्चमी⟫). Vorm ook vervoegingsreeksen met alle tot nu toe geleerde vormen voor
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -376,117 +366,59 @@ A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiede
 
 ⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
-Lernen Sie diese Deklinationsparadigmen auswendig!
+Leer deze vervoegingsparadigma's uit je hoofd!
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Vertaal en ontbind de samenstellingen in het Sanskriet:
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
+⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥ गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥ क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥ कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्हति ॥४॥ धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥ बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥ लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥ क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫
 
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫
-
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫
-
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫
-
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫
-
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫
-
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫
-
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫
-
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫
-
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫
-
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫
-
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫
-
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫
-
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫
-
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫
-
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫
-
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
+⟪पुत्रलाभकारणाद्ब्राह्मणी व्रतं चरति ॥९॥ लब्धपुत्रत्वाद्द्विजेन महासुखमाप्तम् ॥१०॥ विष्णुर्भक्तान्मरणात्पाति ॥११॥ रामाद्विना⟫ =  ⟪रामं विना⟫ = ⟪रामेण विना ॥१२॥ साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥ रामः कृष्णाय तिष्ठति ॥१४॥ सुखेन गच्छति ॥१५॥ अलं भयेन ॥१६॥ लोकादधिको हरिः ॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
 ::: media
 ![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
+Afbeelding: ⟪लोकादधिको हरिः⟫
 :::
-## 25.7. ⟪सुभाषितानि⟫
-
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
-⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
+## 25.7. ⟪सुभाषितानि यतो यतो निवर्तते ततस्ततो विमुच्यते । निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि ॥१॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
+Verklaring: ⟪सर्वतस्⟫ = sarva "elk, allen" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
 :::
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
-⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
-
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
-⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫
-
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
-⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
+⟪मानाद्वा यदि वा लोभात् क्रोधाद्वा यदि वा भयात् । यो न्यायमन्यथा ब्रूते स याति नरकं नरः ॥२॥ भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥३॥ शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥मनुस्मृति ८⟫.⟪३१६॥ ॥४॥⟫
 
 ::: indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫
+Verklaring: ⟪राजा⟫ = Nom. sg. van ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Übersetzungsübung
+## 25.8. Vertaalopgave
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie:
+1\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪१⟫. over het nut van de economie:
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
+⟪वार्त्ता धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten:
+2\. ⟪कौटिलीयार्थशास्त्र १⟫.⟪५⟫. over de opleiding van een vorst:
 
-⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
-⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
-⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
-... ⟪॥⟫  
-⟪वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫:sig[⟪कर्म⟫] ⟪चास्य⟫ ⟪॥१०॥⟫  
-⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
-... ⟪॥⟫  
-⟪श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
-... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪तस्माद्दण्डमूला⟫:sig[⟪स्तिस्रो⟫] ⟪विद्याः ॥१॥ विनयमूलो दण्डः⟫ :sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः ॥२॥ कृतकः स्वाभाविकश्च विनयः ॥३॥ क्रिया हि द्रव्यं विनयति नाद्रव्यम् ॥४॥ शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं विद्या विनयति⟫ :sig[⟪नेतरम्⟫] ⟪॥५॥⟫  
+⟪॥ वृत्तचौल⟫:sig[⟪कर्मा⟫] ⟪लिपिं संख्यानं चो⟫:sig[⟪पयुन्ञ्जीत⟫] ⟪॥७॥ वृत्तोपनयस्त्रयीमान्वीक्षिकीं च शिष्टेभ्यो वार्त्तामध्यक्षेभ्यो दण्डनीतिं⟫ :sig[⟪वक्तृप्रयोक्तृभ्यः⟫] ⟪॥८॥ ब्रह्मचर्यं चा⟫ :sig[⟪षोडशाद्व⟫]⟪र्षाद् ॥९॥ अतो गोदानं दार⟫:sig[⟪कर्म⟫] ⟪चास्य ॥१०॥ नित्यश्च विद्यावृद्धसंयोगो विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य ॥११॥⟫  
+⟪॥ श्रुता⟫:sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते प्रज्ञाया योगो योगा⟫:sig[⟪दात्मवत्ते⟫]⟪ति विद्यानां सामर्थ्यम् ॥१६॥⟫  
+⟪॥ कामक्रोधलोभमानमदहर्षत्यागा⟫:sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter:
+Verklaring van de in bovenstaande tekst rood gemarkeerde woorden:
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei"
+1.5.1. ⟪तिस्रस्⟫ : naamval, accusatief, vrouwelijk tot ⟪त्रि⟫ "drie"
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen"
+1.5.2. ⟪प्राणभृताम्⟫ : genitief, meervoud, mannelijk tot ⟪प्राणभृत्⟫ m. "wezens"
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer"
+1.5.5. ⟪इतरम्⟫ accusatief, enkelvoud, mannelijk tot ⟪इतर ३⟫ "ander"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen"
+1.5.7. ⟪कर्मा⟫ : nominatief, enkelvoud, mannelijk tot ⟪कर्मन्⟫ neutrum "daad, werk" ; ⟪उपयुञ्जीत⟫ : optatief 3. persoon enkelvoud Ā aan upa-yuj 7 "zich toe-eigenen": "hij moge zich toe-eigenen"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ ablatief, datief, meervoud tot ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "theoretici en praktici"
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter"
+1.5.9. ⟪षोडश ३⟫ : "zestiende"
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat"
+1.5.10. ⟪कर्म⟫ nominatief, accusatief, enkelvoud tot ⟪कर्मन्⟫ n. "daad"
 
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz"
+1.5.16. ⟪धि⟫ sandhi-vorm tot ⟪हि⟫ ; ⟪आत्मवत्ता⟫ v.: "zelfbezit"
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss"
+1.6.1. ⟪कार्य ३⟫ "te doen, wat gedaan moet worden"
 

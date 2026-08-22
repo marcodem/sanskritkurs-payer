@@ -9,7 +9,7 @@ const { PDFDocument, PDFName, PDFString, PDFHexString, PDFNumber } = require('pd
 const ROOT = path.join(__dirname, '..');
 const EXPORT_DIR = path.join(ROOT, 'dist_exports');
 const PKG = JSON.parse(fs.readFileSync(path.join(ROOT, 'package.json'), 'utf-8'));
-const VERSION = PKG.version || '1.6.4';
+const VERSION = PKG.version || '1.7.0';
 
 // Setup MarkdownIt with VitePress-compatible container extensions
 const md = new MarkdownIt({ html: true, linkify: true, breaks: false });

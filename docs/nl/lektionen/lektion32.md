@@ -1,35 +1,35 @@
-
 ---
-title: Lektion 32
+title: "Les 32"
 lesson_id: 32
 status: stable
+
 ---
 
 # Les 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. De verleden tijden
 
 ::: grammar-box
-**In der älteren Sanskritliteratur und von den einheimischen Grammatikern werden die drei Tempora der Vergangenheit in ihrem Gebrauch klar unterschieden:**
+**In de oudere Sanskritliteratuur en door de inheemse grammatici worden de drie tempora van het verleden in hun gebruik duidelijk onderscheiden:**
 
-*   **der Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) bezeichnet entweder einfach die Vollendung einer Handlung oder er bezeichnet, was sich am laufenden Tag ereignet hat, die nahe Vergangenheit**
-*   **das Imperfekt (⟪लङ्⟫) bezeichnet, was sich vor dem laufenden Tage ereignet hat, die entfernte Vergangenheit**
-*   **das Perfekt (⟪लिट्⟫) bezeichnet wie das Imperfekt die entfernte Vergangenheit, wird aber, im Gegensatz zum Imperfekt, nur von Ereignissen gebraucht, die der Sprechende selbst nicht gesehen hat**
+*   **de aoristus (⟪लुङ्⟫ , ⟪अद्यतनी⟫) duidt ofwel eenvoudigweg de voltooiing van een handeling aan, ofwel hij duidt aan wat zich op de lopende dag heeft voorgedaan, de nabije verleden tijd**
+*   **de imperfectus (⟪लङ्⟫) duidt aan wat zich vóór de lopende dag heeft voorgedaan, de verre verleden tijd**
+*   **de perfectus (⟪लिट्⟫) duidt evenals de imperfectus de verre verleden tijd aan, maar wordt, in tegenstelling tot de imperfectus, alleen gebruikt voor gebeurtenissen die de spreker zelf niet gezien heeft**
 
-**In der klassischen Sanskritliteratur werden die drei Vergangenheitstempora ohne Bedeutungsunterschied gebraucht (Ausnahme: ⟪भारवि⟫'s Kunstgedicht ⟪किरातार्जुनीय⟫).**
+**In de klassieke Sanskritliteratuur worden de drie tempora van het verleden zonder betekenisonderscheid gebruikt (uitzondering: ⟪भारवि⟫'s kunstgedicht ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. Das Imperfekt (⟪लङ्⟫)
+## 32.2. De imperfectus (⟪लङ्⟫)
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+**Augment a- + tegenwoordige-tijdstam + secundaire uitgang**
 
-**Die drei Personen des Singular Parasmaipada Imperfekt werden bei athematischen Stämmen vom starken Präsensstamm gebildet, alle übrigen Formen vom schwachen Präsensstamm.**
+**De drie personen van de singularis parasmaipada imperfectus worden bij athematische stammen gevormd van de sterke tegenwoordige-tijdstam, alle overige vormen van de zwakke tegenwoordige-tijdstam.**
 
-**Das Imperfekt hat nur den Indikativ.**
+**De imperfectus heeft slechts de indicatief.**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
 ⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
@@ -38,16 +38,16 @@ Beispiele:
 *   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
 *   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Regeln für das Augment
+## 32.3. Regels voor het augment
 
 ::: grammar-box
-**1. Tritt das Augment a- vor eine vokalisch anlautende Wurzel, so verschmelzen das Augment und der Wurzelanlaut zur ⟪वृद्धि⟫ des Wurzelvokals.**
+**1. Treedt het augment a- vóór een met een klinker beginnende wortel, dan versmelten het augment en de wortelaanluid tot de ⟪वृद्धि⟫ van de wortelklinker.**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: grammar-box
 
-| | 3. sg. Impf. | 3. pl. Impf. |
+| | 3. sg. Imperfectum | 3. pl. Imperfectum |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
@@ -55,13 +55,13 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Stehen Präverben vor einer Wurzel, so tritt das Augment a- hinter die Präverben unmittelbar vor die Wurzel.**
+**2. Wanneer preverbium's voor een wortel staan, treedt het augment a- direct achter de preverbium's en vóór de wortel.**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: grammar-box
 
-| | 3. sg. Impf. |
+| | 3. sg. Imperfectum |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
@@ -69,29 +69,29 @@ Beispiele:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. Voorbeelden voor de vorming van het Imperfectum
 
 ::: important
-**Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.**
+**Om de vorming van de vormen te demonstreren, worden hier ook Ātmanepada-vormen gevormd voor Parasmaipada-wortels! Deze kunstmatige vormen staan tussen \< \>.**
 :::
-### 32.4.1. Thematische Präsensklassen
+[76] ### 32.4.1. Thematische tegenwoordige tijd klassen
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presentieklasse | Wortel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
 | 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
-| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 10. / Kausatief | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Passief | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+[89] ### 32.4.2. Athematische tegenwoordige tijd klassen
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presentieklasse | Wortel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
 | 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
@@ -108,137 +108,123 @@ Beispiele:
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. Woordenlijst
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
+**⟪अग्र⟫ n.:** punt, uiterste einde
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+**⟪मही⟫ f.:** aarde, grond en bodem (letterlijk: de Grote)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Afb.: ⟪चूतः⟫
+Mango boom, Kanpur.
+(Bron afbeelding: [Details](/nl/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Afb.: ⟪वानराः⟫
+Apen (rhesus apen) in Delhi.
+(Bron afbeelding: [Details](/nl/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+Afb.: ⟪उपलाः⟫
+Steengroeve ten zuiden van Pune, Maharashtra.
+(Bron afbeelding: [Details](/nl/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+Afb.: ⟪लक्ष्यम्⟫
+Schietoefening / pijlenvlot, Karnataka.
+(Bron afbeelding: [Details](/nl/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+Afb.: ⟪चितं गोमयं दहति⟫
+Brandende koemestplakken in Rajasthan.
+(Bron afbeelding: [Details](/nl/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+Afbeelding: ⟪कौशलम्⟫
+Mehndi-schildering op handen in Mumbai.
+(Bron afbeelding: [Details](/nl/licenses#lekt3206))
 :::
-## 32.6. Übung
+## 32.6. Oefening
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+A) Bepaal de volgende werkwoordsvormen en vorm de overeenkomstige imperfectum-vormen naar persoon, getal en genus verbi:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -316,29 +302,21 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Vertaal en ontbind de samenstellingen in het Sanskriet:
 
-⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
-
-⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪स⟫ ⟪पुत्रो⟫ ⟪ऽध्ययनाय⟫ ⟪गुरुमैत्⟫ ⟪।⟫ ⟪गुरुगृहे⟫ ⟪प्रविश्य⟫ ⟪गुरुमुपातिष्ठद्गुरुश्च⟫ ⟪तं⟫ ⟪पुत्रम्⟫ ⟪ब्राह्मणमपृच्छत्⟫ ⟪।⟫ ⟪ततस्तेन⟫ ⟪पुत्रेणान्नमादयत्⟫ ⟪॥२॥⟫
-
-⟪राम⟫ ⟪आचार्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫
-
-⟪ब्राह्मणा⟫ ⟪वेदमध्यैयन्⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयन्⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫
-
-⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
+⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥ ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति । तच्छ्रुत्वा स पुत्रो ऽध्ययनाय गुरुमैत् । गुरुगृहे प्रविश्य गुरुमुपातिष्ठद्गुरुश्च तं पुत्रम् ब्राह्मणमपृच्छत् । ततस्तेन पुत्रेणान्नमादयत् ॥२॥ राम आचार्यमुपसंगम्य वचनमब्रवीत् ॥३॥ ब्राह्मणा वेदमध्यैयन् चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यै⟫yet ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयन् देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥ बुद्धपुत्राः सत्यमाजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫
 
 ::: media
 ![](/images/lekt3208.webp)
-Abb.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
-Buddhist monk in Sri Lanka.
-(Bildquelle: [Details](/licenses#lekt3208))
+Afbeelding: ⟪बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते⟫
+Boeddhistische monnik in Sri Lanka.
+(Bron afbeelding: [Details](/nl/licenses#lekt3208))
 :::
-## 32.7. Übung zur Wiederholung über die Weihnachtsferien
+## 32.7. Herhalingsopdracht voor de kerstvakantie
 
-Anmerkung: ursprünglich wurde dieser an der Universität Tübingen jeweils im Wintersemester gehalten. Bei Lektion 32 begannen die zweiwöchigen Weihnachtsferien.
+Opmerking: oorspronkelijk werd dit aan de Universiteit Tübingen elk wintersemester gegeven. Bij les 32 begonnen de twee weken durende kerstvakantie.
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+A) Bepaal en vertaal de volgende woorden:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -425,141 +403,138 @@ A) Bestimmen und übersetzen Sie folgende Wörter:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Übung zum Sandhi: Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein. Achten Sie dabei besonders auf den Sandhi:
+B) Oefening over Sandhi: Vul in de volgende zinnen de woorden tussen haakjes in. Let daarbij vooral op de Sandhi:
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
+⟪१⟫. ⟪रामो ग्रामात्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । लोकेश्वरनगर । कविगृह⟫ )
 
-⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪अरीन्हन्ति⟫ ⟪।⟫ (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
+⟪२⟫. ⟪जयन्⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪अरीन्हन्ति ।⟫ (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
 
-⟪३⟫. ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
+⟪३⟫. ⟪न हि पुण्यवन्तस्ते⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪।⟫ (⟪अरि । आर्यशत्रु⟫)
 
-⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪आद्यते⟫ ⟪।⟫ (⟪ऋषि⟫ (⟪एकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ⟪।⟫ ⟪इन्द्रदेवी⟫)
+⟪४⟫. ⟪देवता⟫ ... (⟪तृतीया विभक्तिः⟫) ... ⟪आद्यते ।⟫ (⟪ऋषि⟫ (⟪एकवचने बहुवचने च⟫) ⟪। इन्द्रदेवी⟫)
 
-⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी⟫ ⟪विभक्तिरेकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪एति⟫ ⟪।⟫ (⟪नगर⟫)
+⟪५⟫. ⟪ब्राह्मणस्⟫ ... (⟪सप्तमी विभक्तिरेकवचने बहुवचने च⟫) ... ⟪एति ।⟫ (⟪नगर⟫)
 
-⟪६⟫. ⟪रामो⟫ ⟪गृहे⟫ ... ⟪।⟫ (⟪आस्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪वस्⟫)
+⟪६⟫. ⟪रामो गृहे⟫ ... ⟪।⟫ (⟪आस् । इ । वस्⟫)
 
-⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪जीयते⟫ ⟪।⟫ (⟪अरि⟫ ⟪।⟫ ⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪उक्तानृतनर⟫ ⟪।⟫ ⟪एष⟫ ⟪नर⟫)
+⟪७⟫. ⟪शूरेण⟫ ... (⟪प्रथमा विभक्तिः⟫) ... ⟪जीयते ।⟫ (⟪अरि । इन्द्रशत्रु । उक्तानृतनर । एष नर⟫)
 
-⟪८⟫. ⟪कविना⟫... (⟪प्रथमा⟫ ⟪विभक्तिः⟫) ... ⟪स्तूयन्ते⟫ ⟪।⟫ (⟪आर्यदेव⟫ ⟪।⟫ ⟪इन्द्रादिदेव⟫)
+⟪८⟫. ⟪कविना⟫... (⟪प्रथमा विभक्तिः⟫) ... ⟪स्तूयन्ते ।⟫ (⟪आर्यदेव । इन्द्रादिदेव⟫)
 
-⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
+⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया विभक्तिः⟫) ... ⟪गच्छति ।⟫ (⟪कवि । गृह । आर्यग्राम । अरिनगर । सुखता । तन्नगर । शूद्रग्राम । चन्द्रकीर्ति । ट्युबिङ्गन्नगर⟫)
 
-C) Übersetzen Sie ins Sanskrit:
+C) Vertaal naar het Sanskriet:
 
-1. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. Der Brahmane lässt diesen Diener ins Haus eintreten und fragt dann nach dem Sohn. Der Diener sagt, dass der Sohn wohlauf ist. Als er das gehört hat, wird der Brahmane glücklich.
+1. Nadat de zoon is geboren, stuurt de brahmaanse vrouw een dienaar naar de brahmaan. De brahmaan laat deze dienaar het huis binnenkomen en vraagt dan naar de zoon. De dienaar zegt dat de zoon gezond is. Toen hij dit heeft gehoord, wordt de brahmaan blij.
 
-2. Der Heilige hat das (ihm) getane Böse ertragen.
+2. De heilige heeft het (hem) aangedane kwaad geduld.
+3. Deugdzaamheid is de sieraad van de man.
 
-3. Sittlichkeit ist des Mannes Zier.
+4. De machtige krijgers zijn naar het brahmaan-dorp gegaan.
 
-4. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
+5. Het meisje huilt.
 
-5. Das Mädchen weint.
+6. Er is geen ziekte zoals wellust, er is geen vijand zoals verwarring, er is geen vuur zoals woede, er is geen geluk zoals inzicht.
 
-6. Es gibt keine Krankheit gleich wie die Wohllust, es gibt keinen Feind wie die Verwirrung, es gibt kein Feuer wie den Zorn, es gibt kein Glück wie die Erkenntnis.
+7. Een man die door de godin wordt beschermd, is gelukkig.
 
-7. Ein Mann, den die Göttin behütet, ist glücklich.
+8. Met welke wind een wolk ook water (⟪वारि⟫ zn.) laat vallen, met diezelfde wind beweegt een geleerde zijn paraplu.
 
-8. Mit welchem Wind auch immer eine Wolke Wasser (⟪वारि⟫ n.) lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
+9. Er zijn geen vruchtbare bezigheden van sociale klassen, levensfasen enz.
 
-9. Es gibt keine fruchtbringenden Tätigkeiten von Ständen, Lebensstadien usw.
+10. De cyclus van wedergeboorten kent geen begin.
 
-10. Der Kreislauf der Wiedergeburten hat keinen Anfang.
+11. Het is tijd om zich aan het eten te wijden.
 
-11. Es ist Zeit, sich dem Essen zu widmen.
+12. Welkom, koningin.
 
-12. Willkommen der Königin.
+13. Omwille van de hemel verrichten mensen verdienstelijke daden.
 
-13. Um der Himmel Willen tun die Menschen Verdienstvolles.
+14. Een man die uit hoogmoed, hebzucht, woede of angst ten onrechte een vonnis velt, gaat naar de hel.
 
-14. Ein Mann, der aus Überheblichkeit, Gier, Zorn, oder Furcht ein Gerichtsurteil fälschlich spricht, geht in eine Hölle.
+15. Rāma verliet op aanwijzing van de leraar het dorp en begaf zich naar de stad, betrad het huis van de heilige man, trad eerbiedig voor de heilige en zei: „Laat de woede varen!”
 
-15. Rāma ging auf Anweisung der Lehrers aus dem Dorf in die Stadt, betrat das Haus des heiligen Mannes, trat ehrerbietig vor den Heiligen und spricht: "Lass ab vom Zorn!"
+16. Laat zijn omgang altijd bestaan uit degenen die bedreven zijn in de wetenschappen, opdat zijn opvoeding en goed gedrag mogen groeien. (Dit) omdat opvoeding en goed gedrag hun wortel vinden in deze omgang.
 
-16. Immer (sei seine) Verbindung mit solchen, die in den Wissenschaften gewachsen sind, auf dass seine Erziehung/gutes Verhalten wachse. (Dies) weil die Erziehung/gutes Verhalten als Wurzel dieses (die Verbindung mit solchen) hat.
+17. Terwijl de leraar staat, mag de jongen niet zitten.
 
-17. Während der Lehrer steht, darf der Knabe nicht sitzen.
+18. Er is geen betere toevlucht dan Rāma.
 
-18. Es gibt keine bessere Zuflucht als Rāma.
+19. Viṣṇumitra laat Rāma Govinda naar het dorp sturen.
 
-19. Viṣṇumitra lässt den Rāma den Govinda ins Dorf schicken.
+20. Govinda laat Devadatta rijst koken.
 
-20. Govinda lässt den Devadatta Reis kochen.
+21. Het dharma van de Ariërs is dat jonge brahmanen de passages uit de Veda en de Smṛti steeds opnieuw bestuderen.
+22. De leraar onderwees de jongens in de Veda en ging daarna het huis binnen.
 
-21. Dharma der Arier ist, dass junge Brahmanen die Abschnitte des Veda und der Smṛti immer wieder studieren.
+23. Welk amulet heeft het meisje beschermd?
 
-22. Der Lehrer lehrte die Knaben den Veda und ging dann ins Haus.
+24. Waarheid is het licht van de wereld.
 
-23. Welches Amulett hat das Mädchen beschützt?
+25. Van wie zijn deze huizen?
 
-24. Wahrheit ist die Leuchte der Welt.
+26. De dharma van iedereen is: geen kwaad doen, waarheid, zuiverheid, vrijheid van afgunst, vrijheid van boosaardigheid en geduld.
 
-25. Wem gehören diese Häuser?
+27. De Kṣatriya’s, die de vijanden hebben verslagen, zitten in het huis.
 
-26. Dharma aller ist: Nichtverletzen, Wahrheit, Reinheit, Neidlosigkeit, Nicht-Boshaftigkeit und Geduld.
+28. Zij is een (echte) echtgenote die liefdevol spreekt; maar hij is een (echte) zoon die leeft. Hij leeft die goede eigenschappen bezit; hij leeft die Dharma bezit.
 
-27. Die Kṣatriyas, die die Feinde besiegt haben, sitzen im Haus.
+29. De vorst der goden verslaat de niet-Ariërs, die de vijanden van Indra zijn. (Passief)
 
-28. Die ist eine (wirkliche) Gattin, die Liebes spricht; der aber ist ein (echter) Sohn, der lebt. Der lebt, der gute Eigenschaften besitzt; der lebt, der Dharma besitzt.
+30. Yoga van de daad bestaat uit ascese (tapas n.), (Veda-)recitatie en dienstbaarheid aan de HEER. Het dient de ontplooiing van meditatieve verdieping en de verzwakking van de kleśa’s.
 
-29. Der Götterfürst besiegt die Nichtarier, die Feinde des Indra sind. (Passiv)
+31. Eten, slapen, angst en paring: dit is wat mensen met dieren gemeen hebben. In het Dharma ligt namelijk hun bijkomende bijzonderheid. Zonder het Dharma zijn zij gelijk aan de dieren (instrumentaal).
 
-30. Yoga der Tat sind Askese (tapas n.), (Veda)rezitation, Dienstfertigkeit gegenüber dem HERRN. Er dient der Entfaltung der meditativen Versenkung und der Schwächung der kleśas.
+32. Mensen worden geboren om te sterven.
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich.
+33. De hel bestaat vanwege het kwaad. Het kwaad vindt zijn oorsprong in armoede. Armoede ontstaat door niet te geven.
 
-32. Die Leute werden geboren, um zu sterben.
+34. Het is de Dharma van de Kṣatriya’s dat de Kṣatriya’s de mensen tegen vijanden beschermen.
 
-33. Höllen sind wegen des Bösen. Das Böse hat als Ursprung Armut. Armut entsteht durch Nicht-Geben.
+35. Daarom hebben de drie (tisras) wetenschappen het bestuur als wortel. Het bestuur, dat opvoeding en goed gedrag als wortel heeft, brengt de levende wezens (⟪प्राणभृत्⟫) voordeel en veilig bezit.
 
-34. Es ist Dharma der Kṣatriyas, dass die Kṣatriyas die Leute vor den Feinden schützen.
+36. Slechte mensen luisteren niet wanneer de leraar over de Dharma spreekt.
+37. Eer aan deze Rāma!
 
-35. Deshalb haben die drei (tisras) Wissenschaften das Regiment als Wurzel. Das Regiment, das Erziehung/gutes Verhalten als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+38. De verheven Hari is mijn weg/doel, die (zijn) vijanden naar de hemel stuurde, die de zijnen de betekenis van de Veda liet kennen, die de goden onsterfelijkheidsvoedsel te eten gaf, die de Schepper (⟪विधि⟫) de Veda onderwees en de aarde (stevig) in het water verankerde.
 
-36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
+39. Viṣṇu openbaart zich aan zijn toegewijden.
 
-37. Diesem Rāma sei Verehrung!
+40. Een regel die niet wordt nageleefd, leidt tot de toestand van de vissen.
 
-38. Der hehre Hari ist mein Weg/Ziel, der (seine) Feinde in einen Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Unsterblichkeitsspeise zu essen gab, den Schöpfer (⟪विधि⟫) den Veda lehrte, die Erde im Wasser (fest) setzte.
+41. Wie rijkdommen bezit, heeft vrienden; wie rijkdommen bezit, heeft familieleden; wie rijkdommen bezit, is een man (⟪पुमान्⟫ Nom. sq.) in de wereld; wie rijkdommen bezit, is namelijk een geleerde.
 
-39. Viṣṇu shows himself to his devotees.
+42. Het vuur dat de overledene verbrandt, verbrandt ook de goede weduwe.
 
-40. Ein Regiment, das nicht ausgeübt wird, bewirkt die Norm der Fische.
+43. De dienstmaagd van de brahmaan heeft het eten gekookt en eet het (nu).
 
-41. Wer Reichtümer besitzt, der hat Freunde; wer Reichtümer besitzt, der hat Verwandte; wer Reichtümer besitzt, der ist ein Mann (⟪पुमान्⟫ Nom. sq.) in der Welt; wer Reichtümer besitzt, der ist nämlich ein Gelehrter.
+44. Nu is het genoeg!
 
-42. Das Feuer, das den Verstorbenen verbrennt, verbrennt auch die gute Witwe.
+45. Deze vrucht is genoeg voor hem om te eten.
 
-43. Die Dienerin des Brahmanen hat die Speise gekocht und isst sie (nun).
+46. Het binnenste heiligdom van de tempel is een huis voor het beeld van de god.
 
-44. Jetzt reicht's!
+47. Een dief wordt van de diefstal bevrijd door straf of door vrijlating. Maar als de koning (⟪राजा⟫ Nom. sg.) de (dief) niet straft, draagt hij de schuld van de dief.
 
-45. Diese Frucht reicht ihm zum Essen.
+48. Omdat hij een fout heeft gemaakt bij het offer, is de brahmaan niet waardig om rijkdommen te ontvangen.
 
-46. Der innerste Tempelschrein ist ein haus für das Bildnis des Gottes.
+49. Wanneer de inwijdingsceremonie heeft plaatsgevonden, moet hij zich de Veda’s en de filosofie eigen maken van geleerden, en de economie van afdelingshoofden (⟪उपयुज्⟫).
 
-47. Ein Dieb wird vom Diebstahl befreit durch Strafe oder durch Freilassung. Wenn aber der König (⟪राजा⟫ Nom. sg.) den (Dieb) nicht bestraft, erhält er die Schuld des Diebes.
+50. Vaiśyadharma houdt in dat de Vaiśya’s leven van kopen en verkopen. Aangezien dit zo is, kopen en verkopen de zonen van de Vaiśya’s.
 
-48. Weil er einen Fehler beim Opfer gemacht hat, ist der Brahmane nicht würdig, Reichtümer zu empfangen.
+51. Men moet de waarheid spreken, men moet aangename dingen zeggen; men mag geen onaangename waarheid spreken en men mag ook geen onaangename leugen spreken. Dit is de eeuwige Dharma.
 
-49. Wenn die Initiationszeremonie stattgefunden hat, soll er sich den Veda und die Philosophie von Gelehrten, die Ökonomie von Departementsvorstehern aneignen (⟪उपयुज्⟫).
-
-50. Vaiśyadharma ist, dass die Vaiśyas von Kauf und Verkauf leben. Da es so ist, kaufen und verkaufen die Vaiśyasöhne.
-
-51. Man soll die Wahrheit sagen, man soll Angenehmes sagen; man soll nicht eine unangenehme Wahrheit sagen und man soll auch keine unangenehme Unwahrheit sagen. Dies ist der ewige Dharma.
-
-52. Auf Wiedersehen!
+52. Tot ziens!
 
 ::: media
 ![](/images/lekt3209.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
-Indian greeting / farewell.
-(Bildquelle: [Details](/licenses#lekt3209))
+Afbeelding: ⟪पुनर्दर्शनाय⟫
+Indische begroeting / afscheid.
+(Bron afbeelding: [Details](/nl/licenses#lekt3209))
 :::
-## 32.8. Übung zur Wiederholung
+## 32.8. Herhalingsopdracht
 
-Übersetzen und bestimmen Sie folgende Wortformen:
+Vertaal en bepaal de volgende woordvormen:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -602,38 +577,38 @@ Indian greeting / farewell.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. Vertaaloefening
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫
-⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫
-⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫
-⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫
-⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫
-⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫
-⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫
-⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫
-⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫
-⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫
-⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामन्तरं गच्छ न्पथि श्रान्तो ऽभवत् ।⟫:br
+⟪अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमग्च्छत् ॥⟫:br
+⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त ।⟫:br
+⟪वृद्धस्य तेषु स्पृहा जाता ।⟫:br
+⟪परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥⟫:br
+⟪दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः ।⟫:br
+⟪तानवलोक्य वृद्धः प्रहर्षं गतः ।⟫:br
+⟪स किमकरोत् ।⟫:br
+⟪स कतिचिदुपला नादाय वानरां ल्लक्ष्यीकृत्य प्राक्षिपत् ।⟫:br
+⟪वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् ।⟫:br
+⟪वृद्धः सहर्षं तान्या दाय स्वाभीष्टदेशं गतः ॥⟫:br
+⟪अहो वृद्धस्य कौशलम् ॥⟫
 :::
-(aus: ⟪संस्कृतबालादर्श⟫)
+(uit: ⟪संस्कृतबालादर्श⟫)
 
 
-Erklärungen:
+Toelichtingen:
 
 ::: indent
-⟪पथि⟫ Lok. sg. zu **⟪पथ्⟫ m.** "Weg" (unregelmässige Deklination)
+⟪पथि⟫ Lok. sg. van **⟪पथ्⟫ m.** "weg" (onregelmatige vervoeging)
 
-⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-Suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : etwas zum ⟪लक्ष्य⟫ machen, was vorher nicht ⟪लक्ष्य⟫ war
+⟪लक्ष्यीकृ च्विऽ⟫-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : iets maken tot wat het voorheen niet ⟪लक्ष्य⟫ was
 
-⟪आदाय⟫ Absolutiv zu **⟪आ⟫-⟪दा⟫** (3. Präsensklasse) "nehmen"
+⟪आदाय⟫ Absolutief van **⟪आ⟫-⟪दा⟫** (3de presentieklassse) "nemen"
 :::
 ::: media
 ![](/images/lekt3210.webp)
-Abb.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Bildquelle: [Details](/licenses#lekt3210))
+Afb.: ⟪तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त⟫
+Apen in mango-bomen.
+(Bron afbeelding: [Details](/nl/licenses#lekt3210))
 :::
 

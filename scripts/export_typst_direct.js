@@ -9,7 +9,7 @@ const TYPST_HEADER = `#set page(
   paper: "a4",
   margin: (x: 15mm, y: 20mm),
   header: align(right)[
-    #text(size: 8.5pt, fill: rgb("#48626e"), font: "Noto Sans")[Sanskritkurs Payer (Typst Publishing Engine) • Release v1.6.4]
+    #text(size: 8.5pt, fill: rgb("#48626e"), font: "Noto Sans")[Sanskritkurs Payer (Typst Publishing Engine) • Release v1.7.0]
   ],
   footer: [
     #set align(center)

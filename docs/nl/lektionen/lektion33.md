@@ -1,137 +1,130 @@
-
 ---
-title: Lektion 33
+title: "Les 33"
 lesson_id: 33
 status: stable
+
 ---
 
 # Les 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. De reduplicatie (⟪अभ्यास⟫ m.)
 
-* Die dritte Präsensklasse
-* (sowie einige Verben anderer Präsensklassen),
-* das Perfekt,
-* der reduplizierte Aorist,
-* das Frequentativum und
-* das Desiderativum
+* De derde presentklasse
+* (evenals enkele werkwoorden van andere presentklassen),
+* de perfectum,
+* de redupliceerde aoristus,
+* het frequentativum en
+* het desiderativum
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heisst Reduplikationssilbe.
+worden gevormd door middel van reduplicatie. Het deel van een geradupliceerde vorm dat voor de wortel wordt geplaatst, heet de reduplicatiesilabe.
 
-Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
+De reduplicatiesilabe bestaat uit (een medeklinker en) een klinker.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. De reduplicatiemedeklinker
 
 ::: grammar-box
-**1. Gewöhnlich:**  
-**Wiederholung des ersten Konsonanten der Wurzel**
+**1. Gewoonlijk:**  
+**Herhaling van de eerste medeklinker van de wortel**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪दा⟫ 3 "geben"
-* 3.sg.P.Ind.Präs. ⟪ददाति⟫
-
-⟪पॄ⟫ 3 "füllen"
-* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति⟫
-
-⟪मा⟫ 3Ā "messen"
+⟪दा⟫ 3 "geven"
+* 3.sg.P.Ind.Präs. ⟪ददाति पॄ⟫ 3 "vullen"
+* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति मा⟫ 3Ā "meten"
 * 3.sg.Ā.Ind.Präs. :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
+**2. Een geaspireerde beginmedeklinker van een wortel wordt geradupliceerd door de overeenkomstige niet-geaspireerde medeklinker.**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪धा⟫ 3 "setzen"
-* 3.sg.P.Ind.Präs. ⟪दधाति⟫
-
-⟪भी⟫ 3 "fürchten"
+⟪धा⟫ 3 "zetten"
+* 3.sg.P.Ind.Präs. ⟪दधाति भी⟫ 3 "vreesen"
 * 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
+**3. Een gutturaal wordt geradupliceerd door de overeenkomstige niet-geaspireerde palatale:**
 
 :::
 ::: indent
-⟪क्⟫, ⟪ख्⟫ durch ⟪च्⟫  
-⟪ग्⟫, ⟪घ्⟫ durch ⟪ज्⟫
+⟪क्⟫, ⟪ख्⟫ door ⟪च् ग्⟫, ⟪घ्⟫ door ⟪ज्⟫
 :::
-**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-Beispiele:
+**⟪ह्⟫ wordt altijd geradupliceerd door ⟪ज्⟫.**
+Voorbeelden:
 
 ::: indent
-⟪हु⟫ 3 "(zum Opfer) ins Feuer giessen"
+⟪हु⟫ 3 "(voor het offer) in het vuur gieten"
 * 3.sg.P.Ind.Präs. ⟪जुहोति⟫
 :::
 ::: grammar-box
-**4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.**
+**4. Als een wortel begint met meerdere medeklinkers, wordt slechts de eerste (eventueel onder toepassing van regel 2 resp. 3) herhaald.**
 :::
 ::: grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäss obigen Regeln redupliziert.**
+**5. Als een wortel begint met een medeklinkergroep sibilant + stemloze medeklinker, wordt niet de sibilant geradupliceerd, maar de daaropvolgende stemloze medeklinker volgens bovenstaande regels.**
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪स्था⟫ 1 "stehen"
-* 3.sg.P.Ind.Präs. ⟪तिष्ठति⟫
+⟪स्था⟫ 1 "staan"
+* 3.sg.P.Ind.Praes. ⟪तिष्ठति⟫
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
+## 33.2. De derde praesensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ enz.")
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**starker Stamm:**  
-**reduplizierte hochstufige Wurzel + Endung**
+**sterke stam:**  
+**geredupliceerde hooggradige wortel + uitgang**
 
-**schwacher Stamm:**  
-**reduplizierte tiefstufige Wurzel + Endung**
+**zwakke stam:**  
+**geredupliceerde laaggradige wortel + uitgang**
 
-**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.**
+**Voor de reduplicatieconsonant gelden de hierboven gegeven regels.**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. De reduplicatievocaal van de 3e praesensklasse
 
 ::: grammar-box
-* **Der regelmässige Reduplikationsvokal ist -i-**
-* **u-haltige Wurzeln reduplizieren mit -u-**
-* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
+* **De regelmatige reduplicatievocaal is -i-**
+* **u-houdende wortels redupliceren met -u-**
+* **de wortels ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ met -a-**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: grammar-box
-⟪हु⟫ 3P "(zum Opfer) ins Feuer giessen"
+⟪हु⟫ 3P "(ten offer) in het vuur gieten"
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **sterke stam:** ⟪जुहो⟫
+* **zwakke stam:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indicatief praesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfectum** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optatief** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. Over de ablaut van ā
 
 ā kann
 
-* einerseits Dehnstufe einer der Ablautreihen mit -a- sein
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* enerzijds de lengtegraad van een van de ablautreeksen met -a- zijn
+* anderzijds de hooggraad in een ablautreeks van de ā-groep zijn
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+De twee belangrijkste ablautreeksen van de ā-groep zijn:
 
 ::: grammar-box
 **A.**
 
-* **Tiefstufe**
-  * **vor Konsonant: -i-**  
-    z.B. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
-  * **vor Vokal: Ø**  
-    z.B. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
-* **Hochstufe: -ā-**  
-  z.B. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
+* **Laaggraad**
+* **voor medeklinker: -i-**  
+bijv. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+* **voor klinker: Ø**  
+bijv. ⟪धा⟫ 3.pl.P.Ind.Praes. ⟪दधति⟫ (dadh-ati)
+* **Hooggraad: -ā-**  
+bijv. ⟪धा⟫ 3.sg.P.Ind.Praes. ⟪दधाति⟫
 :::
-Hierher gehört z.B. auch:
+Hiervan is b.v. ook:
 
 ::: indent
 ⟪स्था⟫ 1
@@ -141,87 +134,87 @@ Hierher gehört z.B. auch:
 ::: grammar-box
 **B.**
 
-* **Tiefstufe: -ī-**  
-  z.B. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
-* **Hochstufe: -ā-**  
-  z.B. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
+* **Diepe graad: -ī-**  
+b.v. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
+* **Hoge graad: -ā-**  
+b.v. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
-## 33.4. Wurzeln auf -ā der dritten Präsensklasse
+## 33.4. Wortstammen op -ā van die derde teenwoordige klas
 
 ::: grammar-box
-**Wurzeln auf -ā (ausser ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+**Woorstamme op -ā (behalwe ⟪दा⟫ en ⟪धा⟫) eindig gewoonlik in die swak stam op -ī-** (sien Thumb-Hauschild Bd. 1,1 bl. 271. Waarskynlik het die hierbo genoemde ablautreeks B as voorbeeld gedien, alhoewel hierdie wortels andersins volgens reeks A ablaut), **voor vokale eindigings verdwyn die wortelvokaal volledig (sien ablautreeks A).**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
-⟪मा⟫ 3Ā "messen"
+⟪मा⟫ 3Ā "meet"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
-| **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
+| **Indikatiewe teenwoordig** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **Imperfek** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
+| **Optatief** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
-⟪हा⟫ 3P "verlassen"
+⟪हा⟫ 3P "verlaat"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
-| **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Indikatiewe teenwoordig** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Imperfek** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **Optatief** | ⟪जह्यात्⟫:brjah-yā-t:br(Die wortel ⟪हा⟫ het voor die optatief-yā/y dieselfde vorm as voor vokale!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
+### 33.4.1. Die wortels ⟪दा⟫ en ⟪धा⟫
 
 ::: grammar-box
-**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
+**Die wortels ⟪दा⟫ en ⟪धा⟫ redupliseer met die vokaal -a- en verloor in die swak stam die wortelvokaal.**
 
-**Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
+**Let op by ⟪धा⟫ die wet van haardissimilasie!**
 :::
 ::: grammar-box
-⟪धा⟫ 3U "setzen, festsetzen, zuteilen"
+⟪धा⟫ 3U "zetelen, vaststellen, toewijzen"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
-| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
-| **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
+| **Indicativ Present** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Verklaring: Thumb-Hauschild 1,1 blz. 302v.) | ⟪दधते⟫:brdadh-ate |
+| **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **Optatief** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Die Formen von ⟪दा⟫ erhält man, indem man im Paradigma von ⟪धा⟫ **dh** durch **d** ersetzt. Also:
+De vormen van ⟪दा⟫ verkrijgt men door in het paradigma van ⟪धा⟫ **dh** te vervangen door **d**. Dus:
 
 ::: grammar-box
-⟪दा⟫ 3U "geben"
+⟪दा⟫ 3U "geven"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
-| **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
-| **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
+| **Indicativ Present** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Imperfectum** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
+| **Optatief** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
+## 33.5. Het Participle Present Parasmaipada van de wortels van de 3e presentklasse
 
 ::: grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
+**De werkwoorden van de 3e klasse vormen alle vormen van het Participle Present Parasmaipada vanuit de zwakke stam.**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
+**Uitzondering: Nominatief/Akkusatief Meervoud Neutrum kan optioneel vanuit de sterke of zwakke stam worden gevormd.**
 :::
-⟪दा⟫ Partizip Präsens Parasmaipada:
+⟪दा⟫ Participle Present Parasmaipada:
 
 ::: grammar-box
 | | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
-| **2. Akkusativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
+| **1. Nominatief** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. Akkusatief** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
-| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
-| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+| **1. Nominatief** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. Akkusatief** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
-Ähnlich ⟪जुह्वत्⟫ (juhu-at + s)
+Vergelijkbaar ⟪जुह्वत्⟫ (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. Woordenlijst
 
-⟪दा⟫ 3U ⟪ददाति⟫: geben
+⟪दा⟫ 3U ⟪ददाति⟫: geven
 
 ::: indent
 **Fut.**  ⟪दास्यति⟫  
@@ -230,26 +223,26 @@ Die Formen von ⟪दा⟫ erhält man, indem man im Paradigma von ⟪धा⟫
 **PPP** ⟪दत्त⟫  
 **Inf.** ⟪दातुम्⟫
 
-davon:
+daarvan:
 
-⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ n.: geven, geschenk, vrijgevigheid
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+Afb.: ⟪दानम्⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in ontvangst) nemen, in bezit nemen, meenemen
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**Absol.** ⟪आदाय⟫: met Akk.: in gezelschap van, met
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+Afb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3307))
 :::
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaatsen, vaststellen, toewijzen
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
@@ -258,24 +251,24 @@ Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: de volledige aandacht op iets richten, zich concentreren
 
 ::: indent
-davon:
+daarvan:
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ m.: innerlijke concentratie, hoogste aandacht
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+Afb.: ⟪समाधि⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: vullen, vervullen
 
 ::: indent
-Merke:
+Merk op:
 3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (uit: \*apipart)  
 3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
 3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
@@ -284,9 +277,9 @@ Merke:
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ alleen **Pass.** ⟪सम्पूर्यते⟫ en **Kaus.**: volledig vullen
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: vrezen voor (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -295,16 +288,16 @@ Merke:
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-davon:
+daarvan:
 
-⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ n.: angst, vrees; gevaar (de subjectieve en de objectieve zijde)
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+Afbeelding: ⟪भयम्⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: dragen, brengen; onderhouden, voeden
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -313,11 +306,11 @@ Abb.: ⟪भयम्⟫
 **PPP** ⟪भृत⟫  
 **Inf.** ⟪भर्तुम्⟫
 
-davon:
+daarvan:
 
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: last
 :::
-⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
+⟪मा⟫ 3Ā ⟪मिमीते⟫: meten
 
 ::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
@@ -326,33 +319,33 @@ davon:
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergelijken
 
 ::: indent
-davon:
+daarvan:
 
-⟪उपमा⟫ f.: Vergleich
+⟪उपमा⟫ f.: vergelijking
 
-⟪प्रतिमा⟫ f.: Abbild
+⟪प्रतिमा⟫ f.: afbeelding
 :::
-⟪हा⟫ 3P ⟪जहाति⟫: verlassen
+⟪हा⟫ 3P ⟪जहाति⟫: verlaten
 
 ::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
 **Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
+**PPP** ⟪हीन⟫: verlaten door, ontbrekend, gebrekkig  
 **Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+van PPP ⟪हीन⟫:
 
-⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+⟪हीनयान⟫ n.: het gebrekkige voertuig (van het boeddhisme): minachtende benaming door de vertegenwoordigers van de "grote weg", het ⟪महायान⟫; de gebrekkige weg (⟪यान⟫ naar ⟪या⟫ 2: gaan, rijden). De uitdrukking ⟪हीनयान⟫ zou niet meer gebruikt moeten worden. De tegenwoordig nog bestaande vorm van het oude boeddhisme heet ⟪थेरवाद⟫.
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+Afbeelding: ⟪हीनयानमेव⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 3P ⟪जुहोति⟫: in het vuur gieten (als offer, vooral gesmolpen boter)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -363,58 +356,36 @@ Abb.: ⟪हीनयानमेव⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+Afbeelding: ⟪घृतमग्नौ जुहोति⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3302))
 :::
-⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ n.: gesmolpen boter, ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+"Ghee wordt gemaakt door ongezouten boter in een grote pot zachtjes te laten pruttelen totdat al het water is verdampt en de eiwitten naar de bodem zijn gezakt. De gekookte en gezuiverde boter wordt vervolgens met een lepel afgehaald om de melkresten op de bodem van de pan niet te verstoren. In tegenstelling tot boter kan ghee gedurende langere tijd zonder koeling worden bewaard, mits het in een luchtdichte container wordt gehouden om oxidatie te voorkomen en blijft het vochtvrij. Textuur, kleur of smaak van ghee hangt af van de bron van de melk waaruit de boter is gemaakt. In India wordt ghee meestal gemaakt met waterbuffelmelk, omdat deze witter is dan koemelk."
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[Bron: http://en.wikipedia.org/wiki/Ghee. -- Geraadpleegd op 2008-12-26]
 :::
-## 33.7. Übung
+## 33.7. Oefening
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein:
+A) Vul in het volgende patroon de overeenkomstige vormen van de woorden tussen haakjes in:
 
-⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
+⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने बहुवचने च⟫) ... ⟪अन्नं ददाति ।⟫ (⟪भिक्षु । अग्नि । शूद्रा । गुनवान्पुत्र । देवान्स्तुवन्कवि । ब्राह्मणी । महान्साधु । धेनु⟫)
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
+B) Vul de overeenkomstige vormen van de tussen haakjes vermelde werkwoorden in in indicativum praesens, imperfectum en optativus:
 
-⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
+⟪ब्राह्मणो घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥ बुद्धगता भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥ सुगतः कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥ दुर्जना भिक्षुभ्यो ऽन्नं न⟫ ... (⟪दा⟫) ⟪॥४॥ साधुः कृष्णे मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 
-⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫
+⟪ईश्वरो लोकान्⟫ ... ⟪जनास्तु न⟫ ... (⟪मा⟫) ⟪॥६॥ दासा भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥ ब्राह्मणी पात्रं जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
-⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫
+C) Vertaal en verander enkelvoudzinnen in meervoudzinnen en omgekeerd:
 
-⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫
-
-⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
-
-⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫
-
-⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫
-
-⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
-
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt:
-
-⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
-
-⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
+⟪योगयुक्तो मतिं दुःखमक्षनयन्त्यां प्रज्ञायां समाधत्ते ॥१॥ यो भिक्षवे दानानि दद्यात्सो ऽपि दानपुण्यमाददीत ॥२॥ ब्राह्मणा भारं न बिभ्रतीति ब्राह्मणदासो भारं गृहमबिभः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3308.webp)
-Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Bildquelle: [Details](/licenses#lekt3308))
+Afbeelding: ⟪पुरुषा भारं न बिभ्रतीति स्त्री भारं गृहमबिभः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3308))
 :::
-⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
-
-⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
-
-⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
-
-⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
+⟪क्षत्रियशूरः पुत्रमादाय योद्धुं कुलमजहात् । स युद्धे शत्रुहतत्वाच्छरीरं हित्वा पुनर्भवमैत् ॥४॥ देवदत्तमपि सुखं दुःखमोक्षेष्टिं न पिपर्ति । सेष्टिः प्रज्ञयैव सम्पूर्यते ॥५॥ यः साधुर्भूतेभ्यो ऽभयं ददाति तस्माद्भूतानि न बिभ्यति स च तेभ्यो न बिभेति ॥६॥ मितमतयो नरकभयात्स्वर्गलोभाच्च पुण्यं कुर्वन्ति पापं च जहति । अमितप्रज्ञाबुद्धा हि नरकेभ्यो न बिभीयुः स्वर्गांश्च न लुभ्येयुः । ते भयं च लोभं चारुन्धन् ॥७॥⟫
 

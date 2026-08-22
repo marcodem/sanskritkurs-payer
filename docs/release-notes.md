@@ -10,7 +10,7 @@ Overview of releases, new features, and technical optimizations in the Sanskritk
 
 ---
 
-## 🚀 Version 1.6.4 (August 2026)
+## 🚀 Version 1.7.0 (August 2026)
 
 **Focus:** *100% Completion in Key Target Locales, Offline-First PWA & UI Polish*
 

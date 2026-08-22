@@ -1,223 +1,222 @@
-
 ---
-title: Lektion 35
+title: "Les 35"
 lesson_id: 35
 status: stable
+
 ---
 
 # Les 35
 
-## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+## 35.1. Perfectum Type III: Sterke stam hoogtrappe/verlengde trap
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**sterke stam:**
+*   3.ev.P: Verlengde trap
+*   2.ev.P: Hoogtrap
+*   1.ev.P: optioneel hoogtrap of verlengde trap
 
-**schwacher Stamm:** siehe bei den Untertypen
+**zwakke stam:** zie bij de subtypen
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+### 35.1.1. Perfectum Type IIIa: Sterke stam hoogtrap/verlengde trap, zwakke stam laagtrap
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe
+**zwakke stam:** Laagtrap
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant) - i/ī/u/ū
-*   (Konsonant) - ṛ
+Wordt gevormd door wortels van de typen:
+*   (Medeklinker)-(Medeklinker) - i/ī/u/ū
+*   (Medeklinker) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt:
-*   -i/-ī durch -iy
-*   -u/-ū durch -uv
-*   -ṛ durch r
-Beispiele:
+Voor een klinkerstartende uitgang wordt vervangen:
+*   -i/-ī door -iy
+*   -u/-ū door -uv
+*   -ṛ door r
+Voorbeelden:
 
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel | 3. ev. Perfectum P. | 3. mv. Perfectum P. | 3. ev. Perfectum Ā. | 3. mv. Perfectum Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
+| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:brī + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
 | ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. Perfectum Type IIIb: Sterke stam hoogtrap/verlengde trap, zwakke stam hoogtrap
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
 :::
 ::: indent
-**schwacher Stamm:** Hochstufe
+**zwakke stam:** Hoogtrap
 :::
-Wird gebildet von Wurzeln der Typen:
-*   (Konsonant)-(Konsonant)-ṝ
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
-Beispiele:
+Wordt gevormd door wortels van de typen:
+*   (Medeklinker)-(Medeklinker)-ṝ
+*   Medeklinker-Medeklinker-ṛ (d.w.z. wortels op -ṛ, wanneer hieraan meerdere medeklinkers voorafgaan)
+Voorbeelden:
 
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel | 3. ev. Perfectum P. | 3. mv. Perfectum P. | 3. ev. Perfectum Ā. | 3. mv. Perfectum Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. Perfectum Type IV: Wortstammen op -ā / -āi
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**starker Stamm:**
-*   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+**sterke stam:**
+>> *   3./1. sg. P Perfectum eindigt op -au
+*   2\. sg. P : Hoogstand -ā of Laagstand -i
 
-**schwacher Stamm:**
-*   vor Konsonant: Tiefstufe -i
-*   vor Vokal: Tiefstufe Ø
+**zwakke stam:**
+*   voor medeklinker: Laagstand -i
+*   voor klinker: Laagstand Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+Wordt gevormd van wortels op -ā / -āi
 :::
-Beispiel:
+Voorbeeld:
 
 
-| Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortstam | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfectum Type V: Wortstammen Medeklinker-a-Medeklinker
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**sterke stam:**
+*   3.sg.P: Verdwijnstand
+*   2.sg.P: Hoogstand
+*   1.sg.P: naar keuze Hoogstand of Verdwijnstand
 
-**schwacher Stamm:** siehe Untertypen
+**zwakke stam:** zie subtypen
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
+Wordt gevormd van wortels van het type (Medeklinker)-Medeklinker-a-Medeklinker
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+>> ### 35.3.1. Perfectum Type Va: zwakke stam Laagstand
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe
+**zwakke stam:** Laagstand
 :::
-Wird gebildet u.a. von den Wurzeln:
+Wordt o.a. gevormd van de wortels:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Beispiele:
+Voorbeelden:
 
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortstam | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
-| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
+| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
-| ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
-
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\>
+| ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫
+### 35.3.2. Voltooid verleden tijd type Vb: zwakke stam, samentrekking (e-type)
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
 :::
 ::: indent
-**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
-(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
+**zwakke stam:** geen reduplicatie. Vervanging van de -a- van de stam door -e-  
+(zie voor uitleg Thumb-Hauschild 1,2, blz. 286 e.v.)
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
-Beispiel:
+Wordt gevormd door stammen met -a- tussen twee eenvoudige medeklinkers, waarvan de beginmedeklinker in de reduplicatiesilbe niet wordt veranderd (d.w.z. waarvan de beginmedeklinker geen keelklank, aspiratie of h is).
+Voorbeeld:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel | 3e pers. enkelvoud, voltooid verleden tijd | 3e pers. meervoud, voltooid verleden tijd | 3e pers. enkelvoud, voltooid verleden tijd (Ā) | 3e pers. meervoud, voltooid verleden tijd (Ā) |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | :sig[⟪पे⟫]⟪चुर्⟫ | :sig[⟪पे⟫]⟪चे⟫ | :sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+### 35.3.3. Perfectum type Vc: stamwoorden medeklinker-a-medeklinker. Zwakke stam, hoog niveau
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**schwacher Stamm:** Hochstufe
+**zwakke stam:** hoog niveau
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
-*   die mit zwei Konsonanten beginnen
-*   die mit Guttural beginnen
-*   die mit Aspirat beginnen
-*   die mit h beginnen
+Wordt gevormd door alle andere stammen met een middelste -a-, d.w.z. stammen met een middelste -a-
+*   die beginnen met twee medeklinkers
+*   die beginnen met een keelklank
+*   die beginnen met een aspiratie
+*   die beginnen met een h
 
-sofern sie nicht zu Perfekt Typ Va gehören.
+voor zover ze niet tot het voltooid verleden tijd type Va behoren.
 :::
-Beispiel:
+Voorbeeld:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel | 3e pers. enkelvoud voltooid verleden tijd | 3e pers. meervoud voltooid verleden tijd | 3e pers. enkelvoud voltooid onvoltooid verleden tijd | 3e pers. meervoud voltooid onvoltooid verleden tijd |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. Woordenlijst
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gaan, ten onder gaan, verdwijnen
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Toekomst ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**caus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verdwijnen, verloren gaan, ten onder gaan
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schrijden, gaan
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Kaus. ⟪क्रमयति⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Afb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+(Beeldbron: [Details](/nl/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): zingen, op zingende toon reciteren, in gebonden rede verkondigen
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Kaus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+daarvan:
+**⟪गीता⟫ v.:** lied, gezang
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Afb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+(Beeldbron: [Details](/nl/licenses#lekt3501))
 :::
-## 35.5. Übung
+## 35.5. Oefening
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) Vormt u bij de volgende werkwoordsvormen de bijbehorende perfectumvormen:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -233,7 +232,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmässig, nach Typ Vb!
+15. ⟪भजन्ति⟫ onregelmatig, volgens type Vb!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -250,9 +249,9 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
-Abb.: ⟪मिमति⟫
+Afb.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Bildquelle: [Details](/licenses#lekt3503))
+(Beeldbron: [Details](/nl/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -267,21 +266,17 @@ Market in Vadaseri, Tamil Nadu.
 40. ⟪जुह्वति⟫
 41. ⟪अहरत्⟫
 
-B) Übersetzen Sie:
+B) Vertaal:
 
-⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
-
-⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
-
-⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
+⟪एकस्मिन्नेव काले क्षत्रियो महान्यष्टुमुपचक्रमे । तस्य यज्ञपशुमिन्द्रो जहार । प्रनष्टे तु पशौ दुर्ब्राह्मणः क्षत्रियमब्रवीत् । पशुर्हृतः क्षत्रियस्य दुर्नयादिति ॥१॥ रामो ऽपुत्र आस । स पुत्रमियेष न तु लेभे । तस्माद्देवानीजे ब्रह्मचर्यादिव्रतानि च चकार । देवा रामस्येष्टिं शुश्रुवुर् रामाय चेष्टपुत्रं ददुः ॥२॥ ब्राह्मण्यो यज्ञाय घृतं पेचुः । ब्राह्मणीषु पचन्तीषु ब्राह्मणा यज्ञस्थानं सञ्चस्करुः । ततः क्षत्रियाः शिवादिदेवानीजिरे ब्राह्मणाश्चेजुः ॥३॥⟫
 
 ::: media
 ![](/images/lekt3504.webp)
-Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
+Afbeelding: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
-(Bildquelle: [Details](/licenses#lekt3504))
+(Bron afbeelding: [Details](/nl/licenses#lekt3504))
 :::
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
+⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
+C) Herschrijf de zinnen van oefening B door perfectumvormen te vervangen door imperfectumvormen.
 
