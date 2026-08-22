@@ -92,7 +92,7 @@ populateSidebar(tr, 'Ders', 'tr', 'Yazı', 'Egzersiz');
 populateSidebar(vi, 'Bài học', 'vi', 'Chữ viết', 'Bài tập');
 populateSidebar(zu, 'Isifundo', 'zu', 'Ukubhala', 'Ukuzivocavoca');
 
-const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
+
 const localeObjects = {
   de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, zu
 };
@@ -225,7 +225,7 @@ export default defineConfig({
   },
   
   markdown: {
-    lineNumbers: isAuthorBuild,
+    lineNumbers: false,
     breaks: true,
     config: (md) => {
 
@@ -258,11 +258,6 @@ export default defineConfig({
     }
     copyMdFiles(siteConfig.srcDir, siteConfig.outDir)
 
-    if (!isAuthorBuild) {
-      const qaHtml = path.join(siteConfig.outDir, 'qa_viewer.html')
-      const qaDir = path.join(siteConfig.outDir, 'qa')
-      if (fs.existsSync(qaHtml)) fs.unlinkSync(qaHtml)
-      if (fs.existsSync(qaDir)) fs.rmSync(qaDir, { recursive: true, force: true })
-    }
+
   }
 })
