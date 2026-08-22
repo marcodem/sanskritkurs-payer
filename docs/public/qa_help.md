@@ -27,20 +27,20 @@ Instead, the outer container must be defined with **4 colons (`::::`)**!
 ```markdown
 ::: grammar-box
 This text is inside the box.
-:::
 ::: indent
 This is indented.
+:::
 :::
 ```
 
 **Right:**
 ```markdown
-::: grammar-box
+:::: grammar-box
 This text is inside the box.
-:::
 ::: indent
 This is indented.
 :::
+::::
 ```
 
 ## 3. Extended Table Features
