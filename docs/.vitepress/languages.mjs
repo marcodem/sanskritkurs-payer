@@ -7,9 +7,7 @@
 //   Generates frequent fallbacks to Spanish/English and lacks scientific precision for Sanskrit terminology.
 
 export const ACTIVE_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
-  'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
-  'fi', 'hu', 'zh', 'fa', 'bg'
+  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'zu', 'am', 'cop', 'gsw', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te'
 ];
 
 export const DEFAULT_LOCALES = [];
@@ -52,6 +50,15 @@ export const LOCALE_FLAGS = {
   vi: '🇻🇳',
   zu: '🇿🇦',
   gsw: '🇨🇭'
+,
+  pl: '🇵🇱',
+  cs: '🇨🇿',
+  sk: '🇸🇰',
+  sl: '🇸🇮',
+  ka: '🇬🇪',
+  hy: '🇦🇲',
+  si: '🇱🇰',
+  te: '🇮🇳'
 };
 
 export const LOCALE_NAMES = {
@@ -92,6 +99,15 @@ export const LOCALE_NAMES = {
   vi: '🇻🇳 Tiếng Việt',
   zu: '🇿🇦 isiZulu',
   gsw: '🇨🇭 Alemannisch'
+,
+  pl: '🇵🇱 Polski',
+  cs: '🇨🇿 Čeština',
+  sk: '🇸🇰 Slovenčina',
+  sl: '🇸🇮 Slovenščina',
+  ka: '🇬🇪 ქართული',
+  hy: '🇦🇲 Հայերեն',
+  si: '🇱🇰 සිංහල',
+  te: '🇮🇳 తెలుగు'
 };
 
 export const FOOTER_LABELS = {
@@ -133,4 +149,13 @@ export const FOOTER_LABELS = {
   vi: { prev: 'Bài học trước', exercise: 'Bài tập bổ sung', next: 'Bài học tiếp theo' },
   zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' },
   gsw: { prev: 'Vorigi Lektion', exercise: 'Zuesätzligi Üebig', next: 'Nächschti Lektion' }
+,
+  pl: { prev: 'Poprzednia lekcja', exercise: 'Dodatkowe ćwiczenie', next: 'Następna lekcja' },
+  cs: { prev: 'Předchozí lekce', exercise: 'Doplňkové cvičení', next: 'Další lekce' },
+  sk: { prev: 'Predchádzajúca lekcia', exercise: 'Doplnkové cvičenie', next: 'Ďalšia lekcia' },
+  sl: { prev: 'Prejšnja lekcija', exercise: 'Dodatna vaja', next: 'Naslednja lekcija' },
+  ka: { prev: 'წინა გაკვეთილი', exercise: 'დამატებითი სავარჯიშო', next: 'შემდეგი გაკვეთილი' },
+  hy: { prev: 'Նախորդ դասը', exercise: 'Լրացուցիչ վարժություն', next: 'Հաջորդ դասը' },
+  si: { prev: 'පෙර පාඩම', exercise: 'අතිරේක ව්‍යායාම', next: 'ඊළඟ පාඩම' },
+  te: { prev: 'మునుపటి పాఠం', exercise: 'అదనపు వ్యాయామం', next: 'తదుపరి పాఠం' }
 };

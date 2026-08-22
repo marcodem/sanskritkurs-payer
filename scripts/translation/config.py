@@ -40,9 +40,7 @@ ANTHROPIC_MODEL = "claude-sonnet-5"
 DE_FALLBACK_ALLOWED = {"rm", "grc", "el", "la", "cop", "gsw"}
 
 LANGUAGES = [
-    "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
-    "la", "rm", "ro", "id", "zh-CN", "he", "ar",
-    "th", "el", "grc", "fa", "fi", "hu", "tr", "nl", "af", "lt", "sh", "sq", "gez", "zh", "pt", "bg", "gsw"
+    "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa", "la", "rm", "ro", "id", "zh-CN", "he", "ar", "th", "el", "grc", "fa", "fi", "hu", "tr", "nl", "af", "lt", "sh", "sq", "gez", "zh", "pt", "bg", "gsw", "cop", "ka", "cs", "te", "zu", "am", "pl", "si", "sl", "vi", "hy", "sk"
 ]
 
 LANG_NAMES = {
