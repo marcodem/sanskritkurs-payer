@@ -104,7 +104,7 @@ pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 
 ## 45.4. Gyakorlat
 
-A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot \&lt;⟪लङ्⟫\&gt; használatával):
+A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot \<⟪लङ्⟫\> használatával):
 
 Te szétosztod a (buddhista) közösséget.
 

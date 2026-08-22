@@ -28,7 +28,7 @@ def get_top_unfinished_language(skip_langs=None):
     if skip_langs is None:
         skip_langs = []
 
-    target_langs = ["en", "ru", "uk", "bg", "id", "zh-CN", "zh"]
+    target_langs = [l[0] for l in LANG_MAP]
 
     all_rows = []
     for code, name, emoji in LANG_MAP:
@@ -255,7 +255,8 @@ def generate_report():
             rows.append({
                 "code": code, "name": name, "emoji": emoji,
                 "vorhanden": 0, "sauber": 0, "fallbacks": 0, "pct": 0.0,
-                "todo_queue": []
+                "todo_queue": [],
+                "delta_str": "—"
             })
             continue
         

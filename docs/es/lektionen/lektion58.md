@@ -29,9 +29,9 @@ Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \&lt;⟪भवावहे⟫\&gt; |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; | &lt;!--  --&gt;
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> | \<!--  --\>
 
 ### 58.2.2. Cuarta clase de presente (⟪दिवादिगणः⟫)
 
@@ -191,9 +191,9 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
 ⟪धा⟫ 3U "colocar, poner, situar"
 
@@ -275,7 +275,7 @@ Pune
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5801))
 :::
-## 58.6. Aoristo 5: Aoristo iṣ &lt;!--  --&gt;
+## 58.6. Aoristo 5: Aoristo iṣ \<!--  --\>
 
 ::: grammar-box
 **El aoristo iṣ se forma a partir de todas las raíces seṭ para las cuales no se enseña explícitamente únicamente otra forma de aoristo.**

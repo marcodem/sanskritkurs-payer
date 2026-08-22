@@ -107,4 +107,3 @@ sādhur guruḥ.
 Fig.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung002))
 :::
-:::

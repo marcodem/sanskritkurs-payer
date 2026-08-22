@@ -62,5 +62,5 @@ Enemigo, con la espada no abres el alma (la vida).
 ![](/images/uebung074.webp)
 Fig.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung074))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

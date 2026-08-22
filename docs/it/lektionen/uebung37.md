@@ -97,7 +97,7 @@ Lo Śūdra ha forse portato il peso?
 
 ---
 
-## Avyayībhāva (composti indeclinabili) &lt;!--  --&gt;
+## Avyayībhāva (composti indeclinabili) \<!--  --\>
 
 C) Determinare e tradurre i seguenti composti:
 

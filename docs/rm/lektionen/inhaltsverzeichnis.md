@@ -565,7 +565,7 @@ surscrit dal di
 
 ## [Lecziun 43](lektion43)
 
-*   1\. Desinentas persunalas da la segunda persuna (⟪मध्यमः⟫ = "mezza &lt;persuna&gt;")
+*   1\. Desinentas persunalas da la segunda persuna (⟪मध्यमः⟫ = "mezza \<persuna\>")
 *   2\. Furmaziun dals verbs da la segunda persuna (⟪मध्यमः⟫)
 *   2.1. Tribus tematicas
 *   2.1.1. Emprim classa da present (⟪भ्वादि⟫)

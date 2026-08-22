@@ -1,6 +1,6 @@
 ---
 title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere &lt;Person&gt;\")"
+subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # บทที่ 43
 
-## 43.1. บทลงท้ายบุรุษที่ 2 (⟪मध्यमः⟫ = "บุคคลระดับกลาง\&lt;Person\&gt;")
+## 43.1. บทลงท้ายบุรุษที่ 2 (⟪मध्यमः⟫ = "บุคคลระดับกลาง\<Person\>")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

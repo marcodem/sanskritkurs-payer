@@ -368,7 +368,7 @@ Los siguientes adjetivos pronominales se declinan como **⟪सर्व⟫**. E
 **Una serie de adjetivos forman el comparativo y el superlativo utilizando los siguientes sufijos ⟪कृत्⟫ (!):**
 
 *   Comparativo: **-īyas**
-*   Superlativo: **-iṣṭha** &lt;!--  --&gt;
+*   Superlativo: **-iṣṭha** \<!--  --\>
 
 **Mientras que los sufijos ⟪तद्धित⟫ -⟪तर⟫ y -⟪त⟫am se añaden a la raíz masculina del adjetivo, los sufijos -⟪ईयस्⟫ y -⟪इष्ठ⟫ se añaden a la raíz de la cual se deriva el adjetivo (siempre que exista dicha raíz). El vocal de la raíz se encuentra en grado pleno (guṇa).**
 
@@ -456,7 +456,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | (⟪वृद्ध⟫ 3 "viejo") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "viejo") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declinación de los comparativos en -īyas &lt;!--  --&gt;
+## 53.9. Declinación de los comparativos en -īyas \<!--  --\>
 
 ::: grammar-box
 **Los comparativos en -īyas forman el femenino en -īyasī (declinación como ⟪देवी⟫). El masculino y el neutro se declinan según el siguiente paradigma.**
@@ -571,7 +571,7 @@ Distribución de ⟪लघु⟫ (laghu) y ⟪गुरु⟫ (guru):
 ::: metrik-schema
 — ◡ — —    **◡ — — —**  ◡ ◡ — ◡    **◡ — ◡ —**
 :::
-### 53.10.4. El śloka épico (⟪श्लोक⟫ m.) &lt;!--  --&gt;
+### 53.10.4. El śloka épico (⟪श्लोक⟫ m.) \<!--  --\>
 
 ::: grammar-box
 **Mnemotécnica:**

@@ -1,5 +1,5 @@
 ---
-title: "Exercitatio 49"
+title: "Exercise 49"
 uebung_id: 49
 category: "Übung"
 last_reconstructed: 2026-05-15
@@ -56,8 +56,8 @@ Formas sequentes determinate:
 :::
 ::: media
 ![](/images/uebung078.webp)
-Abb.: ⟪गायी⟫
-(Fons imaginis: [Detalia](/licenses#uebung078))
+Fig.: ⟪गायी⟫
+(Imaginis fontis: [Detalia](/licenses#uebung078))
 :::
 ---
 
@@ -65,14 +65,13 @@ Abb.: ⟪गायी⟫
 
 Quaestiones regis ⟪शूद्रक⟫ ex ⟪विदिशा⟫ ad psittacum ⟪वैशम्पायन⟫:
 
-**⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
+**⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ॥⟫**
 
+**⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-**⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
-
-> Rex ait: "Sinamus haec ita esse! Curiositatem nostram sati facite! Domine, narrate nobis ab initio: In qua terra nati estis? Quis vobis nomen dedit? Quae mater vestra est? Quomodo Vēdas accepistis? Quomodo cum doctrinis cognovistis? Unde artes acquisivistis? An ad anteriores nativitates meminisse potestis an vota implere? Aut vestem avis induens, latebram inhabitatis? Aut ubi ante habitastis? Aut quot annos natus estis? Quomodo in caveam captus es? Et quomodo in manus Cāṇḍālarum venistis? Aut quomodo huc pervenistis?"
->
-> Vaiśampāyana autem, a Domino terrae sponte nata curiositate magna reverentia interrogatus, momentulum cogitavit et deinde plenus honoris respondit: "Rex, haec longa historia est. Si vos interest, auribus meis uti sinite!"
+> Rex ait: "Sinamus haec in suo statu manere! Satisfacite curiositati nostrae! Domine, narrate nobis ab initio: In qua terra nati estis? Quis vobis nomen dedit? Quae mater vestra est? Quomodo Vēdas accepistis? Quomodo doctrinas didicistis? Unde artes comparastis? An memoriam habetis priorum nativitatum an vota exaudiri potestis? Aut habitatistis, induto vestimento avis, in latebra? Aut ubi habitastis prius? Aut quot annos natus estis? Quomodo in caveam capti estis? Et quomodo in manus Cāṇḍālarum venistis? Aut quomodo huc venistis?"
+\>
+> Vaiśampāyana autem, qui a Domino terrarum sponte nata curiositate cum magno reverentia interrogatus esset, paululum cogitavit et deinde plenus honoris respondit: "Rex, longa est historia. Si te interest, auribus meis utere!"
 
 ::: media
 ![](/images/uebung079.webp)

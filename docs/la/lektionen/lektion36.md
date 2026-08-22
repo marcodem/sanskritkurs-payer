@@ -115,7 +115,6 @@ Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : gradi, ambulo, abeo
 
-:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
@@ -244,7 +243,6 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: proprius (meus, tuus ...) ; m.: adfīnis
 
-:::
 ## 36.5. Exercitatio
 
 A) Radices sequentes perfectum tam reduplicatum quam periphrasticum habent. Formis sequentibus periphrastica et reduplicata perfecta confice:

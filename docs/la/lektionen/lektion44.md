@@ -52,45 +52,45 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Classis nona praesentis (⟪kryādi⟫)
+### 44.1.3. Nonum Praesentis Classis (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| **Indicativus Praesentis** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Imperfectum** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optativus** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Zum Wortsandhi
+## 44.2. De Sandhi Verborum
 
-In praesentium radicalibus consonantem terminantibus, leges iam tractatae sandhi verbi observandae sunt.
+In praesentibus radicibus consonantibus desinentibus, leges iam tractatae sandhi verborum observandae sunt.
 
-Praeterea sequentes leges sandhi verbi adhibentur.
+Praeterea sequentes leges sandhi verborum adhibentur.
 
-(Completa collatio omnium hic pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76s.)
+(Completa collatio omnium huc pertinentium mutationum phoneticarum apud Kielhorn, Grammatica p. 76f.)
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. De Sandhi Verborum pro dh-
 
 ::: grammar-box
-1. **Aspirata ante aspiratam a correspondente non spirato substituitur:**
-   exempli gratia: **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+1. **Aspirata ante aspiratam a correspondente non-aspirata substituitur:**
+exempli gratia ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
 2. **-h + dh- » -gdh-**
-   exempli gratia: **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
-3. **-ṣ + dh- » -ḍḍh-** (haec regula tantum pro coniugatione valet!)
-   exempli gratia: **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
-4. **-s + dh- » -dh-** (cadit -s)
-   exempli gratia: **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
+exempli gratia ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** (Haec regula tantum pro coniugatione valet!)
+exempli gratia ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (Evolutio -s)
+exempli gratia ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. De sandhi verborum pro s-
+### 44.2.2. De Sandhi Verborum pro s-
 
 ::: grammar-box
-1. **-s + s- » -ts- aut (non alternative!) -ss-** (ita in classe praesentis secundae)
-   exempla:
-   * **⟪वस्⟫** 1P: Futurum: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+1. **-s + s- » -ts- vel (non alternative!) -ss-** (sic in 2. Praesentis Classe)
+exempla:
+* ⟪वस्⟫ 1P: Futurum: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+* ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   exempli gratia: **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
+exempli gratia ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
 ## 44.3. Formatio formarum verbalium personae secundae (⟪मध्यमः⟫) stemmatium athematicorum sine suffixo vocali terminato
 
@@ -182,45 +182,45 @@ Praeterea sequentes leges sandhi verbi adhibentur.
 | **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+## 44.4. Vocativus (⟪आमन्त्रितम्⟫)
 
-Indigeni grammatici vocativum (⟪आमन्त्रितम्⟫) non ut casus proprium considerant, sed solum modificationem nominativi (⟪प्रथमा⟫).
+Grammatici indigeni vocativum (⟪आमन्त्रितम्⟫) non ut casum proprium considerant, sed solumtamquam modificationem nominativi (⟪प्रथमा⟫).
 
 ::: important
-**Vocativus ad vocandum, appellandumque valet et extra contextum ceterae orationis statit, ideo ab aliis casibus differt qui relationem ad verbum aut nomen alterum exprimunt.**
+**Vocativus ad invocationem, ad alloquium destinatus est et extra contextum ceterae orationis positus est, itaque a casibus aliis differt, qui relationem ad verbum vel ad nomen alterum exprimunt.**
 
-**Plerumque vocativus initio orationis ponitur:**
+**Vocativus plerumque in initium orationis ponitur:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Puer, quid dicis?"
+⟪बाल किं वदसि⟫ = "Puer, quid dicis?"
 :::
 ::: important
-**Evitetur translatio vocativi cum "**O** ...". Nos in lingua Germanica saepe utimur vocativis, quando dicimus: "Amice, quid hodie coquimus?". Nemo hac significatione dicet: "**O** amice, quid hodie coquimus?"**
+**Evitanda est translatio vocativi cum "**O** ...". Nos in lingua Germanica saepissime utimur vocativis, cum dicimus: "Amice, quid hodie coquemus?". Nemo in hac significatione dicet: "**O** amice, quid hodie coquemus?"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
 Abb.: De recta usu "O" in lingua Germanica: **"O vir!"**
-(Fons imaginis: [Detalia](/la/licenses#lekt4402))
+(Fons imaginis: [Details](/la/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Formae vocativi pluralis et dualis idem sunt ac nominativus (⟪प्रथमा⟫) pluralis sive dualis.**
+**Formae vocativi pluralis et dualis sunt idendicae cum formis nominativi (⟪प्रथमा⟫) pluralis vel dualis.**
 
-**Formae vocativi singularis in [Lektion 45](lektion45.md) sequuntur.**
+**Formae vocativi singularis in [Lectio 45](lektion45.md) sequentur.**
 :::
 ## 44.5. Lexicon
 
-⟪प्रति⟫ Praefixum: retro, contra, adversus - huc
+⟪प्रति⟫ Praeverbum: retro, contra, adversus - versus
 
 ::: indent
-e.g.
+exempli gratia
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : repudiare
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : repulsare
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : respondere = responder
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : retrodicere = respondere
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : reicere, aspernari
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : repudiare, spernere
 :::
 ⟪या⟫ 2P ⟪याति⟫ : ire, vehi
 
@@ -231,15 +231,6 @@ Pass. ⟪यायते⟫
 Kaus. ⟪यापयति⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫
-
-ex eo:
-
-**⟪यान⟫** n.: iter, via, vehiculum
-:::
-::: media
-![](/images/lekt4403.webp)
-Fig.: ⟪रेल्यानम्⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt4403))
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : iacere. Haec radix in omnibus formis radicis praesentis **Gradus altus:** 1.sg.Ind.Præs.Ā ***⟪शेये*** (śe + e). Formae sequentes praecipue notandae sunt: 3.pl.Ind.Præs.Ā ***⟪शेरते***, 3.pl.Impf.Ā ***⟪अशेरत***
 
@@ -302,12 +293,21 @@ PPP ⟪आयत⟫ 3: longius extentus
 ![](/images/lekt4406.webp)
 Abb.: ⟪आयतो⟫ ⟪मरुः⟫
 (Fons imaginis: [Details](/la/licenses#lekt4406))
+
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : praebere, offerre, tradere
+::: indent
+PPP ⟪आयत⟫ 3: longum extentum
+:::
+::: media
+![](/images/lekt4406.webp)
+Fig.: ⟪आयतो मरुः⟫
+(Imago fons: [Detalia](/la/licenses#lekt4406))
+:::
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : offerre, praebere, tradere
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : colligare, alligare, frenare
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : colligare, alligare, coercere
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : contendunt (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : appetere (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
@@ -315,40 +315,40 @@ Fut. ⟪यतिष्यते⟫
 Pass. ⟪यत्यते⟫  
 Kaus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫
+Inf. ⟪यतितुम्⟫  
 
-eo:
+inde:
 
-**⟪यत्न⟫** m.: conatus, labor
+⟪यत्न⟫ m.: conatus, labor
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt4407))
+Fig.: ⟪यत्नेन⟫
+(Imago fons: [Detalia](/la/licenses#lekt4407))
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (forma adiecta ad ⟪लभ्⟫): apprehendit
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (forma altera ad ⟪लभ्⟫): capere
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
 ⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : tangere, incipere, aggredi
 
-⟪प्रव्रज्या⟫ f. (ad ⟪प्र⟫-⟪व्रज्⟫): egressio domo ad sine domum; caerimonia, qua monachus novitius fit (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (ad ⟪प्र⟫-⟪व्रज्⟫): e domo exeundum est ad inopiam ; sollemne, quo Buddhisticus novitius fit (Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt4408))
+(Imago fons: [Detalia](/la/licenses#lekt4408))
 :::
 ## 44.6. Exercitatio
 
-A) Determina et versa formas sequentes:
+A) Determina et vertas has formas:
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -406,69 +406,54 @@ A) Determina et versa formas sequentes:
 ::: media
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt4409))
+(Imago fons: [Detalia](/la/licenses#lekt4409))
 :::
 B) Vertite:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
+## 44.7. Exercitatio repetitiva de formatione verborum
 
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
+Formas sequentes determina:
 
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
-
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
-
-## 44.7. Wiederholungsübung zur Formenlehre
-
-Determina sequentes formas:
-
-1.  ⟪वदिता⟫
-2.  ⟪उदिता⟫
-3.  ⟪धातुः⟫
-4.  ⟪दधुः⟫
-5.  ⟪अदधुः⟫
-6.  ⟪दध्युः⟫
-7.  ⟪रक्षामि⟫
-8.  ⟪रक्षाणि⟫
-9.  ⟪रक्षीणि⟫
-10.  ⟪रक्षिणी⟫
-11.  ⟪राजनि⟫
-12.  ⟪आसि⟫
-13.  ⟪इज्ये⟫
-14.  ⟪अयुध्ये⟫
-15.  ⟪अयोध्ये⟫
-16.  ⟪अयोधये⟫
-17.  ⟪शोचनीयायाम्⟫
-18.  ⟪वर्त्स्यति⟫
-19.  ⟪आसन्⟫
-20.  ⟪असन्⟫
-21.  ⟪बिभ्यति⟫
-22.  ⟪कुत्र⟫
-23.  ⟪चेरिम⟫
-24.  ⟪योक्ष्ये⟫
-25.  ⟪योज्ये⟫
-26.  ⟪युज्ये⟫
-27.  ⟪चिक्ये⟫
-28.  ⟪अजायामहि⟫
-29.  ⟪स्मर्येय⟫
-30.  ⟪स्मर्याय⟫
-31.  ⟪कया⟫
-32.  ⟪क्रेया⟫
-33.  ⟪आत्मने⟫
-34.  ⟪अदानम्⟫
-35.  ⟪आददानम्⟫
-36.  ⟪सेदिम⟫
-37.  ⟪क्व⟫
-38.  ⟪पिपूर्मः⟫
-39.  ⟪कैः⟫
-40.  ⟪कृत्येन⟫
+1. ⟪वदिता⟫
+2. ⟪उदिता⟫
+3. ⟪धातुः⟫
+4. ⟪दधुः⟫
+5. ⟪अदधुः⟫
+6. ⟪दध्युः⟫
+7. ⟪रक्षामि⟫
+8. ⟪रक्षाणि⟫
+9. ⟪रक्षीणि⟫
+10. ⟪रक्षिणी⟫
+11. ⟪राजनि⟫
+12. ⟪आसि⟫
+13. ⟪इज्ये⟫
+14. ⟪अयुध्ये⟫
+15. ⟪अयोध्ये⟫
+16. ⟪अयोधये⟫
+17. ⟪शोचनीयायाम्⟫
+18. ⟪वर्त्स्यति⟫
+19. ⟪आसन्⟫
+20. ⟪असन्⟫
+21. ⟪बिभ्यति⟫
+22. ⟪कुत्र⟫
+23. ⟪चेरिम⟫
+24. ⟪योक्ष्ये⟫
+25. ⟪योज्ये⟫
+26. ⟪युज्ये⟫
+27. ⟪चिक्ये⟫
+28. ⟪अजायामहि⟫
+29. ⟪स्मर्येय⟫
+30. ⟪स्मर्याय⟫
+31. ⟪कया⟫
+32. ⟪क्रेया⟫
+33. ⟪आत्मने⟫
+34. ⟪अदानम्⟫
+35. ⟪आददानम्⟫
+36. ⟪सेदिम⟫
+37. ⟪क्व⟫
+38. ⟪पिपूर्मः⟫
+39. ⟪कैः⟫
+40. ⟪कृत्येन⟫
 

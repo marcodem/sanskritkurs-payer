@@ -443,78 +443,45 @@ terkait **yaj** 1 U:
   Untuk kehidupan kota dan desa, lihat Basham, *Wonder*, Bab 6.
   :::
 
-**yajña** m. ⟪यज्ञ⟫ : pengorbanan
+**yajña** m. ⟪यज्ञ⟫ : persembahan
 
   ::: note-box
-  Pengorbanan di India pada dasarnya adalah penghormatan kepada dewa sebagai tamu. Dengan demikian, seseorang mengikat diri untuk memuliakan sang dewa.
+  Persembahan di India pada dasarnya adalah penghormatan kepada dewa sebagai tamu. Dengan demikian, seseorang mengikat diri untuk memuliakan dewa tersebut.
 
   Pembentukan kata: **yaj** 1 U + kṛt-suffix **-na-**.
   :::
 
-**puṇya** n. ⟪पुण्य⟫ : perbuatan baik, jasa
+**puṇya** n. ⟪पुण्य⟫ : perbuatan baik, kebajikan
 
   ::: note-box
-  Yang dengannya seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
+  Yang membuat seseorang layak mendapatkan kesejahteraan dan kelahiran kembali yang baik.
   :::
 
 **pāpa** n. ⟪पाप⟫ : kejahatan, keburukan (kebalikan dari **puṇya**)
 **satya** n. ⟪सत्य⟫ : kebenaran
 
-:::: note-box
-Di India, kata yang benar dipercaya memiliki kekuatan magis; bahkan seluruh tatanan alam semesta dipertahankan dan diciptakan oleh kata yang benar. Untuk gagasan penting ini, lihat karya mendasar berikut:
+::: note-box
+Di India, kata-kata yang benar diyakini memiliki kekuatan magis; bahkan seluruh tatanan alam semesta dipertahankan dan diciptakan melalui kata-kata yang benar. Untuk konsep penting ini, lihat karya mendasar berikut:
 
-::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari sisa karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jil 2: Varuna dan Ṛta. - 1959. -- XXIII hlm., hklm 340-764
 :::
-::::
-
-::: media
-![](/images/lekt1003.webp)
-Fig.: ⟪वरुणः⟫
-(Sumber gambar: [Detail](/licenses#lekt1003))
-:::
-**anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (kebalikan dari **satya**)
-
-  ::: note-box
-  Pembentukan kata **an-** („tidak-“) +  **ṛta** n.
-
-  ʻ  Ṛṛta ʼ  adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: „kebenaranʼ  (Lüders, Thieme), ʻ  tatanan ʾ  (Renou).
-  :::
-
-**ṛṣi** m. ⟪ऋषि ʻ  : resi Weda, pengarang lagu-lagu Veda
-
-  ::: note-box
-  Nama-nama **ṛṣi** ʻ  ini disebutkan dalam Brāhmaṇa serta daftar khusus untuk Weda. Semua Brahmana menurunkan asal-usul mereka dari ʻ  ṛṣi ʾ  semacam itu, yang ʻ  gotra ʼ  mereka (⟪ गोत्र ʾ  ) dinamai. Untuk konsep ʻ  gotra ʼ  lihat Basham, *Wonder*, Bab 5.
-  :::
-
-::: media
-![](/images/lekt1002.jpg)
-Fig.: ⟪विश्वामित्रः⟫
-(Sumber gambar: [Details](/licenses#lekt1002))
-:::
-**vad** 1 P (vadati) ⟪वद् वदति⟫ : mengatakan, berbicara
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
-**saha** ⟪सह⟫ : bersama, secara bersama (juga dalam konteks "bertarung dengan" dan seterusnya) (Postposisi dengan Instrumentalis)
-
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
 :::
-:::
 
 ::: media
 ![](/images/lekt1003.webp)
-Fig.: ⟪वरुणः⟫
+Ilustr.: ⟪वरुणः⟫
 (Sumber gambar: [Details](/licenses#lekt1003))
 :::
 **anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (kebalikan dari **satya**)
 
   ::: note-box
-  Pembentukan kata **an-** ("tidak-") + **ṛta** n.
+  Pembentukan kata **an-** („tidak-“) + **ṛta** n.
 
-  **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya masih diperdebatkan: "kebenaran" (Lüders, Thieme), "tatanan" (Renou).
+  **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya masih diperdebatkan: „kebenaran“ (Lüders, Thieme), „tatanan“ (Renou).
   :::
 
-**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, pengarang lagu-lagu Weda
+**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, penyanyi lagu-lagu Weda
 
   ::: note-box
   Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri mengenai Weda. Semua Brahmana menurunkan garis keturunan mereka dari **ṛṣi** semacam itu, yang menjadi nama **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
@@ -522,20 +489,51 @@ Fig.: ⟪वरुणः⟫
 
 ::: media
 ![](/images/lekt1002.jpg)
-Fig.: ⟪विश्वामित्रः⟫
+Gambar: ⟪विश्वामित्रः⟫
 (Sumber gambar: [Details](/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : mengatakan, berbicara
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
-**saha** ⟪सह⟫ : bersama, secara bersama (juga dalam konteks "bertarung dengan" dan seterusnya) (Postposisi dengan Instrumentalis)
+**saha** ⟪सह⟫ : bersama, secara bersama-sama (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan disunting oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
+:::
+
+::: media
+![](/images/lekt1003.webp)
+Gambar: ⟪वरुणः⟫
+(Sumber gambar: [Details](/licenses#lekt1003))
+:::
+**anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (kebalikan dari **satya**)
+
+  ::: note-box
+  Pembentukan kata **an-** ("tidak-") + **ṛta** n.
+
+  **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: "kebenaran" (Lüders, Thieme), "tatanan" (Renou).
+  :::
+
+**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, penulis lagu-lagu Weda
+
+  ::: note-box
+  Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri untuk Weda. Semua Brahmana menurunkan asal-usul mereka dari **ṛṣi** semacam itu, yang dinamai berdasarkan **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Gambar: ⟪विश्वामित्रः⟫
+(Sumber gambar: [Details](/licenses#lekt1002))
+:::
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : mengatakan, berbicara
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
+**saha** ⟪सह⟫ : bersama, secara bersama-sama (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
 
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Diterbitkan dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hal., hal. 340 - 764
 :::
-:::
 ::: media
 ![](/images/lekt1003.webp)
-Gambar: ⟪वरुणः⟫
+Fig.: ⟪वरुणः⟫
 (Sumber gambar: [Details](/licenses#lekt1003))
 :::
 **anṛta** n. ⟪अनृत⟫ : ketidakbenaran, kebohongan (kebalikan dari **satya**)
@@ -544,15 +542,15 @@ Gambar: ⟪वरुणः⟫
 Pembentukan kata **an-** („tidak-“) + **ṛta** n.
 
 **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: „kebenaran“ (Lüders, Thieme), „tatanan“ (Renou).
-**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, pengarang lagu-lagu Weda
+**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, penyanyi lagu-lagu Weda
 
 :::
 ::: note-box
-Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri untuk Weda-weda. Semua Brahmana menurunkan asal-usul mereka dari **ṛṣi** semacam itu, yang dinamai menurut **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
+Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri untuk Weda. Semua Brahmana menurunkan asal-usul mereka dari **ṛṣi** semacam itu, yang dinamai menurut **gotra** mereka (⟪गोत्र⟫). Lihat Basham, *Wonder*, Bab 5 untuk konsep **gotra**.
 :::
 ::: media
 ![](/images/lekt1002.jpg)
-Gambar: ⟪विश्वामित्रः⟫
+Fig.: ⟪विश्वामित्रः⟫
 (Sumber gambar: [Details](/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : berkata, berbicara
@@ -578,10 +576,10 @@ Gambar: ⟪विश्वामित्रः⟫
 **Pelajari kata-kata berikut:**
 
 **iti** ⟪इति⟫ : demikian
-Berada *setelah* perumusan sebuah pikiran, keinginan, ucapan, kutipan, seolah-olah sebagai tanda petik (").
-Contoh: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang-orang suci pergi ke surga'" = "Brahmana mengatakan bahwa orang-orang suci pergi ke surga".
+Berada *setelah* perumusan suatu gagasan, keinginan, ucapan, kutipan, seolah-olah sebagai tanda petik (").
+mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang-orang suci pergi ke surga'" = "Brahmana mengatakan bahwa orang-orang suci pergi ke surga".
 Dalam bahasa Sanskerta tidak ada kalimat tak langsung; pembentukan dengan **iti** sering kali harus diterjemahkan ke dalam bahasa Jerman sebagai kalimat tak langsung.
-**... (kutipan) ... iti śrutiḥ** = "demikianlah Weda".
+**... (kutipan) ... iti śrutiḥ** = "demikian Weda".
 Seringkali setelah **iti** ada kata kerja berpikir yang tersirat: "berpikir: '...' ia melakukan hal itu". Diterjemahkan secara idiomatik ke dalam bahasa Jerman (mis. "Karena ia lapar, ia pergi...").
 
 **evam** ⟪एवम्⟫ : demikian (kata keterangan, mis. **evaṃ jayati** "demikian ia menang").
@@ -856,54 +854,53 @@ Gambar: ⟪पूजा⟫
 (Sumber gambar: [Details](/licenses#lekt1504))
 :::
 ⟪कुल⟫ n.: kawanan, kerumunan, klan, keturunan, keluarga
-
 ⟪इन्द्र⟫ m.: Pangeran, Yang Pertama, Yang Terbaik di antara ; Raja Dewa Indra
 ::: media
 ![](/images/lekt1505.webp)
-Fig.: ⟪इन्द्रः⟫
-(Sumber gambar: [Details](/licenses#lekt1505))
+Gambar: ⟪इन्द्रः⟫
+(Sumber gambar: [Detail](/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Hamba, Budak, Pelayan
+⟪दास⟫ m.: Budak, hamba, pelayan
 
-⟪दासी⟫ f.: Hamba perempuan, Budak perempuan, Pelayan perempuan
+⟪दासी⟫ f.: Budak perempuan, hamba perempuan, pelayan perempuan
 
-⟪काल⟫ m.: Waktu, (saat yang) tepat ; Takdir, Kematian ; Dewa Kematian Kāla
+⟪काल⟫ m.: Waktu, saat yang tepat; Takdir, Kematian; Dewa Kematian Kāla
 
-⟪काल⟫ 3: hitam, biru-hitam, gelap
+⟪काल⟫ 3: hitam, biru kehitaman, gelap
 
-⟪पुरुष⟫ m.: Manusia, Pria, Hamba
+⟪पुरुष⟫ m.: manusia, laki-laki, pelayan
 
-\-⟪जन⟫ sebagai komponen kedua dari Tatpuruṣa sering kali merupakan ekspresi jamak
+\-⟪जन⟫ sebagai unsur kedua dari Tatpuruṣa, sering kali menunjukkan bentuk jamak
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Kalimat pasif ⟪स्तूयते⟫ ; Partisip pasif lampau ⟪स्तुत⟫ : memuji, memuliakan
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; pasif ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : memuji, memuliakan
 
 darinya:
 
 ::: indent
-⟪स्तुति⟫ f.: Pujian, Nyanyian pujian
+⟪स्तुति⟫ f.: pujian, nyanyian pujian
 
-⟪स्तोत्र⟫ n.: (Alat untuk memuji =) Nyanyian pujian, Himne
+⟪स्तोत्र⟫ n.: (sarana untuk memuji =) nyanyian pujian, himne
 :::
 ⟪सिंह⟫ m.: Singa (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Fig.: ⟪सिंहः⟫
-(Sumber gambar: [Details](/licenses#lekt1506))
+Gambar: ⟪सिंहः⟫
+(Sumber gambar: [Detail](/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: Harimau (_Panthera tigris tigris_) (secara harfiah: Penjaga kebun)
+⟪व्याघ्र⟫ m.: Harimau (_Panthera tigris tigris_) (secara harfiah: si menguap)
 ::: media
 ![](/images/lekt1507.webp)
-Fig.: ⟪व्याघ्रः⟫
-(Sumber gambar: [Details](/licenses#lekt1507))
+Gambar: ⟪व्याघ्रः⟫
+(Sumber gambar: [Detail](/licenses#lekt1507))
 :::
-⟪इव⟫ (ditempatkan setelah): seolah-olah, seperti (dalam perbandingan: ⟪व्याघ्र इव पुरुषः⟫ = "seorang pria seperti harimau", "pria yang setara dengan harimau"
+⟪इव⟫ (rekonstruksi): seolah-olah, seperti (dalam perbandingan: ⟪व्याघ्र इव पुरुषः⟫ = "seorang pria seperti harimau", "seorang pria yang mirip harimau"
 
-⟪एव⟫ (ditempatkan setelah): menekankan hal sebelumnya, dalam bahasa Jerman sering kali sesuai dengan penekanan, semacam emotikon `\&lt;!\&gt;`, mis. ⟪सत्यमेव जयति⟫ "hanya kebenaran yang menang", "tepatnya kebenaran yang menang", "kebenaran menang"
+⟪एव⟫ (ditambahkan): menekankan kalimat sebelumnya, dalam bahasa Jerman sering kali setara dengan penekanan, semacam emotikon `\<!\>`, misalnya ⟪सत्यमेव जयति⟫ "hanya kebenaran yang menang", "justru kebenaran yang menang", "kebenaranlah yang menang"
 
-⟪अरि⟫ m.: Musuh (menurut Thieme, Der Fremdling im Ṛgveda: pada awalnya = orang asing)
+⟪अरि⟫ m.: musuh (menurut Thieme, Orang Asing dalam Ṛgveda: awalnya = orang asing)
 
 ::: indent
-⟪आर्य⟫ 3: Arya, mulia ; m. Aryan (sebutan diri untuk orang India kuno yang berbicara bahasa Sanskerta, secara harfiah: Tamu yang ramah (Thieme)) ; Orang mulia
+⟪आर्य⟫ 3: Arya, mulia; m. Arya (sebutan diri orang India kuno yang berbahasa Sanskerta, secara harfiah: yang ramah tamah (Thieme)); orang mulia, pria terhormat
 :::
 ke ⟪जन्⟫
 

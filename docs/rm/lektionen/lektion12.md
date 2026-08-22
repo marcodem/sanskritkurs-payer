@@ -138,7 +138,6 @@ Per las furmasiuns cun *aniṭ* èn da tegnair cont da las suandantas legas dal 
 | **7. h-t vegn sustituì tras ḍh cun allungaziun d'in i u u precedent; u tras gdh. Davant in tal ḍh vegn a sustituì tras o, pli rar tras ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „zchoccher alquai”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-:::
 ## 12.5. Glista da pleds
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà)

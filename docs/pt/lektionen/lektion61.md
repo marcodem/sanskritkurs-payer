@@ -440,7 +440,6 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 (Fonte da imagem: [Detalhes](/licenses#lekt6105))
 :::
 
-:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -658,7 +657,6 @@ Paradigmas: Kielhorn, Grammatik § 153:
 (Fonte da imagem: [Details](/licenses#lekt6115))
 :::
 
-:::
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
@@ -675,7 +673,6 @@ Kielhorn, Gramática § 177:
 (Fonte da imagem: [Details](/licenses#lekt6116))
 :::
 
-:::
 ::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫

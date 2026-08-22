@@ -565,7 +565,7 @@ Sententia hebdomadis
 
 ## [Lectio 43](lektion43)
 
-*   1\. Personalia desinentia secundae personae (⟪मध्यमः⟫ = "media \&lt;Persona\&gt;")
+*   1\. Personalia desinentia secundae personae (⟪मध्यमः⟫ = "media \<Persona\>")
 *   2\. Formatio formarum verbalium secundae personae (⟪मध्यमः⟫)
 *   2.1. Tribus thematicae
 *   2.1.1. Prima classis praesentis (⟪भ्वादि⟫)

@@ -259,5 +259,4 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt2204))
 :::
 
-:::
 

@@ -120,7 +120,7 @@ devī + umā » devy umā "اوما یک/خداوند است" = ⟪देव्�
 ## 3.5. ساندی جمله‌ای -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās پیش از همهٔ همخوان‌های صدادار به -ā تبدیل می‌شود.**
 :::
 مثلاً
 

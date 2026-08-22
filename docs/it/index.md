@@ -14,21 +14,22 @@ hero:
       link: /it/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "Tipografia perfetta e integrata per le scritture indiane."
-  - title: "Facilmente ricercabile"
-    details: "Una ricerca full-text locale approfondita tiene la conoscenza a portata di clic."
-  - title: "Architettura moderna"
-    details: "Costruito sulle fondamenta di VitePress per una velocità massima."
+  - title: "Globale e poliglotta"
+    details: "Completamente disponibile in oltre 20 lingue grazie a una cascata di traduzione automatizzata basata su intelligenza artificiale multilivello."
+  - title: "PWA offline-first"
+    details: "L'intero corso (incluso il motore di ricerca locale) è utilizzabile su tutti i dispositivi senza una connessione internet attiva."
+  - title: "Tipografia accademica"
+    details: "Supporto nativo per il Devanāgarī e la traslitterazione IAST con un allineamento del testo accademico rigoroso."
 
 ---
 
 ::: note-box
 Il **corso di sanscrito** di Alois Payer è un corso completo e scientificamente fondato per l'apprendimento della lingua sanscrita e della scrittura Devanāgarī. Questa edizione digitale mette a disposizione l'intero corso in un ambiente di lettura moderno, multilingue e ricercabile.
 
-Le lingue sono state tradotte completamente in automatico dal tedesco con l'aiuto di un'intelligenza artificiale (Qwen3.6-32B). I segnalazioni relative a errori di traduzione sono molto gradite.
-**Osservazioni & Contatto**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**Partecipa come revisore o curatore**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**Editor open-source Zentauri**: Editor Markdown standalone su [GitHub](https://github.com/marcodem/zentauri)
-**Wiki degli sviluppatori & Architettura**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Le lingue sono state tradotte completamente in modo automatico dall'italiano tramite una cascata di IA a più livelli. I segnalazioni relative ad errori di traduzione sono molto benvenute.
+
+**Contatto e Contributo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Wiki del Progetto](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Editori**: Editor online disponibile per gli autori ([payer-author.birchville.org](https://payer-author.birchville.org)) | In alternativa: Editor Markdown standalone [Zentauri](https://github.com/marcodem/zentauri)
+**Versione corrente**: v1.7.0
 :::

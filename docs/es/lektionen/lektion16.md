@@ -19,9 +19,9 @@ Consonantes oclusivas finales guturales, retroflejas, dentales y labiales (es de
 
 |   |   |
 | :--- | :--- |
-| **en pausa y ante sonidos sordos** | **Sustitución por la oclusiva sorda no aspirada correspondiente:** :br **p. ej.** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **ante sonidos sonoros no nasales** | **Sustitución por la oclusiva sonora no aspirada correspondiente:** :br **p. ej.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **ante nasales** | **Sustitución por la nasal correspondiente:** :br **p. ej.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **en pausa y ante sonidos sordos** | **Sustitución por la oclusiva sorda no aspirada correspondiente:** :br **p. ej.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **ante sonidos sonoros no nasales** | **Sustitución por la oclusiva sonora no aspirada correspondiente:** :br **p. ej.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **ante nasales** | **Sustitución por la nasal correspondiente:** :br **p. ej.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Excepción a la regla anterior:
@@ -32,10 +32,10 @@ Oclusiva dental final (no nasal):
 
 |   |   |
 | :--- | :--- |
-| **ante palatales** | **Sustitución por la palatal no aspirada correspondiente:** :br **es decir,** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
+| **ante palatales** | **Sustitución por la palatal no aspirada correspondiente:** :br **es decir,** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- o -cch-** |
-| **ante retroflejas** | **Sustitución por la retrofleja no aspirada correspondiente:** :br **es decir,** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **ante l-** | **Sustitución por -l:** :br **es decir,** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **ante retroflejas** | **Sustitución por la retrofleja no aspirada correspondiente:** :br **es decir,** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **ante l-** | **Sustitución por -l:** :br **es decir,** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Ejemplos:
@@ -90,7 +90,7 @@ de ello:
 
 ⟪निरोध⟫ m.: Detención, hacer detenerse
 
-* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma &lt;!--  --&gt;
+* **bhūta n.** (⟪भूत⟫) (PPP de bhū): Ser, fantasma \<!--  --\>
 
 ⟪योग⟫ m.: Enganche, conexión, unión, adquisición; Yoga
 

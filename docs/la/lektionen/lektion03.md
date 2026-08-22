@@ -117,7 +117,7 @@ e.g.
 ## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+-ās ante omnes sonos sonantes in -ā mutatur.
 :::
 e.g.
 

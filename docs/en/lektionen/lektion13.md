@@ -96,8 +96,8 @@ For nominal stems with stem gradation, one distinguishes between strong and weak
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
->> | **For Masculines and Feminines** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
->> | **For Neuters** :br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **For Masculines and Feminines** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **For Neuters** :br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
 
 **All other cases are weak.**
 
@@ -131,8 +131,8 @@ c + dh- » -g-dh- ⟪ग्ध्⟫
 
 For consonant-final stems:
 * the ending of the accusative (dvitīyā) plural masculine and feminine is -as.
->> * in regularly formed stems, the neuter nominative (prathamā) and accusative (dvitīyā) singular are without ending.
->> * in regularly formed stems, the neuter nominative and accusative plural ending is -i.
+* in regularly formed stems, the neuter nominative (prathamā) and accusative (dvitīyā) singular are without ending.
+* in regularly formed stems, the neuter nominative and accusative plural ending is -i.
 
 :::
 
@@ -145,10 +145,10 @@ For consonant-final stems:
 
 | | | Masculine || Neuter ||
 | :--- | :--- | :---: | :---: | :---: |
->> | Singular:br⟪एकवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| Singular:br⟪एकवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
 | | Accusative:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
 | | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
->> | Plural:br⟪बहुवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| Plural:br⟪बहुवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | Accusative:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
@@ -239,7 +239,7 @@ Fig.: ⟪अत्र गौतमो बुद्धो बोध्या म�
 ⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 possibilities)
 ⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
->> B) Translate and convert into passive voice in the past tense:
+B) Translate and convert into passive voice in the past tense:
 
 ⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते । २⟫. ⟪योद्धा न मुञ्चति । ३⟫. ⟪साधवो देवान्स्मरन्ति । ४⟫. ⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫. ⟪पुत्रवान्नरकं न गच्छति । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫. ⟪कयर्ग्वेदं शृण्वन्ति । १२⟫. ⟪किमीश्वरः सृजति । १३⟫. ⟪साधुः कृतं पापं सहते । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
 
@@ -250,7 +250,7 @@ A) Translate the following sentences:
 
 ⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति । २⟫. ⟪नरा धनेन सुखमिच्छन्ति । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते । ४⟫. ⟪देवो लोकान्सृजति । ५⟫. ⟪बाला जलं पिबति । ६⟫. ⟪कवयो धनं लुभ्यन्ति । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫. ⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫. ⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते । १३⟫. ⟪कां देवतामृषिः पश्यति । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
 
->> B) Convert the sentences from Exercise A) into the passive voice.
+B) Convert the sentences from Exercise A) into the passive voice.
 
 C) Form a PPP construction for the sentences from Exercise A).
 

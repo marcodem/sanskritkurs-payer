@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # Glossar Sanskrit–AR
 
@@ -16,13 +20,14 @@ outline: 2
 | ⟪अखिल⟫ | [akhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=akhila&filter=roman&accent=no&transLit=roman) | 3 | بلا فجوات، كامل | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪अगार⟫ | [agāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agāra&filter=roman&accent=no&transLit=roman) | n | بيت، مسكن | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪अग्नि⟫ | [agni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agni&filter=roman&accent=no&transLit=roman) | — | نار، إله أغني | [2](/ar/lektionen/lektion02#_2-5-) |
+| ⟪अङ्ग⟫ | [aṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṅga&filter=roman&accent=no&transLit=roman) | n | عضو الجسم، جزء؛ أيضاً = vedāṅga = | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪अजिन⟫ | [ajina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ajina&filter=roman&accent=no&transLit=roman) | n | جلد غزال، خاصة جلد الغزال الأسود (غزال الحظية: _Antilope cervicapra_ L. ). كان موطنه في الأصل شبه القارة الهندية بأكملها | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪अञ्जलि⟫ | [añjali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añjali&filter=roman&accent=no&transLit=roman) | — | اليدين المرفوعتين معًا في علامة الاحترام | [36](/ar/lektionen/lektion36#_36-4-) |
-| ⟪अञ्ज्⟫ | [añj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añj&filter=roman&accent=no&transLit=roman) | 7P | يدهن، يدهن | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪अञ्ज्⟫ | [añj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añj&filter=roman&accent=no&transLit=roman) | 7P | يدهن، يطلي | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪अटवी⟫ | [aṭavī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṭavī&filter=roman&accent=no&transLit=roman) | — | مؤنث، غابة | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪अणु⟫ | [aṇu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṇu&filter=roman&accent=no&transLit=roman) | — | رقيق، دقيق، صغير جداً؛ م.: ذرة | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪अतस्⟫ | [atas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atas&filter=roman&accent=no&transLit=roman) | — | من هناك، إذن، لذلك، من هنا (جذر الضمير a- "هذا" + لاحقة المنصوب -tas) | [24](/ar/lektionen/lektion24#_24-4-) |
-| ⟪अति⟫ | [ati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ati&filter=roman&accent=no&transLit=roman) | — | فوق، فوق - عبر، فوق - خارج (في المكان، في الزمن، في العدد، في الكمية، في الترتيب، في القوة، في الشدة)، بشكل مفرط | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪अति⟫ | [ati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ati&filter=roman&accent=no&transLit=roman) | — | فوق، عبر، ما وراء (في المكان، في الزمن، بالعدد، بالكمية، في الترتيب، بالقوة، بالشدة)، بشكل مفرط | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪अतिथि⟫ | [atithi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atithi&filter=roman&accent=no&transLit=roman) | — | ضيف | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪अथवा⟫ | [athavā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=athavā&filter=roman&accent=no&transLit=roman) | — | أو (مُقدَّمة) | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪अद्य⟫ | [adya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adya&filter=roman&accent=no&transLit=roman) | — | اليوم | [48](/ar/lektionen/lektion48#_48-4-) |
@@ -36,6 +41,7 @@ outline: 2
 | ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | بعد، على طول، فوق - نحو، طولا، وفقا، إضافة، خلف - من | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | يُحاكي، يُقلّد | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | يتبع شخصًا، يمشي على طول | [36](/ar/lektionen/lektion36#_36-4-) |
+| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | كذب، زيف (مقابل satya) | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | — | عدم الخبث | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | كثيرون (ليس بضعف) | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | — | نهاية، حد | [18](/ar/lektionen/lektion18#_18-4-) |
@@ -68,7 +74,9 @@ outline: 2
 | ⟪अविद्या⟫ | [avidyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avidyā&filter=roman&accent=no&transLit=roman) | — | جهل، عدم المعرفة | [5](/ar/lektionen/lektion05#_5-4-) |
 | ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | خالٍ من الهم؛ شجرة الأشوكا = _Saraca asoca_ (روكسب.) وايلد؛ اسم الإمبراطور أشوكا ( ) (حوالي 304 – 232 ق.م.) | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | يأكل، يستهلك | [30](/ar/lektionen/lektion30#_30-6-) |
+| ⟪अश् अश्नुते⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | — | يصل، يبلغ، ينال | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | داكن، أسود | [20](/ar/lektionen/lektion20#_20-9-) |
+| ⟪असुर⟫ | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asura&filter=roman&accent=no&transLit=roman) | — | شيطان | [13](/ar/lektionen/lektion13#_13-9-) |
 | ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | — | "هوية الذات"، أي الاعتقاد (الخاطئ) القائل: أنا من يرى وما إلى ذلك | [3](/ar/lektionen/lektion03#_3-6-) |
 | ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | f | عدم إلحاق الأذى بالآخرين، عدم الإيذاء، عدم العنف | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | يقول، يتحدث | [36](/ar/lektionen/lektion36#_36-4-) |
@@ -90,6 +98,7 @@ outline: 2
 | ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | الفلسفة (العلم الذي يصل إلى استنتاجاته من خلال تبريرات منطقية صحيحة) | [3](/ar/lektionen/lektion03#_3-6-) |
 | ⟪आपण⟫ | [āpaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpaṇa&filter=roman&accent=no&transLit=roman) | — | سوق | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪आपान⟫ | [āpāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpāna&filter=roman&accent=no&transLit=roman) | — | وليمة الخمر | [51](/ar/lektionen/lektion51#_51-6-) |
+| ⟪आप् आप्नोति⟫ | [āp](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āp&filter=roman&accent=no&transLit=roman) | — | يصل، ينال | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪आम्⟫ | [ām](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ām&filter=roman&accent=no&transLit=roman) | — | نعم | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪आर्य⟫ | [ārya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ārya&filter=roman&accent=no&transLit=roman) | 3 | آري، نبيل؛ م. آري (التسمية الذاتية للهنود القدماء الناطقين بالسنسكريتية، حرفياً: كريم الضيافة (ثيمي))؛ نبيل، رجل شريف | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪आश्रम⟫ | [āśrama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āśrama&filter=roman&accent=no&transLit=roman) | — | العزلة، مرحلة الحياة، فترة الحياة (أي كـ ، ، وربما كـ ؛ انظر باشام، المعجزة ص 159 وما بعدها.) | [20](/ar/lektionen/lektion20#_20-9-) |
@@ -143,13 +152,15 @@ outline: 2
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | — | دورة دورية، موسم، فترة زمنية، حيض، وقت تكون فيه المرأة قادرة على الحمل ولها حق الجماع مع زوجها | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | ينمو | [20](/ar/lektionen/lektion20#_20-9-) |
+| ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | حكيم فيدي، مؤلف أغاني فيدية | [10](/ar/lektionen/lektion10#_10-5-) |
 
 ## ए
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | في مكان واحد | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يؤكد ما سبق، ويتوافق في الألمانية غالبًا مع التوكيد، وهو نوع من الرموز التعبيرية \&lt;!\&gt;، مثلًا "الحقيقة فقط تنتصر"، | [15](/ar/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يشدد الكلمة السابقة | [13](/ar/lektionen/lektion13#_13-9-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يؤكد ما سبق، ويتوافق في الألمانية غالبًا مع التوكيد، وهو نوع من الرموز التعبيرية \<!\>، مثلًا "الحقيقة فقط تنتصر"، | [15](/ar/lektionen/lektion15#_15-8-) |
 
 ## ओ
 
@@ -168,7 +179,8 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪कदली⟫ | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kadalī&filter=roman&accent=no&transLit=roman) | f | شجرة الموز (_Musa_ sp.) | [52](/ar/lektionen/lektion52#_52-7-) |
-| ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | f | فتاة صغيرة، ابنة، عذراء | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | — | فتاة صغيرة، ابنة، عذراء | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪कपि⟫ | [kapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kapi&filter=roman&accent=no&transLit=roman) | m | قرد | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪कम्⟫ | [kam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kam&filter=roman&accent=no&transLit=roman) | 10Ā | يحب | [28](/ar/lektionen/lektion28#_28-10-) |
 | ⟪कर⟫ | [kara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kara&filter=roman&accent=no&transLit=roman) | — | فاعل، صانع، مسبب | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪करुणा⟫ | [karuṇā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=karuṇā&filter=roman&accent=no&transLit=roman) | — | التعاطف، الشفقة | [3](/ar/lektionen/lektion03#_3-6-) |
@@ -187,14 +199,17 @@ outline: 2
 | ⟪कियत्⟫ | [kiyat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kiyat&filter=roman&accent=no&transLit=roman) | 3 | كم كبير | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪किल्बिष⟫ | [kilbiṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kilbiṣa&filter=roman&accent=no&transLit=roman) | n | ذنب، إهانة، خطيئة | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪कु⟫ | [ku](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ku&filter=roman&accent=no&transLit=roman) | — | كجزء أمامي من المركبات: سيء | [50](/ar/lektionen/lektion50#_50-2-) |
+| ⟪कुप् कुप्यति⟫ | [kup](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kup&filter=roman&accent=no&transLit=roman) | — | يغضب | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪कुप्य⟫ | [kupya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kupya&filter=roman&accent=no&transLit=roman) | n | منتج الغابات، المعدن (ليس معدنًا ثمينًا) | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | m | أمير | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | — | طفل، شاب، أمير؛ لقب لـ / موروكان = முருகன் = മുരുകന്‍ / سوبراهمانيا = ಸುಬ್ರಹ್ಮಣ್ಯ | [48](/ar/lektionen/lektion48#_48-4-) |
+| ⟪कुमारी⟫ | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumārī&filter=roman&accent=no&transLit=roman) | f | الفتاة، العذراء | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪कुमारी⟫ | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumārī&filter=roman&accent=no&transLit=roman) | — | فتاة، ابنة | [48](/ar/lektionen/lektion48#_48-4-) |
 | ⟪कुल⟫ | [kula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kula&filter=roman&accent=no&transLit=roman) | n | القطيع، الحشد، الجنس، النسب، العائلة | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪कृ⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | ينحني، يعبد، يرحب | [24](/ar/lektionen/lektion24#_24-4-) |
+| ⟪कृ करोति⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | يصنع، يفعل | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪कृतम्⟫ | [kṛtam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtam&filter=roman&accent=no&transLit=roman) | — | = "لقد انتهى الغضب = توقف عن الغضب!" | [24](/ar/lektionen/lektion24#_24-4-) |
-| ⟪केवलम्⟫ | [kevalam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kevalam&filter=roman&accent=no&transLit=roman) | — | فقط، وحسب، كلياً | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪केवलम्⟫ | [kevalam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kevalam&filter=roman&accent=no&transLit=roman) | — | فقط، وحده، تماماً | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | 3 | خبير في () | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪कौमर⟫ | [kaumara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kaumara&filter=roman&accent=no&transLit=roman) | — | طفولة | [48](/ar/lektionen/lektion48#_48-4-) |
 | ⟪कौशिक⟫ | [kauśika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kauśika&filter=roman&accent=no&transLit=roman) | — | بومة | [51](/ar/lektionen/lektion51#_51-6-) |
@@ -202,6 +217,7 @@ outline: 2
 | ⟪क्रा⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | sig[] | [35](/ar/lektionen/lektion35#_35-4-) |
 | ⟪क्रिया⟫ | [kriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kriyā&filter=roman&accent=no&transLit=roman) | f | فعل، فعل مقدس، ذبيحة، طقس (إلى 8) | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪क्री⟫ | [krī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krī&filter=roman&accent=no&transLit=roman) | 9U | يشتري | [30](/ar/lektionen/lektion30#_30-6-) |
+| ⟪क्रुध् क्रुध्यति⟫ | [krudh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krudh&filter=roman&accent=no&transLit=roman) | — | يغضب | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪क्रूर⟫ | [krūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krūra&filter=roman&accent=no&transLit=roman) | 3 | خام، وحشي | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪क्रोध⟫ | كرودها | — | الغضب | [5](/ar/lektionen/lektion05#_5-4-) |
 | ⟪क्लेश⟫ | [kleśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kleśa&filter=roman&accent=no&transLit=roman) | m | ألم، بلاغة | [5](/ar/lektionen/lektion05#_5-4-) |
@@ -217,6 +233,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪खन्⟫ | [khan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khan&filter=roman&accent=no&transLit=roman) | 1U | يحفر | [51](/ar/lektionen/lektion51#_51-6-) |
+| ⟪खाद् खादति⟫ | [khād](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khād&filter=roman&accent=no&transLit=roman) | — | يمضغ، يأكل | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪खिल⟫ | [khila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khila&filter=roman&accent=no&transLit=roman) | m | حقل براري، أرض قاحلة | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪ख्या⟫ | [khyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khyā&filter=roman&accent=no&transLit=roman) | 2P | يرى، يصبح مرئياً؛ يسمّي، يشرح، يبلّغ | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪ख्या⟫ | [khyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khyā&filter=roman&accent=no&transLit=roman) | 2P | رفض، احتقر | [44](/ar/lektionen/lektion44#_44-5-) |
@@ -225,12 +242,15 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
+| ⟪गज⟫ | [gaja](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gaja&filter=roman&accent=no&transLit=roman) | m | فيل | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪गम्⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | — | يلتقي، يصل إلى، يحصل على | [20](/ar/lektionen/lektion20#_20-9-) |
+| ⟪गम् गच्छति⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | — | يمشي (ينتمي وفقاً لتصنيف الأفعال المحلي إلى صنف Present 1، لكنه في الواقع تشكيل مع لاحقة تكوين جذر المضارع -ccha-: gam » | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪गर्भ⟫ | [garbha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbha&filter=roman&accent=no&transLit=roman) | — | "الداخل"، مثلاً | [19](/ar/lektionen/lektion19#_19-3-) |
 | ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | فولفاسن، أ.: الهند: مباني الهندوس والبوذييين والجاين. -- ميونخ، 1968) | [19](/ar/lektionen/lektion19#_19-3-) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | محمي، محفوظ | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | ثقيل، مهم، جدير بالتبجيل | [2](/ar/lektionen/lektion02#_2-5-) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | — | مؤنث zu guru | [3](/ar/lektionen/lektion03#_3-6-) |
+| ⟪गृह⟫ | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛha&filter=roman&accent=no&transLit=roman) | n | منزل | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | موجود في المنزل؛ م. رب المنزل (شخص يوجد في الـ 2. ) | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | يغني، يردّد بنبرة غنائية، يعلن في خطاب مقفى | [35](/ar/lektionen/lektion35#_35-4-) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | إعطاء الأبقار / بقرة؛ طقس قص الشعر الثاني () | [25](/ar/lektionen/lektion25#_25-5-) |
@@ -238,6 +258,7 @@ outline: 2
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | — | الإمساك، الآخذ، التمساح، الكوكب المتجول | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | الإمساك | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : يمسك، يمسك، يمسك | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | قرية | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | يشعر بالامتناع، يتلاشى | [36](/ar/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -284,11 +305,12 @@ outline: 2
 | ⟪जव⟫ | [java](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=java&filter=roman&accent=no&transLit=roman) | 3 | سريع، مستعجل | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪जाति⟫ | [jāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāti&filter=roman&accent=no&transLit=roman) | f | ولادة، نوع، طبقة (لمزيد من المعلومات حول كطبقة، انظر باشام، عجائب، ص 148 وما بعدها) | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪जाया⟫ | [jāyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāyā&filter=roman&accent=no&transLit=roman) | f | زوجة | [48](/ar/lektionen/lektion48#_48-4-) |
+| ⟪जि जयति⟫ | [ji](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ji&filter=roman&accent=no&transLit=roman) | — | يغلب، يهزم | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪जीव⟫ | [jīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīva&filter=roman&accent=no&transLit=roman) | — | حياة، الروح الفردية | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | — | يعيش | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | 1P | يعيش | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | 9U | يعرف، يتعرف، يعلم، يفهم | [30](/ar/lektionen/lektion30#_30-6-) |
-| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | 9U | يدرك، يفهم | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | 9U | أن يدرك، يفهم | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | — | يجيز، يعد؛ Ā: يجيب، يؤكد، يزعم، يدرك | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪ज्ञा⟫ | [jñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñā&filter=roman&accent=no&transLit=roman) | — | يأمر، يوجّه | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪ज्ञाति⟫ | [jñāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jñāti&filter=roman&accent=no&transLit=roman) | — | قريب (القرابة هي من يعرفهم!) | [30](/ar/lektionen/lektion30#_30-6-) |
@@ -302,6 +324,7 @@ outline: 2
 | ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | الجوهر الحقيقي، الحقيقة، الواقع ( + = هذه-ية) | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪तनु⟫ | [tanu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanu&filter=roman&accent=no&transLit=roman) | — | نحيف | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪तनूकृ⟫ | [tanūkṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanūkṛ&filter=roman&accent=no&transLit=roman) | — | يقلل، يضعف | [20](/ar/lektionen/lektion20#_20-9-) |
+| ⟪तन् तनोति⟫ | [tan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tan&filter=roman&accent=no&transLit=roman) | — | يمدد | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪तन्त्र⟫ | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tantra&filter=roman&accent=no&transLit=roman) | — | وتر، نول النسيج، سلسلة النسيج، نسيج؛ أساس، معيار، قاعدة؛ تعليم، عمل تعليمي؛ تانترا؛ صيغة سحرية؛ وسيلة، حيلة، دواء؛ حكومة | [48](/ar/lektionen/lektion48#_48-4-) |
 | ⟪तरय⟫ | [taraya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=taraya&filter=roman&accent=no&transLit=roman) | 3 | ثلاثي، مكون من ثلاثة أجزاء | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪तर्हि⟫ | [tarhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tarhi&filter=roman&accent=no&transLit=roman) | — | آنذاك، إذن؛ لذلك، إذن | [43](/ar/lektionen/lektion43#_43-4-) |
@@ -310,6 +333,7 @@ outline: 2
 | ⟪तीक्ष्ण⟫ | [tīkṣṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīkṣṇa&filter=roman&accent=no&transLit=roman) | 3 | "بري"، حاد، مدبب، صارم، عنيف، حاد اللسان | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪तीर्थ⟫ | [tīrtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrtha&filter=roman&accent=no&transLit=roman) | — | معبر، مكان غسيل مقدس، مكان حج | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪तीर्थङ्कर⟫ | [tīrthaṅkara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrthaṅkara&filter=roman&accent=no&transLit=roman) | — | صانع الجسور (عبر المعاناة) = أساتذة الجاينية الـ 24 | [40](/ar/lektionen/lektion40#_40-6-) |
+| ⟪तु⟫ | [tu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tu&filter=roman&accent=no&transLit=roman) | — | لكن (تأتي بعد الكلمة الأولى من الجملة أو الجزء المعاكس) | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪तुद्⟫ | [tud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tud&filter=roman&accent=no&transLit=roman) | 6U | يضرب | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪तुल्⟫ | [tul](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tul&filter=roman&accent=no&transLit=roman) | — | وزن | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪तुल्य⟫ | [tulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tulya&filter=roman&accent=no&transLit=roman) | 3 | متساوٍ، قابل للمقارنة () | [51](/ar/lektionen/lektion51#_51-6-) |
@@ -343,6 +367,7 @@ outline: 2
 | ⟪दिष्टि⟫ | [diṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diṣṭi&filter=roman&accent=no&transLit=roman) | f | توجيه، حظ سعيد | [17](/ar/lektionen/lektion17#_17-6-) |
 | ⟪दिष्ट्या⟫ | [diṣṭyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diṣṭyā&filter=roman&accent=no&transLit=roman) | — | (حرفياً: عن طريق مصادفة سعيدة) أيا مصادفة سعيدة (تعجب بالفرح والسعادة) | [17](/ar/lektionen/lektion17#_17-6-) |
 | ⟪दिह्⟫ | [dih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dih&filter=roman&accent=no&transLit=roman) | 2U | يدهن، يدهن | [51](/ar/lektionen/lektion51#_51-6-) |
+| ⟪दुःख⟫ | [duḥkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duḥkha&filter=roman&accent=no&transLit=roman) | n | الشقاء، المعاناة | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪दुहितृ⟫ | [duhitṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duhitṛ&filter=roman&accent=no&transLit=roman) | — | ابنة | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪दुह्⟫ | [duh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duh&filter=roman&accent=no&transLit=roman) | — | حَلَبَ | [17](/ar/lektionen/lektion17#_17-6-) |
 | ⟪दूत⟫ | [dūta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dūta&filter=roman&accent=no&transLit=roman) | — | رسول، مبعوث | [42](/ar/lektionen/lektion42#_42-2-) |
@@ -387,8 +412,10 @@ outline: 2
 | ⟪नमस्⟫ | [namas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=namas&filter=roman&accent=no&transLit=roman) | n | انحناء، عبادة، تحية (الإعراب لاحقاً). عبارة التحيّة | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | — | يَثْنِي | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | ينحني، يتحني، يميل، يسجد | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪नरक⟫ | [naraka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naraka&filter=roman&accent=no&transLit=roman) | m | جحيم (وفقاً لإحدى المفاهيم الهندوسية، الكون له شكل بيضة (Brahmāṇḍa m.n. = = "بيضة براهما"): فوق الأرض ست سماوات مع زيادة | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | — | الكواكب التسعة المتجولة (وليس الكواكب الثابتة!) (انظر باشام، المعجزة ص. 493) | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | يضيع، يهلك، يختفي | [35](/ar/lektionen/lektion35#_35-4-) |
+| ⟪नाग⟫ | [nāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāga&filter=roman&accent=no&transLit=roman) | m | العاري، الفيل، الثعبان (الفيل والثعبان ليس لهما فراء، وكذلك "القرد العاري" الإنسان) | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | — | مؤخر | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | — | اسم | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | نحو الأسفل، إلى أسفل، إلى الداخل، إلى الخلف | [20](/ar/lektionen/lektion20#_20-9-) |
@@ -403,6 +430,7 @@ outline: 2
 | ⟪निषेक⟫ | [niṣeka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=niṣeka&filter=roman&accent=no&transLit=roman) | — | رشّ، إخصاب، سائل، مني، طقس الإخصاب | [50](/ar/lektionen/lektion50#_50-2-) |
 | ⟪निस्⟫ | [nis](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nis&filter=roman&accent=no&transLit=roman) | — | خارج، بعيداً، من الداخل، بارزاً، من، بعيداً، بدون - من | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪नी⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | يبعد، يعلّم، يربّي | [25](/ar/lektionen/lektion25#_25-5-) |
+| ⟪नृत्य⟫ | [nṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛtya&filter=roman&accent=no&transLit=roman) | n | رقص | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪नृप⟫ | [nṛpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛpa&filter=roman&accent=no&transLit=roman) | — | "حامي الرجال" = الملك | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪नृशंस्य⟫ | [nṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛśaṃsya&filter=roman&accent=no&transLit=roman) | — | شرّ، خسة | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪नोचेत्⟫ | [nocet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nocet&filter=roman&accent=no&transLit=roman) | — | إذا لم يكن، وإلا | [43](/ar/lektionen/lektion43#_43-4-) |
@@ -416,6 +444,8 @@ outline: 2
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | — | ذكي، ملمّ (بـ) | [19](/ar/lektionen/lektion19#_19-3-) |
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | حكيم، عاقل، متعلم | [50](/ar/lektionen/lektion50#_50-2-) |
 | ⟪पण्य⟫ | [paṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇya&filter=roman&accent=no&transLit=roman) | 3 | مقابل المال؛ اسم مؤنث: بضاعة، تجارة | [43](/ar/lektionen/lektion43#_43-4-) |
+| ⟪पत् पतति⟫ | [pat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pat&filter=roman&accent=no&transLit=roman) | — | يسقط، يطير | [8](/ar/lektionen/lektion08#_8-5-) |
+| ⟪पत्रिका⟫ | [patrikā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=patrikā&filter=roman&accent=no&transLit=roman) | f | رسالة | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪पद⟫ | [pada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pada&filter=roman&accent=no&transLit=roman) | n | خطوة، موقع، مكان | [13](/ar/lektionen/lektion13#_13-9-) |
 | ⟪पर⟫ | [para](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=para&filter=roman&accent=no&transLit=roman) | 3 | (تصرف مثل ) بعيد، غريب، أعلى من ()، أقصى، أعلى؛ آخر، غريب، معادٍ؛ m.: غريب | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪परंपरा⟫ | [paraṃparā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paraṃparā&filter=roman&accent=no&transLit=roman) | f | سلسلة متواصلة | [52](/ar/lektionen/lektion52#_52-7-) |
@@ -426,11 +456,12 @@ outline: 2
 | ⟪परिनिर्वाण⟫ | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parinirvāṇa&filter=roman&accent=no&transLit=roman) | — | انطفاء تام، خلاص تام (في نهاية حياة بوذا أو أرهانت) | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪परिव्राजक⟫ | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parivrājaka&filter=roman&accent=no&transLit=roman) | — | متجول، راهب متجول، حاج | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | حيوان أليف مُدَجَّج، ماشية (مجموعة) | [3](/ar/lektionen/lektion03#_3-6-) |
+| ⟪पश् पश्यति⟫ | [paś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paś&filter=roman&accent=no&transLit=roman) | — | يرى، يلمح (يُستخدم كجذر للزمن الحاضر بدلاً من الجذر dṛś 0 "يرى، يلمح") | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪पश्चात्ताप⟫ | [paścāttāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paścāttāpa&filter=roman&accent=no&transLit=roman) | m | الندم | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | يشرب (يُصنّف تقليدياً ضمن الفئة الأولى) | [13](/ar/lektionen/lektion13#_13-9-) |
 | ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | n | المحترم، المعلم، الجدير | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | قدم، جزء، بيت شعر | [13](/ar/lektionen/lektion13#_13-9-) |
-| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | ذنب، شر (عكس puṇya) | [10](/ar/lektionen/lektion10#_10-5-) |
+| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | فعل شرير، سوء (مقابل puṇya) | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | أيضًا متطابق في المعنى مع | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | الجد من جهة الأب | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | جدة من جهة الأب | [42](/ar/lektionen/lektion42#_42-2-) |
@@ -438,6 +469,7 @@ outline: 2
 | ⟪पितृव्य⟫ | [pitṛvya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛvya&filter=roman&accent=no&transLit=roman) | — | عم paternal | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪पिशित⟫ | [piśita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=piśita&filter=roman&accent=no&transLit=roman) | — | لحم (مُعدّ) | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪पीड्⟫ | [pīḍ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pīḍ&filter=roman&accent=no&transLit=roman) | 10P | يضغط، يعذب؛ يضيق، يحاصر، يزعج | [52](/ar/lektionen/lektion52#_52-7-) |
+| ⟪पुण्य⟫ | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṇya&filter=roman&accent=no&transLit=roman) | n | عمل صالح، استحقاق | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | ابن | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | مرة أخرى، مجدداً، رجوعاً، لكن | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | مرة أخرى، مرارًا وتكرارًا، رجوعًا، مرة ثانية؛ على العكس، لكن (قبل الأصوات المنطوقة باستثناء r-: ) | [29](/ar/lektionen/lektion29#_29-2-) |
@@ -457,6 +489,7 @@ outline: 2
 | ⟪पृष्ठम्⟫ | [pṛṣṭham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭham&filter=roman&accent=no&transLit=roman) | — | خلف | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | يملأ، يُحقق | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | — | (إلى + ) الشكل الأساسي، الحالة الطبيعية، الطبيعة؛ المادة الأولية، العنصر الأولي | [42](/ar/lektionen/lektion42#_42-2-) |
+| ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | يسأل (شخصاً: مفعول به؛ عن شيء: مفعول به) | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | الإيجاد، الولادة، النسل | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪प्रजापति⟫ | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajāpati&filter=roman&accent=no&transLit=roman) | — | سيد المخلوقات، إله الخالق | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | — | الحكمة، المعرفة | [25](/ar/lektionen/lektion25#_25-5-) |
@@ -475,12 +508,18 @@ outline: 2
 | ⟪प्रिय⟫ | [priya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=priya&filter=roman&accent=no&transLit=roman) | — | حبيب، محب، ودّي | [30](/ar/lektionen/lektion30#_30-6-) |
 | ⟪प्री⟫ | [prī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prī&filter=roman&accent=no&transLit=roman) | 9U | يَسُرّ، يُبْهِج؛ يُحِبّ، يكون مائلًا لشخص ما | [36](/ar/lektionen/lektion36#_36-4-) |
 
+## फ
+
+| Sanskrit | IAST | Genus | Bedeutung | Lektion |
+|---|---|---|---|---|
+| ⟪फल⟫ | [phala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=phala&filter=roman&accent=no&transLit=roman) | n | ثمرة (أيضاً بالمعنى المجازي: ثمرة فعل (كارمية)) | [7](/ar/lektionen/lektion07#_7-6-) |
+
 ## ब
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪बन्दी⟫ | [bandī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandī&filter=roman&accent=no&transLit=roman) | f | أسيرة، غنيمة | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪बन्ध्⟫ | [bandh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandh&filter=roman&accent=no&transLit=roman) | 9P | يربط، يوثق | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪बन्ध्⟫ | [bandh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandh&filter=roman&accent=no&transLit=roman) | 9P | يربط، يشد | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪बलि⟫ | [bali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bali&filter=roman&accent=no&transLit=roman) | — | ضريبة، صدقة، جزية | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪बाण⟫ | [bāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāṇa&filter=roman&accent=no&transLit=roman) | m | سهم، هدف | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | ضيق، بلا، عذاب | [20](/ar/lektionen/lektion20#_20-9-) |
@@ -496,7 +535,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪भक्ति⟫ | [bhakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhakti&filter=roman&accent=no&transLit=roman) | — | الحب والاحترام لإله شخصي. انظر باشام، العجيب ص 332ف.) | [21](/ar/lektionen/lektion21#_21-4-) |
-| ⟪भञ्ज्⟫ | [bhañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhañj&filter=roman&accent=no&transLit=roman) | 7P | (شيء ما) يتكسر | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪भञ्ज्⟫ | [bhañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhañj&filter=roman&accent=no&transLit=roman) | 7P | (شيئاً) يكسر | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪भद्र⟫ | [bhadra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhadra&filter=roman&accent=no&transLit=roman) | 3 | جيد، سعيد؛ منادى: يا حبيبي! | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪भय⟫ | [bhaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhaya&filter=roman&accent=no&transLit=roman) | n | خوف، رهبة؛ خطر (الجانب الذاتي والجانب الموضوعي) | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪भर्तृ⟫ | [bhartṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhartṛ&filter=roman&accent=no&transLit=roman) | — | حافظ، مغذ، زوج | [42](/ar/lektionen/lektion42#_42-2-) |
@@ -507,11 +546,10 @@ outline: 2
 | ⟪भावना⟫ | [bhāvanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhāvanā&filter=roman&accent=no&transLit=roman) | f | التطور التأملي (إلى صيغة السببية) | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪भिक्षा⟫ | [bhikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣā&filter=roman&accent=no&transLit=roman) | f | الطعام المُتبرع به، صدقة التبرع | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪भिक्ष्⟫ | [bhikṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhikṣ&filter=roman&accent=no&transLit=roman) | — | يتسول | [21](/ar/lektionen/lektion21#_21-4-) |
-| ⟪भिद्⟫ | [bhid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhid&filter=roman&accent=no&transLit=roman) | 7U | يقسم | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪भिद्⟫ | [bhid](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhid&filter=roman&accent=no&transLit=roman) | 7U | يشق | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪भी⟫ | [bhī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhī&filter=roman&accent=no&transLit=roman) | 3P | يخاف من (بالمنصوب أو المضاف إليه) | [33](/ar/lektionen/lektion33#_33-6-) |
 | ⟪भुजंग⟫ | [bhujaṃga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṃga&filter=roman&accent=no&transLit=roman) | — | ثعبان | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪भुजङ्ग⟫ | [bhujaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhujaṅga&filter=roman&accent=no&transLit=roman) | m | ثعبان | [41](/ar/lektionen/lektion41#_41-3-) |
-| ⟪भुज्⟫ | [bhuj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhuj&filter=roman&accent=no&transLit=roman) | 7U | يستمتع (مثلاً بالطعام؛ "الاستمتاع بالأرض" = السيطرة على الأرض) | [31](/ar/lektionen/lektion31#_31-2-) |
+| ⟪भुज्⟫ | [bhuj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhuj&filter=roman&accent=no&transLit=roman) | 7U | يستمتع بـ (مثل الطعام؛ "الاستمتاع بالأرض" = حكم الأرض) | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | (يصبحون حول شخص ما = يحيطون به =) يسيطرون، يهزمون؛ يتجاهلون، يحتقرون | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | 1P | ينشأ، يوجد | [31](/ar/lektionen/lektion31#_31-2-) |
 | ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | — | يحيط، يسيطر، يهزم | [46](/ar/lektionen/lektion46#_46-2-) |
@@ -559,6 +597,7 @@ outline: 2
 | ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | الفرح، وتحديداً السرور المشترك (عكس الحسد) | [3](/ar/lektionen/lektion03#_3-6-) |
 | ⟪मुनि⟫ | [muni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muni&filter=roman&accent=no&transLit=roman) | — | حكيم، (صامت) زاهد | [37](/ar/lektionen/lektion37#_37-9-) |
 | ⟪मूर्ख⟫ | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūrkha&filter=roman&accent=no&transLit=roman) | 3 | غبي، أحمق، أبله م. أحمق | [37](/ar/lektionen/lektion37#_37-9-) |
+| ⟪मूर्ख⟫ | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūrkha&filter=roman&accent=no&transLit=roman) | — | ثعبان | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪मूल⟫ | [mūla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūla&filter=roman&accent=no&transLit=roman) | — | جذر | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪मूल्य⟫ | [mūlya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūlya&filter=roman&accent=no&transLit=roman) | n | قيمة، سعر | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪मृ⟫ | [mṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛ&filter=roman&accent=no&transLit=roman) | — | يموت (وفقاً للنحائيين الهنود: 4 Ā) | [15](/ar/lektionen/lektion15#_15-8-) |
@@ -574,6 +613,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
+| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | ذبيحة | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | يسعون نحو (، ، ) | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | m | جهد، كدّ | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | — | كيف، وكأن | [29](/ar/lektionen/lektion29#_29-2-) |
@@ -598,6 +638,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪रक्त⟫ | [rakta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakta&filter=roman&accent=no&transLit=roman) | — | ملون، أحمر | [20](/ar/lektionen/lektion20#_20-9-) |
+| ⟪रक्ष् रक्षति⟫ | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakṣ&filter=roman&accent=no&transLit=roman) | — | يحرس | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪रभ्⟫ | [rabh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rabh&filter=roman&accent=no&transLit=roman) | 1Ā | أن يمسك، أن يمس | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪रम्⟫ | [ram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ram&filter=roman&accent=no&transLit=roman) | 1Ā | الوقوف، الراحة، المكث؛ السرور، التلذذ | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | — | سرّ، عزلة | [50](/ar/lektionen/lektion50#_50-2-) |
@@ -620,7 +661,9 @@ outline: 2
 |---|---|---|---|---|
 | ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | n | سمة، علامة، خاصية | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | خفيف (ليس ثقيلًا، ليس صعبًا)، سريع، قصير (في التعبير) | [48](/ar/lektionen/lektion48#_48-4-) |
+| ⟪लभ् लभते⟫ | [labh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=labh&filter=roman&accent=no&transLit=roman) | — | يمسك، يحصل على، يستحوذ | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪लम्ब्⟫ | [lamb](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lamb&filter=roman&accent=no&transLit=roman) | 1Ā | يتدلى من ()، يتعلّق بـ () | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪लिख् लिखति⟫ | [likh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=likh&filter=roman&accent=no&transLit=roman) | — | ينقش، يكتب (في الأصل باستخدام الإبرة على ورقة نخيل، ثم أصبح عاماً) | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | يدهن، يدهن | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | — | (مؤنث) طلاء، كتابة، نص | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | مزحة، لعب | [42](/ar/lektionen/lektion42#_42-2-) |
@@ -637,6 +680,7 @@ outline: 2
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | — | عجل، صغير، طفل ؛ منادى: يا حبيبي | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | يرحّب رسمياً، يخاطب | [36](/ar/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | يُعيد القول = يجيب | [44](/ar/lektionen/lektion44#_44-5-) |
+| ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | يقول، يتحدث | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | — | غابة | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | — | جمال، هيئة الجسد (انظر التصريف لاحقًا) | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | الأفضل | [43](/ar/lektionen/lektion43#_43-4-) |
@@ -680,7 +724,7 @@ outline: 2
 | ⟪विवाह⟫ | [vivāha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vivāha&filter=roman&accent=no&transLit=roman) | — | إبعاد، زواج امرأة (بالأداة Instr.، saha) (للزواج انظر باشام، عجائب ص 166 -171) | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | — | خاصية، تحديد، differentia specifica | [23](/ar/lektionen/lektion23#_23-4-) |
 | ⟪विशेष⟫ | [viśeṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viśeṣa&filter=roman&accent=no&transLit=roman) | m | فرق، خصوصية | [48](/ar/lektionen/lektion48#_48-4-) |
-| ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | n | سم | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | — | سمّ | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪विष⟫ | [viṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣa&filter=roman&accent=no&transLit=roman) | — | سمّ | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪विषम⟫ | [viṣama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣama&filter=roman&accent=no&transLit=roman) | 3 | غير متساوٍ، غير مستوٍ، شرير | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪विषय⟫ | [viṣaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viṣaya&filter=roman&accent=no&transLit=roman) | — | منطقة، مجال، موضوع، موضوع حسي | [20](/ar/lektionen/lektion20#_20-9-) |
@@ -716,25 +760,27 @@ outline: 2
 | ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | — | صوت، نغمة، صوت إشارة: كلمة | [18](/ar/lektionen/lektion18#_18-4-) |
 | ⟪शयन⟫ | [śayana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śayana&filter=roman&accent=no&transLit=roman) | n | سرير، فراش | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪शर⟫ | [śara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śara&filter=roman&accent=no&transLit=roman) | m | سهم، ساق السهم | [42](/ar/lektionen/lektion42#_42-2-) |
-| ⟪शरण⟫ | [śaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaraṇa&filter=roman&accent=no&transLit=roman) | 3 | يحمي، يستر؛ م. حماية، ملجأ، اللجوء إلى | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪शरण⟫ | [śaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaraṇa&filter=roman&accent=no&transLit=roman) | 3 | واقٍ، حامي؛ م. حماية، ملجأ، اللجوء إلى | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪शर्करा⟫ | [śarkarā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śarkarā&filter=roman&accent=no&transLit=roman) | f | سكر (كلمة "Zucker" الألمانية تعود عبر الإيطالية "zucchero"، ومن ثم عبر العربية "سُكَّر" والفارسية "شکر" إلى Sanskrit !) | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪शस्त्र⟫ | [śastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śastra&filter=roman&accent=no&transLit=roman) | — | أداة قطع، سلاح قطع، سيف، سلاح | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪शाक्यमुनि⟫ | [śākyamuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śākyamuni&filter=roman&accent=no&transLit=roman) | — | متصوف من عشيرة (كشاتريات من ) = بوذا غوتاما | [37](/ar/lektionen/lektion37#_37-9-) |
-| ⟪शासना⟫ | [śāsanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāsanā&filter=roman&accent=no&transLit=roman) | f | مرسوم ملكي، تعليم، دين | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪शासना⟫ | [śāsanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāsanā&filter=roman&accent=no&transLit=roman) | — | مرسوم ملكي، تعليم، دين | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪शास्⟫ | [śās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śās&filter=roman&accent=no&transLit=roman) | 2P | يأمر، يعلّم، يعاقب | [25](/ar/lektionen/lektion25#_25-5-) |
-| ⟪शास्⟫ | [śās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śās&filter=roman&accent=no&transLit=roman) | 2P | يعيد إلى الصواب، يسيطر، يأمر، يعلّم | [41](/ar/lektionen/lektion41#_41-3-) |
-| ⟪शास्त्र⟫ | [śāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāstra&filter=roman&accent=no&transLit=roman) | n | تعاليم، عمل تعليمي | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪शास्⟫ | [śās](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śās&filter=roman&accent=no&transLit=roman) | 2P | يعنف، يسيطر، يأمر، يعلّم | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪शास्त्र⟫ | [śāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāstra&filter=roman&accent=no&transLit=roman) | — | تعليم، مؤلف تعليمي | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪शास्त्रिन्⟫ | [śāstrin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śāstrin&filter=roman&accent=no&transLit=roman) | — | متعلم، عالم | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪शिक्षा⟫ | [śikṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śikṣā&filter=roman&accent=no&transLit=roman) | f | علم، تعليم؛ صوتيات | [25](/ar/lektionen/lektion25#_25-5-) |
 | ⟪शिवा⟫ | [śivā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śivā&filter=roman&accent=no&transLit=roman) | — | (أنثى) ذئب بناء (ذئب بناء ذهبي = _Canis aureus_) | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | يترك، يترك وراءه | [51](/ar/lektionen/lektion51#_51-6-) |
-| ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | المراد بالتعليم = التلميذ | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | المراد تعليمه = تلميذ | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | يستلقي. لهذه الجذر في جميع أشكال جذم المضارع درجة عالية: 1.sg.Ind.Präs.Ā :sig[] (śe + e). الأشكال التالية تستحق الانتباه | [44](/ar/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | سريع، بسرعة | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | — | عادة، جيرة، طبيعة، طبع، عادة حسنة = أخلاق | [52](/ar/lektionen/lektion52#_52-7-) |
+| ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | ببغاء | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | لامع، متلألئ، دقيق؛ م.: النقاء | [29](/ar/lektionen/lektion29#_29-2-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | مشع، نقي، واضح | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪शुच्⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | 1P | (يشتعل، يتألق) ; يحزن، ينعى | [38](/ar/lektionen/lektion38#_38-9-) |
+| ⟪शुच् शोचति⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | — | يرثي، يحزن | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | m | śūdra (طبقة الخدم) | [2](/ar/lektionen/lektion02#_2-5-) |
 | ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | — | شُودْرِيَّة | [3](/ar/lektionen/lektion03#_3-6-) |
 | ⟪शूद्री⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | — | زوجة شودرا | [3](/ar/lektionen/lektion03#_3-6-) |
@@ -745,6 +791,7 @@ outline: 2
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | تطهير، طهارة | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : يتعب، يتعب | [46](/ar/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | يَميل، يَتكئ، يجد الدَّعْم، يتوجَّه إلى شخصٍ ما (، ) | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪श्रु शृणोति⟫ | [śru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śru&filter=roman&accent=no&transLit=roman) | — | يسمع (شيء: مفعول به مباشر، شخصاً: مجرور أو مفعول به مباشر؛ عن: مفعول به مباشر؛ من شخص: مجرور، منفصل، أداة) | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | السمع، التقليد الأبدي (مصطلح يشير إلى الفيدا والبراهمنا) | [3](/ar/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | — | تاجر ثري | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪श्रोणि⟫ | [śroṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śroṇi&filter=roman&accent=no&transLit=roman) | — | مؤخر | [20](/ar/lektionen/lektion20#_20-9-) |
@@ -762,9 +809,10 @@ outline: 2
 | ⟪संयक्⟫ | [saṃyak](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃyak&filter=roman&accent=no&transLit=roman) | — | صحيح، حقاً، بالطريقة الملائمة؛ تماماً، كلياً | [50](/ar/lektionen/lektion50#_50-2-) |
 | ⟪सकाश⟫ | [sakāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sakāśa&filter=roman&accent=no&transLit=roman) | m | الحضور، الحاضرون | [42](/ar/lektionen/lektion42#_42-2-) |
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | — | الالتصاق بـ، الملامسة مع () | [46](/ar/lektionen/lektion46#_46-2-) |
-| ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (إلى - : ضرب معًا): مجموعة، حشد، جماعة (مثل الجماعة البوذية) | [41](/ar/lektionen/lektion41#_41-3-) |
+| ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | — | (إلى - : ضرب معاً): مجموعة، حشد، جماعة (مثل البوذية) | [41](/ar/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | يتعلّق، يلتصق | [48](/ar/lektionen/lektion48#_48-4-) |
 | ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : يعلق، يلتصق بـ () | [46](/ar/lektionen/lektion46#_46-2-) |
+| ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | حقيقة | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | سريع، مستعجل | [43](/ar/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | يجلس، يستقر | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : يجلس | [46](/ar/lektionen/lektion46#_46-2-) |
@@ -779,6 +827,7 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | متساوٍ | [23](/ar/lektionen/lektion23#_23-4-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | من نفس النوع، متساوٍ، مشابه؛ م.: قرين في العمر | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | كل، الجميع | [50](/ar/lektionen/lektion50#_50-2-) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | معاً، بالاشتراك مع (أيضاً في سياق "يقاتل مع" وما إلى ذلك) (حرف جر يتبع أداة التعيين) | [10](/ar/lektionen/lektion10#_10-5-) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | مُتَّحِد، مُزَوَّد بِـ | [18](/ar/lektionen/lektion18#_18-4-) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | — | يؤدي إلى الهدف، مُحدث | [16](/ar/lektionen/lektion16#_16-2-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | صحيح، جيد | [2](/ar/lektionen/lektion02#_2-5-) |
@@ -787,8 +836,11 @@ outline: 2
 | ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | المساواة، التطابق | [23](/ar/lektionen/lektion23#_23-4-) |
 | ⟪सायक⟫ | [sāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāyaka&filter=roman&accent=no&transLit=roman) | — | سهم | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪सार⟫ | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāra&filter=roman&accent=no&transLit=roman) | m | لب، نواة، جوهر، مادة | [52](/ar/lektionen/lektion52#_52-7-) |
+| ⟪सारथि⟫ | [sārathi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sārathi&filter=roman&accent=no&transLit=roman) | m | قائد العربة، السائق | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | — | أسد (_Panthera leo persica_) | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | حد | [38](/ar/lektionen/lektion38#_38-9-) |
+| ⟪सु सुनोति⟫ | [su](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=su&filter=roman&accent=no&transLit=roman) | — | يعصر | [7](/ar/lektionen/lektion07#_7-6-) |
+| ⟪सुख⟫ | [sukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sukha&filter=roman&accent=no&transLit=roman) | n | السعادة، الرفاهية | [8](/ar/lektionen/lektion08#_8-5-) |
 | ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | — | ابن | [38](/ar/lektionen/lektion38#_38-9-) |
 | ⟪सुप्ति⟫ | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=supti&filter=roman&accent=no&transLit=roman) | — | نوم، خاصة النوم العميق | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | ممدوح، ممتاز، جيد | [18](/ar/lektionen/lektion18#_18-4-) |
@@ -797,6 +849,7 @@ outline: 2
 | ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | — | شمس | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪सेवा⟫ | [sevā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sevā&filter=roman&accent=no&transLit=roman) | f | خدمة، زيارة | [52](/ar/lektionen/lektion52#_52-7-) |
 | ⟪सेव्⟫ | [sev](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sev&filter=roman&accent=no&transLit=roman) | 1Ā | يخدم شخصاً ()، يعتني بـ، يكرم، يحب | [52](/ar/lektionen/lektion52#_52-7-) |
+| ⟪सोम⟫ | [soma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=soma&filter=roman&accent=no&transLit=roman) | m | مشروب معصور، سوم؛ القمر (ما إذا كانت نبتة السوم التي يُعصر منها مشروب السوما معروفة حتى اليوم لا تزال محل خلاف) | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪स्तन⟫ | [stana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stana&filter=roman&accent=no&transLit=roman) | — | صدر | [20](/ar/lektionen/lektion20#_20-9-) |
 | ⟪स्तु⟫ | [stu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stu&filter=roman&accent=no&transLit=roman) | — | يمدح، يثني | [15](/ar/lektionen/lektion15#_15-8-) |
 | ⟪स्तुति⟫ | [stuti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stuti&filter=roman&accent=no&transLit=roman) | f | تمجيد، نشيد مدح | [15](/ar/lektionen/lektion15#_15-8-) |
@@ -815,6 +868,7 @@ outline: 2
 | ⟪स्वप्⟫ | [svap](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svap&filter=roman&accent=no&transLit=roman) | 2P | ينام، يستلقي للنوم | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪स्वप्न⟫ | [svapna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svapna&filter=roman&accent=no&transLit=roman) | — | نوم، حلم | [40](/ar/lektionen/lektion40#_40-6-) |
 | ⟪स्वभाव⟫ | [svabhāva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svabhāva&filter=roman&accent=no&transLit=roman) | — | كيان، طبيعة، طابع | [25](/ar/lektionen/lektion25#_25-5-) |
+| ⟪स्वर्ग⟫ | [svarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svarga&filter=roman&accent=no&transLit=roman) | m | سماء | [7](/ar/lektionen/lektion07#_7-6-) |
 | ⟪स्वस्ति⟫ | [svasti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svasti&filter=roman&accent=no&transLit=roman) | f | السعادة، الخلاص (اشتقاق اسمي من = "إنه جيد") | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪स्वागत⟫ | [svāgata](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svāgata&filter=roman&accent=no&transLit=roman) | — | مرحباً (من su-ā-gata) | [24](/ar/lektionen/lektion24#_24-4-) |
 | ⟪स्वाध्याय⟫ | [svādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svādhyāya&filter=roman&accent=no&transLit=roman) | — | "الدراسة الذاتية"، التلاوة (خاصة للفيديا)، دراسة الفيديا | [20](/ar/lektionen/lektion20#_20-9-) |

@@ -207,14 +207,7 @@ def main():
             except Exception as e:
                 print(f"[{lang}] Warning: Vektorindex-Erstellung fehlgeschlagen: {e}")
 
-            try:
-                email_script = os.path.join(os.path.dirname(__file__), "send_notification_email.py")
-                lang_name = LANG_NAMES.get(lang, lang)
-                subprocess.run([sys.executable, email_script, f"Sanskritkurs: {lang_name} ({lang}) 100% fertig", f"Die Übersetzung von {lang_name} ({lang}) ist mit 136/136 sauberen Dateien vollständig abgeschlossen."], check=False)
-            except Exception as e:
-                print(f"[{lang}] Warning: E-Mail-Benachrichtigung fehlgeschlagen: {e}")
-            else:
-                print(f"[{lang}] 🎉 ERFOLG: Sprache '{lang_name}' ({lang}) 100% sauber abgeschlossen (136/136 Dateien).")
+            print(f"[{lang}] 🎉 ERFOLG: Sprache '{LANG_NAMES.get(lang, lang)}' ({lang}) 100% sauber abgeschlossen (140/140 Dateien).")
 
 if __name__ == "__main__":
     if not os.environ.get("BYPASS_LOCK"):

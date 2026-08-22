@@ -104,7 +104,7 @@ Tab.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercitatio
 
-A) Vertite in Sanscritum (pro formis praeteriti temporis utere Imperfecto \&lt;⟪लङ्⟫\&gt;):
+A) Vertite in Sanscritum (pro formis praeteriti temporis utere Imperfecto \<⟪लङ्⟫\>):
 
 Tu scindis (buddhisticam) Ecclesiam.
 
@@ -147,5 +147,4 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4502))
 :::
 
-:::
 

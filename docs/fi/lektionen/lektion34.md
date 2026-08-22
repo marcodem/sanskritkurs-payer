@@ -222,7 +222,6 @@ Sesamin siemeniä.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3403))
 :::
 
-:::
 ::: media
 ![](/images/lekt3404.webp)
 Kuva: Sesamum indicum L.
@@ -332,7 +331,5 @@ Hinduavihkitseremonia.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3407))
 :::
 
-:::
 
 
-:::

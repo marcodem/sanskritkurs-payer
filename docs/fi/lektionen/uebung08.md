@@ -215,4 +215,3 @@ Poika kirjoittaa kirjeen.
 Kuv.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung008))
 :::
-:::

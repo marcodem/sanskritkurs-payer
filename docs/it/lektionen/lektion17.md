@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
---- &lt;!--  --&gt;
+---
 
 # Lezione 17
 
@@ -82,7 +82,7 @@ Altri esempi:
 | 3\. sg. Pres. P | ⟪दोग्धि⟫ (« doh- + -ti) |
 | 3\. pl. Pres. P | ⟪दुहन्ति⟫ (duh-anti) |
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | &lt;!--  --&gt;
+| 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) | \<!--  --\>
 
 :::
 ⟪हन्⟫ 2 P "colpire, uccidere, ammazzare"
@@ -231,7 +231,7 @@ Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3
 
 | | |
 | :--- | :--- |
-| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | &lt;!--  --&gt;
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ | \<!--  --\>
 
 :::
 ## 17.6. Lista di parole
@@ -378,4 +378,3 @@ Traducete le seguenti forme verbali e indicate la radice corrispondente:
 ⟪२९⟫. ⟪रक्षति⟫
 
 ⟪३०⟫. ⟪रोदिति⟫
-:::

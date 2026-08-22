@@ -117,7 +117,7 @@ z.B.
 ## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās được thay thế bằng -ā trước tất cả các phụ âm hữu thanh.**
 :::
 z.B.
 

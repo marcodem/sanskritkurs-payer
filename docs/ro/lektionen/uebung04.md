@@ -94,4 +94,3 @@ etat kim? eṣā pipīlikā.
 Fig.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung003))
 :::
-:::

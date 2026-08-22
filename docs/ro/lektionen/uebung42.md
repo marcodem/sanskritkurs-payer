@@ -74,4 +74,3 @@ Inima regelui Janaka era foarte bucuroasă. Apoi, l-a chemat pe Daśaratha și p
 Fig.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung069))
 :::
-:::

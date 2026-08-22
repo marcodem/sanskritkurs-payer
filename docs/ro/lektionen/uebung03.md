@@ -170,4 +170,3 @@ dvijāḥ kṣatriyāḥ.
 Abb.: ⟪पशुर्धेनुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung001))
 :::
-:::

@@ -63,4 +63,3 @@ Cine anume are prosperitate, acela este un învățat.
 Fig.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung029))
 :::
-:::

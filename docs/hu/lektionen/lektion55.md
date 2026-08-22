@@ -94,4 +94,3 @@ Kép: ⟪अजीर्यमिति⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5501))
 :::
 
-:::

@@ -7,59 +7,49 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Leçon 11
+# Exercice 11
 
 A) Traduisez les phrases ci-dessous
 
-⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिः सत्यं वदति ।⟫
 Le sage védique prononce la vérité.
 
-⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
+⟪२⟫. ⟪ब्राह्मणः पुत्रमिच्छति ।⟫
 Un brāhmaṇe souhaite un fils.
 
-⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
-Un saint vient au ciel.
+⟪३⟫. ⟪साधुः स्वर्गं गच्छति ।⟫
+Un saint entre au ciel.
 
-⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+⟪४⟫. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।⟫
+La Smṛti dit qu'un brāhmaṇe ne prononce pas de mensonge.
 
-⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+⟪५⟫. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।⟫
+Un kṣatriya interroge le brāhmaṇe sur le dharma.
 
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Ainsi le brāhmaṇe offre un sacrifice au dieu.
+⟪६⟫. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति ।⟫
+Ainsi, le brāhmaṇe offre un sacrifice au dieu.
 
-⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
+⟪७⟫. ⟪पुत्रः पापं करोतीति वैश्या मन्यते ।⟫
 La femme vaiśya pense que son fils fait le mal.
 
-⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
+⟪८⟫. ⟪क्षत्रियः क्षत्रियेण सह युध्यते ।⟫
 Un kṣatriya combat un kṣatriya.
 
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
+⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
 Puisque le mensonge est une injustice, le fils ne commet pas de méfait.
 
-⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪१०⟫. ⟪अयं क्षत्रियो धर्मं रक्षति ।⟫
 Ce kṣatriya protège le dharma.
 
-⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
-Qui vénère le feu (le dieu Agni) avec un sacrifice ?
+⟪११⟫. ⟪को ऽग्निं यजते ।⟫
+Qui vénère le feu (le dieu Agni) par un sacrifice ?
 
-⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
-Ce disciple interroge le bouddha sur son enseignement.
+⟪१२⟫. ⟪स श्रावको बुद्धं धर्मं पृच्छति ॥⟫
+Ce disciple interroge le Bouddha sur son enseignement.
 
 B) Mettez les phrases de A) à la voix passive
 
-⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-
-⟪२⟫. ⟪ब्राह्मणेन⟫ ⟪पुत्र⟫ ⟪इष्यते⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधुना⟫ ⟪स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत⟫ ⟪इति⟫ ⟪पुत्रेण⟫ ⟪पुण्यं⟫ ⟪क्रियते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यत⟫ ⟪इति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-
-⟪५⟫. ⟪क्षत्रियेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
-
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणेन⟫ ⟪यज्ञेन⟫ ⟪देव⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिणा सत्यमुद्यते । २⟫. ⟪ब्राह्मणेन पुत्र इष्यते । ३⟫. ⟪साधुना स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत इति पुत्रेण पुण्यं क्रियते । ४⟫. ⟪ब्राह्मणेनानृतं नोद्यत इति स्मृतिः । ५⟫. ⟪क्षत्रियेण ब्राह्मणो धर्मं पृच्छ्यते । ६⟫. ⟪एवं ब्राह्मणेन यज्ञेन देव इज्यते ।⟫
 
 ⟪७⟫. ⟪पुत्रेण⟫ ⟪पापं⟫ ⟪क्रियत⟫ ⟪इति⟫ ⟪वश्यया⟫ ⟪मन्यते⟫ ⟪।⟫
 
@@ -179,59 +169,42 @@ C) Traduisez :
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
 L'oreille entend. Avec l'oreille, on entend.
 
-⟪२⟫. ⟪कर्षकैः⟫ ⟪कृष्यते⟫ ⟪।⟫
-Les agriculteurs labourent.
+⟪३⟫. ⟪श्रावकेणेश्वरो नेज्यते ।⟫
+Un disciple du Bouddha n'offre rien à un SEIGNEUR.
 
-⟪३⟫. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ ⟪।⟫
-Un disciple du Bouddha n'offre pas de sacrifice au SEIGNEUR.
-
-⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
+⟪४⟫. ⟪रक्षिक्या गुरू रक्ष्यते ।⟫
 L'amulette protège le maître.
 
-⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-Un brahmane ne prononce pas de mensonge.
+⟪५⟫. ⟪ब्राह्मणेनानृतं नोद्यते ।⟫
+Un brāhmaṇe ne dit pas de mensonge.
 
-⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
-Itarā ist eine Śūdrafrau.
+⟪६⟫. ⟪शूद्रेतरा ।⟫
+Itarā est une femme śūdra.
 
-⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Les sciences auxiliaires du védas sont : la phonétique, le rituel, la grammaire, l'étymologie, la métrique et l'astronomie.
+⟪७⟫. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫
+Les sciences auxiliaires du Veda sont : la phonétique, le rituel, la grammaire, l'étymologie, la métrique et l'astronomie.
 
-⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-Les sciences sont : la philosophie, les études védiques, l'économie et la science politique.
+⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥⟫
+Les sciences sont : la philosophie, la védologie, l'économie et la science politique.
 
 D) Traduisez et mettez en sanskrit l'agent, l'objet et le verbe au pluriel :
 
-⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
-Il obtient un fruit.
-⟪फलान्यश्नुवन्ते⟫ ⟪।⟫
-
-⟪२⟫. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-Le maître prononce la vérité.
-⟪गुरुभिः⟫ ⟪सत्यान्युद्यन्ते⟫ ⟪।⟫
-
-⟪३⟫. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫
+⟪१⟫. ⟪फलमश्नुते ।⟫
+Il reçoit un fruit.
+⟪फलान्यश्नुवन्ते । २⟫. ⟪गुरुणा सत्यमुद्यते ।⟫
+Le maître dit la vérité.
+⟪गुरुभिः सत्यान्युद्यन्ते । ३⟫. ⟪वैश्यः पशुं लभते ।⟫
 Le vaiśya reçoit du bétail.
-⟪वैश्याः⟫ ⟪पशुंल्लभन्ते⟫ ⟪।⟫
-
-⟪४⟫. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪॥⟫
-Mon fils accomplit des mérites.
-⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
+⟪वैश्याः पशुंल्लभन्ते । ४⟫. ⟪पुत्रः पुण्यं करोति ॥⟫
+Mon fils accomplit une action méritoire.
+⟪पुत्राः पुण्यानि कुर्वन्ति ॥⟫
 
 E) Transformez les phrases C)1-5 en constructions actives.
 
-⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
-
-⟪२⟫. ⟪कर्ष⟫ka⟪ः⟫ ⟪कृषन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪श्रावक⟫ ⟪ईश्वरं⟫ ⟪न⟫ ⟪यजते⟫ ⟪।⟫
-
-⟪४⟫. ⟪रक्षिका⟫ ⟪गुरुं⟫ ⟪रक्षति⟫ ⟪।⟫
-
-⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
+⟪१⟫. ⟪श्रवणं शृणोति । २⟫. ⟪कर्ष⟫ka⟪ः कृषन्ति । ३⟫. ⟪श्रावक ईश्वरं न यजते । ४⟫. ⟪रक्षिका गुरुं रक्षति । ५⟫. ⟪ब्राह्मनो ऽनृतं न वदति ॥⟫
 
 ::: media
 ![](/images/uebung021.webp)
-Fig. : ⟪फलान्यश्नुते⟫
-(Source de l'image : [Détails](/fr/licenses#uebung021))
+Lég. : ⟪फलान्यश्नुते⟫
+(Source de l'image : [Détails](/licenses#uebung021))
 :::

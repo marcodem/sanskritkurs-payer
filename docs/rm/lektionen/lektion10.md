@@ -223,13 +223,13 @@ z.B. **tan** 8 U.
 - **pāpa** n. ⟪पाप⟫ : anṛta, mal (cuntrari a **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vardad
 
-:::: note-box
+::: note-box
 **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
 
+:::
 ::: literatur-box
 Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)

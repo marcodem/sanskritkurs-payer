@@ -1,6 +1,6 @@
 ---
 title: "Ders 49"
-subtitle: "İmperatif oluşumu (⟪लोट्⟫) athematik şimdiki zaman kökleri (devam)"
+subtitle: "İmperatif oluşumu (⟪लोट्⟫) athematik şimdiki zaman kökleri (devamı)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -187,79 +187,79 @@ bundan:
 
 ⟪आयुर्वेद⟫ m.: Hindistan'ın geleneksel tıp sistemi
 
-bkz:
+bakınız:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer (1944–). -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Carakasaṃhitā'dan Seçilmiş Metinler / Alois Payer (1944–) tarafından çevrilmiş ve açıklanmıştır. -- 0. Giriş. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : atmak, fırlatmak
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
-Kaus. ⟪क्षेपयति⟫
+Caus. ⟪क्षेपयति⟫
 PPP ⟪क्षिप्त⟫
 Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
-Gerundiv: ⟪क्षेप्य⟫
+Gerundive: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : acele etmek
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
-Kaus. ⟪त्वरयति⟫
+Caus. ⟪त्वरयति⟫
 PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : zarar vermek
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
 Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
-Kaus. ⟪द्रोहयति⟫
+Caus. ⟪द्रोहयति⟫
 PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Merak, ilgi
+⟪कुलूहल⟫ n.: merak, ilgi
 
 ::: media
 ![](/images/lekt4901.webp)
-Res.: ⟪कुलूहलम्⟫
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4901))
+Şek.: ⟪कुलूहलम्⟫
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: bütünüyle, tamamen
+⟪कृत्स्न⟫ 3: tam, eksiksiz
 
-⟪परिचय⟫ m.: Tanışıklık
+⟪परिचय⟫ m.: tanışıklık
 
-⟪कला⟫ f.: Sanat
+⟪कला⟫ f.: sanat
 
 ::: media
 ![](/images/lekt4902.webp)
-Res.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. yy
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4902))
+Şek.: ⟪उत्तमा काला शिवो नटराजा⟫, 11. yüzyıl
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Dilek
+⟪वर⟫ m.n.: arzu
 
-⟪उत⟫ İndekl.: ve, ayrıca, veya
+⟪उत⟫ Indecl.: ve, dahi, veya
 
-⟪विहंग⟫ m.: Kuş ("hava स् rüyasına - ⟪विह⟫ - giden")
+⟪विहंग⟫ m.: kuş ("hava⟪स्⟫sahasına - ⟪विह⟫ - giden")
 
 ::: media
 ![](/images/lekt4903.jpg)
-Res.: ⟪विहंगः⟫
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4903))
+Şek.: ⟪विहंगः⟫
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Giysi, görünüm, dış görünüş
+⟪वेष⟫ m.: giysi, görünüş, dış görünüm
 
 ::: media
 ![](/images/lekt4904.webp)
-Res.: ⟪वेषः वाराणस्याम्⟫
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4904))
+Şek.: ⟪वेषः वाराणस्याम्⟫
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: ört, saklanma yeri
 
@@ -356,16 +356,16 @@ Aşağıdaki şekilleri belirleyiniz:
 
 ## 49.6. Çeviri Alıştırması
 
-⟪बान⟫ (7. yy.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, s. 35f.
+⟪बान⟫ (7. yy. MS): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, s. 35f.
 
-Kral ⟪शूद्रक⟩'nın ⟪विदिशा⟩ papağanına ⟪वैशम्पायन⟩ sorduğu sorular:
+Kral ⟪शूद्रक⟫'nın ⟪विदिशा⟫'dan Papağan ⟪वैशम्पायन⟫'a soruları:
 
 ⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति । वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫
 
 ::: media
 ![](/images/lekt4908.webp)
-Resim: ⟪शुकः⟫
-Kayısı başlı papağan = Psittacula cyanocephala
-(Resim kaynağı: [Detaylar](/tr/licenses#lekt4908))
+Açıklama: ⟪शुकः⟫
+Şeftali başlı papağan = Psittacula cyanocephala
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt4908))
 :::
 

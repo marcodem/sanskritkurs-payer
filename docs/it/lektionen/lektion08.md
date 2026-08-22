@@ -6,7 +6,7 @@ category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 
---- &lt;!--  --&gt;
+---
 
 # Lezione 8
 
@@ -47,7 +47,7 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 
 ## 8.3. Alcuni suffissi nominali importanti
 
-### 8.3.1. -a m. (kṛt) &lt;!--  --&gt;
+### 8.3.1. -a m. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **Il suffisso kṛt -a forma sostantivi maschili (raramente neutri) che indicano un'azione o uno stato designato dalla radice; talvolta anche aggettivi o sostantivi che esprimono l'agente (kartṛ) dell'azione designata dalla radice verbale. Per penultima breve (= vocale prima di consonante, su cui termina la radice) o vocale radicalesca finale, di solito viene sostituita la forma forte (guṇa) o la forma allungata (vṛddhi).**
@@ -67,7 +67,7 @@ Nella grammatica indiana tradizionale si distinguono, tra i suffissi con cui si 
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "il diventare, l'(essere) qualcosa, natura, carattere" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combattente, guerriero, soldato" |
 
-### 8.3.2. -ana n. (kṛt) &lt;!--  --&gt;
+### 8.3.2. -ana n. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **Il suffisso kṛt -ana forma di solito sostantivi neutri che indicano un'azione, uno stato o il mezzo/strumento attraverso il quale l'azione designata dalla radice o da un tema verbale viene realizzata. Per una penultima breve o una vocale finale della radice, di solito viene sostituita la forma rafforzata (guṇa).**
@@ -96,7 +96,7 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 (Fonte: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) &lt;!--  --&gt;
+### 8.3.3. -tra n. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **Il suffisso kṛt -tra forma (di solito) sostantivi neutri, che indicano il mezzo o lo strumento, attraverso il quale l'azione designata dalla radice si realizza. La penultima breve e la vocale finale della radice vengono sostituite dal grado rafforzato (guṇa).**
@@ -124,7 +124,7 @@ I devoti induisti vanno al tempio per ottenere la visione di Dio attraverso un s
 (Fonti delle immagini: [Dettagli](/it/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) &lt;!--  --&gt;
+### 8.3.4. -ti f. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **Il suffisso kṛt -ti forma sostantivi femminili che, in generale, esprimono l'azione indicata dalla radice o lo stato da essa designato. La forma della radice è al grado ridotto.**

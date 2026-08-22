@@ -350,10 +350,17 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | 骗子 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | 商人 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | 小牛，幼崽，孩子；呼格：我亲爱的 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
+| ⟪वत्स्यति⟫ | 将来时 | — | br 被动语态：:br PPP（过去被动分词）：:br 不定式： | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | 森林 | [51](/zh-CN/lektionen/lektion51#_51-6-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | 最好的 | [43](/zh-CN/lektionen/lektion43#_43-4-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | 颜色，出身种姓（趋向）。 | [2](/zh-CN/lektionen/lektion02#_2-5-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | 雨，雨季，年 | [25](/zh-CN/lektionen/lektion25#_25-5-) |
+| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | （“发光的” =）春季（三月至五月） | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪वसिष्यते⟫ | 将来时： | — | br 过去被动分词： :br 不定式： | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | 财富，宝藏，财产，所有物 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 2Ā | 穿上（衣服），穿着（衣服） | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | 实际上，真正地 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | 用来穿衣的东西 = 衣服，长袍，布料 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | 1U | 引导，驾驶，飘动（风） | [25](/zh-CN/lektionen/lektion25#_25-5-) |
 | ⟪वार्त्ता⟫ | [vārttā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vārttā&filter=roman&accent=no&transLit=roman) | f | 谋生，经济学（经济）。 | [5](/zh-CN/lektionen/lektion05#_5-4-) |
 | ⟪विक्ल्प⟫ | [viklpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viklpa&filter=roman&accent=no&transLit=roman) | m | 备选方案，疑问 | [40](/zh-CN/lektionen/lektion40#_40-6-) |
@@ -448,7 +455,12 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | 击打，击杀，杀死 | [17](/zh-CN/lektionen/lektion17#_17-6-) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | 取走者；m.: 毁灭者 = Śiva（湿婆）的别名 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | 金色，黄色，绿色；m. Viṣṇu（毗湿奴）的别名（不属于词根 1） | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪हरिष्यति⟫ | 将来时： | — | br 被动语态： :br 过去被动分词： :br 不定式： | [27](/zh-CN/lektionen/lektion27#_27-5-) |
+| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | 毗湿奴与湿婆合一为一位神祇。 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪हित⟫ | PPP（过去被动分词） | — | sig[] (!!) | [33](/zh-CN/lektionen/lektion33#_33-6-) |
+| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | 拿，持；取走，拿走，抢劫 | [27](/zh-CN/lektionen/lektion27#_27-5-) |
 | ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | m | 动力，动机，原因，理由；，， 接属格或作为复合词的后半部分 = “为了……，因为……” | [24](/zh-CN/lektionen/lektion24#_24-4-) |
 | ⟪ह्रस्व⟫ | [hrasva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hrasva&filter=roman&accent=no&transLit=roman) | 3 | 简短 | [49](/zh-CN/lektionen/lektion49#_49-4-) |
 | ⟪ह्वे⟫ | [hve](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hve&filter=roman&accent=no&transLit=roman) | — | 呼唤，召唤 | [46](/zh-CN/lektionen/lektion46#_46-2-) |

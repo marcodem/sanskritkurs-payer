@@ -47,7 +47,7 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Übrige Kasus vor konsonantisch anlautender Desinenza:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza | &lt;!--  --&gt;
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza | \<!--  --\>
 
 **Le desinenze sono regolari. Il Nominativoooooo Singolare m. f. si forma senza -n finale.**
 :::
@@ -569,7 +569,7 @@ Spiegazioni:
 
 :sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove" &lt;!--  --&gt;
+⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove" \<!--  --\>
 
 :sig[⟪वयम्⟫] Nom.pl. "noi"
 

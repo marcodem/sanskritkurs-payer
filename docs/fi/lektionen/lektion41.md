@@ -25,7 +25,6 @@ Kuva: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4102))
 :::
 
-:::
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
@@ -352,7 +351,6 @@ Kuv.: ⟪शासना⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4109))
 :::
 
-:::
 ::: indent
 ⟪शास्त्र⟫ n.: opetus, oppikirja
 
@@ -364,7 +362,6 @@ Kuv.: ⟪शास्त्री⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt4110))
 :::
 
-:::
 ::: indent
 ⟪शिष्य⟫ 3: opetettava = oppilas
 :::

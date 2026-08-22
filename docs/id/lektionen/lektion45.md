@@ -105,7 +105,7 @@ Gbr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Latihan
 
-A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;⟪लङ्⟫\&gt;):
+A) Translate into Sanskrit (for past tense forms, please use the imperfect \<⟪लङ्⟫\>):
 
 1\. You are dividing the (Buddhist) community.
 

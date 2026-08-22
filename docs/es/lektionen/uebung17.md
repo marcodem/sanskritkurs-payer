@@ -69,7 +69,7 @@ B) Inserte el agente y el verbo en plural en las oraciones formadas en A)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung025))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Ejercicio de formas verbales
 

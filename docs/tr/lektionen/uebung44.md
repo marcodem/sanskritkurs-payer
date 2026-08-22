@@ -74,7 +74,7 @@ A) Aşağıdaki formları belirleyin ve çevirin:
 B) Çevirin:
 
 ⟪१⟫. **⟪अक्रोधेन जयेत्क्रोधमसाधुं साधुना जयेत् । जयेत्सत्येन चानृतम् ॥ १ ॥⟫**
-Öfkeyle öfkeyi yen; iyilikle kötüyü yen; doğrulukla yalanı yen.
+Öfkeyle öfkeyi yen; iyilikle kötülüğü yen; doğrulukla yalanı yen.
 
 ⟪२⟫. **⟪पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥ २ ॥⟫**
 Evlatlar, atalarınıza yiyecek sunumu yaptınız mı?
@@ -83,31 +83,26 @@ Evlatlar, atalarınıza yiyecek sunumu yaptınız mı?
 Benares'te (Kāśī) hangi öğretim metinlerini incelediniz?
 
 ⟪४⟫. **⟪बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥ ४ ॥⟫**
-Buddha'nın evlatları (rahibler) görkemli yataklarda uzansalardı, keşişlik töreninde verdikleri sözü yerine getirmeyeceklerdi.
+Buddha'nın evlatları (rahibler) görkemli yataklarda uzansalardı, ordinasyon sırasında verdikleri sözü yerine getirmeyeceklerdi.
 
 ⟪५⟫. **⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥ ५ ॥⟫**
-Asil kahramanların mücadelesini anlatacak olan hocayı selamladınız mı?
+Asilzadelerin mücadelesi hakkında okuyacak olan hocayı da selamladınız mı?
 
 ⟪६⟫. **⟪द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥ ६ ॥⟫**
-Nefret edilecek şeyleri de nefret etmeyin, arzu edilenlere karşı da açgözlü olmayın; böylece içsel bir sakinliğe kavuşursunuz.
+Nefret edilecek şeyleri de nefret etmeyin; arzu edilenlere karşı da açgözlü olmayın; böylece içsel bir sakinliğe kavuşursunuz.
 
 ⟪७⟫. **⟪न योत्स्य इत्यर्जुन उवाच ॥ ७ ॥⟫**
-"Savaşmayacağım" — Arjuna böyle konuştu.
+"Savaşmayacağım" — Arjuna şöyle dedi.
 
 ⟪८⟫. **⟪अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥ ८ ॥⟫**
 Üzülmeyecek olanları üzdünüz ve bilgelik sözleri söylemek istediniz; ancak bilgeler ne ölüleri ne de yaşayanları üzmezler.
 
 ::: media
 ![](/images/uebung072.webp)
-Açıklama: ⟪मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति⟫
-(Görsel kaynağı: [Detaylar](/licenses#uebung072))
+Resim: ⟪मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति⟫
+(Resim kaynağı: [Detaylar](/licenses#uebung072))
+
 :::
----
-
-## Weitere Formbestimmungen → Weitere Formenbestimmungen
-
-Bestimmen Sie folgende Wortformen: → Bestimmen Sie die folgenden Wortformen:
-
 ::: grammar-box
 | Wortform | Bestimmung | → | Wortform | Bestimmung |
 | :--- | :--- | → | :--- | :--- |

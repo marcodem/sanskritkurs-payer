@@ -65,4 +65,3 @@ Joka nimittäin omistaa vaurautta, hän on oppinut.
 Kuv.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung029))
 :::
-:::

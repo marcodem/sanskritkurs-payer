@@ -112,7 +112,7 @@ B) Traducir al sánscrito:
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung071))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Conversación (⟪संवादः⟫)
 

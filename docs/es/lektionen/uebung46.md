@@ -87,5 +87,5 @@ Para el indomable (no yogui) no hay comprensión.
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung080))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

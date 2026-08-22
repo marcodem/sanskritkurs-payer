@@ -751,15 +751,15 @@ Resim: Melodi, c'ye göre ayarlanmıştır; ses aralığına bağlı olarak tran
 :::
 ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ Kannarese müzik dersinin başlangıcında yer alır. Videoyu inceleyin: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Erişim tarihi: 2009-03-05
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind".
+Şimdi Sanskrit temellerini öğrendiğinize göre, umarım videodaki küçük çocuklar gibi olursunuz: bazen beceriksiz, ama öğrenmeye ve bilgiye aç, işin tadını çıkaran. Ömrünüzün sonuna kadar "yeni başlayan zihni" koruyun.
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer
+Bu dileklerle, Alois Payer
 
 Ofterdingen, 2009-03-09
 
 sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES
+SANSKRİT KURSU SONU
 :::
 

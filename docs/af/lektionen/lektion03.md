@@ -117,7 +117,7 @@ bv.
 ## 3.5. Sinsandhi van -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās word vervang met -ā voor alle stemhebbende klanken.**
 :::
 bv.
 

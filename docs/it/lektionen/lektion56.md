@@ -145,7 +145,7 @@ Professore di Linguistica Comparata, Università di Erlangen-Norimberga (1955 - 
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
+Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : una ricerca sincronica sulle funzioni / di Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3a serie, Untersuchungen)
 :::
 l’Ingiuntivo nel Veda presenta le seguenti proprietà:
 
@@ -203,7 +203,7 @@ Inoltre, esistono altre forme più rare di proposizioni proibitive, vedere ad es
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

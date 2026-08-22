@@ -75,7 +75,7 @@ B) Resuelva los siguientes Tatpuruṣa:
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung014))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Ejercicios adicionales
 
@@ -145,5 +145,5 @@ Resuelva los siguientes compuestos como Tatpuruṣa en sánscrito y proporcione 
 ![](/images/uebung016.webp)
 Fig.: ⟪गृहकरणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung016))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

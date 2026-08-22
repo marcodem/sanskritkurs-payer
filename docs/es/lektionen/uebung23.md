@@ -111,7 +111,7 @@ Comer, dormir, temer y tener sexo son comunes a los seres humanos y al ganado. L
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung035))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Ejercicios adicionales
 

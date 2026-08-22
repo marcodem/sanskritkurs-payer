@@ -12,7 +12,7 @@ status: stable
 ::: grammar-box
 **Formation :**
 
-**Devant les consonnes finales de la racine de niveau grave, on insère ce qu'on appelle un infix nasal (-na- ou -n-) :**
+**Avant les consonnes finales de la racine de degré zero, on insère un infix nasal dit « infix nasal » (-na- ou -n-) :**
 
 *   **dans le thème fort : -na-**
 *   **dans le thème faible : -n-**
@@ -27,11 +27,11 @@ Exemples :
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indicatif** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| **Indicatif** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(devant les gutturales à l'intérieur du mot, les nasales sont remplacées par -ṅ-)|
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optatif** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Participe présent** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Participe présent** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brféminin : ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "arrêter, faire cesser"
@@ -44,7 +44,7 @@ Exemples :
 | | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **Optatif** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Participe présent** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **Participe présent** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brféminin : ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
@@ -158,60 +158,47 @@ de cela :
 **Kaus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
 **Inf. ⟪बद्धुम्⟫**
-
-de cela :
-**⟪बन्धन⟫ n.:** lien, attache
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : reconnaître, comprendre
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : connaître, comprendre
 ::: indent
-de cela :
-**⟪प्रज्ञा⟫ f.:** sagesse, connaissance
+à partir de :
+**⟪प्रज्ञा⟫ f.** : sagesse, connaissance
 :::
 ::: media
 ![](/images/lekt3103.webp)
 Fig. : ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
+D'un manuscrit de Prajñāpāramitā.
 (Source de l'image : [Détails](/fr/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : naître, exister
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : naître, exister
 
-**⟪शरीर⟫ n.:** âme, corps
+**⟪शरीर⟫ n.** : corps, corps physique
 
 ## 31.3. Exercice
 
-A) Traduisez les phrases suivantes et résolvez les composés :
+A) Traduisez les phrases suivantes et décomposez les composés :
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
-
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
+⟪प्रज्ञा दुःखसम्भवं रुन्ध्यादिति बुद्धिमानार्यबुद्धमार्गेण गच्छेत् ॥१॥ शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते ॥२॥⟫
 
 ::: media
 ![](/images/lekt3105.jpg)
-Fig. : ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
+Fig. : ⟪शस्त्राणि शरीरमेव छिन्दन्ति जीवस्तु न म्रियत इति भगवद्गीतायां भगवतोच्यते⟫
 Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 (Source de l'image : [Détails](/fr/licenses#lekt3105))
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
-
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
+⟪बुद्ध्या युक्तो दुःखान्मुच्यते तस्मान्मोक्षमिच्छन्नरो योगेन युञ्जीत ॥३॥ पुत्रो जातो बन्धनं जातमिति सुगतो मत्वा कुलबन्धनं भिनत्ति । ततो भग्नबन्धो मोक्षनयन्तीं प्रज्ञामाप्तुमर्हति ॥४॥⟫
 
 ::: media
 ![](/images/lekt3104.webp)
-Fig. : ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
-Rāhula, der Sohn Buddhas, Laos.
+Fig. : ⟪राहुलो जातो बन्धनं जातम्⟫
+Rāhula, le fils de Bouddha, Laos.
 (Source de l'image : [Détails](/fr/licenses#lekt3104))
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
+⟪समोहः स्वन्नानि च सुरूपाश्च भुङ्क्ते वीतमोहस्त्वन्नं च सम्पन्नरूपशरीरां च न लुभ्यति । स हि लोभं च क्रोधं च रुणद्धि प्रज्ञायां च युङ्क्ते ॥५॥⟫
 
 B) Formez pour les racines suivantes de la 7e classe toutes les formes de la 3e personne du singulier et du pluriel, P et Ā, de l'indicatif et de l'optatif présent :
 
-⟪१⟫. ⟪छिद्⟫
-
-⟪२⟫. ⟪भिद्⟫
-
-⟪३⟫. ⟪भुज्⟫
-
-⟪४⟫. ⟪अञ्ज्⟫ (seulement P)
+⟪१⟫. ⟪छिद् २⟫. ⟪भिद् ३⟫. ⟪भुज् ४⟫. ⟪अञ्ज्⟫ (seulement P)
 
 ⟪५⟫. ⟪भञ्ज्⟫ (seulement P)
 

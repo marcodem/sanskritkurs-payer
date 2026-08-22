@@ -8,32 +8,32 @@ status: stable
 
 ---
 
-# 21. lecke
+# Lecke 21
 
-## 21.1. További -nt végű jelenlegi törzsek
+## 21.1. További -nt végződésű jelen idő törzsek
 
-### 21.1.1. Jelen idői melléknév (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. Jelen idő ragozatlan melléknév (⟪लडादेशः⟫) Parasmaipada
 
 ::: grammar-box
-Ez a melléknévige igenev az igerendszer jelen időjének tövéből képződik, tehát valódi igenev. Melléknév, amely azt jelzi, hogy valaki vagy valami éppen azt teszi, amit az igerendszer (+ előtag) kifejez, miközben valami más történik. Állandó állapotot is így fejezhetünk ki.
+Ez a ragozatlan melléknév egy névszóképzésű alak a jelen időtörzsből, tehát valódi ragozatlan melléknév. Egy olyan melléknév, amely azt jelzi, hogy valaki vagy valami éppen elköveti a ige gyökere (+ előtag) által kifejezett cselekvést, miközben valami más történik. Állandó állapotot is kifejezhet vele.
 
 **Példák:**
 
 :::
 ::: indent
-„Mint ahogy az apa olvas, ő dohányzik = az olvasó apa dohányzik”  
-„egy létező (= valódi, igazi) barát”
+"Amíg az apa olvas, dohányzik = a olvasó apa dohányzik"
+"egy létező (= valódi, igazi) barát"
 :::
 ::: grammar-box
 
-| **Képzés des Partizip Jelen idő Parasmaipada zu thematischen Jelen időstämmen:** |||
+| **A Parasmaipada jelen idő ragozatlan melléknév képzése témás jelen időtörzsekből:** |||
 | :--- | :--- | :--- |
-| **hímnem, semlegesnem** | | |
-| | **starker Tő** | Jelen idejű tő + **-nt-** |
-| | **schwacher Tő** | Jelen idejű tő + **-t-** |
-| **nemek** | | |
-| | | Jelen idejű tő + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Jelen időklasse** | Jelen idejű tő + **-nt-** + **-ī** :broder::brJelen idejű tő + **-t-** + **-ī** |
+| **Nem, középnem** | | |
+| | **erős törzs** | Jelen időtörzs + **-nt-**
+| | **gyenge törzs** | Jelen időtörzs + **-t-**
+| **Nem** | | |
+| | | Jelen időtörzs + **-nt-** + **-ī** (ragozása mint **devī** :br⟪देवी⟫)
+| | **6. jelen időosztály** | Jelen időtörzs + **-nt-** + **-ī** :broder::brJelen időtörzs + **-t-** + **-ī**
 
 :::
 Példák:
@@ -41,71 +41,70 @@ Példák:
 1\. jelen időosztály:
 
 ::: indent
-**yajant**
-⟪यजन्त्⟫ "egy áldozattal tisztelő"
+**yajant** :br⟪यजन्त्⟫ "egy áldozattal tisztelő"
 :::
 ::: grammar-box
 
-| | | hímnem:br⟪पुंस्⟫ | semlegesnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
+| | | Nem:br⟪पुंस्⟫ | Középnem:br⟪नपुंसक⟫ | Nem:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
-| **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
-| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
+| **Eyeszám** :br⟪एकवचन⟫ | **1. Nominativus** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| | **2. Akkusativus** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | mint **devī** :br⟪देवी⟫ |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. Genetivus** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| **Többes szám** :br⟪बहुवचन⟫ | **1. Nominativus** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| | **2. Akkusativus** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. Genetivus** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
-Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 3. személy többes számú ragozás azonosságát!
+Vegye észre a ⟪यजन्ति⟫ (Nominativus, többes szám, középnem) és a 3. személyű többes számú igék egybehangzását!
 
 4\. jelen idő osztály
 
 ::: indent
 ⟪नृत्यन्त्⟫ "táncoló"
 
-*   hímnem egyes szám alanyeset ⟪नृत्यन्⟫
-*   középnem egyes szám alanyeset és tárgyeset ⟪नृत्यत्⟫
-*   nőnem egyes szám alanyeset ⟪नृत्यन्ती⟫
+*   Hímnem, Nominativus, egyes szám: ⟪नृत्यन्⟫
+*   Középnem, Nominativus és Akkusativus, egyes szám: ⟪नृत्यत्⟫
+*   Nőnem, Nominativus, egyes szám: ⟪नृत्यन्ती⟫
 :::
 6\. jelen idő osztály
 
 ::: indent
 ⟪विशन्त्⟫ "belépő"
 
-*   hímnem Nom. sg. ⟪विशन्⟫
-*   semlegesnem Nom. Akk. sg. ⟪विशत्⟫
-*   nőnem Nom. sg. ⟪विशन्ती⟫ ⟪।⟫ ⟪विशती⟫
+*   Hímnem, Nominativus, egyes szám: ⟪विशन्⟫
+*   Középnem, Nominativus és Akkusativus, egyes szám: ⟪विशत्⟫
+*   Nőnem, Nominativus, egyes szám: ⟪विशन्ती । विशती⟫
 :::
 ::: grammar-box
 
-| **Képzés des Partizip Jelen idő Parasmaipada zu athematischen Jelen időstämmen (ausser 3. Jelen időklasse):** |||
+| **A jelen idő rész igenév képzése a parasmaipada szerkezetben az athematikus jelen időtőkhöz (kivéve a 3. jelen idő osztály):** |||
 | :--- | :--- | :--- |
-| **hímnem, semlegesnem** | | |
-| | **starker Tő** | Jelen idejű tő + **-ant-** |
-| | **schwacher Tő** | Jelen idejű tő + **-at-** :br(Der Auslaut des schwachen Jelen idejű tőes lautet gleich wie vor der 3. Plur. P.) |
-| **nőnem** | | |
-| | | Jelen idejű tő + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| **Hímnem, Középnem** | | |
+| | **erős tő** | Jelen időtő + **-ant-** |
+| | **gyenge tő** | Jelen időtő + **-at-** :br(A gyenge jelen időtő végződése megegyezik a 3. személyű többes szám előttivel.) |
+| **Nőnem** | | |
+| | | Jelen időtő + **-at-** + **-ī** (Ragozás mint **devī** :br⟪देवी⟫) |
 
 :::
-2\. jelen idői osztály:
+2\. jelen idő osztály:
 
 ::: indent
-⟪अस्⟫ "létezni": ⟪सन्त्⟫ "létező, valódi, jó, igaz"
+⟪अस्⟫ "lenni": ⟪सन्त्⟫ "lévő, igazi, jó, valódi"
 :::
 ::: grammar-box
 
-| | | hímnem:br⟪पुंस्⟫ | semlegesnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
+| | | Hímnem:br⟪पुंस्⟫ | Középnem:br⟪नपुंसक⟫ | Nőnem:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
-| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
-| **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
-| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
-| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
+| **Egyes szám** :br⟪एकवचन⟫ | **1. Nominativus** :br⟪प्रथमा⟫ | ⟪सन्⟫ :brs-ant-s-ből | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
+| | **2. Akkusativus** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | mint **devī** :br⟪देवी⟫ |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
+| | **6. Genetivus** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
+| **Többes szám** :br⟪बहुवचन⟫ | **1. Nominativus** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
+| | **2. Akkusativus** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
+| | **6. Genetivus** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
@@ -163,48 +162,47 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 
 :::
 ::: grammar-box
-**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:**
+**Egy összetett szó első tagjaként a következő áll ⟪महत् महा⟫ helyett:**
 
 **Példák:**
 
 :::
 ::: indent
-⟪महादेव⟫ "der grosse Gott" (z.B. ⟪शिव⟫)  
-⟪महादेवी⟫ "die grosse Göttin, die Hauptfrau eines Königs (⟪देव⟫)"
+⟪महादेव⟫ "a nagy isten" (pl. ⟪शिव⟫)  
+⟪महादेवी⟫ "a nagy istennő, egy király főfelesége (⟪देव⟫)"
 :::
 ::: media
 ![](/images/lekt2102.webp)
-Ábra: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Képforrás: [Részletek](/hu/licenses#lekt2102))
+Ábra: ⟪महादेवो विष्णुः⟫
+"4-6. századi CE szardonyx pecsét, amely Vishnut ábrázol egy imádkozóval. A kurzív baktriai felirat a következőt olvassa: 'Mihira, Vishnu és Shiva'."
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2102))
 :::
 
-:::
 ::: indent
-"Egy 4-6. századi karneol pecsét, amely Viṣṇut egy imádkozóval ábrázolja. A kurzív baktriai felirat: 'Mihira, Viṣṇu és Śiva'."
+"4-6. századi CE szardonyx pecsét, amely Vishnut ábrázol egy imádkozóval. A kurzív baktriai felirat a következőt olvassa: 'Mihira, Vishnu és Shiva'."
 :::
-## 21.2. A szóvégi nazálisok sandhija
+## 21.2. Sandhi a végződő nazálisok számára
 
 ::: grammar-box
-**Rövid magánhangzó után a szóvégi nazálisok – kivéve -m-t – kezdő magánhangzó előtt megduplázódnak.**
+**Rövid magánhangzó után a végződő nazálisok – kivéve -m – előtt kezdődő magánhangzónál megduplázódnak.**
 
 **Példa:**
 
 :::
 ::: indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » ⟪जयन्नरिः⟫ "a győztes ellenség"
+**⟪जयन्⟫ + ⟪अरिः⟫** » ⟪जयन्नरिः⟫ "a győzelmes ellenség"
 :::
 ## 21.3. Udvarias megszólítási formák
 
 ::: grammar-box
-**A szanszkritban udvariatlan nélkül megszólíthatunk valakit a 2. személy egyes számú alakjával. Ha azonban udvariasak szeretnénk lenni, használhatunk egy „Tisztelt” vagy hasonló jelentésű főnevet, és az igét a 3. személy egyes számú vagy többes számú alakjába, illetve egy passzív szerkezetbe helyezhetjük. A megszólításban a személyhasználat udvariassági fokozatai nagyjából a következők:**
+**A szanszkritban udvariatlan nélkül megszólíthatunk valakit a 2. személy egyes számú alakjával. Ha azonban udvariasak szeretnénk lenni, használhatunk egy olyan főnevet, amelynek jelentése "Tisztelt" és hasonló, és a ige 3. személy egyes vagy többes számú alakjába helyezhetjük, illetve passzív szerkezetet használhatunk. A megszólítás során a személy használatának udvariassági fokozatai nagyjából a következők:**
 
 :::
 ::: indent
 **2. sg. » 2. pl. » 3. sg. megfelelő főnévvel » 3. pl. megfelelő főnévvel**
 :::
-**A legfontosabb ilyen udvariassági főnév ⟪भवन्त्⟫, nőnem: ⟪भवती⟫. Használata megfelel a magyar „Ön” udvarias megszólításnak.**
-Ez az ⟪भवन्त्⟫ egy összevonás az ⟪भगवन्त्⟫-ból, ragozása a **-vant** végű főneveké (lásd [13. lecke](lektion13.md)). Ezt az ⟪भवन्त्⟫-t meg kell különböztetni a ⟪भू⟫ „lesz” igéből származó ⟪भवन्त्⟫ jelen idői melléknévi igenev (P) alakjától: a ⟪भवन्त्⟫ „Ön” névmás egyes számú alaki alakja ⟪भवान्⟫, a melléknévi igenev ⟪भवन्⟫-é.
+**A legfontosabb ilyen udvariassági főnév ⟪भवन्त्⟫ , nőnem: ⟪भवती⟫ . Használata megfelel a mi udvarias "Ön" használatának.**
+Ez ⟪भवन्त्⟫ egy összevonás ⟪भगवन्त्⟫-ból, deklinációja a **-vant** végződésű főneveké (lásd [13. lecke](lektion13.md)). Ezt ⟪भवन्त्⟫ meg kell különböztetni a ⟪भू⟫ "lenni" jelen idői melléknév P-től ⟪भवन्त्⟫ : a ⟪भवन्त्⟫ "Ön" egyes számú nemes alakja ⟪भवान्⟫, a melléknév ⟪भवन्⟫-é.
 
 **Példák:**
 
@@ -262,7 +260,6 @@ ebből:
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2105))
 :::
 
-:::
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (valójában egy desideratívum a ⟪भज्⟫ igéhez: kívánni, hogy valaki részt vegyen): koldulni
 :::
@@ -306,7 +303,5 @@ B) Fordítsa le:
 
 ⟪पूजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥४॥⟫
 
-⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥५॥⟫
-
-⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
+⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥६॥⟫
 

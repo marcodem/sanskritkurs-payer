@@ -1,43 +1,28 @@
 📊 Translation Status Report (Master-Basis: 140 Dateien)
-Timestamp: 2026-08-20 08:30:07 CEST
-Vergleich zum letzten Bericht: `2026-08-20 08:11:50 CEST`
+Timestamp: 2026-08-22 20:30:06 CEST
+Vergleich zum letzten Bericht: `2026-08-22 20:12:39 CEST`
 
-✅ **9 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `ru`, `uk`, `rm`, `pa`, `id`, `he`, `zh-CN`, `zh`
+✅ **25 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `it`, `es`, `fr`, `ru`, `uk`, `rm`, `ar`, `fi`, `ta`, `pa`, `la`, `id`, `th`, `hi`, `el`, `grc`, `ro`, `he`, `hu`, `zh-CN`, `fa`, `bg`, `zh`, `tr`
 
 🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):
 
-Sprache: 🇮🇳 தமிழ் (ta)
-Prozess-PID: Nicht aktiv (Wartet auf Start)
-Aktuelle Datei / Chunk-Fortschritt: `lektion10.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **138/140 Dateien (98.6%)**
-Pipeline-Queue (2 Dateien ausstehend): `lektion08.md` (Contains unallowed German/English phrases or remnants), `lektion10.md` (Contains unallowed German/English phrases or remnants)
+Sprache: 🇳🇱 Nederlands (nl)
+Prozess-PID: 8031 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Volumes/SanDisk1TB/proj/Payer/scripts/lan_translate.py --lang nl --force` – Ungepuffert & Aktiv, CPU-Time: 0:01.57)
+Aktuelle Datei / Chunk-Fortschritt: `lektion25.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **29/140 Dateien (20.7%)**
+Pipeline-Queue (111 Dateien ausstehend): `lektion23.md` (Contains unallowed German/English phrases or remnants), `lektion25.md` (Contains unallowed German/English phrases or remnants), `lektion26.md` (Contains unallowed German/English phrases or remnants), `lektion27.md` (Contains unallowed German/English phrases or remnants), `lektion28.md` (Contains unallowed German/English phrases or remnants), `lektion29.md` (Contains unallowed German/English phrases or remnants), `lektion30.md` (Contains unallowed German/English phrases or remnants), `lektion31.md` (Contains unallowed German/English phrases or remnants) ... (+103 weitere)
+Delta zum letzten Bericht: **+1 Sauber | -1 FB | Δ +0.7%**
 Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).
 Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/s*
 
 | Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |
 | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |
-| `ta` | தமிழ் | 138/140 | 2 | 2 (lektion08.md, lektion10.md) | — | 98.6% | ⌛ In Warteschlange |
-| `ro` | Română | 135/140 | 2 | 5 Dateien | — | 96.4% | ⌛ In Warteschlange |
-| `it` | Italiano | 133/140 | 7 | 7 Dateien | +4 Sauber | +1 FB | Δ +2.9% | 95.0% | ⌛ In Warteschlange |
-| `bg` | Български | 132/140 | 8 | 8 Dateien | — | 94.3% | ⚠️ Nächste (Wartet auf Start) |
-| `es` | Español | 130/140 | 5 | 10 Dateien | — | 92.9% | ⌛ In Warteschlange |
-| `th` | ไทย | 130/140 | 6 | 10 Dateien | — | 92.9% | ⌛ In Warteschlange |
-| `ar` | العربية | 129/140 | 7 | 11 Dateien | — | 92.1% | ⌛ In Warteschlange |
-| `hi` | हिंदी | 129/140 | 7 | 11 Dateien | — | 92.1% | ⌛ In Warteschlange |
-| `fr` | Français | 129/140 | 11 | 11 Dateien | +2 Sauber | +2 FB | Δ +1.4% | 92.1% | ⌛ In Warteschlange |
-| `el` | Ελληνικά | 128/140 | 8 | 12 Dateien | — | 91.4% | ⌛ In Warteschlange |
-| `grc` | Ἀρχαία | 128/140 | 8 | 12 Dateien | — | 91.4% | ⌛ In Warteschlange |
-| `fi` | Suomi | 126/140 | 10 | 14 Dateien | — | 90.0% | ⌛ In Warteschlange |
-| `hu` | Magyar | 125/140 | 11 | 15 Dateien | — | 89.3% | ⌛ In Warteschlange |
-| `fa` | فارسی | 125/140 | 11 | 15 Dateien | — | 89.3% | ⌛ In Warteschlange |
-| `la` | Latina | 123/140 | 13 | 17 Dateien | — | 87.9% | ⌛ In Warteschlange |
-| `tr` | Türkçe | 121/140 | 14 | 19 Dateien | — | 86.4% | ⌛ In Warteschlange |
-| `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 72/140 | 64 | 68 Dateien | — | 51.4% | ⌛ In Warteschlange |
-| `am` | አማርኛ | 63/140 | 73 | 77 Dateien | — | 45.0% | ⌛ In Warteschlange |
-| `pt` | Português | 59/140 | 77 | 81 Dateien | — | 42.1% | ⌛ In Warteschlange |
-| `vi` | Tiếng Việt | 5/140 | 131 | 135 Dateien | — | 3.6% | ⌛ In Warteschlange |
-| `zu` | isiZulu | 5/140 | 131 | 135 Dateien | — | 3.6% | ⌛ In Warteschlange |
-| `af` | Afrikaans | 3/140 | 125 | 137 Dateien | — | 2.1% | ⌛ In Warteschlange |
-| `nl` | Nederlands | 3/140 | 132 | 137 Dateien | — | 2.1% | ⌛ In Warteschlange |
-| `lt` | Lietuvių | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
-| `sh` | Srpsko-hrvatski | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
-| `sq` | Shqip | 1/140 | 127 | 139 Dateien | — | 0.7% | ⌛ In Warteschlange |
+| `pt` | Português | 61/140 | 79 | 79 Dateien | — | 43.6% | 🔄 Nächste Sprache |
+| `nl` | Nederlands | 29/140 | 111 | 111 Dateien | +1 Sauber | -1 FB | Δ +0.7% | 20.7% | 🎯 Aktiv (`lektion25.md` Sektion 1/1) |
+| `af` | Afrikaans | 7/140 | 133 | 133 Dateien | — | 5.0% | ⌛ In Warteschlange |
+| `vi` | Tiếng Việt | 6/140 | 134 | 134 Dateien | — | 4.3% | ⌛ In Warteschlange |
+| `lt` | Lietuvių | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
+| `sh` | Srpsko-hrvatski | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
+| `sq` | Shqip | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
+| `am` | አማርኛ | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| `zu` | isiZulu | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |

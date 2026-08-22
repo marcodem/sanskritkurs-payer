@@ -206,11 +206,9 @@ Lok. ⟪सत्यवाक्षु⟫
 > ::: indent
 > Tekil:
 
-:::
 > ::: indent
 > Nom.Vok. ⟪शेषभुक्⟫
 > Akk. ⟪शेषभुजम्⟫
-:::
 > Çoğul:
 
 ::: indent
@@ -232,11 +230,9 @@ Lok. ⟪सत्यवाक्षु⟫
 > ::: indent
 > Tekil:
 
-:::
 > ::: indent
 > Nom.Vok. ⟪परिव्राट्⟫
 > Akk. ⟪परिव्राजम्⟫
-:::
 > Çoğul:
 
 ::: indent
@@ -247,7 +243,6 @@ Lok. ⟪सत्यवाक्षु⟫
 ![](/images/lekt5104.webp)
 > Resim: ⟪परिव्राट् पुष्कर⟫
 (Resim kaynağı: [Detaylar](/tr/licenses#lekt5104))
-:::
 > ### 51.2.3. -h ile biten kökler
 
 ::: grammar-box

@@ -1,17 +1,18 @@
 ---
 aside: false
 outline: false
+
 ---
 
-# Grammatik Index
+# Grammatica Index
 
-Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
+De Grammatica Index somt alle grammatische onderwerpen en verschijnselen uit de Sanskrietcursus op en maakt snelle toegang tot specifieke lessen mogelijk.
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
-.VPDoc {
-  padding: 32px 48px 64px !important;
+/* Pas de lay-out aan voor een index op volledige breedte */
+VPDoc {
+padding: 32px 48px 64px !important;
 }
 </style>

@@ -99,41 +99,38 @@ Kielhorn, Grammatik § 435c ff.'de belirli köklerin özellikleri.
 ::: indent
 ⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, tekrarlanan hece ⟪आशिश्⟫, Aor. ⟪आशिशत् इष्⟫ 6P: Kaus. ⟪एषयति⟫, tekrarlanan hece ⟪एषिष्⟫, Aor. ⟪ऐषिषत् ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, tekrarlanan hece ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
-*   **Wenn einem anlautenden Vokal eine mit einem Nasal oder d veya r başlayan konsonant grubu izler, o zaman gruptaki ikinci ünsüz (veya temsilcisi) i harfi ile aşağıdaki şemaya göre araya eklenir:**
+*   **Başlangıç seslisini bir nazal ile ya da d veya r ile başlayan bir ünsüz grubu izlerse, grubun ikinci ünsüzü (veya onun vekili) aşağıdaki şemaya göre i ile birlikte araya sokulur:**
 
 
-Ünsüz - ilk ünsüz - ikinci ünsüz (temsilci) - i - ikinci ünsüz
+Sesli - birinci ünsüz - ikinci ünsüz (vekil) - i - ikinci ünsüz
 
 ::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+⟪अञ्ज्⟫ 7P: Ett. ⟪अञ्जयति⟫, reduplike hece ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Ett. ⟪अर्पयति⟫, reduplike hece ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Ett. ⟪अर्हयति⟫, reduplike hece ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
-Bu türde, ünlü ile başlayan türetilmiş köklerin (kausativler) reduplikasyonuna "Atik Reduplikasyonu" denir.
-## 56.2. İnjunktif
+Sesliyle başlayan türemiş gövdelerdeki (ettirgenlerdeki) bu reduplikasyon biçimine "attik reduplikasyon" denir.
+## 56.2. İnjonktif
 
 ::: grammar-box
-**İnjunktif, augmentli formlara sahip olmayan formdur; yani onun formları, indikatif imperfect veya aorist'in augmentli olmayan formuyla aynıdır. Yerel Hint dilbilgisi, injunktifi özel bir gramer kategorisi olarak tanımamıştır.**
+**İnjunktif, augmentli biçimlere karşılık gelen augmentsiz biçimdir; yani onun biçimleri, bildirme kipi imperfektinin ya da aoristinin augmentsiz biçimleriyle özdeştir. Yerli Hint dilbilgisi, injunktifi ayrı bir dilbilgisel kategori olarak tanımamıştır.**
 :::
-Temel çalışma uyarınca:
+Temel çalışmaya göre:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Resim:
+Şek.:
 Karşılaştırmalı Dilbilim Profesörü, Erlangen-Nürnberg Üniversitesi (1955 - 1983)
-(Resim kaynağı: [Detaylar](/tr/licenses#lekt5601))
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl (1915–1996): Vedadaki injunktif : eşzamanlı bir işlev incelemesi / Karl Hoffmann tarafından. -- Heidelberg : Winter, 1967. -- 298 s. -- (Hint-Avrupa Kitaplığı : 3. dizi, İncelemeler)
 :::
-Vedada injunktifin aşağıdaki özellikleri vardır:
+injunktif, Vedada aşağıdaki özelliklere sahiptir:
 
-*   bildirimde bulunmaz, ancak zikreder
-*   zaman basamaklarından bağımsızdır (zaman aşımı)
-*   İnjunktif Şimdiki Zaman (= artımsız geçmiş zaman), tamamlanmamış yönü belirtir
-*   İnjunktif Geçmiş Zaman, tamamlanmış yönü belirtir.
-
-::: grammar-box
-**Sonra-Veda Sanskrit'inde İnjunktiv yalnızca yasama edatı ⟪मा⟫ (+ İnjunktiv Aorist) veya ⟪मा स्म⟫ (+ İnjunktiv Şimdiki Zaman veya Aorist) ile birlikte görülür; farklı görünüm açısından genellikle artık belirleyici değildir.**
+*   o bildirici değil, değinicidir
+*   o zaman kademesinden yoksundur
+*   injunktif prezens (= augmentsiz imperfekt) tamamlanmamış görünüşü belirtir
+*   injunktif aorist tamamlanmış görünüşü belirtir.
 
 (görünüm açısından
 
@@ -141,7 +138,6 @@ Vedada injunktifin aşağıdaki özellikleri vardır:
 *   ⟪मा स्म⟫ + İnjunktiv Şimdiki Zaman bir engelleyici cümlesini ifade eder, yani zaten devam eden bir eylem veya hal yasaklanır: "...'ye devam etmeyi bırak!", "Şundan vazgeç!"
 
 Ancak bu fark klasik Sanskrit'te genellikle yapılmaz.)
-:::
 ## 56.3. Yasak Cümlesi
 
 ::: grammar-box
@@ -285,4 +281,3 @@ Resim: ⟪अलं विषादेन⟫
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

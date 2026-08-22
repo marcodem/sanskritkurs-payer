@@ -55,7 +55,7 @@ Verbos que siguen este tipo:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,7 +63,7 @@ Verbos que siguen este tipo:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
 ### 46.1.4. Tipo de perfecto II: raíz fuerte en grado completo, raíz débil en grado reducido
 
@@ -373,7 +373,7 @@ Derivados:
 :::
 Sobre ⟪राहु⟫ y ⟪केत⟫ú véase:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois \<1944 - \>:** Dharmashastra : Introducción y panorama general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/es/licenses#lekt4602)
@@ -384,14 +384,14 @@ Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गल
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/es/licenses#lekt4603)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4603))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/es/licenses#lekt4604)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4604))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
@@ -458,7 +458,7 @@ Absol. -⟪हूय⟫
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/es/licenses#lekt4608)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4608))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: indent

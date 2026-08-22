@@ -38,7 +38,7 @@ Determine y traduzca las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪तब्लाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung095))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## B) Determinaciones de palabras
 
@@ -93,5 +93,5 @@ Pune - ⟪पुणे⟫
 ![](/images/uebung096.webp)
 Fig.: ⟪श्वा⟫ ⟪श्वानमघ्रात्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung096))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

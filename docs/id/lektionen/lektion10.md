@@ -217,7 +217,7 @@ misalnya **tan** 8 U.
 **yajña** m. ⟪यज्ञ⟫ : Persembahan
 
   ::: note-box
-  Persembahan di India pada dasarnya adalah penghormatan kepada dewa sebagai tamu. Dengan demikian, seseorang mengikat diri untuk berutang budi kepada dewa tersebut.
+  Persembahan di India pada dasarnya adalah penghormatan kepada dewa sebagai tamu. Dengan demikian, seseorang mengikat diri untuk berutang budi pada dewa tersebut.
 
   Pembentukan kata: **yaj** 1 U + sufiks kṛt **-na-**.
   :::
@@ -225,19 +225,19 @@ misalnya **tan** 8 U.
 **puṇya** n. ⟪पुण्य⟫ : perbuatan baik, kebajikan
 
   ::: note-box
-  Yang dengannya seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
+  Dengan apa seseorang mendapatkan kesejahteraan dan kelahiran kembali yang baik.
   :::
 
-**pāpa** n. ⟪पाप⟫ : kejahatan, keburukan (lawan dari **puṇya**)
+**pāpa** n. ⟪पाप⟫ : kejahatan, keburukan (lawan kata dari **puṇya**)
 **satya** n. ⟪सत्य⟫ : kebenaran
 
-:::: note-box
+::: note-box
 Di India, kata-kata yang benar diyakini memiliki kekuatan magis; bahkan seluruh tatanan dunia dipertahankan dan diciptakan oleh kata-kata yang benar. Untuk konsep penting ini, lihat karya dasar:
 
-::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Diterbitkan dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hal., hal. 340 - 764
 :::
-::::
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Diterbitkan dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hal., hlm. 340 - 764
+:::
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -249,13 +249,13 @@ Gambar: ⟪वरुणः⟫
   ::: note-box
   Pembentukan kata **an-** („tidak-“) + **ṛta** n.
 
-  **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: „kebenaran“ (Lüders, Thieme), „ketertiban“ (Renou).
+  **ṛta** adalah konsep sentral dalam Weda, yang terjemahannya diperdebatkan: „kebenaran“ (Lüders, Thieme), „tatanan“ (Renou).
   :::
 
-**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, pengarang lagu-lagu Weda
+**ṛṣi** m. ⟪ऋषि⟫ : resi Weda, penyanyi lagu-lagu Weda
 
   ::: note-box
-  Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri untuk Weda. Semua Brahmana menurunkan asal-usul mereka dari **ṛṣi** semacam itu, yang dinamai menurut **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
+  Nama-nama **ṛṣi** ini disebutkan dalam Brāhmaṇa serta dalam daftar tersendiri untuk Weda. Semua Brahmana menurunkan asal-usul mereka dari **ṛṣi** semacam itu, yang dinamai berdasarkan **gotra** mereka (⟪गोत्र⟫). Untuk konsep **gotra**, lihat Basham, *Wonder*, Bab 5.
   :::
 
 ::: media
@@ -265,12 +265,12 @@ Gambar: ⟪विश्वामित्रः⟫
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : berkata, berbicara
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
-**saha** ⟪सह⟫ : bersama dengan, secara bersama (juga dalam konteks „berperang melawan“ dll.) (Postposisi dengan Instrumentalis)
+**saha** ⟪सह⟫ : bersama dengan, secara bersama (juga dalam konteks „bertarung dengan“ dll.) (Postposisi dengan Instrumentalis)
 
 
 ## 10.6. Latihan
 
-**A) Bentuklah Pasif untuk bentuk-bentuk kata kerja berikut (dengan terjemahan bentuk kata kerja):**
+**A) Bentuklah Pasif untuk bentuk-bentuk kata kerja berikut (dengan terjemahan bentuk kata kerjanya):**
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)

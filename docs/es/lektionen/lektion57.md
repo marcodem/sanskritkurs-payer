@@ -42,34 +42,34 @@ Tales formas también podrían pertenecer al aoristo de la raíz y probablemente
 Los gramáticos indios también contaron formas como :sig[⟪अकृत⟫] (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
 ::: indent
-"Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
+"Después de una vocal breve, las terminaciones que comienzan con -st- o -sth- pierden la -s-."
 :::
-De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
+En otros casos, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
 
 Para -dhvam se aplica:
 
 ::: grammar-box
-**El -dh- de -dhvam se reemplaza por -ḍh- después de todas las vocales no a/ā, así como después de -r.**
+**El -dh- de -dhvam se reemplaza por -ḍh- después de todas las vocales distintas de a/ā, así como después de -r.**
 
 :::
 ::: indent
-p.ej. **:sig[⟪चि⟫]** 5U: 2.pl.Ā **:sig[⟪अचेढ्वम्⟫]**
+p.ej. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **Forma de la raíz:**
 
-*   **⟪परस्मैपद⟫ : Grado reforzado**
+*   **⟪परस्मैपद⟫ : Grado alargado**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Raíces con i/ī/u/ū final: Grado reforzado**
-    *   **-ṝ final se reemplaza por -īr o -ūr**
-    *   **Raíces con ablaut en ā/e/o: Grado reducido**
-    *   **Otros vocales de la raíz: inalterados (es decir, por lo general en grado reducido)**
+*   **Raíces con i/ī/u/ū final: Grado fuerte**
+*   **-ṝ final se reemplaza por -īr o -ūr**
+*   **Raíces con ablaut en ā/e/o: Grado débil**
+*   **Otros vocales radicales: inalterados (es decir, por lo general en grado débil)**
 :::
 Ejemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -78,7 +78,7 @@ Ejemplos:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -88,13 +88,20 @@ Ejemplos:
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ y ⟪सृज्⟫ tienen en el ⟪परस्मैपद⟫ grado reforzado con diptongo ascendente -rā-:**
+**⟪दृश्⟫ y ⟪सृज्⟫ tienen en el ⟪परस्मैपद⟫ Grado alargado con diptongo ascendente -rā-:**
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
+⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Raízn mit -ṛ- an vorletzter Stelle kann so gebildet werden: &lt;!--  --&gt;
+También el aoristo de otras raíces con -ṛ- en la penúltima posición puede formarse así:
+
+::: indent
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
+:::
+Paradigmas:
+
+⟪नी⟫ 1U "conducir"
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
@@ -239,4 +246,3 @@ B) Traduzca y determine las siguientes formas:
 54.  ⟪आदि्षि⟫
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
-

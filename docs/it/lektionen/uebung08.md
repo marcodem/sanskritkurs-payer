@@ -24,7 +24,7 @@ A) Spiegare i seguenti nomi indicando la radice da cui sono derivati e il suffis
 
 7\. lābha: labh 1 Ā "ricevere" + -a m.: "ottenimento, guadagno"
 
-8\. kāraṇa: kṛ 8 U "fare, fare" + -ana n.: "causa, motivo" &lt;!--  --&gt;
+8\. kāraṇa: kṛ 8 U "fare, fare" + -ana n.: "causa, motivo" \<!--  --\>
 
 9\. gati: gam 1 P "andare" + -ti f.: "andare, 'carriera', meta"
 
@@ -135,7 +135,7 @@ devāḥ kiṃ lubhyanti?
 ⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
 
 11. Qual è la causa?
-kiṃ kāraṇam? &lt;!--  --&gt;
+kiṃ kāraṇam? \<!--  --\>
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 

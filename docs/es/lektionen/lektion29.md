@@ -156,7 +156,7 @@ Explicaciones:
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "engañar, unir con, asociar con"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) &lt;!--  --&gt;
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva) \<!--  --\>
 
 ⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "cuánto más"
 

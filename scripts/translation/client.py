@@ -23,6 +23,59 @@ try:
 except Exception:
     _LINGUA_DETECTOR = None
 
+def run_nyquist_check(target_lang, source_text, translated_text):
+    if target_lang not in ['cop', 'am', 'zu']:
+        return True, ""
+    
+    import re
+    sys.stdout.write(f"[{target_lang}] Running Nyquist Check (Semantic Round-Trip)...\n")
+    sys.stdout.flush()
+    
+    prompt = f"Translate the following {target_lang} text into English. Output ONLY the English translation without any notes or formatting:\n\n{translated_text}"
+    data = {
+        "model": MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.1,
+        "max_tokens": 8192
+    }
+    
+    try:
+        from .lock import touch_nyx_lock_heartbeat
+        touch_nyx_lock_heartbeat()
+        req = urllib.request.Request(
+            API_URL,
+            data=json.dumps(data).encode('utf-8'),
+            headers={'Content-Type': 'application/json', 'Authorization': 'Bearer local'}
+        )
+        with urllib.request.urlopen(req, timeout=300) as response:
+            res_data = json.loads(response.read().decode('utf-8'))
+            if 'error' in res_data:
+                return False, f"Nyquist Check Failed (API Error: {res_data['error']})"
+            back_text = res_data['choices'][0]['message']['content']
+            
+            def get_keywords(t):
+                t = t.replace(":br", " ")
+                t = re.sub(r'⟪.*?⟫', ' ', t)
+                return set(re.findall(r'\b\w{5,}\b', t.lower()))
+            
+            src_words = get_keywords(source_text)
+            back_words = get_keywords(back_text)
+            
+            if not src_words:
+                return True, ""
+                
+            intersection = src_words.intersection(back_words)
+            ratio = len(intersection) / len(src_words)
+            
+            if ratio < 0.15:
+                return False, f"Nyquist Test Failed (Semantic Match: {ratio*100:.1f}%)"
+            else:
+                sys.stdout.write(f"[{target_lang}] Nyquist Check Passed (Semantic Match: {ratio*100:.1f}%)\n")
+                sys.stdout.flush()
+                return True, ""
+    except Exception as e:
+        return False, f"Nyquist Check Exception: {str(e)}"
+
 def translate_text(text, target_lang):
     lang_name = LANG_NAMES.get(target_lang, target_lang)
     _mark_skt = (target_lang == 'hi')
@@ -246,6 +299,12 @@ def translate_text(text, target_lang):
                         if en_result_count > en_source_count + 2:
                             qc_failed = True
                             qc_reason = f"English fallback leak detected ({en_result_count} English marker words found)"
+                
+                if not qc_failed:
+                    nyq_passed, nyq_reason = run_nyquist_check(target_lang, protected, result)
+                    if not nyq_passed:
+                        qc_failed = True
+                        qc_reason = nyq_reason
 
                 if qc_failed and os.environ.get("PAYER_BOOTSTRAP_TM") != "1":
                     if ph_attempt < max_ph_retries - 1:
@@ -256,35 +315,42 @@ def translate_text(text, target_lang):
                         sys.stdout.write(f"[{target_lang}] [!] Local QC REJECTED: {qc_reason} on final attempt {ph_attempt + 1}.\n")
                         sys.stdout.flush()
                         
-                        from .config import GEMINI_API_KEY, GEMINI_API_URL
-                        if not GEMINI_API_KEY:
-                            sys.stdout.write(f"[{target_lang}] [!] GEMINI_API_KEY not set. Refusing un-QC'd output.\n")
+                        from .config import OPENROUTER_API_KEY, OPENROUTER_API_URL, OPENROUTER_MODEL
+                        if not OPENROUTER_API_KEY:
+                            sys.stdout.write(f"[{target_lang}] [!] OPENROUTER_API_KEY not set. Refusing un-QC'd output.\n")
                             sys.stdout.flush()
                             return f"ERROR: Quality Control Failed - {qc_reason}", ph_attempt
                             
-                        # Stufe 2: Gemini Fallback
-                        sys.stdout.write(f"[{target_lang}] [Stufe 2] Invoking Gemini Fallback API...\n")
+                        # Stufe 2: OpenRouter Fallback
+                        sys.stdout.write(f"[{target_lang}] [Stufe 2] Invoking OpenRouter Fallback API ({OPENROUTER_MODEL})...\n")
                         sys.stdout.flush()
                         
                         gem_qc_reason = "API request failed or timed out"
                         for gemini_attempt in range(2):
                             gem_temp = 0.3 if gemini_attempt == 0 else 0.5
                             data_gem = {
-                                "contents": [{"role": "user", "parts": [{"text": indexed_protected}]}],
-                                "systemInstruction": {"role": "user", "parts": [{"text": system}]},
-                                "generationConfig": {"temperature": gem_temp}
+                                "model": OPENROUTER_MODEL,
+                                "messages": [
+                                    {"role": "system", "content": system},
+                                    {"role": "user", "content": indexed_protected}
+                                ],
+                                "temperature": gem_temp
                             }
                             req = urllib.request.Request(
-                                GEMINI_API_URL,
+                                OPENROUTER_API_URL,
                                 data=json.dumps(data_gem).encode('utf-8'),
-                                headers={'Content-Type': 'application/json'}
+                                headers={
+                                    'Content-Type': 'application/json',
+                                    'Authorization': f'Bearer {OPENROUTER_API_KEY}',
+                                    'HTTP-Referer': 'http://localhost:8000'
+                                }
                             )
                             try:
                                 with urllib.request.urlopen(req, timeout=120) as response:
                                     res_data_gem = json.loads(response.read().decode('utf-8'))
-                                    gemini_result = res_data_gem['candidates'][0]['content']['parts'][0]['text']
+                                    gemini_result = res_data_gem['choices'][0]['message']['content']
                             except Exception as e:
-                                sys.stdout.write(f"[{target_lang}] Gemini API Error: {e}\n")
+                                sys.stdout.write(f"[{target_lang}] OpenRouter API Error: {e}\n")
                                 sys.stdout.flush()
                                 gem_qc_reason = f"API Error: {e}"
                                 continue
@@ -340,14 +406,25 @@ def translate_text(text, target_lang):
                             
                             # Also check DE/EN words...
                             if not gem_qc_failed and target_lang != 'de':
-                                ger_result_count = len(ger_pattern.findall(gem_result_str))
-                                if ger_result_count >= 3:
-                                    ger_source_count = len(ger_pattern.findall(protected))
-                                    if ger_result_count >= (ger_source_count * 0.2):
-                                        gem_qc_failed = True
-                                        gem_qc_reason = "German leak"
+                                if 'scripts' not in sys.path:
+                                    sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+                                try:
+                                    from translation_qa import COMMON_DE_WORDS
+                                    import re
+                                    ger_pattern = re.compile(r'\b(' + '|'.join(COMMON_DE_WORDS) + r')\b', re.IGNORECASE)
+                                    ger_result_count = len(ger_pattern.findall(gem_result_str))
+                                    if ger_result_count >= 3:
+                                        ger_source_count = len(ger_pattern.findall(protected))
+                                        if ger_result_count >= (ger_source_count * 0.2):
+                                            gem_qc_failed = True
+                                            gem_qc_reason = "German leak"
+                                except Exception:
+                                    pass
                                         
                             if not gem_qc_failed and target_lang not in ('de', 'en'):
+                                import re
+                                safe_english_words = ['the', 'is', 'to', 'and', 'that', 'of', 'for', 'this', 'are', 'with']
+                                en_pattern = re.compile(r'\b(' + '|'.join(safe_english_words) + r')\b', re.IGNORECASE)
                                 en_result_count = len(en_pattern.findall(gem_result_str))
                                 if en_result_count >= 3:
                                     en_source_count = len(en_pattern.findall(protected))
@@ -355,6 +432,12 @@ def translate_text(text, target_lang):
                                         gem_qc_failed = True
                                         gem_qc_reason = "English leak"
                                         
+                            if not gem_qc_failed:
+                                nyq_passed, nyq_reason = run_nyquist_check(target_lang, protected, gem_result_str)
+                                if not nyq_passed:
+                                    gem_qc_failed = True
+                                    gem_qc_reason = nyq_reason
+
                             if not gem_qc_failed:
                                 gem_missing_deva = [k for k in deva_registry if k not in gem_result_str]
                                 if not gem_missing_deva:
@@ -455,7 +538,7 @@ def translate_text(text, target_lang):
                         if not ANTHROPIC_API_KEY:
                             return f"ERROR: Quality Control Failed (Stufe 3 failed, Stufe 4 skipped due to missing API key) - {deepl_qc_reason}", ph_attempt
                             
-                        sys.stdout.write(f"[{target_lang}] [Stufe 4] Invoking Claude 3.5 Sonnet Fallback...\n")
+                        sys.stdout.write(f"[{target_lang}] [Stufe 4] Invoking Sonnet 5 Fallback...\n")
                         sys.stdout.flush()
                         
                         system_claude = (
@@ -490,7 +573,7 @@ def translate_text(text, target_lang):
                         try:
                             with urllib.request.urlopen(req_claude, timeout=120) as response:
                                 res_data_claude = json.loads(response.read().decode('utf-8'))
-                                claude_result_str = res_data_claude['content'][0]['text']
+                                claude_result_str = next((block['text'] for block in res_data_claude.get('content', []) if block.get('type') == 'text'), "")
                         except Exception as e:
                             sys.stdout.write(f"[{target_lang}] Claude API Error: {e} | Raw: {res_data_claude}\n")
                             sys.stdout.flush()
@@ -535,6 +618,12 @@ def translate_text(text, target_lang):
                             if c_missing_struct:
                                 claude_qc_failed = True
                                 claude_qc_reason = f"Missing structure: {len(c_missing_struct)} dropped"
+                                
+                        if not claude_qc_failed:
+                            nyq_passed, nyq_reason = run_nyquist_check(target_lang, protected, c_res)
+                            if not nyq_passed:
+                                claude_qc_failed = True
+                                claude_qc_reason = nyq_reason
                                 
                         if not claude_qc_failed:
                             c_missing_deva = [k for k in deva_registry if k not in c_res]

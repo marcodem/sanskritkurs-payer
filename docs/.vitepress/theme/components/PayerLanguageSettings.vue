@@ -52,11 +52,6 @@
       </div>
     </div>
 
-    <div class="settings-actions" v-if="selected.length === 0">
-      <div class="validation-error">
-        ⚠ {{ t.validationError }}
-      </div>
-    </div>
 
     <!-- Per-locale prefetch indicators -->
     <div v-if="Object.keys(localeStatus).length > 0" class="locale-status-list">
@@ -180,15 +175,15 @@ import { LOCALE_NAMES } from '../../languages.mjs'
 // currently selected locale — never bilingual.
 const LOCALE_TEXTS = {
   de: {
-    activeLanguages: 'Aktive Sprachen',
-    availableLanguages: 'Weitere Sprachen hinzufügen',
+    activeLanguages: 'Für Offline-Download ausgewählt',
+    availableLanguages: 'Weitere Sprachen zum Download',
     installSectionTitle: 'Offline-App & Installation',
     title: 'Einstellungen',
-    hint: 'Wählen Sie die Sprachen aus, die in der Navigation sichtbar und offline verfügbar sein sollen. Ihre Auswahl wird sofort automatisch gespeichert.',
+    hint: 'Wählen Sie die Sprachen aus, die Sie vollständig für die Offline-Nutzung herunterladen möchten. Ihre Auswahl wird sofort automatisch gespeichert.',
     currentBadge: 'aktuell',
     saveBtn: 'Speichern',
     saving: 'Arbeite...',
-    validationError: 'Mindestens eine Sprache muss ausgewählt sein.',
+    validationError: '',
     installing: 'App wird installiert…',
     installBtn: '📱 Web App installieren',
     installHint: 'Für vollständigen Offline-Betrieb auf Desktop oder Smartphone.',
@@ -199,15 +194,15 @@ const LOCALE_TEXTS = {
     preparingApp: 'App wird vorbereitet…',
   },
   en: {
-    activeLanguages: 'Active Languages',
-    availableLanguages: 'Add more languages',
+    activeLanguages: 'Selected for Offline Download',
+    availableLanguages: 'More languages to download',
     installSectionTitle: 'Offline App & Installation',
     title: 'Settings',
-    hint: 'Select the languages to display in navigation and make available offline. Your selection is saved automatically.',
+    hint: 'Select the languages you want to fully download for offline use. Your selection is saved automatically.',
     currentBadge: 'current',
     saveBtn: 'Save',
     saving: 'Working...',
-    validationError: 'At least one language must be selected.',
+    validationError: '',
     installing: 'Installing app…',
     installBtn: '📱 Install Web App',
     installHint: 'For full offline use on desktop or mobile.',
@@ -583,10 +578,6 @@ function msg(key, ...args) {
 }
 
 async function save() {
-  if (selected.value.length === 0) {
-    progressMessage.value = '⚠ ' + t.value.validationError
-    return
-  }
   
   // Defensive: ensure UI always unlocks, even if something throws unexpectedly
   const hardUnlockTimeout = setTimeout(() => {

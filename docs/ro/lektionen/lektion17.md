@@ -257,7 +257,6 @@ de acolo:
 ⟪आसन⟫ n.: șederea, locul de ședere ; de asemenea: pozițiile de ședere ale yoghinului
 :::
 
-:::
 ::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫

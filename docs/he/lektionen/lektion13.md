@@ -157,29 +157,33 @@ vant נוסף לשמות שבהם הצליל האחרון או השני מן ה�
 
 שורש הנקבה של השורשים על -mant- ו-vant- הוא על -mat-ī או -vat-ī. ההטייה היא כמו אצל devī, כלומר אין ירידת שורש.
 
+נקבה:
+
+שורש הנקבה של השורשים המסתיימים ב- mant- ו- vant- מסתיים ב- mat-ī או -vat-ī. ההטייה היא כמו אצל devī, כלומר אין הבדלת שורש.
+
 דוגמה:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. רשימת מילים
+## 13.9. מילון מילים
 
 למדו את המילים הבאות:
 
-- **eva** ⟪एव⟫ : מדגיש את המילה הקודמת
-- **asura** m. ⟪असुर⟫ : דַּיָּק
+**eva** ⟪एव⟫ : מדגיש את המילה שלפניו
+**asura** ז. ⟪असुर⟫ : שד
 
-> **אסורה.** "רוחני, אלוהי."
->
-> על פי הוישנו פוראנה, הם יוצרו מהמפשעה של ברהמה (פרג'פטי). התיאור של הוואיו פוראנה הוא: "אסורות יוצרו תחילה כבנים מהמפשעה שלו (של פרג'פטי). אסו מוגדר על ידי ברהמנה כנשימה. ממנו יצרו יצורים אלה; מכאן שהם אסורות". המילה משמשת כבר זמן רב כשם כללי לאויבי האלים, כולל הדאיטיות והדנאבות וצאצאים אחרים של קאשיווה, אך לא כולל הראקסאסות היוצאים מפולסטיה.
->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [מקור: **דאוסון, ג'ון (1820–1881):** מילון קלאסי של מיתולוגיה הודו, דת, גיאוגרפיה, היסטוריה וספרות. -- לונדון, טריבנר, 1879. -- ערך.]
+> **אָסוּרַה.** 'רוחני, אלוהי.'
+\>
+> בחלקים העתיקים ביותר של הריגודה, מונח זה משמש לרוח העליונה, והוא זהה לאהורה אצל הזורואסטרים. במובן של 'אל', הוא הופעל על כמה מהאלים הראשיים, כמו אינדרה, אגני וורונה. מאוחר יותר הוא רכש משמעות הפוכה לחלוטין, והחל לסמן, כפי שהוא עושה כיום, שד או אויב של האלים.
+\>
+> המילה מופיעה עם משמעות זו בחלקים המאוחרים יותר של הריגודה, במיוחד בספר האחרון, וכן באתרווודה. הבראהמנות מייחסות לה את אותה משמעות, ומתעדות קרבות רבים בין האסורות לאלים. לפי הטיטיריה ברהמנה, הנשימה *(asu)* של פרג'פתי הפכה לחיה, ו"עם נשימה זו יצר אותי אסורות." בחלק אחר של אותו חיבור נאמר שפרג'פתי "הריר. הוא יצר אסורות מבטנו." השאטפתה ברהמנה תואמת את ההצהרה הקודמת, וקובעת כי "הוא יצר אסורות מנשימתו התחתונה." הטיטיריה אראנייקה מייצגת כי פרג'פתי יצר אלים, בני אדם, אבות, גנדרווה ואפרסאסים ממים, וכי האסורות, ראקשאסות ופישאקוס צמחו מהטיפות שנשפכו. אמירתו של מנו היא כי הם נוצרו על ידי הפרג'פאטיס.
+\>
+> לפי הוישנו פוראנה, הם נוצרו מהמפשעה של ברהמה (פרג'פתי). הסיפור של הוואיו פוראנה הוא: "האסורות נוצרו תחילה כבנים מהמפשעה שלו (של פרג'פתי). *אסו* מוגדר על ידי הבראהמנה כנשימה. ממנו נוצרו ישויות אלו; מכאן שהם אסורות." המילה משמשת כבר זמן רב כשם כללי לאויבי האלים, לרבות הדיטיהס והדנובאוס וצאצאים אחרים של קשיופה, אך לא לרבות הראקשאסות שצמחו מפולאסטיה.
+\>
+> במובן זה נמצאה גזירה שונה עבורה: המקור אינו עוד asu, 'נשימה', אלא האות הראשונה *a* נלקחת כקידומת שלילית, ו-asura מסמנת 'לא אל'; מכאן, לפי חלק מהחוקרים, נוצר המילה *סורה*, המשמשת בדרך כלל ל'אל'."
+\>
+> [מקור: **דאוסון, ג'ון (1820–1881):** מילון קלאסי למיתולוגיה הינדואית, דת, גיאוגרפיה, היסטוריה וספרות. -- לונדון, טריבנר, 1879. -- ערך.]
 
 ::: media
 ![](/images/lekt1301.webp)

@@ -9,15 +9,10 @@
 export const ACTIVE_LOCALES = [
   'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
   'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
-  'fi', 'hu', 'zh', 'cop', 'fa', 'nl', 'am', 'af', 'lt', 'sh', 'sq', 'pt', 'bg',
-  'tr', 'vi', 'zu'
+  'fi', 'hu', 'zh', 'fa', 'bg'
 ];
 
-export const DEFAULT_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
-  'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
-  'fi', 'hu', 'am', 'bg'
-];
+export const DEFAULT_LOCALES = [];
 
 export const LOCALE_FLAGS = {
   de: '🇩🇪',
@@ -55,7 +50,8 @@ export const LOCALE_FLAGS = {
   bg: '🇧🇬',
   tr: '🇹🇷',
   vi: '🇻🇳',
-  zu: '🇿🇦'
+  zu: '🇿🇦',
+  gsw: '🇨🇭'
 };
 
 export const LOCALE_NAMES = {
@@ -94,7 +90,8 @@ export const LOCALE_NAMES = {
   bg: '🇧🇬 Български',
   tr: '🇹🇷 Türkçe',
   vi: '🇻🇳 Tiếng Việt',
-  zu: '🇿🇦 isiZulu'
+  zu: '🇿🇦 isiZulu',
+  gsw: '🇨🇭 Alemannisch'
 };
 
 export const FOOTER_LABELS = {
@@ -134,5 +131,6 @@ export const FOOTER_LABELS = {
   zh: { prev: '上一課', exercise: '附加練習', next: '下一課' },
   tr: { prev: 'Önceki Ders', exercise: 'Ek Egzersiz', next: 'Sonraki Ders' },
   vi: { prev: 'Bài học trước', exercise: 'Bài tập bổ sung', next: 'Bài học tiếp theo' },
-  zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' }
+  zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' },
+  gsw: { prev: 'Vorigi Lektion', exercise: 'Zuesätzligi Üebig', next: 'Nächschti Lektion' }
 };

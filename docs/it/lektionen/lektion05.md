@@ -5,7 +5,7 @@ lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lezione 5
 
@@ -144,7 +144,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / in buon Sanscrito: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in buon Sanscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫) &lt;!--  --&gt;
+   (in buon Sanscrito: ⟪सामार्यजुर्वेदास्त्रयी⟫) \<!--  --\>
 
 4. I tre nemici dell'uomo, che formano la porta all'inferno (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
@@ -152,7 +152,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
    ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Sono forme di meditazione buddhiste.) &lt;!--  --&gt;
+   (Spiegazione: brahmavihāra: "stati di dimora di Brahma", detti anche "Illimitati". Sono forme di meditazione buddhiste.) \<!--  --\>
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
@@ -161,7 +161,7 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Dopo Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || &lt;!--  --&gt;
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || \<!--  --\>
 
 ## 5.6. Esercizio di ripasso
 

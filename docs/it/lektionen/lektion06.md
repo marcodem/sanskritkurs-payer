@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 
----# Lezione 6
+---
 
 ## 6.1. La frase verbale
 
@@ -25,7 +25,7 @@ Se l’agente (**kartṛ** m. = ⟪कर्तृ⟫) è menzionato in una fras
 Una forma verbale finita, ovvero una forma verbale con desinenza personale, in sanscrito esprime quanto segue:
 
 1. **Significato** (**artha** m. ⟪अर्थ⟫)
-2. **Persona** e **numero** (**vacana** n. = ⟪वचन⟫) (io, tu, lui \&lt;lei, esso\&gt;, noi due, voi due, loro due, noi, voi, loro)
+2. **Persona** e **numero** (**vacana** n. = ⟪वचन⟫) (io, tu, lui \<lei, esso\>, noi due, voi due, loro due, noi, voi, loro)
 3. Modalità verbale (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("forma verbale con riferimento a un altro"): attivo. Ad es. **yajati** = ⟪यजति⟫ = "Egli compie un sacrificio" (ovvero il sacerdote che compie il sacrificio per conto di qualcun altro)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("forma verbale riferita a sé stesso"): forma media. ad es. **yajate** = ⟪यजते⟫ = "Egli rende omaggio con un sacrificio nel proprio interesse" (ovvero il padrone del sacrificio, che offre il sacrificio per sé e per la propria famiglia)

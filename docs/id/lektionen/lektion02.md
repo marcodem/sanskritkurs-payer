@@ -75,7 +75,7 @@ Akhiran sebuah kata dalam bahasa Sanskerta juga bergantung pada awalan kata beri
 
 Lihat juga ikhtisar:
 
-&gt; **Payer, Alois (1944–):** Sandhi pada akhiran -s. -- (Materi tentang bahasa Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi pada akhiran -s. -- (Materi tentang bahasa Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 **-s** di akhir kata:
 

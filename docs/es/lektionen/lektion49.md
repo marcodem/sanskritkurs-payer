@@ -5,7 +5,7 @@ lesson_id: 49
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lección 49
 
@@ -299,7 +299,7 @@ Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4905))
 :::
-⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. &lt;!--  --&gt;
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n. \<!--  --\>
 
 ⟪परम⟫ 3: más lejano, más alto ; ⟪पञ्चम्या⟫ : mejor que, más alto que
 

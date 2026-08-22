@@ -4,105 +4,105 @@ outline: [2, 3]
 
 ---
 
-# Grammatik Themen
+# Θέματα Γραμματικής
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+Αυτή η σελίδα παρέχει μια συστηματική επισκόπηση όλων των γραμματικών θεμάτων του μαθήματος Σανσκριτικού. Κάθε μία από τις 61 ενότητες ταξινομείται εδώ θεματικά.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Φωνητική & Γραφή (Saṃhitā & Lipi)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -\> [Lektion 1](/el/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -\> [Lektion 40](/el/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -\> [Lektion 41](/el/lektionen/lektion41) & [Lektion 42](/el/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -\> [Lektion 2](/el/lektionen/lektion02), [Lektion 3](/el/lektionen/lektion03), [Lektion 30](/el/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -\> [Lektion 4](/el/lektionen/lektion04)
-    *   **Vokalsandhi** -\> [Lektion 3](/el/lektionen/lektion03), [Lektion 24](/el/lektionen/lektion24)
-    *   Sandhi von **-n** -\> [Lektion 7](/el/lektionen/lektion07)
-    *   Sandhi für **Nasale** -\> [Lektion 21](/el/lektionen/lektion21), [Lektion 26](/el/lektionen/lektion26)
-    *   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/el/lektionen/lektion10), [Lektion 26](/el/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -\> [Lektion 44](/el/lektionen/lektion44), [Lektion 51](/el/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -\> [Lektion 16](/el/lektionen/lektion16), [Lektion 43](/el/lektionen/lektion43)
+*   **Εισαγωγή στους ήχους**: Συστηματική και προφορά -\> [Ενότητα 1](/el/lektionen/lektion01)
+*   **Εισαγωγή στη γραφή (Devanāgarī)**:
+*   Φωνήεντα και απλοί σύμφωνοι -\> [Ενότητα 40](/el/lektionen/lektion40)
+*   Συνδυασμένοι σύμφωνοι (ligatures) -\> [Ενότητα 41](/el/lektionen/lektion41) & [Ενότητα 42](/el/lektionen/lektion42)
+*   **Sandhi (σύνδεση ήχων)**:
+*   Sandhi τελικού **-s/Visarga** -\> [Ενότητα 2](/el/lektionen/lektion02), [Ενότητα 3](/el/lektionen/lektion03), [Ενότητα 30](/el/lektionen/lektion30)
+*   Sandhi των **-m, -e, -d** -\> [Ενότητα 4](/el/lektionen/lektion04)
+*   **Vokalsandhi** -\> [Ενότητα 3](/el/lektionen/lektion03), [Ενότητα 24](/el/lektionen/lektion24)
+*   Sandhi του **-n** -\> [Ενότητα 7](/el/lektionen/lektion07)
+*   Sandhi για **nasals** -\> [Ενότητα 21](/el/lektionen/lektion21), [Ενότητα 26](/el/lektionen/lektion26)
+*   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Ενότητα 10](/el/lektionen/lektion10), [Ενότητα 26](/el/lektionen/lektion26)
+*   Ορθογραφική σύνδεση (h-, ch-) -\> [Ενότητα 44](/el/lektionen/lektion44), [Ενότητα 51](/el/lektionen/lektion51)
+*   **Konsonantensandhi** (συναγωγές) -\> [Ενότητα 16](/el/lektionen/lektion16), [Ενότητα 43](/el/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Λεξιλογία (Μορφολογία)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Ουσιαστικά και επίθετα (κλίση)
 
-*   **Grundlagen**: Kasuslehre -\> [Lektion 1](/el/lektionen/lektion01), [Lektion 2](/el/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -\> [Lektion 2](/el/lektionen/lektion02), [Lektion 7](/el/lektionen/lektion07)
-*   **I- und U-Stämme** -\> [Lektion 3](/el/lektionen/lektion03), [Lektion 27](/el/lektionen/lektion27), [Lektion 52](/el/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -\> [Lektion 13](/el/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -\> [Lektion 38](/el/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -\> [Lektion 51](/el/lektionen/lektion51), [Lektion 54](/el/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -\> [Lektion 61](/el/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -\> [Lektion 49](/el/lektionen/lektion49), [Lektion 50](/el/lektionen/lektion50), [Lektion 53](/el/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -\> [Lektion 52](/el/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -\> [Lektion 53](/el/lektionen/lektion53)
+*   **Βασικές έννοιες**: Δεσμοί -\> [Μάθημα 1](/el/lektionen/lektion01), [Μάθημα 2](/el/lektionen/lektion02)
+*   **Α-ρίζες** (Άρρενα & Ουδέτερα) -\> [Μάθημα 2](/el/lektionen/lektion02), [Μάθημα 7](/el/lektionen/lektion07)
+*   **Ι- και Υ-ρίζες** -\> [Μάθημα 3](/el/lektionen/lektion03), [Μάθημα 27](/el/lektionen/lektion27), [Μάθημα 52](/el/lektionen/lektion52)
+*   **Συνθετικές ρίζες**:
+*   Ρίζες με **-mant / -vant** -\> [Μάθημα 13](/el/lektionen/lektion13)
+*   Ρίζες με **-n** (Rājan, Ātman) -\> [Μάθημα 38](/el/lektionen/lektion38)
+*   Απλές συνθετικές ρίζες -\> [Μάθημα 51](/el/lektionen/lektion51), [Μάθημα 54](/el/lektionen/lektion54)
+*   Ρίζες ονομάτων με **-ā, -ī, -ū** -\> [Μάθημα 61](/el/lektionen/lektion61)
+*   **Ο Δυϊκός (Διπλός αριθμός)** των ονομάτων -\> [Μάθημα 49](/el/lektionen/lektion49), [Μάθημα 50](/el/lektionen/lektion50), [Μάθημα 53](/el/lektionen/lektion53)
+*   **Αριθμοί & Κλίση**:
+*   Αριθμητικά (Κάρδιναλια/Ορδινάλια) -\> [Μάθημα 52](/el/lektionen/lektion52)
+*   Κλίση (Συγκριτικός/Υπερθετικός) -\> [Μάθημα 53](/el/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Αντωνυμίες & Επίρρηματα
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -\> [Lektion 4](/el/lektionen/lektion04)
-    *   Relativpronomen (yad) -\> [Lektion 19](/el/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -\> [Lektion 46](/el/lektionen/lektion46), [Lektion 47](/el/lektionen/lektion47)
-    *   Indefinitpronomina -\> [Lektion 37](/el/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -\> [Lektion 37](/el/lektionen/lektion37), [Lektion 52](/el/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -\> [Lektion 21](/el/lektionen/lektion21), [Lektion 44](/el/lektionen/lektion44)
+*   **Αντωνυμίες**:
+*   Ερωτηματικές & Αποδεικτικές αντωνυμίες -\> [Μάθημα 4](/el/lektionen/lektion04)
+*   Σχέτικές αντωνυμίες (yad) -\> [Μάθημα 19](/el/lektionen/lektion19)
+*   Προσωπικές αντωνυμίες (1η & 2η πρόσωπο) -\> [Μάθημα 46](/el/lektionen/lektion46), [Μάθημα 47](/el/lektionen/lektion47)
+*   Αόριστες αντωνυμίες -\> [Μάθημα 37](/el/lektionen/lektion37)
+*   **Επίρρηματα & Προσφώνηση**:
+*   Σχηματισμός επιρρημάτων -\> [Μάθημα 37](/el/lektionen/lektion37), [Μάθημα 52](/el/lektionen/lektion52)
+*   Ευγενική προσφώνηση & Κλητική -\> [Μάθημα 21](/el/lektionen/lektion21), [Μάθημα 44](/el/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Ρήματα (Συζυγία)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -\> [Lektion 6](/el/lektionen/lektion06), [Lektion 44](/el/lektionen/lektion44), [Lektion 39](/el/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -\> [Lektion 6](/el/lektionen/lektion06), [Lektion 28](/el/lektionen/lektion28)
-    *   Athematische Klassen -\> [Lektion 17](/el/lektionen/lektion17), [Lektion 33](/el/lektionen/lektion33), [Lektion 7](/el/lektionen/lektion07), [Lektion 31](/el/lektionen/lektion31), [Lektion 8](/el/lektionen/lektion08), [Lektion 30](/el/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -\> [Lektion 32](/el/lektionen/lektion32)
-    *   **Optativ & Imperativ** -\> [Lektion 30](/el/lektionen/lektion30), [Lektion 48](/el/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -\> [Lektion 34](/el/lektionen/lektion34), [Lektion 35](/el/lektionen/lektion35), [Lektion 36](/el/lektionen/lektion36)
-    *   **Perfekt (Dual)** -\> [Lektion 60](/el/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -\> [Lektion 26](/el/lektionen/lektion26), [Lektion 61](/el/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -\> [Lektion 54](/el/lektionen/lektion54), [Lektion 55](/el/lektionen/lektion55), [Lektion 56](/el/lektionen/lektion56), [Lektion 57](/el/lektionen/lektion57), [Lektion 58](/el/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -\> [Lektion 10](/el/lektionen/lektion10), [Lektion 28](/el/lektionen/lektion28), [Lektion 29](/el/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -\> [Lektion 61](/el/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -\> [Lektion 59](/el/lektionen/lektion59), [Lektion 60](/el/lektionen/lektion60)
+*   **Το σύστημα του Ενεστώτα (Οριστική)**:
+*   Προσωπικές καταλήξεις (3η, 2η, 1η πρόσωπο) -\> [Μάθημα 6](/el/lektionen/lektion06), [Μάθημα 44](/el/lektionen/lektion44), [Μάθημα 39](/el/lektionen/lektion39)
+*   Θεματικές τάξεις (1, 4, 6, 10) -\> [Μάθημα 6](/el/lektionen/lektion06), [Μάθημα 28](/el/lektionen/lektion28)
+*   Αθεματικές τάξεις -\> [Μάθημα 17](/el/lektionen/lektion17), [Μάθημα 33](/el/lektionen/lektion33), [Μάθημα 7](/el/lektionen/lektion07), [Μάθημα 31](/el/lektionen/lektion31), [Μάθημα 8](/el/lektionen/lektion08), [Μάθημα 30](/el/lektionen/lektion30)
+*   **Άλλες χρόνοι & τρόποι**:
+*   **Παρατατικός** (Παρελθόν) -\> [Μάθημα 32](/el/lektionen/lektion32)
+*   **Υποτακτική & Ευκτική** -\> [Μάθημα 30](/el/lektionen/lektion30), [Μάθημα 48](/el/lektionen/lektion48)
+*   **Παρακείμενος** (Ενικός/Πληθυντικός) -\> [Μάθημα 34](/el/lektionen/lektion34), [Μάθημα 35](/el/lektionen/lektion35), [Μάθημα 36](/el/lektionen/lektion36)
+*   **Παρακείμενος (Δυϊκός)** -\> [Μάθημα 60](/el/lektionen/lektion60)
+*   **Μέλλοντας** (Απλός & Περιφραστικός) -\> [Μάθημα 26](/el/lektionen/lektion26), [Μάθημα 61](/el/lektionen/lektion61)
+*   **Αόριστος** (Παρελθόν) -\> [Μάθημα 54](/el/lektionen/lektion54), [Μάθημα 55](/el/lektionen/lektion55), [Μάθημα 56](/el/lektionen/lektion56), [Μάθημα 57](/el/lektionen/lektion57), [Μάθημα 58](/el/lektionen/lektion58)
+*   **Παράγωγες ρηματικές μορφές**:
+*   **Παθητικό & Αιτιατικό** -\> [Μάθημα 10](/el/lektionen/lektion10), [Μάθημα 28](/el/lektionen/lektion28), [Μάθημα 29](/el/lektionen/lektion29)
+*   **Εντατικό & Ονοματοποιήματα** -\> [Μάθημα 61](/el/lektionen/lektion61)
+*   **Ρήματα στον Δυϊκό (Διπλή πληθυντικότητα)** -\> [Μάθημα 59](/el/lektionen/lektion59), [Μάθημα 60](/el/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Ονοματοποιητικές διαδικασίες & σύνθετα
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/el/lektionen/lektion05), [Lektion 9](/el/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/el/lektionen/lektion15), [Lektion 18](/el/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/el/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/el/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/el/lektionen/lektion08), [Lektion 9](/el/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/el/lektionen/lektion12), [Lektion 13](/el/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/el/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/el/lektionen/lektion22), [Lektion 23](/el/lektionen/lektion23)
+*   **Σύνθετα (Samāsa)**:
+*   **Dvandva** (συντακτικό σύνθετο) -\> [Μάθημα 5](/el/lektionen/lektion05), [Μάθημα 9](/el/lektionen/lektion09)
+*   **Tatpuruṣa** (καθοριστικό σύνθετο) -\> [Μάθημα 15](/el/lektionen/lektion15), [Μάθημα 18](/el/lektionen/lektion18)
+*   Upapada σύνθετα -\> [Μάθημα 51](/el/lektionen/lektion51)
+*   **Bahuvrīhi** (ιδιοκτησιακό σύνθετο) -\> [Μάθημα 20](/el/lektionen/lektion20)
+*   **Καταλήξεις & μετοχές**:
+*   Σημαντικές καταλήξεις (-a, -ana, -tra, κ.λπ.) -\> [Μάθημα 8](/el/lektionen/lektion08), [Μάθημα 9](/el/lektionen/lektion09)
+*   **PPP** (Μετοχή Παρακειμένου Παθητικού) -\> [Μάθημα 12](/el/lektionen/lektion12), [Μάθημα 13](/el/lektionen/lektion13)
+*   **PPA** (Μετοχή Παρακειμένου Ενεργητικού) -\> [Μάθημα 52](/el/lektionen/lektion52)
+*   **Απόλυτο & Απαρέμφατο** -\> [Μάθημα 22](/el/lektionen/lektion22), [Μάθημα 23](/el/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Σύνταξη (Syntax)
 
-*   **Der Nominalsatz** -\> [Lektion 2](/el/lektionen/lektion02)
-*   **Der Fragesatz** -\> [Lektion 37](/el/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -\> [Lektion 2](/el/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -\> [Lektion 7](/el/lektionen/lektion07), [Lektion 11](/el/lektionen/lektion11)
-    *   Instrumentalis -\> [Lektion 10](/el/lektionen/lektion10)
-    *   Genitiv -\> [Lektion 14](/el/lektionen/lektion14)
-    *   Dativ -\> [Lektion 24](/el/lektionen/lektion24)
-    *   Ablativ -\> [Lektion 25](/el/lektionen/lektion25)
-    *   Lokativ -\> [Lektion 27](/el/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -\> [Lektion 19](/el/lektionen/lektion19)
-    *   Gebrauch der Partizipien -\> [Lektion 12](/el/lektionen/lektion12), [Lektion 44](/el/lektionen/lektion44)
+*   **Η ονοματική πρόταση** -\> [Μάθημα 2](/el/lektionen/lektion02)
+*   **Η ερωτηματική πρόταση** -\> [Μάθημα 37](/el/lektionen/lektion37)
+*   **Χρήση πτώσεων**:
+*   Ονοματική πρόταση & Ονομαστική -\> [Μάθημα 2](/el/lektionen/lektion02)
+*   Αιτιατική (ακόμη και διπλή) -\> [Μάθημα 7](/el/lektionen/lektion07), [Μάθημα 11](/el/lektionen/lektion11)
+*   Εργατική -\> [Μάθημα 10](/el/lektionen/lektion10)
+*   Γενική -\> [Μάθημα 14](/el/lektionen/lektion14)
+* Δοτική -\> [Μάθημα 24](/el/lektionen/lektion24)
+* Αποθετική -\> [Μάθημα 25](/el/lektionen/lektion25)
+* Τοπική -\> [Μάθημα 27](/el/lektionen/lektion27)
+*   **Υποτακτικές προτάσεις**:
+* Σχέσεις -\> [Μάθημα 19](/el/lektionen/lektion19)
+* Χρήση μετοχών -\> [Μάθημα 12](/el/lektionen/lektion12), [Μάθημα 44](/el/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Μετρική (Μετρική Επιστήμη)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Η σανσκριτική φιλοσοφία και η λογοτεχνία συχνά συντάσσονται σε στίχους. Η μετρική διδάσκει τον ρυθμό και τη δομή αυτών των στίχων.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/el/lektionen/lektion45), [Lektion 53](/el/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/el/lektionen/lektion54)
+*   **Εισαγωγή & Śloka** -\> [Μάθημα 45](/el/lektionen/lektion45), [Μάθημα 53](/el/lektionen/lektion53)
+*   **Προχωρημένα μέτρα** (Trīṣṭubh, Jāgatī) -\> [Μάθημα 54](/el/lektionen/lektion54)
 

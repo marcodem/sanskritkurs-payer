@@ -1,408 +1,388 @@
-
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Les 24"
+subtitle: 'De datief (⟪चतुर्थी⟫ = "vierde kasusuitgang")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. De datief (⟪चतुर्थी⟫ = "vierde kasusuitgang")
 
 ::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.**
+**1. Om het doel of een voornemen ("om te") van een handeling weer te geven, kan men in plaats van het infinitief (⟪तुमुन्⟫) ook een zelfstandig naamwoord met kṛt-suffix, dat een handeling of toestand aanduidt, in de datief (⟪चतुर्थी⟫ = "vierde kasusuitgang") gebruiken.**
 
-Beispiel:
+Voorbeeld:
 
-anstatt:
+in plaats van:
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
 :::
-kann man auch sagen:
+kan men ook zeggen:
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
-oder:
+of:
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनश्रवणाय गतः ।⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+= "Rāma is gegaan om de rede van de leraar te horen."
 ::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404))
+Afb.: ⟪बाला गुरुश्रवणाय गताः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
+**2. De datief (⟪चतुर्थी⟫) kan ook het object van een aan te vullen infinitief van doel aanduiden:**
 
-Beispiel:
+Voorbeeld:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
+⟪फलेभ्यो ग्रामं गच्छति⟫ = "Hij gaat met het doel van vruchten naar het dorp = Hij gaat naar het dorp om vruchten te halen."
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
+**Op dezelfde manier duidt de datief (⟪चतुर्थी⟫) het doel van een ding of handeling aan:**
 
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+⟪यज्ञायान्नम्⟫ = "Voedsel met het doel van een offer = Voedsel voor een offer"
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401))
+Af.: ⟪यज्ञायान्नम्⟫
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] is een traditioneel hindoe-evenement dat plaatsvindt tijdens de vieringen van het Hindoese Nieuwjaar in alle BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Honderden vegetarische gerechten worden op deze dag aangeboden aan Bhagwan Swaminarayan [સ્વામિનારાયણ].
+(Bron afbeelding: [Details](/nl/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)**
+**3. De datief (⟪चतुर्थी⟫) duidt ook op de persoon of het ding waarvoor het object van een handeling bestemd is (indirect object; vraag: aan wie?). (Let op echter de werkwoorden met dubbele accusatief (⟪द्वितीया⟫)!)**
 
-Beispiel:
+Voorbeeld:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse)
+⟪रामाय फलं ददाति⟫ = "Hij geeft Rāma een vrucht." (Wortel ⟪दा⟫ 3. tegenwoordige tijd klasse)
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402))
+Afb.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
+Raksha bandhan wordt met enthousiasme en vreugde overal in India gevierd. Dit feest belichaamt de onvoorwaardelijke liefde tussen broers en zusters.
+(Bron afbeelding: [Details](/nl/licenses#lekt2402))
 :::
 
 ::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
+**4. De datief staat bij sommige werkwoorden (en enkele andere woorden) vergelijkbaar met het Duits op de vraag "aan wie?":**
 
-Beispiele:
+Voorbeelden:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern."
+⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = "De god is boos op de mensen."
 
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen"
+⟪अलम्⟫ Adverbium: "genoeg, voldoende, gelijkwaardig": ⟪अलं योधो योधाय⟫ = "een krijger is de andere krijger gelijk"
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403))
+Afb.: ⟪अलं योधो योधाय⟫
+"Rama (rechts) zittend op de schouders van Hanuman, strijdt tegen de demonenkoning Ravana." ca. 1820
+(Bron afbeelding: [Details](/nl/licenses#lekt2403))
 :::
-Weitere Verwendungen des Dativ später.
+Verdere gebruiksmogelijkheden van de datief later.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Vorming van de datief (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Die regelmässigen Endungen des Dativ sind:**
+**De regelmatige uitgangen van de datief zijn:**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
+* **Enkelvoud: -e ; op een klinker eindigende vrouwelijke stamwoorden: -ai**
+* **Meervoud: Datief en Ablatief ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Medeklinker-stammen
 
 ::: grammar-box
 
-| | Dativ Singular | Dativ Plural |
+| | Datief enkelvoud | Datief meervoud |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
 | ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
 | ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
-
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Vraagwoorden
 
 ::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum |
+| | Mannelijk / Onzijdig | Vrouwelijk |
 | :--- | :--- | :--- |
-| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
+| **Datief enkelvoud** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Datief meervoud** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Aanwijzende voornaamwoorden
 
 ::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
-| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
-| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
-| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
+| **Mannelijk / Onzijdig** | **Dat. enkelvoud** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. mv.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **Vrouwelijk** | **Dat. enkelvoud** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. mv.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Klinkerstammen
 
 ::: grammar-box
-**Vokalische Stämme**
+**Vocalische stammen**
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫
+* **Mannelijke / onzijdige woorden op -a:** ⟪देव⟫
   * Dat. sg. ⟪देवाय⟫
-  * Dat. pl. ⟪देवेभ्यस्⟫
-* **Maskulina auf -i:** ⟪कवि⟫
-  * Dat. sg. ⟪कवये⟫
-  * Dat. pl. ⟪कविभ्यस्⟫
-* **Maskulina auf -u:** ⟪पशु⟫
-  * Dat. sg. ⟪पशवे⟫
-  * Dat. pl. ⟪पशुभ्यस्⟫
-* **Feminina auf -ā:** ⟪देवता⟫
-  * Dat. sg. ⟪देवतायै⟫
-  * Dat. pl. ⟪देवताभ्यस्⟫
-* **Feminina auf -ī:** ⟪देवी⟫
-  * Dat. sg. ⟪देव्यै⟫
+  * Dat. mv. ⟪देवेभ्यस्⟫
+* **Mannelijke zelfstandige naamwoorden op -i:** ⟪कवि⟫
+  * Dat. en. ⟪कवये⟫
+  * Dat. mv. ⟪कविभ्यस्⟫
+* **Mannelijke woorden op -u:** ⟪पशु⟫
+  * Dat. enkelvoud ⟪पशवे⟫
+  * Dat. meervoud ⟪पशुभ्यस्⟫
+* **Vrouwelijke woorden op -ā:** ⟪देवता⟫
+  * Dat. enkelvoud ⟪देवतायै⟫
+  * Dat. mv. ⟪देवताभ्यस्⟫
+* **Vrouwelijke zelfstandige naamwoorden op -ī:** ⟪देवी⟫
+  * Dat. en. ⟪देव्यै⟫
   * Dat. pl. ⟪देवीभ्यस्⟫
-* **Feminina auf -i:** ⟪श्रुति⟫
-  * Dat. sg. ⟪श्रुतये⟫ oder ⟪श्रुत्यै⟫ (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
+* **Vrouwelijke zelfstandige naamwoorden op -i:** ⟪श्रुति⟫
+  * Dat. enkelvoud ⟪श्रुतये⟫ of ⟪श्रुत्यै⟫ (d.w.z. zoals ⟪कवि⟫ of zoals ⟪देवी⟫)
   * Dat. pl. ⟪श्रुतिभ्यस्⟫
-* **Feminina auf -u:** ⟪धेनु⟫
-  * Dat. sg. ⟪धेनवे⟫ oder ⟪धेन्वै⟫
+* **Vrouwelijke zelfstandige naamwoorden op -u:** ⟪धेनु⟫
+  * Dat. sg. ⟪धेनवे⟫ of ⟪धेन्वै⟫
   * Dat. pl. ⟪धेनुभ्यस्⟫
 :::
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. Sandhi van -ai en -au aan het einde van een woord
 
 ::: grammar-box
-**Sandhi von auslautendem -ai und -au**
+**Sandhi van -ai en -au aan het einde van een woord**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)**
-
-Beispiel:
+* **-ai voor een initieel klinker wordt doorgaans vervangen door -ā (zelden door -āy, zoals in het midden van een woord)**
+* **-au voor een klinker wordt doorgaans vervangen door -āv (zelden door -ā)**
+Voorbeeld:
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "dit vuur"
 :::
-## 24.4. Wortliste
+## 24.4. Woordenlijst
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
+⟪अलम्⟫ Bijwoord: genoeg, voldoende, (iemand, iets) aan kunnen ; met datief: genoeg voor, voldoende voor, aan kunnen ; met instrumentaal: genoeg met, laat het los, bijv. ⟪अलं क्रोधेन⟫ = "genoeg met de woede = laat de woede varen!"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
+Op dezelfde manier wordt ⟪अलम्⟫ met de instrumentalis gebruikt:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = „Het is afgelopen met de woede = laat de woede rusten!”
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : versieren
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ m.: sieraden, versieringen (in de poëzie)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+Afb.: ⟪अलंकारः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ m.: drijfveer, aanleiding, oorzaak, reden; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ met genitief of als tweede deel van een samengesteld woord = "omwille van..., vanwege"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ v.: beeltenis, afbeelding
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Afb.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+(Bron afbeelding: [Details](/nl/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : plaatsvinden, gebeuren, ontstaan
 
-Von ⟪वृत्⟫:
+Van ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ v.: gedrag, activiteit, levenswijze
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ zn.: gedrag
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ Prepositie:  naar, in de richting van, naar toe, tegen, in, met betrekking tot, op, over, aan
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Voorvoegsel: naar beneden, naar binnen, achteruit
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ Voorzetsel / achterzetsel: vóór de ablatief of na de accusatief: tot aan, tot; met de ablatief: van daar, vanaf, sinds
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ Onverbuigbaar: van daar, toen, daarom, vandaar (pronominale stam a- „deze“ + ablatiefsuffix -tas)
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: opziener, departementshoofd ; ooggetuige
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: kracht, zintuig
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: overweging, argumentatie
 
-davon
+daarvan
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: negatie (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: discussie over voor en tegen
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+Afb.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+(Beeldbron: [Details](/nl/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nuttig
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: bosproduct, metaal (geen edelmetaal)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : zien, zichtbaar worden ; noemen, verklaren, meedelen
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : vertellen
 
-davon:
+daarvan:
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: vertelling
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+Afb.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+(Beeldbron: [Details](/nl/licenses#lekt2408))
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : optellen, berekenen
 
-davon:
+daarvan:
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+⟪संख्या⟫ f.: telling, opsomming ; ⟪सांख्य⟫ n.: een van de zes filosofische systemen (kort: Basham, Wonder p. 326v.)
 :::
-⟪ग्रहण⟫ n.: Ergreifen
+⟪ग्रहण⟫ n.: grijpen
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
+⟪चौल⟫ n.: ceremonie (⟪संस्कार⟫) van het haar knippen (op de leeftijd van 3 jaar)
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
+⟪तत्त्व⟫ n.: ware wezen, waarheid, realiteit (⟪तद्⟫ + ⟪त्व⟫ = Dit-heid)
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
+⟪स्वस्ति⟫ f.: geluk, heil (nominale vorming uit ⟪सु अस्ति⟫ = "het is goed")
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: buiging, eerbewijzing, groet (declinatie later). Begrotingsformule: ⟪नमो नमः⟫
 
-davon:
+daarvan:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : zich buigen, eren, begroeten
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+Afb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Handschrift van de ⟪गीतगोविन्द⟫, 1730 n.Chr.
+(Bron afbeelding: [Details](/nl/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: welkom (uit su-ā-gata)
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: grassteel
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ Adverb: wederom, weer, terug, maar
 
-## 24.5. Übung
+## 24.5. Oefening
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) Vorm de datief enkelvoud en de datief/(ablatief) meervoud en geef de betekenis van de nominale stam aan:
 
-1.  ⟪श्रव⟫
-2.  ⟪भवन⟫
-3.  ⟪गति⟫
-4.  ⟪ऋषि⟫
-5.  ⟪सुख⟫
-6.  ⟪गमन⟫
-7.  ⟪जय⟫
-8.  ⟪साधु⟫
-9.  ⟪धेनु⟫
-10.  ⟪शुद्रा⟫
-11.  ⟪ब्राह्मणी⟫
-12.  ⟪अग्नि⟫
-13.  ⟪एतद्⟫ ⟪३⟫
-14.  ⟪सन्त्⟫
-15.  ⟪बुद्धिमन्त्⟫
-16.  ⟪यज्ञ⟫
-17.  ⟪वचन⟫
-18.  ⟪सत्यवन्त्⟫
-19.  ⟪स्मृति⟫
-20.  ⟪सर्ग⟫
-21.  ⟪स्वर्ग⟫
-22.  ⟪दर्शन⟫
-23.  ⟪सृष्टि⟫
-24.  ⟪अर्हन्त्⟫
-25.  ⟪भक्ति⟫
-26.  ⟪दोष⟫
-27.  ⟪पूजा⟫
-28.  ⟪दासी⟫
-29.  ⟪गुरु⟫
+1. ⟪श्रव⟫
+2. ⟪भवन⟫
+3. ⟪गति⟫
+4. ⟪ऋषि⟫
+5. ⟪सुख⟫
+6. ⟪गमन⟫
+7. ⟪जय⟫
+8. ⟪साधु⟫
+9. ⟪धेनु⟫
+10. ⟪शुद्रा⟫
+11. ⟪ब्राह्मणी⟫
+12. ⟪अग्नि⟫
+13. ⟪एतद् ३⟫
+14. ⟪सन्त्⟫
+15. ⟪बुद्धिमन्त्⟫
+16. ⟪यज्ञ⟫
+17. ⟪वचन⟫
+18. ⟪सत्यवन्त्⟫
+19. ⟪स्मृति⟫
+20. ⟪सर्ग⟫
+21. ⟪स्वर्ग⟫
+22. ⟪दर्शन⟫
+23. ⟪सृष्टि⟫
+24. ⟪अर्हन्त्⟫
+25. ⟪भक्ति⟫
+26. ⟪दोष⟫
+27. ⟪पूजा⟫
+28. ⟪दासी⟫
+29. ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Vertaal en ontbind de samenstellingen in het Sanskriet:
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
+⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥ नरा धनलाभाय व्रतानि चरन्ति ॥२॥ गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥ बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥ देवप्रतिमायै गृहं गर्भगृहम् ॥५॥ स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥ मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥ देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥ मरणाय जना जायन्ते ॥९॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
+C) Geef de zinnen A) 1-4 in het Sanskriet weer door in plaats van de datief infinitieven (⟪तुमुन्⟫) te plaatsen. Let op dat de infinitief dezelfde kasus regeert als het corresponderende werkwoord.
+D) Vervang in zin A) 7 de constructie met -⟪अर्थ⟫ door een gelijkwaardige datiefconstructie.
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
+E) Vervang in zin A) 6 de datiefconstructie door een gelijkwaardige constructie met -⟪अर्थ⟫
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
+## 24.6. Verdere oefeningen over het gebruik van de datief
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
+Vertaal naar het Sanskriet:
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
+1\. De godin aan wie men geen offer heeft gebracht, is boos op de mensen.
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
+2\. Hij laat de koe los in het dorp.
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
+3\. Nu is het genoeg = Genoeg geduld.
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
+4\. Dat is goed (⟪हित⟫, ⟪सुख⟫) voor een brahmaan.
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb.
-
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
-
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
-
-## 24.6. Weitere Übungen zum Gebrauch des Dativ
-
-Übersetzen Sie ins Sanskrit:
-
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-
-2\. Er lässt die Kuh ins Dorf los.
-
-3\. Jetzt reichts = Genug mit der Geduld.
-
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen.
-
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
+5\. Eer (⟪नमस्⟫) aan Śiva! Eer aan Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409))
+Afb.: ⟪श्रीगणेशाय नमः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt2409))
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
+6\. Tot ziens! (= Het ga u goed (⟪स्वस्ति⟫ v.)!)
 
-7\. Diese Frucht reicht zum Essen.
+7\. Deze vrucht is genoeg om te eten.
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫).
+8\. Een strijder is de (andere) strijder gewaagd (⟪शक्त⟫).
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+9\. Zelfs Viṣṇu overtreft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva niet.
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
+10\. Nadat ik voor de drie wijzen (Akk.) heb gebogen (⟪नमस्कृ⟫)... Hij buigt voor Narasiṃha (dat.)
 
 ::: indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+Uitleg: ⟪मुनित्रयम्⟫ "de Drie-eenheid van de Wijzen = de drie Wijzen" = de grammatici ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410))
+Afb.: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ verscheurt ⟪हिरण्यकशिपु⟫, blad uit een manuscript van ⟪भागवतपुराण⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt2410))
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
+11\. Welkom (⟪स्वागतम्⟫)  aan u. Welkom aan de koningin.
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen!
+12\. Ik wens u welzijn (⟪कुशल⟫) = Welzijn voor u!
 
-13\. Er betrachtet ihn nicht als Grashalm.
+13\. Hij beschouwt hem niet als een grassprietje.
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
+14\. Eén vrucht om te eten en water om te drinken is voldoende.
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
+15⟪१५⟫. Tot ziens! (Neusanskriet: ⟪पुनर्दर्शनाय⟫)
 

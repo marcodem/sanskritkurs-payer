@@ -179,39 +179,23 @@ c) kastimaisten **omistautumisten** kautta poliittisiin tai hierokraattisiin her
 
 Syntymäkastimainen kehitys on säännönmukaisesti muoto (perinnöllisestä) omistautumisesta etuoikeuksiin yhdistykselle tai kvalifioiduille yksilöille. Jokaista kiinteää mahdollisuuksien omistautumista, erityisesti [herruus]valtojen tai ansaintamahdollisuuksien omistautumista, pyrkii johtamaan kastimuodostukseen. Jokaista kastimuodostusta pyrkii johtamaan monopolistiseen herruusvaltojen ja ansaintamahdollisuuksien omistautumiseen.
 
-Ansaintaklassat kasvavat markkinatalouden pohjalla, kun taas kastit syntyvät ja säilyvät mieluiten monopolistisesti liturgisen tai feodaalisen tai kastimaisen patriarkaalisessa tarpeentyydytyksen yhdistysten pohjalla.
+Kastat voivat syntyä
+a) primäärisesti, oman kastimaisen elämäntavan kautta, erityisesti ammatin (**elämäntapa- tai ammattikastit**) muodolla,
+b) sekundaarisesti, perinnölliskarismaattisesti, menestyksekkäiden arvovaltavaatimusten kautta kastimaisen **syntyperän** (**syntymäkastit**) voimin,
+c) kastimaisten **omistautumisten** kautta poliittisiin tai hierokraattisiin herruusvaltoihin monopoleina (**poliittiset tai hierokraattiset kastit**).
 
-»**Kastimainen**« yhteisön tulee olla, jos sosiaalinen eriytyminen tapahtuu mieluiten kastien mukaan, »**luokkainen**«, jos se tapahtuu mieluiten luokkien mukaan. »Kastille« läheisin on »sosiaalinen« luokka, ja »ansaintaluokalle« kaukaisin. Kastit muodostuvat usein keskipisteen mukaan omaisuusluokkien kautta.
+Syntymäkastimainen kehitys on säännönmukaisesti muoto (perinnöllisestä) omistautumisesta etuoikeuksiin yhdistykselle tai kvalifioiduille yksilöille. Jokaista kiinteää mahdollisuuksien omistautumista, erityisesti [herruus]valtojen tai ansaintamahdollisuuksien omistautumista, pyrkii johtamaan kastimuodostukseen. Jokaista kastimuodostusta pyrkii johtamaan monopolistiseen herruusvaltojen ja ansaintamahdollisuuksien omistautumiseen.
 
-Jokaista kastimaista yhteisöä on konventionaalinen, elämäntavan säännöillä järjestetty, luo siksi taloudellisesti irrationaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen omistautumisten kautta ja oman ansaintakyvyn vapaan hallinnan poissulkemisen kautta vapaan markkinamuodostuksen.
+Ansaintaluokat kasvavat markkinatalouden pohjalla, kun taas kastit syntyvät ja säilyvät mieluiten monopolistisesti liturgisen tai feodaalisen tai kastimaisen patriarkaalisen tarpeentäyttämisen pohjalla yhdistyksille.
 
-[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
-:::
-Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia.
+»**Kastimainen**« yhteisön tulee olla, jos sosiaalinen eriytyminen tapahtuu mieluiten kastien mukaan, »**luokkainen**«, jos se tapahtuu mieluiten luokkien mukaan. »Kastille« on lähimpänä »luokista» sosiaalinen luokka, ja kauimpana ansaintaluokka. Kastit muodostuvat usein keskipisteen mukaan omaisuusluokkien kautta.
 
-**kavi** m. -- ⟪कवि⟫ : runoilija.
-
-**agni** m. -- ⟪अग्नि⟫ : tuli, jumala Agni.
-
-::: media
-![](/images/lekt0203.jpg)
-Kuv.: Jumala Agni, miniatyyri, 1700-luku.
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt0203))
-:::
-**sādhu** 3 -- ⟪साधु⟫ : oikea, hyvä.
-
-**sādhu** m. -- ⟪साधु⟫ : "pyhä" mies, sādhu.
-
-::: media
-![](/images/lekt0202.webp)
-Kuv.: Sādhu (⟪साधु⟫), Pashupatinathin temppeli, Kathmandu.
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt0202))
-:::
-**guru** 3 -- ⟪गुरु⟫ : raskas, merkittävä, kunnioitettava
+Jokaista kastimaista yhteisöä on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irrationaaliset kulusehdot ja estää tällä tavalla monopolististen omistautumisten kautta ja oman ansaintakyvyn vapaan hallinnan poissulkemisen kautta vapaan markkinamuodostuksen.
 
 **guru** m. -- ⟪गुरु⟫ : kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari
 
 
+:::
 ## 2.6. Harjoitukset
 
 **A) Kirjoita lauseet täydellisinä nominatiivilauseina huomioiden sandhi-säännöt:**

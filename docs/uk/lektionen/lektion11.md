@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!--  -→
+---
 
 # Урок 11
 
@@ -138,4 +138,4 @@ status: stable
 Рис.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt1103))
 :::
- &lt;!--  -→
+ \<!--  -→

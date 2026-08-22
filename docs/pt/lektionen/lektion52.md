@@ -382,7 +382,6 @@ As Sete Estrelas = as sete estrelas mais brilhantes da Ursa Maior
 (Fonte da imagem: [Detalhes](/licenses#lekt5206))
 :::
 
-:::
 ::: grammar-box
 **Regra 2: Em desvio da Regra 1, uma palavra que designa uma direção cardeal ou um numeral cardinal pode formar um Tatpuruṣa com outro nome se**
 
@@ -696,7 +695,6 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, c. 1810
 (Fonte da imagem: [Detalhes](/licenses#lekt5216))
 :::
 
-:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
@@ -780,5 +778,4 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Fonte da imagem: [Details](/licenses#lekt5201))
 :::
 
-:::
 

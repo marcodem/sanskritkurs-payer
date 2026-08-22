@@ -42,63 +42,66 @@ Tällaiset muodot voivat kuulua myös juurtaoristiin, ja ne todennäköisesti os
 Intialaiset grammatikot ovat laskeneet myös muodot kuten ⟪अकृत⟩ (3.sg.Ā) s-aoristiin, jotka selvästi kuuluvat juurtaoristiin. Tätä varten intialaiset grammatikot keksivät seuraavan ad-hoc-äännesäännön s-aoristille:
 
 ::: indent
-"Lyhyen vokaalin jälkeen 'päätteet', jotka alkavat -st- tai -sth-, menettävät -s-."
+"Kunsvokaalin jälkeen -s- tai -sth- alkuiset pääteosat menettävät -s:n."
 :::
-Muuten on noudatettava äännesääntöjä, jotka koskevat loppupään konsonanttien liittymistä s-:n kanssa.
+Muuten on noudatettava äänteenmuutoslakeja, jotka koskevat loppukonsonanttien ja s:n yhdistymistä.
 
--dhvam:n kohdalla pätee:
+dhvamille pätee:
 
 ::: grammar-box
-**-dh- muuttuu -ḍh:ksi -dhvam:n jälkeen kaikissa ei-a/ā-vokaaleissa sekä -r:n jälkeen.**
+**-dhvam:n -dh- korvataan kaikien ei-a/ā-vokaalien sekä -r:n jälkeen muodolla -ḍh-.**
 
 :::
 ::: indent
 esim. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
-**Vartalon muoto:**
+**Verbijuurten muoto:**
 
 *   **⟪परस्मैपद⟫ : Pituusaste**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Vartalon päättyessä i/ī/u/ū:yn: Korkea-aste**
-    *   **-ṝ korvataan -īr:llä tai -ūr:lla**
-    *   **Vaihtelukykyiset vartalon päättyessä ā/e/o:yn: Matala-aste**
-    *   **muut vartalonvokaalit: muuttumattomat (ts. yleensä matala-asteiset)**
+*   **i/ī/u/ū-päätteiset juuret: Korkea-aste**
+*   **-ṝ korvataan muodolla -īr tai -ūr**
+*   **ablautikykyiset juuret ā/e/o-päätteisinä: Matala-aste**
+*   **muut juurivokaalit: muuttumattomat (ts. yleensä matala-asteisia)**
 :::
-Esimerkit:
+Esimerkkejä:
 
-|   | **3.prs.** |
+|   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
 | ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
 | ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
 
-|   | **3.prs.Ā** |
+|   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
-|   | **prs.Ā** |
+|   | **sg.Ā** |
 | ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
-|   | **1.prs.Ā** |
-| ⟪कृ⟩ 8U | ⟪अकृषि⟫ |
-| ⟪पच्⟩ 1U | ⟪अपक्षि⟫ |
+|   | **1.sg.Ā** |
+| ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
+| ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟩ ja ⟪सृज्⟩ ovat ⟪परस्मैपद⟩-taivutuksessa pitkässä muodossa nousevalla diftongilla -rā-:**
+**⟪दृश्⟫ ja ⟪सृज्⟫ muodostavat ⟪परस्मैपद⟫-asteella pituusasteen nousevalla diftongilla -rā-:**
 
 :::
 ::: indent
-⟪दृश्⟩ 3.prs.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
+⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Juurin mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Myös muiden juurten aoristit, joissa on -ṛ- toiseksi viimeisenä vokaalina, voidaan muodostaa näin:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
+Paradigmat:
+
+⟪नी⟫ 1U "johtaa"
 Paradigmat:
 
 ⟪नी⟫ 1U "johtaa"
@@ -235,4 +238,3 @@ B) Käännä ja määritä seuraavat muodot:
 54.  ⟪आदि्षि⟫
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
-

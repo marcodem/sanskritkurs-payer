@@ -104,7 +104,7 @@ Fig. : ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercice
 
-A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l'imparfait \&lt;⟪लङ्⟫\&gt;) :
+A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l'imparfait \<⟪लङ्⟫\>) :
 
 1\. Tu fais scinder la (bouddhiste) communauté.
 

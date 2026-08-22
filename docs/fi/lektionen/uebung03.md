@@ -172,4 +172,3 @@ dvijāḥ kṣatriyāḥ.
 Kuv.: ⟪पशुर्धेनुः⟫
 (Kuv lähde: [Details](/licenses#uebung001))
 :::
-:::

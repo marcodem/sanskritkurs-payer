@@ -10,12 +10,12 @@ status: stable
 
 # Lectio 26
 
-## 26.1. Lexem de cerebratione pro -s- in medio verbi
+## 26.1. Lexem cerebrale pro -s- in medio verbi
 
 ::: grammar-box
-**-s-** per **-ṣ-** mutatur, si **k, r, l** aut **vocalis** — praeter **a, ā** — immediate aut solum per ⟪अनुस्वार⟫ aut ⟪विसर्ग⟫ separata praecedit et alius sonus quam **ṛ, r** sequitur.
+**-s-** per **-ṣ-** mutatur, si **k, r, l** vel **vocalis** — praeter **a, ā** — immediate aut solum per ⟪अनुस्वार⟫ vel ⟪विसर्ग⟫ separata praecedit et alius sonus quam **ṛ, r** sequitur.
 
-Huic sandhi etiam **⟪दुस्⟫-** praeter sonoros gutturales et labiales in compositionibus sequitur.
+Huic Sandhi etiam **⟪दुस्⟫-** ante gutturales et labiales mutas in compositione obtemperat.
 :::
 *Exempla:*
 ::: indent
@@ -23,43 +23,42 @@ Huic sandhi etiam **⟪दुस्⟫-** praeter sonoros gutturales et labiales
 
 sed: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Lexem cerebralisans dentium in medio verbi
+## 26.2. Lexem cerebrale pro dentibus in medio verbi
 
 ::: grammar-box
-Dentales clausi post retroflexos (incluso **-ṣ-**) retroflexis correspondentibus substituuntur:
+Dentales occlusi post retroflexos (incluso **-ṣ-**) per correspondentes retroflexos mutantur:
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** propter **i** praecedens, **ṭh** propter **ṣ** subsequens)*
+**iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
+**ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
+*(**ṣ** propter praecedens **i**, **ṭh** propter sequentem deinde **ṣ**)*
 :::
-## 26.3. Wortsandhi pro palatalibus, gutturalibus, ṣ, h + -s
+## 26.3. Sandhi verborum pro palatalibus, gutturalibus, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Exempla vide infra
+Exempla infra vide
 :::
-## 26.4. Lex Grassmann de dissimilatione spirantium
+## 26.4. Lexem Grassmannianum dissimilationis spiritus
 
 ::: grammar-box
-**Una immediata consequentia duarum aspiratarum (aspirata - vocalis - aspirata) habet amissionem aspirationis primi sonoris consequentiam:**
+**Immediata consequentia duarum aspiratarum (aspirata - vocalis - aspirata) habet amissionem spiritus primi soni pro consequentia:**
 
 Exemplum:
 
 :::
 ::: indent
-\dhu(gh) » du(g)h
+\*dhu(gh) » du(g)h
 :::
-**Si secundus sonus per leges phoneticas aspirationem amittit, tunc prima sonus aspirationem recipit.**
+**Si propter leges phoneticas secundus sonus suum spiritum amittit, ita spiritus iterum in primo sono apparet.**
 
-Exempla: vide infra Futurum de  ⟪दुह्⟫ et  ⟪⟪बुध्⟫
+Exempla: vide infra Futurum de  ⟪दुह्⟫ et  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Tabula: Hermann Grassmann
-(Fons imaginis: [Detalia](/la/licenses#lekt2601))
-:::
-## 26.5. Sandhi vocabulorum pro -m, -n ante sonos sibilantes
+Abb.: Hermann Grassmann
+(Fons imaginis: [Details](/la/licenses#lekt2601))
 
+:::
 ::: grammar-box
 **Ante sibilos, -n et -m per -ṃ- mutantur:**
 
@@ -118,6 +117,14 @@ Exempla:
 
 ::: grammar-box
 
+:::
+::: indent
+⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
+:::
+Exemplaria:
+
+::: grammar-box
+
 | Radix | Futurum 3. sg. P (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
@@ -131,13 +138,13 @@ Exempla:
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ ante sordidum = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ ante Sordidum = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
 ## 26.8. Exercitatio
 
-Forma futuri, quae in numero, persona et genere verbi (Parasmaipada, Ātmanepada) respondent, formate:
+Formate formas Futuri in numero, persona et genere verbi (Parasmaipada, Ātmanepada) respondentis:  
 
 A) sine vocali coniunctiva -i-:
 
@@ -148,7 +155,7 @@ A) sine vocali coniunctiva -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (Futurum ex ⟪दृश्⟫ formans)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -194,7 +201,7 @@ B) Cum vocali coniunctiva -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (in futuro Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (in Futuro Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫

@@ -10,7 +10,6 @@ status: stable
 # Oppitunti 7
 
 
-:::
 ::: center
 **Viikon sananlasku**
 :::
@@ -32,7 +31,6 @@ Anteeksianto voittaa, ei viha,
 Jumala voittaa, ei vastajumala.
 :::
 
-:::
 ## 7.1. Verbilause suoran objektin kanssa
 
 ::: grammar-box
@@ -151,7 +149,6 @@ esim. **phala** n. = ⟪फल⟫ = "hedelmä": Nom. / Akk. sg. **phalam** = ⟪
 esim. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-:::
 ## 7.5. Athemeattiset preesensluokat
 
 Viides preesensluokka muodostaa niin kutsutun athemeattisen preesensvartalon, eli preesensvartho ei päättyy ”temaattiseen vokaaliin” **-a** kuten temaattisissa preesensluokissa (1., 4., 6. ja 10. luokka).

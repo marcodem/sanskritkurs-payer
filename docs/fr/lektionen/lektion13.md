@@ -53,6 +53,7 @@ par exemple :
 ⟪गत⟫ n. : "le fait de marcher, la marche"
 ⟪नृत्त⟫ n. : "le fait de danser, la danse"
 
+:::
 ::: grammar-box
 
 Les épithètes (attributs) se placent en prose avant le mot qu’ils déterminent plus précisément. Les épithètes adjectivales s’accordent avec le nom en nombre, cas et genre :
@@ -150,10 +151,10 @@ Pour les thèmes se terminant par une consonne :
 
 Féminin :
 
-Le thème féminin des thèmes en -mant- et -vant- se termine par -mat-ī ou -vat-ī. La déclinaison suit celle de devī, c’est-à-dire qu’il n’y a pas d’alternance de thème.
+Le radical féminin des radicaux en -mant- et -vant- se termine par -mat-ī ou -vat-ī. La déclinaison suit celle de devī, c'est-à-dire qu'il n'y a pas d'apophonie de radical.
 
 Exemple :
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
@@ -161,20 +162,20 @@ Exemple :
 
 Apprenez les mots suivants :
 
-- **eva** ⟪एव⟫ : met l'accent sur le mot précédent
-- **asura** m. ⟪असुर⟫ : démon
+**eva** ⟪एव⟫ : met l'accent sur le mot précédent
+**asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** « Spirituel, divin. »
->
-> Dans les parties les plus anciennes du Ṛgveda, ce terme est utilisé pour l'esprit suprême, et est le même que l'Ahura des Zoroastriens. Dans le sens de « dieu », il a été appliqué à plusieurs des divinités principales, comme Indra, Agni et Varuṇa. Il a ensuite acquis un sens entièrement opposé, et est venu signifier, comme maintenant, un démon ou un ennemi des dieux.
->
-> Le mot est trouvé avec cette signification dans les parties ultérieures du Ṛgveda, en particulier dans le dernier livre, et aussi dans l'Atharvaveda. Les Brāhmaṇes attachent le même sens à celui-ci, et rapportent de nombreux conflits entre les Asuras et les dieux. Selon le Taittirīya Brāhmaṇa, le souffle *(asu)* de Prajapati est devenu vivant, et « avec ce souffle, il a créé moi, Asuras. » Dans une autre partie du même ouvrage, il est dit que Prajāpati « est devenu enceinte. Il a créé des Asuras de son abdomen. » Le Śatapatha Brāhmaṇa est d'accord avec la première déclaration, et indique que « il a créé des Asuras de son souffle inférieur. » Le Taittirīya Āraṇyaka représente que Prajāpati a créé des dieux, des hommes, des pères, des Gandharvas et des Apsarases à partir de l'eau, et que les Asuras, les Rakṣasas et les piśācas sont nés des gouttes qui ont été renversées. La déclaration de Manu est qu'ils ont été créés par les Prajāpatis.
->
-> Selon le Viṣṇu Purāṇa, ils ont été produits de l'aine de Brahma (prajāpati). Le récit du Vāyu Purāṇa est : « Les Asuras ont d'abord été produits comme fils de son (Prajāpati) l'aine. *Asu* est déclaré par le Brāhmaṇa signifier souffle. De lui, ces êtres ont été produits ; de là, ils sont Asuras. » Le mot a longtemps été utilisé comme nom général pour les ennemis des dieux, y compris les Daityas et les Danavas et autres descendants de Kaśyapa, mais sans inclure les Rakṣasas descendus de Pulastya.
->
-> Dans ce sens, une dérivation différente a été trouvée pour celui-ci : la source n'est plus asu, « souffle », mais l'initial *a* est pris comme le préfixe négatif, et *asura* signifie « pas un dieu ; » d'où, selon certains, est apparu le mot *sura,* couramment utilisé pour « un dieu. » »
->
-> [Source : **Dowson, John (1820–1881) :** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> **ASURA.** 'Spirituel, divin.'
+\>
+> Dans les parties les plus anciennes du Ṛgveda, ce terme est utilisé pour l'esprit suprême et est identique à celui des Zoroastriens. Au sens de 'dieu', il a été appliqué à plusieurs des principales divinités, comme Indra, Agni et Varuṇa. Il a ensuite acquis un sens entièrement opposé et est venu signifier, comme maintenant, un démon ou ennemi des dieux.
+\>
+> Le mot est trouvé avec cette signification dans les parties plus tardives du Ṛgveda, en particulier le dernier livre, et aussi dans l'Atharvaveda. Les Brāhmaṇas lui attachent le même sens et rapportent de nombreux combats entre les Asuras et les dieux. Selon le Taittirīya Brāhmaṇa, la respiration *(asu)* de Prajapati est devenue vivante et "avec cette respiration il a créé moi Asuras." Dans une autre partie du même ouvrage, on dit que Prajāpati "est devenu enceinte. Il a créé des Asuras de son abdomen." Le Śatapatha Brāhmaṇa est d'accord avec la première déclaration et affirme que "il a créé des Asuras de sa respiration inférieure." Le Taittirīya Āraṇyaka représente que Prajāpati a créé des dieux, des hommes, des pères, des Gandharvas et des Apsarases à partir de l'eau, et que les Asuras, Rakṣasas et piśācas sont nés des gouttes qui ont été renversées. La déclaration de Manu est qu'ils ont été créés par les Prajāpatis.
+\>
+> Selon le Viṣṇu Purāṇa, ils ont été produits de l'aine de Brahma (prajāpati). Le récit du Vāyu Purāṇa est : "Les Asuras ont d'abord été produits comme fils de son (Prajāpati) aine. *Asu* est déclaré par le Brāhmaṇa signifier respiration. De lui ces êtres ont été produits ; de là ils sont Asuras." Le mot a longtemps été utilisé comme nom général pour les ennemis des dieux, y compris les Daityas et Danavas et autres descendants de Kaśyapa, mais sans inclure les Rakṣasas descendus de Pulastya.
+\>
+> Dans ce sens, une dérivation différente a été trouvée pour lui : la source n'est plus asu, 'respiration,' mais l'initial *a* est pris comme le préfixe négatif, et *asura* signifie 'pas un dieu;' d'où, selon certains, est né le mot *sura,* couramment utilisé pour 'un dieu.'"
+\>
+> [Source : **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -283,43 +284,43 @@ A) Traduisez les phrases suivantes :
 
 B) Mettez les phrases de l'exercice A) à la voix passive.
 
-C) Formez une construction au participe passé passif (PPP) pour les phrases de l'exercice A).
+C) Formez une construction PPP à partir des phrases de l'exercice A).
 
 ::: media
 ![](/images/lekt1302.webp)
-Fig. : ⟪सत्यमेव⟫ ⟪जयते⟫
+Fig. : ⟪सत्यमेव जयते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1302))
 :::
-D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles être issues ? Indiquez toutes les possibilités :
+D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles provenir ? Indiquez toutes les possibilités :
 
-1. -a devant voyelle (sauf a-)
+1. -a devant une voyelle (sauf a-)
 2. -ā-
-3. -ā devant voyelle
-4. -ā devant consonnes sonores
+3. -ā devant une voyelle
+4. -ā devant des consonnes sonores
 5. -ī-
 6. -ū-
 7. -ṝ-
 8. -e-
-9. -e avant Avagraha
+9. -e devant un avagraha
 10. -o-
-11. -o avant Avagraha
-12. -o devant consonnes sonores
+11. -o devant un avagraha
+12. -o devant des consonnes sonores
 13. -ai-
 14. -au-
-15. -y devant voyelle
-16. -v devant voyelle
-17. -r devant voyelle
-18. -ay devant voyelle
-19. -av devant voyelle
+15. -y devant une voyelle
+16. -v devant une voyelle
+17. -r devant une voyelle
+18. -ay devant une voyelle
+19. -av devant une voyelle
 20. -ar-
-21. -ir devant voyelle ou consonne sonore
-22. -īr devant voyelle ou consonne sonore
-23. -ur devant voyelle ou consonne sonore
-24. -ūr devant voyelle ou consonne sonore
-25. -er devant voyelle ou consonne sonore
-26. -or devant voyelle ou consonne sonore
-27. -air devant voyelle ou consonne sonore
-28. -aur devant voyelle ou consonne sonore
+21. -ir devant une voyelle ou une consonne sonore
+22. -īr devant une voyelle ou une consonne sonore
+23. -ur devant une voyelle ou une consonne sonore
+24. -ūr devant une voyelle ou une consonne sonore
+25. -er devant une voyelle ou une consonne sonore
+26. -or devant une voyelle ou une consonne sonore
+27. -air devant une voyelle ou une consonne sonore
+28. -aur devant une voyelle ou une consonne sonore
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -327,7 +328,7 @@ D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles 
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. Anusvāra devant consonne
+36. Anusvāra devant une consonne
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
@@ -335,13 +336,13 @@ D) De quelles combinaisons de sons les formes de sandhi suivantes peuvent-elles 
 E) Traduisez en sanskrit :
 
 1. La déesse était en colère.
-2. Les Śūdras sont parvenus au ciel.
-3. Les paysans ont parcouru le chemin.
-4. Par l'enseignement de Bouddha, les gens ont été libérés.
+2. Les śūdras sont parvenus au ciel.
+3. Les paysans ont suivi le chemin.
+Les gens ont été libérés par l'enseignement du Bouddha.
 5. Le fils a dansé.
-6. L'amulette a protégé le maître.
-7. Un Brahmane n'a pas dit de mensonge.
-8. Les femmes Śūdra ont vénéré la déesse avec des offrandes.
-9. Bouddda s'est éveillé à la vérité = Bouddha a reconnu la vérité.
+6. L'amulette a protégé le professeur.
+7. Un brāhmaṇa n'a pas dit de mensonge.
+8. Les femmes śūdra ont vénéré la déesse par des offrandes.
+9. Le Bouddda s'est éveillé à la vérité = Le Bouddha a reconnu la vérité.
 10. Les sages védiques ont entendu la Śruti.
-11. Les prêtres sacrificiels ont pressé le Soma.
+11. Les prêtres sacrificiels ont pressé le soma.

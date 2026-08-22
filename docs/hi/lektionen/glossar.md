@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # शब्दकोश संस्कृत–हिंदी
 
@@ -19,7 +23,7 @@ outline: 2
 | ⟪अञ्ज्⟫ | [añj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añj&filter=roman&accent=no&transLit=roman) | 7P | लेपन करना, रगड़ना | [31](/hi/lektionen/lektion31#_31-2-) |
 | ⟪अटवी⟫ | [aṭavī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṭavī&filter=roman&accent=no&transLit=roman) | f | वन | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪अणु⟫ | [aṇu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aṇu&filter=roman&accent=no&transLit=roman) | — | पतला, सूक्ष्म, बहुत छोटा ; : परमाणु | [25](/hi/lektionen/lektion25#_25-5-) |
-| ⟪अतस्⟫ | [atas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atas&filter=roman&accent=no&transLit=roman) | — | वहाँ से, फिर, इसलिए (संज्ञात्मक आधार a- "इस" + अपवाद प्रत्यय -tas) | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪अतस्⟫ | [atas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atas&filter=roman&accent=no&transLit=roman) | — | वहाँ से, तब, इसलिए (सर्वनाम मूल a- "यह" + अपवाद प्रत्यय -tas) | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪अति⟫ | [ati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ati&filter=roman&accent=no&transLit=roman) | — | ऊपर, ऊपर-से-ऊपर, ऊपर-होकर (स्थान में, समय में, संख्या में, मात्रा में, क्रम में, शक्ति में, तीव्रता में), अत्यधिक | [41](/hi/lektionen/lektion41#_41-3-) |
 | ⟪अतिथि⟫ | [atithi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atithi&filter=roman&accent=no&transLit=roman) | m | अतिथि | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪अथवा⟫ | [athavā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=athavā&filter=roman&accent=no&transLit=roman) | — | या (पूर्वास्थापी) | [15](/hi/lektionen/lektion15#_15-8-) |
@@ -30,6 +34,7 @@ outline: 2
 | ⟪अध्यक्ष⟫ | [adhyakṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhyakṣa&filter=roman&accent=no&transLit=roman) | m | निरीक्षक, विभाग प्रमुख; साक्षी | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪अध्यापन⟫ | [adhyāpana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhyāpana&filter=roman&accent=no&transLit=roman) | n | उपदेश, शिक्षा | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪अनसूया⟫ | [anasūyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anasūyā&filter=roman&accent=no&transLit=roman) | f | शिकायत न करना, ईर्ष्या रहित होना | [16](/hi/lektionen/lektion16#_16-2-) |
+| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | असत्य, झूठ (satya का विपरीत) | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | दुर्भावना रहित होना | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | कई (कुछ नहीं) | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪अन्तरे⟫ | [antare](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=antare&filter=roman&accent=no&transLit=roman) | Adv | इस बीच | [42](/hi/lektionen/lektion42#_42-2-) |
@@ -39,7 +44,7 @@ outline: 2
 | ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | परस्पर, एक-दूसरे को | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | m | अंत, मोक्ष | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | निषेध (⟪ + ⟪) | [24](/hi/lektionen/lektion24#_24-4-) |
-| ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | be-, nach - zu - zu - in - में संबंधित (samavāyika), पर, ऊपर | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | पर, पीछे - की ओर, को - की ओर, के विपरीत, में - अंदर, संबंधित, पर, ऊपर, पर | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪अभिनिवेष⟫ | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhiniveṣa&filter=roman&accent=no&transLit=roman) | m | प्रवृत्ति, जिद, अड़ियलपन; विशेष रूप से: शरीर के प्रति आसक्ति जैसे कि वह कुछ अपना हो। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪अभ्यन्तर⟫ | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhyantara&filter=roman&accent=no&transLit=roman) | 3 | आंतरिक, निकटतम ; पुं. निकटतम सदस्य, निवासी | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪अमुत्र⟫ | [amutra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=amutra&filter=roman&accent=no&transLit=roman) | — | वहाँ, उस दिशा में | [52](/hi/lektionen/lektion52#_52-7-) |
@@ -49,8 +54,8 @@ outline: 2
 | ⟪अर्थ⟫ | [artha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=artha&filter=roman&accent=no&transLit=roman) | — |  के लिए, ... करने हेतु। | [19](/hi/lektionen/lektion19#_19-3-) |
 | ⟪अर्ह⟫ | [arha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=arha&filter=roman&accent=no&transLit=roman) | — | "तुम्हें चाहिए") | [22](/hi/lektionen/lektion22#_22-3-) |
 | ⟪अर्हन्त्⟫ | [arhant](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=arhant&filter=roman&accent=no&transLit=roman) | — | एक योग्य व्यक्ति। बौद्ध धर्म और जैन धर्म में: जिसने अंतिम मुक्ति प्राप्त कर ली हो | [22](/hi/lektionen/lektion22#_22-3-) |
-| ⟪अलंकार⟫ | [alaṃkāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alaṃkāra&filter=roman&accent=no&transLit=roman) | m | आभूषण, सजावटी वस्तु (काव्य में) | [24](/hi/lektionen/lektion24#_24-4-) |
-| ⟪अलम्⟫ | [alam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alam&filter=roman&accent=no&transLit=roman) | — | पर्याप्त, अपेक्षित; (किसी को, किसी चीज़ के लिए) समर्थ ; संप्रदान के साथ: इसके लिए पर्याप्त, इसके लिए अपेक्षित; उपकरणिक क | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪अलंकार⟫ | [alaṃkāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alaṃkāra&filter=roman&accent=no&transLit=roman) | m | सजावट, सजावटी सामग्री (काव्य में) | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪अलम्⟫ | [alam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alam&filter=roman&accent=no&transLit=roman) | — | पर्याप्त, अपेक्षित; (किसी को, किसी को) समर्थ ; डेटिव के साथ: इसके लिए पर्याप्त, इसके लिए अपेक्षित; इंस्ट्रुमेंटलिस के सा | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪अल्प⟫ | [alpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=alpa&filter=roman&accent=no&transLit=roman) | 3 | क्षुद्र, अल्प | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪अव⟫ | [ava](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ava&filter=roman&accent=no&transLit=roman) | — | अधः, निम्नम्, अस्मात्, अप- | [40](/hi/lektionen/lektion40#_40-6-) |
 | ⟪अवज्ञान⟫ | [avajñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=avajñāna&filter=roman&accent=no&transLit=roman) | n | अवहेलना | [29](/hi/lektionen/lektion29#_29-2-) |
@@ -60,7 +65,7 @@ outline: 2
 | ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | शोक से मुक्त; अशोक वृक्ष = _Saraca asoca_ (रोक्सब.) विल्ड; सम्राट अशोक का नाम ( ) (लगभग 304  232 ईसा पूर्व) | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | खाना, भोजन करना | [30](/hi/lektionen/lektion30#_30-6-) |
 | ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | गहरा, काला | [20](/hi/lektionen/lektion20#_20-9-) |
-| ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | "मैं-होना", अर्थात (गलत) विश्वास: मैं ही देखता हूँ आदि। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | "अहं-भाव", अर्थात (गलत) विश्वास: मैं ही देखता हूँ आदि। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | — | जिसने किसी को कुछ नहीं दिया, अहिंसा, हिंसा का अभाव | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | कहना, बोलना | [36](/hi/lektionen/lektion36#_36-4-) |
 
@@ -77,7 +82,7 @@ outline: 2
 | ⟪आदाय⟫ | [ādāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādāya&filter=roman&accent=no&transLit=roman) | — | सहित, के साथ | [33](/hi/lektionen/lektion33#_33-6-) |
 | ⟪आदित्य⟫ | [āditya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āditya&filter=roman&accent=no&transLit=roman) | m | सूर्य ; बहु. : [आदित्य](http://org/wiki/Aditya) : एक विशिष्ट देवता वर्ग | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪आनन्द⟫ | [ānanda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānanda&filter=roman&accent=no&transLit=roman) | m | आनंद, प्रसन्नता | [43](/hi/lektionen/lektion43#_43-4-) |
-| ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | दर्शनशास्त्र (वह विद्या जो तार्किक रूप से सही आधारों के माध्यम से अपने निष्कर्षों तक पहुँचती है)। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | दर्शन (वह विज्ञान जो तार्किक रूप से सही कारणों के माध्यम से अपने निष्कर्षों तक पहुँचता है)। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪आपण⟫ | [āpaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpaṇa&filter=roman&accent=no&transLit=roman) | m | बाज़ार | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪आपान⟫ | [āpāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpāna&filter=roman&accent=no&transLit=roman) | — | शराबी मेल | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪आम्⟫ | [ām](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ām&filter=roman&accent=no&transLit=roman) | — | हाँ | [43](/hi/lektionen/lektion43#_43-4-) |
@@ -118,7 +123,7 @@ outline: 2
 | ⟪उद्⟫ | [ud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ud&filter=roman&accent=no&transLit=roman) | — | ऊपर, ऊपर, ऊपर, बाहर, बाहर, बाहर- | [29](/hi/lektionen/lektion29#_29-2-) |
 | ⟪उपमा⟫ | [upamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upamā&filter=roman&accent=no&transLit=roman) | f | तुलना | [33](/hi/lektionen/lektion33#_33-6-) |
 | ⟪उपहार⟫ | [upahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upahāra&filter=roman&accent=no&transLit=roman) | m | अर्पण, यज्ञ, उपहार | [51](/hi/lektionen/lektion51#_51-6-) |
-| ⟪उपेक्षा⟫ | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upekṣā&filter=roman&accent=no&transLit=roman) | f | उपेक्षा, समभाव। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪उपेक्षा⟫ | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upekṣā&filter=roman&accent=no&transLit=roman) | f | उपेक्षा, उदासीनता। | [3](/hi/lektionen/lektion03#_3-6-) |
 
 ## ऊ
 
@@ -133,13 +138,14 @@ outline: 2
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | आवर्ती प्रक्रिया, ऋतु, कालखंड, मासिक धर्म, समय, जब महिला गर्भधारण के लिए तैयार होती है और उसके पति के साथ संभोग का अधिका | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | समृद्ध होना | [20](/hi/lektionen/lektion20#_20-9-) |
+| ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | वैदिक ऋषि, वेद के गीतों के रचयिता | [10](/hi/lektionen/lektion10#_10-5-) |
 
 ## ए
 
 | संस्कृत | IAST | लिंग | हिंदी | पाठ |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | एक स्थान पर | [51](/hi/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | पूर्व पद पर जोर देता है, जर्मन में अक्सर जोर देने के समान, एक प्रकार का इमोजी \&lt;!\&gt;, उदाहरण: ⟪ "सत्य ही जीतता है", | [15](/hi/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | पूर्व पद पर जोर देता है, जर्मन में अक्सर जोर देने के समान, एक प्रकार का इमोजी \<!\>, उदाहरण: ⟪ "सत्य ही जीतता है", | [15](/hi/lektionen/lektion15#_15-8-) |
 
 ## ओ
 
@@ -184,7 +190,7 @@ outline: 2
 | ⟪कुल⟫ | [kula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kula&filter=roman&accent=no&transLit=roman) | n | झुंड, समूह, वंश, उत्पत्ति, परिवार | [15](/hi/lektionen/lektion15#_15-8-) |
 | ⟪कुलूहल⟫ | [kulūhala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kulūhala&filter=roman&accent=no&transLit=roman) | — | जिज्ञासा, रुचि | [49](/hi/lektionen/lektion49#_49-4-) |
 | ⟪कृ⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | वंदन करना, आदर करना | [24](/hi/lektionen/lektion24#_24-4-) |
-| ⟪कृतम्⟫ | [kṛtam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtam&filter=roman&accent=no&transLit=roman) | — | ⟪ ⟪ = "क्रोध से विरत हुआ है = क्रोध छोड़ दो!" | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪कृतम्⟫ | [kṛtam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtam&filter=roman&accent=no&transLit=roman) | — | ⟪ = "क्रोध से निपट लिया गया = क्रोध छोड़ दो!" | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪कृत्स्न⟫ | [kṛtsna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtsna&filter=roman&accent=no&transLit=roman) | 3 | संपूर्ण, पूर्ण | [49](/hi/lektionen/lektion49#_49-4-) |
 | ⟪केवलम्⟫ | [kevalam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kevalam&filter=roman&accent=no&transLit=roman) | — | केवल, एकाकी, पूर्णतः | [41](/hi/lektionen/lektion41#_41-3-) |
 | ⟪कोविद⟫ | [kovida](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kovida&filter=roman&accent=no&transLit=roman) | — | अनुभवी ( ) | [52](/hi/lektionen/lektion52#_52-7-) |
@@ -197,7 +203,7 @@ outline: 2
 | ⟪क्रोध⟫ | [krodha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=krodha&filter=roman&accent=no&transLit=roman) | m | क्रोध। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪क्लेश⟫ | [kleśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kleśa&filter=roman&accent=no&transLit=roman) | m | कष्ट, पीड़ा। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪क्षत्रिय⟫ | [kṣatriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriya&filter=roman&accent=no&transLit=roman) | — | क्षत्रिय (राजपुत्र और सैन्य वर्ग)। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪क्षत्रिया⟫ | [kṣatriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyā&filter=roman&accent=no&transLit=roman) | f | नरेश की स्त्री। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪क्षत्रिया⟫ | [kṣatriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyā&filter=roman&accent=no&transLit=roman) | f | नारी क्षत्रिय। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | क्षत्रिय की पत्नी। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪क्षमा⟫ | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣamā&filter=roman&accent=no&transLit=roman) | f | धैर्य, दीर्घसूत्रता, सहनशीलता | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪क्षिप्⟫ | [kṣip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣip&filter=roman&accent=no&transLit=roman) | 6P | फेंकना, छूटना | [49](/hi/lektionen/lektion49#_49-4-) |
@@ -223,9 +229,10 @@ outline: 2
 | ⟪गर्ह्⟫ | [garh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garh&filter=roman&accent=no&transLit=roman) | — | डाँतना, तिरस्कार करना | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | रक्षित, सुरक्षित | [29](/hi/lektionen/lektion29#_29-2-) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | भारी, महत्वपूर्ण, पूजनीय | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | स्त्रीलिंग, guru से। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | स्त्रीलिंग guru के लिए। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪गृह⟫ | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛha&filter=roman&accent=no&transLit=roman) | n | घर | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | घर में स्थित ; गृहस्वामी (व्यक्ति जो में है) | [29](/hi/lektionen/lektion29#_29-2-) |
+| ⟪गृह्यसूत्र⟫ | [gṛhyasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyasūtra&filter=roman&accent=no&transLit=roman) | n | दैनिक जीवन के अनुष्ठानों और यज्ञों के लिए पाठ्यग्रन्थ | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | गाना, गाने के स्वर में पुनरावृत्ति करना, संस्कृत भाषा में घोषित करना | [35](/hi/lektionen/lektion35#_35-4-) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | गायों / एक गाय का दान ; दूसरा केश-कर्म (एक ⟪) | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | भक्षण करना, खा जाना | [29](/hi/lektionen/lektion29#_29-2-) |
@@ -343,8 +350,8 @@ outline: 2
 | ⟪दुह्⟫ | [duh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duh&filter=roman&accent=no&transLit=roman) | — | दूध निकालना | [17](/hi/lektionen/lektion17#_17-6-) |
 | ⟪दूत⟫ | [dūta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dūta&filter=roman&accent=no&transLit=roman) | m | दूत, राजदूत | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪देव⟫ | [deva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deva&filter=roman&accent=no&transLit=roman) | — | स्वर्गीय, देवता; राजा, सम्राट। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | देवता (अमूर्त और मूर्त)। | [3](/hi/lektionen/lektion03#_3-6-) |
-| ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | देवी, विशेष रूप से Durgā = ⟪, शिव की पत्नी = ⟪। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | देवता (अमूर्त और मूर्त दोनों)। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | देवी, विशेष रूप से दुर्गा = ⟪, शिव की पत्नी = ⟪। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪देवृ⟫ | [devṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devṛ&filter=roman&accent=no&transLit=roman) | m | पति के भाई (पत्नी के भाई) | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪देश⟫ | [deśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deśa&filter=roman&accent=no&transLit=roman) | m | स्थान, स्थान, देश, क्षेत्र | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪द्रव्य⟫ | [dravya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dravya&filter=roman&accent=no&transLit=roman) | n | वस्तु, संपत्ति, भौतिक स्वामित्व, धन | [25](/hi/lektionen/lektion25#_25-5-) |
@@ -354,13 +361,14 @@ outline: 2
 | ⟪द्विजाति⟫ | [dvijāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvijāti&filter=roman&accent=no&transLit=roman) | 3 | दो बार जन्मे हुए। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪द्विधा⟫ | [dvidhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dvidhā&filter=roman&accent=no&transLit=roman) | — | द्वि-विध, दो भागों में | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪द्वेष⟫ | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dveṣa&filter=roman&accent=no&transLit=roman) | m | द्वेष। | [5](/hi/lektionen/lektion05#_5-4-) |
-| ⟪द्वेष⟫ | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dveṣa&filter=roman&accent=no&transLit=roman) | — | घृणा | [13](/hi/lektionen/lektion13#_13-9-wortliste) |
+| ⟪द्वेष⟫ | [dveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dveṣa&filter=roman&accent=no&transLit=roman) | — | घृणा | [13](/hi/lektionen/lektion13#_13-9-) |
 
 ## ध
 
 | संस्कृत | IAST | लिंग | हिंदी | पाठ |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | जो दृढ़ है और दृढ़ता से पकड़ता है = धर्म | [25](/hi/lektionen/lektion25#_25-5-) |
+| ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | विधि और रीति-रिवाज (उचित व्यवहार) के पाठ्यग्रन्थ | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪धा⟫ | [dhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhā&filter=roman&accent=no&transLit=roman) | — | किसी चीज़ पर पूरी ध्यान केंद्रित करना, एकत्र होना | [33](/hi/lektionen/lektion33#_33-6-) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | कुत्ता हुआ अनाज | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | दृढ़, स्थिर, निरंतर, धैर्यवान | [52](/hi/lektionen/lektion52#_52-7-) |
@@ -386,7 +394,7 @@ outline: 2
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | f | नाभि | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | नाम | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | नीचे, निचला, अंदर, पीछे | [20](/hi/lektionen/lektion20#_20-9-) |
-| ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | नीचे, निम्न, अंदर, पश्चात | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | नीचे, नीचे की ओर, अंदर, पीछे | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | नीचे, नीचे, अंदर, पीछे | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪निखिल⟫ | [nikhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nikhila&filter=roman&accent=no&transLit=roman) | 3 | पूर्ण, संपूर्ण | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪नित्य⟫ | [nitya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nitya&filter=roman&accent=no&transLit=roman) | — | सतत, स्थिर, शाश्वत | [25](/hi/lektionen/lektion25#_25-5-) |
@@ -397,6 +405,7 @@ outline: 2
 | ⟪निषेक⟫ | [niṣeka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=niṣeka&filter=roman&accent=no&transLit=roman) | m | छिड़काव, निषेचन, द्रव, शुक्राशय, संतानोत्पत्ति में अनुष्ठान | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪निस्⟫ | [nis](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nis&filter=roman&accent=no&transLit=roman) | — | बाहर, दूर, निकलकर, प्रकट, से, दूर, बिना - से | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪नी⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | ले जाना, शिक्षित करना, पालन-पोषण | [25](/hi/lektionen/lektion25#_25-5-) |
+| ⟪नीतिशास्त्र⟫ | [nītiśāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nītiśāstra&filter=roman&accent=no&transLit=roman) | n | जीवन-कौशल के पाठ्यग्रन्थ | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪नृप⟫ | [nṛpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛpa&filter=roman&accent=no&transLit=roman) | m | "पुरुषों का रक्षक" = राजा | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪नृशंस्य⟫ | [nṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | दुर्भावना, नीचता | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪नोचेत्⟫ | [nocet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nocet&filter=roman&accent=no&transLit=roman) | — | यदि नहीं, अन्यथा | [43](/hi/lektionen/lektion43#_43-4-) |
@@ -411,7 +420,7 @@ outline: 2
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | — | बुद्धिमान, परिचित (में) | [19](/hi/lektionen/lektion19#_19-3-) |
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | बुद्धिमान, ज्ञानी, विद्वान | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪पण्य⟫ | [paṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇya&filter=roman&accent=no&transLit=roman) | 3 | क्रय योग्य; नपुं.: वस्तु, व्यापार | [43](/hi/lektionen/lektion43#_43-4-) |
-| ⟪पद⟫ | [pada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pada&filter=roman&accent=no&transLit=roman) | n | कदम, स्थान, स्थल | [13](/hi/lektionen/lektion13#_13-9-wortliste) |
+| ⟪पद⟫ | [pada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pada&filter=roman&accent=no&transLit=roman) | n | कदम, स्थान, स्थल | [13](/hi/lektionen/lektion13#_13-9-) |
 | ⟪पर⟫ | [para](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=para&filter=roman&accent=no&transLit=roman) | 3 | ( की तरह विभक्ति) दूरस्थ, विदेशी, उच्च (), अंतिम, श्रेष्ठ ; अन्य, विदेशी, शत्रुतापूर्ण ; : विदेशी | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪परंपरा⟫ | [paraṃparā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paraṃparā&filter=roman&accent=no&transLit=roman) | f | निरंतर श्रृंखला | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪परम⟫ | [parama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parama&filter=roman&accent=no&transLit=roman) | 3 | दूरतम, श्रेष्ठ ; ⟪ : श्रेष्ठ, उच्च | [49](/hi/lektionen/lektion49#_49-4-) |
@@ -422,11 +431,12 @@ outline: 2
 | ⟪परिचित⟫ | [paricita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricita&filter=roman&accent=no&transLit=roman) | — | परिचित, प्रसिद्ध | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪परिनिर्वाण⟫ | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parinirvāṇa&filter=roman&accent=no&transLit=roman) | n | पूर्ण निर्वाना, पूर्ण मोक्ष (बुद्ध या अर्हत की मृत्यु पर) | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪परिव्राजक⟫ | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parivrājaka&filter=roman&accent=no&transLit=roman) | m | घूमने वाला, वनवासी, तीर्थयात्री | [29](/hi/lektionen/lektion29#_29-2-) |
-| ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | पालतू उपयोगी जानवर, मवेशी (समुच्चय)। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | पालतू पशु, livestock (समूहवाचक)। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪पश्चात्ताप⟫ | [paścāttāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paścāttāpa&filter=roman&accent=no&transLit=roman) | m | पश्चाताप | [43](/hi/lektionen/lektion43#_43-4-) |
-| ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | पीना (पारंपरिक रूप से प्रथम वर्ग में गिना जाता है) | [13](/hi/lektionen/lektion13#_13-9-wortliste) |
+| ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | पीना (पारंपरिक रूप से प्रथम वर्ग में गिना जाता है) | [13](/hi/lektionen/lektion13#_13-9-) |
 | ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | n | आदरेण सम्बोधितः, गुरुः, योग्यः | [40](/hi/lektionen/lektion40#_40-6-) |
-| ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | पैर, एक चौथाई, पंक्ति | [13](/hi/lektionen/lektion13#_13-9-wortliste) |
+| ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | पैर, एक चौथाई, पंक्ति | [13](/hi/lektionen/lektion13#_13-9-) |
+| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | पाप, बुराई (puṇya का विरोधी) | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | अर्थ में के समान भी | [29](/hi/lektionen/lektion29#_29-2-) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | पितृपक्ष के दादा | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | पितृपार्श्वीय दादी | [42](/hi/lektionen/lektion42#_42-2-) |
@@ -434,6 +444,7 @@ outline: 2
 | ⟪पितृव्य⟫ | [pitṛvya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛvya&filter=roman&accent=no&transLit=roman) | m | पितामह (चाचा) | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪पिशित⟫ | [piśita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=piśita&filter=roman&accent=no&transLit=roman) | n | (तैयार किया हुआ) मांस | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪पीड्⟫ | [pīḍ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pīḍ&filter=roman&accent=no&transLit=roman) | 10P | दबाना, तड़पाना ; परेशान करना, घेरना, सताना | [52](/hi/lektionen/lektion52#_52-7-) |
+| ⟪पुण्य⟫ | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṇya&filter=roman&accent=no&transLit=roman) | n | पुण्य, कर्म | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | बेटा | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪पुनः⟫ | [punaḥ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punaḥ&filter=roman&accent=no&transLit=roman) | — | बार बार | [30](/hi/lektionen/lektion30#_30-6-) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | फिर, दोबारा, वापस; लेकिन | [24](/hi/lektionen/lektion24#_24-4-) |
@@ -450,9 +461,8 @@ outline: 2
 | ⟪पूज्⟫ | [pūj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pūj&filter=roman&accent=no&transLit=roman) | 10P | सम्मान करना, पूजा करना | [29](/hi/lektionen/lektion29#_29-2-) |
 | ⟪पृथु⟫ | [pṛthu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛthu&filter=roman&accent=no&transLit=roman) | — | व्यापक, चौड़ा, बड़ा | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | भरना, परिपूर्ण करना | [33](/hi/lektionen/lektion33#_33-6-) |
-| ⟪पेयर, अलोइस (1944–):⟫ | [peyara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=peyara&filter=roman&accent=no&transLit=roman) | — | थेरवाद के भिक्षुओं के नियमों और विनय कानून की मूल अवधारणाएँ। -- भाग -- (बौद्ध धर्म की मूल अवधारणाओं पर सामग्री)। -- _URL | [41](/hi/lektionen/lektion41#_41-3-) |
-| ⟪पेयर, अलोइस (1944–):⟫ | [peyara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=peyara&filter=roman&accent=no&transLit=roman) | — | थेरवाद के सांख्यिकीय नियमों और सांख्यिकीय कानून की मूल अवधारणाएँ। -- भाग -- (बौद्ध धर्म की मूल अवधारणाओं के लिए सामग्री) | [44](/hi/lektionen/lektion44#_44-5-) |
 | ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | f | ( + से) मूल स्वरूप, प्राकृतिक अवस्था, प्रकृति; मूल पदार्थ, मूल तत्व | [42](/hi/lektionen/lektion42#_42-2-) |
+| ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | पूछना (किसी से: अक.; कुछ के बारे में: अक.) | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | प्रजनन, जन्म, संतान | [29](/hi/lektionen/lektion29#_29-2-) |
 | ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | f | ज्ञान, उपलब्धि | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪प्रणिधान⟫ | [praṇidhāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=praṇidhāna&filter=roman&accent=no&transLit=roman) | n | प्रयोग, प्रयास, विरोध में ध्यान, सेवाभाव, चिंतन, व्रत | [20](/hi/lektionen/lektion20#_20-9-) |
@@ -481,7 +491,7 @@ outline: 2
 | ⟪ब्रह्मचर्य⟫ | [brahmacarya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahmacarya&filter=roman&accent=no&transLit=roman) | — | यौन संयम, ब्रह्मचर्य की जीवन शैली | [22](/hi/lektionen/lektion22#_22-3-) |
 | ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | परम सत्य, वेद (थीम के अनुसार मूलतः: अभिव्यक्त सत्य, जिससे "सत्य अभिव्यक्तकर्ता") | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | — | ब्राह्मण (धार्मिक वर्ग)। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | ब्राह्मण स्त्री। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | ब्राह्मणी। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪ब्रू⟫ | [brū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brū&filter=roman&accent=no&transLit=roman) | — | बोलना, कहना (किसी से कुछ: द्विक accusative) | [17](/hi/lektionen/lektion17#_17-6-) |
 
 ## भ
@@ -548,7 +558,7 @@ outline: 2
 | ⟪मार्यादा⟫ | [māryādā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māryādā&filter=roman&accent=no&transLit=roman) | f | सीमा | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪मिह्⟫ | [mih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mih&filter=roman&accent=no&transLit=roman) | 1P | पेशाब करना, पेशाब करना, वीर्यपतन करना | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪मुख⟫ | [mukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mukha&filter=roman&accent=no&transLit=roman) | n | मुख, चेहरा, अग्रभाग, आरंभ | [37](/hi/lektionen/lektion37#_37-9-) |
-| ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | प्रसन्नता, विशेष रूप से परितोष (ईर्ष्या के विपरीत)। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | प्रसन्नता, विशेष रूप से परहितानुमोदना (ईर्ष्या का विपरीत)। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪मुनि⟫ | [muni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muni&filter=roman&accent=no&transLit=roman) | — | ज्ञानी, (मौन) तपस्वी | [37](/hi/lektionen/lektion37#_37-9-) |
 | ⟪मुहूर्त⟫ | [muhūrta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muhūrta&filter=roman&accent=no&transLit=roman) | — | क्षण, तत्क्षण, उचित समय | [49](/hi/lektionen/lektion49#_49-4-) |
 | ⟪मूर्ख⟫ | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūrkha&filter=roman&accent=no&transLit=roman) | 3 | मूर्ख, बौद्धिक, मूर्ख मूर्ख | [37](/hi/lektionen/lektion37#_37-9-) |
@@ -567,6 +577,7 @@ outline: 2
 
 | संस्कृत | IAST | लिंग | हिंदी | पाठ |
 |---|---|---|---|---|
+| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | यज्ञ | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | (, , ) की ओर प्रयास करना | [44](/hi/lektionen/lektion44#_44-5-) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | — | प्रयास, मेहनत | [44](/hi/lektionen/lektion44#_44-5-) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | — | कैसे, मानो | [29](/hi/lektionen/lektion29#_29-2-) |
@@ -628,7 +639,9 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | धोखेबाज | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | व्यापारी | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | बछड़ा, शिशु, पुत्र ; : हे प्रियतम | [43](/hi/lektionen/lektion43#_43-4-) |
+| ⟪वत्स्यति⟫ | [vatsyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsyati&filter=roman&accent=no&transLit=roman) | — | br क्रियापद (Passive): ⟪:br PPP: ⟪:br अनियत क्रियापद (Infinitive): ⟪ | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | वापस कहना = उत्तर देना | [44](/hi/lektionen/lektion44#_44-5-) |
+| ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | कहना, बोलना | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | वन | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | n | सुंदरता, आकृति शरीर (विसर्जन के लिए बाद में देखें) | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | श्रेष्ठ | [43](/hi/lektionen/lektion43#_43-4-) |
@@ -639,11 +652,12 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | रंग, जाति, वर्ग। | [5](/hi/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | वर्षा, वर्ष ऋतु, वर्ष | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], आज्ञा पद : :sig[] : चाहना, आज्ञा देना, की इच्छा रखना | [52](/hi/lektionen/lektion52#_52-7-) |
-| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("चमकने वाला" =) वसंत (मार्च से मई) | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | धन, खजाना, संपत्ति, स्वामित्व | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | निवास करना, रहना (जिसके साथ रहते हैं, उस व्यक्ति के साथ लोकटिव के साथ) | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | आसन, स्थान; वास्तविक वस्तु, वास्तविक वस्तु, वास्तविकता, वस्तु | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | वास्तव में, सच में | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("चमकने वाला" =) वसंत (मार्च से मई तक) | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वसिष्यते⟫ | [vasiṣyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasiṣyate&filter=roman&accent=no&transLit=roman) | — | br PPP: ⟪:br अनित्यपद: ⟪ | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | धन, खज़ाना, संपत्ति, मालिकाना हक | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | निवास करना, रहना (जिसके साथ रहते हैं उस व्यक्ति के अधिकरण के साथ) | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | आसन, स्थान; वास्तविक वस्तु, यथार्थ वस्तु, सत्यता, विषय | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | वास्तव में, सचमुच | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | पहनने का साधन = वस्त्र, परिधान, कपड़ा | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | — | ले जाना, चलना, बहना (वायु) | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | — | या (पश्चात्स्थापी) | [15](/hi/lektionen/lektion15#_15-8-) |
@@ -685,7 +699,7 @@ outline: 2
 | ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | घूमना, मुड़ना, (कहीं) होना, रहना | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | मुड़ना, वापस आना | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪वृत्⟫ | [vṛt](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛt&filter=roman&accent=no&transLit=roman) | — | होना, घटना, उत्पन्न होना | [24](/hi/lektionen/lektion24#_24-4-) |
-| ⟪वृत्त⟫ | [vṛtta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛtta&filter=roman&accent=no&transLit=roman) | n | व्यवहार (vyavahāra) | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪वृत्त⟫ | [vṛtta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛtta&filter=roman&accent=no&transLit=roman) | n | व्यवहार | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪वृत्ति⟫ | [vṛtti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛtti&filter=roman&accent=no&transLit=roman) | f | व्यवहार, गतिविधि, जीवनशैली | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪वृद्धि⟫ | [vṛddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛddhi&filter=roman&accent=no&transLit=roman) | f | वृद्धि, विकास, दीर्घता (vṛdh-ti से) | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪वृध्⟫ | [vṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vṛdh&filter=roman&accent=no&transLit=roman) | — | बढ़ना, बड़ा होना | [25](/hi/lektionen/lektion25#_25-5-) |
@@ -693,7 +707,7 @@ outline: 2
 | ⟪वेष⟫ | [veṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=veṣa&filter=roman&accent=no&transLit=roman) | — | वस्त्र, रूप, बाह्य | [49](/hi/lektionen/lektion49#_49-4-) |
 | ⟪वै⟫ | [vai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vai&filter=roman&accent=no&transLit=roman) | — | अव्यय, जो पूर्ववर्ती शब्द को प्रबल करता है: निश्चय, वास्तव में, किंतु | [50](/hi/lektionen/lektion50#_50-2-) |
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | — | वैश्य (कृषि और व्यापार वर्ग)। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | वैश्य स्त्री। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | नारी वैश्य। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪व्यवहार⟫ | [vyavahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyavahāra&filter=roman&accent=no&transLit=roman) | m | व्यवहार, चाल-चलन, संपर्क, व्यापार, कारबार, (न्यायिक) मामला | [52](/hi/lektionen/lektion52#_52-7-) |
 | ⟪व्याकरण⟫ | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyākaraṇa&filter=roman&accent=no&transLit=roman) | n | व्याकरण ( संबंधी) | [48](/hi/lektionen/lektion48#_48-4-) |
 | ⟪व्याघ्र⟫ | [vyāghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyāghra&filter=roman&accent=no&transLit=roman) | m | बाघ (_Panthera tigris tigris_) (शाब्दिक: गार्ड) | [15](/hi/lektionen/lektion15#_15-8-) |
@@ -730,16 +744,17 @@ outline: 2
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | चमकदार, शुद्ध, स्पष्ट | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪शुच्⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | 1P | (जलना, चमकना) ; शोक करना, शोक करना | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | — | शूद्र (सेवा वर्ग)। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | शूद्र स्त्री। | [3](/hi/lektionen/lektion03#_3-6-) |
-| ⟪शूद्री⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | शूद्र की पत्नी। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | नारी शूद्र। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪शूद्री शूद्राणी⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | शूद्र की पत्नी। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪शून्य⟫ | [śūnya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūnya&filter=roman&accent=no&transLit=roman) | — | खाली, उजाड़ | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | शोक, दुख | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | पवित्रीकरण, पवित्रता | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[] : कष्ट उठाना, थक जाना | [46](/hi/lektionen/lektion46#_46-2-) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | झुकना, सहारा लेना, स्थिरता प्राप्त करना, किसी के पास जाना (, ) | [46](/hi/lektionen/lektion46#_46-2-) |
-| ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | श्रवण, शाश्वत परंपरा (वेदों और ब्राह्मणों के लिए संकेत)। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | श्रवण, शाश्वत परम्परा (वेदों और ब्राह्मणों के लिए संज्ञा)। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | धनी व्यापारी | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪श्रोणि⟫ | [śroṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śroṇi&filter=roman&accent=no&transLit=roman) | — | कूल्हा | [20](/hi/lektionen/lektion20#_20-9-) |
+| ⟪श्रौतसूत्र⟫ | [śrautasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrautasūtra&filter=roman&accent=no&transLit=roman) | n | महान यज्ञों के अनुष्ठान के लिए पाठ्यग्रन्थ | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪श्वन्⟫ | [śvan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvan&filter=roman&accent=no&transLit=roman) | m | कुत्ता | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪श्वसुर⟫ | [śvasura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvasura&filter=roman&accent=no&transLit=roman) | f | श्वशुर (प्राचीन काल में: केवल स्त्री के लिए) | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪श्वस्⟫ | [śvas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvas&filter=roman&accent=no&transLit=roman) | — | कल | [48](/hi/lektionen/lektion48#_48-4-) |
@@ -757,6 +772,7 @@ outline: 2
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (- के लिए: एक साथ बजाना): समूह, झुंड, सभा (जैसे बौद्ध) | [41](/hi/lektionen/lektion41#_41-3-) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | लटकना, चिपकना | [48](/hi/lektionen/lektion48#_48-4-) |
 | ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : चिपकना, किसी से जुड़ना () | [46](/hi/lektionen/lektion46#_46-2-) |
+| ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | सत्य | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | शीघ्र, जल्दी | [43](/hi/lektionen/lektion43#_43-4-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | बैठना, निवास करना | [20](/hi/lektionen/lektion20#_20-9-) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : नीचे बैठना | [46](/hi/lektionen/lektion46#_46-2-) |
@@ -770,9 +786,10 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | समान | [23](/hi/lektionen/lektion23#_23-4-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | समान, समान, समान ; पुं.: समवयस्क | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | प्रत्येक, सभी | [50](/hi/lektionen/lektion50#_50-2-) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | के साथ, एक साथ (यहां तक कि „के साथ लड़ना“ आदि में भी) (उपादान कारक के साथ उपसर्ग) | [10](/hi/lektionen/lektion10#_10-5-) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | — | लक्ष्य की ओर ले जाने वाला, प्रभावकारी | [16](/hi/lektionen/lektion16#_16-2-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | सही, अच्छा। | [2](/hi/lektionen/lektion02#_2-5-) |
-| ⟪साध्वी⟫ | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhvī&filter=roman&accent=no&transLit=roman) | f | स्त्रीलिंग, sādhu से। | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪साध्वी⟫ | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhvī&filter=roman&accent=no&transLit=roman) | f | स्त्रीलिंग sādhu के लिए। | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪सामर्थ्य⟫ | [sāmarthya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmarthya&filter=roman&accent=no&transLit=roman) | n | उसका उद्देश्य | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | समानता, सुसंगति | [23](/hi/lektionen/lektion23#_23-4-) |
 | ⟪सायक⟫ | [sāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāyaka&filter=roman&accent=no&transLit=roman) | m | बाण | [51](/hi/lektionen/lektion51#_51-6-) |
@@ -797,7 +814,7 @@ outline: 2
 | ⟪स्थविर⟫ | [sthavira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthavira&filter=roman&accent=no&transLit=roman) | 3 | वृद्ध, जरायु | [48](/hi/lektionen/lektion48#_48-4-) |
 | ⟪स्था⟫ | [sthā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthā&filter=roman&accent=no&transLit=roman) | — | बचना, दूर रहना, दूर रहना, बच जाना, खड़ा होना | [42](/hi/lektionen/lektion42#_42-2-) |
 | ⟪स्थाविर⟫ | [sthāvira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthāvira&filter=roman&accent=no&transLit=roman) | n | (उच्च) वय | [48](/hi/lektionen/lektion48#_48-4-) |
-| ⟪स्मृति⟫ | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛti&filter=roman&accent=no&transLit=roman) | f | स्मरण, याद, ध्यानपूर्ण स्मरण = सतर्कता, परंपरा (śruti का विपरीत शब्द)। इसमें शामिल हैं | [3](/hi/lektionen/lektion03#_3-6-) |
+| ⟪स्मृति⟫ | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛti&filter=roman&accent=no&transLit=roman) | f | स्मरण, स्मृति, ध्यानपूर्ण स्मरण = सजगता, परम्परा (śruti का विरोधी शब्द)। इसमें शामिल हैं | [3](/hi/lektionen/lektion03#_3-6-) |
 | ⟪स्व⟫ | [sva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sva&filter=roman&accent=no&transLit=roman) | 3 | अपना, उसका (मेरा, तुम्हारा आदि)। इसे की तरह विभक्ति दी जाती है। अप्पान-लोके.एकवचन.पु.न. और नॉम.बहुवचन.पु. में, इसे की तर | [51](/hi/lektionen/lektion51#_51-6-) |
 | ⟪स्वप्⟫ | [svap](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svap&filter=roman&accent=no&transLit=roman) | — | निद्रां गच्छति, निद्रां करोति | [40](/hi/lektionen/lektion40#_40-6-) |
 | ⟪स्वप्न⟫ | [svapna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svapna&filter=roman&accent=no&transLit=roman) | m | निद्रा, स्वप्नः | [40](/hi/lektionen/lektion40#_40-6-) |
@@ -814,9 +831,10 @@ outline: 2
 |---|---|---|---|---|
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | मारना, घायल करना, मृत्यु प्राप्त करना | [17](/hi/lektionen/lektion17#_17-6-) |
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | पीछे मारना | [44](/hi/lektionen/lektion44#_44-5-) |
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | हटाना; : नष्ट करने वाला = शिव का एक उपनाम | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | बालक, पीला, हरा; पुं. विष्णु की उपाधि (मूल शब्द ⟪ 1 से संबंधित नहीं है) | [27](/hi/lektionen/lektion27#_27-5-) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | विष्णु और शिव एक ही देवता के रूप में एकीकृत। | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | — | छीनते हुए; पुं.लि.: विनाशक = शिव का एक उपनाम | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | — | पीला, हल्का पीला, हरा; पुं.लि. विष्णु का उपनाम (यह ⟪ १ धातु से संबंधित नहीं है) | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪हरिष्यति⟫ | [hariṣyati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hariṣyati&filter=roman&accent=no&transLit=roman) | — | br कर्तरि कर्मणि: ⟪:br PPP: ⟪:br अनित्यपद: ⟪ | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | विष्णु और शिव का एक ही देवता के रूप में एकीकरण। | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (शरीर के रोम खड़े करना), आनंद | [25](/hi/lektionen/lektion25#_25-5-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | हाथी (_Elephas maximus_) | [38](/hi/lektionen/lektion38#_38-9-) |
 | ⟪हा⟫ | [hā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hā&filter=roman&accent=no&transLit=roman) | — | छोड़ देना | [33](/hi/lektionen/lektion33#_33-6-) |
@@ -824,8 +842,8 @@ outline: 2
 | ⟪हीन⟫ | [hīna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīna&filter=roman&accent=no&transLit=roman) | — | छोड़ा हुआ, वंचित, अपूर्ण | [33](/hi/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | अपूर्ण वाहन (बौद्ध धर्म का): "महायान" के प्रतिनिधियों द्वारा अपमानजनक शब्द, ⟪; अपूर्ण मार्ग (⟪ से ⟪ २: जाना, चलना)। ⟪ शब | [33](/hi/lektionen/lektion33#_33-6-) |
 | ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | — | अग्नि में डालना (बलिदान के रूप में, विशेष रूप से घी) | [33](/hi/lektionen/lektion33#_33-6-) |
-| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | रखना, ढोना; लाना, ले जाना, छीनना | [27](/hi/lektionen/lektion27#_27-5-) |
+| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | — | धारण करना, ले जाना; लाना, छीनना, हरण करना | [27](/hi/lektionen/lektion27#_27-5-) |
 | ⟪हृदय⟫ | [hṛdaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛdaya&filter=roman&accent=no&transLit=roman) | n | हृदय | [42](/hi/lektionen/lektion42#_42-2-) |
-| ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | m | प्रेरणा, उत्तेजना, कारण, आधार ; ⟪, ⟪, ⟪ विभक्ति या समास के उत्तरपद में = "... के लिए, ... के कारण" | [24](/hi/lektionen/lektion24#_24-4-) |
+| ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | m | प्रेरणा, प्रोत्साहन, कारण, आधार ; ⟪, ⟪, ⟪ जनक के साथ या संयुक्त शब्द के पश्चभाग में = "... के लिए, ... के कारण" | [24](/hi/lektionen/lektion24#_24-4-) |
 | ⟪ह्रस्व⟫ | [hrasva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hrasva&filter=roman&accent=no&transLit=roman) | 3 | संक्षिप्त | [49](/hi/lektionen/lektion49#_49-4-) |
 | ⟪ह्वे⟫ | [hve](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hve&filter=roman&accent=no&transLit=roman) | — | बुलाना, बुलाना | [46](/hi/lektionen/lektion46#_46-2-) |

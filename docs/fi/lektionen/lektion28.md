@@ -17,7 +17,6 @@ Esimerkki:
 ⟪दृश्⟫ "nähdä" » Kausatiivi: ⟪दर्शयति⟫ "hänen on teettävä näkeminen = hän näyttää"
 :::
 
-:::
 ## 28.2. Kausatiivin lauseenvälitys (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
@@ -51,7 +50,6 @@ ISKCON-temppeli Bangalore.
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2801))
 :::
 
-:::
 ::: grammar-box
 **Mallin 1 mukaisesti rakennettu myös juuri ⟪दृश्⟫:**
 
@@ -70,7 +68,6 @@ Seuraava säe tiivistää esimerkit kausatiivin muodostamisesta kaavion 1 mukais
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 :::
 
-:::
 ::: indent
 Minun turvapaikkani ja päämääräni on Hari,
 joka lähetti viholliset taivaaseen,
@@ -313,7 +310,6 @@ Esimerkkejä:
 **Kausatiivin muodot 10. preesensluokan verbeille ovat samat kuin yksinkertaisen verbin muodot. Päätös siitä, onko kausatiivista kyse, on mahdollinen vain merkityksen tai joskus konstruktion perusteella.**
 :::
 
-:::
 ## 28.10. Sanalista
 
 ::: indent
@@ -353,7 +349,6 @@ Maalaus tekijältä ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (18
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2804))
 :::
 
-:::
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: varastaa
 Fut. **corayiṣyati**

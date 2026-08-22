@@ -53,4 +53,3 @@ last_reconstructed: 2026-05-15
 Εικ.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Πηγή εικόνας: [Details](/licenses#uebung067))
 :::
-:::

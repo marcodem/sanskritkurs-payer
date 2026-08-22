@@ -277,4 +277,3 @@ E) Käännä sanskritiksi:
 Kuv.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung018))
 :::
-:::

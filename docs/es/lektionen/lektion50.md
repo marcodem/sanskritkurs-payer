@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lección 50
 
@@ -189,7 +189,7 @@ Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver &lt;!--  --&gt;
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : ver \<!--  --\>
 
 ::: indent
 Perf. ⟪चचक्षे⟫  

@@ -27,7 +27,7 @@ status: stable
 Kişisel ekli bir fiil biçimi olan sonlu (finite) bir fiil biçimi, Sanskritçe'de aşağıdakileri ifade eder:
 
 1. **Anlam** (**artha** m. ⟪अर्थ⟫)
-2. **Kişi** ve **Sayı** (Zahl, **vacana** n. = ⟪वचन⟫) (ben, sen, o \&lt;o, o\&gt;, biz ikili, siz ikili, onlar ikili, biz çoğul, siz çoğul, onlar çoğul)
+2. **Kişi** ve **Sayı** (Zahl, **vacana** n. = ⟪वचन⟫) (ben, sen, o \<o, o\>, biz ikili, siz ikili, onlar ikili, biz çoğul, siz çoğul, onlar çoğul)
 3. Davranış biçimi (genus verbi):
 1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Başkasına yönelik söz biçimi"): Etken. Örn. **yajati** = ⟪यजति⟫ = "O bir sunumla onur verir" (yani başkası için kurban kesen rahip)
 2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Kendine yönelik söz biçimi"): Ortak. Örn. **yajate** = ⟪यजते⟫ = "O kendi yararına bir sunumla onur verir" (yani kendisi ve ailesi için kurban kesen kurban sahibi)

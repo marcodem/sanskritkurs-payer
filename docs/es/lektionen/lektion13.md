@@ -68,6 +68,7 @@ por ejemplo:
 
 Los atributos (adjuntos) en la prosa se colocan en el orden normal de las palabras antes de la palabra que especifican. Los atributos adjetivos concuerdan con el nombre en número, caso y género:
 
+:::
 ::: grammar-box
 
 Los atributos (modificadores) en la prosa se colocan antes de la palabra que determinan. Los atributos adjetivos concuerdan con el sustantivo en número, caso y género:
@@ -154,21 +155,12 @@ En el caso de las raíces que terminan en consonante:
 * raíz fuerte: sustantivo + -mant- / -vant-
 * raíz débil: sustantivo + -mat- / -vat- (de: *-mnt- / *-vnt-)
 
-| | | Masculino || Neutro ||
-| :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular:br⟪एकवचन⟫ | Nominativo:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Acusativo:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| Plural:br⟪बहुवचन⟫ | Nominativo:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Acusativo:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
-
 Femenino:
 
 La raíz femenina de las raíces en -mant- y -vant- termina en -mat-ī o -vat-ī. La declinación sigue el modelo de devī, es decir, no hay ablaut de raíz.
 
 Ejemplo:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
@@ -176,19 +168,19 @@ Ejemplo:
 
 Aprenda las siguientes palabras:
 
-- **eva** ⟪एव⟫ : enfatiza la palabra anterior
-- **asura** m. ⟪असुर⟫ : demonio
+**eva** ⟪एव⟫ : enfatiza la palabra precedente
+**asura** m. ⟪असुर⟫ : demonio
 
 > **ASURA.** 'Espiritual, divino.'
-&gt;
-> En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias de las deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
-&gt;
-> La palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado, y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati se volvió vivo, y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la declaración anterior, y afirma que "creó Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La declaración de Manu es que fueron creados por los Prajāpatis.
-&gt;
-> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). La cuenta del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
-&gt;
-> En este sentido, se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios'."
-&gt;
+\>
+> En las partes más antiguas del Ṛgveda, este término se utiliza para el espíritu supremo y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios', se aplicó a varias deidades principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto y pasó a significar, como ahora, un demonio o enemigo de los dioses.
+\>
+> Esta palabra se encuentra con esta significación en las partes posteriores del Ṛgveda, particularmente en el último libro, y también en el Atharvaveda. Los Brāhmaṇas le atribuyen el mismo significado y registran muchos conflictos entre los Asuras y los dioses. Según el Taittirīya Brāhmaṇa, el aliento *(asu)* de Prajapati cobró vida y "con ese aliento creó a los Asuras". En otra parte de la misma obra se dice que Prajāpati "quedó embarazado. Creó a los Asuras de su abdomen". El Śatapatha Brāhmaṇa coincide con la primera afirmación y establece que "creó a los Asuras de su aliento inferior". El Taittirīya Āraṇyaka representa que Prajāpati creó dioses, hombres, padres, Gandharvas y Apsarases del agua, y que los Asuras, Rakṣasas y piśācas surgieron de las gotas que se derramaron. La afirmación de Manu es que fueron creados por los Prajāpatis.
+\>
+> Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (de Prajāpati) vientre. *Asu* es declarado por el Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras". La palabra ha sido utilizada durante mucho tiempo como nombre general para los enemigos de los dioses, incluyendo a los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo a los Rakṣasas descendientes de Pulastya.
+\>
+> En este sentido se ha encontrado una etimología diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios'."
+\>
 > [Fuente: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
@@ -208,7 +200,7 @@ Fig.: ⟪महिषासुरः⟫
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : odiar, hostilizar
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : comer, consumir
-- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido) &lt;!--  --&gt;
+- **anna** n. ⟪अन्न⟫ : comida (del PPP: *ad-na: lo comido) \<!--  --\>
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -230,7 +222,7 @@ pad 4 Ā:
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1303))
 :::
-dviṣ 2 U: &lt;!--  --&gt;
+dviṣ 2 U: \<!--  --\>
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : odio
@@ -296,16 +288,16 @@ A) Traduzca las siguientes oraciones:
 ⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
 ⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
 
-B) Convierta las oraciones del ejercicio A) a voz pasiva.
+B) Transforme las oraciones del Ejercicio A) a voz pasiva.
 
-C) Forme una construcción de participio pasado pasivo (PPP) para las oraciones del ejercicio A).
+C) Forma una construcción de participio pasado (PPP) para las oraciones del Ejercicio A).
 
 ::: media
 ![](/images/lekt1302.webp)
-Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
+Fig.: ⟪सत्यमेव जयते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1302))
 :::
-D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas de Sandhi? Indique todas las posibilidades:
+D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas sandhi? Indique todas las posibilidades:
 
 1. -a ante vocal (excepto a-)
 2. -ā-
@@ -350,13 +342,13 @@ D) ¿De qué combinaciones de sonidos pueden haber surgido las siguientes formas
 E) Traduzca al sánscrito:
 
 1. La diosa estaba enfadada.
-2. Los śūdras han llegado a un cielo.
-3. Los agricultores han recorrido el camino.
-4. Las personas fueron liberadas por la enseñanza de Buda.
-5. El hijo bailó.
-6. El amuleto protegió al maestro.
-7. Un brahmán no dijo una mentira.
-8. Las mujeres śūdra honraron a la diosa con ofrendas.
-9. Buda despertó a la verdad = Buda ha reconocido la verdad.
-10. Los sabios védicos han escuchado la Śruti.
-11. Los sacerdotes sacrificiales han exprimido el soma.
+Los śūdras han llegado al cielo.
+Los campesinos han recorrido el camino.
+Las personas fueron liberadas por la doctrina budista.
+El hijo bailó.
+El amuleto protegió al maestro.
+Un brahmán no dijo ninguna mentira.
+Las mujeres śūdra veneraron a la diosa con ofrendas.
+Buda despertó a la verdad = Buda reconoció la verdad.
+Los sabios védicos escucharon la Śruti.
+Los sacerdotes sacrificiales exprimieron el soma.

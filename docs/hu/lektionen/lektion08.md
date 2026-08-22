@@ -10,7 +10,6 @@ last_reconstructed: 2026-05-07
 # 8. lecke
 
 
-:::
 ## 8.1. A főnevek képzéséről
 
 A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló toldalékok között megkülönböztetünk:
@@ -89,7 +88,6 @@ Kép: Maa Batakali Darshan, Puri, Orissa
 (Képmegjelenés: [Részletek](/hu/licenses#lekt0801))
 :::
 
-:::
 ::: note-box
 A **"Darshan"** vagy **"Darshana"** a hinduizmusban a szent és az isteni meglátására és víziójára használt kifejezés. A *Darshana* alatt értik például a tanítvány és a mester hivatalos találkozóját, amelyre a tanítványt a mester hívta meg. Jelentheti azonban egy istenszobor szemlélése közbeni *elmélyülést* is. Ez utóbbi jelentés a leggyakoribb a mai hindi nyelvhasználatban. Mata Amritanandamayi esetében a Darshan a guru általi ölelést jelenti.
 
@@ -112,7 +110,6 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Gondolkodás eszköze:) versmondat, 'mágikus' formula (mantra)" |
 | **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" |
 
-:::
 ::: media
 **Az eredeti mantra Oṃ (⟪ॐ⟫) különböző indiai szövegekben**
 
@@ -126,7 +123,6 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 (Képmegjelenések: [Részletek](/hu/licenses#lekt0803))
 :::
 
-:::
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box

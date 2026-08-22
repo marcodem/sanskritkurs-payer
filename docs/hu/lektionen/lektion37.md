@@ -135,7 +135,7 @@ Példák:
 
 Példák:
 ::: indent
-⟪जातु⟫ "egészében" (eredetileg "születés szerint, természeténél fogva", akk. sg. n. ⟪जातु⟫ \&lt;nem többé névként használatos\&gt;)
+⟪जातु⟫ "egészében" (eredetileg "születés szerint, természeténél fogva", akk. sg. n. ⟪जातु⟫ \<nem többé névként használatos\>)
 
 ⟪तूष्णीम्⟫ "csendben" (akk. sg. egy már nem használt ⟪तूष्णी⟫ n. "csend" szóhoz)
 
@@ -388,7 +388,7 @@ Példa: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \&lt;Absolutiv\&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \<Absolutiv\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 

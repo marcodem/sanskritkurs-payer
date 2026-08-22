@@ -222,7 +222,6 @@ Sesamsemens.
 (Imagenschdrett: [Detagls](/rm/licenses#lekt3403))
 :::
 
-:::
 ::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.

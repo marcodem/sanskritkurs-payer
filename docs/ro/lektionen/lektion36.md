@@ -137,7 +137,6 @@ Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
 :::
 
-:::
 ::: indent
 din care:
 

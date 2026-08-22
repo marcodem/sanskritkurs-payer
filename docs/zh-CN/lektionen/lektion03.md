@@ -117,7 +117,7 @@ devī + umā » devy umā “乌玛是一位/那位女神” = ⟪देव्�
 ## 3.5. -ās的词尾连音（Sattsandhi）
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+-ās 在所有浊音前被 -ā 替换。
 :::
 例如
 

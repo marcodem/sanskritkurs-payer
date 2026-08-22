@@ -11,44 +11,44 @@ status: stable
 # Pelajaran 13
 
 
-## 13.1. PPP pada -na-
+## 13.1. Partisip pasif lampau pada -na-
 
-Tidak ada aturan tetap yang dapat ditetapkan untuk distribusi PPP pada -ta- atau -na-. Namun:
+Tidak ada aturan tetap yang dapat ditetapkan untuk distribusi Partisip pasif lampau pada -ta- atau -na-. Namun:
 
 ::: grammar-box
 
-Hampir semua akar kata yang berakhir dengan -d membentuk PPP pada -na-. Dalam hal ini, -d-n- diganti menjadi -n-n-, yang biasanya tidak terjadi dalam sandhi kata, melainkan merupakan peniruan dari sandhi kalimat.
+Hampir semua akar kata yang berakhir dengan -d membentuk Partisip pasif lampau pada -na-. Dalam hal ini, -d-n- diganti menjadi -n-n-, yang biasanya tidak terjadi dalam sandhi kata, melainkan merupakan peniruan dari sandhi kalimat.
 
 Contoh:
-pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
+pad 4 Ā Partisip pasif lampau: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Lebih lanjut tentang penggunaan PPP
+## 13.2. Lebih lanjut tentang penggunaan Partisip pasif lampau
 
 ::: grammar-box
 
-**1. PPP untuk kata kerja dengan makna "berpikir", "menginginkan", "mengetahui", "tahu", "menyembah" serta beberapa kata kerja lain yang dalam Dhātupāṭha (daftar akar kata untuk Pāṇini) ditandai dengan ñi, tidak hanya memiliki makna lampau, tetapi juga dapat digunakan dalam makna present:**
+**1. Partisip pasif lampau untuk kata kerja dengan makna "berpikir", "menginginkan", "mengetahui", "tahu", "menyembah" serta beberapa kata kerja lain yang dalam Dhātupāṭha (daftar akar kata untuk Pāṇini) ditandai dengan ñi, tidak hanya memiliki makna lampau, tetapi juga dapat digunakan dalam makna present:**
 misalnya:
 :::
 ::: indent
 ⟪इष्ट⟫ "diinginkan" (yaitu tidak hanya diinginkan di masa lalu, tetapi juga saat ini)
-⟪त्वरित⟫ "berlari, terburu-buru" (PPP dari tvar 1 Ā "berlari"; Dhātupāṭha: ñitvárā)
+⟪त्वरित⟫ "berlari, terburu-buru" (Partisip pasif lampau dari tvar 1 Ā "berlari"; Dhātupāṭha: ñitvárā)
 :::
 
-**2. PPP dapat digunakan sebagai atributif adjektiva:**
+**2. Partisip pasif lampau dapat digunakan sebagai atributif adjektiva:**
 misalnya:
 ::: indent
 ⟪इष्टं फलम्⟫ "buah yang diinginkan (misalnya hasil perbuatan)"
 :::
 
-Jika dalam kasus ini ⟪अपि⟫ muncul setelah PPP, maka ⟪अपि⟫ memiliki makna "meskipun":
+Jika dalam kasus ini ⟪अपि⟫ muncul setelah Partisip pasif lampau, maka ⟪अपि⟫ memiliki makna "meskipun":
 misalnya:
 ::: indent
 ⟪इष्टमपि फलं न लभते⟫ = "Meskipun ia menginginkan buah tersebut, ia tidak mendapatkannya."
 :::
 
-**3. Bentuk neutrum tunggal dari PPP setiap kata kerja juga dapat digunakan sebagai abstrak verbal:**
+**3. Bentuk neutrum tunggal dari Partisip pasif lampau setiap kata kerja juga dapat digunakan sebagai abstrak verbal:**
 misalnya:
 ::: indent
 ⟪गत⟫ n.: "perjalanan, cara berjalan"
@@ -154,7 +154,7 @@ Pada akar yang berakhiran konsonan:
 
 Femininum:
 
->> Stamm feminin dari stam -mant- dan -vant- berakhir pada -mat-ī atau -vat-ī. Deklinasinya mengikuti pola devī, artinya tidak ada perubahan tingkat stam.
+Stamm feminin dari stam pada -mant- dan -vant- berakhir dengan -mat-ī atau -vat-ī. Deklinasinya mengikuti devī, artinya tidak ada perubahan tingkat stam.
 
 Contoh:
 * paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
@@ -169,16 +169,16 @@ Pelajari kata-kata berikut:
 **asura** m. ⟪असुर⟫ : iblis
 
 > **ASURA.** 'Spiritual, ilahi.'
-&gt;
+\>
 > Pada bagian tertua Ṛgveda, istilah ini digunakan untuk roh tertinggi, dan sama dengan Ahura dari Zoroastrianisme. Dalam arti 'dewa', istilah ini diterapkan pada beberapa dewa utama, seperti Indra, Agni, dan Varuṇa. Kemudian memperoleh makna yang sepenuhnya berlawanan, dan menjadi berarti, seperti sekarang ini, iblis atau musuh para dewa.
-&gt;
-> Kata ini ditemukan dengan makna ini di bagian akhir Ṛgveda, khususnya pada buku terakhir, dan juga dalam Atharvaveda. Brāhmaṇas memberikan makna yang sama, dan mencatat banyak pertempuran antara Asuras dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku sebagai Asuras." Di bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung. Ia menciptakan Asuras dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan sebelumnya, dan menyatakan bahwa "ia menciptakan Asuras dari napas bawahnya." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa, manusia, ayah-ayah, Gandharvas, dan Apsarases dari air, dan bahwa Asuras, Rakṣasas, dan piśācas berasal dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh Prajāpatis.
-&gt;
+\>
+> Kata ini ditemukan dengan makna ini pada bagian akhir Ṛgveda, khususnya pada buku terakhir, dan juga dalam Atharvaveda. Brāhmaṇas memberikan makna yang sama, dan mencatat banyak pertempuran antara Asuras dan para dewa. Menurut Taittirīya Brāhmaṇa, napas *(asu)* Prajapati menjadi hidup, dan "dengan napas itu ia menciptakan aku Asuras." Pada bagian lain dari karya yang sama dikatakan bahwa Prajāpati "mengandung. Ia menciptakan Asuras dari perutnya." Śatapatha Brāhmaṇa sejalan dengan pernyataan sebelumnya, dan menyatakan bahwa "ia menciptakan Asuras dari napas bawahnya." Taittirīya Āraṇyaka menggambarkan bahwa Prajāpati menciptakan dewa, manusia, ayah-ayah, Gandharvas, dan Apsarases dari air, dan bahwa Asuras, Rakṣasas, dan piśācas berasal dari tetesan yang tumpah. Pernyataan Manu adalah bahwa mereka diciptakan oleh Prajāpatis.
+\>
 > Menurut Viṣṇu Purāṇa, mereka dihasilkan dari selangkangan Brahma (prajāpati). Keterangan Vāyu Purāṇa adalah: "Asuras pertama kali dihasilkan sebagai putra dari selangkangnya (Prajāpati). *Asu* dinyatakan oleh Brāhmaṇa berarti napas. Dari itu makhluk-makhluk ini dihasilkan; karenanya mereka adalah Asuras." Kata ini telah lama digunakan sebagai nama umum untuk musuh para dewa, termasuk Daityas dan Danavas serta keturunan Kaśyapa lainnya, tetapi tidak termasuk Rakṣasas yang berasal dari Pulastya.
-&gt;
-> Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' oleh karena itu, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
-&gt;
-> [Sumber: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+\>
+> Dalam arti ini, derivasi yang berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awalan *a* diambil sebagai prefix negatif, dan *asura* berarti 'bukan dewa;' karenanya, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
+\>
+> [Sumber: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -186,18 +186,18 @@ Fig.: ⟪महिषासुरः⟫
 (Sumber gambar: [Details](/id/licenses#lekt1301))
 :::
 **guṇa** m. ⟪गुण⟫ : benang, tali; sifat, sifat baik
-**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : berjalan, masuk ke dalam
+**pad** 4 Ā (padyate), Kalimat pasif: padyate, Partisip pasif lampau panna ⟪पद् पद्यते पद्यते पन्न⟫ : berjalan, masuk ke dalam
 **as** 2 P (asti) ⟪अस् अस्ति⟫ : ada, berada di sana
-**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : melempar, (membuang)
-**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : pergi
-**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : melindungi, menjaga
+**as** 4 P (asyati), Kalimat pasif: asyate, Partisip pasif lampau asta ⟪अस् अस्यति अस्यते अस्त⟫ : melempar, (membuang)
+**i** 2 P (eti), Kalimat pasif: īyate, Partisip pasif lampau ita ⟪इ एति ईयते इत⟫ : pergi
+**pā** 2 P (pāti), Kalimat pasif pāyate, Partisip pasif lampau pāta ⟪पा पाति पायते पात⟫ : melindungi, menjaga
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : minum (secara tradisional dikategorikan ke dalam kelas 1)
+**pā** 1 P (pibati), Kalimat pasif pīyate, Partisip pasif lampau pīta ⟪पा पिबति पीयते पीत⟫ : minum (secara tradisional dikategorikan ke dalam kelas 1)
 :::
-**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : membenci, memusuhi
-**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : makan, mengonsumsi
-**anna** n. ⟪अन्न⟫ : makanan (dari PPP: *ad-na: yang dimakan)
+**dviṣ** 2 U (dveṣṭi), Kalimat pasif dviṣyate, Partisip pasif lampau dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : membenci, memusuhi
+**ad** 2 P (atti), Kalimat pasif adyate, Partisip pasif lampau anna ⟪अद् अत्ति अद्यते अन्न⟫ : makan, mengonsumsi
+**anna** n. ⟪अन्न⟫ : makanan (dari Partisip pasif lampau: *ad-na: yang dimakan)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -252,11 +252,11 @@ A) Terjemahkan kalimat-kalimat berikut:
 
 B) Ubahlah kalimat-kalimat dari Latihan A) ke dalam bentuk pasif.
 
-C) Bentuklah konstruksi PPP (Participle Perfect Passive) untuk kalimat-kalimat dari Latihan A).
+C) Bentuklah konstruksi Partisip pasif lampau (Participle Perfect Passive) untuk kalimat-kalimat dari Latihan A).
 
 ::: media
 ![](/images/lekt1302.webp)
-Abb.: ⟪सत्यमेव जयते⟫
+Gbr.: ⟪सत्यमेव जयते⟫
 (Sumber gambar: [Details](/id/licenses#lekt1302))
 :::
 D) Dari kombinasi bunyi apa saja bentuk Sandhi berikut ini dapat berasal? Sebutkan semua kemungkinan:

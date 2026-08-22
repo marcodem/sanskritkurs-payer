@@ -243,6 +243,9 @@ Vollständige Übersetzung und Integration der thailändischen und neugriechisch
 
 ## Backlog
 
+### Release 1.7.1 Kandidaten
+- [ ] **AI-Warnung auf der Hauptseite:** Hinweis anbringen: "Achtung: Einzig die DE Version ist original von Prof. Payer. Alle anderen Sprachen sind so gut wie möglich automatisch übersetzt und nicht auf Qualität geprüft. Deshalb werden kompetente Lektoren und Kuratoren für alle Sprachen gesucht."
+
 ### Quality & Content Cleanup (Phase 23-Kandidaten)
 
 - [x] **BG-Version beibehalten (Ausblendung storniert)** — Bulgarisch (`bg`) bleibt vollständig in der öffentlichen Navigation und in `DEFAULT_LOCALES` aktiv.

@@ -99,4 +99,4 @@ NOTA: Las respuestas que puede dar a estas preguntas con sus conocimientos actua
 ![](/images/lekt0401.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0401))
 :::
- &lt;!--  --&gt;
+ \<!--  --\>

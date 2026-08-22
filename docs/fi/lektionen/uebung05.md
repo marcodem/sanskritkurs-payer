@@ -171,4 +171,3 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 Kuv.: ⟪ऋग्वेदः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung009))
 :::
-:::

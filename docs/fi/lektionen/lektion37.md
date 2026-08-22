@@ -133,7 +133,7 @@ Esimerkit:
 
 Esimerkit:
 ::: indent
-⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \&lt;ei enää substantiivina käytössä\&gt;)
+⟪जातु⟫ "yhtään" (alkuperäisesti "syntymältä, luonnolta", akk.sg.n. sanalle ⟪जातु⟩ \<ei enää substantiivina käytössä\>)
 
 ⟪तूष्णीम्⟫ "vaikenemalla" (akk.sg. sanasta, joka ei enää käytössä oleva ⟪तूष्णी⟩ f. "vaikeneminen")
 
@@ -173,7 +173,6 @@ Kuva: ⟪क्व⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3701))
 :::
 
-:::
 ::: grammar-box
 
 **Lisättyjä adverbialipäätteitä**
@@ -387,7 +386,7 @@ Esimerkki: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟩ » 
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \&lt;Absolutiivi\&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \<Absolutiivi\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 

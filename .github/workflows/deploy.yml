@@ -52,11 +52,6 @@ jobs:
           VITEPRESS_ENV=public npm run docs:build
           mv docs/.vitepress/dist docs/.vitepress/dist-public
 
-      - name: Build VitePress (Author)
-        run: |
-          VITEPRESS_ENV=author npm run docs:build
-          mv docs/.vitepress/dist docs/.vitepress/dist-author
-
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 
@@ -90,27 +85,6 @@ jobs:
           platforms: linux/amd64,linux/arm64
           tags: ${{ steps.meta-public.outputs.tags }}
           labels: ${{ steps.meta-public.outputs.labels }}
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
-
-      - name: Extract metadata (Author)
-        id: meta-author
-        uses: docker/metadata-action@v5
-        with:
-          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
-          tags: |
-            type=raw,value=author
-            type=raw,value=author-{{sha}}
-
-      - name: Build and push Author image
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          file: Dockerfile.author
-          push: true
-          platforms: linux/amd64,linux/arm64
-          tags: ${{ steps.meta-author.outputs.tags }}
-          labels: ${{ steps.meta-author.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
 

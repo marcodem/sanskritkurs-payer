@@ -1,6 +1,6 @@
 ---
 title: "Pelajaran 27"
-subtitle: 'Penggunaan Lokativ (⟪सप्तमी⟫ f. = \"akhiran kasus ketujuh\")'
+subtitle: 'Penggunaan Lokativ (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,11 +10,11 @@ status: stable
 
 # Pelajaran 27
 
-## 27.1. Penggunaan  Lokatif (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
+## 27.1. Penggunaan Lokativ (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
 
 ::: grammar-box
 
-**Kasus Lokatif (⟪सप्तमी⟫) menjawab pertanyaan-pertanyaan berikut:**
+**Lokativ (⟪सप्तमी⟫) menjawab pertanyaan:**
 *   **di mana?**
 *   **kapan?**
 *   **dalam keadaan apa?**
@@ -23,37 +23,37 @@ status: stable
 :::
 ::: grammar-box
 
-**1. Lokatif (⟪सप्तमी⟫) menunjukkan, sebagai respons terhadap pertanyaan "Di mana?", ruang (di, pada, oleh) di mana agen (⟪कर्ता⟫) atau objek tindakan berada, atau di mana tindakan itu sendiri terjadi.**
+**1. Lokativ (⟪सप्तमी⟫) menjawab pertanyaan "Di mana?" menunjukkan ruang, di (di, pada, dekat) mana Agen (⟪कर्ता⟫) atau objek suatu tindakan berada, atau di mana tindakan itu sendiri berlangsung.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "He lives in the city"
+> ⟪नगरे वसति⟫ = "Ia tinggal di kota"
 
 :::
 ::: media
 ![](/images/lekt2701.webp)
-Fig.: ⟪जयपुरनगरे⟫
+Ilustr.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Image source: [Detail](/en/licenses#lekt2701))
+(Sumber gambar: [Details](/id/licenses#lekt2701))
 :::
 
 ::: grammar-box
 
-**2. Lokatif menunjukkan, sebagai respons terhadap pertanyaan "Kapan?", titik waktu atau keadaan eksternal:**
+**2. Lokativ menjawab pertanyaan "Kapan?" menunjukkan waktu atau keadaan eksternal:**
 
-> ⟪तस्मिन्काले⟫ = "at that time, at that time"
+> ⟪तस्मिन्काले⟫ = "pada saat itu, pada waktu itu"
 
-**This also includes the so-called Locativus Absolutus:**
+**Di sini juga termasuk yang disebut Locativus Absolutus:**
 
-**Jika suatu tindakan atau keadaan seseorang atau sesuatu menentukan waktu — atau keadaan di mana — ORANG LAIN atau sesuatu melakukan tindakan atau berada dalam keadaan tertentu, maka kata yang menunjuk pada orang atau hal pertama, bersama dengan kata yang menentukan lebih lanjut (yang sering berupa participle), muncul dalam Kasus Lokatif (⟪सप्तमी⟫):**
+**Jika tindakan atau keadaan seseorang atau sesuatu menentukan waktu, di mana - atau keadaan, di bawah mana - ORANG ATAU BENDA LAIN melakukan tindakan atau berada dalam kondisi tertentu, maka kata yang menunjukkan orang atau benda pertama bersama dengan kata yang lebih menentukan sama (yang sering kali merupakan partisisp) berada dalam Lokativ (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "while time passes so..."
->
-> ⟪तस्मिन्गते⟫ = "when he had gone..."
+> ⟪एवं गच्छति काले⟫ = "sementara waktu berlalu..."
+\>
+> ⟪तस्मिन्गते⟫ = "ketika ia telah pergi..."
 
-**Sometimes the agent (⟪कर्ता⟫) is not explicitly stated:**
+**Kadang-kadang Agen (⟪कर्ता⟫) tidak disebutkan secara eksplisit:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "since it is so"
+> ⟪एवं सति⟫ = "karena keadaan demikian"
 
-**The Locativus absolutus must be translated according to context as "while" (e.g., present participle), "after", "when" (e.g., PPP), "since", "because", "although", "if", etc.**
+**Locativus absolutus harus diterjemahkan sesuai konteks dengan "sementara" (mis. Partisisp Present), "setelah", "ketika" (mis. PPP), "karena", "sebab", "meskipun", "jika" dan lain-lain.**
 
 [Catatan: dalam Absolutivum, agen dari Absolutivum dan agen dari klausa utama harus identik; dalam Locativus absolutus, agen dari Locativus absolutus dan agen dari kata kerja utama harus berbeda.]
 
@@ -184,10 +184,10 @@ Rāma-Satz.
 **⟪वस्⟫** 1P (⟪वसति⟫): tinggal, berdiam (dengan lokatif orang tempat seseorang berdiam)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**Waktu akan datang:** ⟪वत्स्यति⟫
+**Kalimat pasif:** ⟪उष्यते⟫
+**Partisip pasif lampau:** ⟪उषित⟫
+**Infinitif:** ⟪वस्तुम्⟫
 :::
 from this:
 
@@ -201,9 +201,9 @@ from this:
 **⟪वस्⟫** 2Ā (⟪वस्ते⟫): to put on (clothing), to wear (clothing)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**Waktu akan datang:** ⟪वसिष्यते⟫
+**Partisip pasif lampau:** ⟪वसित⟫
+**Infinitif:** ⟪वसितुम्⟫
 :::
 from this:
 
@@ -232,10 +232,10 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 **⟪हृ⟫** 1U (⟪हरति⟫): menahan, membawa; mengambil, membawa pergi, mencuri
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**Waktu akan datang:** ⟪हरिष्यति⟫
+**Kalimat pasif:** ⟪ह्रियते⟫
+**Partisip pasif lampau:** ⟪हृत⟫
+**Infinitif:** ⟪हर्तुम्⟫
 :::
 from this:
 
@@ -413,44 +413,44 @@ Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 -
 :::
 ::: media
 ![](/images/lekt2713.webp)
-Fig.: ⟪गुरुः⟫
+Gambar: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Image source: [Detail](/en/licenses#lekt2713))
+(Sumber gambar: [Details](/id/licenses#lekt2713))
 :::
-### 27.7.7. Feminina auf -u: ⟪धेनु⟫
+### 27.7.7. Feminina berakhiran -u: ⟪धेनु⟫
 
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचनम्⟫ | Jamak:br⟪बहुवचनम्⟫ |
+| | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| **1. Nominatif** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪धेनुस्⟫ | ⟪धेनवस्⟫ |
-| **2. Akusatif** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪धेनुम्⟫ | ⟪धेनूस्⟫ |
-| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪धेन्वा⟫ | ⟪धेनुभिस्⟫ |
-| **4. Datif** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यस्⟫ |
-| **5. Ablatif** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪धेनोस्⟫ / ⟪धेन्वास्⟫ | ⟪धेनुभ्यस्⟫ |
-| **6. Genitif** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪धेनोस्⟫ / ⟪धेन्वास्⟫ | ⟪धेनूणाम्⟫ |
-| **7. Lokatif** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
+| **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪धेनुस्⟫ | ⟪धेनवस्⟫ |
+| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪धेनुम्⟫ | ⟪धेनूस्⟫ |
+| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪धेन्वा⟫ | ⟪धेनुभिस्⟫ |
+| **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪धेनवे⟫ / ⟪धेन्वै⟫ | ⟪धेनुभ्यस्⟫ |
+| **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪धेनोस्⟫ / ⟪धेन्वास्⟫ | ⟪धेनुभ्यस्⟫ |
+| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪धेनोस्⟫ / ⟪धेन्वास्⟫ | ⟪धेनूणाम्⟫ |
+| **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪धेनौ⟫ / ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
 ::: media
 ![](/images/lekt2714.webp)
-Fig.: ⟪धेनुः⟫
-Cow in Udaipur.
-(Image source: [Detail](/en/licenses#lekt2714))
+Gambar: ⟪धेनुः⟫
+Sapi di Udaipur.
+(Sumber gambar: [Details](/id/licenses#lekt2714))
 :::
-### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
+### 27.7.8. Feminina multisilabis berakhiran -ī: ⟪देवी⟫
 
 ::: grammar-box
 
-| | Tunggal:br⟪एकवचनम्⟫ | Jamak:br⟪बहुवचनम्⟫ |
+| | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| **1. Nominatif** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪देवी⟫ | ⟪देव्यस्⟫ |
-| **2. Akusatif** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪देवीम्⟫ | ⟪देवीस्⟫ |
-| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪देव्या⟫ | ⟪देवीभिस्⟫ |
-| **4. Datif** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪देव्यै⟫ | ⟪देवीभ्यस्⟫ |
-| **5. Ablatif** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪देव्यास्⟫ | ⟪देवीभ्यस्⟫ |
-| **6. Genitif** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪देव्यास्⟫ | ⟪देवीणाम्⟫ |
-| **7. Lokatif** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
+| **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪देवी⟫ | ⟪देव्यस्⟫ |
+| **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪देवीम्⟫ | ⟪देवीस्⟫ |
+| **3. Instrumentalis** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪देव्या⟫ | ⟪देवीभिस्⟫ |
+| **4. Dativ** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪देव्यै⟫ | ⟪देवीभ्यस्⟫ |
+| **5. Ablativ** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪देव्यास्⟫ | ⟪देवीभ्यस्⟫ |
+| **6. Genetiv** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪देव्यास्⟫ | ⟪देवीणाम्⟫ |
+| **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
 
 :::
 ::: media
@@ -585,8 +585,8 @@ Sai Baba dari Shirdi (1835 - 1918).
 :::
 ::: media
 ![](/images/lekt2717.webp)
-Fig.: ⟪कस्मात्⟫ ?
+Ilustrasi: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Image source: [Detail](/en/licenses#lekt2717))
+(Sumber gambar: [Details](/id/licenses#lekt2717))
 :::
 

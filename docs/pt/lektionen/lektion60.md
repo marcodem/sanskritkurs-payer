@@ -201,7 +201,6 @@ Paradigmas, ver Kielhorn, Gramática § 124:
 (Fonte da imagem: [Detalhes](/licenses#lekt6001))
 :::
 
-:::
 ::: media
 ![](/images/lekt6002.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6002))
@@ -240,7 +239,6 @@ Exemplo: ⟪प्रतीची⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt6003))
 :::
 
-:::
 ::: media
 ![](/images/lekt6004.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6004))
@@ -424,13 +422,11 @@ A) Aprenda em Kielhorn, Gramática § 451, as formações desiderativas irregula
 (Fonte da imagem: [Detalhes](/licenses#lekt6007))
 :::
 
-:::
 ::: media
 ![](/images/lekt6008.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6008))
 :::
 
-:::
 ::: media
 ![](/images/lekt6009.webp)
 (Fonte da imagem: [Detalhes](/licenses#lekt6009))

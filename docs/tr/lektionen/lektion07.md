@@ -1,6 +1,6 @@
 ---
 title: "Ders 7"
-subtitle: "Doğrudan nesneli fiil cümlesi"
+subtitle: "Doğrudan nesneli yüklem cümlesi"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -24,41 +24,41 @@ status: stable
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
-Hak, haksızlığa;
-Gerçek, yalana;
-Hoşgörü, öfkeye;
-Tanrı, tanrının düşmanına galip gelir.
+Adalet galip gelir, haksızlık değil,
+Gerçek galip gelir, yalan değil,
+Hoşgörü galip gelir, öfke değil,
+Tanrı galip gelir, tanrının düşmanı değil.
 :::
 
 
-## 7.1. Doğrudan nesneli yüklem cümlesi
+## 7.1. Doğrudan nesne ile fiil cümlesi
 
 ::: grammar-box
 **Şema:**
-**(Özne = kartṛ m. = ⟪कर्तृ⟫) – doğrudan nesne (karman n. = ⟪कर्मन्⟫) – yüklem**
+**(Agens = kartṛ m. = ⟪कर्तृ⟫) – doğrudan nesne (karman n. = ⟪कर्मन्⟫) – fiil**
 
 örn.
 **rāmaḥ phalaṃ khādati** = ⟪रामः फलं खादति⟫ : "Rāma bir meyve yer (kaut)."
-**brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman, bir tanrıya (birisi için) kurbanla saygı gösterir."
+**brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो देवं यजति⟫ : "Brahman bir tanrıya (birisi için) bir sunakla tapan eder."
 :::
-Yüklem Parasmaipada veya Ātmanepada ise, doğrudan nesne (**karman** n. = ⟪कर्मन्⟫) genel olarak **belirtme halinde** (Wenfall, dvitīyā f. = ⟪द्वितीया⟩) bulunur.
+Fiil Parasmaipada veya Ātmanepada durumunda ise, doğrudan nesne (**karman** n. = ⟪कर्मन्⟫) genel olarak **Belirtme Hali**'nde (Wenfall, dvitīyā f. = ⟪द्वितीया⟫) bulunur.
 
 
-## 7.2. Belirtme hali (Wenfall, dvitīyā f. = ⟪द्वितीया⟩ = "ikinci hal eki")
+## 7.2. Belirtme Hali (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "ikinci hal eki")
 
 ::: grammar-box
-**Belirtme hali tekil, eril ve dişil için ünlü sonrası: -m**
+**Belirtme Tekil Eril ve Dişil Ekinin Sesli Harfle Biten Kelimeler İçin: -m**
 
-| Erillere bitişli | Belirtme hali tekil |
+| Eril Sonları | Belirtme Tekil |
 | :--- | :--- |
-| **-a**: deva | **devam** :br⟪देवम्⟩ |
-| **-i**: kavi | **kavim** :br⟪कविम्⟩ |
-| **-u**: guru | **gurum** :br⟪गुरुम्⟩ |
-| Dişillere bitişli | Belirtme hali tekil |
-| **-ā**: devatā | **devatām** :br⟪देवताम्⟩ |
-| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟩ |
-| **-ī**: devī | **devīm** :br⟪देवीम्⟩ |
-| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟩ |
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
+| Dişil Sonları | Belirtme Tekil |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
 **Maskul Çiftlik Akkusatif, Sesli Sonlu Köklerden (İstisna: Uzun sesle biten tek heceli kök kökler): Sonundaki ünlünün uzunluğu + -n**
@@ -281,20 +281,20 @@ Resm.: **yajati** = ⟪यजति⟫ — Vedik kurban = **yajña** m. = ⟪य
 ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
 ⟪गुरूूंस्तु शृण्वन्ति⟫ |
-3. Śūdras erlangen einen Himmel.
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
-5. Vaiśyafrauen verehren Gottheiten mit Opfern.
-6. Der HERR zürnt.
+3. Śūdras bir cennet elde ederler.
+4. Kṣatriyalar kurbanın efendileri olarak tanrıçaları kurbanlarla onurlandırırlar.
+5. Vaiśya kadınları tanrıları kurbanlarla onurlandırırlar.
+6. RAB öfkelenir.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫ |
-8. Welchem Gott opfert dieser Brahmane?
+8. Bu brahman hangi tanrıya kurban sunuyor?
 
 ::: media
 ![](/images/lekt0703.webp)
-Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Bildquelle: [Details](/tr/licenses#lekt0703))
+Şek.: Burada hangi tanrıya kurban sunuluyor? Cevap: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt0703))
 :::
-9. Was kaut dieser heilige Mann?
-10. Was pressen diese (hier) aus?
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+9. Bu kutsal adam ne çiğniyor?
+10. Bunlar (burada) neyi sıkıyorlar?
+11. O öğretmendir. Onu dinler(ler).
 

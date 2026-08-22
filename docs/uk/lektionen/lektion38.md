@@ -47,7 +47,7 @@ status: stable
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Основа** | **-ān** | **-mān** | **-vān** | Наз., знах., клич. одр. ч. ч. р. ж. р.:brНаз., знах., клич. дв. ч. ч. р. ж. р.:brНаз., клич. мн. ч. ч. р. ж. р.:brНаз., знах. мн. ч. с. р. |
 | **Mittlerer Schwacher Основа** | **-a**:br(з -*n) | **-ma**:br(з -*mn) | **-va**:br(з -*vn) | Übrige Kasus vor konsonantisch anlautender Закінчення:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Основа** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Закінчення | &lt;!--  -→
+| **Schwächster Основа** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Закінчення | \<!--  -→
 
 **Закінчення є регулярними. Називний відмінок однини чоловічого та жіночого роду утворюється без кінцевого -n.**
 :::

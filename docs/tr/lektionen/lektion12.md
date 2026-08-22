@@ -1,98 +1,100 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Ders 12"
+subtitle: "Geçmiş Zaman Edilgen Ortak (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 12
+# Ders 12
 
 
 ## 12.1. Partizip Perfekt Passiv (PPP)
 
-Eine Möglichkeit, Passivsätze der Vergangenheit zu bilden, ist die Konstruktion mit dem sog. Partizip Perfekt Passiv (PPP).
+Geçmiş zamanın edilgen cümlelerini oluşturmanın bir yolu, sözde Partizip Perfekt Passiv (PPP) ile yapılan yapıdır.
 
 ::: grammar-box
-**In Wirklichkeit ist das PPP kein echtes Partizip, da es nicht von einem Tempusstamm gebildet wird. Es ist vielmehr eine Nominalbildung zur Wurzel mit dem Primärsuffix -ta bzw. -na. Deshalb spricht man in der indischen Grammatik vom Suffix kta.**
+**Aslında PPP gerçek bir partizip değildir, çünkü bir zaman kökünden türetilmez. Aksine, -ta veya -na birincil ekleriyle köke yapılan isim türetmesidir. Bu nedenle Hint dilbilgisinde kta ekinden bahsedilir.**
 :::
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. Geçişli fiiller için şema
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- direktes Objekt (karman) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Eden (kartṛ) araç halde (tṛtīyā) -- doğrudan nesne (karman) özne halde (prathamā) -- Partizip Perfekt Passiv**
 
-Das PPP stimmt in diesem Fall mit dem Objekt in Zahl, Fall und Geschlecht überein.
+Bu durumda PPP, nesne ile sayı, hal ve cinsiyette uyum sağlar.
 
-Ein Hilfsverb („sein“) ist nicht nötig.
+Bir yardımcı fiil ("olmak") gerekli değildir.
 
-Beispiele:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Vom Heiligen wurde ein Himmel erlangt) = Der Heilige hat einen Himmel erlangt.“
+Örnekler:
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Aziz tarafından bir cennet elde edildi) = Aziz bir cennet elde etti."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Vom Brahmanen wurde die Göttin mit einem Opfer verehrt) = Der Brahmane hat die Göttin mit einem Opfer verehrt.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahman tarafından tanrıça bir sunuyla onurlandırıldı) = Brahman tanrıçayı bir sunuyla onurlandırdı."
 :::
 
-### 12.1.2. Schema I für intransitive Verben und Verben der Bewegung
+### 12.1.2. İletişimsiz fiiller ve hareket fiilleri için Şema I
 
 ::: grammar-box
-**Agens (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Eden (kartṛ) özne halde (prathamā) -- Partizip Perfekt Passiv**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+Bu durumda PPP, eden ile sayı, hal ve cinsiyette uyum sağlar. İletişimsiz fiillerde (doğrudan nesnesi olmayan fiiller) ve hareket fiillerinde Partizip Perfekt "Edilgen" aktif anlam taşır.
 
-Beispiel:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Die Kṣatriyafrau ist in die Stadt gegangen.“
+Örnek:
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya kadını şehre gitti."
 :::
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. II. Şema: Geçişsiz Fiiller ve Hareket Fiilleri İçin
 
 ::: grammar-box
-**Agens (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
+**Eden (kartṛ) Aletlik Çekim (tṛtīyā) -- PPP Yalın Tekil Dişil**
 
-Beispiel:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Vom Kṣatriya wurde (in die Stadt) gegangen) = Der Kṣatriya ist (in die Stadt) gegangen.“
+Örnek:
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya tarafından (şehre) gidildi) = Kṣatriya (şehre) gitti.“
 
-Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
+II. Şema uyarınca yapı, I. Şema'ya göre yapıdan çok daha az yaygındır.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. PPP'nin Anlamı Hakkında
 
-Während also das sog. „Partizip Perfekt Passiv“ für transitive Verben in erster Linie passive Bedeutung hat (**āpta** = „erreicht (worden)“) und für intransitive Verben und Verben der Bewegung aktive Bedeutung (**gata** = „gegangen“), gibt es einige Verben, bei denen das PPP sowohl aktive als auch passive Bedeutung haben kann:
+Dolayısıyla, geçişli fiiller için sözde „Mükemmiş Zaman Edilgen Ortı“ (Partizip Perfekt Passiv) öncelikle edilgen anlam taşır (**āpta** = „ulaşmış (olunmuş)“) ve geçişsiz fiiller ile hareket fiilleri için ise aktif anlam taşır (**gata** = „gitmiş“), PPP'nin hem aktif hem de edilgen anlam taşıyabildiği bazı fiiller vardır:
 
-z.B.
-- **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
-- **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
+örn.
+**gata** = ⟪गत⟫ = „gitmiş“ (aktif); ayrıca: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „gidilmiş bir yol“ (edilgen)
+**āpta** = ⟪आप्त⟫ = „ulaşmış olunmuş“ (edilgen), „ulaşmış olan“ (aktif)
 
-## 12.3. Bildung des PPP
+
+## 12.3. PPP'nin Yapılışı
 
 ::: grammar-box
-Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!):
+Aşağıdaki yapım yolları görülür (her kök için ilgili PPP'si öğrenilmelidir!):
 
-**(meist) tiefstufige Wurzel**
+**(çoğunlukla) Derin sesli kök**
 
-- **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
-- **+ -na**
+**+ -ta**
+önünde bağlayıcı sesli **-i-** ile: **-ita**
+bağlayıcı sesli olmadan: **-ta**
+**+ -na**
 
-Die Femininstämme lauten: **-tā**, **-itā**, **-nā**; das Neutrum flektiert wie **phala** n.
+Diil köklerin sonu **-tā**, **-itā**, **-nā** şeklindedir; dişil, **phala** n. gibi çekimlenir.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. -ta (kta) sonlu PPP
 
-#### 12.3.1.1. Ohne Bindevokal -i- (aniṭ)
+#### 12.3.1.1. Bağlayıcı sesli -i- olmadan (aniṭ)
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = „bağlayıcı sesli (*an-*) ekinden önce getirilmemiş (*-i-*) *t*“ (yani bağlayıcı sesli *i* olmadan).
 
 ::: grammar-box
-Ohne Bindevokal bildet man das PPP im Allgemeinen von vokalisch auslautenden Wurzeln sowie vielen anderen Wurzeln, ohne dass man eine feste Regel dafür angeben könnte, bei wie strukturierten Wurzeln der Bindevokal auftritt oder nicht.
+Bindevokal olmadan PPP, genel olarak sesle biten köklerden ve birçok başka kökten oluşturulur; burada bindevokalın hangi yapıdaki köklerde ortaya çıkıp çıkmadığına dair kesin bir kural vermek mümkün değildir.
 
-Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
+*aniṭ* köklerin listesi Kielhorn'un *Grammatik* adlı eserinin § 298. maddesinde yer almaktadır.
 :::
-**Beispiele:**
+**Örnekler:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Kök | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -107,14 +109,14 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. Bindevokal -i- ile (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = "(*sa-*) eki öncesine yerleştirilmiş (*-i-*) *t* ile" (yani bindevokal *i* ile).
 
-**Beispiele:**
+**Örnekler:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Kök | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -122,64 +124,65 @@ Eine Liste der *aniṭ*-Wurzeln findet sich bei Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Gesetze der Lautverbindung im Wort
+## 12.4. Kelime içinde ses birleşmesi yasaları
 
-Bei *aniṭ*-Bildungen sind folgende Gesetze der Lautverbindung im Wort zu beachten. **Diese Gesetze sind für das Verständnis der gesamten Sanskrit-Formenlehre sehr wichtig.**
+*aniṭ* yapılarında kelime içindeki ses birleşmesi ile ilgili aşağıdaki yasalara dikkat edilmelidir. **Bu yasalar, tüm Sanskrit biçim bilgisi anlayışı için son derece önemlidir.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p vor stimmlosem Verschlusslaut (z.B. t, th) bleiben unverändert:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Stimmhafter unaspirierter Verschlusslaut – ausser j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **1. k, t, p ünsüzleri (örneğin t, th gibi) sessiz bir kapanıcıdan önce değişmeden kalır:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct, kt ile değiştirilir = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+| **3. śt, ṣṭ ile değiştirilir = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+| **4. Ünsüz olmayan bir kapanıcı – j hariç – sessiz bir ünsüzden önce kendisine karşılık gelen sessiz ve ünsüz olmayan sese dönüşür:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (2. çekim sınıfı için önemlidir) |
+| **5. jt, kt veya ṣṭ ile değiştirilir (isteğe bağlı değildir!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Ünlü bir ünsüz + sessiz kapanıcı » ünlü olmayan bir kapanıcı + ünlü bir ünsüz (Bartholomaes'in Ünsüz Yasası):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t, önceki i veya u sesini uzatarak ḍh ile değiştirilir; ya da gdh olur. Böyle bir ḍh'den önce a, o ile (nadir durumlarda ā ile) değiştirilir:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) "bir şeyi gizlemek"):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Kelime Listesi
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : uyanmak, bilgeliğe uyanmak, tanımak; PPP **buddha** 3 uyanmış, bu nedenle **Buddha** = "uyanmış olan" (değil: aydınlanmış)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Resim: ⟪गौतमो बुद्धः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (bir şeyi) yakmak
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : başa çıkmak, dayanmak, sabırla taşımak = affetmek
+**mṛga** m. ⟪मृग⟫ : yaban hayvanı
+**mārga** m. ⟪मार्ग⟫ : yol (yollar genellikle yaban hayvanı izleri olurdu)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Resim: ⟪मार्गः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : ayrıca (sözcükten sonra gelir)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Altıncı çekim sınıfına yerli gramerciler, ünlü ekin ve tema sesini a ile oluşturan bazı kökleri sayar, örneğin:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : çözmek, bırakmak, kurtarmak; yeniden doğum döngüsünden (**saṃsāra** m.) kurtarmak = azat etmek
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : damlatmak
 
-Zur Wortbildung:
+Kelime yapımı hakkında:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : kopma, kurtulma, azat olma
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : kralın taç giyme töreninde su dökülmesi, taç giyme töreni
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : uyanış (bununla bir Buddha veya Jina kurtarıcı içgörüye ulaşır)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Resim: ⟪महावीरो जिनः⟫
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Bilgi, bilgi aracı.
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Şimdiye kadar öğrenilen köklerin edilgeni ve PPP'si
+
+| Kök:br⟪धातु⟫ | Edilgen Şimdiki Zaman 3. sg. Bildirme Kipi:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -226,11 +229,12 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
 
-**A) Bilden Sie aus den Aktivsätzen von [Lektion 7](/lektionen/lektion07), Übung A mit dem PPP Passivsätze der Vergangenheit, bei intransitiven Verben und Verben der Bewegung Aktivsätze der Vergangenheit.**
+## 12.6. Alıştırma
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**A) [Bölüm 7](/lektionen/lektion07), Alıştırma A'daki Aktiv cümleciklerinden, geçmiş zamanın PPP (Geçmiş Zaman Participle) ile Pasif cümleciklerini ve hareket veya intransitif fiiller için Aktiv geçmiş zaman cümleciklerini oluşturun.**
 
-**C) Setzen Sie die Sätze von [Lektion 10](/lektionen/lektion10), Übung C passiv in die Vergangenheit.**
+**B) [Bölüm 10](/lektionen/lektion10), Alıştırma A'daki fiil formlarına karşılık gelen PPP'leri oluşturun. Burada sṛjati gibi bir formun, üç cinsiyette de PPP'lere karşılık geldiğine dikkat edin.**
+
+**C) [Bölüm 10](/lektionen/lektion10), Alıştırma C'deki cümlecikleri geçmiş zamanın Pasifine dönüştürün.**
 

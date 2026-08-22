@@ -117,7 +117,7 @@ z.B.
 ## 3.5. Satzsandhi von -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās se pred svim zvučnim suglasnicama zamjenjuje s -ā.**
 :::
 z.B.
 

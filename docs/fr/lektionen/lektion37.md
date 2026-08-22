@@ -146,7 +146,7 @@ Exemples :
 
 Exemples :
 ::: indent
-⟪जातु⟫ « en général » (originellement « par naissance, par nature », acc.sg.n. de ⟪जातु⟫ \&lt;n’est plus utilisé comme nom\&gt;)
+⟪जातु⟫ « en général » (originellement « par naissance, par nature », acc.sg.n. de ⟪जातु⟫ \<n’est plus utilisé comme nom\>)
 
 ⟪तूष्णीम्⟫ « silencieusement » (acc.sg. d’un ⟪तूष्णी⟫ f. « silence » autrefois courants)
 
@@ -398,7 +398,7 @@ Exemple : ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \&lt;Absolutif\&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutif\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
@@ -509,3 +509,5 @@ Fig. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪�
 Fig. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3711))
 
+
+:::

@@ -381,20 +381,22 @@ Periphrasticum perfectum ita formatum est:
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
 
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+
+*   1.pl.P ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
 :::
 ## 40.4. Syntactica de prima persona (⟪तृतीयः⟫)
 
 ::: grammar-box
-Quia verbum finitum (verbum coniugatum) agentem (⟪कर्तृ⟫) exprimit, "ego", "nos" in sententiis verbalibus non-passivis cum verbo finito non necesse est per pronomine personale extra exprimi.
+Quia verbum finitum (verbum coniugatum) agentem (⟪कर्तृ⟫) simul exprimit, "ego", "nos" in sententiis verbalibus non-passivis cum verbo finito extra per pronomen personale exprimi non debet
 :::
-## 40.5. Pronomina personalia (⟪पुरुषार्थकसर्वनाम⟫) personae primae singularis et pluralis
+## 40.5. Pronomina personalia (⟪पुरुषार्थकसर्वनाम⟫) primae personae singularis et pluralis
 
 ::: grammar-box
-Forma pronominalis personalis (pronominalis personalis) pro omnibus generibus eadem est.
+Forma pronominalis personalis (pronomini personali) est eadem pro omnibus generibus.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br"ego" | ⟪बहुवचनम्⟫ :br"nos" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -406,30 +408,24 @@ Forma pronominalis personalis (pronominalis personalis) pro omnibus generibus ea
 
 :::
 ::: grammar-box
-Formae breviores, quae supra loco secundo ponuntur (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), numquam in principio sententiae vel versus adhiberi debent.
+Formae breviores, quae supra loco secundo stant (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) nunquam in principio sententiae vel versus adhiberi debent.
 
-Ante particulas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ haec sic dicta encliticae formae quoque adhiberi non debent:
+Ante particulas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ haec dicta encliticae quoque formae non adhiberi debent:
 
-solum: ... ⟪⟪मां⟫⟫ ⟪⟪च⟫⟫ ... "et me"
+tantum: ... ⟪मां च⟫ ... "et me"
 :::
 ::: grammar-box
-Genetivus (⟪⟪षष्ठी⟫⟫) pronominum personalium ut possessivum pronomem adhibetur:
+Genetivus (⟪षष्ठी⟫) pronominalium personalium ut possessivum pronomen adhibetur:
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "meum"
+⟪मम । मे⟫ = "meus"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "noster"
+⟪अस्माकम् । नस्⟫ = "noster"
 :::
 ::: grammar-box
-Ut prior pars compositionum pro his pronomini bus stant radices:
+Ut pars prior compositorum pro his pronomini bus stant radices:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
-
-e.g. ⟪मत्पुस्तकम्⟫ "liber meus" ; ⟪अस्मद्पुस्तकानि⟫ "libri nostri"
-:::
-## 40.6. Glossarium
-
-⟪पात्र⟫ n.: Venerabilis, Magister, Dignus
 
 ⟪मेधा⟫ f.: sapientia, intellectus, cogitatio
 
@@ -437,6 +433,7 @@ e.g. ⟪मत्पुस्तकम्⟫ "liber meus" ; ⟪अस्मद�
 
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ordinem rectum habere, convenire (Loc.) ; se formare, se constituere ; ad aliquid se determinare, se accommodare (Dat.)
 
+:::
 ::: indent
 Perf. II ⟪चकॢपे⟫ facultīvum ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
@@ -607,7 +604,7 @@ B) Verba in formas Perfectorum convertite. Si plures viae adesse possunt, omnes 
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Exercitium repetitionis de ratione formarum
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

@@ -79,6 +79,7 @@ Karmadhārayan jäsenjärjestykseen liittyvä erityissääntö on seuraava:
 ⟪नरसिंहः⟫ = ⟪सिंह इव नरः⟫ = "mies kuin leijona"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र इव पुरुषः⟫ = "mies kuin tiikeri"
 
+:::
 ::: indent
 ⟪नरसिंहः⟫ voidaan myös purkaa: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Leijona, joka (todellisuudessa) on mies."
 :::
@@ -302,7 +303,7 @@ Kuv.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (jälkiliite): ikään kuin, kuten (vertauksissa: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri", "tiikerimainen mies"
 
-⟪एव⟫ (jälkiliite): korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki `\&lt;!\&gt;`, esim. ⟪सत्यमेव⟫ ⟪जयति⟫ "vain totuus voittaa", "juuri totuus voittaa", "totuus voittaa"
+⟪एव⟫ (jälkiliite): korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki `\<!\>`, esim. ⟪सत्यमेव⟫ ⟪जयति⟫ "vain totuus voittaa", "juuri totuus voittaa", "totuus voittaa"
 
 ⟪अरि⟫ m.: vihollinen (Thiemen mukaan, Der Fremdling im Ṛgveda: alun perin = vieras)
 

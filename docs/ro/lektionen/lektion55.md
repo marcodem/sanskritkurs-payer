@@ -94,4 +94,3 @@ Fig.: ⟪अजीर्यमिति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5501))
 :::
 
-:::

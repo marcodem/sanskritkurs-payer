@@ -231,13 +231,13 @@ status: stable
 **pāpa** 中性 ⟪पाप⟫ ：恶行，邪恶（与 **puṇya** 相对）
 **satya** 中性 ⟪सत्य⟫ ：真理
 
-:::: note-box
+::: note-box
 在印度，人们认为真实的言语具有魔力，甚至整个宇宙秩序都由真实言语维持和创造。关于这一重要观念，参见基础著作：
 
+:::
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. 由 Ludwig Alsdorf 从遗稿中编辑出版。 - 哥廷根 : Vandenhoeck & Ruprecht. -- 第2卷: Varuna 与 Ṛta。 -- 1959. -- XXIII页，第340 - 764页
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)

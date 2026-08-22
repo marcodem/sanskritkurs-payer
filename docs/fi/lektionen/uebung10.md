@@ -1,16 +1,15 @@
 ---
-title: "[Harjoitus 10]"
+title: "Harjoitus 10"
 uebung_id: 10
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
-
-
 
 
 # Harjoitus 10
 
-A) Muodosta passiivi seuraaville verbimuodoille (verbimuodon käännös mukana), eli passiivi, joka vastaa verbimuotoa persoonassa ja numerossa:
+A) Muodosta passiivi seuraavista verbin muodoista (käännä verbimuoto), eli passiivi, joka vastaa verbin muotoa persoonassa ja numerossa:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -33,102 +32,101 @@ A) Muodosta passiivi seuraaville verbimuodoille (verbimuodon käännös mukana),
 19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
 20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
-22. tanvanti ⟪तन्वन्ति⟫ (2 muotoa!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (2 muotoa!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
-B) Muodosta instrumentaalin yksikkö ja monikko kaikille aiemmin opetuissa oleviin substantiiveihin
+B) Muodosta instrumentaalin yksikkö ja monikko kaikille tähän mennessä opetuilla substantiiveilla
 
 C) Muunna seuraavat lauseet passiiviin ja käännä ne:
 
-1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
+1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो देवीं यजति⟫
 
 brāhmaṇena devījyate.
 
-⟪ब्राह्मणेन⟫ ⟪देवीज्यते⟫ ⟪।⟫
+⟪ब्राह्मणेन देवीज्यते ।⟫
 
-2\. sādhuḥ svargaṃ gacchati. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
+2\. sādhuḥ svargaṃ gacchati. ⟪साधुः स्वर्गं गच्छति⟫
 
 sādhunā svargaṃ / svargo gamyate.
 
-⟪साधुना⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪साधुना स्वर्गं गम्यते ।⟫
 
-3\. śūdraṃ jayati. ⟪शूद्रं⟫ ⟪जयति⟫
+3\. śūdraṃ jayati. ⟪शूद्रं जयति⟫
 
 śūdro jīyate.
 
-⟪शूद्रो⟫ ⟪जीयते⟫ ⟪।⟫
+⟪शूद्रो जीयते ।⟫
 
-4\. guruḥ phalāni khādati. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
+4\. guruḥ phalāni khādati. ⟪गुरुः फलानि खादति⟫
 
 guruṇā phalāni khādyante.
 
-⟪गुरुना⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
+⟪गुरुना फलानि खाद्यन्ते ।⟫
 
 5\. gurūñchṛṇoti. ⟪गुरूञ्छृणोति⟫
 
 guravaḥ śrūyante.
 
-⟪गुरवः⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+⟪गुरवः श्रूयन्ते ।⟫
 
-6\. ko 'gniṃ paśyati. ⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫
+6\. ko 'gniṃ paśyati. ⟪को ऽग्निं पश्यति⟫
 
 kenāgnir dṛśyate.
 
-⟪केनाग्निर्दृश्यते⟫ ⟪।⟫
+⟪केनाग्निर्दृश्यते ।⟫
 
-7\. ayaṃ kavirmantraṃ smarati. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
+7\. ayaṃ kavirmantraṃ smarati. ⟪अयं कविर्मन्त्रं स्मरति⟫
 
 anena kavinā mantraḥ smaryate.
 
-⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मर्यते⟫ ⟪।⟫
+⟪अनेन कविना मन्त्रः स्मर्यते ।⟫
 
-8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
+8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं देवी क्त्रिया रक्षति⟫
 
 anayā devyā kṣatriyā rakṣyante.
 
-⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
+⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 vaihtoehtoa)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 mahdollisuutta)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
-⟪क्षत्रियैर्विष्णुरिज्यते⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिज्यते⟫ ⟪।⟫
+⟪क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।⟫
 
-10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
+10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो ऽग्निं करोति⟫
 
 brāhmaṇenāgniḥ kriyate.
 
-⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
+⟪ब्राह्मणेनाग्निः क्रियते ।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 vaihtoehtoa)
+11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 mahdollisuutta)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
-⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪वैश्यैरिमं ग्रामं गम्यते । वैश्यैरयं ग्रामो गम्यते । वैश्याभिरिमं ग्रामं गम्यते । वैश्याभिरयं ग्रामो गम्यते ।⟫
 
-Vaiśyat / Vaiśyanaiset menevät tähän kylään.
+Vaiśyat / vaiśyanaiset menevät tähän kylään.
 
-12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+12\. ete gurūṃstu śṛṇvanti. ⟪एते गुरूंस्तु शृण्वन्ति⟫
 
 etair guravas tu śrūyante.
 
-⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-He kuuntelevat kuitenkin opettajiaan.
+He tottelevat kuitenkin mestareitaan.
 
-
-13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
+13\. sādhuḥ svargamāpnoti. ⟪साधुः स्वर्गमाप्नोति⟫
 
 sādhunā svarga āpyate.
 
-⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
+⟪साधुना स्वर्ग आप्यते ।⟫
 
-Pyhimys saa taivaan.
+Pyhimys saavuttaa taivaan.
 
-14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
+14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः सोमं सुन्वन्ति⟫
 
 brāhmaṇaiḥ somaḥ sūyate.
 
-⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
+⟪ब्राह्मणैः सोमः सूयते ।⟫
 
 Brahmanit puristavat soman.
 
@@ -136,195 +134,189 @@ Brahmanit puristavat soman.
 
 paśavo labhyante.
 
-⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
+⟪पशवो लभ्यन्ते ।⟫
 
-Eläimiä saa.
+Eläimiä saa kotieläimiksi.
 
-16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
+16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫
 
 kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
-⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
+⟪कैर्योधैः क्षत्रियैः सह युध्यते ॥⟫
 
-Mit ketkä soturit taistelevat (yhdessä) kṣatriyoiden kanssa?
+Mitkä soturit taistelevat (yhdessä) kṣatriyajen kanssa?
 
 D) Käännä sanskritiksi:
 
-1\. Brahmani käy vaiśyan kanssa kylään.
+1\. Brahmani käy kylässä vaiśyajen kanssa.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
-⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।⟫
 
-2\. Hän palvoo Viṣṇua uhrikäytännöllä. (Ilmaise uhri sanalla yajña!)
+2\. Hän palvoo Viṣṇua uhrilla. (Ilmaise uhri sanalla yajña!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
-⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
+⟪यज्ञेन विष्णुं यजति⟫ / ⟪यजते ।⟫
 
 3\. Veda nimetään śrutiksi. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
-⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
+⟪वेदः श्रुतिरित्युद्यते ।⟫
 
-4\. Jännetään kude. (2 vaihtoehtoa)
+4\. Verkkoon jännitetään lanka. (2 vaihtoehtoa)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
-⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
+⟪तन्त्रं तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति ।⟫
 
-5\. Opettajat kysyvät. (Passiivirakenne)
+5\. Opettajat kysyvät. (Passiivilause)
 
 gurubhiḥ pṛcchyate.
 
-⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
+⟪गुरुभिः प्र्च्छ्यते ।⟫
 
-6\. Silmä johtaa. (Passiivirakenne) (Silmä ja korva käytetään yleensä duaalissa)
+6\. Silmä johtaa. (Passiivilause) (Silmä ja korvi käytetään yleensä duaalissa)
 
 netreṇa nīyate.
 
-⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
+⟪नेत्रेण नीयते ।⟫
 
-7\. Runoilija näkee jumaluuden. (Passiivirakenne)
+7\. Runoilija näkee jumaluuden. (Passiivilause)
 
 kavinā devatā dṛśyate.
 
-⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
+⟪कविना देवता दृश्यते ।⟫
 
-8\. Kuka (naispuolinen) hoitaa tyttöä? (Passiivirakenne)
+8\. Kuka (naispuolinen) hoitaa tyttöä? (Passiivilause)
 
 kayā bālā rakṣyate.
 
-⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
+⟪कया बाला रक्ष्यते ।⟫
 
-9\. Kṣatriya palvoi HERRTAA uhrikäytännöllä. (Passiivirakenne, älä käytä sanaa yajña)
+9. Kṣatriya palvotaa Herrin uhrauksella. (Passiivilause, ilman sanaa yajña)
 
 kṣatriyeṇeśvara ijyate.
 
-⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪क्षत्रियेनेश्वर इज्यते ।⟫
 
-10\. Luovutuksella buddhalainen seuraaja saa taivaan.
+10. Anteliaisuudella buddhalainen saavuttaa taivaan.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
+⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
 ![](/images/uebung011.webp)
 Kuv.: ⟪ग्रामः⟫
-(Kuv lähde: [Yksityiskohdat](/licenses#uebung011))
+(Kuvan lähde: [Details](/licenses#uebung011))
 :::
 ---
 
-## Luentoharjoitus
+## Lukuharjoitus
 
-Lue ja käännä sekä muunna passiiviin:
+Lue ja käännä sekä muuta passiiviin:
 
-⟪क⟫
+⟪क १⟫.
+> ⟪मक्सिका व्रणमिच्छन्ति⟫
+> ⟪धनमिच्छन्ति पार्थिवाः⟫ |
+> ⟪नीचाः कलहमिच्छन्ति⟫
+> ⟪शान्तिमिच्छन्ति साधवः⟫ ||
+\>
+> ⟪मक्षिकाभिर्व्रण इष्यते⟫
+> ⟪धनमिष्यते पार्थिवैः ।⟫
+> ⟪नीचैः कलह इष्यते⟫
+> ⟪शान्तिरिष्यते साध⟫u⟪भिः ॥⟫
 
-⟪१⟫.
-> ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
-> ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
-> ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
-> ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
->
-> ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
-> ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
-> ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
-> ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
-
-Kärpäset toivovat haavoja,
+Hyönteiset toivovat haavaa,
 Kuninkaat toivovat rikkautta,
-Alhaiset toivovat riitoja,
-Pyhimykset toivovat rauhaa.
+Alhaiset toivovat riitaa,
+Rauhaa toivovat pyhät.
 
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
-⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
+⟪२⟫. ⟪नरान्सृजति देवः⟫ |
+⟪नरा देवैः सृज्यन्ते ।⟫
 Jumalat luovat ihmiset.
 
-⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
-⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
+⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
+⟪कविभिर्धनं लभ्यते ।⟫
 Runoilijat toivovat rikkautta.
 
-⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
-⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Vedalainen viisas näkee vedalaiset laulut.
+⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
+⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
+Vedalainen viisas näkee vedalaiset runot.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
-⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
-Der vedische Weise opfert Viṣṇu.
+⟪विष्णुरृषिणेज्यते ।⟫
+Vedalainen viisas uhraa Viṣṇulle.
 
-⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
-⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
+⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
 Hän näkee mestarin ja oppilaan.
 
-⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
-⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
-He saavat taivaan.
+⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
+⟪स्वर्गो लभ्यते ।⟫
+He saavuttavat taivaan.
 
+⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ |
+⟪अत्रर्षिणा भानुर्वन्स्यते ।⟫
+Siellä vedalainen viisas tervehdii aurinkoa.
 
-⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
-⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Siellä tervehditään vedalainen viisas auringon.
+⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ |
+⟪ग्रामं गम्यते । ग्रामो गम्यते ।⟫
+He menivät kylään.
 
-⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-He menevät kylään.
+⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
+⟪दानानि वृष्यन्ते नृपैः ॥⟫
+Kuninkaat saattavat lahjoja.
 
-⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
-⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
-Kuninkaat laskevat lahjat sataa.
+⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ |
+⟪सदा देवाः स्मर्यन्ते।⟫
+He muistuttavat jumalia.
 
-⟪ख⟫
+⟪२⟫. ⟪ऋषिभी रामो वसति⟫ |
+⟪ऋषिभिः सह रामेणोष्यते ।⟫
+Rāma asuu vedalaiseiden viisaiden luona.
 
-⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
-⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-He edustavat jumalia aina.
-
-⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
-⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
-Rāma wohnt bei den vedischen Weisen.
-
-⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
-⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
+⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ |
+⟪हरिः क्षीरेणेज्यते ।⟫
 Hän palvoo Haria maitouhrilla.
 
-⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-He menevät tiellä kylään.
+⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ |
+⟪मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।⟫
+He menivät tiellä kylään.
 
-⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
-⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-Ihmiset haluavat onnea rikkauden kautta.
+⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ |
+⟪धनेने नरैः सुखमिष्यते ।⟫
+Ihmiset haluavat onnea rikkaudella.
 
-⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
-⟪एवमुद्यते⟫ ⟪।⟫
-Niin sanotaan.
+⟪६⟫. ⟪एवं वदन्ति⟫ |
+⟪एवमुद्यते ।⟫
+Näin sanotaan.
 
-⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
-⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-Maassa kirkastuvat pyhät rauhallisuudella.
+⟪७⟫. ⟪शान्त्यर्षय इह शोभन्ते⟫ |
+⟪शान्त्यर्षिभिरिह शुभ्यते ।⟫
+Maan päällä pyhät loistavat rauhallisuudella.
 
-⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
+⟪८⟫. ⟪कपयः फलानि खादन्ति⟫ |
+⟪कपिभिः फलानि खाद्यन्ते ।⟫
 Apinat syövät hedelmiä.
 
-⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ |
-⟪गजेन⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪९⟫. ⟪गजो गच्छति⟫ |
+⟪गजेन गम्यते ।⟫
 Elefantti juoksee.
 
-⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छ⟫ti |
-⟪हरिणा⟫ ⟪गृहं⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪१०⟫. ⟪हरिर्गृहं गच्छ⟫ti |
+⟪हरिणा गृहं गम्यते ।⟫
 Hari menee kotiin.
 
-⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
-⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
+⟪११⟫. ⟪सारथी रथं नयति⟫ ||
+⟪सारथिना रथो नीयते ॥⟫
 Vahtimestari ohjaa vaunua.
 
 ::: media
 ![](/images/uebung012.webp)
-Kuv.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
+Kuva: ⟪सारथी रथं नयति⟫
 (Kuv lähde: [Details](/licenses#uebung012))
-:::
 :::

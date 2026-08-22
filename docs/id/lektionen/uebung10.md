@@ -190,76 +190,76 @@ kavinā devatā dṛśyate.
 
 ⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
-8\. Who (fem.) tends the girl? (Passive construction)
-
 kayā bālā rakṣyate.
 
-⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
+⟪कया बाला रक्ष्यते ।⟫
 
-9\. Kṣatriya memuliakan TUHAN dengan suatu korban. (Konstruksi pasif, tanpa menggunakan kata yajña)
+9\. Sang Kṣatriya menyembah TUHAN dengan suatu korban. (Konstruksi pasif, tanpa menggunakan kata yajña)
 
 kṣatriyeṇeśvara ijyate.
 
-⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪क्षत्रियेनेश्वर इज्यते ।⟫
 
-10\. Through generosity, a follower of the Buddha attains heaven.
+10\. Melalui kedermawanan, seorang pengikut Buddha mencapai surga.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
+⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
-(Image source: [Details](/en/licenses#uebung011))
+(Sumber gambar: [Details](/licenses#uebung011))
 :::
 ---
 
 ## Latihan Membaca
 
-[B0] Bacalah dan terjemahkan, lalu ubahlah ke dalam bentuk pasif:
+Bacalah dan terjemahkan, lalu ubah ke bentuk pasif:
 
-**⟪क⟫**
+⟪क १⟫.
+> ⟪मक्सिका व्रणमिच्छन्ति⟫
+> ⟪धनमिच्छन्ति पार्थिवाः⟫ |
+> ⟪नीचाः कलहमिच्छन्ति⟫
+> ⟪शान्तिमिच्छन्ति साधवः⟫ ||
+\>
+> ⟪मक्षिकाभिर्व्रण इष्यते⟫
+> ⟪धनमिष्यते पार्थिवैः ।⟫
+> ⟪नीचैः कलह इष्यते⟫
+> ⟪शान्तिरिष्यते साध⟫u⟪भिः ॥⟫
 
-⟪१⟫.
-> ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
-> ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
-> ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
-> ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
->
-> ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
-> ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
-> ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
-> ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
+Lalat menginginkan luka,
+Raja-raja menginginkan kekayaan,
+Orang-orang hina menginginkan perselisihan,
+Para orang suci menginginkan kedamaian.
 
-Birds desire a wound,
-Kings desire wealth,
-Villains desire strife,
-Holy ones desire peace.
+⟪२⟫. ⟪नरान्सृजति देवः⟫ |
+⟪नरा देवैः सृज्यन्ते ।⟫
+Para dewa menciptakan manusia.
 
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
-⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
-The gods create the people.
+⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
+⟪कविभिर्धनं लभ्यते ।⟫
+Para penyair menginginkan kekayaan.
 
-⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
-⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
-Poets desire wealth.
-
-⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
-⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-The Vedic sage sees the Vedic songs.
+⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
+⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
+Resi Weda melihat lagu-lagu Weda.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
-⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
-The Vedic sage sacrifices to Viṣṇu.
+⟪विष्णुरृषिणेज्यते ।⟫
+Resi Weda mempersembahkan korban kepada Viṣṇu.
 
-⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
-⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-He sees masters and students.
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
+⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
+Ia melihat guru dan murid.
 
-⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
-⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
-They attain heaven.
+⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
+⟪स्वर्गो लभ्यते ।⟫
+Mereka mencapai surga.
+
+⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ |
+⟪अत्रर्षिणा भानुर्वन्स्यते ।⟫
+Di sana, seorang resi Weda menyambut matahari.
 
 ⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
 ⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫

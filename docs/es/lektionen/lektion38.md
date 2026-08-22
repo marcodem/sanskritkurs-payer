@@ -21,7 +21,7 @@ status: stable
 :::
 Explicaciones:
 
-\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m. &lt;!--  --&gt;
+\-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m. \<!--  --\>
 
 \-:sig[⟪गु⟫] Neutro Nom.Akk.sg. a ⟪गो⟫ m.f. "Buey, Vaca"
 
@@ -47,7 +47,7 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 | :--- | :---: | :---: | :---: | :--- |
 | **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.:brNom., Ac., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Ac. pl. n. |
 | **Mittlerer Schwacher Tema** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Übrige Kasus vor konsonantisch anlautender Terminación:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación | &lt;!--  --&gt;
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación | \<!--  --\>
 
 **Las terminaciones son regulares. El Nominativoooooo Singular m. f. se forma sin -n final.**
 :::
@@ -203,7 +203,7 @@ Fig.: ⟪हस्ती⟫
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3807))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: grammar-box
@@ -281,7 +281,7 @@ Ejemplo:
 :::
 ## 38.9. Lista de palabras
 
-⟪सूर्य⟫ m.: Sol, dios del sol Sūrya &lt;!--  --&gt;
+⟪सूर्य⟫ m.: Sol, dios del sol Sūrya \<!--  --\>
 
 ::: media
 ![](/images/lekt3802.webp)
@@ -452,7 +452,7 @@ A) Inserten en las siguientes oraciones la forma correspondiente de las palabras
 Fig.: ⟪विनोदः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : vagar &lt;!--  --&gt;
+⟪अट्⟫ 1P ⟪अटति⟫ : vagar \<!--  --\>
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
@@ -497,7 +497,7 @@ Inf. ⟪गणयितुम्⟫
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse &lt;!--  --&gt;
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : gritar, lamentarse \<!--  --\>
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫

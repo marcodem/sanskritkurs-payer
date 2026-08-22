@@ -183,4 +183,3 @@ Kenen ruoka on tämä vedaisten viisas uhrannut?
 Kuv.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Kuvateksti: [Details](/licenses#uebung017))
 :::
-:::

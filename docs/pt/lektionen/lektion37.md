@@ -133,7 +133,7 @@ Exemplos:
 
 Exemplos:
 ::: indent
-⟪जातु⟫ "em geral" (originalmente "de nascimento, por natureza", Ac.sg.n. de ⟪जातु⟫ &lt;não mais em uso como substantivo&gt;)
+⟪जातु⟫ "em geral" (originalmente "de nascimento, por natureza", Ac.sg.n. de ⟪जातु⟫ \<não mais em uso como substantivo\>)
 
 ⟪तूष्णीम्⟫ "silenciosamente" (Ac.sg. de um obsoleto ⟪तूष्णी⟫ f. "silêncio")
 

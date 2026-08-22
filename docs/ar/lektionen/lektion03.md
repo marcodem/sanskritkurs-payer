@@ -117,7 +117,7 @@ devī + umā » devy umā "أوما هي إلهة" = ⟪देव्युमा
 ## 3.5. ساندي الجملة لـ -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās تُستبدل بـ -ā أمام جميع الأصوات المنطوقة.**
 :::
 على سبيل المثال
 

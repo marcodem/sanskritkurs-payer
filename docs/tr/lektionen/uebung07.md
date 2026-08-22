@@ -161,69 +161,69 @@ Cehenneme ve cennete giderler.
 
 Ancak üstatlara kulak verirler.
 
-F) Çevirin:
+F) Çeviriniz:
 
 1\. narakāṃś ca svargāṃś ca gacchanti.
 
 ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫
 
-Cehenneme ve cennete giderler.
+Onlar cennetlere ve cehennemlere giderler.
 
 2\. gurūṃs tu śṛṇvanti.
 
 ⟪गुरूंस्तु शृण्वन्ति⟫
 
-Ancak üstatlara kulak verirler.
+Ancak onlar üstatların sözünü dinlerler.
 
-3\. Śūdras erlangen einen Himmel.
+3\. Śūdras bir cennet elde ederler.
 
 śūdrāḥ svargam āpnuvanti.
 
 ⟪शूद्राः स्वर्गमाप्नुवन्ति ।⟫
 
-4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
+4\. Kṣatriyas kurban sahipleri olarak tanrıçaları kurbanlarla onurlandırırlar.
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया देवीर्यजन्ते ।⟫
 
->> 5\. Vaiśyafrauen verehren Gottheiten mit Opfern.
+5\. Vaiśya kadınları tanrıları kurbanlarla onurlandırırlar.
 
 vaiśyā devatā yajante.
 
 ⟪वैश्या देवता यजन्ते ।⟫
 
-6\. Der HERR zürnt.
+6\. RAB öfkelenir.
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः कुप्यति । ईश्वरः क्रुध्यति ।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Kauṭilīya-arthaṣāstra 1.3.3'e göre.) Açıklama: chando = chandas (nötr) sözcüğünün yalın ve belirtme hâllerindeki tekil biçimi.)
 
 ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि⟫
 
->> Die Hilfswissenschaften der Vedistik sind: Aussprachelehre, Ritualistik, Grammatik, Worterklärung, Metrik, Kalenderlehre.
+Veda çalışmalarının yardımcı bilimleri şunlardır: telaffuz bilgisi, ritüel bilgisi, dilbilgisi, söz açıklaması, ölçü bilgisi, takvim bilgisi.
 
->> 8\. Welchem Gott opfert dieser Brahmane?
+8\. Bu Brahman hangi tanrıya kurban sunuyor?
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं ब्राह्मणः कं देवं यजति⟫ / ⟪यजते ।⟫
 
-9\. Was kaut dieser heilige Mann?
+9\. Bu kutsal adam ne çiğniyor?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं साधुः किं खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+10\. Bunlar (burada) neyi sıkıyorlar?
 
 ete kiṃ sunvanti / sunvate?
 
 ⟪एते किं सुन्वन्ति⟫ / ⟪सुन्वते ।⟫
 
->> 11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11\. O öğretmendir. Ona kulak verilir (= onu dinlerler).
 
 sa guruḥ. enaṃ śṛṇvanti.
 
@@ -231,12 +231,6 @@ sa guruḥ. enaṃ śṛṇvanti.
 
 ::: media
 ![](/images/uebung006.jpg)
-Abb.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
-(Bildquelle: [Details](/licenses#uebung006))
-
-## 17.8. Übung 2 -> ## 17.8. Alıştırma 2
-
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: -> Aşağıdaki fiil formlarını çevirin ve ilgili kökü belirtin:
-
-⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
+Şek.: ⟪स गुरुः । एनं शृण्वन्ति ॥⟫
+(Görsel kaynağı: [Ayrıntılar](/licenses#uebung006))
 :::

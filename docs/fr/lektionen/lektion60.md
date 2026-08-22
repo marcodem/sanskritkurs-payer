@@ -314,7 +314,7 @@ Les directions cardinales
 
 Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquées dans Kielhorn, Grammaire §§ 443 - 445.
 
-**Racines de la 10\&lt;sup\&gt;e\&lt;/sup\&gt; classe de présent et causatifs :**
+**Racines de la 10\<sup\>e\</sup\> classe de présent et causatifs :**
 
 **prétérit redoublé + i + ṣa**
 :::

@@ -1,6 +1,6 @@
 ---
 title: "Lectio 30"
-subtitle: 'Nonum praesentis classis (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")'
+subtitle: 'Nonum classis praesentis (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")'
 lesson_id: 30
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -63,69 +63,65 @@ Exemplum:
 | **3. Person:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
-Participii praesentis activi formatio:
+Formatio Participii Praesentis Parasmaipada:
 
 Exemplum:
 
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Usus optativi (⟪लिङ्⟫)
+## 30.2. Usus Optativi (⟪लिङ्⟫)
 
 Optativus adhibetur:
 
 ::: grammar-box
-**1. ad designationem**
+**1. ad significandum**
 
-*   **cuiuslibet voti**
-*   **cuiuslibet voti**
-*   **cuiuslibet precis**
+*   **desiderii**
+*   **precationis**
+*   **imperii mitigati**
 
-**(hic optativus - ⟪लिङ्⟫ - cum imperativo - ⟪लोट्⟫ - congruit)**
+**(hic Optativus - ⟪लिङ्⟫ - cum Imperativo - ⟪लोट्⟫ - coincidit)**
 :::
 Exemplum:
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Servus ad villam veniat"
+⟪दासो ग्राममागच्छेत्⟫ = "Servus glebae in vicum veniat"
 :::
 ::: grammar-box
-**2. Si quid ut**
+**2. Cum aliquid ut**
 
 *   **possibile**
 *   **probabile**
 *   **verisimile**
 
-**repraesentari debet.**
+**repraesentari debeat.**
 :::
 Exemplum:
 
 ::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Si e vico egressus esset, magistrum non audiret"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं न शृणुयात्⟫ = "Si e vico iret, magistrum non audiret"
 :::
 ::: grammar-box
-**3. Relativa cum optativo saepe significare possunt: "Si quis ..."**
+**3. Propositiones relativae cum Optativo interdum hanc significationem habent: "Si quis ..."**
 :::
 Exemplum:
 
 ::: indent
-⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Si quis mendacium diceret, in inferna descenderet = Si quis mendacium dicit, in inferna descendit"
+⟪यो नृतं वदेत्स नरकं पतेत्⟫ = "Si quis falsum dicat, in infernum cadet = Si quis falsum dicit, in infernum cadit"
 :::
-## 30.3. Secundariae terminationes personarum tertiae singularis et pluralis
+## 30.3. Terminationes secundariae personae tertiae singularis et pluralis
 
-Optativus (⟪लिङ्⟫), Imperfectum (⟪लङ्⟫), Aoristus (⟪लुङ्⟫), Precativus (⟪आशिर्लिङ्⟫) et Conditionalis habent secundas terminationes:
+Optativus (⟪लिङ्⟫), Imperfectum (⟪लङ्⟫), Aoristus (⟪लुङ्⟫), Precativus (⟪आशिर्लिङ्⟫) et Conditionalis terminationes secundarias dictas habent:
 
 ::: grammar-box
 
-| | 3. Person Singular | 3. Person Plural |
+| |3. persona singularis|3. persona pluralis|
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
+|**Parasmaipada**|**-t**|classes athematicae: **-an** aut **-ur** :brOptativus: **-ur**|
+|**Ātmanepada**|**-ta**|classes athematicae: **-ata** (ex *nta):brOptativus: **-ran**|
 
 :::
-## 30.4. Formatio Optativi Praesentis (⟪लिङ्⟫)
-
-### 30.4.1. Thematische praesentes classes
-
 ::: grammar-box
 **ante terminationes consonantes initiantes:**
 
@@ -246,23 +242,19 @@ Exempla:
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. Sandhi finalis -r
 
 ::: grammar-box
-**Praeter quam pro -ar, pro -r finali eadem valent regulae Sandhi quam pro -s finali.**
+**Praeterquam pro -ar, eadem regulae Sandhi pro finali -r valent ac pro finali -s.**
 
-**-ar ante sonantes consonantes manet -ar, ante r- vero excidit -r et -a- per -ā- substituitur.**
+**-ar ante sonantes consonantes manet -ar, ante r- autem excidit -r et -a- per -ā- substituitur.**
 :::
-Exempla:
+Exemplaria:
 
 ::: indent
-⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
-
-⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
-
-⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
+⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना रोदिति⟫
 :::
-## 30.6. Vocabularium
+## 30.6. Glossarium
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : emere
 
@@ -279,11 +271,11 @@ Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Abb.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt3001))
+(Fons imaginis: [Details](/la/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : cognoscere, agnoscere, scire, intellegere
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : noscere, agnoscere, scire, intellegere
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -293,17 +285,17 @@ Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-ex eo:
+unde:
 
-⟪ज्ञाति⟫ m.: (Sanguinis) cognatus ( cognati sunt qui noscuntur!)
+⟪ज्ञाति⟫ m.: consanguineus (consanguinei sunt qui cognoscuntur!)
 
-⟪ज्ञान⟫ n.: cognitio, scientia, cognitio (praesertim veritatum "altiorum" in religione et philosophia)
+⟪ज्ञान⟫ n.: cognitio, scientia, agnitio (praesertim "superiorum" veritatum in religione et philosophia)
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Fig.: ⟪ज्ञातयः⟫
-Darewadi, Districtus Ahmednagariensis = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Fons imaginis: [Descriptiones](/la/licenses#lekt3002))
+Abb.: ⟪ज्ञातयः⟫
+Darewadi, Districtus Ahmednagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Fons imaginis: [Details](/la/licenses#lekt3002))
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : purgare
 
@@ -316,8 +308,8 @@ Inf. ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Fons imaginis: [Descriptiones](/la/licenses#lekt3003))
+Abb.: ⟪श्रोत्राणि पुनाति⟫
+(Fons imaginis: [Details](/la/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : edere, consumere
 
@@ -452,30 +444,13 @@ A) Vertite has verbi formas in optativos, qui personam, numerum et genus verbi s
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Versa verba sequentia et solvite composita Sanscritice:
+B) Vertere sequentes sententias et componata in Sanskrito resolve:
 
-⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
+⟪जना आर्यसत्यानि जानीयुरिति सुगतेनार्याणां सुखाय जना धर्मं ज्ञाप्यन्ते ॥१॥ ये नरा देवान्न यजेरन्व्रतानि च न चरेयुरनृतं च वदेयुरधर्मं च कुर्युस्ते सुखं नाप्नुयुर्मृत्वा च नरकं पतेयुः ॥२॥ ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो ज्ञातिं दासमाययति ॥३॥ अन्नलोभाद्दुःखं जायेतेति प्राप्तज्ञानः सुफलानि नाश्नाति ॥४॥ क्रयेण च विक्रयेण च वैश्या जीवेयुरिति वैश्यधर्मः । एवं सति वैश्यपुत्राः क्रीणन्ति विक्रीणते च ॥५॥ कृतपापो नरश्चेन्नरके पापात्पूतः स्यात्पुनर्भवं गच्छेत् ॥६॥ ब्राह्मणपुत्रा वेदाध्यायांश्च स्मृत्यध्यायांश्च पुनः पुनरधीयीरन्नित्यार्यधर्मः ॥७॥ यो ब्राह्मणः शूद्रां कामयेत स सद्ब्राह्मणो न स्यात् । सद्ब्राह्मणो हि ब्राह्मणीं कामयेत ॥८॥ सत्यं ब्रूयात्प्रियं ब्रूयान्न ब्रूयात्सत्यमप्रियम् । प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः ॥९॥ ॥मनुस्मृति ४⟫.⟪१३८॥⟫
 
-⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫
+## 30.8. Exercitium repetitionis doctrinae formarum
 
-⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫
-
-⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫
-
-⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫
-
-⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫
-
-⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫
-
-⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
-⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
-
-## 30.8. Wiederholungsübung zur Formenlehre
-
-Determina et versa hasce formas verborum:
+Determina et vertere sequentes formas verborum:
 
 1.  ⟪भारे⟫
 2.  ⟪अध्ययनम्⟫
@@ -517,4 +492,3 @@ Determina et versa hasce formas verborum:
 38.  ⟪तस्यै⟫
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
-

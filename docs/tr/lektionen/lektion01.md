@@ -1,18 +1,20 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "Ders 1"
+subtitle: "Sanskrit'in Sesleri"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Ders 1
 
+
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Gaṇeśa'ya Tapınma
+Gaṇeśa'ya Saygı
 :::
 
 ::: media
@@ -32,9 +34,9 @@ satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-Koca karnım, tatlı dişim,
-Sana her zaman tapınma!
-Tanrım, tüm girişimlerimi
+Sen şişkin karnın, sen tatlı dişin,
+Her zaman sana saygı!
+Tanrı, tüm girişimlerimi
 Engellerden arındır!
 :::
 
@@ -65,96 +67,92 @@ pārvatīparameśvarau |**
 
 Dünyanın ebeveynlerini selamlıyorum,
 Pārvatī ve Śiva'yı,
-Ki bunlar birbirine o kadar sıkı bağlıdır ki
+Birbirine bu kadar sıkı bağlı olanları
 Kelime ve anlamın anlaşılması için
-Kelimenin anlamı.
+Kelimenin anlamı gibi.
 :::
 
 Başlangıçta bir tuhaflık:
 
+
+>"William Jones [1746–1794] ve Henry Thomas Colebrooke (1765—1857) Sanskriti ilk kez derinlemesine çalıştıklarında, kısmen çevirdiklerinde ve zengin bir edebiyata sahip olduğunu ve klasik dillerle önemli derecede akrabalık gösterdiğini bulduklarında, büyük direnişle karşılaştılar. Sanskrit'in coğrafi olarak bu kadar uzak olan Avrupa dillerine olan içli ilişkisi, ya tüm dillerin İbraniceden türetilmesini savunan veya büyük ölçüde birbirinden izole eden eski görüşlerle bağdaştırılamadığından, ünlü filolog Dugald Steward (1753—1828) Sanskrit diliyle ilgili tüm tarihi bir yalan olarak ilan ederek en basit çıkışı seçti. Sanskrit'in Yunanca ve Latince modeline göre hilekar Brahmanlar tarafından uydurulmuş olduğu, hem dilin hem de edebiyatın bir sahtecilik olduğu konusunda kanıt sunmaya çalıştığı bir deneme yazdı. Bu görüşü Dublin'deki profesör Charles William Wall, 1840 yılında daha da detaylı bir şekilde geliştirdi (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
->(Kaynak: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Çevrimiçi: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Erişim tarihi: 2010-01-10]
 ::: literatur-box
-[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+[Kaynak: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Çevrimiçi: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Erişim tarihi: 10.01.2010]
 :::
 
-## 1.1. Başlangıç Seviyesi Hintoloji İçin Edebiyat
+## 1.1. Hintolojiye Giriş İçin Edebiyat
 
 ::: media
 ![](/images/lekt0103.webp)
-Resim: Bir cep kitabı baskısının kapak başlığı
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0103))
+Resim: Ciltli bir cep kitabı baskısının kapağı
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bölüm: Müslümanların gelişi öncesi Hint yarım kıtasının kültürüne bir genel bakış. -- Londra : Sidgwick & Jackson, 1954. -- O zamandan beri birçok baskı yapıldı, cep kitabı baskıları da dahil. -- **Zorunlu okuma.** Müslüman öncesi Hindistan'daki yaşam, tarih ve kültür hakkında iyi bir genel bakış. Klasik Hintolojinin çeşitli alanları üzerine kapsamlı bir genel bakış.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bölüm: Müslümanların gelişi öncesi Hint yarım kıtasının kültürüne bir bakış. -- London : Sidgwick & Jackson, 1954. -- O zamandan beri birçok baskı yapılmıştır; cep kitabı baskıları da mevcuttur. -- **Zorunlu okuma.** Müslüman öncesi Hindistan'daki yaşam, tarih ve kültür hakkında iyi bir genel bakış. Klasik Hintolojinin farklı alanlarının kapsamlı bir özeti.
 
 ::: media
 ![](/images/lekt0104.webp)
-Resim: Kapak sayfası
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0104))
+Resim: Başlık sayfası
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0104))
 :::
 
-En iyi sistematik gramer:
+En iyi sistematik dilbilgisi:
 
 ::: literatur-box
-**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / W. Solf [1862 - 1936] tarafından İngilizceden çevrilmiştir. -- Berlin : Dümmler, 1888. -- XIII, 238 s. -- Orijinal başlık: A grammar of the Sanscrit language
 :::
 
 ::: media
 ![](/images/lekt0105.webp)
 Resim: Dış kapak başlığı
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0105))
+(Resim kaynağı: [Detaylar](/tr/licenses#lekt0105))
 :::
 
-Yerli gramercilerin temeline dayanan ve aynı zamanda Pāṇini'ye giriş niteliğinde iyi bir sistematik gramer:
+Yerli dilbilimcilerin temeline dayanan ve aynı zamanda Pāṇini'ye giriş niteliğinde iyi bir sistematik dilbilgisi:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Orijinal olarak Malayalamca yazıldı. K.V.R. Pai tarafından İngilizceye çevrildi. -- Parathode : Kendi yayınevi, 1983. -- 818 s. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Orijinal olarak Malayalamca yazılmıştır. K.V.R. Pai tarafından İngilizceye çevrilmiştir. -- Parathode : Kendi yayınevi, 1983. -- 818 s. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Resim: Kapak başlığı
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0107))
+Şek.: Cilt başlığı
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt0107))
 :::
 
-Avrupa dilbilimsel terminolojisinin iyi ve kısa bir sunumu şurada bulunabilir:
+Avrupa dilbilim terminolojisinin iyi, özlü bir anlatımı şurada bulunabilir:
 
 ::: literatur-box
-**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+**Alman Dilinin Etimolojik Sözlüğü** / [Friedrich] Kluge (1856–1926). Hazırl. Elmar Seebold. -- 24., gözden geçirilmiş ve genişletilmiş baskı. -- Berlin [vd.] : de Gruyter, 2002. - LXXXIX, 1023 s. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- s. XIII - XLVII.
 :::
 
 ::: media
 ![](/images/lekt0108.jpg)
-Resim: Kapak başlığı
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0108))
+Şek.: Kapak başlığı
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt0108))
 :::
 
-Meraklılar için başvuru kaynakları:
+Bilgi meraklıları için başvurmak üzere:
 
-> **Dilbilim Sözlüğü** / Hadumod Bussmann tarafından düzenlenmiş. -- 4., gözden geçirilmiş ve bibliyografik olarak tamamlanmış baskı / Hartmut Lauffer'un katkılarıyla. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Dilbilim Sözlüğü** / yay. haz. Hadumod Bussmann. -- 4., gözden geçirilmiş ve bibliyografik olarak genişletilmiş baskı / Hartmut Lauffer'in işbirliğiyle. -- Stuttgart : Kröner, 2008. -- 816 s. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-## 1.2. Sanskrit'in Sesleri
 
-Geleneksel Hint sınıflandırmasına göre Sanskrit sesleri ve bilimsel yazılışları.
+## 1.2. Sanskritçe'nin Sesleri
+
+Geleneksel Hint sınıflandırmasına göre Sanskritçe'nin sesleri ve bunların bilimsel çevriyazısı.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Görsel kaynağı: [Detaylar](/tr/licenses#lekt0106))
+(Görsel kaynağı: [Ayrıntılar](/tr/licenses#lekt0106))
 :::
-Modern Sanskrit sözlükleri bu sınıflandırma sırasına göre düzenlenmiştir. Bu sınıflandırma, Sanskrit dilbilgisini anlamak için vazgeçilmezdir ve bu nedenle ezberlenmelidir:
+Modern Sanskritçe sözlükleri bu sınıflandırmanın sırasına göre düzenlenmiştir. Bu sınıflandırma Sanskritçe dilbilgisini anlamak için vazgeçilmezdir ve bu nedenle ezberden bilinmelidir:
 
 ::: note-box
-Klassifikation <!-- TODO: Fallback translation -->
-- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
-- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
-- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
 Sınıflandırma
-**Basit ünlüler** (samānākṣara -- ⟪समानाक्षर⟫):
+**basit ünlüler** (samānākṣara -- ⟪समानाक्षर⟫):
 ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-**İkili ünlüler** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+**diftonlar** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
 ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-**Ünsüzler** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+**ünsüzler** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
 ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
 ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
 ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
@@ -180,6 +178,7 @@ Sınıflandırma
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Sürtünmeli ünsüzler, h, l'den önce: Ünlünün burun tınısı. Kelime sonunda = m. Sözcük içinde ünsüzlerden önce: Takip eden ünsüze karşılık gelen burun tınısı: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 En iyi telaffuz, cümleleri, şiirleri veya kelimeleri ünlülerin uzunluğunu tam olarak dikkate alarak oldukça yavaş ve monoton bir şekilde okuyarak elde edilir.
+
 
 ## 1.3. Alıştırma
 

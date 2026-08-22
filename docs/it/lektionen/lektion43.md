@@ -1,6 +1,6 @@
 ---
 title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere &lt;Person&gt;\")"
+subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # Lezione 43
 
-## 43.1. Desinenze personali della 2. persona (⟪मध्यमः⟫ = "media \&lt;Persona\&gt;")
+## 43.1. Desinenze personali della 2. persona (⟪मध्यमः⟫ = "media \<Persona\>")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -42,9 +42,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.2. Sesta classe di presente (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.3. Quarta classe di presente (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
-| **Imperfetto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
-| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfetto** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Ottativo** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.4. Decima classe di presente (⟪चुरादि⟫) e Causativi
 
@@ -107,7 +107,7 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
 
 ## 43.3. Il pronome personale di seconda persona
 

@@ -142,5 +142,5 @@ C) Futuro opcional con y sin **-i-**:
 ![](/images/uebung043.webp)
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung043))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

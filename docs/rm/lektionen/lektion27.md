@@ -1,10 +1,11 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Lecziun 27"
+subtitle: 'Utilisaziun dal locativ (⟪सप्तमी⟫ f. = "settema desinenza casala")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lecziun 27
@@ -34,7 +35,6 @@ Jaipur, 1875.
 (Sursa d'imagia: [Detagls](/rm/licenses#lekt2701))
 :::
 
-:::
 ::: grammar-box
 
 **2. Il locatiu inditza, en resposta a la question "Cun when?", il moment u las circumstanzas externass:**
@@ -65,7 +65,6 @@ Rajasthan.
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt2702))
 :::
 
-:::
 ::: grammar-box
 
 **3. Il locativ stat era sin la dumonda "En relaziun cun quai?" u.a.:**
@@ -80,7 +79,6 @@ Holi.
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt2703))
 :::
 
-:::
 ::: grammar-box
 
 **4. Il locativ servexa en ils lexichs nativs ed apud ils commentaders per inditgar il signific d’ina paraula:**
@@ -592,5 +590,4 @@ Tsunami 2005, Sri Lanka.
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt2717))
 :::
 
-:::
 

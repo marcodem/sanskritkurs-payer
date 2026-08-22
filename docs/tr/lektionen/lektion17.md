@@ -12,20 +12,20 @@ status: stable
 
 ## 17.1. İkinci Şimdiki Zaman Sınıfı (⟪अदादि⟫ = ⟪अद्⟫ vb.)
 
-Fiil ekleri köke doğrudan bağlanır. Bu durumda kelime birleşiminden (Wortsandhi) kaynaklanan ses değişikliklerine dikkat edilmelidir.
+Fiil ekleri köke doğrudan bağlanır. Bu süreçte kelime birleşiminden (Wortsandhi) kaynaklanan ses değişikliklerine dikkat edilmelidir.
 
 ::: grammar-box
 
-İkinci şimdiki zaman sınıfında aşağıdaki yapı biçimleri mevcuttur:
+İkinci şimdiki zaman sınıfında aşağıdaki yapı formları mevcuttur:
 
-1. Kök derecelendirmesi (Stammabstufung) olan kökler
+1. Kök derecelendirmesi (Stammabstufung) içeren kökler
 *   çoğunlukla: Güçlü aşama - Zayıf aşama
 *   bazı kökler: Uzunluk aşaması - Zayıf aşama
-2. Kök derecelendirmesi olmayan kökler
-3. -i/-ī ile biten, kök derecelendirmesi olan iki hece kökler
+2. Kök derecelendirmesi içermeyen kökler
+3. Kök derecelendirmesi içeren -i/-ī ile biten iki hece kökler
 
 :::
-## 17.2. Güçlü aşama - Zayıf aşama kök derecelendirmesine sahip ikinci şimdiki zaman sınıfı kökleri
+## 17.2. Güçlü aşama - Zayıf aşama kök derecelendirmesi içeren ikinci şimdiki zaman sınıfı kökleri
 
 Örnekler:
 
@@ -38,13 +38,13 @@ Fiil ekleri köke doğrudan bağlanır. Bu durumda kelime birleşiminden (Wortsa
 
 | | |
 | :--- | :--- |
-| 3\. sg. Şimdiki Zaman Aktif | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. Şimdiki Zaman Aktif | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-Burada aşağıdaki kelime birleşimi kuralı etkilidir:
+Burada aşağıdaki kelime birleşimi (Wortsandhi) kuralı geçerlidir:
 
 ::: grammar-box
 ṣ + t(h)- kelime birleşimi
@@ -53,7 +53,7 @@ Burada aşağıdaki kelime birleşimi kuralı etkilidir:
 :::
 Diğer örnekler:
 
-⟪इ⟫ 2 P "gitmek" (belirli öneklerden sonra Ortak/ġ)
+⟪इ⟫ 2 P "gitmek" (belirli öneklerden sonra Yansız)
 
 *   güçlü şimdiki zaman kökü: e-
 *   zayıf şimdiki zaman kökü:
@@ -64,10 +64,70 @@ Diğer örnekler:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Şimdiki Zaman Aktif | ⟪एति⟫ (e-ti) |
-| 3\. pl. Şimdiki Zaman Aktif | ⟪यन्ति⟫ (y-anti) |
-| 3\. sg. Şimdiki Zaman Ortak (Ā) | ⟪इते⟫ (i-te) |
-| 3\. pl. Şimdiki Zaman Ortak (Ā) | ⟪इयते⟫ (iy-ate) |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪एति⟫ (e-ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪यन्ति⟫ (y-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪इते⟫ (i-te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪इयते⟫ (iy-ate) |
+
+:::
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪दुहते⟫ (duh-ate) |
+
+:::
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪दुहते⟫ (duh-ate) |
+
+:::
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪दुहते⟫ (duh-ate) |
+
+:::
+⟪दुह्⟫ 2 U "sağmak"
+
+*   güçlü şimdiki zaman kökü: doh-
+*   zayıf şimdiki zaman kökü: duh-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. Şimdiki Zaman Aktif (P) | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Şimdiki Zaman Aktif (P) | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Şimdiki Zaman Yansız (Ā) | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Şimdiki Zaman Yansız (Ā) | ⟪दुहते⟫ (duh-ate) |
 
 :::
 ⟪दुह्⟫ 2 U "sağmak"
@@ -282,72 +342,16 @@ Bangalore = ಬೆಂಗಳೂರು
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : oturmak
 
-davon:
-
-::: indent
-⟪आसन⟫ n.: oturma, oturmak; ayrıca: yogininin oturma pozisyonları
-:::
-
-::: media
-![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Resim kaynağı: [Details](/tr/licenses#lekt1701))
-:::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : ağlamak, ulumak
-
-davon:
-
-::: indent
-⟪रुद्र⟫ m.: (uluyan =) fırtına tanrısı Rudra
-:::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: konuşmak, söylemek (birine bir şeyi belirtme için çift akuzatif)
-
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : sağmak
-
-::: media
-![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Resim kaynağı: [Details](/tr/licenses#lekt1702))
-:::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : göstermek, emretmek, buyurmak
-
-davon:
-
-::: indent
-⟪दिष्टि⟫ f.: emir, şanslı durum
-
-⟪दिष्ट्या⟫ Instr.: (kelimesi kelimesine: şanslı bir durum aracılığıyla) Ey şanslı durum! (Neşe ve mutluluk haykırığı)
-:::
-
-## 17.7. Alıştırma 1
-
-A) Aşağıdaki cümlelerde fiili kullanarak doldurun ve çevirin:
-
-⟪१⟫. ⟪ब्राह्मणो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫)
-
-⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫)
-
-⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫)
-
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫)
-
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
-
-⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
-
-⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
-
 ⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫)
 
 ⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫)
 
 ⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural -> B) A'da oluşturulan cümlelerde özne ve fiili çoğul yapın
+B) Aşağıda A bölümünde oluşturulan cümlelerde özne ve yüklemi çoğul haline getiriniz.
 
-## 17.8. Übung 2 -> ## 17.8. Alıştırma 2
+## 17.8. Alıştırma 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: -> Aşağıdaki fiil formlarını çevirin ve ilgili kökü belirtin:
+Aşağıdaki fiil formlarını çeviriniz ve ilgili kökü belirtiniz:
 
 ⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
-:::

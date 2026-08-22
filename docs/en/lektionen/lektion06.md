@@ -27,7 +27,7 @@ If the agent (**kartṛ** m. = ⟪कर्तृ⟫) is mentioned in a verbal s
 A finite verb form, i.e., a verb form with personal endings, expresses the following in Sanskrit:
 
 1. **Meaning** (**artha** m. ⟪अर्थ⟫)
-2. **Person** and **Number** (vacana n. = ⟪वचन⟫) (I, you, he &lt;she, it&gt;, we two, you two, they two, we, you, they)
+2. **Person** and **Number** (vacana n. = ⟪वचन⟫) (I, you, he \<she, it\>, we two, you two, they two, we, you, they)
 3. Voice (genus verbi):
 1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("word form with reference to another"): Active. e.g. **yajati** = ⟪यजति⟫ = "He worships with a sacrifice" (namely the priest, who performs the sacrifice for someone else)
 2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("word form with reference to oneself"): Middle. e.g. **yajate** = ⟪यजते⟫ = "He worships with a sacrifice for his own benefit" (namely the sacrificer, who sacrifices for himself and his family)

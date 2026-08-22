@@ -1,244 +1,233 @@
 ---
-title: Lesning 8
-subtitle: "Vorming van Nomina & 8. Presentklasse"
+title: "Lesing 8"
+subtitle: "Vorming van Nomina & 8. Presensklasse"
 lesson_id: 8
-category: "Grammatica"
-status: "stabiel"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-05-07
+
 ---
 
 # Les 8
 
 
 
-## 8.1. Zur Bildung von Nomina
+## 8.1. Over de vorming van nomina
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden:
+In de traditionele Indiase grammatica onderscheidt men bij de suffixen waarmee nominale stammen worden gevormd:
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia.
+**kṛt-suffixen (⟪कृत्⟫) (primaire suffixen):** vormen uit werkwoordswortels (**dhātu** m. = ⟪धातु⟫) en verbale stammen nominale stammen, absolutieven en infinitieven.
+**taddhita-suffixen (⟪तद्धित⟫) (secundaire suffixen):** worden toegevoegd aan nominale stammen en indeclinabilia en vormen nieuwe nominale stammen respectievelijk indeclinabilia.
 
 ::: grammar-box
 **Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.**
+**Wortel + kṛt-suffix » nominale stam enz. + taddhita-suffix » nieuwe nominale stam enz.**
 
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen**
+**Nominale stam + casussuitgang » syntactisch bruikbaar nomen**
 :::
 
-## 8.2. Einteilung der Nominalsuffixe
+## 8.2. Indeling van de nominale suffixen
 
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta
+**kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+**kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (duiden iemand aan die het door de wortel aangeduide doet)
+**kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (duiden de door de wortel uitgedrukte handeling aan) respectievelijk abstracta
 
-- **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+**taddhita**
+**viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » adjectieven
+**bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstracta
+**tadvattaddhita** (⟪तद्वत्तद्धित⟫) » bezitsaanduidend (bijv. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+**tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » trappening (comparatief, superlatief), vergelijking
+**pūraṇataddhita** (⟪पूरणतद्धित⟫) » rangtelwoorden (eerste enz.)
+**vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » in plaats van casussuitgangen (bijv. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+**abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-vormingen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+**Indeling op basis van de ablaut:**
+- **guṇya** (⟪गुण्य⟫): vorming op het hoogste niveau
+- **na guṇya** (⟪न गुण्य⟫): vorming op het laagste niveau
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): vorming met verlenging
 
-**Einteilung nach dem Ablaut:**
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung
 
-
-## 8.3. Einige wichtige Nominalsuffixe
+## 8.3. Enkele belangrijke naamwoordelijke achtervoegsels
 
 ### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.**
+**Het kṛt-achtervoegsel -a vormt mannelijke (zelden onzijdige) zelfstandige naamwoorden die een handeling of toestand aanduiden die door de stam wordt aangeduid; soms ook bijvoeglijke naamwoorden of zelfstandige naamwoorden die de agent (kartṛ) van de door de werkwoordstam aangeduide handeling uitdrukken. Voor korte penultima (= klinker vóór een medeklinker, waarop de stam eindigt) of een eindklinker in de stam wordt meestal de hoge toestand (guṇa) of de verlengde toestand (vṛddhi) gesubstitueerd.**
 :::
-**Beispiele:**
+**Voorbeelden:**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+| Wortel:br⟪धातु⟫ | + -a (kṛt) | Betekenis |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" |
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" |
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
-
-
+| **ji** 1 P:br⟪आप्⟫:br"overwinnen" | **jaya** m.:br⟪जय⟫ | "het overwinnen, de overwinning" |
+| **muh** 4 P:br⟪मुह्⟫:br"verward zijn" | **moha** m.:br⟪मोह⟫ | "verwarring, verblinding, dwaling" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"boos zijn" | **krodha** m.:br⟪क्रोध⟫ | "woede" |
+| **kup** 4 P:br⟪कुप्⟫:br"boos zijn" | **kopa** m.:br⟪कोप⟫ | "woede" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"begeren" | **lobha** m.:br⟪लोभ⟫ | "begierde" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"krijgen" | **lābha** m.:br⟪लाभ⟫ | "het verkrijgen, winst" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"loslaten,:brlaten ontstaan" | **sarga** m.:br⟪सर्ग⟫ | "het loslaten, de emanatie, de schepping" (zie later voor de woordcombinatie j » g) |
+| **śru** 5 P:br⟪श्रु⟫:br"horen" | **śrava** m.:br⟪श्रव⟫ | "het horen" |
+| **bhū** 1 P:br⟪भू⟫:br"worden, zijn" | **bhāva** m.:br⟪भाव⟫ | "het worden, het (iets) zijn, aard, karakter" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"vechten" | **yodha** m.:br⟪योध⟫ | "strijder, krijger, soldaat" |
 ### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.**
+**Het kṛt-achtervoegsel -ana vormt meestal onzijdige zelfstandige naamwoorden die een handeling, een toestand of het middel of gereedschap aanduiden waarmee de door de stam of een werkwoordstam aangeduide handeling tot stand wordt gebracht. Bij een korte penultima of een slotklinker in de stam wordt gewoonlijk de hoge graad (guṇa) gesubstitueerd.**
 :::
-**Beispiele:**
+**Voorbeelden:**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Wortel:br⟪धातु⟫ | + -ana (kṛt) | Betekenis |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" |
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"gaan" | **gamana** n.:br⟪गमन⟫ | "het gaan" |
+| **nī** 1 U:br⟪नी⟫:br"leiden" | **nayana** n.:br⟪नयन⟫ | "(het instrument om te leiden, d.w.z.) oog" |
+| **śru** 5 P:br⟪श्रु⟫:br"horen" | **śravaṇa** n.:br⟪श्रवण⟫ | "(het orgaan van het horen =) oor" |
+| **kṛ** 8 U:br⟪कृ⟫:br"doen" | **kāraṇa** n.:br⟪कारण⟫ | "(dat waarmee iets wordt gedaan, d.w.z.) oorzaak, reden" |
+| **bhū** 1 P:br⟪भू⟫:br"worden" | **bhavana** n.:br⟪भवन⟫ | "het worden, ontstaan" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"zien" | **darśana** n.:br⟪दर्शन⟫ | "het zien, visie, filosofisch systeem, verschijning, in het bijzonder: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801))
+Afb.: Maa Batakali Darshan, Puri, Orissa
+(Bron: [Details](/nl/licenses#lekt0801))
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru.
-
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia)
+**"Darshan"** of **"Darshana"** is een begrip uit het hindoeïsme voor het zien en de visie van het heilige en goddelijke. Onder *Darshana* wordt bijvoorbeeld de officiële ontmoeting tussen leerling en meester verstaan, waarbij de leerling door de meester is uitgenodigd. Het kan echter ook het *zich verdiepen* bij het aanschouwen van een godenbeeld betekenen. Deze laatste betekenis komt in het hedendaagse Hindi het meest voor. In verband met Mata Amritanandamayi betekent Darshan de omhelzing door de goeroe.
+Vrome hindoes gaan naar de tempel om een glimp van God op te vangen via een symbool of een beeld, waarin de spirituele aanwezigheid van de godheid wordt verondersteld. In die zin is het ook een zegening door de godheid. Darshan kan echter ook worden ontvangen door een visioen van de godheid tijdens het gebed of de meditatie. Ook een levend persoon die wordt beschouwd als een incarnatie van de godheid, zoals bijvoorbeeld een avatara, kan darshan geven.
+(Bron: Wikipedia)
 :::
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.**
+**Het kṛt-achtervoegsel -tra vormt (meestal) onzijdige zelfstandige naamwoorden die het middel of gereedschap aanduiden waarmee de door de stam aangeduide handeling tot stand komt. Een korte penultima en een eindklinker van de stam worden vervangen door de hoge graad (guṇa).**
 :::
 
-**Beispiele:**
+**Voorbeelden:**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Wortel:br⟪धातु⟫ | + -tra (kṛt) | Betekenis |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" |
+| **nī** 1 U:br⟪नी⟫:br"leiden" | **netra** n.:br⟪नेत्र⟫ | "(middel om te leiden =) oog" |
+| **śru** 5 P:br⟪श्रु⟫:br"horen" | **śrotra** :br⟪श्रोत्र⟫ | "(orgaan om te horen =) oor" |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkgereedschap:) spreuk, 'magische' formule (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"spannen" | **tantra** n.:br⟪तन्त्र⟫ | "weefketting" |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften**
+**De oer-mantra Oṃ (⟪ॐ⟫) in verschillende Indiase geschriften**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| In Kannaresischer Schrift | In Tamil-Schrift |
+| In Kannada-schrift | In Tamil-schrift |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
-(Bildquellen: [Details](/licenses#lekt0803))
+(Afbeeldingsbronnen: [Details](/nl/licenses#lekt0803))
 :::
 
 
 ### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.**
+**Het kṛt-suffix -ti vormt vrouwelijke substantieven die in het algemeen de door de wortel aangeduide handeling of de door de wortel aangeduide toestand uitdrukken. De vorm van de wortel staat op de zwakke trap.**
 :::
-**Beispiele:**
+**Voorbeelden:**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Wortel:br⟪धातु⟫ | + -ti (kṛt) | Betekenis |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"horen" | **śruti** f.:br⟪श्रुति⟫ | "het horen, de Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"voor de geest halen" | **smṛti** f.:br⟪स्मृति⟫ | "Het voor de geest halen, herinnering, overlevering, aandachtigheid" |
+| **nī** 1 U:br⟪नी⟫:br"leiden" | **nīti** f.:br⟪नीति⟫ | "het leiden, leiding, gedrag" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"doen emaneren" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanatie, schepping" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"zien" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "blik, gezicht, wijze van zien" |
+| **gam** 1 P:br⟪गम्⟫:br"gaan" | **gati** f.:br⟪गति⟫ | "gang, loopbaan, doel van het gaan" (uit *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "denken, gedachte, mening" (uit *mn » ma + -ti) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**.
+*Anmerking: \* voor een vorm betekent dat deze vorm in het Sanskrit niet voorkomt, maar theoretisch wordt afgeleid als vooronderstelling voor een bepaalde vorming. De zwakke trap van **gam** is gṃ = \*gm, de m wordt als zogenaamde nasalis sonans door **a** vervangen » **ga**. Analoog geldt dit voor **man** » **ma**.*
 
 
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.**
+**De taddhita-suffixen -tva n. resp. -tā f. vormen abstracte substantieven bij nomina. De vorm van de onderliggende nominale stam blijft onveranderd.**
 :::
-**Beispiele:**
+**Voorbeelden:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| Nominaalstam:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā v.:br(taddhita) | Betekenis |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
+| **guru** :br⟪गुरु⟫:br3 "zwaar, waardig,:brm. Meester" | **gurutva** zn.:br⟪गुरुत्व⟫ | **gurutā** v.:br⟪गुरुता⟫ | "Zwaarte, eerbiedwaardigheid,:brHet leraarschap (wezen of aard van een leraar)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "brahmaan" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** v.:br⟪ब्राह्मणता⟫ | "het brahmaanse zijn,:brwat een brahmaan tot brahmaan maakt,:brwezen / aard van een brahmaan" |
+| **deva** :br⟪देव⟫:brm. "hemelse, god" | — | **devatā** v.:br⟪देवता⟫ | "godheid" |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig.
+Deze afleidingen kunnen van vrijwel elk zelfstandig naamwoord worden gevormd en komen in wetenschappelijke Sanskrietwerken zeer vaak voor.
 
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+## 8.4. De 8e tegenwoordige tijdklasse (tanādi = ⟪तनादि⟫ = "tan enz.")
 
 ::: grammar-box
-**Stammbildung:**
-- **Starker Stamm: Wurzel + -o-**
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
+**Stamvorming:**
+- **Sterke stam: stam + -o-**
+- **Zwakke stam: stam + -u- (voor een klinker: -v-)**
 
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen":
-- 3\. sg. P. **tanoti**
-⟪तनोति⟫
-- 3\. pl. P. **tanvanti**
-⟪तन्वन्ति⟫
-- 3\. sg. Ā. **tanute**
-⟪तनुते⟫
-- 3\. pl. Ā. **tanvate**
-⟪तन्वते⟫
+Voorbeeld **tan** 8 U (⟪तन्⟫) „uitrekken”:
+- 3\e pers. enkelvoud tegenwoordige tijd **tanoti** :br⟪तनोति⟫
+- 3\. mv. P. **tanvanti** :br⟪तन्वन्ति⟫
+- 3\. en. Ā. **tanute** :br⟪तनुते⟫
+- 3\. mv. Ā. **tanvate** :br⟪तन्वते⟫
 :::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
+Opmerking: Zie Thumb-Hauschild, Handbuch des Sanskrit II, 265, voor de discussie of **tan** eigenlijk een stam van de 5e klasse is (*tn » ta + no-).
 
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmässig:
+De belangrijkste stam van de 8e klasse is **kṛ** 8 U (⟪कृ⟫) “doen, maken”. De vervoeging ervan is onregelmatig:
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"**
-- 3\. sg. P. **karoti**
-⟪करोति⟫
-- 3\. pl. P. **kurvanti**
-⟪कुर्वन्ति⟫
-- 3\. sg. Ā. **kurute**
-⟪कुरुते⟫
-- 3\. pl. Ā. **kurvate**
-⟪कुर्वते⟫
+**kṛ 8 U (⟪कृ⟫) „maken, doen”**
+- 3e pers. enkelvoud, tegenwoordige tijd **karoti** :br⟪करोति⟫
+- 3e pers. meervoud, tegenwoordige tijd **kurvanti** :br⟪कुर्वन्ति⟫
+- 3\. enkelvoud Ā. **kurute** :br⟪कुरुते⟫
+- 3\. meervoud Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
 
-## 8.5. Wortliste
+## 8.5. Woordenlijst
 
-**Lernen Sie folgende Wörter:**
+**Leer de volgende woorden:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+**ji** 1 P (jayati) ⟪जि जयति⟫ : overwinnen, verslaan, behalen
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : vatten, verkrijgen, grijpen
+**tu** ⟪तु⟫ : maar (staat na het eerste woord van de tegenstellende zin of het tegenstellende zinsdeel)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : zien, gewaarworden (wordt als presensstam gebruikt in plaats van de wortel **dṛś** 0 "zien, gewaarworden")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : maken, doen
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : uitrekken
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : bewaken
+**sārathi** m. ⟪सारथि⟫ : wagenmenner, voerman
+**kapi** m. ⟪कपि⟫ : aap
+**kumārī** f. ⟪कुमारी⟫ : het meisje, de maagd
+**nāga** m. ⟪नाग⟫ : de Naakte, de olifant, de slang (olifant en slang hebben geen vacht, evenals de "naakte aap" mens)
+**gaja** m. ⟪गज⟫ : olifant
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : treuren
+**śuka** m. ⟪शुक⟫ : papegaai
+**pat** 1 P (patati) ⟪पत् पतति⟫ : vallen, vliegen
+**patrikā** f. ⟪पत्रिका⟫ : brief
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : krassen, schrijven (oorspronkelijk met de graveerstift op een palmblad, later echter algemeen)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Afb.: **likh** (⟪लिख्⟫) : Indische schrijfgriffel van staal om in palmbladen in te kerven
+(Bron afbeelding: [Details](/nl/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+Afb.: **likh** (⟪लिख्⟫) : Schrijfstokje van de Batak (Sumatra), zoals dat vermoedelijk ook in Indië gebruikelijk was
+(Bron afbeelding: [Details](/nl/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
+**sukha** n. ⟪सुख⟫ : geluk, welzijn
+**duḥkha** n. ⟪दुःख⟫ : ongeluk, lijden
 
 
 
-## 8.6. Übung
+## 8.6. Oefening
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+**A) Leg de volgende zelfstandige naamwoorden uit door het aangeven van de wortel waarvan ze zijn afgeleid, en het nominale suffix. Geef geslacht en betekenis aan:**
 1. lobha
 2. rakṣa
 3. śrotra
@@ -268,43 +257,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 27. nayana
 28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).**
+**B) Vorm abstractum voor alle tot nu toe geleerde zelfstandige naamwoorden en bedenk hun betekenis (mondeling).**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:**
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
+**C) Vul in als lijdend voorwerp in enkelvoud en meervoud:**
+kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:**
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
-3. Er besiegt Kṣatriyas.
-4. Sie spannt die Webkette auf.
-5. Soldaten kämpfen.
-6. Der Brahmane macht ein Feuer.
-7. Brahmanen machen Feuer.
-8. Was tun diese Kämpfer?
-9. Wen sieht das Auge?
-10. Was begehren Götter?
-11. Was ist der Grund?
+**D) Vertaal:**
+1. Kṣatriyas beschermen zowel Brahmanen als ook Vaiśyas en Śūdras. (2 mogelijkheden)
+2. Een heilige man ziet zowel de hemel als ook de hel.
+3. Hij verslaat Kṣatriyas.
+4. Zij spannen de schering op.
+5. Soldaten vechten.
+6. De Brahmane maakt een vuur.
+7. Brahmanen maken vuren.
+8. Wat doen deze strijders?
+9. Wen ziet het oog?
+10. Wat begeeren goden?
+11. Wat is de reden?
 
 
 
-## 8.7. Lese- und Übersetzungsübung
+## 8.7. Lees- en vertaaloefening
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-8. ⟪देवतां⟫ ⟪यजति⟫ |
-9. ⟪बाला⟫ ⟪भवति⟫ |
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-12. ⟪बाला⟫ ⟪लिखति⟫ |
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-17. ⟪शुकः⟫ ⟪पतति⟫ |
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
+1. ⟪शूद्रो बालं नयति⟫ |
+2. ⟪कविर्देवं यजते⟫ |
+3. ⟪साधुः फलानि खादति⟫ |
+4. ⟪गुरुः क्रोधं जयति⟫ |
+5. ⟪देवो नरकं सृजति⟫ |
+6. ⟪धेनुर्ग्रामं विशति⟫ |
+7. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+8. ⟪देवतां यजति⟫ |
+9. ⟪बाला भवति⟫ |
+10. ⟪सारथी रथं नयति⟫ |
+11. ⟪कपयः फलानि खादन्ति⟫ |
+12. ⟪बाला लिखति⟫ |
+13. ⟪कुमारी गृहं विशति⟫ |
+14. ⟪देवो नागं सृजति⟫ |
+15. ⟪बालो गजं नयति⟫ |
+16. ⟪विमला शोचति⟫ | (⟪विमला⟫ eigennaam Vimalā)
+17. ⟪शुकः पतति⟫ |
+18. ⟪बालः पत्रिकां लिखति⟫ |

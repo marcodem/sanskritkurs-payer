@@ -180,7 +180,6 @@ Contoh:
 :::
 
 **Perhatikan aturan disimilasi aspirasi untuk :sig[⟪धा⟫]!**
-:::
 ::: grammar-box
 **:sig[⟪धा⟫]** 3U "menempatkan, memperbaiki, mendistribusikan"
 

@@ -102,11 +102,11 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
 | **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
-| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\&lt; \*gm-ta):br(⟪गत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
 | **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
 | **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
-| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\&lt; \*tn-ta):br(⟪तत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
 #### 12.3.1.2. With connecting vowel -i- (seṭ)
@@ -121,7 +121,7 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
-| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\&lt; \*vd-i-ta):br(⟪उदित⟫) |
+| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
 ## 12.4. Laws of Sound Combination in the Word
@@ -135,7 +135,7 @@ In *aniṭ* formations, the following laws of sound combination in the word must
 | **2. ct is replaced by kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
 | **3. śt is replaced by ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
 | **4. Voiced unaspirated stop – except j – before a voiceless sound is replaced by the corresponding voiced unaspirated sound:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important for the 2nd present class) |
-| **5. jt is replaced by kt or ṣṭ (not facultative!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\&lt; \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **5. jt is replaced by kt or ṣṭ (not facultative!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Voiced aspirated stop + voiceless stop » voiced unaspirated stop + voiced aspirated stop (Bartholomew's Law of Aspiration):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
 | **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such an ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „to conceal something”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::

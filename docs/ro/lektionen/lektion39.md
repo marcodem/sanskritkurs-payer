@@ -44,9 +44,9 @@ Desinențele de persoana I (:sig[⟪तृतीयः⟫] ⟪पुरुषः
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicativ Prezent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
-| **Imperfect - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optativ - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Indicativ Prezent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Imperfect - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
+| **Optativ - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. A șasea clasă de prezente (⟪तुदादि⟫)
@@ -93,7 +93,6 @@ Desinențele de persoana I (:sig[⟪तृतीयः⟫] ⟪पुरुषः
 :::
 ### 39.2.5. Pasivul (Sufixul ⟪यक्⟫)
 
-:::
 ### 39.2.5. Pasiv (Sufix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
@@ -135,7 +134,7 @@ Desinențele de persoana I (:sig[⟪तृतीयः⟫] ⟪पुरुषः
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Viitor  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
+| **Viitor  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
 ## 39.4. Formarea formelor verbale a primei persoane la rădăcini prezente atematice

@@ -1,6 +1,6 @@
 ---
 title: "Lesson 43"
-subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<person\>")'
+subtitle: 'Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle <person>")'
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -44,9 +44,9 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 | | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicative Present** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
-| **Imperfect** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
-| **Optative** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
+| **Indicative Present** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Optative** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.2. Sixth present class (⟪तुदादि⟫)
 
@@ -55,9 +55,9 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 | | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicative Present** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
-| **Imperfect** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
-| **Optative** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
+| **Indicative Present** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Optative** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.3. Fourth Present Class (⟪दिवादि⟫)
 
@@ -66,9 +66,9 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 | | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicative Present** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
-| **Imperfect** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
-| **Optative** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
+| **Indicative Present** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Optative** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.4. Tenth Present Class (⟪चुरादि⟫) and Causatives
 
@@ -109,7 +109,7 @@ The 3.sg.A. Imperfect or Optative is formally identical to the 2.pl.P. Imperfect
 | ⟪परस्मैपदम्⟫ | | ⟪आत्मनेपदम्⟫ | |
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
 
 ## 43.3. The Second Person Personal Pronoun
 

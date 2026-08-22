@@ -1,5 +1,5 @@
 ---
-title: "Exercizi 10"
+title: "[Esercizi 10]"
 uebung_id: 10
 category: "Übung"
 last_reconstructed: 2026-05-15

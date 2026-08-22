@@ -4,31 +4,32 @@ layout: home
 hero:
   name: "Curso de sánscrito"
   text: "Un curso completo"
-  tagline: "de Alois Payer (Biblioteca Global Village de Tüpfli)"
+  tagline: "por Alois Payer (Biblioteca Global Village de Tüpfli)"
   actions:
     - theme: brand
       text: "Iniciar curso"
       link: /es/lektionen/lektion01
     - theme: alt
-      text: "Temas de gramática"
+      text: "Temas gramaticales"
       link: /es/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "Tipografía perfecta e integrada para escrituras indias."
-  - title: "Fácil de buscar"
-    details: "Una búsqueda de texto local profunda mantiene el conocimiento disponible al instante."
-  - title: "Arquitectura moderna"
-    details: "Construida sobre la base de VitePress para máxima velocidad."
+  - title: "Global y políglota"
+    details: "Completamente disponible en más de 20 idiomas mediante una cascada automatizada y multicapa de traducción por inteligencia artificial."
+  - title: "PWA con prioridad offline"
+    details: "Todo el curso (incluida la base de datos local) es utilizable en todos los dispositivos sin conexión activa a Internet."
+  - title: "Tipografía académica"
+    details: "Soporte nativo para Devanāgarī y transliteración IAST con alineación textual académica exacta."
 
 ---
 
 ::: note-box
-El **curso de sánscrito** de Alois Payer es un programa integral y científicamente fundamentado para el aprendizaje del idioma sánscrito y la escritura Devanāgarī. Esta edición digital presenta el curso completo en un entorno de lectura moderno, multilingüe y navegable.
+El **curso de sánscrito** de Alois Payer es un programa integral y científicamente fundamentado para el aprendizaje del idioma sánscrito y la escritura Devanāgarī. Esta edición digital pone a disposición todo el curso en un entorno de lectura moderno, multilingüe y buscable.
 
-Los idiomas fueron traducidos automáticamente desde el alemán con la ayuda de una IA (Qwen3.6-32B). Los informes sobre errores de traducción son muy bienvenidos.
-**Comentarios y contacto**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**Colaborar como corrector o curador**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**Editor de código abierto Zentauri**: Editor Markdown independiente en [GitHub](https://github.com/marcodem/zentauri)
-**Wiki de desarrolladores y arquitectura**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Los idiomas fueron traducidos completamente de forma automática desde el alemán mediante una cascada de IA multicapa. Los informes sobre errores de traducción son muy bienvenidos.
+
+**Contacto y contribución**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Wiki del proyecto](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Editores**: Editor en línea disponible para autores ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativa: Editor Markdown independiente [Zentauri](https://github.com/marcodem/zentauri)
+**Versión actual**: v1.7.0
 :::

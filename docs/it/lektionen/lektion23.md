@@ -85,7 +85,7 @@ Tra le radici finora apprese, si prestano particolare attenzione i seguenti infi
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
->> -ra- come livello alto per -ṛ- hanno nell'infinitivo:
+\>\> -ra- come livello alto per -ṛ- hanno nell'infinitivo:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

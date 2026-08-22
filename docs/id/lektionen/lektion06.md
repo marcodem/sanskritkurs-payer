@@ -27,7 +27,7 @@ Jika agen (**kartṛ** m. = ⟪कर्तृ⟫) disebutkan dalam kalimat verb
 Sebuah bentuk kata kerja finit, yaitu bentuk kata kerja dengan akhiran personal, dalam bahasa Sanskerta mengungkapkan hal-hal berikut:
 
 1. **Arti** (**artha** m. ⟪अर्थ⟫)
-2. **Orang** dan **Jumlah** (Zahl, **vacana** n. = ⟪वचन⟫) (saya, kamu, dia \&lt;ia, itu\&gt;, kami berdua, kalian berdua, mereka berdua, kami, kalian, mereka)
+2. **Orang** dan **Jumlah** (Zahl, **vacana** n. = ⟪वचन⟫) (saya, kamu, dia \<ia, itu\>, kami berdua, kalian berdua, mereka berdua, kami, kalian, mereka)
 3. Cara bertindak (genus verbi):
 1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Bentuk kata yang merujuk pada orang lain"): Aktif. mis. **yajati** = ⟪यजति⟫ = "Dia mempersembahkan korban" (yakni pendeta yang melaksanakan korban untuk orang lain)
 2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Bentuk kata yang merujuk pada diri sendiri"): Medial. mis. **yajate** = ⟪यजते⟫ = "Dia mempersembahkan korban untuk kepentingan sendiri" (yakni tuan korban yang berkorban untuk dirinya dan keluarganya)

@@ -50,7 +50,6 @@ ISKCON Templom Bangalor.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2801))
 :::
 
-:::
 ::: grammar-box
 **Az 1. sémát követve konstruált többek között a ⟪दृश्⟫ gyökér:**
 
@@ -84,7 +83,6 @@ A Jadavpur Egyetem igazgatósági épülete.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2802))
 :::
 
-:::
 ::: grammar-box
 **Schema 2:**
 
@@ -254,7 +252,6 @@ Példa:
 **budh** Jövő időum kausatívum: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „felébreszt”
 :::
 
-:::
 ## 28.6. A PPP (⟪क्त⟫) képzése a kausatívból
 
 ::: grammar-box
@@ -313,7 +310,6 @@ Példák:
 **Az 10. jelen időosztályba tartozó igék causativusának formái megegyeznek az egyszerű igeformákkal. Dönteni csak a jelentés, vagy néha a szerkezet alapján lehet arról, hogy causativusról van-e szó.**
 :::
 
-:::
 ## 28.10. Szószedet
 
 ::: indent
@@ -353,7 +349,6 @@ Festmény: ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906
 (Képmagyarázat: [Részletek](/hu/licenses#lekt2804))
 :::
 
-:::
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: lopni
 Fut. **corayiṣyati**

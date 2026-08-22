@@ -158,4 +158,3 @@ E) În propoziția B) 6, înlocuiți dativul cu o construcție cu **-⟪अर�
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Sursa imaginii: [Detalii](/licenses#uebung038))
 :::
-:::

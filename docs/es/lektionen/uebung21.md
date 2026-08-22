@@ -50,5 +50,5 @@ Quien ha vencido la ira, no odia a un enemigo, incluso si este lo mata. Quien, s
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung033))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

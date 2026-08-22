@@ -146,7 +146,7 @@ Exempla:
 
 Exempla:
 ::: indent
-⟪जातु⟫ "prorsus" (originale "nativitate, natura", acc. sg. n. ad ⟪जातु⟫ \&lt;non amplius nomine usitatum\&gt;)
+⟪जातु⟫ "prorsus" (originale "nativitate, natura", acc. sg. n. ad ⟪जातु⟫ \<non amplius nomine usitatum\>)
 
 ⟪तूष्णीम्⟫ "tacitus" (Acc.sg. ad non iam usitatum ⟪तूष्णी⟫ f. "silentium")
 
@@ -156,29 +156,34 @@ Exempla:
 
 ::: grammar-box
 A pronominalibus radicibus ⟪तद्⟫, ⟪इदम्⟫ vel ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ vel ⟪कु⟫ cum adverbialibus suffixis
+:::
+## 37.4. Formatione adverbiorum cum suffixis adverbialibus
+
+::: grammar-box
+A radicibus pronominalibus ⟪तद्⟫, ⟪इदम्⟫ vel ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ vel ⟪कु⟫ adverbiorum pronominalium per suffixa adverbialia
 
 *   \-⟪तस्⟫ (Ablativus)
-*   \-⟪⟪त्र⟫ (Locativus)
-*   \-⟪था⟫ (Modus et Modus)
-*   \-⟪थम्⟫ (Modus et Modus)
+*   \-⟪त्र⟫ (Locativus)
+*   \-⟪था⟫ (Modus)
+*   \-⟪थम्⟫ (Modus)
 *   \-⟪दा⟫ (Tempus)
 
-pronominia adverbialia correspondia deducere.
+derivari possunt.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Suffixum | Radix pronominalis | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablativus) | ⟪ततस्⟫ :brinde, super eo, ideo | ⟪इतस्⟫ :br ⟪अतस्⟫ :brhinc, ob hanc causam | ⟪यतस्⟫ :brunde, unde | ⟪कुतस्⟫ :brunde?, cur? |
+| **-⟪त्र⟫** :br(Locativus) | ⟪तत्र⟫ :bribi, illic | ⟪अत्र⟫ :brhic | ⟪यत्र⟫ :brubi | ⟪कुत्र⟫ :brubi? |
+| **-⟪था⟫** :br(Modus) | ⟪तथा⟫ :brita, sic | | ⟪यथा⟫ :brquomodo | |
+| **-⟪थम्⟫** :br(Modus) | | | | ⟪कथम्⟫ :brquomodo? |
+| **-⟪दा⟫** :br(Tempus) | ⟪तदा⟫ :brtunc, tum | | ⟪यदा⟫ :cum | ⟪कदा⟫ :quando? |
 
 :::
 ::: grammar-box
-Alterum adverbium interrogativum est: ⟪क्व⟫ "ubi?"
+Aliud adverbium interrogativum est: ⟪क्व⟫ "ubi?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
@@ -190,11 +195,11 @@ Fig.: ⟪क्व⟫
 
 **Alia suffixa adverbialia**
 
-| Suffix | |
+| Suffixum | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪वत्⟫** | ad nomina quaecumque adiungi potest, ut exprimatur "secundum morem, similiter":brex. gr. ⟪पुत्रवत्⟫ "ut filius" |
+| **-⟪तस्⟫** | ad nomina et pronomina. Plerumque significatio ablativa "unde?", sed etiam "ubi?", "quo?":brex. gr. ⟪आदितस्⟫ "ab initio" |
+| **-⟪धा⟫** | 1. In adverbii numeralibus in significatione "-plex", "-formis":brex. gr. ⟪द्विधा⟫ "biplex":br2. in significatione "in tali modo":brex. gr. ⟪समधा⟫ "in eodem modo" (ad ⟪सम⟫ 3 "aequus") |
 
 :::
 ## 37.5. Composita adverbialia
@@ -251,75 +256,72 @@ e.g. ⟪तूष्णीं⟫ ⟪बभूव⟩ "he became silent, he fell s
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Image source: [Details](/la/licenses#lekt3703))
 :::
-## 37.7. Indefinite pronouns
+## 37.7. Pronomina indefinita
 
 ::: grammar-box
-Pronomina indefinita (pronomina indefinita) per additionem
+Pronomina indefinita (pronomina incerta) per additionem
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+ad casus pronominalis interrogativi ⟪किम्⟫ formantur.
 
-e.g.
+exempli gratia:
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "someone, anybody"  
-⟪कस्यचिद्⟫ = someone's
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "aliquis, quidam"  
+⟪कस्यचिद्⟫ = alicuius
 :::
-## 37.8. The Interrogative Sentence
+## 37.8. Propositio interrogativa
 
 ::: grammar-box
-"Quis?, quomodo?, quid?, cur? quare? quid causae?  
+"Quis?, quomodo?, quid?, cur? unde? quare?  
 Qui non interrogat, stultus manet."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto Sesamae Viae, quae bonam regulam vitae et studium Sanscriticum praebet
+Motto Sesame Street, quod bonam regulam vitae et studii Sanscriti praebet
 :::
 Vide etiam [Lectio 4](lektion04.md).
 
-Oportet distinguere
+Distinctio est necessaria inter
 
-*   Quaestiones verborum (quaestiones supplementariae)
-*   Quaestiones sententiarum
+*   Quaestiones verborum (quaestiones supplementarias)
+*   Quaestiones propositionis
 
-De quaestionibus verbalibus agens (⟪कर्तृ⟫), objectum, actio, circumstantia et cetera quaeruntur, ut exempli gratia
+In quaestionibus verborum de agente (⟪कर्तृ⟫), objecto, actione, circumstantia etc. quaeritur, exempli gratia:
 
 *   quis venit?
-*   quid facit Rāma?
-*   quem audit?
-*   quomodo loquitur Sanscritum?
-*   ubi est Mater?
+*   quid Rāma facit?
+*   quem audit ille?
+*   quomodo illa Sanscritum loquitur?
+*   ubi est mater?
 
-In quaestionibus enuntiativis totus contentus enuntiati quaeritur, e.g.
+In quaestionibus propositionis totus sensus propositionis interrogatur, exempli gratia:
 
-*   abne Rāma hodie Ofterdingen?
-*   estne rectum, quod ... ?
+*   Rāne hodie Ofterdingen vadit?
+*   recte est, quod ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Quaestiones verborum (quaestiones supplementarias)
 
 ::: grammar-box
 Schema:
 
-Schema:
+Pronomen interrogativum/adverbium interrogativum - Propositio
 :::
-Exempla:
+Exemplaria:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Quis vadit in vicum?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Quis in vicum vadit?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Quid pueri discere debeant?"
+⟪किं बाला अधीयीरन्⟫ = "Quid pueri discere debent?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟩ = Ubi habitat Rāma?
+⟪क्व रामो वसति⟫ = Ubi Rāma habitat?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt3704))
+Fig.: ⟪किं बाला अधीयीरन्⟫
+(Fons imaginis: [Details](/la/licenses#lekt3704))
 :::
 ### 37.8.2. Quaestiones sententiales
 
@@ -399,7 +401,7 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \&lt;casus absolutus\&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<casus absolutus\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
@@ -436,24 +438,17 @@ Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 ⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
 
 ⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+B) Traduite:
 
-B) Translate:
+ ⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+C) Traduite sequentia ⟪अव्ययीभाव⟫ :
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
-
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Versa haec ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟩ Postpositio cum accusativo: "praeter ... ultra"
+1\. ⟪अति⟫ Postpositio cum accusativo: 'praeter …'
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
@@ -467,10 +462,10 @@ C) Versa haec ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Fons imaginis: [Descriptiones](/la/licenses#lekt3709))
+Fig.: ⟪अधिकेरलं वर्तन्ते⟫
+(Fons imaginis: [Singula](/la/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "secundum, iuxta, secundum"
+3. ⟪अनु⟫ "respondens ad, secundum, pro"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -483,13 +478,13 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "ad versus"
+5\. ⟪अभि⟫ "ad"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "post, usque, inclusus"
+6\. ⟪आ⟫ "a, ad, includens"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -497,8 +492,8 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Fons imaginis: [Details](/la/licenses#lekt3710))
+Fig.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Fons imaginis: [Singula](/la/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "prope"
 
@@ -507,17 +502,16 @@ Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt3711))
+Fig.: ⟪उपवृक्षं सीदन्ति⟫
+(Fons imaginis: [Singula](/la/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Exercitium Revisionis
 
-Verte in Sanscritum utendo tantum formis verbalibus Perfectorum:
+Traduite in Sanskritum, formis verborum perfectis tantum utentes:
 
-Cum quidam senex in vicum alium pergeret, itinere fatigatus est. Itaque, ut requiesceret, ad radicem mangiferae arboris, quae ad laterem stabat, accessit. In hac arbore erant fructus maturi. Senescenti libitum erat ex his fructibus. Sed ascendere in arborem et fructus prehendere non potuit. Fortunate autem erant in hac arbore quaedam simiae, quae fructus edebant. Quos ut vidit, senex gavisus est. Quid fecit? Aliquos lapides sumpsit, in simias direxit et iecit. Simiae iratae quosdam fructus decerpserunt et in senem iecerunt. Senex hos gaudens accepit et in regionem voluntariam abiit. Ecce fatum senis!
-
+Olim, cum senex quidam ad aliam vicum iter faceret, in via defatigatus est. Itaque ad radices arboris mangiferae, quae iuxta semitam stabat, requiescere iit. In hac arbore fructus maturi erant. Senex nonnullos eorum cupivit. Sed arborem ascendere non poterat ut ad fructus perveniret. Feliciter, in arbore erant simiae quaedam fructus edentes. Quas cum senex vidisset, gavisus est. Quid fecit? Lapides aliquot collegit, in simias intendit, et iecit. Simiae iratae fructus aliquot decerpserunt et in senem iecerunt. Senex ea cum gaudio accepit et ad locum quem cupiverat perrexit. Ecce fortuna senis!

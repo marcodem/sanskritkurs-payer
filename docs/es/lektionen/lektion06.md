@@ -5,7 +5,7 @@ lesson_id: 6
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lección 6
 
@@ -25,7 +25,7 @@ Si se menciona el agente (**kartṛ** m. = ⟪कर्तृ⟫) en una oració
 Una forma verbal finita, es decir, una forma verbal con terminación personal, expresa en sánscrito lo siguiente:
 
 1. **Significado** (**artha** m. ⟪अर्थ⟫)
-2. **Persona** y **número** (número, **vacana** n. = ⟪वचन⟫) (yo, tú, él \&lt;ella, ello\&gt;, nosotros dos, vosotros dos, ellos dos, nosotros, vosotros, ellos)
+2. **Persona** y **número** (número, **vacana** n. = ⟪वचन⟫) (yo, tú, él \<ella, ello\>, nosotros dos, vosotros dos, ellos dos, nosotros, vosotros, ellos)
 3. Modo de comportamiento (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("forma verbal con referencia a otro"): Activo. p.ej. **yajati** = ⟪यजति⟫ = "Él venera con un sacrificio" (a saber, el sacerdote, que realiza el sacrificio por otra persona)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("forma verbal con referencia a sí mismo"): Medio. p.ej. **yajate** = ⟪यजते⟫ = "Él venera con un sacrificio en su propio interés" (a saber, el señor del sacrificio, que sacrifica por sí mismo y por su familia)
@@ -107,7 +107,7 @@ Ejemplo **yaj** = ⟪यज्⟫ = "honrar con un sacrificio", "sacrificar":
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Sandhi de palabras de e y o
-Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**. &lt;!--  --&gt;
+Ante vocales, en el interior de la palabra, **e** se reemplaza por **ay**, **o** por **av**. \<!--  --\>
 
 #### 6.5.2.2. Gradación (Ablaut)
 

@@ -146,4 +146,3 @@ Rezolvați următoarele compuse ca Tatpuruṣa în sanscrită și oferiți o tra
 Fig.: ⟪गृहकरणम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung016))
 :::
-:::

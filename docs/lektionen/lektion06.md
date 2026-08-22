@@ -26,7 +26,7 @@ Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz gena
 Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
 
 1. **Bedeutung** (**artha** m. ⟪अर्थ⟫)
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \&lt;sie, es\&gt;, wir beide, ihr beide, sie beide, wir, ihr, sie)
+2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \<sie, es\>, wir beide, ihr beide, sie beide, wir, ihr, sie)
 3. Verhaltensweise (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)

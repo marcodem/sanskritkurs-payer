@@ -69,7 +69,7 @@ B) Traduzca utilizando compuestos al sánscrito:
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung031))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Análisis de compuestos
 
@@ -242,7 +242,7 @@ Resuelva los siguientes compuestos como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa d
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung030))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Fragmentos eruditos
 
@@ -292,5 +292,5 @@ Los pobres, que no desean, tienen muchos hijos, los ricos no tienen un solo hijo
 ![](/images/uebung032.webp)
 Fig.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung032))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

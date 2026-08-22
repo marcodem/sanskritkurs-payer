@@ -36,7 +36,6 @@ Fig.: ⟪मार्जारयुगम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5301))
 :::
 
-:::
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
@@ -639,4 +638,3 @@ Alois Maria Payer
 :::
 
 
-:::

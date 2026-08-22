@@ -34,7 +34,7 @@ outline: 2
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | 吃，消耗 | [30](/zh/lektionen/lektion30#_30-6-) |
 | ⟪अश् अश्नुते⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | — | 到達，抵達，獲得 | [7](/zh/lektionen/lektion07#_7-6-) |
 | ⟪असित ३⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | 黑暗的，黑色的 | [20](/zh/lektionen/lektion20#_20-9-) |
-| ⟪अस् अस्यति अस्यते अस्त⟫ | [as](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=as&filter=roman&accent=no&transLit=roman) | — | asyate, PPP asta ：投擲、（丟）扔 | [13](/zh/lektionen/lektion13#_13-9-) |
+| ⟪अस् अस्यति अस्यते अस्त⟫ | [as](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=as&filter=roman&accent=no&transLit=roman) | — | asyate, 過去被動分詞 asta ：投擲、（丟）扔 | [13](/zh/lektionen/lektion13#_13-9-) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | 說，講話 | [36](/zh/lektionen/lektion36#_36-4-) |
 
 ## आ
@@ -51,7 +51,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪इ एति ईयते इत⟫ | [i](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=i&filter=roman&accent=no&transLit=roman) | — | īyate, PPP ita ：走 | [13](/zh/lektionen/lektion13#_13-9-) |
+| ⟪इ एति ईयते इत⟫ | [i](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=i&filter=roman&accent=no&transLit=roman) | — | īyate, 過去被動分詞 ita ：走 | [13](/zh/lektionen/lektion13#_13-9-) |
 | ⟪इत्थम्⟫ | [ittham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ittham&filter=roman&accent=no&transLit=roman) | Adv | 以這種方式，如此 | [43](/zh/lektionen/lektion43#_43-4-) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | 力量、感官 | [24](/zh/lektionen/lektion24#_24-4-) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] ：派遣 | [42](/zh/lektionen/lektion42#_42-2-) |
@@ -247,7 +247,7 @@ outline: 2
 | ⟪पञ्जर⟫ | [pañjara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pañjara&filter=roman&accent=no&transLit=roman) | n | 籠子 | [49](/zh/lektionen/lektion49#_49-4-) |
 | ⟪पत् पतति⟫ | [pat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pat&filter=roman&accent=no&transLit=roman) | — | 落下、飛翔 | [8](/zh/lektionen/lektion08#_8-5-) |
 | ⟪पत्रिका⟫ | [patrikā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=patrikā&filter=roman&accent=no&transLit=roman) | f | 信件 | [8](/zh/lektionen/lektion08#_8-5-) |
-| ⟪पद् पद्यते पद्यते पन्न⟫ | [pad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pad&filter=roman&accent=no&transLit=roman) | — | padyate, PPP panna ：走、進入 | [13](/zh/lektionen/lektion13#_13-9-) |
+| ⟪पद् पद्यते पद्यते पन्न⟫ | [pad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pad&filter=roman&accent=no&transLit=roman) | — | padyate, 過去被動分詞 panna ：走、進入 | [13](/zh/lektionen/lektion13#_13-9-) |
 | ⟪परम⟫ | [parama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parama&filter=roman&accent=no&transLit=roman) | 3 | 最遠，最高； : 優於，高於 | [49](/zh/lektionen/lektion49#_49-4-) |
 | ⟪परिचय⟫ | [paricaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricaya&filter=roman&accent=no&transLit=roman) | m | 友誼，交往 | [49](/zh/lektionen/lektion49#_49-4-) |
 | ⟪परिचित⟫ | [paricita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricita&filter=roman&accent=no&transLit=roman) | 3 | 熟悉、知名 | [51](/zh/lektionen/lektion51#_51-6-) |
@@ -344,18 +344,15 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | 騙子 | [43](/zh/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | 商人 | [43](/zh/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | 小牛，幼崽，孩子；呼格：我親愛的 | [43](/zh/lektionen/lektion43#_43-4-) |
-| ⟪वत्स्यति⟫ | 未來時 | — | br 被動語態：:br PPP：:br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
+| ⟪वत्स्यति⟫ | 未來時 | — | br 被動語態：:br 過去被動分詞：:br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | n | 美，形態，身體（變格見後） | [20](/zh/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | 最好的 | [43](/zh/lektionen/lektion43#_43-4-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | m | 願望 | [49](/zh/lektionen/lektion49#_49-4-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | 顏色，出生階級（傾向）。 | [2](/zh/lektionen/lektion02#_2-5-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | 雨、雨季、年 | [25](/zh/lektionen/lektion25#_25-5-) |
-| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | （「發光」=）春季（三月至五月） | [27](/zh/lektionen/lektion27#_27-5-) |
-| ⟪वसिष्यते⟫ | 未來式： | — | br 過去分詞（PPP）： :br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
-| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | 財富，寶藏，財產，所有物 | [27](/zh/lektionen/lektion27#_27-5-) |
+| ⟪वसिष्यते⟫ | 未來式： | — | br 過去分詞（過去被動分詞）： :br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 2Ā | 穿著（衣服），穿戴 | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | 實際上，真正地 | [27](/zh/lektionen/lektion27#_27-5-) |
-| ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | 用來穿著的東西 = 衣服，長袍，布料 | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪वानप्रस्थ⟫ | [vānaprastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vānaprastha&filter=roman&accent=no&transLit=roman) | m | 林中隱居者（處於第三 階段的人） | [29](/zh/lektionen/lektion29#_29-2-) |
 | ⟪विचित्र ३⟫ | [vicitra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vicitra&filter=roman&accent=no&transLit=roman) | — | 多彩的，各種各樣的，美麗的，奇妙的，奇怪的 | [20](/zh/lektionen/lektion20#_20-9-) |
 | ⟪विज्ञान⟫ | [vijñāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vijñāna&filter=roman&accent=no&transLit=roman) | n | 認知、知識 | [25](/zh/lektionen/lektion25#_25-5-) |
@@ -424,9 +421,8 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | 取走；m.: 毀滅者 = Śiva的別名 | [27](/zh/lektionen/lektion27#_27-5-) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | 取走；陽性： 毀滅者 = Śiva的別名 | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | 金髮，黃色，綠色；m. Viṣṇu的別名（不屬於詞根 1） | [27](/zh/lektionen/lektion27#_27-5-) |
-| ⟪हरिष्यति⟫ | 未來式： | — | br 被動語態： :br 過去分詞（PPP）： :br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu與Śiva合而為一的神格。 | [27](/zh/lektionen/lektion27#_27-5-) |
+| ⟪हरिष्यति⟫ | 未來式： | — | br 被動語態： :br 過去分詞（過去被動分詞）： :br 不定式： | [27](/zh/lektionen/lektion27#_27-5-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | 大象（_Elephas maximus_） | [38](/zh/lektionen/lektion38#_38-9-) |
 | ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | 持有，攜帶；取走，奪去，搶劫 | [27](/zh/lektionen/lektion27#_27-5-) |

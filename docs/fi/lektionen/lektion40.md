@@ -484,7 +484,6 @@ Kuv.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4003))
 :::
 
-:::
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (sanasta: ⟪तीर्थम्⟩+ ⟪कृ⟫): väylänrakentaja (katumuksen yli) = 24 jainan opettajaa
 :::

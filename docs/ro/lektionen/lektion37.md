@@ -185,7 +185,6 @@ Fig.: ⟪क्व⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3701))
 :::
 
-:::
 ::: grammar-box
 
 **Alte sufixe adverbiale**

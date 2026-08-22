@@ -44,9 +44,9 @@ Akhiran orang pertama (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ =
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikatif Presentis - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
-| **Imperfek - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Indikatif Presentis - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Imperfek - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Kelas Present Keenam (⟪तुदादि⟫)
@@ -95,7 +95,6 @@ Akhiran orang pertama (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ =
 
 ⟪ईक्ष्⟫ 1Ā
 
-:::
 ### 39.2.5. Pasif (Sufiks ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
@@ -137,7 +136,7 @@ Akhiran orang pertama (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ =
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Masa depan - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
+| **Masa depan - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
 ## 39.4. Pembentukan bentuk kata kerja orang pertama dari batang präsens athematis

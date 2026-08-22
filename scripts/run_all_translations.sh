@@ -31,7 +31,7 @@ print(top)
             continue
         fi
         echo "🎉 All languages are 100% completed with 0 fallbacks!"
-        python3 scripts/send_notification_email.py "Sanskritkurs: ALLE SPRACHEN FERTIG" "Alle Sprachen wurden zu 100% mit 0 Fallbacks fertiggestellt." 2>/dev/null || true
+
         break
     fi
 
@@ -86,7 +86,7 @@ print('1' if is_language_completed('$TOP_LANG') else '0')
 
         if [ "$IS_COMPLETED" -eq 1 ]; then
             echo "🎉 [COMPLETED] [$TOP_LANG] is 100% clean (136/136 files)!"
-            python3 scripts/send_notification_email.py "Sanskritkurs Fertiggestellt: $TOP_LANG (100% Sauber)" "Die Sprache [$TOP_LANG] wurde erfolgreich zu 100% vollständig und sauber übersetzt (136/136 Dateien, 0 Fallbacks). Dauer des letzten Durchlaufs: $ELAPSED_FMT." 2>/dev/null || true
+
         fi
     else
         echo "[$TOP_LANG] ⚠️ Error occurred. Retrying [$TOP_LANG] in 10 seconds..."

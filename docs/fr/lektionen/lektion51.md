@@ -10,103 +10,98 @@ status: stable
 
 # Leçon 51
 
-## 51.1. Composés ⟪upapada⟫
+## 51.1. ⟪उपपद⟫-Composés
 
 ::: grammar-box
-**⟪उपपद⟫-composés (⟪उपपद⟫ n. « mot d'accompagnement ») sont ⟪तत्पुरुष⟫ formés d'un nom verbal comme second membre, qui n'apparaît que comme second membre de composés, mais jamais comme mot autonome et isolé. ⟪उपपद⟫ sont formés avec les suffixes ⟪कृत्⟫**
+**Les ⟪उपपद⟫-Composés (⟪उपपद⟫ n. "mot accompagnant") sont des ⟪तत्पुरुष⟫ avec un nom verbal comme second membre, qui n'apparaît que comme second membre de composés et non pas en tant que mot autonome. ⟪उपपद⟫ sont formés avec les suffixes ⟪कृत्⟫**
 * **-Ø**
 * **-a**
 * **-t**
 
-**formés. Ce sont des noms d'agent, c'est-à-dire qu'ils désignent un agent (⟪कर्तृ⟫), qui accomplit l'action désignée par la racine sous-jacente.**
+**Ils sont des noms d'agent, c'est-à-dire qu'ils désignent un agent (⟪कर्तृ⟫) qui accomplit l'action désignée par la racine sous-jacente.**
 
 **De tels composés ne sont pas résolus par les commentateurs indigènes au moyen de combinaisons nominales, mais à l'aide de formes verbales :**
 
-Beispiele:
+Exemples :
 
 :::
 ::: indent
-⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
-
-⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
+⟪सुखकरः⟫ = ⟪सुखं करोतीति सुखकरः कुलघ्नः⟫ = ⟪कुलम्हन्तीति कुलघ्नः⟫
 :::
-Beispiele:
+Exemples :
 
-a) ⟪कृत्⟫-Suffix \-Ø
+a) Suffixe ⟪कृत्⟫ \-Ø
 
 ::: indent
-\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer")
+\-⟪नी⟫ 3 "conduisant" par ex. ⟪सेनानी⟫ m. "chef d'armée" (⟪सेना⟫ f. "armée")
 
-\-⟪भुज्⟫ 3 "genießend, essen" z.B. ⟪भूमिभुज्⟫ m. "König" (⟪भूमि⟫ f. "Erde")
+\-⟪भुज्⟫ 3 "dégustant, mangeant" par ex. ⟪भूमिभुज्⟫ m. "roi" (⟪भूमि⟫ f. "terre")
 
-\-⟪विद्⟫ 3 "wissend" z.B. ⟪धर्मविद्⟫  3 "den Dharma kennend"
+\-⟪विद्⟫ 3 "connaissant" par ex. ⟪धर्मविद्⟫ 3 "connaissant le Dharma"
 :::
 ::: media
 ![](/images/lekt5101.webp)
-Fig. : ⟪भूमिभुज्⟫
-⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
+Lég. : ⟪भूमिभुज् ज्ञानेन्द्र वीर बिक्रम शाह⟫, ⟪नेपालस्यान्तिमो राजा⟫ (2001 - 2008)
 (Source de l'image : [Détails](/fr/licenses#lekt5101))
 :::
-b) ⟪कृत्⟫-Suffix -t
+b) Suffixe ⟪कृत्⟫ -t
 
 ::: indent
-\-⟪कृत्⟫ 3 "machend" z. B.
+\-⟪कृत्⟫ 3 "faisant" par ex.
 
 :::
 ::: indent
-⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend"
+⟪कुलक्षयकृत्⟫ 3 "causant la destruction de la famille"
 
-⟪पापकृत्⟫ 3 "Böses tuend, Übeltäter"
+⟪पापकृत्⟫ 3 "faisant le mal, malfaiteur"
 :::
-\-⟪जित्⟫ 3 "besiegend", z. B.
+\-⟪जित्⟫ 3 "vainquant", par ex.
 
 ::: indent
-⟪शत्रुजित्⟫ 3 "die Feinde besiegend"
+⟪शत्रुजित्⟫ 3 "vainquant les ennemis"
 
-⟪पुरुजित्⟫ 3 "viele besiegend" (⟪पुरु⟫ 3 "viel, reichlich")
+⟪पुरुजित्⟫ 3 "vainquant beaucoup" (⟪पुरु⟫ 3 "beaucoup, abondamment")
 :::
-\-⟪भृत्⟫ 3 "tragend" z. B.  ⟪भूमिभृत्⟫ m. "König"
+\-⟪भृत्⟫ 3 "portant" par ex. ⟪भूमिभृत्⟫ m. "roi"
 ::: media
 ![](/images/lekt5103.webp)
-Fig. : ⟪पापकृत्⟫
-⟪भरतपुर⟫, ⟪राजस्थान⟫
+Fig. : ⟪पापकृत् भरतपुर⟫, ⟪राजस्थान⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5103))
 :::
-c) ⟪कृत्⟫-Suffix -a
+c) Suffix ⟪कृत्⟫ -a
 
 ::: indent
-\-⟪ग⟫ 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. ⟪खग⟫ 3 "fliegend" m. "Vogel, Wandelstern" (⟪ख⟫ n. "Loch, 'Luft'raum")
+\-⟪ग⟫ 3 "allant (dans, vers)" (probablement de la racine gā, forme profonde g + a) par ex. ⟪खग⟫ 3 "volant" m. "oiseau, planète" (⟪ख⟫ n. "trou, 'espace' aérien")
 
-\-⟪घ्न⟫ 3 "erschlagend" z.B. ⟪कुलघ⟫ 3 "Familie(n) tötend"
+\-⟪घ्न⟫ 3 "frappant" par ex. ⟪कुलघ⟫ 3 "tuant des familles"
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. ⟪आत्मज⟫ "Sohn"
+\-⟪ज⟫ 3 (jña » jā » forme profonde j + a) "descendant de, né dans" par ex. ⟪आत्मज⟫ "fils"
 
-\-⟪ज्ञ⟫ 3 "kundig" (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 "allwissend"
+\-⟪ज्ञ⟫ 3 "expert" (jñ-a) par ex. ⟪सर्वज्ञ⟫ 3 "omniscient"
 
-\-⟪द⟫ 3 "gebend" (d-a) z.B. ⟪वारिद⟫ m. "Wolke" (⟪वारि⟫ n. "Wasser")
+\-⟪द⟫ 3 "donnant" (d-a) par ex. ⟪वारिद⟫ m. "nuage" (⟪वारि⟫ n. "eau")
 
-\-⟪प⟫ 3 "trinkend" (p-a) z.B. ⟪द्विप⟫ m. "Elefant (zweimal trinkend)"
+\-⟪प⟫ 3 "buvant" (p-a) par ex. ⟪द्विप⟫ m. "éléphant (buvant deux fois)"
 
-\-⟪प⟫ 3 "schützend" (p-a) z.B. ⟪भूप⟫ "die Erde schützend = König"
+\-⟪प⟫ 3 "protégeant" (p-a) par ex. ⟪भूप⟫ "protégeant la terre = roi"
 
-\-⟪स्थ⟫ 3 "stehend in, befindlich in" (sth-a) z.B. ⟪गृहस्थ⟫ m. "Haushalter, Hausvater"
+\-⟪स्थ⟫ 3 "se tenant dans, se trouvant dans" (sth-a) par ex. ⟪गृहस्थ⟫ m. "intendant, père de famille"
 
-\-⟪कर⟫ 3 "bewirkend, tuend" z.B. ⟪सुखकर⟫ 3 "Glück verschaffend"
+\-⟪कर⟫ 3 "causant, faisant" par ex. ⟪सुखकर⟫ 3 "apportant le bonheur"
 
-\-⟪स्मर⟫ 3 « se souvenant » par ex. ⟪जातिस्मर⟫ 3 « se souvenant des naissances antérieures »
+\-⟪स्मर⟫ 3 "se souvenant" par ex. ⟪जातिस्मर⟫ 3 "se souvenant des naissances passées"
 :::
 ::: media
 ![](/images/lekt5102.webp)
-Fig. : ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
-⟪नेपाल⟫
+Fig. : ⟪द्विपो द्विर्पिबति⟫ : ⟪हस्तेन च मुखेन च नेपाल⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5102))
 :::
-## 51.2. Déclinaison des thèmes qui se terminent par une consonne simple (sauf nasale, semi-voyelle, -s)
+## 51.2. Déclinaison des thèmes se terminant par une consonne simple (sauf nasale, semi-voyelle, -s)
 
 ::: grammar-box
-**Les stems se terminant par une consonne simple (sauf nasale, semi-voyelle, -s) ne subissent aucune ablaut. La déclinaison s’effectue de manière entièrement régulière par l’ajout des désinences casuelles régulières.**
+**Les thèmes se terminant par une consonne simple (sauf nasale, semi-voyelle, -s) ne subissent aucune alternance de grade vocalique. La déclinaison s'effectue de manière tout à fait régulière par l'ajout des terminaisons casuelles régulières.**
 
-**Seule irrégularité : au nominatif, accusatif et vocatif pluriel neutre, une nasale est insérée avant la finale du stem.**
+**Seule irrégularité : au nominatif, accusatif et vocatif pluriel neutre, une nasale est insérée avant la terminaison du thème.**
 :::
 ### 51.2.1. Racines sur occlusives non palatales
 
@@ -319,38 +314,9 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: grammar-box
 **Devant un h- initial, une consonne occlusive précédente est remplacée par la non-aspirée sonore correspondante, et le h- initial est remplacé par l'aspirée sonore correspondant à cette occlusive :**
 
-:::
-::: indent
-⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि⟫
-
-⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
-
-⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::
-## 51.4. Sandhi von anlautendem ch-
-
-::: grammar-box
-**Le ch- initial est remplacé par cch- après une voyelle brève, après ⟪मा⟫ « non » et après ⟪आ⟫ « à » :**
+> **Les mammifères du monde de Walker** / Ronald M. Nowak. -- 6e éd. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
 
 :::
-::: indent
-⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
-:::
-## 51.5. -ch- im Wortinnern
-
-::: grammar-box
-**À l’intérieur des mots, -ch- est remplacé par -cch- après toutes les voyelles :**
-
-:::
-::: indent
-p. ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::
-## 51.6. Liste de mots
-
-⟪अजिन⟫ n. : peau d'antilope, en particulier la peau de l'antilope noire (Antilope cervicapra L. ). Originellement présent sur tout le sous-continent indien, du Pendjab et du Sind au Bengale et du Népal au Kanyakumari (Cap Comorin) (Tamil: கன்னியாகுமரி) Voir :
-
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193s.
-
 ::: media
 ![](/images/lekt5105.webp)
 Fig. :
@@ -358,14 +324,16 @@ Fig. :
 :::
 ⟪अतिथि⟫ m. : hôte
 
-⟪अभ्यन्तर⟫ 3 : situé à l'intérieur, le plus proche ; m. le membre le plus proche, l'autochtone
+⟪अभ्यन्तर⟫ 3 : situé à l'intérieur, le plus proche ; m. le parent le plus proche, l'autochtone
 
-⟪अरण्य⟫ n. : désert, forêt
+⟪अरण्य⟫ n. : wilderness, forêt
 
-⟪ऋतु⟫ m. : processus périodique, saison, période de temps, menstruation, période pendant laquelle la femme est féconde et a droit aux rapports sexuels avec son époux.
+⟪ऋतु⟫ m. : processus périodique, saison, période, menstruation, période pendant laquelle la femme est féconde et a droit aux rapports sexuels avec son mari.
 
 ::: note-box
-Pour ⟪ऋतु⟫ voir Manu III, 45-48 : après cela, ⟪ऋतु⟫ dure 16 jours (selon la traduction alternative : 20 jours) à partir du début des règles, les quatre premiers jours après le début des menstruations sont interdits aux rapports sexuels (selon la traduction alternative : les huit premiers jours (4 + 4)), ainsi que le 11e (ou 15e) et le 13e (ou 18e) jour. Les jours pairs, la femme conçoit des fils, les jours impairs, des filles. Pour la suite, on suppose un ⟪ऋतु⟫ total de 16 jours (pas la traduction alternative), comme le font la plupart des commentaires indigènes, et qui était donc l'opinion dominante.
+Pour ⟪ऋतु⟫, voir Manu III, 45-48 : selon cela, ⟪ऋतु⟫ dure 16 jours (selon la traduction alternative : 20 jours) à partir du début des règles ; les rapports sexuels sont interdits les quatre premiers jours suivant le début des règles (selon la traduction alternative : les huit premiers jours (4 + 4)), ainsi que le 11e (ou 15e) et le 13e (ou 18e) jour. Les femmes concevront des fils les jours pairs et des filles les jours impairs. Pour la suite, on suppose une ⟪ऋतु⟫ d'un total de 16 jours (pas la traduction alternative), comme le font la plupart des commentaires indigènes, ce qui était donc l'opinion dominante.
+
+L'ovulation ayant lieu 14 jours avant le début des règles, cette détermination de la période fertile garantit presque une fertilité pour un intervalle entre les règles de 19 à 30 jours. Les jours interdits (11e et 13e) améliorent la probabilité de rapports sexuels les 12e et 14e jours, c'est-à-dire la probabilité de conception lors d'un cycle de 28 jours (la durée de vie des spermatozoïdes chez la femme est d'environ 3 jours). Ces dispositions peuvent être considérées comme une application positive de la méthode Knaus-Ogino.
 
 Puisque l'ovulation a lieu 14 jours avant le début des règles, cette détermination de la période fertile garantit presque une "fécondité" garantie pour un intervalle entre les menstruations de 19 à 30 jours. Les jours interdits (11e et 13e) améliorent la probabilité de rapports sexuels les 12e et 14e jours, c'est-à-dire la probabilité de conception lors d'un cycle de 28 jours (la durée de vie des spermatozoïdes chez la femme est d'environ 3 jours). Ces dispositions sont comme une application positive de la méthode Knaus-Ogino.
 :::
@@ -611,4 +579,3 @@ Explication : -⟪अभिषेकौ⟫ Nom.Acc.Voc.Duel.masc. (Dualdvandva)
 ⟪४⟫. Commentaire de ⟪भानुचन्द्र⟫ (XVIe s.) sur le paragraphe précédent de la ⟪कादम्बरी⟫ (cet exercice devrait être traduit sous la direction d'un enseignant. Si un tel enseignant n'est pas disponible, on peut l'omettre)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
-

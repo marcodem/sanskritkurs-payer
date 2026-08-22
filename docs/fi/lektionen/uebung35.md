@@ -91,4 +91,3 @@ C) Muunna harjoituksen B) lauseet korvaamalla perfektit imperfekeillä:
 Kuv.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Kuv lähde: [Details](/licenses#uebung058))
 :::
-:::

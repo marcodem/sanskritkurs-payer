@@ -559,7 +559,7 @@ Wochenspruch
 
 ## [Lektion 43](lektion43)
 
-*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
+*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
 *   2\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
     *   2.1. Thematische Stämme
         *   2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)

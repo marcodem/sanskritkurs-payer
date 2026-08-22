@@ -119,11 +119,6 @@ self.addEventListener('message', (event) => {
           updated: Date.now()
         }), { headers: { 'Content-Type': 'application/json' }}))
       })
-      
-      // Cleanup stale entries for deactivated locales
-      cleanupInvalidatedCache(ACTIVE_LOCALES).then(count => {
-        console.log('[SW] Evicted', count, 'stale entries')
-      })
     }
   }
 })
@@ -351,76 +346,7 @@ self.addEventListener('message', async (event) => {
   })
 })
 
-// ============================================================
-// LOCALE URL FILTER
-// ============================================================
 
-/**
- * Decide whether a URL should be cached based on its locale.
- * Assets without locale prefix (CSS/JS/images/fonts/manifest) are always allowed.
- * Locale-prefixed URLs (/en/..., /it/..., etc.) only allowed if their locale is active.
- * DE root (no prefix) controlled by whether 'de' is in activeLocales.
- *
- * @param {URL} url
- * @param {string[]} activeLocales
- * @returns {boolean}
- */
-function isUrlAllowed(url, activeLocales) {
-  const pathname = url.pathname
-  
-  // Always allowed: root infrastructure assets
-  if (pathname === '/' ||
-      pathname === '/index.html' ||
-      pathname === '/offline.html' ||
-      pathname === '/manifest.json' ||
-      pathname === '/hashmap.json' ||
-      pathname.startsWith('/pwa-icons/') ||
-      pathname.startsWith('/assets/') ||
-      pathname.startsWith('/icons/')) {
-    return true
-  }
-  
-  // Always allowed: known binary asset extensions (shared across all locales)
-  if (pathname.match(/\.(css|js|woff2?|ttf|otf|png|jpe?g|gif|svg|webp|ico|mp3|wav|pdf)$/i)) {
-    return true
-  }
-  
-  // Root (DE) path without locale prefix
-  // Examples: /impressum, /lektion/01/, /settings, /grammatik
-  if (!pathname.match(/^\/[a-z]{2}(?:\/|$)/)) {
-    return activeLocales.includes('de')
-  }
-  
-  // Locale-prefixed path: /<locale>/...
-  const match = pathname.match(/^\/([a-z]{2})(?:\/|$)/)
-  if (!match) return true
-  
-  const locale = match[1]
-  return activeLocales.includes(locale)
-}
-
-/**
- * Remove cache entries for locales that are no longer active.
- * Returns the number of entries evicted.
- */
-async function cleanupInvalidatedCache(activeLocales) {
-  const cache = await caches.open(CACHE_NAME)
-  const requests = await cache.keys()
-  let evicted = 0
-  
-  for (const request of requests) {
-    // Skip our internal locales cache key
-    if (request.url === LOCALES_CACHE_KEY.url) continue
-    
-    const url = new URL(request.url)
-    if (!isUrlAllowed(url, activeLocales)) {
-      await cache.delete(request)
-      evicted++
-    }
-  }
-  
-  return evicted
-}
 
 // ============================================================
 // CACHING STRATEGIES
@@ -433,18 +359,12 @@ async function cleanupInvalidatedCache(activeLocales) {
 async function networkFirst(request) {
   const cache = await caches.open(CACHE_NAME)
   const url = new URL(request.url)
-  // shouldCache = "cachen bei erfolgreichem Netzwerk-Fetch"
-  // Bei Fehler wird IMMER Fallback versucht (auch für inaktive Locales),
-  // damit der User offline.html statt Chrome-Fehlerseite sieht.
-  const shouldCacheOnSuccess = isUrlAllowed(url, ACTIVE_LOCALES)
   
   try {
     const networkResponse = await fetch(request)
     
-    if (networkResponse.ok && shouldCacheOnSuccess) {
+    if (networkResponse.ok) {
       cache.put(request, networkResponse.clone())
-    } else if (!shouldCacheOnSuccess) {
-      console.log('[SW] Skipping cache for inactive locale:', url.pathname)
     }
     
     return networkResponse
@@ -480,20 +400,16 @@ async function networkFirst(request) {
  */
 async function cacheFirst(request) {
   const cache = await caches.open(CACHE_NAME)
-  const url = new URL(request.url)
-  const shouldCache = isUrlAllowed(url, ACTIVE_LOCALES)
   
-  if (shouldCache) {
-    const cachedResponse = await cache.match(request)
-    if (cachedResponse) {
-      return cachedResponse
-    }
+  const cachedResponse = await cache.match(request)
+  if (cachedResponse) {
+    return cachedResponse
   }
   
   try {
     const networkResponse = await fetch(request)
     
-    if (networkResponse.ok && shouldCache) {
+    if (networkResponse.ok) {
       cache.put(request, networkResponse.clone())
     }
     
@@ -513,17 +429,6 @@ async function cacheFirst(request) {
  */
 async function staleWhileRevalidate(request) {
   const cache = await caches.open(CACHE_NAME)
-  const url = new URL(request.url)
-  const shouldCache = isUrlAllowed(url, ACTIVE_LOCALES)
-  
-  if (!shouldCache) {
-    // Network-only for inactive locales
-    try {
-      return await fetch(request)
-    } catch {
-      return new Response('', { status: 404 })
-    }
-  }
   
   const cachedResponse = await cache.match(request)
   
@@ -599,18 +504,37 @@ async function autoEvictOnQuotaPressure() {
     console.log(`[SW] Storage pressure ${(usageRatio * 100).toFixed(1)}% — auto-evicting inactive locales`)
 
     const cache = await caches.open(CACHE_NAME)
-    // All known locales from lang-settings.js — hardcoded mirror
-    const ALL_KNOWN_LOCALES = ['de', 'en', 'it', 'bg', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro']
-    const inactiveLocales = ALL_KNOWN_LOCALES.filter(l => !ACTIVE_LOCALES.includes(l))
 
     const requests = await cache.keys()
     for (const request of requests) {
       if (request.url === LOCALES_CACHE_KEY.url) continue
       const url = new URL(request.url)
-      const m = url.pathname.match(/^\/([a-z]{2})(?:\/|$)/)
-      if (!m) continue
+      
+      // Protect infrastructure assets
+      if (['/', '/index.html', '/offline.html', '/manifest.json'].includes(url.pathname) ||
+          url.pathname.startsWith('/pwa-icons/') ||
+          url.pathname.startsWith('/assets/')) {
+        continue
+      }
+      
+      // Protect binary assets shared across locales
+      if (url.pathname.match(/\.(css|js|woff2?|ttf|otf|png|jpe?g|gif|svg|webp|ico|mp3|wav|pdf)$/i)) {
+        continue
+      }
+      
+      const m = url.pathname.match(/^\/([a-z]{2,3}(?:-[A-Z]{2})?)(?:\/|$)/)
+      
+      if (!m) {
+         // DE root path without prefix
+         if (!url.pathname.match(/^\/[a-z]{2}/) && !ACTIVE_LOCALES.includes('de')) {
+             await cache.delete(request)
+             evicted++
+         }
+         continue
+      }
+      
       const locale = m[1]
-      if (inactiveLocales.includes(locale)) {
+      if (!ACTIVE_LOCALES.includes(locale)) {
         await cache.delete(request)
         evicted++
       }

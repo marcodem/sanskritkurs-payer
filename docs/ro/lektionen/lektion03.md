@@ -1,76 +1,78 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: "Lecție 3"
+subtitle: "Nominativul singular al femininului"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lecția 3
+# Lecție 3
 
 ## 3.1. Nominativ singular al femininului
 
-### 3.1.1. Nominativul singular terminat în -s
+### 3.1.1. Nominativ singular în -s
 
-De asemenea, următoarele teme nominal care se termină cu o vocală, formează Nominativul Singular în **-s**:
+De asemenea, următoarele rădăcini nominale care se termină cu o vocală formează nominativul singular în **-s**:
 
 ::: grammar-box
-- **Feminina pe -i**: ex. **śruti** f. "ascultarea" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
-- **Feminina pe -u**: ex. **dhenu** f. "vacă de lapte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
+**Feminine în -i**: ex. **śruti** f. "ascultarea" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+**Feminine în -u**: ex. **dhenu** f. "vacă de lapte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
 ### 3.1.2. Nominativ singular fără sufix
 
 Nominativul singular se formează fără sufix:
 
 ::: grammar-box
-- **Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = ⟪देवी⟫
+**Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = ⟪देवता⟫
+**Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Atenție!** Există, de asemenea, substantive de rădăcină feminine monosilabice în -ī, ale căror nominativ singular se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează irregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**Atenție!** Există, de asemenea, substantive rădăcină feminine monosilabice în -ī ale căror nominative singulare se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează în mod neregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Formarea femininelor la masculine
+## 3.2. Formarea femininelor din masculine
 
 ::: grammar-box
 **Masculine în -a:**
-- **Feminin în -ā**: ex. **kṣatriya** m. » **kṣatriyā** f. „femeie Kṣatriya” = ⟪क्षत्रिया⟫
-- **Feminin în -ī**: ex. **brāhmaṇa** m. » **brāhmaṇī** f. „Brahmană” = ⟪ब्राह्मणी⟫
+**Feminin în -ā**: ex. **kṣatriya** m. » **kṣatriyā** f. "soția kșatryei" = ⟪क्षत्रिया⟫
+**Feminin în -ī**: ex. **brāhmaṇa** m. » **brāhmaṇī** f. "brahmană" = ⟪ब्राह्मणी⟫
 
 **Masculine în -u:**
-- **Feminin în -ī**: ex. **sādhu** m. » **sādhvī** f. (bun, sfânt) = ⟪साध्वी⟫
-  (**-u-** devine **-v-** înainte de vocală, prin urmare **-u- + -ī** » **-vī**)
+**Feminin în -ī**: ex. **sādhu** m. » **sādhvī** f. (bun, sfânt) = ⟪साध्वी⟫
+(**-u-** devine **-v-** înainte de vocală, prin urmare **-u- + -ī** » **-vī**)
 :::
 
 ## 3.3. Nominativ plural masculin și feminin
 
 ::: grammar-box
 Sufixul nominativului plural la masculin și feminin este **-as**.
-- **Masculine în -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Feminine în -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Masculine în -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Feminine în -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Feminine în -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Masculine în -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Feminine în -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+**Masculine în -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+**Feminine în -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+**Masculine în -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+**Feminine în -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+**Feminine în -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+**Masculine în -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+**Feminine în -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
+Notă: **e** este nivelul superior (**guṇa**) pentru **i**, **o** este nivelul superior pentru **u**.
+
 
 ## 3.4. Sandhi vocalic
 
 ::: grammar-box
-**Vocale simple care nu se deosebesc sau doar în lungime, „se contopesc” în corespunzătorul vocal lung:**
-- -a / -ā + a- / ā- » **-ā-**
-- -i / -ī + i- / ī- » **-ī-**
-- -u / -ū + u- / ū- » **-ū-**
-- (-ṛ + ṛ- » **-ṝ-**)
+**Vocalele simple care nu diferă sau doar prin lungime se „fuzionează” în vocala lungă corespunzătoare:**
+a / -ā + a- / ā- » **-ā-**
+i / -ī + i- / ī- » **-ī-**
+u / -ū + u- / ū- » **-ū-**
+(-ṛ + ṛ- » **-ṝ-**)
 :::
 de ex.
 
 devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇā este o zeitate” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā este zeița mâncării și a gătitului, ea este considerată o întruchipare a Pārvatī, soția lui Śiva.)
+> (Annapūrṇā este zeița mâncării și a gătitului, fiind considerată o întrupare a Pārvatī, soția lui Śiva.)
 
 devī + indrāṇī » devīndrāṇī „Indrāṇī este o zeiță” = ⟪देवीन्द्राणी⟫
 
@@ -83,11 +85,11 @@ Fig.: Indra și Indrāṇī pe elefantul Airavata, miniatură, Rājasthān, 1670
 :::
 
 ::: grammar-box
-**Vocale simple (în afară de -a / -ā) sunt înlocuite, în fața unor vocale neasemănătoare, cu corespunzătorul semivocal:**
-- -i / -ī » **-y-**
-- -u / -ū » **-v-**
-- -ṛ » **-r-**
-(!! Există excepții pentru această regulă, în special pentru formele de dual !!)
+**Vocalele simple (cu excepția -a / -ā) sunt înlocuite, înainte de vocale diferite, cu semivocala corespunzătoare:**
+i / -ī » **-y-**
+u / -ū » **-v-**
+ṛ » **-r-**
+(!! Pentru această regulă există excepții, în special pentru formele duale !!)
 :::
 de ex.
 
@@ -96,73 +98,75 @@ devī + umā » devy umā „Umā este o / zeița” = ⟪देव्युम�
 > (Umā este un nume pentru Pārvatī, soția lui Śiva)
 
 ::: grammar-box
-**-a / -ā în fața unui vocal neasemănător:**
-- -a / -ā + i- / ī- » **-e-**
-- -a / -ā + ṛ- » **-ar-**
-- -a / -ā + e- / ai- » **-ai-**
-- -a / -ā + o- / au- » **-au-**
+**-a / -ā înainte de o vocală diferită:**
+a / -ā + i- / ī- » **-e-**
+a / -ā + ṛ- » **-ar-**
+a / -ā + e- / ai- » **-ai-**
+a / -ā + o- / au- » **-au-**
 :::
-Pentru acest tip de sandhi se aplică următorul model:
+Pentru acest sandhi se aplică următorul model:
 
 ::: media
 ![](/images/lekt0302.jpg)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0302))
 :::
-Referitor la această așa-numită inflexiune a temei, vezi mai târziu!
+A seama cu această așa-numită ierarhie a clanurilor mai târziu!
 
 de ex.
 
-śūdrā + itarā » śudretarā „Itarā este o femeie śūdrā” = ⟪शूद्रेतरा⟫
+śūdrā + itarā » śudretarā "Itara este o femeie Śūdra" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi de -ās
+
+## 3.5. Satzsandhi pentru -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās este înlocuit de -ā înainte de toate sunetele sonore.**
 :::
-de exemplu
+de ex.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = ⟪द्विजा⟫ ⟪वैश्याः⟫
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyas sunt cei născuți de două ori" = ⟪द्विजा वैश्याः⟫
+
 
 ## 3.6. Listă de cuvinte
 
 **Învățați următoarele cuvinte:**
 
-**śruti** f. = ⟪श्रुति⟫ : auzul, tradiția veșnică (denumire pentru Vede și Brāhmaṇa's).
+**śruti** f. = ⟪श्रुति⟫ : auzirea, tradiția veșnică (denumire pentru Vede și Brāhmaṇa).
 
-**smṛti** f. = ⟪स्मृति⟫ : actualizare, amintire, actualizare meditativă = atenție, tradiție (concept opus lui **śruti**). Include:
-- cele șase **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): pronunția corectă
-  2. **chandas** n. (⟪छन्दस्⟫): metru
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramatică
-  4. **nirukta** n. (⟪निरुक्त⟫) : explicație a cuvintelor, etimologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomie, învățământ despre calendar
-  6. **kalpa** m. (⟪कल्प⟫) : ceremonial
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : lucrări didactice pentru realizarea marilor jertfe
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : lucrări didactice pentru ceremoniile și jertfele vieții de zi cu zi
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) și **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : lucrări didactice despre drept și uzanță (comportament corect)
-- marile epopei **mahābhārata** n. (⟪महाभारत⟫) și **rāmāyaṇa** n. (⟪रामायण⟫)
-- **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : lucrări didactice despre înțelepciunea vieții
+**smṛti** f. = ⟪स्मृति⟫ : reamintire, memorie, reamintire meditativă = atenție, tradiție (concept opus lui **śruti**). Include:
+cele șase **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): pronunția corectă
+2. **chandas** n. (⟪छन्दस्⟫): metru
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): gramatică
+4. **nirukta** n. (⟪निरुक्त⟫) : explicația cuvintelor, etimologie
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomie, învățătură despre calendar
+6. **kalpa** m. (⟪कल्प⟫) : ceremonial
+**śrautasūtra** n. (⟪श्रौतसूत्र⟫) : lucrări didactice pentru îndeplinirea jertfelor mari
+**gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : lucrări didactice pentru ceremoniile și jertfele vieții de zi cu zi
+**dharmasūtra** n. (⟪धर्मसूत्र⟫) și **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : lucrări didactice despre drept și obicei (comportament corect)
+marile epopei **mahābhārata** n. (⟪महाभारत⟫) și **rāmāyaṇa** n. (⟪रामायण⟫)
+**purāṇa** n. (⟪पुराण⟫)
+**nītiśāstra** n. (⟪नीतिशास्त्र⟫) : lucrări didactice despre înțelepciunea vieții
 
-**smṛti** este, de asemenea, în special denumirea pentru lucrările didactice despre Dharma.
+**smṛti** este de asemenea o denumire specială pentru lucrările didactice despre Dharma.
 
-**dhenu** f. = ⟪धेनु⟫ : (vacă de lapte).
+**dhenu** f. = ⟪धेनु⟫ : vacă (de lapte).
 
-**paśu** m. = ⟪पशु⟫ : animal domesticic de utilitate, vită (colectiv).
+**paśu** m. = ⟪पशु⟫ : animal domesticat, vite (colectiv).
 
-**devatā** f. = ⟪देवता⟫ : divinitate (abstract și concret).
+**devatā** f. = ⟪देवता⟫ : zeitate (abstract și concret).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brahmană.
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : brāhmaṇī.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya de sex feminin.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriyă.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : soția unui kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : soție de kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : vaiśya de sex feminin.
+**vaiśyā** f. = ⟪वैश्या⟫ : vaiśyă.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : śūdră de sex feminin.
+**śūdrā** f. = ⟪शूद्रा⟫ : śūdră.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : soția unui śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : soție de śūdra.
 
 **devī** f. = ⟪देवी⟫ : zeiță, în special Durgā f. = ⟪दुर्गा⟫, soția lui Śiva = ⟪शिव⟫.
 
@@ -175,32 +179,33 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **gurvī** f. = ⟪गुर्वी⟫ : fem. pentru guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "euitate", adică credința (falsă): **Eu** sunt cel care vede etc.
+**asmitā** f. = ⟪अस्मिता⟫ : "egoitate", adică credința (greșită): **Eu** sunt cel care vede etc.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofie (știința care ajunge la concluziile sale prin argumente logic corecte).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filozofie (știința care ajunge la concluziile sale prin raționamente logic corecte).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : neasociere, echilibru.
+**upekṣā** f. = ⟪उपेक्षा⟫ : neglijare, impasibilitate.
 
 **karuṇā** f. = ⟪करुणा⟫ : compasiune, milă.
 
-**muditā** f. = ⟪मुदिता⟫ : bucurie, în special bucurie empatică (opusul invidiei).
+**muditā** f. = ⟪मुदिता⟫ : bucurie, în special bucuria altruistă (opus invidiei).
 
-## 3.7. Exerciiu
 
-**A) Pluralizați următoarele propoziții:**
+## 3.7. Exerciții
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+**A) Transformați următoarele propoziții la plural:**
+
+1. dvijo brāhmaṇaḥ = ⟪द्विजो ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो वैश्यः⟫
 4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता गुरुः⟫
 9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
+10. gurvī sādhvī = ⟪गुर्वी साध्वी⟫
 
-**B) Formați propoziții nominale prin inserare:**
+**B) Formați propoziții nominale prin completare:**
 
 1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
@@ -212,15 +217,15 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः साधुः⟫
 
-**D) Traduceți în sanscrită:**
+**D) Traducere în sanscrită:**
 
 1. Umā este o zeiță.
 2. Veda este śruti.
-3. Profesoarele sunt zeițe.
-4. Vacile de lapte sunt animale domesticite.
-5. Poeții sunt profesori.
-6. Kṣatriyas sunt de două ori născuți.
-7. Bărbații sacri sunt Śūdras.
+3. Învățătoarele sunt zeițe.
+4. Vacile de lapte sunt animale domestice.
+5. Poeții sunt învățători.
+6. Kṣatriyas sunt cei născuți de două ori.
+7. Oamenii sacri sunt Śūdras.
 

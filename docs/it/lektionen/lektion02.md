@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- &lt;!--  --&gt;
+---
 
 # Lezione 2
 
@@ -72,7 +72,7 @@ La finale di una parola in sanscrito è determinata anche dall'inizio della paro
 
 Vedi anche la panoramica:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi di finale -s. -- (Materiali per il sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \<1944 - \>:** Sandhi di finale -s. -- (Materiali per il sanscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Uscita **-s**:
 
@@ -160,7 +160,7 @@ Fig.: Rappresentazione della divisione in ordini del Medioevo europeo (xilografi
 
 I tre ordini indossano l'abito specifico del rispettivo ordine. Sopra di essi – definiti così come voluti da Dio – troneggia Cristo.
 
-Max Weber \&lt;1864 – 1920\&gt; definisce "ordine" così:
+Max Weber \<1864 – 1920\> definisce "ordine" così:
 
 ::: note-box
 "**Ordine**" dovrebbe indicare una moltitudine di persone che, all'interno di un'associazione,
@@ -180,7 +180,7 @@ Mentre le classi di guadagno crescono sulla base dell'economia orientata al merc
 
 Ogni società di ordini è convenzionale, ordinata da regole di stile di vita, crea quindi condizioni di consumo economicamente irrazionali e ostacola in questo modo, attraverso appropriazioni monopolistiche e l'esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Economia e società : abbozzo di sociologia comprensiva. – 5ª ed. riveduta. – Tubinga : Mohr, 1976. – P. 625 s.]
+[**Weber, Max \<1864 – 1920\>:** Economia e società : abbozzo di sociologia comprensiva. – 5ª ed. riveduta. – Tubinga : Mohr, 1976. – P. 625 s.]
 :::
 I Varṇa sono quindi ordini di nascita.
 

@@ -44,9 +44,9 @@ Ensimmäisen persoonan päätteet (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikatiivi preesens - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
-| **Imperfekti - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optatiivi - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Indikatiivi preesens - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Imperfekti - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
+| **Optatiivi - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Kuudes preesensluokka (⟪तुदादि⟫)
@@ -93,7 +93,6 @@ Ensimmäisen persoonan päätteet (:sig[⟪तृतीयः⟫] ⟪पुर�
 :::
 ### 39.2.5. Passiivi (liiteosa ⟪यक्⟫)
 
-:::
 ### 39.2.5. Passiivi (päätteellä ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
@@ -135,7 +134,7 @@ Ensimmäisen persoonan päätteet (:sig[⟪तृतीयः⟫] ⟪पुर�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Tulevaisuuden aikamuoto - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
+| **Tulevaisuuden aikamuoto - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
 ## 39.4. Athemaattisten preesensvartalojen ensimmäisen persoonan verbimuotojen muodostaminen

@@ -2,32 +2,34 @@
 layout: home
 
 hero:
-  name: Sanskritkurs
-  text: Ein vollständiger Lehrgang
-  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
+  name: "Sanskrito-cursus"
+  text: "Een volledige lessenreeks"
+  tagline: "van Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
-      text: Kurs Starten
+      text: "Cursus starten"
       link: /nl/lektionen/lektion01
     - theme: alt
-      text: Grammatik Themen
+      text: "Grammatica-onderwerpen"
       link: /nl/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+  - title: "Wereldwijd & Polyglot"
+    details: "Volledig beschikbaar in 20+ talen door een geautomatiseerde, meerlagige AI-vertalingstrap."
+  - title: "Offline-first PWA"
+    details: "De volledige cursus (inclusief lokale zoekmachine) is op alle apparaten beschikbaar zonder actieve internetverbinding."
+  - title: "Wetenschappelijke typografie"
+    details: "Native ondersteuning voor Devanāgarī en IAST-transliteratie met exacte academische tekstuitlijning."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+De **Sanskritcursus** van Alois Payer is een uitgebreide, wetenschappelijk onderbouwde cursus voor het leren van de Sanskriet-taal en het Devanāgarī-schrift. Deze digitale editie presenteert de volledige cursus in een moderne, meertalige en doorzoekbare leesomgeving.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+De talen zijn volledig automatisch vertaald uit het Duits met behulp van een meerlagige AI-kaskade. Feedback betreffende vertaalfouten is zeer welkom.
+
+**Contact & Bijdrage**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Redacteuren**: Online-editor beschikbaar voor auteurs ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternatief: Standalone Markdown-editor [Zentauri](https://github.com/marcodem/zentauri)
+**Huidige versie**: v1.7.0
 :::

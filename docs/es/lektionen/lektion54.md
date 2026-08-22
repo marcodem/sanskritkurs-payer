@@ -274,7 +274,7 @@ Traduzca por escrito las siguientes formas y forme las correspondientes formas d
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5401))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 

@@ -65,4 +65,3 @@ Vihollinen, et pilko miekalla sielua (elämää).
 Kuv.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung074))
 :::
-:::

@@ -4,105 +4,105 @@ outline: [2, 3]
 
 ---
 
-# Grammatik Themen
+# Θέματα Γραμματικής
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+Αυτή η σελίδα παρέχει μια συστηματική επισκόπηση όλων των γραμματικών θεμάτων του μαθήματος Σανσκριτικού. Κάθε μία από τις 61 ενότητες ταξινομείται εδώ θεματικά.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Φωνητική & Γραφή (Saṃhitā & Lipi)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -\> [Lektion 1](/grc/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -\> [Lektion 40](/grc/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -\> [Lektion 41](/grc/lektionen/lektion41) & [Lektion 42](/grc/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -\> [Lektion 2](/grc/lektionen/lektion02), [Lektion 3](/grc/lektionen/lektion03), [Lektion 30](/grc/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -\> [Lektion 4](/grc/lektionen/lektion04)
-    *   **Vokalsandhi** -\> [Lektion 3](/grc/lektionen/lektion03), [Lektion 24](/grc/lektionen/lektion24)
-    *   Sandhi von **-n** -\> [Lektion 7](/grc/lektionen/lektion07)
-    *   Sandhi für **Nasale** -\> [Lektion 21](/grc/lektionen/lektion21), [Lektion 26](/grc/lektionen/lektion26)
-    *   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/grc/lektionen/lektion10), [Lektion 26](/grc/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -\> [Lektion 44](/grc/lektionen/lektion44), [Lektion 51](/grc/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -\> [Lektion 16](/grc/lektionen/lektion16), [Lektion 43](/grc/lektionen/lektion43)
+*   **Εισαγωγή στους ήχους**: Συστηματική και προφορά -\> [Ενότητα 1](/grc/lektionen/lektion01)
+*   **Εισαγωγή στη γραφή (Devanāgarī)**:
+*   Φωνήεντα και απλοί σύμφωνοι -\> [Ενότητα 40](/grc/lektionen/lektion40)
+*   Συνδυασμένοι σύμφωνοι (ligatures) -\> [Ενότητα 41](/grc/lektionen/lektion41) & [Ενότητα 42](/grc/lektionen/lektion42)
+*   **Sandhi (σύνδεση ήχων)**:
+*   Sandhi τελικού **-s/Visarga** -\> [Ενότητα 2](/grc/lektionen/lektion02), [Ενότητα 3](/grc/lektionen/lektion03), [Ενότητα 30](/grc/lektionen/lektion30)
+*   Sandhi **-m, -e, -d** -\> [Ενότητα 4](/grc/lektionen/lektion04)
+*   **Φωνήεντο Sandhi** -\> [Ενότητα 3](/grc/lektionen/lektion03), [Ενότητα 24](/grc/lektionen/lektion24)
+*   Sandhi **-n** -\> [Ενότητα 7](/grc/lektionen/lektion07)
+*   Sandhi για **nasals** -\> [Ενότητα 21](/grc/lektionen/lektion21), [Ενότητα 26](/grc/lektionen/lektion26)
+*   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Ενότητα 10](/grc/lektionen/lektion10), [Ενότητα 26](/grc/lektionen/lektion26)
+*   Sandhi λέξης (h-, ch-) -\> [Ενότητα 44](/grc/lektionen/lektion44), [Ενότητα 51](/grc/lektionen/lektion51)
+*   **Sandhi συμφώνων** (συναγωγές) -\> [Ενότητα 16](/grc/lektionen/lektion16), [Ενότητα 43](/grc/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Λεξιλογία (Μορφολογία)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Ουσιαστικά και επίθετα (Κλίση)
 
-*   **Grundlagen**: Kasuslehre -\> [Lektion 1](/grc/lektionen/lektion01), [Lektion 2](/grc/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -\> [Lektion 2](/grc/lektionen/lektion02), [Lektion 7](/grc/lektionen/lektion07)
-*   **I- und U-Stämme** -\> [Lektion 3](/grc/lektionen/lektion03), [Lektion 27](/grc/lektionen/lektion27), [Lektion 52](/grc/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -\> [Lektion 13](/grc/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -\> [Lektion 38](/grc/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -\> [Lektion 51](/grc/lektionen/lektion51), [Lektion 54](/grc/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -\> [Lektion 61](/grc/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -\> [Lektion 49](/grc/lektionen/lektion49), [Lektion 50](/grc/lektionen/lektion50), [Lektion 53](/grc/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -\> [Lektion 52](/grc/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -\> [Lektion 53](/grc/lektionen/lektion53)
+*   **Θεμελιώδη**: Διδασκαλία πτώσεων -\> [Μάθημα 1](/grc/lektionen/lektion01), [Μάθημα 2](/grc/lektionen/lektion02)
+*   **Α-ρίζες** (Άρρεν & Ουδέτερο) -\> [Μάθημα 2](/grc/lektionen/lektion02), [Μάθημα 7](/grc/lektionen/lektion07)
+*   **Ι- και Υ-ρίζες** -\> [Μάθημα 3](/grc/lektionen/lektion03), [Μάθημα 27](/grc/lektionen/lektion27), [Μάθημα 52](/grc/lektionen/lektion52)
+*   **Συνθετικές ρίζες**:
+*   Ρίζες με **-mant / -vant** -\> [Μάθημα 13](/grc/lektionen/lektion13)
+*   Ρίζες με **-n** (Rājan, Ātman) -\> [Μάθημα 38](/grc/lektionen/lektion38)
+*   Απλές συνθετικές ρίζες -\> [Μάθημα 51](/grc/lektionen/lektion51), [Μάθημα 54](/grc/lektionen/lektion54)
+*   Ριζικά ουσιαστικά με **-ā, -ī, -ū** -\> [Μάθημα 61](/grc/lektionen/lektion61)
+*   **Δυϊκός αριθμός** των ουσιαστικών -\> [Μάθημα 49](/grc/lektionen/lektion49), [Μάθημα 50](/grc/lektionen/lektion50), [Μάθημα 53](/grc/lektionen/lektion53)
+*   **Αριθμοί & Κλίση**:
+*   Αριθμητικά (Κάρδιναλια/Ορδινάλια) -\> [Μάθημα 52](/grc/lektionen/lektion52)
+*   Κλίση (Συγκριτικός/Υπερθετικός) -\> [Μάθημα 53](/grc/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Αντωνυμίες & Επίρρηματα
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -\> [Lektion 4](/grc/lektionen/lektion04)
-    *   Relativpronomen (yad) -\> [Lektion 19](/grc/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -\> [Lektion 46](/grc/lektionen/lektion46), [Lektion 47](/grc/lektionen/lektion47)
-    *   Indefinitpronomina -\> [Lektion 37](/grc/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -\> [Lektion 37](/grc/lektionen/lektion37), [Lektion 52](/grc/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -\> [Lektion 21](/grc/lektionen/lektion21), [Lektion 44](/grc/lektionen/lektion44)
+*   **Αντωνυμίες**:
+*   Ερωτηματικές & Αποδεικτικές αντωνυμίες -\> [Μάθημα 4](/grc/lektionen/lektion04)
+*   Σχέτικές αντωνυμίες (yad) -\> [Μάθημα 19](/grc/lektionen/lektion19)
+*   Προσωπικές αντωνυμίες (1. & 2. πρόσωπο) -\> [Μάθημα 46](/grc/lektionen/lektion46), [Μάθημα 47](/grc/lektionen/lektion47)
+*   Απροσδιόριστες αντωνυμίες -\> [Μάθημα 37](/grc/lektionen/lektion37)
+*   **Επίρρηματα & Προσφωνήσεις**:
+*   Σύνταξη επιρρημάτων -\> [Μάθημα 37](/grc/lektionen/lektion37), [Μάθημα 52](/grc/lektionen/lektion52)
+*   Ευγενικές προσφωνήσεις & Κλητική -\> [Μάθημα 21](/grc/lektionen/lektion21), [Μάθημα 44](/grc/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Ρήματα (Κατακλίσεις)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -\> [Lektion 6](/grc/lektionen/lektion06), [Lektion 44](/grc/lektionen/lektion44), [Lektion 39](/grc/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -\> [Lektion 6](/grc/lektionen/lektion06), [Lektion 28](/grc/lektionen/lektion28)
-    *   Athematische Klassen -\> [Lektion 17](/grc/lektionen/lektion17), [Lektion 33](/grc/lektionen/lektion33), [Lektion 7](/grc/lektionen/lektion07), [Lektion 31](/grc/lektionen/lektion31), [Lektion 8](/grc/lektionen/lektion08), [Lektion 30](/grc/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -\> [Lektion 32](/grc/lektionen/lektion32)
-    *   **Optativ & Imperativ** -\> [Lektion 30](/grc/lektionen/lektion30), [Lektion 48](/grc/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -\> [Lektion 34](/grc/lektionen/lektion34), [Lektion 35](/grc/lektionen/lektion35), [Lektion 36](/grc/lektionen/lektion36)
-    *   **Perfekt (Dual)** -\> [Lektion 60](/grc/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -\> [Lektion 26](/grc/lektionen/lektion26), [Lektion 61](/grc/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -\> [Lektion 54](/grc/lektionen/lektion54), [Lektion 55](/grc/lektionen/lektion55), [Lektion 56](/grc/lektionen/lektion56), [Lektion 57](/grc/lektionen/lektion57), [Lektion 58](/grc/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -\> [Lektion 10](/grc/lektionen/lektion10), [Lektion 28](/grc/lektionen/lektion28), [Lektion 29](/grc/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -\> [Lektion 61](/grc/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -\> [Lektion 59](/grc/lektionen/lektion59), [Lektion 60](/grc/lektionen/lektion60)
+*   **Το σύστημα του Ενεστώτα (Οριστική)**:
+*   Προσωπικές καταλήξεις (3η, 2η, 1η πρόσωπο) -\> [Μάθημα 6](/grc/lektionen/lektion06), [Μάθημα 44](/grc/lektionen/lektion44), [Μάθημα 39](/grc/lektionen/lektion39)
+*   Θεματικές τάξεις (1, 4, 6, 10) -\> [Μάθημα 6](/grc/lektionen/lektion06), [Μάθημα 28](/grc/lektionen/lektion28)
+*   Αθεματικές τάξεις -\> [Μάθημα 17](/grc/lektionen/lektion17), [Μάθημα 33](/grc/lektionen/lektion33), [Μάθημα 7](/grc/lektionen/lektion07), [Μάθημα 31](/grc/lektionen/lektion31), [Μάθημα 8](/grc/lektionen/lektion08), [Μάθημα 30](/grc/lektionen/lektion30)
+*   **Άλλοι Χρόνοι & Τρόποι**:
+*   **Παρατατικός** (Παρελθόν) -\> [Μάθημα 32](/grc/lektionen/lektion32)
+*   **Υποτακτική & Ευκτική** -\> [Μάθημα 30](/grc/lektionen/lektion30), [Μάθημα 48](/grc/lektionen/lektion48)
+*   **Παρακείμενος** (Ενικός/Πληθυντικός) -\> [Μάθημα 34](/grc/lektionen/lektion34), [Μάθημα 35](/grc/lektionen/lektion35), [Μάθημα 36](/grc/lektionen/lektion36)
+*   **Παρακείμενος (Δυϊκός)** -\> [Μάθημα 60](/grc/lektionen/lektion60)
+*   **Μέλλοντας** (Απλός & Περιφραστικός) -\> [Μάθημα 26](/grc/lektionen/lektion26), [Μάθημα 61](/grc/lektionen/lektion61)
+*   **Αόριστος** (Παρελθόν) -\> [Μάθημα 54](/grc/lektionen/lektion54), [Μάθημα 55](/grc/lektionen/lektion55), [Μάθημα 56](/grc/lektionen/lektion56), [Μάθημα 57](/grc/lektionen/lektion57), [Μάθημα 58](/grc/lektionen/lektion58)
+*   **Παράγωγα ρηματικά σχήματα**:
+*   **Παθητικό & Αιτιατικό** -\> [Μάθημα 10](/grc/lektionen/lektion10), [Μάθημα 28](/grc/lektionen/lektion28), [Μάθημα 29](/grc/lektionen/lektion29)
+*   **Εντατικό & Παραγωγικά** -\> [Μάθημα 61](/grc/lektionen/lektion61)
+*   **Ρήματα στον Δυϊκό (Διπλή πληθυντικότητα)** -\> [Μάθημα 59](/grc/lektionen/lektion59), [Μάθημα 60](/grc/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Ονοματοποιίαι & Συνθετικά
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/grc/lektionen/lektion05), [Lektion 9](/grc/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/grc/lektionen/lektion15), [Lektion 18](/grc/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/grc/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/grc/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/grc/lektionen/lektion08), [Lektion 9](/grc/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/grc/lektionen/lektion12), [Lektion 13](/grc/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/grc/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/grc/lektionen/lektion22), [Lektion 23](/grc/lektionen/lektion23)
+*   **Συνθετικά (Samāsa)**:
+*   **Dvandva** (Συντακτικό Συνθετικόν) -\> [Μάθημα 5](/grc/lektionen/lektion05), [Μάθημα 9](/grc/lektionen/lektion09)
+*   **Tatpuruṣa** (Καθοριστικόν) -\> [Μάθημα 15](/grc/lektionen/lektion15), [Μάθημα 18](/grc/lektionen/lektion18)
+*   Upapada-Syntheticum -\> [Μάθημα 51](/grc/lektionen/lektion51)
+*   **Bahuvrīhi** (Κτητικόν) -\> [Μάθημα 20](/grc/lektionen/lektion20)
+*   **Καταλήξεις & Μετοχαί**:
+*   Σημαντικαὶ κατάληξεις (-a, -ana, -tra, κτλ.) -\> [Μάθημα 8](/grc/lektionen/lektion08), [Μάθημα 9](/grc/lektionen/lektion09)
+*   **PPP** (Μετοχὴ Παρακειμένου Παθητικοῦ) -\> [Μάθημα 12](/grc/lektionen/lektion12), [Μάθημα 13](/grc/lektionen/lektion13)
+*   **PPA** (Μετοχὴ Παρακειμένου Ἐνεργητικοῦ) -\> [Μάθημα 52](/grc/lektionen/lektion52)
+*   **Ἀπόλυτον & Ἐπαίνος** -\> [Μάθημα 22](/grc/lektionen/lektion22), [Μάθημα 23](/grc/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Ἡ τῶν Προτάσεων Δομή (Σύνταξις)
 
-*   **Der Nominalsatz** -\> [Lektion 2](/grc/lektionen/lektion02)
-*   **Der Fragesatz** -\> [Lektion 37](/grc/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -\> [Lektion 2](/grc/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -\> [Lektion 7](/grc/lektionen/lektion07), [Lektion 11](/grc/lektionen/lektion11)
-    *   Instrumentalis -\> [Lektion 10](/grc/lektionen/lektion10)
-    *   Genitiv -\> [Lektion 14](/grc/lektionen/lektion14)
-    *   Dativ -\> [Lektion 24](/grc/lektionen/lektion24)
-    *   Ablativ -\> [Lektion 25](/grc/lektionen/lektion25)
-    *   Lokativ -\> [Lektion 27](/grc/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -\> [Lektion 19](/grc/lektionen/lektion19)
-    *   Gebrauch der Partizipien -\> [Lektion 12](/grc/lektionen/lektion12), [Lektion 44](/grc/lektionen/lektion44)
+*   **Ἡ ὀνοματικὴ πρότασις** -\> [Μάθημα 2](/grc/lektionen/lektion02)
+*   **Ἡ ἐρωτηματικὴ πρότασις** -\> [Μάθημα 37](/grc/lektionen/lektion37)
+*   **Ἡ τῶν πτώσεων χρῆσις**:
+*   Ὀνοματικὴ πρότασις & Νεομηνία -\> [Μάθημα 2](/grc/lektionen/lektion02)
+*   Αἰτιατικὴ (καὶ διπλῆ) -\> [Μάθημα 7](/grc/lektionen/lektion07), [Μάθημα 11](/grc/lektionen/lektion11)
+*   Ὀργανικὴ -\> [Μάθημα 10](/grc/lektionen/lektion10)
+*   Γενικὴ -\> [Μάθημα 14](/grc/lektionen/lektion14)
+*   Δακτυλικὴ -\> [Μάθημα 24](/grc/lektionen/lektion24)
+*   Ἀποβολή -\> [Μάθημα 25](/grc/lektionen/lektion25)
+*   Τοπικὴ -\> [Μάθημα 27](/grc/lektionen/lektion27)
+*   **Ἐπίθετοι πρότασεις**:
+*   Σχολιαστικαὶ πρότασεις -\> [Μάθημα 19](/grc/lektionen/lektion19)
+*   Χρῆσις τῶν μετοχῶν -\> [Μάθημα 12](/grc/lektionen/lektion12), [Μάθημα 44](/grc/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Μετρική (Σωματολογία)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Η Σανσκριτική Φιλοσοφία και η Λογοτεχνία συχνά συντάσσονται σε στίχους. Η Μετρική διδάσκει τον ρυθμό και τη δομή αυτών των στίχων.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/grc/lektionen/lektion45), [Lektion 53](/grc/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/grc/lektionen/lektion54)
+*   **Εισαγωγή & Śloka** -\> [Μάθημα 45](/grc/lektionen/lektion45), [Μάθημα 53](/grc/lektionen/lektion53)
+*   **Προχωρημένα μέτρα** (Trīṣṭubh, Jāgatī) -\> [Μάθημα 54](/grc/lektionen/lektion54)
 

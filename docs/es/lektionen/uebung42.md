@@ -42,7 +42,7 @@ El padre deseaba la obtención de nietos.
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung068))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Narrativa: La boda de Sītā (⟪सीताविवाहः⟫)
 
@@ -73,5 +73,5 @@ El corazón del rey Janaka estaba muy alegre. Luego, hizo venir a Daśaratha y a
 ![](/images/uebung069.webp)
 Fig.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung069))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

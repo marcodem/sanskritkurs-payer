@@ -305,7 +305,7 @@ Abb.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postpositum): quasi, ut (in comparationibus: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "vir ut tigris", "vir tigrinus"
 
-⟪एव⟫ (postpositum): praecedens emphaticum reddit, Germanice saepe accentui respondet, veluti emoticonum `\&lt;!\&gt;`, exempli gratia ⟪सत्यमेव⟫ ⟪जयति⟫ "veritas sola vincit", "ipsa veritas vincit", "veritas vincit"
+⟪एव⟫ (postpositum): praecedens emphaticum reddit, Germanice saepe accentui respondet, veluti emoticonum `\<!\>`, exempli gratia ⟪सत्यमेव⟫ ⟪जयति⟫ "veritas sola vincit", "ipsa veritas vincit", "veritas vincit"
 
 ⟪अरि⟫ m.: inimicus (secundum Thieme, De hospite in Ṛgveda: originem = hospes)
 

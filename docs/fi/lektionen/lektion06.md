@@ -25,7 +25,7 @@ Jos subjektia (**kartṛ** m. = ⟪कर्तृ⟫) mainitaan lauseessa, joka
 Äännöllinen verbimuoto, eli persoonapääte, ilmaisee sanskritissa seuraavaa:
 
 1. **Merkitys** (**artha** m. ⟪अर्थ⟫)
-2. **Persoona** ja **Numerus** (luku, **vacana** n. = ⟪वचन⟫) (minä, sinä, hän &lt;hän, se&gt;, me kaksi, te kaksi, he kaksi, me, te, he)
+2. **Persoona** ja **Numerus** (luku, **vacana** n. = ⟪वचन⟫) (minä, sinä, hän \<hän, se\>, me kaksi, te kaksi, he kaksi, me, te, he)
 3. Käyttäytyminen (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("sanaan viittaava toiseen"): Aktiivi. Esim. **yajati** = ⟪यजति⟫ = "Hän kunnioittaa uhraamalla" (nimittäin pappi, joka suorittaa uhrin jonkun muun puolesta)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("sanaan viittaava itseensä"): Mediaani. Esim. **yajate** = ⟪यजते⟫ = "Hän kunnioittaa uhraamalla omaksi hyödykseen" (nimittäin uhrinantaja, joka uhraa itselleen ja perheelleen)
@@ -138,7 +138,6 @@ Vokaalien edessä sanan sisällä **e** korvataan muodolla **ay**, ja **o** muod
 Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **temaattiseksi vokaaliksi**. Siksi preesensluokat, joissa on **a** taivutusliitteessä, ovat "temattisia preesensluokkia".
 :::
 
-:::
 ## 6.6. Keskusteluaanskrit: Lisäkysymyksiä (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
@@ -149,7 +148,6 @@ Vokaalia **a**, joka esiintyy preesensluokkien taivutusliitteissä, kutsutaan **
 - Vastaus: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Minulla) menee hyvin joka suhteessa."
 :::
 
-:::
 ## 6.7. Sanalista
 
 ::: grammar-box

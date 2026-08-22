@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Згідно з Kauṭilīya-arthaṣāstra 1.3.3.) Пояснення: chando = називний, знахідний відмінок, однина, середній рід до chandas n.) &lt;!--  -→
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Згідно з Kauṭilīya-arthaṣāstra 1.3.3.) Пояснення: chando = називний, знахідний відмінок, однина, середній рід до chandas n.) \<!--  -→
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 

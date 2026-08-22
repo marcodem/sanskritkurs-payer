@@ -48,7 +48,7 @@ Según la orden del maestro, Rāma sale de la aldea hacia la ciudad, entra en la
 El Veda (śruti) y la tradición (smṛti) dicen que no se puede escuchar nada injusto de un maestro.
 
 ⟪३⟫. **⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫**
-El deber de los kṣatriyas es que los kṣatriyas deben proteger al pueblo de los enemigos. &lt;!--  --&gt;
+El deber de los kṣatriyas es que los kṣatriyas deben proteger al pueblo de los enemigos. \<!--  --\>
 
 ⟪४⟫. **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्ह⟫ti ⟪॥४॥⟫**
 Dado que ha cometido un error en el sacrificio, el brahmán no debe recibir dinero.

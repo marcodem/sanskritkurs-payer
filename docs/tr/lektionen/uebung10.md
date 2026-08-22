@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-15
 
 # Alıştırma 10
 
-A) Aşağıdaki fiil formlarının edilgenini (geçişli) oluşturun (fiil formunun çevirisini de vererek), yani fiilin kişi ve çoğul sayısına uygun edilgen:
+A) Aşağıdaki fiil formlarının edilgenini (passiv) oluşturun (fiil formunun çevirisini de vererek), yani fiilin kişi ve çoğul sayısına uygun edilgen:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -34,9 +34,9 @@ A) Aşağıdaki fiil formlarının edilgenini (geçişli) oluşturun (fiil formu
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 form!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
-B) Şimdiye kadar öğrenilen tüm isimler için tekil ve çoğul araç halini (araç durumu) oluşturun
+B) Şimdiye kadar öğrenilen tüm isimler için tekil ve çoğul araç halini (instrumentalis) oluşturun
 
-C) Aşağıdaki cümleleri edilgen (geçişli) yapıya çevirin ve tercüme edin:
+C) Aşağıdaki cümleleri edilgen (passiv) yapıya çevirin ve tercüme edin:
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो देवीं यजति⟫
 
@@ -196,7 +196,7 @@ kayā bālā rakṣyate.
 
 ⟪कया बाला रक्ष्यते ।⟫
 
-9\. Kṣatriya, efendiyi bir sunakla şereflendirir. (Edilgen yapı, yajña kelimesini kullanmadan)
+9\. Kṣatriya, efendiyi bir sunakla onurlandırır. (Edilgen yapı, yajña kelimesini kullanmadan)
 
 kṣatriyeṇeśvara ijyate.
 
@@ -224,7 +224,7 @@ Okuyun ve çevirin, ardından edilgen yapıya dönüştürün:
 > ⟪धनमिच्छन्ति पार्थिवाः⟫ |
 > ⟪नीचाः कलहमिच्छन्ति⟫
 > ⟪शान्तिमिच्छन्ति साधवः⟫ ||
->
+\>
 > ⟪मक्षिकाभिर्व्रण इष्यते⟫
 > ⟪धनमिष्यते पार्थिवैः ।⟫
 > ⟪नीचैः कलह इष्यते⟫
@@ -232,7 +232,7 @@ Okuyun ve çevirin, ardından edilgen yapıya dönüştürün:
 
 Sinekler bir yara diler,
 Krallar zenginlik diler,
-Aşağılık kimseler kavga diler,
+Aşağılık ruhlar kavga diler,
 Kutsal olanlar barış diler.
 
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ |
@@ -241,7 +241,7 @@ Tanrılar insanları yaratır.
 
 ⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
 ⟪कविभिर्धनं लभ्यते ।⟫
-Şairler zenginlik arzu eder.
+Şairler zenginlik arzular.
 
 ⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
 ⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
@@ -249,11 +249,11 @@ Vedalı bilge, vedik ilahileri görür.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
 ⟪विष्णुरृषिणेज्यते ।⟫
-Vedalı bilge Viṣṇu'ya sunak yapar.
+Vedalı bilge Viṣṇu'ya sunak sunar.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
 ⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
-Üstadı ve öğrenciyi görür.
+O, üstadı ve öğrenciyi görür.
 
 ⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
 ⟪स्वर्गो लभ्यते ।⟫

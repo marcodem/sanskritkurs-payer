@@ -88,7 +88,6 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fonte da imagem: [Detalhes](/licenses#lekt0801))
 :::
 
-:::
 ::: note-box
 **"Darshan"** ou **"Darshana"** é um termo do Hinduísmo para a visão e a visão do sagrado e do divino. Por *Darshana* entende-se, por exemplo, o encontro oficial entre discípulo e mestre, para o qual o discípulo foi convidado pelo mestre. Mas também pode significar a *imersão* ao contemplar uma imagem de uma divindade. Este último significado é o mais comum no uso atual do Hindi. No contexto de Mata Amritanandamayi, Darshan significa o abraço pelo guru.
 

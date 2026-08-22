@@ -207,4 +207,3 @@ Copilul scrie o scrisoare.
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung008))
 :::
-:::

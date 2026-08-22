@@ -36,7 +36,6 @@ Abb.: ⟪मार्जारयुगम्⟫
 (Bildquelle: [Details](/rm/licenses#lekt5301))
 :::
 
-:::
 ::: media
 ![](/images/lekt5302.webp)
 Imm.: ⟪हस्तौ⟫

@@ -7,63 +7,49 @@ last_reconstructed: 2026-05-15
 ---
 
 
-
-
 # Harjoitus 11
 
-A) Käännä seuraavat lauseet
+A) Käännä alla olevat lauseet
 
-⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
-Védinen viisas puhuu totuutta.
+⟪१⟫. ⟪ऋषिः सत्यं वदति ।⟫
+Vedicäinen viisas puhuu totuutta.
 
-⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
+⟪२⟫. ⟪ब्राह्मणः पुत्रमिच्छति ।⟫
 Brahmani haluaa pojan.
 
-⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
-Pyhimys tulee taivaaseen.
+⟪३⟫. ⟪साधुः स्वर्गं गच्छति ।⟫
+Pyhimys nousee taivaaseen.
 
-⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+⟪४⟫. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।⟫
+Smṛti sanoo, ettei brahmani puhu epätotuutta.
 
-⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+⟪५⟫. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।⟫
+Kṣatriya kysyy brahmanilta dharmalta.
 
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
+⟪६⟫. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति ।⟫
 Näin brahmani tuo jumalalle uhrauksen.
 
-⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
-Vaiśyänainen ajattelee, että hänen poikansa tekee pahaa.
+⟪७⟫. ⟪पुत्रः पापं करोतीति वैश्या मन्यते ।⟫
+Vaiśyän vaimon mielestä hänen poikansa tekee pahaa.
 
-⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-Kṣatriya taistelee kṣatriyan kanssa.
+⟪८⟫. ⟪क्षत्रियः क्षत्रियेण सह युध्यते ।⟫
+Kṣatriya taistelee kṣatrijaa vastaan.
 
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Koska epätotuus on vääryys, poika ei tee pahaa.
+⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
+Koska epätotuus on vääryyttä, poika ei tee pahaa.
 
-⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-Tämä kṣatriya suojaa dharmaa.
+⟪१०⟫. ⟪अयं क्षत्रियो धर्मं रक्षति ।⟫
+Tämä kṣatriya suojaa dharmmaa.
 
-⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
+⟪११⟫. ⟪को ऽग्निं यजते ।⟫
 Kuka palvoo tulta (jumala Agni) uhrauksella?
 
-⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
-Tämä oppilas kysyy buddhalta tämän opetukselta.
+⟪१२⟫. ⟪स श्रावको बुद्धं धर्मं पृच्छति ॥⟫
+Tämä oppilas kysyy buddhalta tämän opetuksesta.
 
-B) Muuta lauseet osassa A) passiivirakenteeseen
+B) Muuta lauseet A:sta passiiviin
 
-⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-
-⟪२⟫. ⟪ब्राह्मणेन⟫ ⟪पुत्र⟫ ⟪इष्यते⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधुना⟫ ⟪स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत⟫ ⟪इति⟫ ⟪पुत्रेण⟫ ⟪पुण्यं⟫ ⟪क्रियते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यत⟫ ⟪इति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-
-⟪५⟫. ⟪क्षत्रियेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
-
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणेन⟫ ⟪यज्ञेन⟫ ⟪देव⟫ ⟪इज्यते⟫ ⟪।⟫
-
-⟪७⟫. ⟪पुत्रेण⟫ ⟪पापं⟫ ⟪क्रियत⟫ ⟪इति⟫ ⟪वश्यया⟫ ⟪मन्यते⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिणा सत्यमुद्यते । २⟫. ⟪ब्राह्मणेन पुत्र इष्यते । ३⟫. ⟪साधुना स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत इति पुत्रेण पुण्यं क्रियते । ४⟫. ⟪ब्राह्मणेनानृतं नोद्यत इति स्मृतिः । ५⟫. ⟪क्षत्रियेण ब्राह्मणो धर्मं पृच्छ्यते । ६⟫. ⟪एवं ब्राह्मणेन यज्ञेन देव इज्यते ।⟫
 
 ⟪८⟫. ⟪क्षत्रियेण⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
 
@@ -191,51 +177,42 @@ Buddhalainen kannattaja ei uhraa HERRALLE.
 ⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 Amuletti suojaa mestaria.
 
-⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-Brahmani ei puhu epätotuutta.
+⟪३⟫. ⟪श्रावकेणेश्वरो नेज्यते ।⟫
+Buddhalainen ei uhraa HERRALLE.
 
-⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
-Itarā ist eine Śūdrafrau.
+⟪४⟫. ⟪रक्षिक्या गुरू रक्ष्यते ।⟫
+Amuletti suojaa mestaria.
 
-⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Vedan aputieteet ovat: ääntöoppi, rituaalinen tiede, kielioppi, sananmerkitystiede, metriikka ja kalenteritiede.
+⟪५⟫. ⟪ब्राह्मणेनानृतं नोद्यते ।⟫
+Brahmani ei puhu valhetta.
 
-⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
+⟪६⟫. ⟪शूद्रेतरा ।⟫
+Itarā on śūdra-nainen.
+
+⟪७⟫. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫
+Vedan aputieteet ovat: ääntämisoikeus, rituaalitiede, kielioppi, sananmerkitystiede, metriikka ja kalenteritiede.
+
+⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥⟫
 Tieteet ovat: filosofia, vedatiede, taloustiede ja politiikka.
 
-D) Käännä ja muuta sanskritiksi agenssi, objekti ja verbi monikkoon:
+D) Käännä ja muokkaa sanskritiksi agenssi, objekti ja verbi monikkoon:
 
-⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
+⟪१⟫. ⟪फलमश्नुते ।⟫
 Hän saa hedelmän.
-⟪फलान्यश्नुवन्ते⟫ ⟪।⟫
-
-⟪२⟫. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-Mestari puhuu totuuden.
-⟪गुरुभिः⟫ ⟪सत्यान्युद्यन्ते⟫ ⟪।⟫
-
-⟪३⟫. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫
+⟪फलान्यश्नुवन्ते । २⟫. ⟪गुरुणा सत्यमुद्यते ।⟫
+Mestari puhuu totuutta.
+⟪गुरुभिः सत्यान्युद्यन्ते । ३⟫. ⟪वैश्यः पशुं लभते ।⟫
 Vaiśya saa karjaa.
-⟪वैश्याः⟫ ⟪पशुंल्लभन्ते⟫ ⟪।⟫
+⟪वैश्याः पशुंल्लभन्ते । ४⟫. ⟪पुत्रः पुण्यं करोति ॥⟫
+Poikani tekee ansaitsevaa.
+⟪पुत्राः पुण्यानि कुर्वन्ति ॥⟫
 
-⟪४⟫. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪॥⟫
-Poikani tekee ansaittavaa.
-⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
+E) Muunna lauseet C)1-5 aktiivirakenteiksi.
 
-E) Muuta lauseet C)1-5 aktiivilauseiksi.
-
-⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
-
-⟪२⟫. ⟪कर्ष⟫ka⟪ः⟫ ⟪कृषन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪श्रावक⟫ ⟪ईश्वरं⟫ ⟪न⟫ ⟪यजते⟫ ⟪।⟫
-
-⟪४⟫. ⟪रक्षिका⟫ ⟪गुरुं⟫ ⟪रक्षति⟫ ⟪।⟫
-
-⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
+⟪१⟫. ⟪श्रवणं शृणोति । २⟫. ⟪कर्ष⟫ka⟪ः कृषन्ति । ३⟫. ⟪श्रावक ईश्वरं न यजते । ४⟫. ⟪रक्षिका गुरुं रक्षति । ५⟫. ⟪ब्राह्मनो ऽनृतं न वदति ॥⟫
 
 ::: media
 ![](/images/uebung021.webp)
-Kuva: ⟪फलान्यश्नुते⟫
+Kuv.: ⟪फलान्यश्नुते⟫
 (Kuv lähde: [Details](/licenses#uebung021))
-:::
 :::

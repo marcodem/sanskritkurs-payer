@@ -2,7 +2,6 @@ import { h, watch, onMounted } from 'vue'
 import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { registerServiceWorker } from './sw-register.js'
-import { filterSidebarByLocales, setupLocaleFilter } from './locale-filter.js'
 import { setupInstallCapture } from './install-state.js'
 
 import PayerNavButton from './components/PayerNavButton.vue'
@@ -166,9 +165,6 @@ export default {
     // Register Service Worker (PWA support)
     registerServiceWorker()
 
-    // Setup locale filter event listener (re-filter on "payer:locales-changed")
-    setupLocaleFilter()
-
     // Capture PWA install prompt globally. The actual install button lives in
     // PayerLanguageSettings.vue (Settings page only) — it reads the deferred prompt
     // from install-state.js. This keeps install UI out of every other page.
@@ -183,7 +179,6 @@ export default {
                  closeInactiveGroups();
                  mergeTableCells();
                  fixTableColors();
-                 filterSidebarByLocales();
                  updateNavbarLangLabel();
              }, 250);
              

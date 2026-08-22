@@ -84,7 +84,7 @@ Para morir, los seres nacen.
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung037))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Variaciones sintácticas
 
@@ -157,5 +157,5 @@ E) Sustituya en la oración B) 6 el dativo por una construcción con **-⟪अ�
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung038))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

@@ -60,6 +60,7 @@ pl.
 
 A jelzők (melléknevi jelzők) a mondatban a megszokott szórendben állnak az előttük lévő, őket pontosító főnév előtt. A melléknemi jelzők egyeznek a főnévvel szám, eset és nem szerint:
 
+:::
 ::: grammar-box
 
 A melléknevek (jelzők) a szótagszóban az őket pontosító főnév előtt állnak. A melléknemű jelzők egyeznek a főnévben szám, eset és nem szerint:
@@ -155,32 +156,32 @@ Konsonánssal végződő tövek esetén:
 | | tárgyeset (accusativus):br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | eszközhatározó eset (instrumentalis):br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Nőnem:
+Nemnem:
 
-A -mant- és -vant- végződésű tőkhöz tartozó nőnemű alap -mat-ī, illetve -vat-ī végződésű. A ragozás a devī szóéval megegyezik, azaz nincs tőhangzó-változás.
+A -mant- és -vant- végződésű tövek nőnemű tője -mat-ī, illetve -vat-ī. A ragozás a devī példájához hasonlóan történik, azaz nincs tőváltozás.
 
 Példa:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
 ## 13.9. Szószedet
 
-Tanulják meg a következő szavakat:
+Tanulja meg a következő szavakat:
 
-- **eva** ⟪एव⟫ : az előző szó hangsúlyozása
-- **asura** m. ⟪असुर⟫ : démon
+**eva** ⟪एव⟫ : hangsúlyozza az előtte álló szót
+**asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Szellemi, isteni.'
->
-> A Ṛgvéda legrégebbi részeiben ezt a kifejest a legfelső szellemre használják, és ugyanazt jelenti, mint a zoroasztriánusoknál szereplő Ahura. 'Isten' értelemben több fő istenségre is alkalmazták, például Indra, Agni és Varuṇa esetében. Később teljesen ellentétes jelentést kapott, és ma már démont vagy az istenek ellenségét jelenti.
->
-> Ezt a jelentést hordozó szó szerepel a Ṛgvéda későbbi részeiben, különösen az utolsó könyvben, valamint az Atharvavedában. A Brāhmaṇák ugyanerre a jelentésre utalnak, és számos küzdelmet rögzítenek az Asurák és az istenek között. A Taittirīya Brāhmaṇa szerint Prajapati lélege (asu) életre kelt, és „azzal a lélegzettel teremtett engem Asurákként.” Ugyanazon mű egy másik részében azt mondják, hogy Prajāpati „terhessé vált. Hasból teremtett Asurákat.” A Śatapatha Brāhmaṇa az előbbi állítással összhangban van, és kijelenti, hogy „alsó lélegzetéből teremtett Asurákat.” A Taittirīya Āraṇyaka szerint Prajāpati isteneket, embereket, atyákat, Gandharvákat és Apszaraszokat teremtett vízből, az Asurák, Rākṣasas és piśācas pedig a kifröccsenő cseppekből származtak. Manu állítása szerint a Prajāpatis teremtette őket.
->
-> A Viṣṇu Purāṇa szerint Brahma (prajāpati) ágyékból születtek. A Vāyu Purāṇa leírása: „Az Asurák először ágyékból származó fiúkként jöttek létre. Az asu szót a Brāhmaṇa lélegzetnek mondja. Ebből ezek a lények származtak; ezért Asurák.” A szó régóta általános névként szolgál az istenek ellenségeire, beleértve a Daityas és Danavas nevűeket, valamint Kaśyapa egyéb leszármazottait, de nem foglalja magában Pulastya leszármazott Rākṣasas nevűeket.
->
-> Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak.”
->
+> **ASURA.** 'Spirituális, isteni.'
+\>
+> A Ṛgvéda legrégebbi részeiben ezt a kifejezést a legfelső szellemre használják, és ugyanazt jelenti, mint az ahura a zoroasztriánusoknál. Az 'isten' értelemben több fő istenségre is alkalmazták, például Indra, Agni és Varuṇa esetében. Később teljesen ellentétes jelentést kapott, és mostani értelemben démonra vagy az istenek ellenségére utal.
+\>
+> Ezt a jelentést hordozza szó a Ṛgvéda későbbi részeiben, különösen az utolsó könyvben, valamint az Atharvavédában is. A Brāhmaṇák ugyanerre a jelentésre utalnak, és számos küzdelmet rögzítenek az Asurák és az istenek között. A Taittirīya Brāhmaṇa szerint Prajapati lélege *(asu)* életre kelt, és "azzal a lélegzettel megteremtette engem Asurákként." Ugyanezen mű egy másik részében azt mondják, hogy Prajāpati "terhbe esett. Megteremtette az Asurákat a hasából." A Śatapatha Brāhmaṇa megegyezik az előbbi állítással, és kijelenti, hogy "az Asurákat az alsó lélegzetéből teremtette." A Taittirīya Āraṇyaka szerint Prajāpati isteneket, embereket, atyákat, Gandharvák és Apszaraszok teremtett a vízből, az Asurák, Rakṣasas és piśācas pedig a kiömlött cseppekből származtak. Manu állítása szerint őket a Prajāpatis teremtette.
+\>
+> A Viṣṇu Purāṇa szerint Brahma (prajāpati) ágyékából származtak. A Vāyu Purāṇa leírása: "Az Asurák először fiakként születtek az ő (Prajāpati) ágyékából. *Asu* a Brāhmaṇa szerint lélegzetet jelent. Ebből ezek a lények születtek; ezért Asurák." A szó régóta általános névként használatos az istenek ellenségeire, beleértve a Daityas és Danavasokat, valamint Kaśyapa egyéb leszármazottait, de nem tartalmazza Pulastya leszármazott Rakṣasasokat.
+\>
+> Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és asura azt jelenti: 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'isten' jelentésben használnak."
+\>
 > [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media

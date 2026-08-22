@@ -460,13 +460,13 @@ per **yaj** 1 U:
 **pāpa** n. ⟪पाप⟫ : mal'ovra, maldad (cuntrari a **puṇya**)
 **satya** n. ⟪सत्य⟫ : veritad
 
-:::: note-box
+::: note-box
 En l'India attribuiva ins al verbatim magìa, e tut l'ordinaziun dal mund vegn mantegnida e creada tras il verbatim. Per questa concepziun impurtanta vesair l'ovra fundamental:
 
+:::
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dal postament publicà da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -499,7 +499,6 @@ Fig.: ⟪विश्वामित्रः⟫
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dal postament elavurà da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e l'Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
-:::
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -531,7 +530,6 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edità dal postum da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII paginas, pagina 340 - 764
-:::
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -900,7 +898,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposiziun): sco, sco che (en cumpareglianzas: ⟪व्याघ्र इव पुरुषः⟫ = "in uman sco in tigre", "in uman sco il tigir"
 
-⟪एव⟫ (postposiziun): emfatisescha il precedent, correspunda en tudestg spessegiadamein a l’emfasis, ina sorta d’emoticon `\&lt;!\&gt;`, p.ex. ⟪सत्यमेव जयति⟫ "sola la verit gudogna", "propi la verit gudogna", "la verit gudogna"
+⟪एव⟫ (postposiziun): emfatisescha il precedent, correspunda en tudestg spessegiadamein a l’emfasis, ina sorta d’emoticon `\<!\>`, p.ex. ⟪सत्यमेव जयति⟫ "sola la verit gudogna", "propi la verit gudogna", "la verit gudogna"
 
 ⟪अरि⟫ m.: inimis (suenter Thieme, Der Fremdling im Ṛgveda: originalmain = forestier)
 
@@ -3867,6 +3865,7 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
+:::
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  

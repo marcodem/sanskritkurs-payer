@@ -94,4 +94,3 @@ Kuv.: ⟪अजीर्यमिति⟫
 (Kuvälähde: [Yksityiskohdat](/fi/licenses#lekt5501))
 :::
 
-:::

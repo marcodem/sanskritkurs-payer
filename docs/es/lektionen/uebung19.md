@@ -62,5 +62,5 @@ Quien precisamente tiene prosperidad, ese es un erudito.
 ![](/images/uebung029.webp)
 Lám.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung029))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

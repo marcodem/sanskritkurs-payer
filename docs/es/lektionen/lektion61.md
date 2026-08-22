@@ -446,7 +446,7 @@ Observe el significado de:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6105))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
@@ -664,7 +664,7 @@ Paradigmas: Kielhorn, Grammatik § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6115))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
@@ -681,7 +681,7 @@ Kielhorn, Grammatik § 177:
 ::: media
 ![](/images/lekt6116.jpg)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6116))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media

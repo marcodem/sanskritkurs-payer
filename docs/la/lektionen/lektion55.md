@@ -94,4 +94,3 @@ Fig.: ⟪अजीर्यमिति⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5501))
 :::
 
-:::

@@ -24,7 +24,6 @@ Megjegyzés: Általános érvényű viszonylagos mondatokban gyakran az optativu
 
 **1. A mondat alanyát (⟪कर्तृ⟩) egy viszonylagos mondat határozza meg részletesebben:**
 
-:::
 ::: indent
 ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪स⟩ ⟪स्वर्गं⟩ ⟪गच्छति⟩ =  ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ = ⟪येन⟩ ⟪नरेण⟩ ⟪पुण्यम्⟩ ⟪क्रियते⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ stb. = "Egy ember, aki érdemtelent cselekszik, a mennybe jut."
 :::

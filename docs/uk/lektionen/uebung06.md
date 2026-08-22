@@ -419,7 +419,7 @@ devī gurvī.
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā ist eine Gottheit. &lt;!--  -→
+Annapūrṇā ist eine Gottheit. \<!--  -→
 
 2\. śūdretarā.
 

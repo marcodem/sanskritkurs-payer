@@ -5,7 +5,7 @@ lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  -→
+---
 
 # Урок 50
 

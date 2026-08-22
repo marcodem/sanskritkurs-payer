@@ -77,7 +77,6 @@ A Raksha Bandhant lelkesedéssel és örömmel ünneplik egész Indiában. Ez a 
 (Képmegjelenés: [Részletek](/hu/licenses#lekt2402))
 :::
 
-:::
 ::: grammar-box
 **4. A datívus egyes igéknél (és néhány más szóban) hasonlóan a némethez arra a kérdésre áll, hogy „kinek?":**
 

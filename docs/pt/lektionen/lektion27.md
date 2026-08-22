@@ -34,7 +34,6 @@ Jaipur, 1875.
 (Fonte da imagem: [Detalhes](/licenses#lekt2701))
 :::
 
-:::
 ::: grammar-box
 
 **2. O locativo indica, em resposta à pergunta "Quando?", o momento ou as circunstâncias externas:**
@@ -65,7 +64,6 @@ Rajasthan.
 (Fonte da imagem: [Detalhes](/licenses#lekt2702))
 :::
 
-:::
 ::: grammar-box
 
 **3. O locativo também responde à pergunta "Em relação a quê?" e similares:**
@@ -80,7 +78,6 @@ Holi.
 (Fonte da imagem: [Detalhes](/licenses#lekt2703))
 :::
 
-:::
 ::: grammar-box
 
 **4. O locativo é usado nos léxicos nativos e por comentadores para indicar o significado de uma palavra:**
@@ -592,5 +589,4 @@ Tsunami 2005, Sri Lanka.
 (Fonte da imagem: [Detalhes](/licenses#lekt2717))
 :::
 
-:::
 

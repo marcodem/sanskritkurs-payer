@@ -40,7 +40,6 @@ last_reconstructed: 2026-05-07
 **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
 :::
 
-:::
 ### 9.2.2. -อก (กฤต), เพศหญิงมักเป็น -อิกา
 
 ::: grammar-box

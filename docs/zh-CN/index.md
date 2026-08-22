@@ -14,21 +14,22 @@ hero:
       link: /zh-CN/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "印度文字的完美集成排版。"
-  - title: "易于搜索"
-    details: "强大的本地全文搜索功能，让知识触手可及。"
-  - title: "现代架构"
-    details: "基于 VitePress 构建，实现极致速度。"
+  - title: "全球与多语言"
+    details: "通过自动化的多级 AI 翻译级联，完全提供超过 20 种语言版本。"
+  - title: "离线优先的 PWA"
+    details: "整个课程（包括本地搜索引擎）可在所有设备上无需活跃互联网连接使用。"
+  - title: "学术排版风格"
+    details: "原生支持 Devanāgarī 和 IAST 转写，具有精确的学术文本对齐。"
 
 ---
 
 ::: note-box
-Alois Payer 的《梵语课程》是一门全面、学术严谨的梵语语言与天城文书写系统学习教程。此数字版本以现代化、多语种且可搜索的阅读环境呈现整个课程。
+阿洛伊斯·派尔（Alois Payer）的**梵语课程**是一门全面、学术严谨的课程，旨在教授梵语语言和天城文书写系统。此数字版本以现代化的、多语言且可搜索的阅读环境呈现整个课程。
 
-所有语言均借助人工智能（Qwen3.6-32B）从德语完全自动翻译而来。欢迎反馈任何翻译错误。
-**备注与联系**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
-**作为校对者或策展人参与**：[onboarding@birchville.org](mailto:onboarding@birchville.org)
-**开源编辑器 Zentauri**：独立 Markdown 编辑器，见 [GitHub](https://github.com/marcodem/zentauri)
-**开发者维基与架构**：[GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+这些语言已通过多级AI级联系统完全自动地从德语翻译而来。欢迎反馈任何翻译错误。
+
+**联系与贡献**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**：[项目维基](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**编辑工具**：在线编辑器可供作者使用（[payer-author.birchville.org](https://payer-author.birchville.org)）| 或者：独立Markdown编辑器 [Zentauri](https://github.com/marcodem/zentauri)
+**当前版本**：v1.7.0
 :::

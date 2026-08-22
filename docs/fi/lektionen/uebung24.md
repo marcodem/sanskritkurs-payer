@@ -161,4 +161,3 @@ E) Korvaa lauseessa B) 6 datiivi rakenteella **-⟪अर्थ⟫**:
 Kuv.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung038))
 :::
-:::

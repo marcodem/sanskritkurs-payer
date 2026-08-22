@@ -285,3 +285,29 @@ def is_language_completed(lang):
     if lang == "de":
         return True
     return len(get_translation_queue(lang)) == 0
+
+import hashlib
+import json
+
+def get_file_hash(filepath):
+    hasher = hashlib.md5()
+    with open(filepath, 'rb') as f:
+        buf = f.read()
+        hasher.update(buf)
+    return hasher.hexdigest()
+
+def get_stored_hashes():
+    hash_file = ROOT / "docs" / ".payer" / "master_hashes.json"
+    if not hash_file.exists():
+        return {}
+    try:
+        with open(hash_file, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except:
+        return {}
+
+def save_stored_hashes(data):
+    hash_file = ROOT / "docs" / ".payer" / "master_hashes.json"
+    hash_file.parent.mkdir(parents=True, exist_ok=True)
+    with open(hash_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)

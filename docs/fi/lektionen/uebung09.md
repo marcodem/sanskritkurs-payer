@@ -112,4 +112,3 @@ Talous on maanviljelyä, karjanhoitoa ja kauppaa.
 Kuv.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Kuv lähde: [Details](/licenses#uebung013))
 :::
-:::

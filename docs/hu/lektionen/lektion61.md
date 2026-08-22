@@ -440,7 +440,6 @@ Vegye figyelembe a következő jelentéseket:
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6105))
 :::
 
-:::
 ::: media
 ![](/images/lekt6103.webp)
 Ábr.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫

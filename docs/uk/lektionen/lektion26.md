@@ -5,7 +5,7 @@ lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  -→
+---
 
 # Урок 26
 

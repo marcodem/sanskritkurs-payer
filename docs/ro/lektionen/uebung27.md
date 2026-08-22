@@ -71,4 +71,3 @@ Dacă învățătorii predau, copiii bine educați nu au voie să bârfescă (s�
 Fig.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung044))
 :::
-:::

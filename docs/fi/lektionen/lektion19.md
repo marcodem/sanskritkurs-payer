@@ -24,7 +24,6 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 
 **1. Lauseen subjektia (⟪कर्तृ⟩) määritetään tarkemmin suhteellisella lauseella:**
 
-:::
 ::: indent
 ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪स⟩ ⟪स्वर्गं⟩ ⟪गच्छति⟩ =  ⟪यो⟩ ⟪नरः⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ = ⟪येन⟩ ⟪नरेण⟩ ⟪पुण्यम्⟩ ⟪क्रियते⟩ ⟪तेन⟩ ⟪स्वर्गं⟩ ⟪गम्यते⟩ jne. = "Mies, joka tekee ansioituneita töitä, tulee taivaaseen."
 :::

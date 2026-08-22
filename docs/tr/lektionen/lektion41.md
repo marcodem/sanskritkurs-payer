@@ -62,7 +62,7 @@ Zayıf Şimdiki Zaman Kökü (3.pl.Ā son eki -ate'den önceki haliyle) + -āna 
 | Kök / Sınıf | Şimdiki Zaman Ortacı Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
-| ⟪हु⟫ 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| ⟪हु⟫ 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | ⟪सु⟫ 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | ⟪रुध्⟫ 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -155,7 +155,6 @@ Ayrıntılı kurallar için bkz. Kielhorn, Grammatik der Sanskrit-Sprache, s. 19
 :::
 > ::: grammar-box
 > **-i /-ī / -u / -ū /-ṛ ile biten kökler genellikle yüksek veya uzatılmış aşamaya sahiptir; bunlar, -⟪त्य⟫ (dişil: -⟪त्या⟫) soneki ile bir gerundiv oluşturan -i / -u /-ṛ köklerinden değildir.** (Bu köklerin listesi için Kielhorn, Grammatik §537'e bakınız).
-:::
 > Örnek:
 
 ::: no-header
@@ -167,7 +166,6 @@ Ayrıntılı kurallar için bkz. Kielhorn, Grammatik der Sanskrit-Sprache, s. 19
 :::
 > ::: grammar-box
 > **-i/-ī ile biten kökler yüksek aşamaya sahiptir**
-:::
 > Örnekler:
 
 ::: no-header

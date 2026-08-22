@@ -460,13 +460,45 @@ to **yaj** 1 U:
 **pāpa** n. ⟪पाप⟫ : evil deed, evil (opposite of **puṇya**)
 **satya** n. ⟪सत्य⟫ : truth
 
-:::: note-box
+::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
+:::
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
-::::
+
+::: media
+![](/images/lekt1003.webp)
+Fig.: ⟪वरुणः⟫
+(Image source: [Details](/licenses#lekt1003))
+:::
+**anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
+
+  ::: note-box
+  Word formation **an-** (“un-”) + **ṛta** n.
+
+  **ṛta** is a central concept in the Veda, whose translation is disputed: “truth” (Lüders, Thieme), “order” (Renou).
+  :::
+
+**ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
+
+  ::: note-box
+  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Fig.: ⟪विश्वामित्रः⟫
+(Image source: [Details](/licenses#lekt1002))
+:::
+**vad** 1 P (vadati) ⟪वद् वदति⟫ : to say, to speak
+**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
+**saha** ⟪सह⟫ : together with, jointly with (also in the context of "to fight with" etc.) (Postposition with Instrumental)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
+:::
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -498,40 +530,6 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
-:::
-:::
-
-::: media
-![](/images/lekt1003.webp)
-Fig.: ⟪वरुणः⟫
-(Image source: [Details](/licenses#lekt1003))
-:::
-**anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
-
-  ::: note-box
-  Word formation **an-** ("un-") + **ṛta** n.
-
-  **ṛta** is a central concept in the Veda, whose translation is disputed: "truth" (Lüders, Thieme), "order" (Renou).
-  :::
-
-**ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
-
-  ::: note-box
-  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
-  :::
-
-::: media
-![](/images/lekt1002.jpg)
-Fig.: ⟪विश्वामित्रः⟫
-(Image source: [Details](/licenses#lekt1002))
-:::
-**vad** 1 P (vadati) ⟪वद् वदति⟫ : to say, to speak
-**prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
-**saha** ⟪सह⟫ : together with, jointly with (also in the context of "to fight with" etc.) (Postposition with Instrumental)
-
-::: literatur-box
-Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
-:::
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -548,7 +546,7 @@ Word formation **an-** ("un-") + **ṛta** n.
 
 :::
 ::: note-box
-The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of Vedic hymns. All Brahmanas trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, chap. 5.
+The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of Vedic hymns. All Brahmanas trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, Chap. 5.
 :::
 ::: media
 ![](/images/lekt1002.jpg)
@@ -557,7 +555,7 @@ Fig.: ⟪विश्वामित्रः⟫
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : to say, to speak
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
-**saha** ⟪सह⟫ : together with, jointly with (also in "to fight with" etc.) (postposition with instrumental)
+**saha** ⟪सह⟫ : together with, jointly with (also in "to fight with" etc.) (Postposition with Instrumental)
 
 ---
 
@@ -582,7 +580,7 @@ Stands *after* the formulation of a thought, wish, utterance, quote almost as qu
 e.g. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanas say: 'The righteous go to heaven'" = "Brahmanas say that the righteous go to heaven".
 In Sanskrit there is no indirect speech; formations with **iti** often need to be rendered in German as indirect speech.
 **... (quote) ... iti śrutiḥ** = "thus the Veda".
-Often a verb of thinking is to be assumed after **iti**: "thinking: '...' he does that". Render idiomatically in German (e.g. "Because he is hungry, he goes...").
+Often a verb of thinking is to be added after **iti**: "thinking: '...' he does that". Render idiomatically in German (e.g. "Because he is hungry, he goes...").
 
 **evam** ⟪एवम्⟫ : thus (adverbially, e.g. **evaṃ jayati** "thus he conquers").
 **na** ⟪न⟫ : not
@@ -898,7 +896,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposed): as it were, like (in comparisons: ⟪व्याघ्र इव पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to emphasis, a kind of emoticon `\&lt;!\&gt;`, e.g. ⟪सत्यमेव जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
+⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
 ⟪अरि⟫ m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = foreigner)
 

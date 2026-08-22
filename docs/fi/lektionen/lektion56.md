@@ -109,40 +109,38 @@ Vokaali - sitä seuraava ensimmäinen konsonantti (tai reduplikointisilabassa va
 ⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplikoitunut silba ⟪एषिष्⟫, aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplikoitunut silba ⟪ईचिक्ष्⟫, aor. ⟪ऐचिक्षत्⟫
 :::
-*   **Jos vokaalialkuista seuraa konsonanttiryhmä, jonka alussa on nasali tai d tai r, ryhmän toinen konsonantti (tai sen vastine) lisätään i-kirjaimen avulla seuraavan kaavion mukaisesti:**
+*   **Jos alkuvokaalia seuraa nasaalilla, d:llä tai r:llä alkava konsonanttiyhtymä, yhtymän toinen konsonantti (tai sen edustaja) lisätään i:n kanssa seuraavan kaavan mukaisesti:**
 
-Vokaali - ensimmäinen konsonantti - toinen konsonantti (sijaishahmo) - i - toinen konsonantti
+
+Vokaali - ensimmäinen konsonantti - toinen konsonantti (edustaja) - i - toinen konsonantti
 
 ::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, punnittu tavu ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, punnittu tavu ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, punnittu tavu ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplikoitu tavu ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत् ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplikoitu tavu ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत् अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplikoitu tavu ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
-Tätä vokaalilla alkavien johdannaisten (kausatiivien) punnintamuotoa kutsutaan "attiseksi punninnaksi".
-## 56.2. Injunktivi
+Tätä vokaalisesti alkavien johdettujen vartaloiden (kausatiivien) reduplikaation muotoa kutsutaan "attikalaiseksi reduplikaatioksi".
+## 56.2. Injunktiivi
 
 ::: grammar-box
-**Injunktivi on augmentiton muoto augmentillisista muodoista, eli sen muodot ovat samat kuin indikatiivin imperfektin tai aoristin augmentittomat muodot. Intialainen kotimainen grammatikka ei ole tunnustanut injunktivia erityiseksi grammattiseksi kategoriaksi.**
+**Injunktiivi on augmenttimuotoja vastaava augmentiton muoto, ts. sen muodot ovat identtiset imperfektin tai aoristin indikatiivin augmentittomien muotojen kanssa. Intian oma kielioppi ei ole tunnistanut injunktiivia erityisenä kieliopillisena kategoriana.**
 :::
-Perustyön mukaisesti:
+Perustavanlaatuisen tutkimuksen mukaan:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Kuv.:
+Kuva:
 Vertailevan kielitieteen professori, Erlangen-Nürnbergin yliopisto (1955 - 1983)
-(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5601))
+(Kuvan lähde: [Details](/fi/licenses#lekt5601))
 :::
 
-:::
 ::: indent
-Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl (1915–1996): Injunktiivi Vedassa : synkroninen funktiotutkimus / Karl Hoffmannin kirjoittama. -- Heidelberg : Winter, 1967. -- 298 s. -- (Indogermaaninen kirjasto : 3. sarja, Tutkimuksia)
 :::
-injunktivilla Veda seuraavat ominaisuudet:
+injunktiivilla on Vedassa seuraavat ominaisuudet:
 
-*   se ei ole kertova, vaan mainitseva
-*   se on aikatasoton
-*   injunktiiivi Preesens (= augmentiton imperfekti) ilmaisee keskenjääneen aspektin
-*   injunktiiivi Aorist ilmaisee valmiiksi tulleen aspektin.
+*   se ei ole kertova vaan mainitseva
+*   se on ajaton
+*   preesensinjunktiivi (= augmentiton imperfekti) merkitsee imperfektiivistä aspektia
+*   aoristinjunktiivi merkitsee perfektiivistä aspektia.
 
 ::: grammar-box
 **Jälkivedisessä sanskritissa injunktiiivi esiintyy vain kielto-osan मा (+ injunktiiivi Aorist) tai मा स्म (+ injunktiiivi Preesens tai Aorist) kanssa; eri aspekti ei yleensä enää tule voimaan.**
@@ -297,4 +295,3 @@ A) Määritä ja käännä ilman apuvälineitä (!) seuraavat muodot:
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

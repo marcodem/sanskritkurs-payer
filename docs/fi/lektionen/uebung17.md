@@ -169,4 +169,3 @@ Käännä seuraavat verbilausekkeet ja anna niihin liittyvä vartalo:
 Kuv.: ⟪शृणोति⟫
 (Kuv lähde: [Details](/licenses#uebung026))
 :::
-:::

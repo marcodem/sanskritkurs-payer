@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "Μάθημα Σανσκριτικών"
-  text: "Ένας πλήρης οδηγός σπουδών"
-  tagline: "από τον Alois Payer (Tüpfli's Global Village Library)"
+  name: "Σανσκριτικό μάθημα"
+  text: "Ένας πλήρης μαθησιακός κύκλος"
+  tagline: "του Alois Payer (Βιβλιοθήκη Tüpfli's Global Village)"
   actions:
     - theme: brand
       text: "Έναρξη Μαθήματος"
@@ -14,20 +14,22 @@ hero:
       link: /el/grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: "Άρτια, ολοκληρωμένη τυπογραφία για ινδικές γραφές."
-  - title: Leicht Durchsuchbar
-    details: "Μια εμβριθής τοπική αναζήτηση πλήρους κειμένου έχει τη γνώση έτοιμη με το πάτημα ενός κουμπιού."
-  - title: Moderne Architektur
-    details: "Χτισμένο στα θεμέλια του VitePress για μέγιστη ταχύτητα."
+  - title: "Παγκόσμιο & Πολύγλωσσο"
+    details: "Διαθέσιμο πλήρως σε 20+ γλώσσες μέσω μιας αυτοματοποιημένης, πολυεπίπεδης αλυσίδας μετάφρασης τεχνητής νοημοσύνης."
+  - title: "Offline-First PWA"
+    details: "Ολόκληρο το μάθημα (συμπεριλαμβανομένης της τοπικής μηχανής αναζήτησης) είναι διαθέσιμο σε όλες τις συσκευές τερματισμού χωρίς ενεργή σύνδεση στο διαδίκτυο."
+  - title: "Σχολική Τυπογραφία"
+    details: "Γενική υποστήριξη για Devanāgarī και IAST μεταγραφή με ακριβή ακαδημαϊκή στοίχιση κειμένου."
+
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+Το **Σανσκριτικό μάθημα** του Alois Payer είναι μια ολοκληρωμένη, επιστημονικά θεμελιωμένη μαθησιακή πορεία για την εκμάθηση της σανσκριτικής γλώσσας και του γραπτού συστήματος Devanāgarī. Αυτή η ψηφιακή έκδοση παρέχει ολόκληρο το μάθημα σε ένα σύγχρονο, πολυγλωσσικό και αναζητήσιμο περιβάλλον ανάγνωσης.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Οι γλώσσες μεταφράστηκαν πλήρως και αυτόματα από τα Γερμανικά με τη βοήθεια μιας πολυεπίπεδης αλυσίδας τεχνητής νοημοσύνης. Οι αναφορές σχετικά με λάθη μετάφρασης είναι ευπρόσδεκτες.
+
+**Επικοινωνία & Συνεισφορά**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Εκδότες**: Διαθέσιμος online editor για συγγραφείς ([payer-author.birchville.org](https://payer-author.birchville.org)) | Εναλλακτικά: Standalone Markdown editor [Zentauri](https://github.com/marcodem/zentauri)
+**Τρέχουσα έκδοση**: v1.7.0
 :::

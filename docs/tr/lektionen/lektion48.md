@@ -141,10 +141,10 @@ Not: ¹ ⟪जहि⟫ için açıklama Thumb-Hauschild I,2 S. 253'te bakınız
 | **2. Kişi** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Kişi** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Üçüncü Şimdiki Zaman Sınıfı (⟪जुहोत्यादि⟫)
+### 48.2.4. Üçüncü şimdiki zaman sınıfı (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
-**3.shahıs çoğul eki \-atu ile biter !**
+**3. çoğul P \-atu ile biter!**
 :::
 ⟪हु⟫ 3P
 
@@ -152,11 +152,11 @@ Not: ¹ ⟪जहि⟫ için açıklama Thumb-Hauschild I,2 S. 253'te bakınız
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Şahıs** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
-| **2. Şahıs** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
-| **3. Şahıs** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
+| **1. kişi** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. kişi** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brdüzensiz¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. kişi** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
-Not: ¹ Dissimilation, sodass nicht zwei Silben mit ⟪ह्⟫ aufeinanderfolgen.
+Not: ¹ Dissimilasyon, öyle ki ⟪ह्⟫ içeren iki hece birbirini izlemez.
 :::
 ⟪धा⟫ 3U
 
@@ -164,11 +164,11 @@ Not: ¹ Dissimilation, sodass nicht zwei Silben mit ⟪ह्⟫ aufeinanderfolg
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Şahıs** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2. Şahıs** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3. Şahıs** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| **1. kişi** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. kişi** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. kişi** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-Not: ¹ ⟪धेहि⟫ aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
+Not: ¹ ⟪धेहि⟫ \*dhazdhi'den: Hint-Avrupa sızıltılı ünsüzü z'nin dengeleyici uzamayla düşmesi; bkz. Thumb-Hauschild I,1 s. 302
 :::
 ⟪हा⟫ 3P
 
@@ -176,9 +176,9 @@ Not: ¹ ⟪धेहि⟫ aus \*dhazdhi: Wegfall des indogermanischen Zischlaut
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Şahıs** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2. Şahıs** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3. Şahıs** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| **1. kişi** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. kişi** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brdüzensiz, güçlü gövde:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. kişi** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
 ## 48.3. İsim türetme: ⟪तद्धित⟫-ekleri -a ve -ya
 
@@ -378,5 +378,5 @@ B) Aşağıdaki cümleleri Sanskritçe'ye çevirin (emir kipi ve mümkünse 2. v
 sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] ⟪शोकमावहेयुररक्षिताः ॥५॥ इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् । यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥ स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च । स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥७॥ पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते । जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥८॥⟫
 :::
 Açıklama:  
-⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) İki sayı, ⟪द्वे कुले⟫ "iki aile" anlamına gelir
+⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) İki'ye karşılık ⟪द्वे कुले⟫ "iki aile"
 

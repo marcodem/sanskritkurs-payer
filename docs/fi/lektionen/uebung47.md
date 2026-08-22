@@ -159,4 +159,3 @@ Sen tulee tuottaa onnea! (Siunaus)
 Kuv.: ⟪माद्यत⟫
 (Kuv lähde: [Details](/licenses#uebung075))
 :::
-:::

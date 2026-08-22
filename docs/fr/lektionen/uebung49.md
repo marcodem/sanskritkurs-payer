@@ -53,25 +53,25 @@ Déterminez les formes suivantes :
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *:sig[⟪बन्ध्⟫]* 9P : Gér. Voc. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *:sig[⟪गायिन्⟫]* : Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *:sig[⟪अहम्⟫]* : Dat. Sg. |
-:::: media
+:::
+::: media
 ![](/images/uebung078.webp)
 Fig. : ⟪गायी⟫
-(Source de l'image : [Détails](/fr/licenses#uebung078))
-::::
+(Source de l'image : [Détails](/licenses#uebung078))
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. siècle après J.-C.) : ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟫e s. apr. J.-C.) : ⟪कादम्बरी⟫
 
-Questions du roi **⟪शूद्रक⟫** de **⟪विदिशा⟫** au perroquet **⟪वैशम्पायन⟫** :
+Questions du roi ⟪शूद्रक⟫ de ⟪विदिशा⟫ au perroquet ⟪वैशम्पायन⟫ :
 
-**⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
+**⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ॥⟫**
 
-**⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
+**⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> Le roi parla : « Laissons cela de côté ! Satisfaites notre curiosité ! Seigneur, racontez-nous depuis le début : Dans quel pays êtes-vous né ? Qui vous a donné le nom ? Qui est votre mère ? Comment avez-vous obtenu les Védas ? Comment vous êtes-vous familiarisé avec les traités ? D’où avez-vous acquis les arts ? Souvenez-vous de naissures antérieures ou exaucez-vous des vœux ? Ou habitez-vous, en portant le vêtement d’un oiseau, un refuge ? Ou où habitiez-vous auparavant ? Ou quel âge avez-vous ? Comment avez-vous été capturé dans une cage ? Et comment êtes-vous tombé entre les mains de Cāṇḍālas ? Ou comment êtes-vous venu ici ? »
->
-> Vaiśampāyana, interrogé par le seigneur de la Terre avec une curiosité spontanée et un grand respect, réfléchit un instant, puis répondit avec une grande déférence : « Roi, c’est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
+> Le roi dit : « Laissons cela de côté ! Satisfaites notre curiosité ! Seigneur, racontez-nous depuis le début : Dans quel pays êtes-vous né ? Qui vous a donné le nom ? Qui est votre mère ? Comment avez-vous obtenu les Védas ? Comment vous êtes-vous familiarisé avec les traités ? D'où avez-vous acquis les arts ? Vous souvenez-vous des naissances antérieures ou pouvez-vous exaucer des vœux ? Ou habitez-vous, en portant le vêtement d'un oiseau, un refuge ? Ou où habitiez-vous auparavant ? Ou quel âge avez-vous ? Comment avez-vous été capturé dans une cage ? Et comment êtes-vous tombé entre les mains des Cāṇḍālas ? Ou comment êtes-vous venu ici ? »
+\>
+> Vaiśampāyana, cependant, qui avait été interrogé avec une curiosité spontanée par le Seigneur de la Terre avec un grand respect, réfléchit un instant puis répondit avec toute la vénération : « Roi, c'est une longue histoire. Si cela vous intéresse, prêtez-moi votre oreille ! »
 
 ::: media
 ![](/images/uebung079.webp)

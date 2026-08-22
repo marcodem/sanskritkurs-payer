@@ -1,5 +1,5 @@
 ---
-title: "# บทที่ 35"
+title: "บทที่ 35"
 lesson_id: 35
 status: stable
 
@@ -129,7 +129,7 @@ status: stable
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Perfecto Tipo Vb: raíz débil Contracción (tipo e)
@@ -197,7 +197,7 @@ Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
 (Bildquelle: [Details](/th/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ร้องเพลง, สวดในทำนองร้องเพลง, ประกาศด้วยถ้อยคำเป็นฉันทลักษณ์
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): ร้องเพลง, สวดด้วยทำนองร้องเพลง, ประกาศในถ้อยคำเป็นฉันทลักษณ์
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
@@ -215,9 +215,9 @@ Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Bildquelle: [Details](/th/licenses#lekt3501))
 :::
-## 35.5. Übung
+## 35.5. การฝึกหัด
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
+A) จงสร้างรูป Perfect ( Perfekt ) ที่สอดคล้องกับกริยาต่อไปนี้:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫
@@ -233,7 +233,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmässig, nach Typ Vb!
+15. ⟪भजन्ति⟫ ผิดปกติ, ตามแบบ Vb!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -280,6 +280,4 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 ⟪अर्हन्तः कुलबन्धनं बिभिदुर्लोभं च क्रोधं च मोहं च रुरुधुः सत्यं प्रजज्ञुर्दुःखान्मुक्ता मोक्षसुखमापुः ॥४॥⟫
 
 C) จงแปลงประโยคในแบบฝึกหัดข้อ B) โดยเปลี่ยนรูปกริยา Perfect ( Perfekta ) เป็น Imperfect ( Imperfekta )
-
-ข้อความจาก: Otto Böhtlingk: Sanskrit-Chrestomathie หน้า 127f.
 

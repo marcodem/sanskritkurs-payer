@@ -20,7 +20,7 @@ A) Intente determinar los posibles significados de las siguientes palabras:
 
 5\. jayaka ⟪जयक⟫ : 3 victorioso
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. guardiana, amuleto &lt;!--  --&gt;
+6\. rakṣikā ⟪रक्षिका⟫ : f. guardiana, amuleto \<!--  --\>
 
 7\. karṣaka ⟪कर्षक⟫ : 3 arando ; m. agricultor
 
@@ -109,5 +109,5 @@ La economía es agricultura, ganadería y comercio.
 ![](/images/uebung013.webp)
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung013))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

@@ -110,4 +110,3 @@ Economia este agricultură, creșterea animalelor și comerț.
 Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung013))
 :::
-:::

@@ -117,7 +117,7 @@ devī + umā » devy umā "Ἡ Οὐμᾶ ἐστὶ μία / ἡ θεά" = ⟪�
 ## 3.5. Sandhi προτάσεως τοῦ -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās πρὸ πάντων φωνηέντων ἀντὶ τῶν -ā τίθεται.**
 :::
 π.χ.
 

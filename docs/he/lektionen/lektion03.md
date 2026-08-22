@@ -117,7 +117,7 @@ devatā + annapūrṇā » devatānnapūrṇā «אלוהה אנפורנה הי�
 ## 3.5. סנדהי משפטי של -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās מוחל ב-ā לפני כל הצלילים המשווים.**
 :::
 למשל
 

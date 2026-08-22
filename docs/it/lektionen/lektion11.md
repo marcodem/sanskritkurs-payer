@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lezione 11
 
@@ -64,7 +64,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
-  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) &lt;!--  --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**) \<!--  --\>
 
 - **iṣ** 6 P ⟪इष्⟫ : desiderare
   - **iṣṭi** f. ⟪इष्टि⟫ : desiderio (**iṣ** + **-ti**)

@@ -7,61 +7,49 @@ last_reconstructed: 2026-05-15
 ---
 
 
-
-
 # Gyakorlat 11
 
 A) Fordítsa le az alábbi mondatokat
 
-⟪१⟫. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ ⟪।⟫
-A védikus bölcus kimondja az igazságot.
+⟪१⟫. ⟪ऋषिः सत्यं वदति ।⟫
+A védikus bölcs igazat mond.
 
-⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
-Egy bráhmanista fiút kíván.
+⟪२⟫. ⟪ब्राह्मणः पुत्रमिच्छति ।⟫
+Egy bráhman fiút kíván.
 
-⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
-Egy szent megérkezik az égbe.
+⟪३⟫. ⟪साधुः स्वर्गं गच्छति ।⟫
+Egy szent felmegy az égbe.
 
-⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+⟪४⟫. ⟪ब्राह्मणो ऽनृतं न वदतीति स्मृतिः ।⟫
+A Smṛti azt mondja, hogy egy bráhman nem mond hazugot.
 
-⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+⟪५⟫. ⟪क्षत्रियो ब्राह्मणं धर्मं पृच्छति ।⟫
+Egy kṣatriya megkérdezi a bráhmant a dharmáról.
 
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Így áldozatot mutat be a bráhmanista az istennek.
+⟪६⟫. ⟪एवं ब्राह्मणो यज्ञेन देवं यजति ।⟫
+Így mutatja be a bráhman áldozatot az istennek.
 
-⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
+⟪७⟫. ⟪पुत्रः पापं करोतीति वैश्या मन्यते ।⟫
 A vaiśya asszony úgy véli, hogy a fia rosszat cselekszik.
 
-⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-A kṣatriya harcol a kṣatriyával.
+⟪८⟫. ⟪क्षत्रियः क्षत्रियेण सह युध्यते ।⟫
+A kṣatriya a kṣatriyával harcol.
 
-⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
-Mivel az álhazás igazságtalanság, a fiú nem követ el rosszat.
+⟪९⟫. ⟪अधर्मो ऽनृतमिति पुत्रः पापं न करोति ।⟫
+Mivel a hazugság bűn, a fiú nem követ el rosszat.
 
-⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
+⟪१०⟫. ⟪अयं क्षत्रियो धर्मं रक्षति ।⟫
 Ez a kṣatriya védi a dharmát.
 
-⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
-Ki tiszteli a tüzet (Agni isten) áldozattal?
+⟪११⟫. ⟪को ऽग्निं यजते ।⟫
+Ki áldoz a tűznek (Agni istennek) áldozattal?
 
-⟪१२⟫. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪॥⟫
+⟪१२⟫. ⟪स श्रावको बुद्धं धर्मं पृच्छति ॥⟫
 Ez a tanítvány megkérdezi Buddhát a tanításáról.
 
 B) Alakítsa át az A) rész mondatait passzív szerkezetbe
 
-⟪१⟫. ⟪ऋषिणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-
-⟪२⟫. ⟪ब्राह्मणेन⟫ ⟪पुत्र⟫ ⟪इष्यते⟫ ⟪।⟫
-
-⟪३⟫. ⟪साधुना⟫ ⟪स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत⟫ ⟪इति⟫ ⟪पुत्रेण⟫ ⟪पुण्यं⟫ ⟪क्रियते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यत⟫ ⟪इति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-
-⟪५⟫. ⟪क्षत्रियेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
-
-⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणेन⟫ ⟪यज्ञेन⟫ ⟪देव⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪१⟫. ⟪ऋषिणा सत्यमुद्यते । २⟫. ⟪ब्राह्मणेन पुत्र इष्यते । ३⟫. ⟪साधुना स्वर्गो⟫ (⟪स्वर्गं⟫) ⟪गम्यत इति पुत्रेण पुण्यं क्रियते । ४⟫. ⟪ब्राह्मणेनानृतं नोद्यत इति स्मृतिः । ५⟫. ⟪क्षत्रियेण ब्राह्मणो धर्मं पृच्छ्यते । ६⟫. ⟪एवं ब्राह्मणेन यज्ञेन देव इज्यते ।⟫
 
 ⟪७⟫. ⟪पुत्रेण⟫ ⟪पापं⟫ ⟪क्रियत⟫ ⟪इति⟫ ⟪वश्यया⟫ ⟪मन्यते⟫ ⟪।⟫
 
@@ -185,56 +173,42 @@ A fül hall. A füllel hallgatunk.
 ⟪२⟫. ⟪कर्षकैः⟫ ⟪कृष्यते⟫ ⟪।⟫
 A földművesek szántanak.
 
-⟪३⟫. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ ⟪।⟫
-Egy buddhista követő nem áldoz URAKNAK.
+⟪३⟫. ⟪श्रावकेणेश्वरो नेज्यते ।⟫
+Egy buddhistanem áldoz a HERR-nek.
 
-⟪४⟫. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ ⟪।⟫
-A amulett védi a mestert.
+⟪४⟫. ⟪रक्षिक्या गुरू रक्ष्यते ।⟫
+Az amulett megvédi a mestert.
 
-⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-Egy bráhmana nem mond hazugságot.
+⟪५⟫. ⟪ब्राह्मणेनानृतं नोद्यते ।⟫
+Egy bráhmananem mond hazugot.
 
-⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
-Itarā ist eine Śūdrafrau.
+⟪६⟫. ⟪शूद्रेतरा ।⟫
+Itarā egy śūdraasszony.
 
-⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-A védához kapcsolódó segédtudományok: a kiejtéstannal, a rituálék tudománya, a nyelvtan, a szavak jelentésének tanulmánya, a metrika és a naptártan.
+⟪७⟫. ⟪शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमङ्गानि ।⟫
+A Védához tartozó segédtudományok: a kiejtéstannal, rituálék, nyelvtan, szójegyzéktan, metrika és naptártudomány.
 
-⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-A tudományok: a filozófia, a védológia, az ökonómia és a politikatudomány.
+⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो विद्याः ॥⟫
+Tudományok: filozófia, védológia, közgazdaságtan és politikatudomány.
 
-D) Fordítsa le, majd szanszkritban fejezze ki az agenset (cselekvőt), az objektumot és a ige többes számban:
+D) Fordítsa le, majd tegye szanszkritra az agenset, objektumot és igét többes számban:
 
-⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
-Ő gyümölcsöt kap.
-⟪फलान्यश्नुवन्ते⟫ ⟪।⟫
+⟪१⟫. ⟪फलमश्नुते ।⟫
+Ő kap egy gyümölcsöt.
+⟪फलान्यश्नुवन्ते । २⟫. ⟪गुरुणा सत्यमुद्यते ।⟫
+A mester mondja az igazságot.
+⟪गुरुभिः सत्यान्युद्यन्ते । ३⟫. ⟪वैश्यः पशुं लभते ।⟫
+A vaiśya állatot kap.
+⟪वैश्याः पशुंल्लभन्ते । ४⟫. ⟪पुत्रः पुण्यं करोति ॥⟫
+A fiam jót cselekszik.
+⟪पुत्राः पुण्यानि कुर्वन्ति ॥⟫
 
-⟪२⟫. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
-A mester kimondja az igazságot.
-⟪गुरुभिः⟫ ⟪सत्यान्युद्यन्ते⟫ ⟪।⟫
+E) Alakítsa át a C)1-5 mondatokat aktív szerkezetekké.
 
-⟪३⟫. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ ⟪।⟫
-A vaiśya állatokat kap.
-⟪वैश्याः⟫ ⟪पशुंल्लभन्ते⟫ ⟪।⟫
-
-⟪४⟫. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪॥⟫
-A fiam érdemtelent cselekszik.
-⟪पुत्राः⟫ ⟪पुण्यानि⟫ ⟪कुर्वन्ति⟫ ⟪॥⟫
-
-E) Alakítsa át a C) 1-5. mondatokat aktív szerkezetekké.
-
-⟪१⟫. ⟪श्रवणं⟫ ⟪शृणोति⟫ ⟪।⟫
-
-⟪२⟫. ⟪कर्ष⟫ka⟪ः⟫ ⟪कृषन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪श्रावक⟫ ⟪ईश्वरं⟫ ⟪न⟫ ⟪यजते⟫ ⟪।⟫
-
-⟪४⟫. ⟪रक्षिका⟫ ⟪गुरुं⟫ ⟪रक्षति⟫ ⟪।⟫
-
-⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
+⟪१⟫. ⟪श्रवणं शृणोति । २⟫. ⟪कर्ष⟫ka⟪ः कृषन्ति । ३⟫. ⟪श्रावक ईश्वरं न यजते । ४⟫. ⟪रक्षिका गुरुं रक्षति । ५⟫. ⟪ब्राह्मनो ऽनृतं न वदति ॥⟫
 
 ::: media
 ![](/images/uebung021.webp)
-Abb.: ⟪फलान्यश्नुते⟫
-(Képmagyarázat: [Details](/licenses#uebung021))
+Ábra: ⟪फलान्यश्नुते⟫
+(Képmegjelenítés: [Részletek](/licenses#uebung021))
 :::

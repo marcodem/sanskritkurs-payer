@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 
----# Lezione 10
+---
 
 ## 10.1. La frase passiva
 
@@ -229,18 +229,18 @@ ad es. **tan** 8 U.
 **pāpa** n. ⟪पाप⟫ : atto malvagio, male (contrario a **puṇya**)
 **satya** n. ⟪सत्य⟫ : verità
 
-:::: note-box
+::: note-box
 In India si attribuiva alla parola vera un potere magico, sì che l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione si veda l'opera fondamentale:
 
+:::
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A cura del lascito di Ludwig Alsdorf. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1003))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1003))
 :::
 **anṛta** n. ⟪अनृत⟫ : menzogna, bugia (contrario di **satya**)
 
@@ -253,22 +253,22 @@ Fig.: ⟪वरुणः⟫
 **ṛṣi** m. ⟪ऋषि⟫ : saggio vedico, autore di inni vedici
 
   ::: note-box
-  I nomi di questi **ṛṣi** sono menzionati nei Brāhmaṇas e in elenchi specifici dedicati ai Veda. Tutti i Brahmani fanno risalire la loro discendenza a tali **ṛṣi**, dai quali derivano i nomi dei loro **gotra** (⟪गोत्र⟫). Per il concetto di **gotra** si veda Basham, *Wonder*, cap. 5.
+  I nomi di questi **ṛṣi** sono menzionati nei Brāhmaṇa e in elenchi specifici dedicati ai Veda. Tutti i Brahmani fanno risalire la loro discendenza a tali **ṛṣi**, dai quali derivano i nomi dei loro **gotra** (⟪गोत्र⟫). Per il concetto di **gotra** si veda Basham, *Wonder*, cap. 5.
   :::
 
 ::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1002))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1002))
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : dire, parlare
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : chiedere (qualcuno: Acc.; qualcosa: Acc.)
-**saha** ⟪सह⟫ : insieme a, in comune con (anche nel contesto di „combattere contro“ ecc.) (Postposizione con strumentale)
+**saha** ⟪सह⟫ : insieme con, in comune con (anche nel contesto di „combattere contro“ ecc.) (Postposizione con strumentale)
 
 
-## 10.6. Esercizio
+## 10.6. Esercizi
 
-**A) Formate il passivo per le seguenti forme verbali (con traduzione della forma verbale):**
+**A) Formate il passivo per le seguenti forme verbali (con la traduzione della forma verbale):**
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)
@@ -322,7 +322,7 @@ Fig.: ⟪विश्वामित्रः⟫
 ::: media
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
-(Fonte dell'immagine: [Dettagli](/licenses#lekt1004))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1004))
 :::
 5. Gli insegnanti chiedono. (Costruzione passiva)
 6. L'occhio guida. (Costruzione passiva)

@@ -134,7 +134,7 @@ Lokativ (⟪सप्तमी⟫) şu sorulara cevap vermek için kullanılır:
 
 Örnekler:
 ::: indent
-⟪जातु⟫ "genel olarak" (aslında "doğumdan, doğuştan", Akk.sg.n. ⟪जातु⟫ \&lt;artık isim olarak kullanılmıyor\&gt;)
+⟪जातु⟫ "genel olarak" (aslında "doğumdan, doğuştan", Akk.sg.n. ⟪जातु⟫ \<artık isim olarak kullanılmıyor\>)
 
 ⟪तूष्णीम्⟫ "sessizce" (artık kullanılmayan bir ⟪तूष्णी⟫ f. "sessizlik" için Akk.sg.)
 
@@ -383,7 +383,7 @@ A) Aşağıdaki soruları parantez içinde belirtilen kelimeleri kullanarak Sans
 
 ⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \&lt;Absolutiv\&gt;)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
 ⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 

@@ -602,4 +602,3 @@ sarvathā kuśalam.
 Fig.: ⟪देवतान्नपूर्णा⟫
 (Sursă imagine: [Detalii](/licenses#uebung005))
 :::
-:::

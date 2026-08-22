@@ -5,7 +5,7 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lección 14
 
@@ -106,7 +106,7 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | &lt;!--  --&gt;
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | \<!--  --\>
 
 :::
 **Pronombres interrogativos y pronombres demostrativos:**
@@ -241,7 +241,7 @@ Traduzca los siguientes proverbios y memorícelos:
 Fig.: ⟪पुत्रवती⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ &lt;!--  --&gt;
+⟪२६⟫. ⟪जल⟫ \<!--  --\>
 
 ⟪२७⟫. ⟪मार्ग⟫
 
@@ -335,4 +335,4 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1402))
 :::
- &lt;!--  --&gt;
+ \<!--  --\>

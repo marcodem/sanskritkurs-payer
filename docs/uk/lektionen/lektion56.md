@@ -146,7 +146,7 @@ status: stable
 ::: indent
 Гоффманн, Карл (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
-інжунктив у Веді має такі властивості: &lt;!--  -→
+інжунктив у Веді має такі властивості: \<!--  -→
 
 *   він не повідомляє, а згадує
 *   він поза часовими стадіями
@@ -209,7 +209,7 @@ Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill
 Рис.: ⟪अलं⟫  ⟪विषादेन⟫
 (Джерело зображення: [Деталі](/uk/licenses#lekt5603))
 :::
-## 56.4. ⟪स्म⟫ &lt;!--  -→
+## 56.4. ⟪स्म⟫ \<!--  -→
 
 ::: grammar-box
 **⟪स्म⟫ підкреслює: "дійсно, справді, певно, саме"**

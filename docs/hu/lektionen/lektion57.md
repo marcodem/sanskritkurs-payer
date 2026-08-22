@@ -42,63 +42,66 @@ Ilyen formák tartozhatnak a gyökaoristához is, és valószínűleg részben o
 Az indiai grammatikusok olyan formákat, mint ⟪अकृत (3.sg.Ā), a s-aoristához soroltak, amelyek egyértelműen a gyökaoristához tartoznak. E célból az indiai grammatikusok a következő ad-hoc hangszabályt találták ki az s-aoristára:
 
 ::: indent
-"Rövid magánhangzó után azok a „végződések”, amelyek -st- vagy -sth- betűkkel kezdődnek, elveszítik a -s-t."
+"Rövid magánhangzó után a -st- vagy -sth- kezdettel rendelkező "ragok" elveszítik a -s- hangot."
 :::
-Egyébként figyelembe kell venni a szóvégi mássalhangzók s-vel való kapcsolatára vonatkozó hangszabályokat.
+Egyéb esetben figyelembe kell venni a szóvégi mássalhangzók s-vel való kapcsolódására vonatkozó hangzási szabályokat.
 
-A -dhvam-ra vonatkozik:
+A -dhvam-ra vonatkozóan:
 
 ::: grammar-box
-**A -dhvam -dh-je minden nem a/ā magánhangzó, valamint az -r után -ḍh-ra cserélődik.**
+**A -dhvam -dh- hangja minden nem a/ā magánhangzó, valamint -r után -ḍh- hangra változik.**
 
 :::
 ::: indent
 pl. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
-**A gyök formája:**
+**Tőalak:**
 
 *   **⟪परस्मैपद⟫ : Nyújtott fok**
 *   **⟪आत्मनेपद⟫ :**
-    *   **i/ī/u/ū végződésű gyökök: Emelt fok**
-    *   **a végén álló -ṝ helyett -īr vagy -ūr**
-    *   **ā/e/o végződésű, ablautképes gyökök: Alacsony fok**
-    *   **egyéb gyökmagánhangzók: változatlan (azaz általában alacsony fokú)**
+*   **i/ī/u/ū végződésű tők: Emelt fok**
+*   **a -ṝ végződést -īr vagy -ūr helyettesíti**
+*   **ablaut-képes ā/e/o végződésű tők: Mély fok**
+*   **egyéb tőmagánhangzók: változatlan (azaz általában mély fokú)**
 :::
 Példák:
 
-|   | **3. sz.** |
+|   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
 | ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
 | ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
 
-|   | **3. sz.Ā** |
+|   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
-|   | **sz.Ā** |
+|   | **sg.Ā** |
 | ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
-|   | **1. sz.Ā** |
-| ⟪कृ⟩ 8U | ⟪अकृषि⟫ |
-| ⟪पच्⟩ 1U | ⟪अपक्षि⟫ |
+|   | **1.sg.Ā** |
+| ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
+| ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟩ és ⟪सृज्⟩ a ⟪परस्मैपद⟩ hosszabbított fokozatban emelkedő diphtongus -rā-val:**
+**A ⟪दृश्⟫ és a ⟪सृज्⟫ esetében a ⟪परस्मैपद⟥ nyújtott fok emelkedő diphtongon -rā-:**
 
 :::
 ::: indent
-⟪दृश्⟩ 3. sz.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
+⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Tőn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Az aoristus más tőknél is így képezhető, ha -ṛ- hangzik az utolsó előtti szótagban:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
+Paradigmák:
+
+⟪नी⟫ 1U "vezet"
 Paradigmák:
 
 ⟪नी⟫ 1U "vezet"
@@ -235,4 +238,3 @@ B) Fordítsa le és határozza meg a következő alakokat:
 54.  ⟪आदि्षि⟫
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
-

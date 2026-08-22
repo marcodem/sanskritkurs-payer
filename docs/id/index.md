@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Kursus Sanskerta"
   text: "Sebuah kursus lengkap"
-  tagline: "oleh Alois Payer (Perpustakaan Global Village Tüpfli)"
+  tagline: "oleh Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
       text: "Mulai Kursus"
@@ -14,21 +14,22 @@ hero:
       link: /id/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "Tipografi sempurna dan terintegrasi untuk aksara India."
-  - title: "Mudah Dicari"
-    details: "Pencarian teks lokal yang mendalam membuat pengetahuan tersedia hanya dengan satu klik."
-  - title: "Arsitektur Modern"
-    details: "Dibangun di atas fondasi VitePress untuk kecepatan maksimal."
+  - title: "Global & Polyglot"
+    details: "Tersedia sepenuhnya dalam 20+ bahasa melalui kaskade terjemahan AI multi-tahap yang diotomatisasi."
+  - title: "PWA Offline-First"
+    details: "Seluruh kursus (termasuk mesin pencari lokal) dapat digunakan di semua perangkat tanpa koneksi internet aktif."
+  - title: "Tipografi Akademik"
+    details: "Dukungan asli untuk Devanāgarī dan transliterasi IAST dengan penyesuaian teks akademis yang tepat."
 
 ---
 
 ::: note-box
-**Kursus Sanskerta** karya Alois Payer adalah kursus komprehensif dan berbasis ilmiah untuk mempelajari bahasa Sanskerta dan aksara Devanāgarī. Edisi digital ini menyajikan seluruh kursus dalam lingkungan baca modern, multibahasa, dan dapat dicari.
+**Kurs Sanskerta** karya Alois Payer adalah kursus komprehensif dan berbasis ilmiah untuk mempelajari bahasa Sanskerta dan aksara Devanāgarī. Edisi digital ini menyajikan seluruh kursus dalam lingkungan baca modern, multibahasa, dan dapat dicari.
 
-Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman dengan bantuan AI (Qwen3.6-32B). Laporan mengenai kesalahan terjemahan sangat diterima dengan baik.
-**Catatan & Kontak**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**Berpartisipasi sebagai Lektor atau Kurator**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**Editor Open-Source Zentauri**: Editor Markdown mandiri di [GitHub](https://github.com/marcodem/zentauri)
-**Wiki Pengembang & Arsitektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman dengan bantuan kaskade AI bertingkat. Laporan mengenai kesalahan terjemahan sangat diterima.
+
+**Kontak & Kontribusi**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Wiki Proyek](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Editor**: Editor daring tersedia untuk penulis ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternatif: Editor Markdown mandiri [Zentauri](https://github.com/marcodem/zentauri)
+**Versi Saat Ini**: v1.7.0
 :::

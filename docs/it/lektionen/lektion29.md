@@ -164,7 +164,7 @@ Spiegazioni:
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "quattro" come primo membro di un composto
 
-⟪राज्ञा⟫ Instr. sg. masc. di ⟪राजन्⟫ m. "re" &lt;!--  --&gt;
+⟪राज्ञा⟫ Instr. sg. masc. di ⟪राजन्⟫ m. "re" \<!--  --\>
 
 ⟪स्वेषु⟫ : Loc. pl. masc. / neut. di ⟪स्व⟫ ⟪३⟫ "proprio (mio, tuo, suo ecc.)"
 

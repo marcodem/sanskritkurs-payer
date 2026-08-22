@@ -173,15 +173,18 @@ a) elsődlegesen, saját rendi életvitel révén, különösen a **foglalkozás
 b) másodlagosan, öröklött karizmával, sikeres presztízsigények révén a rendi **származás** (**születési rendek**) erejéből,
 c) a politikai vagy hierokratikus uralkodói hatalmak rendi **birtokba vételével** monopóliumként (**politikai vagy hierokratikus rendek**).
 
-A születési státus szerinti fejlődés rendszerint egy (öröklött) privilégiumok apropriálási formája, amely egy társadalmi csoporthoz vagy kvalifikált egyénekhöz kapcsolódik. Minden szilárd esélyek apropriálása, különösen [az] uralkodói [hatalom vagy megélhetési] esélyek, hajlamos a státusok kialakulására. Minden státusképződés hajlamos az uralkodói hatalmak és megélhetési esélyek monopolisztikus apropriálására vezetni.
+A rendek keletkezhetnek
+a) elsődlegesen, saját rendi életvitel révén, különösen az **foglalkozás** (**életviteli vagy foglalkozási rendek**) jellege alapján,
+b) másodlagosan, örökletes karizmával, sikeres presztízsigények révén a rendi **származás** erejéből (**születési rendek**),
+c) a politikai vagy hierokratikus uralkodói hatalmak monopolizálására irányuló rendi **appropriáció** révén (**politikai vagy hierokratikus rendek**).
 
-Míg a megélhetési osztályok a piaci orientáltságú gazdaság talaján nőnek, kialakulnak és fennmaradnak a státusok inkább a monopolisztikusan irányított liturgikus, vagy a feudális, vagy a státusbeli patrimonialis szükségletfedezés talaján.
+A születési rendi fejlődés rendszerint az (örökletes) appropriáció egy formája, amely privilégiumokat biztosít egy szervezethez vagy kvalifikált egyénekhez. A lehetőségek, különösen [az] uralkodói [hatalmak vagy megélhetési] lehetőségek minden szilárd appropriációja hajlamos rendképződéshez vezetni. Minden rendképződés hajlamos az uralkodói hatalmak és megélhetési lehetőségek monopolisztikus appropriációjához vezetni.
 
-»**Státusbeli**«-nek azt a társadalmat kell nevezni, ha a társadalmi tagolódás főként státusok szerint történik, »**osztálybeli**«-nek pedig, ha főként osztályok szerint. A »státus« közül a »osztályoktól« a »szociális« osztály áll hozzá legközelebb, a »megélhetési osztály« pedig a legtávolabb. A státusokat gyakran birtokosztályok képezik súlypontjuk szerint.
+Míg a megélhetési osztályok a piaci gazdaság talaján nőnek, addig a rendek inkább a monopolisztikus leiturgiai vagy a feudális, illetve a rendi patrimoniumos szükségletkiesztés talaján keletkeznek és léteznek.
 
-Minden státusbeli társadalom konvencionális, az életvitel szabályai szerint rendezett, ezért gazdaságilag irracionális fogyasztási feltételeket teremt, és ezen módon a monopolisztikus apropriációk révén, valamint a saját megélhetési képesség feletti szabad rendelkezés kizárásával gátolja a szabad piaci képződést.
+»**Rendi**«-nek nevezünk egy társadalmat, ha a társadalmi tagolódás elsősorban rendek szerint történik, »**osztályjellegű**«-nek pedig, ha elsősorban osztályok szerint. A »renddel« szemben a »osztályok« közül a »társadalmi« osztály áll legközelebb, a »megélhetési osztály« pedig legtávolabb. A rendeket gyakran birtokosztályok alkotják a súlypontjuk szerint.
 
-[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+Minden rendi társadalom konvencionális, az életvitel szabályai szerint rendezett, ezért gazdaságilag irracionális fogyasztási feltételeket teremt, és ezen keresztül a monopolisztikus appropriációk révén, valamint a saját megélhetési képesség feletti szabad rendelkezés kizárásával gátolja a szabad piacképződést.
 :::
 A varṇák ennek megfelelően születési rendek.
 

@@ -156,4 +156,3 @@ Să fie spre noroc! (Urare de binecuvântare)
 Fig.: ⟪माद्यत⟫
 (Sursa imaginii: [Detalii](/licenses#uebung075))
 :::
-:::

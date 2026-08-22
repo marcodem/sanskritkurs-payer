@@ -803,19 +803,8 @@
                 <option value="fi/lektionen/lektion01">Suomi (FI)</option>
                 <option value="hu/lektionen/lektion01">Magyar (HU)</option>
                 <option value="zh/lektionen/lektion01">Traditional Chinese (ZH)</option>
-                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
                 <option value="fa/lektionen/lektion01">Persian (FA)</option>
-                <option value="nl/lektionen/lektion01">Nederlands (NL)</option>
-                <option value="am/lektionen/lektion01">Amharic (AM)</option>
-                <option value="af/lektionen/lektion01">Afrikaans (AF)</option>
-                <option value="lt/lektionen/lektion01">Lietuvių (LT)</option>
-                <option value="sh/lektionen/lektion01">Srpsko-hrvatski (SH)</option>
-                <option value="sq/lektionen/lektion01">Shqip (SQ)</option>
-                <option value="pt/lektionen/lektion01">Português (PT)</option>
                 <option value="bg/lektionen/lektion01">Bulgarian (BG)</option>
-                <option value="tr/lektionen/lektion01">TR</option>
-                <option value="vi/lektionen/lektion01">VI</option>
-                <option value="zu/lektionen/lektion01">ZU</option>
             </select>
         </div>
 
@@ -842,7 +831,7 @@
                     </div>
                 </div>
                 <button class="control-btn active" onclick="toggleVimMode()" id="btn-vim" title="Vim Keybindings Toggle">VIM: ON</button>
-                <button class="control-btn" onclick="openHelpModal()" id="btn-help" title="Manual & Help">Help</button>
+                <button class="control-btn" onclick="openHelpModal()" id="btn-help" title="Handbuch, Workflow & Formatierungs-Hilfe" style="background:#10b981; color:white; font-weight:bold;">Autoren-Hilfe</button>
                 <button class="control-btn" onclick="exitQA()" id="btn-exit-qa" title="End QA, return to page">END QA</button>
             </div>
             <div class="btn-group" id="editor-actions" style="display: none;">
@@ -859,6 +848,7 @@
         </div>
 
         <div class="controls-group group-right">
+            <button class="control-btn" onclick="openCloudFile()" id="btn-cloud-load" style="background:#2563eb; color:white; min-width: 130px; margin-right: 10px;" title="Lade aktuelle Lektion von GitHub">Aus Cloud laden</button>
             <button class="VPSwitch" onclick="toggleTheme()" id="theme-btn" title="Toggle Theme">
                 <span class="check">
                     <svg class="icon sun-icon" viewBox="0 0 24 24"><path d="M12,18c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6S15.3,18,12,18zM12,8c-2.2,0-4,1.8-4,4s1.8,4,4,4s4-1.8,4-4S14.2,8,12,8z M12,4V2c0-0.6-0.4-1-1-1s-1,0.4-1,1v2c0,0.6,0.4,1,1,1S12,4.6,12,4z M12,22v-2c0-0.6-0.4-1-1-1s-1,0.4-1,1v2c0,0.6,0.4,1,1,1S12,22.6,12,22z M5.6,6.6L4.2,5.2c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0l1.4,1.4c0.4,0.4,0.4,1,0,1.4S6,7,5.6,6.6z M19.8,18.4l-1.4-1.4c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0l1.4,1.4c0.4,0.4,0.4,1,0,1.4S20.2,18.8,19.8,18.4z M4,12H2c-0.6,0-1-0.4-1-1s0.4-1,1-1h2c0,0.6,0.4,1,1,1S4.6,12,4,12z M22,12h-2c-0.6,0-1-0.4-1-1s0.4-1,1-1h2c0,0.6,0.4,1,1,1S22.6,12,22,12z M6.6,18.4l-1.4,1.4c-0.4,0.4-1,0.4-1.4,0s-0.4-1,0-1.4l1.4-1.4c0.4-0.4,1-0.4,1.4,0S7,18,6.6,18.4z M18.4,6.6l1.4-1.4c0.4-0.4,1-0.4,1.4,0s0.4,1,0,1.4l-1.4,1.4c-0.4,0.4-1,0.4-1.4,0S18,7,18.4,6.6z"></path></svg>
@@ -890,19 +880,8 @@
                 <option value="fi/lektionen/lektion01">Suomi (FI)</option>
                 <option value="hu/lektionen/lektion01">Magyar (HU)</option>
                 <option value="zh/lektionen/lektion01">Traditional Chinese (ZH)</option>
-                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
                 <option value="fa/lektionen/lektion01">Persian (FA)</option>
-                <option value="nl/lektionen/lektion01">Nederlands (NL)</option>
-                <option value="am/lektionen/lektion01">Amharic (AM)</option>
-                <option value="af/lektionen/lektion01">Afrikaans (AF)</option>
-                <option value="lt/lektionen/lektion01">Lietuvių (LT)</option>
-                <option value="sh/lektionen/lektion01">Srpsko-hrvatski (SH)</option>
-                <option value="sq/lektionen/lektion01">Shqip (SQ)</option>
-                <option value="pt/lektionen/lektion01">Português (PT)</option>
                 <option value="bg/lektionen/lektion01">Bulgarian (BG)</option>
-                <option value="tr/lektionen/lektion01">TR</option>
-                <option value="vi/lektionen/lektion01">VI</option>
-                <option value="zu/lektionen/lektion01">ZU</option>
             </select>
         </div>
     </div>
@@ -938,9 +917,14 @@
             <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: compact</code><span class="syn-desc" data-syn-d="cmp">compact table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')" style="border-left: 4px solid #10b981; padding-left: 6px;"><code>::: laut-table</code><span class="syn-desc" data-syn-d="laut">Sound table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrics</span></div>
+            <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
+            <h4>VitePress Extensions</h4>
+            <div class="syn-row" onclick="insertSnippet('\n::: info\n', '\n:::')" style="border-left: 4px solid #3b82f6; padding-left: 6px;"><code>::: info</code><span class="syn-desc">Info Box</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: tip\n', '\n:::')" style="border-left: 4px solid #10b981; padding-left: 6px;"><code>::: tip</code><span class="syn-desc">Tip Box</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: warning\n', '\n:::')" style="border-left: 4px solid #eab308; padding-left: 6px;"><code>::: warning</code><span class="syn-desc">Warning</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: danger\n', '\n:::')" style="border-left: 4px solid #ef4444; padding-left: 6px;"><code>::: danger</code><span class="syn-desc">Danger</span></div>
+            <div class="syn-row" onclick="insertSnippet('\n::: details Click to expand\n', '\n:::')" style="border-left: 4px solid #8b5cf6; padding-left: 6px;"><code>::: details</code><span class="syn-desc">Accordion</span></div>
                         <div class="syn-row" onclick="insertSnippet('\n::: custom-block\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: custom-block</code><span class="syn-desc" data-syn-d="cus">custom-block</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: info\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: info</code><span class="syn-desc" data-syn-d="inf">info</span></div>
-            <div class="syn-row" onclick="insertSnippet('\n::: tip\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: tip</code><span class="syn-desc" data-syn-d="tip">tip</span></div>
             <!-- END_CONTAINER_SNIPPETS -->
         </div>
         <div class="pane" id="left-pane">
@@ -1122,6 +1106,11 @@
         function detectInitialContext() {
             // 1. URL-Parameter (höchste Priorität)
             const params = new URLSearchParams(window.location.search);
+            const fileParam = params.get('file');
+            if (fileParam) {
+                const m = fileParam.match(/docs\/(?:([a-z]{2}(?:-[A-Z]{2})?)\/)?lektionen\/lektion(\d+)\.md/);
+                if (m) return { lesson: m[2], lang: m[1] || '' };
+            }
             if (params.get('lesson')) return { lesson: params.get('lesson'), lang: params.get('lang') || '' };
 
             // 2. Referrer analysieren
@@ -1304,7 +1293,8 @@
         }
 
         function stripFrontmatter(text) {
-            const m = text.match(/^---\n([\s\S]*?\n)---\n/);
+            // Match starting ---, then any content, then --- (with optional trailing spaces/HTML comments on the line)
+            const m = text.match(/^---\r?\n([\s\S]*?\n)---[^\n]*\n/);
             if (m) {
                 window._editorFrontmatter = m[0];
                 return text.slice(m[0].length);
@@ -1649,7 +1639,16 @@
             notice._timer = setTimeout(() => { notice.style.display = 'none'; }, 15000);
         }
 
-        const isServerMode = window.location.hostname.includes('autor') || window.location.port === '3000' || window.location.port === '5173' || window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+        function getGitHubToken() {
+            let token = localStorage.getItem('github_pat');
+            if (!token) {
+                token = prompt('Bitte GitHub Personal Access Token (PAT) eingeben, um Dateien bearbeiten zu können:\n\n(Please ask webmaster@birchville.org for author access permission)');
+                if (token) {
+                    localStorage.setItem('github_pat', token.trim());
+                }
+            }
+            return token ? token.trim() : null;
+        }
 
         async function openCloudFile() {
             const num = document.getElementById('lesson-num').value.padStart(2, '0');
@@ -1659,13 +1658,31 @@
             relPath += '.md';
             const filepath = 'docs/' + relPath;
 
+            const token = getGitHubToken();
+            if (!token) return;
+
             try {
-                const res = await fetch(`/api/load?filepath=${encodeURIComponent(filepath)}&t=${Date.now()}`, { cache: 'no-store' });
-                if (!res.ok) throw new Error('Failed to load file');
+                let res = await fetch(`https://api.github.com/repos/marcodem/sanskritkurs-payer/contents/${filepath}?ref=author-drafts`, {
+                    headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' },
+                    cache: 'no-store'
+                });
+                
+                if (!res.ok) {
+                    res = await fetch(`https://api.github.com/repos/marcodem/sanskritkurs-payer/contents/${filepath}?ref=main`, {
+                        headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' },
+                        cache: 'no-store'
+                    });
+                    if (!res.ok) {
+                        if (res.status === 401 || res.status === 403) throw new Error('Token ungültig oder keine Lese/Schreibrechte.');
+                        throw new Error('Datei nicht gefunden.');
+                    }
+                }
+                
                 const data = await res.json();
+                const content = decodeURIComponent(escape(atob(data.content)));
                 
                 const editorInput = document.getElementById('editor-input');
-                editorInput.value = stripFrontmatter(data.content);
+                editorInput.value = stripFrontmatter(content);
                 window._originalEditorContentText = editorInput.value;
                 if (cmEditor) {
                     cmEditor.setValue(editorInput.value);
@@ -1680,6 +1697,7 @@
                 renderPreview();
             } catch (e) {
                 alert('ERROR beim Laden aus der Cloud: ' + e.message);
+                if (e.message.includes('Token')) localStorage.removeItem('github_pat');
             }
         }
         const KNOWN_CONTAINER_TYPES = ['center', 'media', 'note-box', 'tip', 'warning', 'info', 'danger',
@@ -1734,6 +1752,9 @@
                 alert('Bitte zuerst eine Datei laden.');
                 return;
             }
+            const token = getGitHubToken();
+            if (!token) return;
+
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
 
@@ -1753,15 +1774,64 @@
 
             const savedValue = cmEditor ? cmEditor.getValue() : editorInput.value;
             const text = (window._editorFrontmatter || '') + savedValue;
+            const base64Content = btoa(unescape(encodeURIComponent(text)));
 
             if (btn) btn.textContent = 'Speichert...';
             try {
-                const res = await fetch('/api/save', {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ filepath: window._currentCloudFile, content: text })
+                const owner = 'marcodem';
+                const repo = 'sanskritkurs-payer';
+                const branch = 'author-drafts';
+                const headers = { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github.v3+json' };
+
+                let branchRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/branches/${branch}`, { headers });
+                if (!branchRes.ok) {
+                    const mainRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/ref/heads/main`, { headers });
+                    const mainData = await mainRes.json();
+                    await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs`, {
+                        method: 'POST',
+                        headers,
+                        body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: mainData.object.sha })
+                    });
+                }
+
+                let fileSha = undefined;
+                const fileRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}?ref=${branch}`, { headers });
+                if (fileRes.ok) {
+                    const fileData = await fileRes.json();
+                    fileSha = fileData.sha;
+                }
+
+                const updateRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${window._currentCloudFile}`, {
+                    method: 'PUT',
+                    headers,
+                    body: JSON.stringify({
+                        message: `Redaktionelle Änderung: ${window._currentCloudFile}`,
+                        content: base64Content,
+                        branch: branch,
+                        sha: fileSha
+                    })
                 });
-                if (!res.ok) throw new Error('Save failed');
+                
+                if (!updateRes.ok) {
+                    if (updateRes.status === 401 || updateRes.status === 403) throw new Error('Token ungültig oder keine Schreibrechte.');
+                    throw new Error('Speichern auf GitHub fehlgeschlagen (Status ' + updateRes.status + ')');
+                }
+
+                const prsRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls?head=${owner}:${branch}&base=main&state=open`, { headers });
+                const prsData = await prsRes.json();
+                if (prsData.length === 0) {
+                    await fetch(`https://api.github.com/repos/${owner}/${repo}/pulls`, {
+                        method: 'POST',
+                        headers,
+                        body: JSON.stringify({
+                            title: 'Redaktionelle Änderungen (QA-Viewer)',
+                            head: branch,
+                            base: 'main',
+                            body: 'Automatischer Pull Request des QA-Viewers.\nBitte Änderungen im "Files changed" Tab prüfen und dann mergen.'
+                        })
+                    });
+                }
+
                 window._originalEditorContentText = savedValue;
                 updateSaveButtonState();
                 if (btn) {
@@ -1770,6 +1840,8 @@
                 }
             } catch (e) {
                 console.error(e);
+                alert('ERROR beim Speichern: ' + e.message);
+                if (e.message.includes('Token')) localStorage.removeItem('github_pat');
                 if (btn) {
                     btn.textContent = '❌ ERROR';
                     setTimeout(() => { btn.textContent = 'Save'; }, 1800);
@@ -1850,7 +1922,7 @@
         }
 
         async function saveEditor() {
-            if (isServerMode) return saveCloudFile();
+            if (window._currentCloudFile) return saveCloudFile();
             const editorInput = document.getElementById('editor-input');
             const btn = document.getElementById('menu-save');
 
@@ -2425,7 +2497,7 @@
     <script type="module">
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
-        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible';
+        import extensiblePlugin from 'https://esm.sh/gh/marcodem/markdown-it-extensible';
         const multimd = window.markdownitMultimdTable;
 
         function buildRenderer() {

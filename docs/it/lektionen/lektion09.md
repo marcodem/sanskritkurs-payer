@@ -84,7 +84,7 @@ Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernag
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano &lt;!--  --&gt;
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano \<!--  --\>
 
 ::: media
 ![](/images/lekt0902.webp)
@@ -168,4 +168,4 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (secondo Kauṭilīya-Arthaśāstra 1.4.1.)
- &lt;!--  --&gt;
+ \<!--  --\>

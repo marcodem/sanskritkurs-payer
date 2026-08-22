@@ -392,7 +392,6 @@ Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/rm/licenses#lekt4604)
 (Imàgin da la font: [Detagls](/rm/licenses#lekt4604))
 :::
 
-:::
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/rm/licenses#lekt4605)

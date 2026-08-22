@@ -125,4 +125,3 @@ Buddhan vapauttava tieto:
 Kuv.: ⟪कदलीगर्भनिःसारः⟫
 (Kuv lähde: [Details](/licenses#uebung088))
 :::
-:::

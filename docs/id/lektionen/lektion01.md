@@ -1,6 +1,6 @@
 ---
-title: "[Pelajaran 1]"
-subtitle: "Bunyi-bunyi dalam Sanskerta"
+title: "Pelajaran 1"
+subtitle: "Bunyi-bunyi dalam Bahasa Sanskerta"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
@@ -115,7 +115,7 @@ Tata bahasa sistematis yang baik berdasarkan pada para grammatikus pribumi dan s
 
 ::: media
 ![](/images/lekt0107.jpg)
-Abb.: Sampul judul
+Gbr.: Sampul judul
 (Sumber gambar: [Details](/id/licenses#lekt0107))
 :::
 
@@ -127,7 +127,7 @@ Sebuah paparan yang baik dan ringkas mengenai terminologi linguistik Eropa dapat
 
 ::: media
 ![](/images/lekt0108.jpg)
-Abb.: Sampul belakang judul
+Gbr.: Sampul belakang judul
 (Sumber gambar: [Details](/id/licenses#lekt0108))
 :::
 

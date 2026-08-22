@@ -1,8 +1,9 @@
 ---
-title: "Eserzitziun 49"
+title: "[Esercizi 49]"
 uebung_id: 49
-category: "Eserzitziun"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 

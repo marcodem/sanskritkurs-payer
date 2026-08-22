@@ -145,4 +145,3 @@ Pentru a-i elibera de rău, Buddha poruncește oamenilor nobili să recunoască 
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung045))
 :::
-:::

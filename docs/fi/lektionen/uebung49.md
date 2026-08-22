@@ -3,9 +3,8 @@ title: "Harjoitus 49"
 uebung_id: 49
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
-
-
 
 
 # Harjoitus 49
@@ -23,7 +22,7 @@ Määritä seuraavat muodot:
 | ⟪६⟫. | ⟪मन्यै⟫ | :sig[⟪मन्⟫] 4Ā: Imp. 1. Sg. Ā. |
 | ⟪७⟫. | ⟪मान्यै⟫ | :sig[⟪मन्⟫] 4Ā: Kaus. Pass. Imp. 1. Sg. |
 | ⟪८⟫. | ⟪मान्यैः⟫ | :sig[⟪मन्⟫] 4Ā: Kaus. Gerundiv Instr. Pl. m. n. |
-| ⟪९⟫. | :sig[⟪अहम्⟫] | Minä: Nom. Sg. |
+| ⟪९⟫. | ⟪अहम्⟫ | Ich: Nom. Sg. |
 | ⟪१०⟫. | ⟪अहन्⟫ | :sig[⟪हन्⟫] 2P: Impf. 2. 3. Sg. P. |
 | ⟪११⟫. | ⟪आत्थ⟫ | :sig[⟪अह्⟫]: Perf. 2. Sg. P. |
 | ⟪१२⟫. | ⟪आत्त⟫ | :sig[⟪अद्⟫] 2P: Impf. 2. Pl. P. |
@@ -58,25 +57,24 @@ Määritä seuraavat muodot:
 ::: media
 ![](/images/uebung078.webp)
 Kuv.: ⟪गायी⟫
-(Kuvälähde: [Yksityiskohdat](/licenses#uebung078))
+(Kuvan lähde: [Yksityiskohdat](/licenses#uebung078))
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. vrj. jKr.): ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟩. eaa.): ⟪कादम्बरी⟫
 
-Kuninkaan ⟪शूद्रक⟫ kuningaalta ⟪विदिशा⟫ papukaijalle ⟪वैशम्पायन⟫ esittämät kysymykset:
+Kuninkaan ⟪शूद्रक⟫ maasta ⟪विदिशा⟫ esittämät kysymykset papukaijalle ⟪वैशम्पायन⟫:
 
-**⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
+**⟪नरपतिरब्रवीत् । आस्तां तावत्सर्वमेवेदम् । अपनयतु नः कुतूहलम् । आवेदयतु भवानादितः प्रभृति कार्त्न्येनात्मनो जन्म कस्मिन्देशे । भवान्कथं जातः । केन वा नाम कृतम् । का माता । कस्ते पिता । कथं वेदानामागमः । कथं शास्त्राणां परिचयः । कुतः कलाः समासादिताः । किं जन्मान्तरानुस्मरणमुत वरप्रदानम् । अथवा विहंगवेषधारी कश्चिच्छन्नं विवससि । क्व वा पूर्वमुषितम् । कियद्वा वयः । कथं पञ्जरबन्धः । कथं चाण्डालहस्तगमनम् । इह वा कथमागमनमिति ॥⟫**
 
+**⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-**⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
-
-> Kuninkas sanoi: "Jätetään tämä rauhaan! Tyydyttäkää uteliaisuutemme! Herra, kerro alusta asti: Missä maassa synnyit? Kuka antoi sinulle nimen? Kuka on äitisi? Miten sait Vedit? Miten tutustuit oppeihin? Mistä hankit taidot? Muistatko aiemmat syntymät tai täytätkö toiveita? Vai asutko piilossa, kun puet itsesi linnun vaatteisiin? Tai missä asuit aiemmin? Kuinka vanha olet? Miten joudut häkkiin? Ja miten jouduit cāṇḍala-käsiksi? Tai miten tulit tänne?"
->
-> Vaiśampāyana, joka oli maan hallitsijan kysynyt spontaanilla uteliaisuudella ja suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!"
+> Kuninkaalla oli sanonut: "Jätetäänkö tämä kaikki menemään? Tyydyttäkää uteliaisuuteni! Herra, kerro alusta asti: Missä maassa sinut syntyi? Kuka antoi sinulle nimen? Kuka on äitisi? Miten sait Vedat? Miten tutustuit opinkirjoihin? Mistä hankit taidot? Muistatko aiempia syntymiä tai voitko täyttää toiveita? Vai asutko piilossa, kun pukeudut linnun vaatteisiin? Tai missä asuit aiemmin? Vai kuinka vanha olet? Miten joudut häkkiin? Ja miten päädyit cāṇḍalas-käsien väliin? Tai miten tulit tänne?"
+\>
+> Vaiśampāyana, joka oli maan isännän spontaanilla uteliaisuudella kysynyt suurella kunnioituksella, mietti hetken ja vastasi sitten täydellä kunnioituksella: "Kuningas, tämä on pitkä tarina. Jos se kiinnostaa sinua, lainaa korvasi!"
 
 ::: media
 ![](/images/uebung079.webp)
-Kuva: ⟪शुकः⟫
-(Kuv lähde: [Details](/licenses#uebung079))
+Kuv.: ⟪शुकः⟫
+(Kuvan lähde: [Details](/licenses#uebung079))
 :::

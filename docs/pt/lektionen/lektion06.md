@@ -25,7 +25,7 @@ Se o agente (**kartṛ** m. = ⟪कर्तृ⟫) é mencionado numa oração
 Uma forma verbal finita, ou seja, uma forma verbal com desinência pessoal, expressa o seguinte em sânscrito:
 
 1. **Significado** (**artha** m. ⟪अर्थ⟫)
-2. **Pessoa** e **Número** (número, **vacana** n. = ⟪वचन⟫) (eu, tu, ele &lt;ela&gt;, nós dois, vós dois, eles dois, nós, vós, eles)
+2. **Pessoa** e **Número** (número, **vacana** n. = ⟪वचन⟫) (eu, tu, ele \<ela\>, nós dois, vós dois, eles dois, nós, vós, eles)
 3. Voz verbal (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("forma da palavra com referência a outro"): Ativa. p. ex. **yajati** = ⟪यजति⟫ = "Ele adora com um sacrifício" (nomeadamente o sacerdote, que realiza o sacrifício para outra pessoa)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("forma da palavra com referência a si mesmo"): Média. p. ex. **yajate** = ⟪यजते⟫ = "Ele adora com um sacrifício em seu próprio interesse" (nomeadamente o patrono do sacrifício, que sacrifica para si e para a sua família)

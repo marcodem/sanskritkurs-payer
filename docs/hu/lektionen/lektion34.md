@@ -168,7 +168,6 @@ Példák:
 :::
 ## 34.5. Perfektum II. típus: erős tő magas foka, gyenge tő alacsony foka
 
-:::
 ## 34.6. Szószedet
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
@@ -243,7 +242,6 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **⟪या⟫ 2P ⟪याति⟫ :** megy, halad
 
 **⟪कन्या⟫ f.:** Lány, szűz
-:::
 **⟪निकेतन⟫ n.:** lakhely, templom
 
 **⟪कोटि⟫ f.:** csúcs; 10 millió
@@ -339,7 +337,5 @@ Hindu esküvői rituálé.
 (Képforrás: [Részletek](/hu/licenses#lekt3407))
 :::
 
-:::
 
 
-:::

@@ -1,202 +1,199 @@
 ---
-title: Lesung 5
-subtitle: "Grondslagen van de naamwoordelijke samenstellingen (samāsa)"
+title: "Les 5"
+subtitle: "Grondslagen van de nominale samenstellingen (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Grammatica"
+category: "Grammatik"
 status: stable
+
 ---
 
-# Les 5
+## 5.1. Nominalcomposita (samāsa m. = ⟪समास⟫)
 
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+De vorming van samenstellingen op zeer grote schaal is een kenmerk van het Sanskriet.
 
-Die Bildung von Wortzusammensetzungen in sehr grossem Umfang ist ein Charakteristikum des Sanskrit.
+De belangrijkste vormen van samengestelde woorden zijn:
+- **copulatieve samengestelde woorden** (dvandva n. = ⟪द्वन्द्व⟫)
+- **determinatieve samenstellingen** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+- **bezittelijke samenstellingen** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
-Die wichtigsten Bildungsformen von Komposita sind:
-- **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫)
-- **determinative Komposita** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **Possesivkomposita** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
-
-(Zu den beiden letztgenannten siehe später!)
+(Zie verderop voor de laatste twee!)
 
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. Over de Sanskriet-terminologie voor samengestelde woorden
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Glieder eines Kompositums
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Auflösung eines Kompositums
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Kompositum, in dem das Vorderglied eine Kasusendung behält
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden
+- **ghaṭakapadāni** n. mv. = ⟪घटकपदानि⟫ : onderdelen van een samengesteld woord
+- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : ontleding van een samengesteld woord
+- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : samengesteld woord waarvoor geen vigrahavākya bestaat of waarvan de vigrahavākya niet mogelijk is met de woorden van het samengestelde woord.
+- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : samengesteld woord waarin het eerste deel een naamvaluitgang behoudt
+- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : samengesteld woord waarvan de eerste leden geen naamvaluitgangen hebben (het normale geval)
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : samengesteld woord waarin een of meer middelste delen worden weggelaten
 
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Copulatieve samenstellingen (Dvandva n. = ⟪द्वन्द्व⟫)
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven).
+De copulatieve samenstellingen dienen ter koppeling van grammaticaal gelijksoortige, gecoördineerde leden (zelfstandige naamwoorden of bijvoeglijke naamwoorden).
 
 ::: grammar-box
-**Ein Dvandva bezeichnet:**
+**Een Dvandva duidt aan:**
 
-1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:**
+1. **ofwel de samenvattende verbinding van de personen, dingen of eigenschappen die door de afzonderlijke leden worden aangeduid:**
    Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:**
-   Samāhāradvandva ("Zusammenfassungsdvandva") = ⟪समाहारद्वन्द्व⟫
+2. **of het vat deze personen, dingen of eigenschappen samen tot één eenheid:**
+   Samāhāradvandva („samenvattende dvandva”) = ⟪समाहारद्वन्द्व⟫
+**In het eerste geval (Itaretaradvandva):**
+Het dvandva krijgt het grammaticale geslacht van het laatste lid en de uitgangen van het duum (bij twee dingen) of van het meervoud (bij meer dan twee dingen). Ook enkelvoudsuitgangen zijn toegestaan.
 
-**Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig.
+**In het tweede geval (Samāhāradvandva):**
+De Dvandva is over het algemeen onzijdig (ongeacht het geslacht van het laatste lid) en staat in het enkelvoud.
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular.
-
-**Die Auflösung:**
-Erfolgt mit "und" (**ca** = ⟪च⟫), gelegentlich mit "oder" (**vā** = ⟪वा⟫) oder "je".
+**De samenvoeging:**
+Vindt plaats met „en“ (**ca** = ⟪च⟫), soms met „of“ (**vā** = ⟪वा⟫) of „elk“.
 :::
-Zu den Dualdvandva siehe später!
+Zie verderop voor de duale dvandva’s!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Voorleden van samengestelde woorden
 
-Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten **Nominalstamms**. Die einzelnen Glieder von Komposita werden nach den Regeln des **Satzsandhi** verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet).
+De voorleden van samengestelde woorden (niet alleen dvandva’s) hebben in de regel de vorm van de onveranderde **naamwoordstam**. De afzonderlijke delen van samengestelde woorden worden verbonden volgens de regels van de **zinssandhi** (d.w.z. de sandhi die we tot nu toe hebben leren kennen, in tegenstelling tot de woordsandhi, die binnen het woord vóór vormende elementen wordt toegepast).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Meervouds-Itaretaradvandva
 
-Beispiele für Pluraldvandva:
+Voorbeelden van meervouds-Dvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras)
-> 
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra)
+\> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫
+\> (brahmanen, kṣatriya’s, vaiśya’s en śūdra’s)
+\> 
+\> of = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः क्षत्रियो वैश्यः शूद्रश्च⟫
+\> ((een) Brahmaan, Kṣatriya, Vaiśya en Śūdra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Dichter und Lehrer [Plur.])
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
+\> = kavayo guravaś ca = ⟪कवयो गुरवश्च⟫
+\> (dichters en leraren [mv.])
+\> (Opmerking: „Een dichter en een leraar” zou in het dual moeten staan!)
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:**
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäss ihrer Hierarchie (höchster zuerst) geordnet werden.
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden.
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden.
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen.
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen.
-- Wörter, die weniger Silben enthalten, sollen vorausgehen.
+**Voor de volgorde van de leden in een Dvandva gelden o.a. de volgende regels:**
+De benaming van de verschillende standen (**varṇa**) dient volgens hun hiërarchie (hoogste eerst) geordend te worden.
+De naam van de oudere broer dient aan de naam van de jongere broer voorafgegaan te worden.
+In het algemeen dient het belangrijkere woord aan het begin geplaatst te worden.
+Woorden die op **-i** of **-u** eindigen, dienen vooraf te gaan.
+Woorden die op **-a** eindigen en met een klinker beginnen, dienen vooraf te gaan.
+Woorden die minder lettergrepen bevatten, dienen vooraf te gaan.
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
+Waar twee van de drie laatstgenoemde voorschriften tegelijkertijd van toepassing kunnen zijn, dient altijd de later gegeven regel gevolgd te worden. (Voorbeelden van Dualdvandva bij deze regels bij Kielhorn, Grammatica § 570).
 
 
-## 5.4. Wortliste
+## 5.4. Woordenlijst
 
-**Lernen Sie folgende Wörter:**
+**Leer de volgende woorden:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : neiging tot, hardnekkigheid, volhouden; speciaal: gehechtheid aan het lichaam alsof het iets eigens is.
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
+**kāma** m. = ⟪काम⟫ : wens, begeerte, gewenste gave, zinnelust, liefde; liefdesgod Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+Afb.: god Kāma = kāmadeva = ⟪कामदेव⟫, 18e eeuw.
+(Afbeeldingsbron: Wikipedia, Public domain)
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn.
+**krodha** m. = ⟪क्रोध⟫ : toorn.
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
+**kleśa** m. = ⟪क्लेश⟫ : kwelling, plaag.
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**trayī** f. = ⟪त्रयी⟫ : drietal; in het bijzonder de drie Veda's (Ṛgveda, Sāmaveda, Yajurveda).
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ : politiek (een tatpuruṣa bestaande uit daṇḍa m. = "stok, macht, heerschappij, straf" en nīti f. = "rechte leiding").
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : tweemaalgeborene.
+**dveṣa** m. = ⟪द्वेष⟫ : haat.
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**maitrī** v. = ⟪मैत्री⟫ : vriendschap, vriendelijkheid, welwillendheid.
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**rāga** m. = ⟪राग⟫ : (rode) kleur, hartstocht, liefde.
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**lobha** m. = ⟪लोभ⟫ : hebzucht, begeerte.
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**varṇa** m. = ⟪वर्ण⟫ : kleur, soort, stand.
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**vārttā** v. = ⟪वार्त्ता⟫ : verworven bezit, economie (economie).
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**vidyā** v. = ⟪विद्या⟫ : kennis, wetenschap.
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**avidyā** v. = ⟪अविद्या⟫ : onwetendheid, onkennis.
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**ca** = ⟪च⟫ : en.
+(Wordt achter het woord geplaatst waarmee het wordt verbonden. Als meerdere woorden worden verbonden, staat het idealiter achter het eerste woord van het laatste verbindingslid: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
-
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : zowel ... als.
 
 
-## 5.5. Übung
+## 5.5. Oefening
 
-**A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:**
+**A) Vertaal de volgende zinnen en samengestelde woorden en ontleed de daarin voorkomende dvandva’s in het Sanskriet:**
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
-   ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Erklärung: catvāras = ⟪चत्वारस्⟫ = "vier")
+   ⟪चत्वारो वर्णा ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
+   (Uitleg: catvāras = ⟪चत्वारस्⟫ = "vier")
 
 2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ.
    (Vāsiṣṭhadharmaśāstra II,1)
-   ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Erklärung: trayas = ⟪त्रयस्⟫ = "drei")
+   ⟪त्रयो वर्णा द्विजातयो ब्राह्मणक्षत्रियवैश्याः⟫ ||
+   (Uitleg: trayas = ⟪त्रयस्⟫ = "drie")
 
 3. sāmavedargvedayajurvedās trayī.
-   (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
+   (Kauṭilīya-arthaśāstra 1.3.1. / in correct Sanskriet: sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in gutem Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫)
+   (in correct Sanskriet: ⟪सामार्यजुर्वेदास्त्रयी⟫)
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6):
+4. De drie vijanden van de mens, die de poort naar de hel vormen (Viṣṇusmṛti 33,1+6):
    kāmakrodhalobhāḥ
    ⟪कामक्रोधलोभाः⟫ ||
 
 5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.)
+⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो ब्रह्मविहाराः⟫ ||
+(Uitleg: brahmavihāra: "toestanden van verblijf van Brahma", ook wel "de onmetelijken" genoemd. Het zijn boeddhistische meditatievormen.)
 
 6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
-   (Yogasūtra 2,3)
-   ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Erklärung: pañca = "fünf")
+(Yogasūtra 2,3)
+⟪अविद्यास्मितारागद्वेषाभिनिवेषाः पञ्च क्लेशाः⟫ ||
+(Uitleg: pañca = "vijf")
 
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
-   (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
+(Naar Kauṭilīya-arthaśāstra 1.2.1.)
+⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो विद्याः⟫ ||
 
 
-## 5.6. Wiederholungsübung
+## 5.6. Herhalingsopdracht
 
-**A) Übersetzen Sie:**
+**A) Vertaal:**
 
 1. vidyā vārttā.
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
+⟪विद्या वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+⟪ब्राह्मणः क्षत्रियो वैश्यश्च त्रयो वर्णा द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten)
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
+3. dvijā vaiśyāḥ. (2 mogelijkheden)
+⟪द्विजा वैश्याः⟫ |
 
-**B) Setzen Sie die entsprechende Form ein:**
+**B) Vul de overeenkomstige vorm in:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:**
+**C) Los het samenstelling op in de volgende zin in Sanskriet en vorm met deze ontbonden vorm dezelfde zin:**
 
 sāmargyajurvedās trayī.
 ⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):**
+**D) Vertaal op twee manieren naar het Sanskriet (eenmaal met een samenstelling, eenmaal zonder):**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
+"Toestanden van verblijf van Brahma" zijn: vriendelijke welwillendheid, mededogen, meevreugde, gelijkmoedigheid.

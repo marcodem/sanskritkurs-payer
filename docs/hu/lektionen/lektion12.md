@@ -78,7 +78,6 @@ A következő képzési módok fordulnak elő (minden egyes gyökhöz meg kell t
 A nőnemű tövek: **-tā**, **-itā**, **-nā**; az semleges nem a **phala** n. szerint ragozódik.
 :::
 
-:::
 ### 12.3.1. PPP -ta (kta) végződésű
 
 #### 12.3.1.1. Kötőmaghang nélkül (-i-) (aniṭ)
@@ -139,7 +138,6 @@ Az *aniṭ* képzések esetén az alábbi szóbelső hangkapcsolási törvények
 | **7. h-t helyett ḍh lép fel, ha előtte i vagy u van; vagy gdh. Egy ilyen ḍh előtt az a helyett o, ritkábban ā lép fel:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-:::
 ## 12.5. Szószedet
 
 - **budh** 4 A (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : felébredni, az ismeretre ébredni, megérteni; PPP **buddha** 3 felébredt, ezért **Buddha** = „a Felébredt” (nem: a Megvilágosodott)

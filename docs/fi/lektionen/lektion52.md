@@ -291,7 +291,6 @@ Esimerkkejä:
 
 Esimerkkejä:
 
-:::
 ::: indent
 100 ⟪शत⟫ n.
 1000 ⟪सहस्र⟫ n.
@@ -367,7 +366,6 @@ Kuv.: ⟪चतुर्मुखः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5205))
 :::
 
-:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ perusluvun kanssa etuliitteenä ei voi muodostaa vapaasti:**
 
@@ -381,7 +379,6 @@ Seitsemän tähden ryhmä = Isomman karhun (Ursa maior) kirkkaimmat seitsemän t
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt5206))
 :::
 
-:::
 ::: grammar-box
 **Sääntö 2: Poiketen säännöstä 1 sana, joka tarkoittaa ilmansuuntaa tai peruslukua, voi muodostaa muiden substantiivien kanssa Tatpuruṣa-yhdyssanan, jos**
 
@@ -695,7 +692,6 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, n. 1810
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5216))
 :::
 
-:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
@@ -779,5 +775,4 @@ Kuv.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5201))
 :::
 
-:::
 

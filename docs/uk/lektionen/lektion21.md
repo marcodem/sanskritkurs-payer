@@ -5,7 +5,7 @@ lesson_id: 21
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  -→
+---
 
 # Урок 21
 
@@ -85,7 +85,7 @@ status: stable
 | | **starker Основа** | Основа презенсу + **-ant-** |
 | | **schwacher Основа** | Основа презенсу + **-at-** :br(Der Auslaut des schwachen Основа презенсуes lautet gleich wie vor der 3. Plur. P.) |
 | **Жіночий рід** | | |
-| | | Основа презенсу + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | &lt;!--  -→
+| | | Основа презенсу + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | \<!--  -→
 
 :::
 2\. Клас теперішнього часу:

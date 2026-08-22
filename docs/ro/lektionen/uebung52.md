@@ -122,4 +122,3 @@ Cunoașterea eliberatoare a Budelor:
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung088))
 :::
-:::

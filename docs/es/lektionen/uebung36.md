@@ -69,7 +69,7 @@ Uno no puede vivir únicamente de la ciencia. Quien sepa esto, no debería estud
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung061))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Fragmentos eruditos
 
@@ -96,7 +96,7 @@ Si un hombre no se alegra ni se entristece cuando oye, toca, ve, saborea o huele
 Lám.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung060))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Determinación de formas verbales
 

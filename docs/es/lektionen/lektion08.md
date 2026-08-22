@@ -6,7 +6,7 @@ category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 
---- &lt;!--  --&gt;
+---
 
 # Lección 8
 
@@ -47,7 +47,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 
 ## 8.3. Algunos sufijos nominales importantes
 
-### 8.3.1. -a m. (kṛt) &lt;!--  --&gt;
+### 8.3.1. -a m. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **El sufijo kṛt -a forma sustantivos masculinos (rara vez neutros) que designan una acción o un estado indicado por la raíz; a veces también adjetivos o sustantivos que expresan el agente (kartṛ) de la acción indicada por la raíz verbal. Para penúltimas breves (= vocal antes de consonante, en la que termina la raíz) o vocal final de raíz, generalmente se sustituye por el grado alto (guṇa) o el grado alargado (vṛddhi).**
@@ -67,7 +67,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "el ser, el (algo) ser, naturaleza, carácter" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combatiente, guerrero, soldado" |
 
-### 8.3.2. -ana n. (kṛt) &lt;!--  --&gt;
+### 8.3.2. -ana n. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **El sufijo kṛt -ana forma generalmente sustantivos neutros que designan una acción, un estado o el medio o instrumento mediante el cual se lleva a cabo la acción designada por la raíz o el tema verbal. Para una penúltima breve o una vocal final de la raíz, por lo general se sustituye por el grado alto (guṇa).**
@@ -87,7 +87,7 @@ En la gramática india tradicional se distingue entre los sufijos con los que se
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0801))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: note-box
@@ -97,7 +97,7 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 (Fuente: Wikipedia)
 :::
 
-### 8.3.3. -tra n. (kṛt) &lt;!--  --&gt;
+### 8.3.3. -tra n. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **El sufijo kṛt -tra forma (mayormente) sustantivos neutros, que designan el medio o instrumento, por el cual se lleva a cabo la acción designada por la raíz. La penúltima corta y la vocal final de la raíz se reemplazan por el grado fuerte (guṇa).**
@@ -125,7 +125,7 @@ Los hindúes piadosos van al templo para obtener la visión de Dios a través de
 (Fuentes de las imágenes: [Detalles](/es/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) &lt;!--  --&gt;
+### 8.3.4. -ti f. (kṛt) \<!--  --\>
 
 ::: grammar-box
 **El sufijo kṛt -ti forma sustantivos femeninos que, en general, expresan la acción designada por la raíz o el estado designado por la raíz. La forma de la raíz es del grado reducido.**

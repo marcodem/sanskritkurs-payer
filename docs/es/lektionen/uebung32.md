@@ -115,7 +115,7 @@ Los hijos de Buda han reconocido la verdad, han detenido el sufrimiento y han al
 Fig.: ⟪सम्पन्नरूपा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung050))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Determinación de formas verbales
 
@@ -295,7 +295,7 @@ Inserte las palabras entre paréntesis en las siguientes oraciones y tenga en cu
 Fig.: ⟪पुनर्दर्शनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung052))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Fragmento erudito (Stotra)
 
@@ -308,7 +308,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung053))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Narrativa: El anciano y los monos (Sanskrit-Bālādarśa)
 
@@ -321,5 +321,5 @@ Una vez, un anciano fue a otro pueblo y se cansó en el camino. Para descansar, 
 ![](/images/uebung054.webp)
 Fig.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung054))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

@@ -5,7 +5,7 @@ lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lección 11
 
@@ -64,7 +64,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : preguntar
-  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) &lt;!--  --&gt;
+  - **praśna** m. ⟪प्रश्न⟫ : pregunta (sufijo **-na** como en **yaj-ña**) \<!--  --\>
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
   - **iṣṭi** f. ⟪इष्टि⟫ : deseo (**iṣ** + **-ti**)
@@ -138,4 +138,4 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1103))
 :::
- &lt;!--  --&gt;
+ \<!--  --\>

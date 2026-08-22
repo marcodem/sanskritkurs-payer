@@ -25,7 +25,7 @@ Ha az alany (**kartṛ m. = ⟪कर्तृ⟫) egy nem passzív igemondatban
 Egy véges (rögzült) igealak, azaz személyes végződésű igemondat a szanszkritban a következőket fejezi ki:
 
 1. **Jelentés** (**artha m. ⟪अर्थ⟫)
-2. **Személy** és **szám** (vacana n. = ⟪वचन⟫) (én, te, ő \&lt;ő, az\&gt;, mi ketten, ti ketten, ők ketten, mi, ti, ők)
+2. **Személy** és **szám** (vacana n. = ⟪वचन⟫) (én, te, ő \<ő, az\>, mi ketten, ti ketten, ők ketten, mi, ti, ők)
 3. Viselkedésmód (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) („másra utaló szóalak”): Aktívum. pl. **yajati** = ⟪यजति⟫ = „Ő áldozattal tisztel” (nevezetesen a pap, aki másokért végzi az áldozatot)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) („önmagára utaló szóalak”): Medium. pl. **yajate** = ⟪यजते⟫ = „Ő áldozattal tisztel saját érdeke érdekében” (nevezetesen az áldozó úr, aki önmagáért és családjáért áldoz)
@@ -148,7 +148,6 @@ Az **a** a jelen idő osztályainak szóképző utótagjaiban **témavokálisnak
 - Válasz: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = „(Nekem) minden tekintetben jól van.”
 :::
 
-:::
 ## 6.7. Szószedet
 
 ::: grammar-box

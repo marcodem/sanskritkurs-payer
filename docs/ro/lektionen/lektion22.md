@@ -261,5 +261,4 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
 :::
 
-:::
 

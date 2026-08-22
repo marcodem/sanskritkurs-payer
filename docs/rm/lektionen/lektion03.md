@@ -120,7 +120,7 @@ p.ex.
 ## 3.5. Sandhi da frasa cun -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās vegn tut las consonants sonoras vegn -ā sutitgà.**
 :::
 p.ex.
 

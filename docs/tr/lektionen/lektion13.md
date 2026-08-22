@@ -1,6 +1,6 @@
 ---
 title: "Ders 13"
-subtitle: "na- ekiyle PPP"
+subtitle: "na- sonlu PPP"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -13,49 +13,49 @@ status: stable
 
 ## 13.1. PPP auf -na-
 
-Paylaşılan PPP'ler için -ta- veya -na- üzerine kesin kurallar belirlenemez. Ancak:
+PPP'lerin -ta- veya -na- üzerine dağılımı için kesin kurallar koyulamaz. Ancak:
 
 ::: grammar-box
 
-d ile biten köklerin neredeyse tamamı PPP'yi -na- üzerine oluşturur. Bu durumda, kelime sandhi'de normalde gerçekleşmeyen -d-n- yerine -n-n- kullanılır; bu, cümle sandhi'sinin bir taklididir.
+d ile biten köklerin neredeyse tamamı PPP'yi -na- üzerine oluşturur. Bu durumda, -d-n-, -n-n- ile değiştirilir; bu durum kelime sandhisinde (Wortsandhi) başka türlü gerçekleşmez, ancak cümle sandhisinin bir taklididir.
 
 Örnek:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. PPP'nin kullanımı hakkında ek bilgiler
+## 13.2. PPP'nin Kullanımı Hakkında Ek Bilgiler
 
 ::: grammar-box
 
-**1. "Düşünmek", "istemek", "bilmek/kavramak", "bilgi sahibi olmak" ve "saygı duymak/anmak" anlamlarına sahip fiillerin yanı sıra Dhātupāṭha'da (Pāṇini'nin kök sözlüğü) ñi ile işaretlenmiş diğer bazı fiillerin PPP'si yalnızca geçmiş zaman anlamı taşımaz; aynı zamanda şimdiki zaman anlamında da kullanılabilir:**
+**1. "Düşünmek", "istemek", "bilmek/kavramak", "bilgiye sahip olmak", "ibadet etmek" anlamlarına sahip fiillerin yanı sıra, Dhātupāṭha'da (Pāṇini'nin kök sözlüğü) ñi ile işaretlenmiş diğer bazı fiillerin PPP'si yalnızca geçmiş zaman anlamına sahip değildir, aynı zamanda presentik (şimdiki/zamanlı) bir anlama da sahip olabilir:**
 örn.
 :::
 ::: indent
 ⟪इष्ट⟫ "istenen" (yani yalnızca geçmişte istenmiş değil, aynı zamanda şu anda da istenen)
-⟪त्वरित⟫ "acele eden, hızlı" (tvar 1 Ā fiiline ait PPP; Dhātupāṭha: ñitvárā)
+⟪त्वरित⟫ "koşan, acele eden" (tvar 1 Ā PPP'si; Dhātupāṭha: ñitvárā)
 :::
 
-**2. PPP, sıfat olarak önek (attributif) şeklinde kullanılabilir:**
+**2. PPP, sıfat olarak önek (attributiv) olarak kullanılabilir:**
 örn.
 ::: indent
 ⟪इष्टं फलम्⟫ "istenen meyve (örn. eylemlerin)"
 :::
 
-Bu durumda ⟪अपि⟫ PPP'den sonra geldiğinde, ⟪अपि⟫ "halbuki" anlamına gelir:
+Bu durumda ⟪अपि⟫ PPP'den sonra geldiğinde, ⟪अपि⟫ "rağmen" anlamına gelir:
 örn.
 ::: indent
-⟪इष्टमपि फलं न लभते⟫ = "Meyveyi istese de onu elde edemez."
+⟪इष्टमपि फलं न लभते⟫ = "Meyveyi istese de, onu elde edemez."
 :::
 
-**3. Herhangi bir fiilin PPP'sinin nötr tekil hali, aynı zamanda bir sözcük türevi (verbal abstract) olarak da kullanılabilir:**
+**3. Herhangi bir fiilin PPP'sinin nötr tekil hali, aynı zamanda bir fiilsel soyut isim (Verbalabstraktum) olarak da kullanılabilir:**
 örn.
 ::: indent
 ⟪गत⟫ n.: "gitme, yürüyüş"
 ⟪नृत्त⟫ n.: "dans etme, dans"
 :::
 
-## 13.3. İsimlerin önek niteliğindeki belirteçleri (Kelime dizilişi)
+## 13.3. İsimlerin Önek Belirteçleri (Söz Dizimi)
 
 ::: grammar-box
 
@@ -154,7 +154,7 @@ c + dh- » -g-dh- ⟪ग्ध्⟫
 
 Dişi:
 
-mant- ve -vant- sonlu köklerin dişi çekimi -mat-ī veya -vat-ī şeklinde olur. Çekim devī'deki gibi gider, yani kök derecelendirmesi yoktur.
+mant- ve -vant- sonlu köklerin dişi çekimi, sırasıyla -mat-ī ve -vat-ī şeklinde olur. Çekim devī'deki gibi gider, yani kök derecelendirmesi yoktur.
 
 Örnek:
 * paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
@@ -169,15 +169,15 @@ Aşağıdaki kelimeleri öğrenin:
 **asura** m. ⟪असुर⟫ : demon
 
 > **ASURA.** 'Ruhani, ilahi.'
->
-> Ṛgveda'nın en eski bölümlerinde bu terim üstün ruh için kullanılır ve Zerdüştilerin Ahurası ile aynıdır. 'Tanrı' anlamında, Indra, Agni ve Varuṇa gibi başlıca tanrılardan birkaçına uygulanmıştır. Daha sonra tamamen zıt bir anlam kazanmış ve şimdi olduğu gibi, tanrıların düşmanı veya demonu ifade etmeye başlamıştır.
->
-> Bu anlamla kelime, Ṛgveda'nın daha sonraki bölümlerinde, özellikle son kitapta ve ayrıca Atharvaveda'da bulunur. Brāhmaṇalar aynı anlamı ona atfeder ve Asuralar ile tanrılar arasındaki birçok mücadeleyi kaydeder. Taittirīya Brāhmaṇa'ya göre, Prajapati'nin nefesi *(asu)* canlı hale geldi ve "o nefesle ben Asuraları yarattım." Aynı eserin başka bir yerinde Prajāpati'nin "hamile kaldığı" ve karınlarından Asuraları yarattığı söylenir. Śatapatha Brāhmaṇa önceki ifadeyle uyum içindedir ve "Asuraları alt nefesinden yarattı" der. Taittirīya Āraṇyaka, Prajāpati'nin sudan tanrıları, insanları, ataları, Gandharvaları ve Apsaraları yarattığını ve Asuraların, Rakṣasaların ve piśācaların dökülen damlalardan çıktığını gösterir. Manu'nun ifadesi, onların Prajāpatis tarafından yaratıldığı yönündedir.
->
-> Viṣṇu Purāṇa'ya göre, Brahma'nın (prajāpati) kasığından üretildiler. Vāyu Purāṇa'nın anlatımı şöyledir: "Asuralar ilk olarak oğlu olarak kasığından üretildi. *Asu*, Brāhmaṇa tarafından nefes anlamına geldiği ilan edilir. Varlıklar ondan üretildi; bu yüzden Asuralardır." Kelime, Daityalar ve Danavalar ile Kaśyapa'nın diğer soyundan gelenleri dahil olmak üzere tanrıların düşmanları için genel bir isim olarak uzun süredir kullanılmaktadır, ancak Pulastya'dan soy gelen Rakṣasaları dahil etmemektedir.
->
-> Bu anlamda onun için farklı bir türetme bulunmuştur: kaynak artık asu, 'nefes' değil, başlangıçtaki *a* olumsuz önek olarak alınır ve *asura*, 'tanrı olmayan' anlamına gelir; bu nedenle, bazılarına göre *sura* kelimesi ortaya çıktı ki 'tanrı' için yaygın olarak kullanılır."
->
+\>
+> Ṛgveda'nın en eski bölümlerinde bu terim, Zerdüştlülerin Ahurası ile aynı olan üstün ruh için kullanılır. 'Tanrı' anlamında, Indra, Agni ve Varuṇa gibi başlıca tanrılardan birkaçına uygulanmıştır. Daha sonra tamamen zıt bir anlam kazanmış ve şimdi olduğu gibi, tanrıların düşmanı veya demonu ifade etmeye başlamıştır.
+\>
+> Bu anlamla kelime, Ṛgveda'nın daha sonraki bölümlerinde, özellikle son kitapta ve ayrıca Atharvaveda'da bulunur. Brāhmaṇalar da aynı anlamı yükler ve Asuralar ile tanrılar arasındaki birçok mücadeleyi kaydeder. Taittirīya Brāhmaṇa'ya göre, Prajapati'nin nefesi *(asu)* canlandı ve "o nefesle ben Asuraları yarattım." Aynı eserin başka bir yerinde Prajāpati'nin "hamile kaldığı" ve "karınlarından Asuraları yarattığı" belirtilir. Śatapatha Brāhmaṇa önceki ifadeyle uyum içindedir ve "alt nefesinden Asuraları yarattığını" belirtir. Taittirīya Āraṇyaka, Prajāpati'nin sudan tanrıları, insanları, ataları, Gandharvaları ve Apsaraları yarattığını ve Asuraların, Rakṣasaların ve piśācaların dökülen damlalardan çıktığını anlatır. Manu'nun ifadesi, bunların Prajāpatisler tarafından yaratıldığı yönündedir.
+\>
+> Viṣṇu Purāṇa'ya göre, Brahma'nın (prajāpati) kasığından üretildiler. Vāyu Purāṇa'nın anlatımı şöyledir: "Asuralar ilk olarak oğulları olarak kasığından üretildi. *Asu*, Brāhmaṇa tarafından nefes olarak tanımlanır. Bunlar ondan üretildi; bu yüzden Asuralar'dırlar." Kelime, Daityalar ve Danavalar ile Kaśyapa'nın diğer soyundan gelenleri dahil olmak üzere tanrıların düşmanları için genel bir isim olarak uzun süredir kullanılmaktadır, ancak Pulastya'dan soy gelen Rakṣasaları dahil etmemektedir.
+\>
+> Bu anlamda, kelime için farklı bir türetme bulunmuştur: kaynak artık asu, 'nefes' değil; baştaki *a*, olumsuz önek olarak alınır ve asura, 'tanrı olmayan' anlamına gelir; bu nedenle bazılarına göre *sura* kelimesi ortaya çıkmıştır, ki bu genellikle 'tanrı' için kullanılır."
+\>
 > [Kaynak: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media

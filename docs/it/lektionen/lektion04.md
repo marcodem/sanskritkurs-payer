@@ -99,5 +99,5 @@ NOTA: Le risposte che è possibile dare a tali domande con le conoscenze sanscri
 
 ::: media
 ![](/images/lekt0401.webp)
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0401))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0401))
 :::

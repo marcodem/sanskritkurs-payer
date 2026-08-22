@@ -107,4 +107,3 @@ C) Muunna [Lektionin 10](lektion10.md), harjoituksen C lauseet passiiviin mennei
 Kuva: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Kuvan lähde: [Details](/licenses#uebung020))
 :::
-:::

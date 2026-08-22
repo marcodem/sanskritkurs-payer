@@ -36,7 +36,6 @@ lesson_id: 53
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5301))
 :::
 
-:::
 ::: media
 ![](/images/lekt5302.webp)
 Ábra: ⟪हस्तौ⟫
@@ -639,4 +638,3 @@ Alois Maria Payer
 :::
 
 
-:::

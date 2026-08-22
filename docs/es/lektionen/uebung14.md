@@ -179,5 +179,5 @@ Rāma recuerda el mantra del maestro virtuoso.
 ![](/images/uebung017.webp)
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung017))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

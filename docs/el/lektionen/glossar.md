@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # Glossar Sanskrit–EL
 
@@ -35,6 +39,7 @@ outline: 2
 | ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | μετά, κατά, υπέρ - πέρα, παρά, σύμφωνα, προς, πίσω - από | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | μιμείνομαι, αναπαριστώ | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | ακολουθώ κάποιον, περπατώ παράλληλα | [36](/el/lektionen/lektion36#_36-4-) |
+| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | αναλήθεια, ψέμα (αντίθετο του satya) | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | κακοήθεια | [16](/el/lektionen/lektion16#_16-2-) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | πολλοί (όχι μερικοί) | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | m | τέλος, όριο | [18](/el/lektionen/lektion18#_18-4-) |
@@ -44,11 +49,13 @@ outline: 2
 | ⟪अन्यद्⟫ | [anyad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyad&filter=roman&accent=no&transLit=roman) | 3 | ένας άλλος (κλίση όπως ) | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | αμοιβαία, ο ένας τον άλλο | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | m | τέλος, λύτρωση | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪अपि⟫ | [api](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=api&filter=roman&accent=no&transLit=roman) | — | επίσης (μετάθεσης) | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | άρνηση ( + ) | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | επί-, μετά - προς, σε - από, σε - προς, κατά, εντός - μέσα, σχετικά με, επί, υπέρ, επί | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | επι-, μετά - προς, από - εδώ, προς - εκεί, κατά, εις - μέσα, σχετικά με, επί, υπέρ, παρά | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪अभिगम्⟫ | [abhigam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhigam&filter=roman&accent=no&transLit=roman) | — | απερχομαι, πλησιάζω | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪अभिनिवेष⟫ | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhiniveṣa&filter=roman&accent=no&transLit=roman) | m | τάση, επιμονή, επίμονη άσκηση πίεσης· ειδικά: προσκόλληση στο σώμα, σαν να ήταν κάτι ιδιόκτητο | [5](/el/lektionen/lektion05#_5-4-) |
+| ⟪अभिषेक⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | abhiṣeka m. : περιχύνωση ενός βασιλιά κατά την τελετή του στέψιμου, στέψη | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪अभ्यन्तर⟫ | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhyantara&filter=roman&accent=no&transLit=roman) | 3 | εσωτερικός, ο πλησιέστερος· m. ο πλησιέστερος συγγενής, ντόπιος | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪अमुत्र⟫ | [amutra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=amutra&filter=roman&accent=no&transLit=roman) | — | εκεί, προς εκεί | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪अरण्य⟫ | [araṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=araṇya&filter=roman&accent=no&transLit=roman) | n | άγρια περιοχή, δάσος | [51](/el/lektionen/lektion51#_51-6-) |
@@ -69,6 +76,7 @@ outline: 2
 | ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | ελεύθερος από λύπη· Δέντρο του Ashoka = _Saraca asoca_ (Roxb.) Wilde· Όνομα του αυτοκράτορα Aśoka ( ) (περ. 304 – 232 π. | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | τρώω, καταναλώνω | [30](/el/lektionen/lektion30#_30-6-) |
 | ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | σκούρος, μαύρος | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪असुर⟫ | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asura&filter=roman&accent=no&transLit=roman) | — | δαίμονας | [13](/el/lektionen/lektion13#_13-9-) |
 | ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | «Εγώ-είμαι-θεότητα», δηλ. η (λανθασμένη) πεποίθηση: Εγώ είμαι αυτός που βλέπει κ.λπ | [3](/el/lektionen/lektion03#_3-6-) |
 | ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | f | η πράξη του «να μην βλάπτει κανέναν με τίποτα», η μη-βία, η αहिंसा (αβία) | [16](/el/lektionen/lektion16#_16-2-) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | λέω, μιλάω | [36](/el/lektionen/lektion36#_36-4-) |
@@ -147,13 +155,15 @@ outline: 2
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | περιοδική διαδικασία, εποχή, χρονικό διάστημα, εμμηνόρροια, περίοδος κατά την οποία η γυναίκα είναι γόνιμη και έχει δικα | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | ευδοκώ | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | βεδικός σοφός, συγγραφέας βεδικών ύμνων | [10](/el/lektionen/lektion10#_10-5-) |
 
 ## ए
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | σε μία θέση | [51](/el/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο, αντιστοιχεί συχνά στη γερμανική έμφαση, μια είδους emoticon \&lt;!\&gt;, π.χ. "μόνο η αλήθεια νι | [15](/el/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο λέξη | [13](/el/lektionen/lektion13#_13-9-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο, αντιστοιχεί συχνά στη γερμανική έμφαση, μια είδους emoticon \<!\>, π.χ. "μόνο η αλήθεια νι | [15](/el/lektionen/lektion15#_15-8-) |
 
 ## ओ
 
@@ -173,6 +183,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪कदली⟫ | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kadalī&filter=roman&accent=no&transLit=roman) | f | μπανανιά (_Musa_ sp.) | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | f | νεαρό κορίτσι, κόρη, παρθένος | [41](/el/lektionen/lektion41#_41-3-) |
+| ⟪कपि⟫ | [kapi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kapi&filter=roman&accent=no&transLit=roman) | m | πίθηκος | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪कम्⟫ | [kam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kam&filter=roman&accent=no&transLit=roman) | 10Ā | αγαπώ | [28](/el/lektionen/lektion28#_28-10-) |
 | ⟪कर⟫ | [kara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kara&filter=roman&accent=no&transLit=roman) | — | tuend, machend, bewirkend | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪करुणा⟫ | [karuṇā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=karuṇā&filter=roman&accent=no&transLit=roman) | f | Συμπόνια, έλεος | [3](/el/lektionen/lektion03#_3-6-) |
@@ -195,10 +206,12 @@ outline: 2
 | ⟪कुप्य⟫ | [kupya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kupya&filter=roman&accent=no&transLit=roman) | n | προϊόν δάσους, μέταλλο (όχι πολύτιμο μέταλλο) | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | — | πρίγκιπας | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪कुमार⟫ | [kumāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumāra&filter=roman&accent=no&transLit=roman) | — | παιδί, νεαρός πρίγκιπας· προσωνύμιο του / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್್ಮಣ್ಯ | [48](/el/lektionen/lektion48#_48-4-) |
+| ⟪कुमारी⟫ | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumārī&filter=roman&accent=no&transLit=roman) | f | το κορίτσι, η παρθένος | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪कुमारी⟫ | [kumārī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kumārī&filter=roman&accent=no&transLit=roman) | — | κορίτσι, κόρη | [48](/el/lektionen/lektion48#_48-4-) |
 | ⟪कुल⟫ | [kula](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kula&filter=roman&accent=no&transLit=roman) | n | κοπάδι, όχλος, γένος, καταγωγή, οικογένεια | [15](/el/lektionen/lektion15#_15-8-) |
 | ⟪कुलूहल⟫ | [kulūhala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kulūhala&filter=roman&accent=no&transLit=roman) | — | περιέργεια, ενδιαφέρον | [49](/el/lektionen/lektion49#_49-4-) |
 | ⟪कृ⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | υποκλίνομαι, λατρεύω, χαιρετώ | [24](/el/lektionen/lektion24#_24-4-) |
+| ⟪कृ करोति⟫ | [kṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛ&filter=roman&accent=no&transLit=roman) | — | κάνω, επιτελώ | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪कृतम्⟫ | [kṛtam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtam&filter=roman&accent=no&transLit=roman) | — | = "Έχει τελειώσει ο θυμός = αποχωρήστε από τον θυμό!" | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪कृत्स्न⟫ | [kṛtsna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṛtsna&filter=roman&accent=no&transLit=roman) | 3 | ολόκληρος, πλήρης | [49](/el/lektionen/lektion49#_49-4-) |
 | ⟪केवलम्⟫ | [kevalam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kevalam&filter=roman&accent=no&transLit=roman) | — | μόνο, μόνον, πλήρως | [41](/el/lektionen/lektion41#_41-3-) |
@@ -233,6 +246,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
+| ⟪गज⟫ | [gaja](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gaja&filter=roman&accent=no&transLit=roman) | m | ελέφαντας | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪गम्⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | — | συναντώ, φτάνω σε, αποκτώ | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪गर्भ⟫ | [garbha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbha&filter=roman&accent=no&transLit=roman) | — | «εσωτερικό», π.χ | [19](/el/lektionen/lektion19#_19-3-) |
 | ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968) | [19](/el/lektionen/lektion19#_19-3-) |
@@ -248,6 +262,7 @@ outline: 2
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | — | πιάσιμο, πιάνοντας, κροκόδειλος, πλανήτης | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | σύλληψη | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : αρπάζω, πιάνω, πιάσιμο | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | χωριό | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | — | αισθάνω απροθυμία, εξαφανίζομαι | [36](/el/lektionen/lektion36#_36-4-) |
 
 ## घ
@@ -296,6 +311,7 @@ outline: 2
 | ⟪जव⟫ | [java](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=java&filter=roman&accent=no&transLit=roman) | 3 | γρήγορα, βιαστικά | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪जाति⟫ | [jāti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāti&filter=roman&accent=no&transLit=roman) | f | γέννηση, φύση, κάστα (προς ως κάτα δείτε Basham, Wonder, σ. 148 επ.) | [15](/el/lektionen/lektion15#_15-8-) |
 | ⟪जाया⟫ | [jāyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jāyā&filter=roman&accent=no&transLit=roman) | f | σύζυγος (γυναίκα) | [48](/el/lektionen/lektion48#_48-4-) |
+| ⟪जि जयति⟫ | [ji](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ji&filter=roman&accent=no&transLit=roman) | — | νικώ, κατακτώ | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪जीव⟫ | [jīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīva&filter=roman&accent=no&transLit=roman) | — | ζωή, ατομική ψυχή | [30](/el/lektionen/lektion30#_30-6-) |
 | ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | — | ζω | [16](/el/lektionen/lektion16#_16-2-) |
 | ⟪जीव्⟫ | [jīv](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jīv&filter=roman&accent=no&transLit=roman) | 1P | ζω | [30](/el/lektionen/lektion30#_30-6-) |
@@ -314,6 +330,7 @@ outline: 2
 | ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | αληθινή ουσία, αλήθεια, πραγματικότητα ( + = αυτή-ότητα) | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪तनु⟫ | [tanu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanu&filter=roman&accent=no&transLit=roman) | — | λεπτός | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪तनूकृ⟫ | [tanūkṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanūkṛ&filter=roman&accent=no&transLit=roman) | — | μειώνω, εξασθενώ | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪तन् तनोति⟫ | [tan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tan&filter=roman&accent=no&transLit=roman) | — | τεντώνω | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪तन्त्र⟫ | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tantra&filter=roman&accent=no&transLit=roman) | n | χορδή · υφαντική μηχανή, ουρά υφάσματος, ύφασμα · βάση, κανόνας, κανονισμός · διδασκαλία, εκπαιδευτικό έργο · ταντρά · μ | [48](/el/lektionen/lektion48#_48-4-) |
 | ⟪तरय⟫ | [taraya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=taraya&filter=roman&accent=no&transLit=roman) | 3 | τριπλός, αποτελούμενος από τρία μέρη | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪तर्हि⟫ | [tarhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tarhi&filter=roman&accent=no&transLit=roman) | — | τότε, έπειτα· γι' αυτό, άρα | [43](/el/lektionen/lektion43#_43-4-) |
@@ -322,6 +339,7 @@ outline: 2
 | ⟪तीक्ष्ण⟫ | [tīkṣṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīkṣṇa&filter=roman&accent=no&transLit=roman) | 3 | "άγριος", οξύς, αιχμηρός, αυστηρός, έντονος, δριμύς | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪तीर्थ⟫ | [tīrtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrtha&filter=roman&accent=no&transLit=roman) | — | πέρασμα, ιερό λουτρό, τόπος προσκυνήματος | [40](/el/lektionen/lektion40#_40-6-) |
 | ⟪तीर्थङ्कर⟫ | [tīrthaṅkara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tīrthaṅkara&filter=roman&accent=no&transLit=roman) | m | διαβατικός (περνώντας τη θλίψη) = οι 24 δάσκαλοι των Τζιν | [40](/el/lektionen/lektion40#_40-6-) |
+| ⟪तु⟫ | [tu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tu&filter=roman&accent=no&transLit=roman) | — | αλλά (εμφανίζεται μετά το πρώτο λέξη του αντίθετου προτάσεως ή μέρους της) | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪तुद्⟫ | [tud](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tud&filter=roman&accent=no&transLit=roman) | 6U | χτυπάω | [40](/el/lektionen/lektion40#_40-6-) |
 | ⟪तुल्⟫ | [tul](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tul&filter=roman&accent=no&transLit=roman) | — | ζυγίζω | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪तुल्य⟫ | [tulya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tulya&filter=roman&accent=no&transLit=roman) | 3 | ίσος, συγκρίσιμος () | [51](/el/lektionen/lektion51#_51-6-) |
@@ -343,6 +361,7 @@ outline: 2
 | ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | ξύλο, ράβδος, τιμωρία | [18](/el/lektionen/lektion18#_18-4-) |
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | Πολιτική (ένα τατπούρουσα από daṇḍa m. = «ξύλο, δύναμη, κυριαρχία, ποινή» και nīti f. = «ορθή καθοδήγηση») | [5](/el/lektionen/lektion05#_5-4-) |
 | ⟪दरैद्र⟫ | [daraidra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daraidra&filter=roman&accent=no&transLit=roman) | — | χέρι | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪दह् दहति दग्ध⟫ | [dah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dah&filter=roman&accent=no&transLit=roman) | — | (κάτι) καίω | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪दा⟫ | [dā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dā&filter=roman&accent=no&transLit=roman) | 3U | δίνω | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪दान⟫ | [dāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāna&filter=roman&accent=no&transLit=roman) | — | Δώση, δώρο, φιλανθρωπία | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪दायक⟫ | [dāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāyaka&filter=roman&accent=no&transLit=roman) | — |  δίνοντας, χαρίζοντας | [20](/el/lektionen/lektion20#_20-9-) |
@@ -358,6 +377,7 @@ outline: 2
 | ⟪दिष्ट्या⟫ | [diṣṭyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=diṣṭyā&filter=roman&accent=no&transLit=roman) | — | (κυρ.: μέσω μιας ευνοϊκής σύμπτωσης) Ω ευνοϊκή σύμπτωσι (έκφραση χαράς και μακαριότητας) | [17](/el/lektionen/lektion17#_17-6-) |
 | ⟪दिह्⟫ | [dih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dih&filter=roman&accent=no&transLit=roman) | 2U | λιπαίνω, αλείφω | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪दीर्घ⟫ | [dīrgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dīrgha&filter=roman&accent=no&transLit=roman) | 3 | μακρύς | [49](/el/lektionen/lektion49#_49-4-) |
+| ⟪दुःख⟫ | [duḥkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duḥkha&filter=roman&accent=no&transLit=roman) | n | δυστυχία, πάθος | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪दुहितृ⟫ | [duhitṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duhitṛ&filter=roman&accent=no&transLit=roman) | f | κόρη | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪दुह्⟫ | [duh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duh&filter=roman&accent=no&transLit=roman) | — | γαλάκτω | [17](/el/lektionen/lektion17#_17-6-) |
 | ⟪दूत⟫ | [dūta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dūta&filter=roman&accent=no&transLit=roman) | m | αγγελιοφόρος, πρεσβευτής | [42](/el/lektionen/lektion42#_42-2-) |
@@ -396,6 +416,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
+| ⟪नगर⟫ | [nagara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nagara&filter=roman&accent=no&transLit=roman) | n | πόλη | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | αδελφή του άνδρα | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪नन्दिन्⟫ | [nandin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nandin&filter=roman&accent=no&transLit=roman) | 3 | χαρακτηρισμένος από (ειδική) χαρά, ευτυχισμένος· m. όνομα του οχήματος () του (ένας ταύρος) | [44](/el/lektionen/lektion44#_44-5-) |
 | ⟪नन्द्⟫ | [nand](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nand&filter=roman&accent=no&transLit=roman) | 1P | χαίρω, ευχαριστώ (για) ()) | [44](/el/lektionen/lektion44#_44-5-) |
@@ -405,6 +426,7 @@ outline: 2
 | ⟪नम्⟫ | [nam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nam&filter=roman&accent=no&transLit=roman) | 1P | κάμπτω, bow, incline, bow down | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪नवग्रह⟫ | [navagraha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=navagraha&filter=roman&accent=no&transLit=roman) | — | οι εννέα πλανήτες (όχι οι πλανήτες!) (βλ. Basham, Wonder σ. 493) | [46](/el/lektionen/lektion46#_46-2-) |
 | ⟪नश्⟫ | [naś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=naś&filter=roman&accent=no&transLit=roman) | 4P | χάνομαι, καταστρέφομαι, εξαφανίζομαι | [35](/el/lektionen/lektion35#_35-4-) |
+| ⟪नाग⟫ | [nāga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāga&filter=roman&accent=no&transLit=roman) | m | ο γυμνός, το ελέφαντας, το φίδι (ο ελέφαντας και το φίδι δεν έχουν τρίχωμα, όπως επίσης ο "γυμνός πίθηκος" άνθρωπος) | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪नाभि⟫ | [nābhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nābhi&filter=roman&accent=no&transLit=roman) | — | Ομφαλός | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪नामन्⟫ | [nāman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nāman&filter=roman&accent=no&transLit=roman) | n | όνομα | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪नि⟫ | [ni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ni&filter=roman&accent=no&transLit=roman) | — | προς τα κάτω, κάτω, μέσα, πίσω | [20](/el/lektionen/lektion20#_20-9-) |
@@ -433,6 +455,8 @@ outline: 2
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | — | έξυπνος, ειδικευμένος (σε) | [19](/el/lektionen/lektion19#_19-3-) |
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | σοφός, φρόνιμος, πνευματικά καλλιεργημένος | [50](/el/lektionen/lektion50#_50-2-) |
 | ⟪पण्य⟫ | [paṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇya&filter=roman&accent=no&transLit=roman) | 3 | εμπορεύσιμος· n.: εμπόρευμα, εμπόριο | [43](/el/lektionen/lektion43#_43-4-) |
+| ⟪पत् पतति⟫ | [pat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pat&filter=roman&accent=no&transLit=roman) | — | πέφτω, πετώ | [8](/el/lektionen/lektion08#_8-5-) |
+| ⟪पत्रिका⟫ | [patrikā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=patrikā&filter=roman&accent=no&transLit=roman) | f | επιστολή, γράμμα | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪पद⟫ | [pada](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pada&filter=roman&accent=no&transLit=roman) | — | βήμα, θέση, τόπος | [13](/el/lektionen/lektion13#_13-9-) |
 | ⟪पर⟫ | [para](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=para&filter=roman&accent=no&transLit=roman) | 3 | (Κλίση όπως στο ) μακρινός, ξένος, ανώτερος από (), έσχατος, ύψιστος· άλλος, ξένος, εχθρικός· αρσ.: αλλοδαπός | [52](/el/lektionen/lektion52#_52-7-) |
 | ⟪परंपरा⟫ | [paraṃparā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paraṃparā&filter=roman&accent=no&transLit=roman) | f | ασυνέχαστη σειρά | [52](/el/lektionen/lektion52#_52-7-) |
@@ -445,10 +469,12 @@ outline: 2
 | ⟪परिनिर्वाण⟫ | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parinirvāṇa&filter=roman&accent=no&transLit=roman) | n | τέλεια σβέση, τέλια λύτρωση (στο τέλος της ζωής ενός Βούδα ή Αραχάν) | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪परिव्राजक⟫ | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parivrājaka&filter=roman&accent=no&transLit=roman) | m | περιπλανώμενος,μοναχός ταξιδιώτης,προσκυνητής | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | εγχώριο εκτρεφόμενο ζώο, κτήνη (συλλογικό) | [3](/el/lektionen/lektion03#_3-6-) |
+| ⟪पश् पश्यति⟫ | [paś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paś&filter=roman&accent=no&transLit=roman) | — | βλέπω, αντιλαμβάνομαι (χρησιμοποιείται ως ρίζα του ενεστώτα αντί της ρίζας dṛś 0 "βλέπω, αντιλαμβάνομαι") | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪पश्चात्ताप⟫ | [paścāttāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paścāttāpa&filter=roman&accent=no&transLit=roman) | m | μετάνοια | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | πίνω (παραδοσιακά κατατάσσεται στην 1η τάξη) | [13](/el/lektionen/lektion13#_13-9-) |
 | ⟪पात्र⟫ | [pātra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pātra&filter=roman&accent=no&transLit=roman) | — | Σεβαστός, Δάσκαλος, Άξιος | [40](/el/lektionen/lektion40#_40-6-) |
 | ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | πόδι, ένα τέταρτο, στίχος | [13](/el/lektionen/lektion13#_13-9-) |
+| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | κακό έργο, κακία (αντίθετο του puṇya) | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | επίσης ισοδύναμο με | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | παππούς από τον πατέρα | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | γιαγιά από τον πατέρα | [42](/el/lektionen/lektion42#_42-2-) |
@@ -456,6 +482,7 @@ outline: 2
 | ⟪पितृव्य⟫ | [pitṛvya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛvya&filter=roman&accent=no&transLit=roman) | m | πατέρας του πατέρα (θείος από τον πατέρα) | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪पिशित⟫ | [piśita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=piśita&filter=roman&accent=no&transLit=roman) | — | (ετοιμασμένο) κρέας | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪पीड्⟫ | [pīḍ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pīḍ&filter=roman&accent=no&transLit=roman) | 10P | πιέζω, βασανίζω· καταπιέζω, πολιορκώ, ενοχλώ | [52](/el/lektionen/lektion52#_52-7-) |
+| ⟪पुण्य⟫ | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṇya&filter=roman&accent=no&transLit=roman) | n | καλό έργο, αρετή | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | γιος | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | εκ νέου, πάλι, πίσω, αλλά | [24](/el/lektionen/lektion24#_24-4-) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | ξανά,πάντα ξανά,πίσω,επανάληψη·αντίθετα,αλλά (μπροστά σε φωνήεντα εκτός r-: ) | [29](/el/lektionen/lektion29#_29-2-) |
@@ -475,6 +502,7 @@ outline: 2
 | ⟪पृष्ठम्⟫ | [pṛṣṭham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭham&filter=roman&accent=no&transLit=roman) | — | πίσω, οπίσω | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | γεμίζω, πληρώνω | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | — | (από + ) θεμελιώδης μορφή, φυσική κατάσταση, φύση; πρωτοϋλη, αρχικό στοιχείο | [42](/el/lektionen/lektion42#_42-2-) |
+| ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | ρωτώ (κάποιον: Αιτιατική· για κάτι: Αιτιατική) | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | αναπαραγωγή, γέννηση, απογονία | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪प्रजापति⟫ | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajāpati&filter=roman&accent=no&transLit=roman) | m | κύριος των όντων, θεός δημιουργός | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | — | σοφία, γνώση | [25](/el/lektionen/lektion25#_25-5-) |
@@ -503,6 +531,9 @@ outline: 2
 | ⟪बाण⟫ | [bāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāṇa&filter=roman&accent=no&transLit=roman) | m | βέλος, στόχος | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | στενοχώρια, ταλαιπωρία, οδύνη | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪बाह्य⟫ | [bāhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāhya&filter=roman&accent=no&transLit=roman) | 3 | εκτός, εξωτερικός, ξένος | [51](/el/lektionen/lektion51#_51-6-) |
+| ⟪बुद्धि⟫ | [buddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=buddhi&filter=roman&accent=no&transLit=roman) | f | γνώση, όργανο γνώσης | [12](/el/lektionen/lektion12#_12-5-) |
+| ⟪बुध् बुध्यते बोधति बुद्ध⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | ξυπνάω, ξυπνώ για τη γνώση, αναγνωρίζω; PPP buddha 3 ξυπνημένος, επομένως Buddha = «ο Ξυπνημένος» (όχι: ο Εγχειρημένος) | [12](/el/lektionen/lektion12#_12-5-) |
+| ⟪बोधि⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | bodhi m./f. : η ξύπνηση (μέσω της οποίας ένας Buddha ή Jina φτάνει στη λυτρική όραση) | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪ब्रह्मचर्य⟫ | [brahmacarya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahmacarya&filter=roman&accent=no&transLit=roman) | — | σεξουαλική αποχή, καelibatικός τρόπος ζωής | [22](/el/lektionen/lektion22#_22-3-) |
 | ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | το Απόλυτο, ο Βέντα (κατά Thieme αρχικά: η διατυπωμένη αλήθεια, εξ ου "διατυπωτής αληθειών") | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | m | βραχμάνος (ιερωμένος τάξη) | [2](/el/lektionen/lektion02#_2-5-) |
@@ -571,9 +602,11 @@ outline: 2
 | ⟪मात्स्य⟫ | [mātsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātsya&filter=roman&accent=no&transLit=roman) | 3 | που ανήκει στο ψάρι (σε ψάρια) | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪मान⟫ | [māna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māna&filter=roman&accent=no&transLit=roman) | — | εκτίμηση, υπόληψη, δόξα, τιμή, περηφάνια, αλαζονεία, αίσθηση μειονεξίας ; (εκτιμάμε τον εαυτό μας σε σχέση με άλλους) | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪मार⟫ | [māra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māra&filter=roman&accent=no&transLit=roman) | — | το προσωποποιημένο κακό, η προσωποποιημένη πλάνη/μανιπουλαρισμός, διάβολος | [52](/el/lektionen/lektion52#_52-7-) |
+| ⟪मार्ग⟫ | [mārga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mārga&filter=roman&accent=no&transLit=roman) | m | μονοπάτι (τα μονοπάτια ήταν συχνά τα άγρια μονοπάτια) | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪मार्यादा⟫ | [māryādā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māryādā&filter=roman&accent=no&transLit=roman) | f | όριο | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪मिह्⟫ | [mih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mih&filter=roman&accent=no&transLit=roman) | 1P | ουρώ, αμμοχώ, εκσπερματίζω | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪मुख⟫ | [mukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mukha&filter=roman&accent=no&transLit=roman) | n | στόμα, πρόσωπο, μπροστινό μέρος, αρχή | [37](/el/lektionen/lektion37#_37-9-) |
+| ⟪मुच् मुञ्चति मुक्त⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | απελευθερώνω, αφήνω ελεύθερο, απαλλάσσω· από τον κύκλο των μετενσαρκώσεων (saṃsāra m.) απαλλάσσω = λυτρώνω | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | χαρά, ιδίως συμπάθεια (αντίθετο του φθόνου) | [3](/el/lektionen/lektion03#_3-6-) |
 | ⟪मुनि⟫ | [muni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muni&filter=roman&accent=no&transLit=roman) | m | σοφός, (σιωπηλός) ασκητής | [37](/el/lektionen/lektion37#_37-9-) |
 | ⟪मुहूर्त⟫ | [muhūrta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muhūrta&filter=roman&accent=no&transLit=roman) | — | στιγμή, χρονική στιγμή, κατάλληλη στιγμή | [49](/el/lektionen/lektion49#_49-4-) |
@@ -581,6 +614,7 @@ outline: 2
 | ⟪मूल⟫ | [mūla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūla&filter=roman&accent=no&transLit=roman) | — | ρίζα | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪मूल्य⟫ | [mūlya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūlya&filter=roman&accent=no&transLit=roman) | n | αξία, τιμή | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪मृ⟫ | [mṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛ&filter=roman&accent=no&transLit=roman) | — | πεθαίνω (σύμφωνα με τους Ινδικούς γραμματικούς: 6 Ā) | [15](/el/lektionen/lektion15#_15-8-) |
+| ⟪मृग⟫ | [mṛga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛga&filter=roman&accent=no&transLit=roman) | m | άγριο ζώο | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪मृगया⟫ | [mṛgayā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛgayā&filter=roman&accent=no&transLit=roman) | f | κυνήγι | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪मृति⟫ | [mṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛti&filter=roman&accent=no&transLit=roman) | f | θάνατος, θάνατος | [15](/el/lektionen/lektion15#_15-8-) |
 | ⟪मृत्यु⟫ | [mṛtyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛtyu&filter=roman&accent=no&transLit=roman) | m | θάνατος · προσωποποιημένος: θεός του θανάτου | [15](/el/lektionen/lektion15#_15-8-) |
@@ -588,6 +622,7 @@ outline: 2
 | ⟪मेघ⟫ | [megha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=megha&filter=roman&accent=no&transLit=roman) | m | σύννεφο ("Σάιχερ") | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪मेधा⟫ | [medhā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=medhā&filter=roman&accent=no&transLit=roman) | f | σοφία, νοῦς, διάνοια | [40](/el/lektionen/lektion40#_40-6-) |
 | ⟪मैत्री⟫ | [maitrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maitrī&filter=roman&accent=no&transLit=roman) | f | Φιλία, φιλανθρωπία, ευνοϊκή διάθεση | [5](/el/lektionen/lektion05#_5-4-) |
+| ⟪मोक्ष⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | mokṣa m. : αποδέσμευση, απελευθέρωση, λύτρωση | [12](/el/lektionen/lektion12#_12-5-) |
 
 ## य
 
@@ -618,6 +653,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪रक्त⟫ | [rakta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakta&filter=roman&accent=no&transLit=roman) | — | χρωματισμένος, ερυθρός | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪रक्ष् रक्षति⟫ | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakṣ&filter=roman&accent=no&transLit=roman) | — | φυλάσσω, προστατεύω | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪रभ्⟫ | [rabh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rabh&filter=roman&accent=no&transLit=roman) | 1Ā | πιάνω, καταλαμβάνω | [44](/el/lektionen/lektion44#_44-5-) |
 | ⟪रम्⟫ | [ram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ram&filter=roman&accent=no&transLit=roman) | 1Ā | στέκομαι ακίνητος, ηρεμώ, παραμένω· ευχαριστιέμαι, απολαμβάνω | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | — | μυστήριο, μοναξιά | [50](/el/lektionen/lektion50#_50-2-) |
@@ -641,7 +677,9 @@ outline: 2
 |---|---|---|---|---|
 | ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | n | χαρακτηριστικό, σημάδι, ιδίωμα | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | ελαφρύς (όχι βαρύς, όχι δύσκολος), γρήγορος, σύντομος (στην έκφραση) | [48](/el/lektionen/lektion48#_48-4-) |
+| ⟪लभ् लभते⟫ | [labh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=labh&filter=roman&accent=no&transLit=roman) | — | πιάνω, αποκτώ, αρπάζω | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪लम्ब्⟫ | [lamb](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lamb&filter=roman&accent=no&transLit=roman) | 1Ā | κρέμομαι από (), εξαρτώ από () | [46](/el/lektionen/lektion46#_46-2-) |
+| ⟪लिख् लिखति⟫ | [likh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=likh&filter=roman&accent=no&transLit=roman) | — | χαράζω, γράφω (αρχικά με το στυλό σε φύλλο φοίνικος, στη συνέχεια γενικά) | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪लिप्⟫ | [lip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lip&filter=roman&accent=no&transLit=roman) | 6U | επάλειψη, λίπανση | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪लिप्ति⟫ | [lipti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lipti&filter=roman&accent=no&transLit=roman) | f | επάλειψη, γραφή, κείμενο | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪लीला⟫ | [līlā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=līlā&filter=roman&accent=no&transLit=roman) | f | σχόλιο, παιχνίδι | [42](/el/lektionen/lektion42#_42-2-) |
@@ -656,8 +694,10 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | απάτης | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | έμπορος | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | μόσχος, νεογνό, παιδί · κλ.: αγαπητέ μου | [43](/el/lektionen/lektion43#_43-4-) |
+| ⟪वत्स्यति⟫ | Μέλλοντας: | — | br Παθητικό: :br PPP: :br Απαρέμφατο | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | επίσημα χαιρετώ, απευθύνομαι σε | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | λέω πίσω = απαντώ | [44](/el/lektionen/lektion44#_44-5-) |
+| ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | λέω, μιλώ | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | δάσος | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | — | Ομορφιά, μορφή σώματος (για κλίση δείτε αργότερα) | [20](/el/lektionen/lektion20#_20-9-) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | καλύτερος | [43](/el/lektionen/lektion43#_43-4-) |
@@ -668,12 +708,13 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | χρώμα, είδος, κοινωνική τάξη | [5](/el/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | βροχή, εποχή των βρόχων, έτος | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Απαρέμφατο 2.sg.: :sig[] : θέλω, διατάσσω, επιθυμώ για | [52](/el/lektionen/lektion52#_52-7-) |
-| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | — | ("λαμπρός" =) Άνοιξη (Μάρτιος έως Μάιος) | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | — | πλούτος, θησαυρός, περιουσία, ιδιοκτησία | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | παραμένω, κατοικώ (με δοτική του προσώπου, παρά στον οποίο κατοικεί κανείς) | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | — | έδρα, τόπος; πραγματικό αντικείμενο, υλικό πράγμα, πραγματικότητα, αντικείμενο | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | («λαμπρός» =) Άνοιξη (Μάρτιος έως Μάιος) | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वसिष्यते⟫ | Μέλλ.: | — | br PPP: :br Απαρέμφατο | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | πλούτος, θησαυρός, περιουσία, ιδιοκτησία | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | — | να παραμένω, να κατοικώ (με τοπική του προσώπου, όπου κάποιος κατοικεί) | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | — | έδρα, τόπος; πραγματικό αντικείμενο, ρεαλιστικό πράγμα, πραγματικότητα, θέμα | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | στην πραγματικότητα, όντως | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | — | μέσο, για να ντυθεί κανείς = ρούχο, ένδυμα, ύφασμα | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | μέσο για να ντυθεί κανείς = ρούχο, ένδυμα, ύφασμα | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | 1U | οδηγώ, ταξιδεύω, πνέει (άνεμος) | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | — | ή (επακόλουθο) | [15](/el/lektionen/lektion15#_15-8-) |
 | ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | 2P | φυσώ, πνέω | [38](/el/lektionen/lektion38#_38-9-) |
@@ -756,9 +797,11 @@ outline: 2
 | ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | — | βρίσκομαι σε ύπτια θέση. Αυτή η ρίζα έχει σε όλες τις μορφές της ενεστωτικής βάσης υψηλό βαθμό: 1.πρ.Ενδ.Α ⟪शेये (śe + e | [44](/el/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | γρήγορα, ταχέως | [43](/el/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | έθιμο, συνήθεια, φύση, χαρακτήρας, καλή συνήθεια = ηθική | [52](/el/lektionen/lektion52#_52-7-) |
+| ⟪शुक⟫ | [śuka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuka&filter=roman&accent=no&transLit=roman) | m | παπαγάλος | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | λαμπρός, γυαλιστερός, λεπτός· αρ.: καθαρότητα | [29](/el/lektionen/lektion29#_29-2-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | λαμπρός, καθαρός, διαυγής | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪शुच्⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | 1P | (φλέγεται, λάμπει) · θρηνεί, πένθος | [38](/el/lektionen/lektion38#_38-9-) |
+| ⟪शुच् शोचति⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | — | θρηνώ, λυπάμαι | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | m | Śūdra (στάση παροχής υπηρεσιών) | [2](/el/lektionen/lektion02#_2-5-) |
 | ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | γυνή Σούδρα | [3](/el/lektionen/lektion03#_3-6-) |
 | ⟪शूद्री⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | σύζυγος Σούδρα | [3](/el/lektionen/lektion03#_3-6-) |
@@ -804,7 +847,9 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | ίσο με | [23](/el/lektionen/lektion23#_23-4-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | ομότιμος, ίδιος, παρόμοιος· m.: συνομήλικος | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | κάθε, όλοι | [50](/el/lektionen/lektion50#_50-2-) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | μαζί με, από κοινού με (και στο „πολεμώ με“ κ.λπ.) (Πρόθεση με Οργανική) | [10](/el/lektionen/lektion10#_10-5-) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | ενωμένος, εξοπλισμένος με | [18](/el/lektionen/lektion18#_18-4-) |
+| ⟪सह्⟫ | [sah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sah&filter=roman&accent=no&transLit=roman) | — | υπερνικάω, υποφέρω, υποφέρω με υπομονή = συγχωρώ | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | που οδηγεί στον στόχο, αποτελεσματικός | [16](/el/lektionen/lektion16#_16-2-) |
 | ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | ορθός, καλός | [2](/el/lektionen/lektion02#_2-5-) |
 | ⟪साध्वी⟫ | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhvī&filter=roman&accent=no&transLit=roman) | f | θηλ. του sādhu | [3](/el/lektionen/lektion03#_3-6-) |
@@ -812,8 +857,11 @@ outline: 2
 | ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | ισότητα, συμφωνία | [23](/el/lektionen/lektion23#_23-4-) |
 | ⟪सायक⟫ | [sāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāyaka&filter=roman&accent=no&transLit=roman) | — | Βέλος | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪सार⟫ | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāra&filter=roman&accent=no&transLit=roman) | m | πυρήνας, ουσία, ουσιαστικότητα | [52](/el/lektionen/lektion52#_52-7-) |
+| ⟪सारथि⟫ | [sārathi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sārathi&filter=roman&accent=no&transLit=roman) | m | αμαξοπόλος, οδηγός άρματος | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | — | λέων (_Panthera leo persica_) | [15](/el/lektionen/lektion15#_15-8-) |
+| ⟪सिच् सिञ्चति सिक्त⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | περιχύνω | [12](/el/lektionen/lektion12#_12-5-) |
 | ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | σύνορο | [38](/el/lektionen/lektion38#_38-9-) |
+| ⟪सुख⟫ | [sukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sukha&filter=roman&accent=no&transLit=roman) | n | ευτυχία, ευημερία | [8](/el/lektionen/lektion08#_8-5-) |
 | ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | γιος | [38](/el/lektionen/lektion38#_38-9-) |
 | ⟪सुप्ति⟫ | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=supti&filter=roman&accent=no&transLit=roman) | — | ύπνος, ιδίως βαθύς ύπνος | [40](/el/lektionen/lektion40#_40-6-) |
 | ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | υμνημένος, εξαιρετικός, καλός | [18](/el/lektionen/lektion18#_18-4-) |
@@ -852,9 +900,10 @@ outline: 2
 |---|---|---|---|---|
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | χτυπώ, σκοτώνω, φονεύω | [17](/el/lektionen/lektion17#_17-6-) |
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | χτυπάω πίσω | [44](/el/lektionen/lektion44#_44-5-) |
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | αφαιρώντας· αρσ.: ο καταστρέφων = προσωνυμία του Śiva | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | ξανθός, κίτρινος, πράσινος· αρσ. προσωνυμία του Viṣṇu (δεν ανήκει στη ρίζα 1) | [27](/el/lektionen/lektion27#_27-5-) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | — | ο Viṣṇu και ο Śiva ενωμένοι ως μία θεότητα | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | αφαιρώντας· m.: ο καταστροφέας = προσωνύμιο του Śiva | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | ξανθός, κίτρινος, πράσινος· m. προσωνύμιο του Viṣṇu (δεν ανήκει στη ρίζα 1) | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪हरिष्यति⟫ | Μέλλ.: | — | br Παθ.: :br PPP: :br Απαρέμφατο | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | ο Viṣṇu και ο Śiva ενωμένοι ως μία μόνο θεότητα | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (όρθωση τριχών σώματος), χαρά | [25](/el/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | χέρι | [18](/el/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | ελέφαντας (_Elephas maximus_) | [38](/el/lektionen/lektion38#_38-9-) |
@@ -864,7 +913,7 @@ outline: 2
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | εγκαταλελειμμένος, ελλειπής, ανεπαρκής | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | το ελλιπές όχημα (του Βουδισμού): περιφρονητικός χαρακτηρισμός από τους εκπροσώπους του «μεγάλου οχήματος», του ; η ελλι | [33](/el/lektionen/lektion33#_33-6-) |
 | ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | 3P | χύνω στη φωτιά (ως προσφορά, ιδίως λιωμένο βούτυρο) | [33](/el/lektionen/lektion33#_33-6-) |
-| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | κρατώ, φέρω; παίρνω, αφαιρώ, αρπάζω | [27](/el/lektionen/lektion27#_27-5-) |
+| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | κρατώ, φέρω; παίρνω μακριά, αρπάζω, κλέβω | [27](/el/lektionen/lektion27#_27-5-) |
 | ⟪हृदय⟫ | [hṛdaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛdaya&filter=roman&accent=no&transLit=roman) | — | καρδιά | [42](/el/lektionen/lektion42#_42-2-) |
 | ⟪हृष्⟫ | [hṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛṣ&filter=roman&accent=no&transLit=roman) | 4P | γίνομαι άκαμπτος: σηκώνομαι (τρίχες), χαίρω για (Επικ., Ουσ., Τοπ.) | [36](/el/lektionen/lektion36#_36-4-) |
 | ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | m | κίνητρο, πρόκληση, αιτία, λόγος ; , , με γενική ή ως δεύτερο συνθετικό σύνθετου = "για ... χάρη, λόγω" | [24](/el/lektionen/lektion24#_24-4-) |

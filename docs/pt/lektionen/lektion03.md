@@ -117,7 +117,7 @@ p. ex.
 ## 3.5. Sandhi sentencial de -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās é substituído por -ā antes de todos os sons sonoros.**
 :::
 p. ex.
 

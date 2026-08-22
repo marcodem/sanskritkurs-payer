@@ -152,7 +152,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 3. Deberes específicos de un kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
    ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = genitivo (caso posesivo): "de todos los seres"; Gautamadharmasūtra X, 7) &lt;!--  --&gt;
+   (sarvabhūtānām = genitivo (caso posesivo): "de todos los seres"; Gautamadharmasūtra X, 7) \<!--  --\>
 
 4. Deberes específicos de un vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
@@ -168,4 +168,4 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
    (según Kauṭilīya-Arthaśāstra 1.4.1.)
- &lt;!--  --&gt;
+ \<!--  --\>

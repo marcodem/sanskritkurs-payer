@@ -44,9 +44,9 @@ Les désinences de la première personne (:sig[⟪तृतीयः⟫] ⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicatif présent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\&lt;⟪भवे⟫\&gt;** :brbhava + i:brrichtig: bhav-e | **\&lt;⟪भवामहे⟫\&gt;** |
-| **Imparfait - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\&lt;⟪अभवे⟫\&gt;** | **\&lt;⟪अभवामहि⟫\&gt;** |
-| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
+| **Indicatif présent - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Imparfait - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
+| **Optatif - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
 ### 39.2.2. Sixième classe de présent (⟪tudādi⟫)
@@ -93,7 +93,6 @@ Les désinences de la première personne (:sig[⟪तृतीयः⟫] ⟪प�
 :::
 ### 39.2.5. Passif (Suffix ⟪यक्⟫)
 
-:::
 ### 39.2.5. Passif (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
@@ -135,7 +134,7 @@ Les désinences de la première personne (:sig[⟪तृतीयः⟫] ⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Futur - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
+| **Futur - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
 ## 39.4. Formation des formes verbales de la première personne des thèmes présents athématiques

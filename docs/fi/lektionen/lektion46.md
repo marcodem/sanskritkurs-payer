@@ -1,6 +1,6 @@
 ---
 title: "Oppitunti 46"
-subtitle: "Verbin muotojen muodostaminen toiselle persoonalle (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)"
+subtitle: "Verbin muotojen 2. persoonan (⟪मध्यमः⟫) Perfektin (⟪लिट्⟫) muodostaminen"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -8,39 +8,39 @@ status: stable
 
 ---
 
-# Luento 46
+# Oppitunti 46
 
-## 46.1. Toisen persoonan verbimuotojen muodostus (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)
+## 46.1. Toisen persoonan verbinen muodostaminen (⟪मध्यमः⟫) Perfekti (⟪लिट्⟫)
 
-### 46.1.1. Päätteet
+### 46.1.1. Pääte
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Perfektilpäätteet** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
+| :---: | :---: | :---: | :---: |
+| **Perfektipääte** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Huomaa, että pääte -- useimmiten ei kuitenkaan muoto! -- 2.pl.p. täsmää 1. ja 3.sg.p. kanssa.
+Huomaa, että pääte -- useimmiten ei kuitenkaan muoto! -- 2.pl.P vastaa 1. ja 3.sg.P päättettä.
 
 ::: grammar-box
-Päättteen -tha edellä useimmissa juurissa, jotka päättyvät -ṛ, ei ole liitinvokaalia \-i-. Joissakin juurissa \-i- on -tha:n edellä valinnainen.
+Ennen -tha:a useimmissa juurissa, joissa on -ṛ, ei esiinny liitovokaalia \-i-. Joissakin juurissa -i: on valinnainen ennen \-tha:a.
 :::
-### 46.1.2. Päättteen -dhve äänteenmuutos
+### 46.1.2. Pääteen -dhve äänteellinen muutos
 
 ::: grammar-box
-Die Pääte -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Pääte -dhve on muutettava muotoon -ḍhve perfektiissä, jos sen edellä on juurimainen -u tai -ṛ. Tämä muutos voidaan tehdä valinnaisesti liitovokaalin -i: jälkeen, jos sen edellä on puolivokaali tai h.
 :::
-### 46.1.3. Perfekti tyyppi I: ei vartalon astevaihtelua
+### 46.1.3. Perfekti Tyyppi I: ei vartalon astevaihtelua
 
-Tähän tyyppiin kuuluvat verbit:
+Verbit, jotka noudattavat tätä tyyppiä:
 
-*   Konsonantipitkä vokalikonsonantti
-*   Konsonantivokonantikonsonanttikonsonantti
+*   Konsonantti-pitkä-vokaali-konsonantti
+*   Konsonantti-vokaali-konsonantti-konsonantti
 *   a-konsonantti(-konsonantti)
 *   ā-Konsonant
 
 ::: grammar-box
-1.p = 3.p = 2.pl.p
+1.sg.P = 3.sg.P = 2.pl.P
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -387,14 +387,12 @@ Kuv.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/fi/licenses#lekt4
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4603))
 :::
 
-:::
 ::: media
 ![](/images/lekt4604.webp)
 Kuva: [⟪शुक्रः⟫, ⟪शनिः⟫](/fi/licenses#lekt4604)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4604))
 :::
 
-:::
 ::: media
 ![](/images/lekt4605.webp)
 Kuva: [⟪राहुः⟫, ⟪केतुः⟫](/fi/licenses#lekt4605)
@@ -461,7 +459,6 @@ Kuva: [⟪महामात्र⟩ ⟪कं⟩ ⟪चरिष्णुद�
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4608))
 :::
 
-:::
 ::: indent
 1 ⟪महामात्र⟩ m. "Elefantinhoidaja"; ⟪चरिष्णु⟩ 3 "liikkuva", ⟪दूरशब्द⟩ m. "etäpuhe, puhelin" » ⟪चरिष्णुदूरशब्द⟩ "matkapuhelin" (sanamuodostus: A. Payer)
 
@@ -643,20 +640,17 @@ A) Määritä ja käännä seuraavat muodot:
 
 B) Käännä:
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Kuva: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/fi/licenses#lekt4612)
+Kuv.: [⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/fi/licenses#lekt4612)
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt4612))
 :::
 

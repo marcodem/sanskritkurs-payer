@@ -98,4 +98,3 @@ Kommentti edelliseen osioon ⟪कादम्बरी⟫:sta:
 Kuv.: Scholastic Sanskrit
 (Kuvan lähde: [Details](/licenses#uebung089))
 :::
-:::

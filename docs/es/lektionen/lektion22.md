@@ -176,7 +176,7 @@ de ello:
 ::: indent
 **⟪चर⟫ ⟪३⟫:** móvil; n.: lo móvil = animales (en contraste con las plantas)
 
-**⟪चरण⟫ n., m.:** pie &lt;!--  --&gt;
+**⟪चरण⟫ n., m.:** pie \<!--  --\>
 
 **⟪चरित⟫ n.:** conducta de vida, hazañas de vida
 
@@ -257,7 +257,7 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2204))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 

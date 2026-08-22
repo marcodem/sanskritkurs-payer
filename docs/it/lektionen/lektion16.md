@@ -91,7 +91,7 @@ da ciò:
 
 ⟪निरोध⟫ m.: Arresto, far cessare
 
-* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito &lt;!--  --&gt;
+* **bhūta n.** (⟪भूत⟫) (PPP di bhū): Essere, spirito \<!--  --\>
 
 ⟪योग⟫ m.: Attacco, connessione, unione, acquisizione; Yoga
 

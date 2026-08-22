@@ -115,7 +115,6 @@ Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : andar, ir, partir
 
-:::
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫
 Fut. ⟪व्रजिष्यति⟫
@@ -134,7 +133,6 @@ Fig.: ⟪अगारम्⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3602))
 :::
 
-:::
 ::: indent
 disso:
 
@@ -245,7 +243,6 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: próprio (meu, teu ...) ; m.: parente
 
-:::
 ## 36.5. Exercício
 
 A) As seguintes raízes têm tanto o perfeito reduplicado como o perifrástico. Forme, para as seguintes formas, as correspondentes formas do perfeito perifrástico e reduplicado:

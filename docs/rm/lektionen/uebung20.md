@@ -290,4 +290,3 @@ Bratschas che els na vulan, han fitg blers figls, riccs n’han nagin figl. Stru
 Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursa da l’imaginescha: [Detagls](/licenses#uebung032))
 :::
-:::

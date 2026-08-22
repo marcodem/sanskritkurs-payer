@@ -58,6 +58,7 @@ esim.
 
 ::: grammar-box
 
+:::
 ::: grammar-box
 
 Adjektiiviset määreet (beisagat) esiintyvät proosassa normaalissa sanajärjestyksessä ennen sanaa, jota ne tarkemmin määrittävät. Adjektiiviset määreet taivutetaan samaksi substantiivin kanssa luvussa, sijassa ja sukujen mukaan:
@@ -153,12 +154,12 @@ Konsonanttivartaloisissa sanoissa:
 | | akkusatiivi:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | instrumentaali:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Feminiini:
+Nainen:
 
--mant- ja -vant-päätteisten vartalojen feminiinivartalo päättyy muotoihin -mat-ī ja -vat-ī. Taivutus on sama kuin devī-vartalolla, eli vartalon asteistus puuttuu.
+Naissuvannon varren -mant- ja -vant- päättyy muotoihin -mat-ī ja -vat-ī. Taivutus on sama kuin devī:ssä, eli ei ole vartalon astevaihtelua.
 
 Esimerkki:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
@@ -166,19 +167,19 @@ Esimerkki:
 
 Opiskele seuraavat sanat:
 
-- **eva** ⟪एव⟫ : korostaa edeltävää sanaa
-- **asura** m. ⟪असुर⟫ : demoni
+**eva** ⟪एव⟫ : korostaa edeltävää sanaa
+**asura** m. ⟪असुर⟫ : demoni
 
 > **ASURA.** 'Hengellinen, jumalallinen.'
->
-> Ṛgvedan vanhimmissa osissa tätä termiä käytetään ylintä henkeä tarkoittaen, ja se on sama kuin zoroastrilaisten Ahura. 'Jumala'-merkityksessä sitä käytettiin useisiin pääjumaliin, kuten Indraan, Agniin ja Varuṇaan. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nykyäänkin, demonia tai jumalien vihollista.
->
-> Sana esiintyy tällä merkityksellä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengitys *(asu)* elävöittyi, ja "sillä hengityksellä hän loi minut Asureiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "raskautui. Hän loi Asurit vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asurit alhaalta hengitykseltään." Taittirīya Āraṇyaka esittää, että Prajāpati loi jumalat, ihmiset, isät, Gandharvat ja Apsarat vedestä, ja että Asurit, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan heidät loivat Prajāpit.
->
-> Viṣṇu Purāṇan mukaan he syntyivät Brahmaan (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurit syntyivät ensin hänen (Prajāpatin) lantiostaan poikina. *Asu* määritellään Brāhmaṇassa hengitykseksi. Niistä nämä olennot syntyivät; siksi he ovat Asureita." Sanaa on jo kauan käytetty yleisenä nimenä jumalien vihollisista, mukaan lukien Daityat ja Danavat sekä muut Kaśypan jälkeläiset, mutta ei Pulastyta polveutuvia Rakṣasaseja.
->
-> Tässä merkityksessä sille on löydetty eri johtoperä: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* tulkitaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala;' joten joidenkin mukaan syntyi sana *sura*, jota yleisesti käytetään 'jumalasta'."
->
+\>
+> Ṛgvedan vanhimmissa osissa tätä termiä käytetään korkeimmasta hengestä, ja se on sama kuin zarathustralaisten Ahura. 'Jumala'-merkityksessä sitä käytettiin useisiin pääjumaliin, kuten Indraan, Agniin ja Varuṇaan. Myöhemmin se sai täysin vastakkaisen merkityksen ja alkoi tarkoittaa, kuten nykyäänkin, demonia tai jumalien vihollista.
+\>
+> Sana esiintyy tässä merkityksessä Ṛgvedan myöhemmissä osissa, erityisesti viimeisessä kirjassa, sekä Atharvavedassa. Brāhmaṇat antavat sille saman merkityksen ja kuvaavat monia taisteluja Asurien ja jumalten välillä. Taittirīya Brāhmaṇan mukaan Prajapatin hengitys *(asu)* elävöittyi, ja "sillä hengityksellä hän loi minut Asuroiksi." Saman teoksen toisessa osassa sanotaan, että Prajāpati "raskautui. Hän loi Asurot vatsastaan." Śatapatha Brāhmaṇa on yhtä mieltä edellisen väitteen kanssa ja toteaa, että "hän loi Asurot alemmasta hengityksestään." Taittirīya Āraṇyaka esittää, että Prajāpati loi vedestä jumalat, ihmiset, isät, Gandharvat ja Apsarat, ja että Asurat, Rakṣasat ja piśācat syntyivät roiskeista. Manun mukaan heidät loi Prajāpatit.
+\>
+> Viṣṇu Purāṇan mukaan ne syntyivät Brahma'n (prajāpati) lantion alueelta. Vāyu Purāṇan kuvaus on: "Asurat syntyivät ensin hänen (Prajāpatin) lantiostaan poikina. *Asu* määritellään Brāhmaṇassa hengitykseksi. Niistä nämä olennot syntyivät; siksi he ovat Asuroita." Sanaa on pitkään käytetty yleisenä nimenä jumalien vihollisista, mukaan lukien Daityat ja Danavat sekä muut Kaśyapan jälkeläiset, mutta ei Pulastyasta polveutuvia Rakṣasasia.
+\>
+> Tässä merkityksessä sille on löydetty eri johtaminen: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala'; joten syntyi joillekin sana *sura*, jota yleisesti käytetään 'jumalasta'."
+\>
 > [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media

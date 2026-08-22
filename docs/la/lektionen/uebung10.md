@@ -1,14 +1,15 @@
 ---
 title: "Exercitatio 10"
 uebung_id: 10
-category: "Exercitatio"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
-# Exercitatio 10
+# Exercitium 10
 
-A) Formate passivum ad sequentes formas verborum (cum translatione formae verbalis), id est, passivum quod personam et numerum formae verbalis sequitur:
+A) Formate passivum ad sequentes formas verbales (cum interpretatione formae verbalis), id est passivum quod formae verbalis in persona et numero respondet:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -18,7 +19,7 @@ A) Formate passivum ad sequentes formas verborum (cum translatione formae verbal
 6. nayanti ⟪नयन्ति⟫ : nīyante ⟪नीयन्ते⟫
 7. smarati ⟪स्मरति⟫ : smaryate ⟪स्मर्यते⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪श्रूयन्ते⟫
-9. pāśyati ⟪पश्यति⟫ (Passivum a dṛś formatur!) : dṛśyate ⟪दृश्यते⟫
+9. pāśyati ⟪पश्यति⟫ (Passivum ex dṛś formatur!) : dṛśyate ⟪दृश्यते⟫
 10. jayanti ⟪जयन्ति⟫ : jīyante ⟪जीयन्ते⟫
 11. kurvate ⟪कुर्वते⟫ : kriyante ⟪क्रियन्ते⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
@@ -31,297 +32,291 @@ A) Formate passivum ad sequentes formas verborum (cum translatione formae verbal
 19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
 20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
-22. tanvanti ⟪तन्वन्ति⟫ (2 formae!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (2 formae!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
-B) Formate instrumentalem singularem et pluralen ad omnes hactenus didicta nomina
+B) Formate casum instrumentalem singularem et pluralem ad omnia nomina hactenus didicta
 
-C) Convertite sequentes sententias in passivum et traducite eas:
+C) Convertite sequentes sententias in passivum et eas interpretamini:
 
-1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
+1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो देवीं यजति⟫
 
 brāhmaṇena devījyate.
 
-⟪ब्राह्मणेन⟫ ⟪देवीज्यते⟫ ⟪।⟫
+⟪ब्राह्मणेन देवीज्यते ।⟫
 
-2\. sādhuḥ svargaṃ gacchati. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
+2\. sādhuḥ svargaṃ gacchati. ⟪साधुः स्वर्गं गच्छति⟫
 
 sādhunā svargaṃ / svargo gamyate.
 
-⟪साधुना⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪साधुना स्वर्गं गम्यते ।⟫
 
-3\. śūdraṃ jayati. ⟪शूद्रं⟫ ⟪जयति⟫
+3\. śūdraṃ jayati. ⟪शूद्रं जयति⟫
 
 śūdro jīyate.
 
-⟪शूद्रो⟫ ⟪जीयते⟫ ⟪।⟫
+⟪शूद्रो जीयते ।⟫
 
-4\. guruḥ phalāni khādati. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
+4\. guruḥ phalāni khādati. ⟪गुरुः फलानि खादति⟫
 
 guruṇā phalāni khādyante.
 
-⟪गुरुना⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
+⟪गुरुना फलानि खाद्यन्ते ।⟫
 
 5\. gurūñchṛṇoti. ⟪गुरूञ्छृणोति⟫
 
 guravaḥ śrūyante.
 
-⟪गुरवः⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+⟪गुरवः श्रूयन्ते ।⟫
 
-6\. ko 'gniṃ paśyati. ⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫
+6\. ko 'gniṃ paśyati. ⟪को ऽग्निं पश्यति⟫
 
 kenāgnir dṛśyate.
 
-⟪केनाग्निर्दृश्यते⟫ ⟪।⟫
+⟪केनाग्निर्दृश्यते ।⟫
 
-7\. ayaṃ kavirmantraṃ smarati. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
+7\. ayaṃ kavirmantraṃ smarati. ⟪अयं कविर्मन्त्रं स्मरति⟫
 
 anena kavinā mantraḥ smaryate.
 
-⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मर्यते⟫ ⟪।⟫
+⟪अनेन कविना मन्त्रः स्मर्यते ।⟫
 
-8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
+8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं देवी क्त्रिया रक्षति⟫
 
 anayā devyā kṣatriyā rakṣyante.
 
-⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
+⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 possibilitates)
+9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 possibilitates)
 
 kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
 
-⟪क्षत्रियैर्विष्णुरिज्यते⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिज्यते⟫ ⟪।⟫
+⟪क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।⟫
 
-10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
+10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो ऽग्निं करोति⟫
 
 brāhmaṇenāgniḥ kriyate.
 
-⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
+⟪ब्राह्मणेनाग्निः क्रियते ।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 possibilitates)
+11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 possibilitates)
 
 vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
-⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪वैश्यैरिमं ग्रामं गम्यते । वैश्यैरयं ग्रामो गम्यते । वैश्याभिरिमं ग्रामं गम्यते । वैश्याभिरयं ग्रामो गम्यते ।⟫
 
-Vaiśyae / Feminae Vaiśyae in hunc vicum vadunt.
+Vaiśyas / feminae Vaiśya in hunc vicum eunt.
 
-12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+12\. ete gurūṃstu śṛṇvanti. ⟪एते गुरूंस्तु शृण्वन्ति⟫
 
 etair guravas tu śrūyante.
 
+⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+At illi magistris suis auscultant.
 
-Sed eorum magistris obediunt.
-
-13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
+13\. sādhuḥ svargamāpnoti. ⟪साधुः स्वर्गमाप्नोति⟫
 
 sādhunā svarga āpyate.
 
-⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
+⟪साधुना स्वर्ग आप्यते ।⟫
 
-Sanctus caelum assequitur.
+Sanctus caelum adipiscitur.
 
-14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
+14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः सोमं सुन्वन्ति⟫
 
 brāhmaṇaiḥ somaḥ sūyate.
 
-⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
+⟪ब्राह्मणैः सोमः सूयते ।⟫
 
-Brahmanae Somam premunt.
+Brāhmaṇae Somam exprimunt.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
 paśavo labhyante.
 
-⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
+⟪पशवो लभ्यन्ते ।⟫
 
-Animalia domitica obtinentur.
+Animalia domestica accipiuntur.
 
-16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
+16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫
 
 kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
-⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
+⟪कैर्योधैः क्षत्रियैः सह युध्यते ॥⟫
 
-Quis milites (cum) Kṣatriyis pugnat?
+Qui milites pugnant (una) cum Kṣatriyis?
 
-D) In Sanscritum vertite:
+D) Convertite in Sanscritum:
 
-1\. Brahmanus cum Vaiśya in vicum vadit.
+1\. Brāhmaṇa cum Vaiśya in vicum vadit.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
-⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।⟫
 
-2\. Viṣṇum sacrificio colit. (Verbum yajña exprimendum!)
+2\. Is Viṣṇum sacrificio veneratur. (Sacrificium yajña exprime!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
-⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
+⟪यज्ञेन विष्णुं यजति⟫ / ⟪यजते ।⟫
 
-3\. Veda śruti appellatur. (vad)
+3\. Veda śruti vocatur. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
-⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
+⟪वेदः श्रुतिरित्युद्यते ।⟫
 
-4\. Texta tela intenditur. (2 optiones)
+4\. Stamen tenditur. (duae possibilitates)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
-⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
+⟪तन्त्रं तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति ।⟫
 
 5\. Magistri interrogant. (Constructio passiva)
 
 gurubhiḥ pṛcchyate.
 
-⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
+⟪गुरुभिः प्र्च्छ्यते ।⟫
 
 6\. Oculus ducit. (Constructio passiva) (Oculus et auris alioquin plerumque in duali adhibentur)
 
 netreṇa nīyate.
 
-⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
+⟪नेत्रेण नीयते ।⟫
 
-7\. Poeta deum videt. (Constructio passiva)
+7\. Poeta deam videt. (Constructio passiva)
 
 kavinā devatā dṛśyate.
 
-⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
+⟪कविना देवता दृश्यते ।⟫
 
 8\. Quis (fem.) puellam custodit? (Constructio passiva)
 
 kayā bālā rakṣyate.
 
-⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
+⟪कया बाला रक्ष्यते ।⟫
 
-9\. Kṣatriyas DOMINUM sacrificio colit. (Constructio passiva, sine verbo yajña)
+9\. Kṣatriya Dominum sacrificio veneratur. (constructio passiva, verbo yajña non adhibito)
 
 kṣatriyeṇeśvara ijyate.
 
-⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪क्षत्रियेनेश्वर इज्यते ।⟫
 
-10\. Liberalitate sequax Buddhas caelum assequitur.
+10\. Per liberalitatem caelum assequitur sectator Buddhae.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
+⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
-(Fons imaginis: [Detalia](/licenses#uebung011))
+(Fons imaginis: [Singula](/licenses#uebung011))
 :::
 ---
 
-## Exercitium lectionis
+## Exercitium legendi
 
-Legite et vertite, atque in passivum convertite:
+Legite et convertite atque in passivum transferite:
 
-⟪क⟫
+⟪क १⟫.
+> ⟪मक्सिका व्रणमिच्छन्ति⟫
+> ⟪धनमिच्छन्ति पार्थिवाः⟫ |
+> ⟪नीचाः कलहमिच्छन्ति⟫
+> ⟪शान्तिमिच्छन्ति साधवः⟫ ||
+\>
+> ⟪मक्षिकाभिर्व्रण इष्यते⟫
+> ⟪धनमिष्यते पार्थिवैः ।⟫
+> ⟪नीचैः कलह इष्यते⟫
+> ⟪शान्तिरिष्यते साध⟫u⟪भिः ॥⟫
 
-⟪१⟫.
-> ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
-> ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
-> ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
-> ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
->
-> ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
-> ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
-> ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
-> ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
+Muscae vulnus optant,
+Reges divitias optant,
+Homines viles litem optant,
+Pacem sancti optant.
 
-Muscae vulnera desiderant,
-Reges divitias desiderant,
-Turpes lites desiderant,
-Pax sanctos desiderat.
-
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
-⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
+⟪२⟫. ⟪नरान्सृजति देवः⟫ |
+⟪नरा देवैः सृज्यन्ते ।⟫
 Dii homines creant.
 
-⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
-⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
+⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
+⟪कविभिर्धनं लभ्यते ।⟫
 Poetae divitias concupiscunt.
 
-⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
-⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Vedicus sapiens vedaica carmina videt.
+⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
+⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
+Sapiens vedicus carmina vedica videt.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
-⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
-Der vedische Weise opfert Viṣṇu.
+⟪विष्णुरृषिणेज्यते ।⟫
+Sapiens vedicus Viṣṇu immolat.
 
-⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
-⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
+⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
 Magistrum et discipulum videt.
 
-
-⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
-⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
+⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
+⟪स्वर्गो लभ्यते ।⟫
 Caelum adipiscuntur.
 
-⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
-⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Solis adventum vates Vedicus salutat.
+⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ |
+⟪अत्रर्षिणा भानुर्वन्स्यते ।⟫
+Ibi sapiens vedicus solem salutat.
 
-⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ad vicum pergunt.
+⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ |
+⟪ग्रामं गम्यते । ग्रामो गम्यते ।⟫
+In vicum eunt.
 
-⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
-⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
-Reges munera quasi pluviam effundunt.
+⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
+⟪दानानि वृष्यन्ते नृपैः ॥⟫
+Reges dona pluunt.
 
-⟪ख⟫
+⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ |
+⟪सदा देवाः स्मर्यन्ते।⟫
+Deos semper in mente habent.
 
-⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
-⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Deos semper praesentes sibi faciunt.
+⟪२⟫. ⟪ऋषिभी रामो वसति⟫ |
+⟪ऋषिभिः सह रामेणोष्यते ।⟫
+Rāma apud sapientes vedicos habitat.
 
-⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
-⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
-Rāma wohnt bei den vedischen Weisen.
+⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ |
+⟪हरिः क्षीरेणेज्यते ।⟫
+Hari libamine lactis veneratur.
 
-⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
-⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
-Hari sacrificium lacris offert.
+⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ |
+⟪मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।⟫
+Per viam ad vicum eunt.
 
-⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ad vicum per viam pergunt.
+⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ |
+⟪धनेने नरैः सुखमिष्यते ।⟫
+Homines felicitatem per divitias volunt.
 
-⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
-⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-Homines felicitatem per divitias quaerunt.
+⟪६⟫. ⟪एवं वदन्ति⟫ |
+⟪एवमुद्यते ।⟫
+Sic dicitur.
 
-⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
-⟪एवमुद्यते⟫ ⟪।⟫
-Ita dicitur.
+⟪७⟫. ⟪शान्त्यर्षय इह शोभन्ते⟫ |
+⟪शान्त्यर्षिभिरिह शुभ्यते ।⟫
+In terra sancti per tranquillitatem clarent.
 
-⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
-⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-In terra sancti mansuetudine splendent.
-
-⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
+⟪८⟫. ⟪कपयः फलानि खादन्ति⟫ |
+⟪कपिभिः फलानि खाद्यन्ते ।⟫
 Simiae fructus edunt.
 
-⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ |
-⟪गजेन⟫ ⟪गम्यते⟫ ⟪।⟫
-Elephans currit.
+⟪९⟫. ⟪गजो गच्छति⟫ |
+⟪गजेन गम्यते ।⟫
+Elephantus currit.
 
-⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छ⟫ti |
-⟪हरिणा⟫ ⟪गृहं⟫ ⟪गम्यते⟫ ⟪।⟫
-Hari domumreditur.
+⟪१०⟫. ⟪हरिर्गृहं गच्छ⟫ti |
+⟪हरिणा गृहं गम्यते ।⟫
+Hari domum it.
 
-⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
-⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
-Auriga currum regit.
+⟪११⟫. ⟪सारथी रथं नयति⟫ ||
+⟪सारथिना रथो नीयते ॥⟫
+Carrucarius currum regit.
 
 ::: media
 ![](/images/uebung012.webp)
-Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
-(Imaginis fontis: [Detalia](/licenses#uebung012))
+Fig.: ⟪सारथी रथं नयति⟫
+(Fons imaginis: [Singula](/licenses#uebung012))
 :::

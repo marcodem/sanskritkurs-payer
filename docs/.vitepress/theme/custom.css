@@ -128,6 +128,13 @@ html {
   padding-top: 0 !important;
 }
 
+/* Zentrierung des Textes in den Hero-Features */
+.VPFeature .title,
+.VPFeature .details,
+.VPFeature .text {
+  text-align: center !important;
+}
+
 
 .vp-doc p, .vp-doc li, .vp-doc table {
   font-size: 1.1rem;

@@ -96,4 +96,3 @@ etat kim? eṣā pipīlikā.
 Kuv.: ⟪एतत्किम्⟩ ⟪।⟩ ⟪एष⟩ ⟪काकः⟩ ⟪।⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung003))
 :::
-:::

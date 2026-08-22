@@ -2,8 +2,18 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
+## [1.7.0] - Unreleased
+### Hinzugefügt
+- **PWA Decoupling (Offline-Architektur):** Die verfügbaren UI-Sprachen sind jetzt vollständig von den Offline-Downloads (Service Worker) entkoppelt. Benutzer können selektiv einzelne Sprachen für die Offline-Verwendung herunterladen, wodurch die Caching-Zeiten drastisch verkürzt werden.
+- **QA-Viewer (Zero-Backend):** Der `author-server` wurde komplett entfernt. Der Editor agiert nun als reiner Client, der direkt über die GitHub REST API (PAT) kommuniziert (inklusive Branches, Commits und Pull Requests aus dem Browser).
+- **Massive Sprach-Erweiterung:** 9 neue Sprachen erreichen den Status 100% (136/136 Dateien): Thai (th), Bulgarisch (bg), Traditionelles Chinesisch (zh), Altgriechisch (grc), Finnisch (fi), Ungarisch (hu), Latein (la), Persisch (fa) und Türkisch (tr).
+- **Übersetzungs-Kaskade & Linguistische Analyse:** Signifikante Verbesserung des Übersetzungsprozesses durch Einführung einer mehrstufigen LLM-Kaskade inkl. DeepL-Integration und tiefgreifender spezifischer linguistischer Analyse zur Vermeidung von Halluzinationen.
+- **Pipeline-Upgrades:** Einführung des autonomen Stufe-5-Manövers zur selbstständigen Auflösung von Deadlocks (TM-Bereinigung) und Injection von 8 weiteren neuen Sprachen in die UI-Config.
 
-## [1.6.0] - Unreleased
+### Behoben
+- **Devanagari-Schutz & CJK:** Kollisionen bei Regex-Parsing (z.B. von chinesischen Buchtitel-Klammern `《...》` und Sanskrit-Tags `⟪...⟫`) behoben, indem das `markdown-it-extensible` Plugin als Hotfix via `esm.sh` aktualisiert wurde.
+
+## [1.6.0] - 2026-07-13
 ### Behoben
 - **Surgical Fallback & Integrity:** Umfangreicher Korrekturlauf zur Behebung von Übersetzungs-Lücken und fehlerhaften Fallback-Tags in massiven Dateien (z.B. `wortliste.md`, `glossar.md`).
 - **Sprachen-Fixes:** Lückenlose Vervollständigung der Übersetzungsstände für Indonesisch (ID), Hindi (HI), Tamil (TA), Arabisch (AR) und Vereinfachtes Chinesisch (zh-CN) auf 100% (61/61 Lektionen, Schriften, Übungen, Root).

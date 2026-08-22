@@ -61,7 +61,7 @@ Fig.: ⟪गायी⟫
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. cent. CE): ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟫th cent. CE): ⟪कादम्बरी⟫
 
 Questions of King ⟪शूद्रक⟫ from ⟪विदिशा⟫ to the Parrot ⟪वैशम्पायन⟫:
 
@@ -69,9 +69,9 @@ Questions of King ⟪शूद्रक⟫ from ⟪विदिशा⟫ to the 
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-> The king said: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you your name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? Where did you acquire your arts? Can you remember previous births or fulfill wishes? Or do you, by wearing the garment of a bird, inhabit a hiding place? Or where did you dwell earlier? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you get here?"
->
-> Vaiśampāyana, however, who had been asked by the lord of the earth with spontaneously arising curiosity and great respect, pondered for a moment and then replied with full reverence: "King, this is a long story. If it interests you, lend me your ear!"
+> The king spoke: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you your name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? Where did you acquire the arts? Can you remember previous births or fulfill wishes? Or do you, by wearing a bird's garment, inhabit a hiding place? Or where did you dwell earlier? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you get here?"
+\>
+> But Vaiśampāyana, who had been asked by the lord of the earth with spontaneously arising curiosity and great respect, thought for a moment and then answered with full reverence: "King, this is a long story. If it interests you, lend me your ear!"
 
 ::: media
 ![](/images/uebung079.webp)

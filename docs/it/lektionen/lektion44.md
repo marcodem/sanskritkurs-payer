@@ -1,6 +1,6 @@
 ---
 title: "Lezione 44"
-subtitle: "Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di temi atematici con suffisso terminante in vocale"
+subtitle: "Formazione delle forme verbali della seconda persona (⟪मध्यमः⟫) di stemmi atematici con suffisso terminante in vocale"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -85,7 +85,7 @@ ad es. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्
 >> ### 44.2.2. Sul Wortsandhi per s-
 
 ::: grammar-box
-1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella seconda classe del presente)
+1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella 2ª classe del presente)
 Esempi:
 * ⟪वस्⟫ 1P: Futuro: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
 * ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
@@ -130,7 +130,7 @@ ad es. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicativo Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
+| **Indicativo Presente** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
 | **Imperfetto** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Ottativo** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
@@ -337,7 +337,7 @@ Absol. -⟪रभ्य⟫
 :::
 ⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : toccare, iniziare, intraprendere
 
-⟪प्रव्रज्या⟫ f. (da ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso la non-casa; cerimonia con cui si diventa novizio buddhista (Pāli: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ f. (da ⟪प्र⟫-⟪व्रज्⟫): l'andare via dalla casa verso la non-famigliarità; cerimonia con cui si diventa novizio buddhista (Pāli: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)

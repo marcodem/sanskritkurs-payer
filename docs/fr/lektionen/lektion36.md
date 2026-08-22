@@ -84,7 +84,6 @@ Au parfait, on utilise les formes de l'Ātmanepada pour le passif. On préfère 
 
 ⟪अह्⟫ P uniquement au parfait avec sens présentiel ⟪आह⟫, ⟪आहुर्⟫ : dire, parler
 
-:::
 ::: indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = « Il accomplit une œuvre méritoire »
 :::

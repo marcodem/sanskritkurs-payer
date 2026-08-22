@@ -103,5 +103,5 @@ C) Transforme las oraciones de [Lección 10](lektion10.md), Ejercicio C, al pasi
 ![](/images/uebung020.webp)
 Abb.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung020))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

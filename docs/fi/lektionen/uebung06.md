@@ -607,4 +607,3 @@ sarvathā kuśalam.
 Kuv.: ⟪देवतान्नपूर्णा⟫
 (Kuv lähde: [Details](/licenses#uebung005))
 :::
-:::

@@ -10,51 +10,48 @@ status: stable
 
 # Lectio 13
 
-## 13.1. PPP auf -na-
 
-De distributione PPPs in -ta- sive -na- regulae certae constituere non possunt. Sed:
+## 13.1. PPP in -na-
+
+Pro distributione participiorum perfecti passivi (PPP) in -ta- vel -na- regulae certae constituere non possunt. Sed:
 
 ::: grammar-box
 
-Fere omnes radices in -d desinent, PPP in -na- formant. Hoc loco -d-n- per -n-n- substituitur, quod alioqui in sandhi verbi non fit, sed imitatio est sandhi sententiae.
+Fere omnes radices in -d PPP in -na- formant. In hoc casu, -d-n- per -n-n- substituitur, quod alioquin in sandhi verbi non fit, sed imitatio est sandhi orationis.
 
 Exemplum:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. De usu PPPeri
+## 13.2. De usu ulteriore PPP
 
 ::: grammar-box
 
-⟪इष्ट⟫ "optatum" (id est non solum in praeterito optatum, sed etiam in praesenti)
+**1. PPP ad verba significandi "cogitare", "optare", "scire", "nosse", "colere" necnon ad alia quaedam verba, quae in Dhātupāṭha (indice radicum Pāṇini) per ñi notantur, non solum tempus praeteritum significat, sed etiam in sensu praesenti adhiberi potest:**
+e.g.
 :::
 ::: indent
-:::
-::: indent
-⟪त्वरित⟫ "festinans, festinus" (PPP ad verbum tvar 1 Ā "festinare"; Dhātupāṭha: ñitvárā)
-:::
-
-**2. PPP ut adiectivum attributum adhiberi potest:**
-exempli gratia:
-::: indent
-:::
-::: indent
-⟪इष्टं⟫ ⟪फलम्⟫ "fructus desideratus (exempli gratia actionum)"
+⟪इष्ट⟫ "optatus" (id est, non solum in praeterito optatus, sed etiam in praesenti)
+⟪त्वरित⟫ "festinans, celeriter" (PPP ad tvar 1 Ā "festinare"; Dhātupāṭha: ñitvárā)
 :::
 
-Si in hoc casu ⟪अपि⟫ post PPP stat, habet ⟪अपि⟫ significationem "etsi":
-exempli gratia:
+**2. PPP ut adiectivum attributive adhiberi potest:**
+e.g.
 ::: indent
-:::
-::: indent
-⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Quamvis fructum cupiat, tamen eum non accipit."
+⟪इष्टं फलम्⟫ "fructus optatus (e.g. actionum)"
 :::
 
-⟪गत⟫ n.: "ambulare, motus"
+Si in hoc casu ⟪अपि⟫ post PPP stat, habet ⟪अपि⟫ significationem "quamvis":
+e.g.
 ::: indent
+⟪इष्टमपि फलं न लभते⟫ = "Quamvis fructum optet, tamen eum non accipit."
 :::
+
+**3. Neutrum singulare PPP cuiuslibet verbi etiam ut abstractum verbale adhiberi potest:**
+e.g.
 ::: indent
+⟪गत⟫ n.: "ambulare, gressus"
 ⟪नृत्त⟫ n.: "saltare, saltus"
 :::
 
@@ -62,55 +59,45 @@ exempli gratia:
 
 ::: grammar-box
 
-Attribute (appositiones) in prosa ordinem verborum consuetum ante verbum, quod magis determinat, tenent. Adiectiva attributa cum nomine numero, casu et genere concordant:
+Adiectiva (appositiones) in prosa ante verbum, quod magis determinant, in ordine naturali ponuntur. Adiectiva cum nomine numero, casu et genere concordant:
 
 Exemplum:
 
 :::
 ::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Sanctus fructum optatum (suae operationis) videt."
+⟪साधुरिष्टं फलं पश्यति⟫ = "Sanctus fructum desideratum (operum suorum) videt."
 :::
 
 ## 13.4. Formatio adiectivorum in -mant et -vant (taddhita)
 
 ::: grammar-box
 
-Mediantibus suffixis taddhita -mant sive -vant adiectiva possessiva ex nominibus formantur. Eorum significatio est: "habens id quod nomine subiecto designatur".
+Per suffixa taddhita -mant vel -vant adiectiva possessiva a nominibus formantur. Significatio eorum est: "id quod nomine subiecto designatur habens".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+vant ad nomina, quorum ultima vel penultima littera a, ā aut m est, necnon ad nomina quae consonante clauduntur; ad alia nomina plerumque -mant apponitur.
 
-Exempla:
+Exempli gratia:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "pecuens"
+⟪पशुमन्त्⟫ "pecuniam habens"
 
 ⟪गुणवन्त्⟫ "bonas qualitates / virtutem habens"
 :::
 
-## 13.5. Gradatio thematum nominum
+## 13.5. Gradatio radicalis nominum
 
-Tribus in -mant sive -vant desinentes ad nomina radicalia cum gradatione radicali pertinent.
+Stemma in -mant vel -vant ad nomina cum gradatione radicali pertinent.
 
 ::: grammar-box
-In nominibus radicalibus, quae gradum radicis ostendunt, inter casus fortes et infirmos distinguitur. In casibus fortibus, suffixum radicem formans — in nominibus radicalibus pars radicalis — gradum altum seu productum habet; in casibus infirmis, gradum humilem.
+In nominibus cum gradatione radicali inter casus fortes et infirmos distinguitur. In casibus fortibus suffixum stemmatis — in nominibus radicalibus pars radicalis — gradum altum vel productum habet, in casibus infirmis gradum bassum.
 :::
 **Casus fortes sunt:**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| | Singularis:br⟪एकवचन⟫ | Dualis:br⟪द्विवचन⟫ | Pluralis:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-
-**Ceterī casūs infirmī sunt.**
-
-::: grammar-box
-Cum parte anteriori compositi, nomen cum gradatione radicis in gradu debili (in nominibus tribus radicibus praeditis in dicto medio).
-:::
-
-## 13.6. Zum Wortsandhi
-
-Ad intellegendum formas singulares declinationis nominum in -mant et -vant sequentes leges sandhi vocis necessariae sunt:
+| **Apud Masculina et Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativus:br⟪प्रथमा⟫:brAccusativus:br⟪द्वितीया⟫:brVocativus:br⟪सम्बोधनप्रथमा⟫ | Nominativus:br⟪प्रथमा⟫:brAccusativus:br⟪द्वितीया⟫:brVocativus:br⟪सम्बोधनप्रथमा⟫ | Nominativus:br⟪प्रथमा⟫:br:brVocativus:br⟪सम्बोधनप्रथमा⟫ |
+| **Apud Neutra** :br⟪नपुंसक⟫ | — | — | Nominativus:br⟪प्रथमा⟫:brAccusativus:br⟪द्वितीया⟫:brVocativus:br⟪सम्बोधनप्रथमा⟫ |
 
 ::: grammar-box
 1. Numerus consonantium finalium in verbo: Si duo pluresve consonantes verbum claudere deberent, tantum prima consonans manet, caeterae cadunt. Connexio -r- + consonans permittitur.
@@ -157,31 +144,31 @@ In radicibus consonantibus terminantibus:
 
 Femininum:
 
-Femininus radix radicum in -mant- et -vant- terminat in -mat-ī sive -vat-ī. Declinatio ut apud devī procedit, id est, nulla est radix variatio.
+Stamma feminini in -mant- et -vant- terminatur per -mat-ī vel -vat-ī. Declinatio similis est ut in devī, id est nulla gradatio radicalis occurrit.
 
 Exemplum:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. Vocabularium
+## 13.9. Glossarium verborum
 
-Lectio sequentia verba:
+Haec verba discite:
 
-- **eva** ⟪एव⟫ : vocem praecedentem confirmat
-- **asura** m. ⟪असुर⟫ : daemon
+**eva** ⟪एव⟫ : verbum praecedens emphaticum reddit
+**asura** m. ⟪असुर⟫ : daemon
 
-> **ASURA.** 'Spirituale, divinum.'
->**ASURA.** 'Spirituale, divinum.'
-> In antiquissimis Ṛgvedae partibus hoc verbum pro supremo spiritu adhibetur, idemque est ac Zoroastrianorum Ahura. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni et Varuṇa. Postea omnino oppositum sensum acquisivit, daemonem vel hostem deorum significans, ut nunc fit.
->Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
-> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
->In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiramen', sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus'; ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
-> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
->
-> In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiramen', sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus'; ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
->
-> [Fons: **Dowson, Ioannes (1820–1881):** Lexicon classicum mythologiae Hinduicae et religionis, geographiae, historiae et litterarum. -- Londinii, Trübner, 1879. -- s.v. ]
+> **ASURA.** 'Spiritualis, divinus.'
+\>
+> In antiquissimis Ṛgvedae partibus hoc nomen pro supremo spiritu adhibetur, idemque est ac Ahura apud Zoroastrianos. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni et Varuṇa. Postea omnino contrarium sensum adeptum est, daemonem vel hostem deorum significans, ut nunc fit.
+\>
+> Hoc vocabulo in posterioribus Ṛgvedae partibus, praesertim in libro ultimo, etiam in Atharvaveda invenitur. Brāhmaṇae eundem sensum ei adtribuunt, multasque pugnas inter Asuras et deos narrat. Secundum Taittirīya Brāhmaṇa, spiritus *(asu)* Prajāpatis animatus est, et "illo spiritu me Asuras creavi." In alia parte eiusdem operis dicitur Prajāpatem "concipere. Asuras ex abdomine suo creavit." Śatapatha Brāhmaṇa priori sententiae consentit, et statuit "Asuras ex inferiore spiritu suo creavit." Taittirīya Āraṇyaka repraesentat Prajāpatem deos, homines, patres, Gandharvas et Apsarases ex aqua creavisse, Asuras vero, Rakṣasas et piśācas ex guttis quae effusae sunt ortos esse. Manu affirmat eos a Prajāpatibus creatos fuisse.
+\>
+> Secundum Viṣṇu Purāṇa, ex inguinibus Brahmae (prajāpatis) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex inguine eius (Prajāpatis) procreati sunt. *Asu* a Brāhmaṇis spiritum significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae vocantur." Nomen diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae progenies includens, sed Rakṣasas a Pulastyā descendentes non includens.
+\>
+> In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus;' unde, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
+\>
+> [Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -238,95 +225,62 @@ A) Translate and convert into active present tense sentences:
 
 ::: media
 ![](/images/lekt1305.webp)
-Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt1305))
+Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+(Imago fons: [Detalia](/la/licenses#lekt1305))
 :::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 optiones)
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (duo modi)
+⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
-B) Translate et in passiva praeteriti temporis redige:
+B) Traducite et in passiva praeteriti temporis verba convertite:
 
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते । २⟫. ⟪योद्धा न मुञ्चति । ३⟫. ⟪साधवो देवान्स्मरन्ति । ४⟫. ⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫. ⟪पुत्रवान्नरकं न गच्छति । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫. ⟪कयर्ग्वेदं शृण्वन्ति । १२⟫. ⟪किमीश्वरः सृजति । १३⟫. ⟪साधुः कृतं पापं सहते । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
 
-## 13.11. Wiederholungsübung
 
-A) Versio facite sequentes sententias:
+## 13.11. Exercitatio recapitulativa
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
+A) Sequentes sententias traducite:
 
-B) Convertite sententias Exercitationis A) ad vocem passivam.
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति । २⟫. ⟪नरा धनेन सुखमिच्छन्ति । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते । ४⟫. ⟪देवो लोकान्सृजति । ५⟫. ⟪बाला जलं पिबति । ६⟫. ⟪कवयो धनं लुभ्यन्ति । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫. ⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫. ⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते । १३⟫. ⟪कां देवतामृषिः पश्यति । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
 
-C) Formate ad sententias Exercitationis A) constructionem PPP.
+B) Ponite sententias Exercitationis A) in passivum.
+
+C) Formate ex sententiis Exercitationis A) constructionem PPP.
 
 ::: media
 ![](/images/lekt1302.webp)
-Tabl.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Fons imaginis: [Detalia](/la/licenses#lekt1302))
+Fig.: ⟪सत्यमेव जयते⟫
+(Fons imaginis: [Singula](/la/licenses#lekt1302))
 :::
-D) Ex quibus combinationibus phoneticis formae sequentes Sandhi ortae esse possunt? Omnes possibilitates praebete:
+D) Ex quibus coniunctionibus sonorum sequentes formae Sandhi ortae esse possunt? Indicate omnes possibilitates:
 
-1. -ṇḍ(h)-
-2. -o-
-3. -ṣṭ-
-4. -st(h)-
-5. -ai-
-6. -au-
-7. -mst-
-8. -ṃśc-
-9. -ṃṣṭ-
-10. -ñj-
-11. -ñś-
+1. -a ante vocalem (praeter a-)
+2. -ā-
+3. -ā ante vocalem
+4. -ā ante consonantes sonoras
+5. -ī-
+6. -ū-
+7. -ṝ-
+8. -e-
+9. -e ante Avagraha
+10. -o-
+11. -o ante Avagraha
 12. -o ante consonantes sonoras
-13. -ar-
-14. -ñch-
-15. -ṇḍ(h)-
-16. -ṣṭ-
-17. -st(h)-
-18. -mst-
-19. -ṃśc-
-20. -ṃṣṭ-
-21. -ir ante vocalem vel consonantem sonorām
-22. -īr ante vocalem vel consonantem sonorām
-23. -ur ante vocalem vel consonantem sonorām
-24. -ūr ante vocalem vel consonantem sonorām
-25. -er ante vocalem vel consonantem sonorām
-26. -or ante vocalem vel consonantem sonorām
-27. -air ante vocalem vel consonantem sonorām
-28. -aur ante vocalem vel consonantem sonorām
+13. -ai-
+14. -au-
+15. -y ante vocalem
+16. -v ante vocalem
+17. -r ante vocalem
+18. -ay ante vocalem
+19. -av ante vocalem
+20. -ar-
+21. -ir ante vocalem aut consonantem sonoram
+22. -īr ante vocalem aut consonantem sonoram
+23. -ur ante vocalem aut consonantem sonoram
+24. -ūr ante vocalem aut consonantem sonoram
+25. -er ante vocalem aut consonantem sonoram
+26. -or ante vocalem aut consonantem sonoram
+27. -air ante vocalem aut consonantem sonoram
+28. -aur ante vocalem aut consonantem sonoram
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -334,21 +288,21 @@ D) Ex quibus combinationibus phoneticis formae sequentes Sandhi ortae esse possu
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. -mst-
+36. Anusvāra ante consonantem
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
-E) Versio in Sanscritum:
+E) Convertite in linguam Sanskritam:
 
-1. -mst-
-2. Śūdras in caelum pervenerunt.
-3. Dea irata erat.
-4. Per doctrinam Buddhicam populus liberatus est.
+1. Dea irata erat.
+2. Śūdrae in caelum pervenerunt.
+3. Agricolae viam ierunt.
+4. Per doctrinam Buddhae homines liberati sunt.
 5. Filius saltavit.
-6. Amuletum magistrum custodivit.
-7. Brahmana mendacium non dixit.
-8. Mulieres Śūdrae deam sacrificiis coluerunt.
-9. Buddha ad veritatem evigilavit = Buddha veritatem cognovit.
-10. Vedicorum sapientes Śrutim audierunt.
-11. Sacrificii sacerdotes Somam premere.
+6. Amuletum magistrum protexit.
+7. Brahmana falsum non dixit.
+8. Mulieres Śūdrae deam sacrificiis veneratae sunt.
+9. Buddha ad veritatem experrectus est = Buddha veritatem cognovit.
+10. Sapientes Vedici Śrutim audierunt.
+11. Sacerdotes sacrificiorum Somam expresserunt.

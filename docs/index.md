@@ -14,21 +14,21 @@ hero:
       link: /grammatik
 
 features:
-  - title: Devanāgarī ready
-    details: Perfekte, integrierte Typografie für indische Schriften.
-  - title: Leicht Durchsuchbar
-    details: Eine tiefgreifende lokale Volltextsuche hält das Wissen auf Knopfdruck bereit.
-  - title: Moderne Architektur
-    details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
+  - title: Global & Polyglot
+    details: Vollständig verfügbar in 20+ Sprachen durch eine automatisierte, mehrstufige KI-Übersetzungskaskade.
+  - title: Offline-First PWA
+    details: Der gesamte Kurs (inklusive lokaler Suchmaschine) ist ohne aktive Internetverbindung auf allen Endgeräten nutzbar.
+  - title: Scholarly Typography
+    details: Nativer Support für Devanāgarī und IAST-Transliteration mit exakter akademischer Textausrichtung.
 ---
 
 ::: note-box
 Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Die Sprachen wurden mit Hilfe einer mehrstufigen KI-Kaskade vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
+
+- **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+- **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+- **Editoren**: On-line Editor verfügbar für Autoren ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativ: Standalone Markdown-Editor [Zentauri](https://github.com/marcodem/zentauri)
 - **Aktuelle Version**: v1.7.0
 :::

@@ -75,6 +75,7 @@ outline: 2
 | ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | נקי מעצב; עץ אשוקה = _Saraca asoca_ (רוקס) וילד; שם הקיסר אשוקה ( ) (כ-304 – 232 לפנה"ס) | [38](/he/lektionen/lektion38#_38-9-) |
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | לאכול, לצרוך | [30](/he/lektionen/lektion30#_30-6-) |
 | ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | כהה, שחור | [20](/he/lektionen/lektion20#_20-9-) |
+| ⟪असुर⟫ | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asura&filter=roman&accent=no&transLit=roman) | — | שד | [13](/he/lektionen/lektion13#_13-9-) |
 | ⟪अस्मिता⟫ | אסמיטה | f | "היות 'אני'", כלומר האמונה (השגויה) כי אני הוא זה שרואי וכו' | [3](/he/lektionen/lektion03#_3-6-) |
 | ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | f | אי-פגיעה באף אחד, אי-פגיעה, אלימות אפסית | [16](/he/lektionen/lektion16#_16-2-) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | לומר, לדבר | [36](/he/lektionen/lektion36#_36-4-) |
@@ -161,7 +162,8 @@ outline: 2
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | במקום אחד | [51](/he/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | מדגיש את הקודם לו, בגרמנית לרוב מתאים להדגשה, סוג של אימוג'י \&lt;!\&gt;, למשל "האמת בלבד מנצחת", "במיוחד האמת מנצחת", " | [15](/he/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | מדגיש את המילה שלפניו | [13](/he/lektionen/lektion13#_13-9-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | מדגיש את הקודם לו, בגרמנית לרוב מתאים להדגשה, סוג של אימוג'י \<!\>, למשל "האמת בלבד מנצחת", "במיוחד האמת מנצחת", " | [15](/he/lektionen/lektion15#_15-8-) |
 
 ## ओ
 
@@ -685,6 +687,7 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | מרמה | [43](/he/lektionen/lektion43#_43-4-) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | — | סוחר | [43](/he/lektionen/lektion43#_43-4-) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | — | עגל, צאצא, ילד ; קריאה: חברי היקר | [43](/he/lektionen/lektion43#_43-4-) |
+| ⟪वत्स्यति⟫ | עתיד: | — | br סביל: :br PPP (שם תואר מופעל): :br אינפיניטיב | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | לקבל באופן רשמי, לפנות אל | [36](/he/lektionen/lektion36#_36-4-) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | להגיד חזרה = לענות | [44](/he/lektionen/lektion44#_44-5-) |
 | ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | לומר, לדבר | [10](/he/lektionen/lektion10#_10-5-) |
@@ -699,8 +702,10 @@ outline: 2
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | גשם, עונת הגשמים, שנה | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], ציווי 2.sg.: :sig[] : לרצות, לצוות, לחפץ ב־ | [52](/he/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("מאיר" =) אביב (מרץ עד מאי) | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪वसिष्यते⟫ | עתיד: | — | br PPP: :br אינפיניטיב | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | עושר, אוצר, רכוש, קניין | [27](/he/lektionen/lektion27#_27-5-) |
-| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | להתעכב, לגור (עם מקום שייך לאדם אצל מי שהוא גר) | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | להתעכב, לגור (עם לוקטיב של האדם אצל מי גרים) | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | — | מושב, מקום; עובדה ממשי, דבר אמיתי, מציאות, נושא | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | למעשה, באמת | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | אמצעי ללבוש = בגד, מדידים, בד | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | 1U | להוביל, לנסוע, לנשוב (רוח) | [25](/he/lektionen/lektion25#_25-5-) |
@@ -838,7 +843,7 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | שווה | [23](/he/lektionen/lektion23#_23-4-) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | בעל אותה סוג, שווה, דומה ; ז': בן גילו | [51](/he/lektionen/lektion51#_51-6-) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | כל אחד, כולם | [50](/he/lektionen/lektion50#_50-2-) |
-| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | יחד עם, בשיתוף עם (גם בהקשר של „להילחם עם“ וכו') (פוסטפוזיציה עם אינסטרומנטליס) | [10](/he/lektionen/lektion10#_10-5-) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | יחד עם, בשיתוף (גם בהקשר של „להילחם עם“ וכו') (פוסט-פוזיציה עם אינסטרומנטליס) | [10](/he/lektionen/lektion10#_10-5-) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | מְחֻבָּר, מְצוּיָּד | [18](/he/lektionen/lektion18#_18-4-) |
 | ⟪सह्⟫ | [sah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sah&filter=roman&accent=no&transLit=roman) | — | להתגבר, לסבול, לסבול בסבלנות = לסלוח | [12](/he/lektionen/lektion12#_12-5-) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | מוביל למטרה, גורם | [16](/he/lektionen/lektion16#_16-2-) |
@@ -885,9 +890,10 @@ outline: 2
 |---|---|---|---|---|
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | להכות, להרוג | [17](/he/lektionen/lektion17#_17-6-) |
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | להכות חזרה | [44](/he/lektionen/lektion44#_44-5-) |
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | נוטל הרחק; m.: המשמיד = כינוי של Śiva | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | נוטל; m.: המשמיד = כינוי של Śiva | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | בלונדיני, צהוב, ירוק; m. כינוי של Viṣṇu (אינו שייך לשורש 1) | [27](/he/lektionen/lektion27#_27-5-) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | — | וישׁנוּ ושיווה מאוחדים כאלוהות אחת | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪हरिष्यति⟫ | עתיד: | — | br סביל: :br PPP: :br אינפיניטיב | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu ו-Śiva מאוחדים כאלוהות אחת | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (הזדקפות שערות הגוף), שמחה | [25](/he/lektionen/lektion25#_25-5-) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | — | יד | [18](/he/lektionen/lektion18#_18-4-) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | — | פיל (_Elephas maximus_) | [38](/he/lektionen/lektion38#_38-9-) |
@@ -898,7 +904,7 @@ outline: 2
 | ⟪हीन⟫ | [PPP](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=PPP&filter=roman&accent=no&transLit=roman) | — | נטוש, חסר, לקוי | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪हीनयान⟫ | [hīnayāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hīnayāna&filter=roman&accent=no&transLit=roman) | n | הרכב החסר (של הבודהיזם): כינוי בזוי על ידי נציגי "הרכב הגדול", ; הדרך החסרה ( ל- 2: ללכת, לנסוע). הביטוי אינו צריך עוד ל | [33](/he/lektionen/lektion33#_33-6-) |
 | ⟪हु⟫ | [hu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hu&filter=roman&accent=no&transLit=roman) | 3P | להשליך לאש (כקורבן, במיוחד חמאה מותכת) | [33](/he/lektionen/lektion33#_33-6-) |
-| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | להחזיק, לשאת; להביא, לקחת הרחק, לגנוב | [27](/he/lektionen/lektion27#_27-5-) |
+| ⟪हृ⟫ | [hṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛ&filter=roman&accent=no&transLit=roman) | 1U | להחזיק, לשאת; לקחת, לסלק, לגנוב | [27](/he/lektionen/lektion27#_27-5-) |
 | ⟪हृदय⟫ | [hṛdaya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛdaya&filter=roman&accent=no&transLit=roman) | n | לב | [42](/he/lektionen/lektion42#_42-2-) |
 | ⟪हृष्⟫ | [hṛṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hṛṣ&filter=roman&accent=no&transLit=roman) | 4P | להקשות; להתנפץ (שיער); לשמוח על (אינסטרומטיבי, אקוזטיב, לוקל) | [36](/he/lektionen/lektion36#_36-4-) |
 | ⟪हेतु⟫ | [hetu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hetu&filter=roman&accent=no&transLit=roman) | — | מניע, גורם, סיבה, עילה ; , , עם תואר הגנטיבי או כחלק מאחורי קומפוזיציה = "בשביל ..., בגלל" | [24](/he/lektionen/lektion24#_24-4-) |

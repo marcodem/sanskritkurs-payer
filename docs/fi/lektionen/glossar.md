@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # Sanasto Sanskrit–Suomi
 
@@ -15,7 +19,6 @@ outline: 2
 |---|---|---|---|---|
 | ⟪अखिल⟫ | [akhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=akhila&filter=roman&accent=no&transLit=roman) | 3 | saumaton, kokonainen | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪अगार⟫ | [agāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agāra&filter=roman&accent=no&transLit=roman) | n | koti, kotipaikka | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
-| ⟪अग्नि⟫ | [agni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agni&filter=roman&accent=no&transLit=roman) | m | tuli, jumala Agni | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪अजिन⟫ | [ajina](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ajina&filter=roman&accent=no&transLit=roman) | n | antiloopinnahka, erityisesti mustan antiloopin (hirvenantilooppi: _Antilope cervicapra_ L.) nahka. Se esiintyi alun peri | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪अञ्जलि⟫ | [añjali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añjali&filter=roman&accent=no&transLit=roman) | m | kunnioituksesta korkealle yhdistetyt kädet | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪अञ्ज्⟫ | [añj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=añj&filter=roman&accent=no&transLit=roman) | 7P | voidella, voitelevat | [31](/fi/lektionen/lektion31#_31-2-sanalista) |
@@ -26,6 +29,7 @@ outline: 2
 | ⟪अतिथि⟫ | [atithi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=atithi&filter=roman&accent=no&transLit=roman) | m | vieras | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪अथवा⟫ | [athavā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=athavā&filter=roman&accent=no&transLit=roman) | — | tai (edessä) | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪अद्य⟫ | [adya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adya&filter=roman&accent=no&transLit=roman) | — | tänään | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
+| ⟪अधर्म⟫ | [adharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adharma&filter=roman&accent=no&transLit=roman) | m | epäoikeudenmukaisuus (vastakohta dharma) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪अधि⟫ | [adhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhi&filter=roman&accent=no&transLit=roman) | — | yli, ylös, er-, suhteessa jhk | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪अधिक⟫ | [adhika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhika&filter=roman&accent=no&transLit=roman) | — | ylimääräinen, lisä-, suurempi, parempi, poikkeuksellinen | [23](/fi/lektionen/lektion23#_23-4-sanalista) |
 | ⟪अधिक⟫ | [adhika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=adhika&filter=roman&accent=no&transLit=roman) | 3 | lisäksi, ylimääräinen, poikkeuksellinen | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -36,6 +40,7 @@ outline: 2
 | ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | jälkeen, pitkin, yli - päin, pitkin, mukaan, luo, perästä | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | jäljitellä, tehdä jäljessä | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | seurata jotakuta, kulkea perässä | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
+| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | epätosi, valhe (vastakohta sanalle satya) | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | pahuudettomuus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | monet (ei muutama) | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | m | loppu, raja | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
@@ -45,11 +50,13 @@ outline: 2
 | ⟪अन्यद्⟫ | [anyad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyad&filter=roman&accent=no&transLit=roman) | 3 | toinen (taivutus kuten ) | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪अन्योन्य⟫ | [anyonya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anyonya&filter=roman&accent=no&transLit=roman) | 3 | vastakkain, toisilleen | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪अपवर्ग⟫ | [apavarga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apavarga&filter=roman&accent=no&transLit=roman) | m | loppu, vapautus | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
+| ⟪अपि⟫ | [api](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=api&filter=roman&accent=no&transLit=roman) | — | myös (perään sijoitettuna) | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪अपोह⟫ | [apoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=apoha&filter=roman&accent=no&transLit=roman) | m | kieltäminen ( + ) | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪अभि⟫ | [abhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhi&filter=roman&accent=no&transLit=roman) | — | be-, nach - hin, zu - her, zu - hin, gegen, in - sisään, suhteessa, päälle, yli, luokse | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪अभिगम्⟫ | [abhigam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhigam&filter=roman&accent=no&transLit=roman) | — | lähestä, lähettyviltä | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪अभिनिवेष⟫ | [abhiniveṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhiniveṣa&filter=roman&accent=no&transLit=roman) | m | taipumus, pitkäjänteisyys, kiinnipitäminen; erityisesti: sitoutuminen kehoon kuin se olisi omaisuutta | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
+| ⟪अभिषेक⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | abhiṣeka m. : kuninkaan voitelu kruunajaisissa, kruunaaminen | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪अभ्यन्तर⟫ | [abhyantara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=abhyantara&filter=roman&accent=no&transLit=roman) | 3 | sisällä oleva, lähin; m. läheisin jäsen, alkuperäisasukas | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪अमुत्र⟫ | [amutra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=amutra&filter=roman&accent=no&transLit=roman) | Adv | siellä, sinne | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪अरण्य⟫ | [araṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=araṇya&filter=roman&accent=no&transLit=roman) | n | erämaa, metsä | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
@@ -69,7 +76,8 @@ outline: 2
 | ⟪अशोक⟫ | [aśoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aśoka&filter=roman&accent=no&transLit=roman) | 3 | suruton; ašokapuu = _Saraca asoca_ (Roxb.) Wilde; keisari Aśokan nimi ( ) (n. 304 – 232 eaa.) | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪अश्⟫ | [aś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aś&filter=roman&accent=no&transLit=roman) | 9P | syödä, kuluttaa | [30](/fi/lektionen/lektion30#_30-6-sanalista) |
 | ⟪असित⟫ | [asita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asita&filter=roman&accent=no&transLit=roman) | — | tumma, musta | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
-| ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | "minä-olo", ts. (väärä) usko: Minä olen se, joka näkee jne | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪असुर⟫ | [asura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asura&filter=roman&accent=no&transLit=roman) | m | demoni | [13](/fi/lektionen/lektion13#_13-9-sanalista) |
+| ⟪अस्मिता⟫ | [asmitā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=asmitā&filter=roman&accent=no&transLit=roman) | f | "minä-olijuus", ts. (väärä) usko: Minä olen se, joka näkee jne | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪अहिंसा⟫ | [ahiṃsā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ahiṃsā&filter=roman&accent=no&transLit=roman) | f | kenenkään tekemättä vahinkoa, ei-vahingoittaminen, väkivallattomuus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
 | ⟪अह्⟫ | [ah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ah&filter=roman&accent=no&transLit=roman) | — | sanoa, puhua | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 
@@ -88,7 +96,7 @@ outline: 2
 | ⟪आदित्य⟫ | [āditya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āditya&filter=roman&accent=no&transLit=roman) | m | aurinko ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : tietty jumaluusluokka | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 | ⟪आदृत⟫ | [ādṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ādṛta&filter=roman&accent=no&transLit=roman) | 3 | arvostettu | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪आनन्द⟫ | [ānanda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānanda&filter=roman&accent=no&transLit=roman) | m | onni, ilo | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
-| ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | filosofia (tiede, joka päättelynsä johtopäätöksiin loogisesti oikeutetuilla perusteluilla) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪आन्वीक्षिकी⟫ | [ānvīkṣikī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ānvīkṣikī&filter=roman&accent=no&transLit=roman) | f | filosofia (tiede, joka päättelykelpoisten perustelujen kautta johtaa johtopäätöksiinsä) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪आपण⟫ | [āpaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpaṇa&filter=roman&accent=no&transLit=roman) | m | markkinat | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪आपान⟫ | [āpāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=āpāna&filter=roman&accent=no&transLit=roman) | — | juhlajuomat | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪आम्⟫ | [ām](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ām&filter=roman&accent=no&transLit=roman) | — | kyllä | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -103,11 +111,15 @@ outline: 2
 
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
+| ⟪इति⟫ | [iti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iti&filter=roman&accent=no&transLit=roman) | — | näin | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪इत्थम्⟫ | [ittham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ittham&filter=roman&accent=no&transLit=roman) | Adv | tällä tavalla, näin | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪इन्द्र⟫ | [indra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indra&filter=roman&accent=no&transLit=roman) | m | ruhtinas, ensimmäinen, paras ; jumalakuningas Indra | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪इन्द्रिय⟫ | [indriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=indriya&filter=roman&accent=no&transLit=roman) | n | voima, aistinelin | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪इव⟫ | [iva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iva&filter=roman&accent=no&transLit=roman) | — | ikään kuin, kuten (vertauksissa: = "mies kuin tiikeri", "tiikerimainen mies" | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | toivoa | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪इष्⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | sig[] : lähettää | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
+| ⟪इष् इच्छति⟫ | [iṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣ&filter=roman&accent=no&transLit=roman) | — | toivoa (iṣ-ccha-ti) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
+| ⟪इष्टि⟫ | [iṣṭi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iṣṭi&filter=roman&accent=no&transLit=roman) | f | toive (iṣ + -ti) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪इह⟫ | [iha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iha&filter=roman&accent=no&transLit=roman) | Adv | täällä, täällä maan päällä, tänne ; nyt. Substantiivien edellä lokatiivissa () merkitys sama kuin  | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 
 ## ई
@@ -132,7 +144,7 @@ outline: 2
 | ⟪उपमा⟫ | [upamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upamā&filter=roman&accent=no&transLit=roman) | f | vertailu | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪उपहार⟫ | [upahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upahāra&filter=roman&accent=no&transLit=roman) | m | uhraaminen, uhri, lahja | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪उपाध्याय⟫ | [upādhyāya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upādhyāya&filter=roman&accent=no&transLit=roman) | m | opettaja | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
-| ⟪उपेक्षा⟫ | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upekṣā&filter=roman&accent=no&transLit=roman) | f | huomioimatta jättäminen, tasapainoisuus | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪उपेक्षा⟫ | [upekṣā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=upekṣā&filter=roman&accent=no&transLit=roman) | f | huomiotta jättäminen, tasapainoisuus | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 
 ## ऊ
 
@@ -147,13 +159,16 @@ outline: 2
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | jaksottainen prosessi, vuodenaika, aikakausi, kuukautiset, aika, jolloin nainen on hedelmällinen ja hänellä on oikeus av | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪ऋध्⟫ | [ṛdh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛdh&filter=roman&accent=no&transLit=roman) | — | kasvaa | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
+| ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | vedalainen viisas, vedalaulujen tekijä | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 
 ## ए
 
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | yhdessä paikassa | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki \&lt;!\&gt;, esim. "vain t | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää sanaa | [13](/fi/lektionen/lektion13#_13-9-sanalista) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki \<!\>, esim. "vain t | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪एवम्⟫ | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=evam&filter=roman&accent=no&transLit=roman) | — | niin (adverbiaalisesti, esim. evaṃ jayati "niin hän voittaa") | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 
 ## ओ
 
@@ -184,9 +199,8 @@ outline: 2
 | ⟪कल्प⟫ | [kalpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalpa&filter=roman&accent=no&transLit=roman) | m | säädös, tapa, rituaali ; [maailmankausi](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (katso ) | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 | ⟪कल्पना⟫ | [kalpanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalpanā&filter=roman&accent=no&transLit=roman) | f | Ajāta-graha, ajātīya; kalpana: mental construction, assumption of something non-existent in reality, fiction | [40](/fi/lektionen/lektion40#_40-6-sanalista) |
 | ⟪कल्याण⟫ | [kalyāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kalyāṇa&filter=roman&accent=no&transLit=roman) | 3 | kaunis | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
-| ⟪कवि⟫ | [kavi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kavi&filter=roman&accent=no&transLit=roman) | m | runoilija | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪काम⟫ | [kāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāma&filter=roman&accent=no&transLit=roman) | m | halu, toive, haluttu lahja, aistimielinen nautinto, rakkaus; rakkauden jumala Kāma | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
-| ⟪कामम्⟫ | [kāmam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāmam&filter=roman&accent=no&transLit=roman) | — | toiveen mukaan, sydämen mielen mukaan | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
+| ⟪कामम्⟫ | [kāmam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāmam&filter=roman&accent=no&transLit=roman) | — | toiveen mukaan, sydämen halusta | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
 | ⟪काल⟫ | [kāla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kāla&filter=roman&accent=no&transLit=roman) | m | aika, (oikea) hetki ; kohtalo, kuolema ; kuolemanjumala Kāla | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪कालन⟫ | [kālana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kālana&filter=roman&accent=no&transLit=roman) | n | metsä | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪कियत्⟫ | [kiyat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kiyat&filter=roman&accent=no&transLit=roman) | 3 | kuinka suuri | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -213,7 +227,7 @@ outline: 2
 | ⟪क्लेश⟫ | [kleśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kleśa&filter=roman&accent=no&transLit=roman) | m | kärsimys, vaiva | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪क्षत्रिय⟫ | [kṣatriya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriya&filter=roman&accent=no&transLit=roman) | m | Kṣatriya (ruhtinas- ja sotilassääty) | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪क्षत्रिया⟫ | [kṣatriyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyā&filter=roman&accent=no&transLit=roman) | f | naispuolinen kṣatriya | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
-| ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | Kṣatriyan vaimmainen | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪क्षत्रियी⟫ | [kṣatriyī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣatriyī&filter=roman&accent=no&transLit=roman) | f | kṣatriyan vaimo | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪क्षमा⟫ | [kṣamā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣamā&filter=roman&accent=no&transLit=roman) | f | kärsivällisyys, pitkämielisyys, anteeksianto | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
 | ⟪क्षिप्⟫ | [kṣip](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣip&filter=roman&accent=no&transLit=roman) | 6P | heittää, viskata | [49](/fi/lektionen/lektion49#_49-4-sanalista) |
 | ⟪क्षेम⟫ | [kṣema](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kṣema&filter=roman&accent=no&transLit=roman) | n | rauha, hyvinvointi, turvallinen omaisuus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
@@ -237,15 +251,18 @@ outline: 2
 | ⟪गर्भगृह⟫ | [garbhagṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garbhagṛha&filter=roman&accent=no&transLit=roman) | — | Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968) | [19](/fi/lektionen/lektion19#_19-3-sanasto) |
 | ⟪गर्ह्⟫ | [garh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=garh&filter=roman&accent=no&transLit=roman) | 1Ā | moittia, nuhdella | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | suojattu, turvattu | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
-| ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | raskas, merkittävä, kunnioitettava | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
+| ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | m | kunnioitettava henkilö: isä, äiti, vanhempi sukulainen, erityisesti opettaja, mestari | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | fem. sanasta guru | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪गृह⟫ | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛha&filter=roman&accent=no&transLit=roman) | n | talo | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | talossa oleva; m. talon isä (joku, joka on toisessa ) | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
+| ⟪गृह्यसूत्र⟫ | [gṛhyasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyasūtra&filter=roman&accent=no&transLit=roman) | n | opit arjen seremonioista ja uhrauksista | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪गै⟫ | [gai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gai&filter=roman&accent=no&transLit=roman) | 1P | laulaa, recitoida sävelmällä, julistaa runollisessa muodossa | [35](/fi/lektionen/lektion35#_35-4-sanalista) |
 | ⟪गोदान⟫ | [godāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=godāna&filter=roman&accent=no&transLit=roman) | n | lehmien / yhden lehman antaminen; toinen hiustenleittoseremonia (yksi ) | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪ग्रस्⟫ | [gras](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gras&filter=roman&accent=no&transLit=roman) | 1Ā | syödä, ahmia | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪ग्रह⟫ | [graha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=graha&filter=roman&accent=no&transLit=roman) | m | tarttua, tarttuja, krokotiili, vaeltava tähti | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪ग्रहण⟫ | [grahaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grahaṇa&filter=roman&accent=no&transLit=roman) | n | tarttuminen | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪ग्रह्⟫ | [grah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grah&filter=roman&accent=no&transLit=roman) | 9U | sig[] (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪ग्राम⟫ | [grāma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=grāma&filter=roman&accent=no&transLit=roman) | m | kylä | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪ग्लै⟫ | [glai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=glai&filter=roman&accent=no&transLit=roman) | 1P | tunna vastenmielisyyttä, haihtua | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 
 ## घ
@@ -311,7 +328,7 @@ outline: 2
 | ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | todellinen olento, totuus, todellisuus ( + = tämä-heit) | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
 | ⟪तनु⟫ | [tanu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanu&filter=roman&accent=no&transLit=roman) | — | hoikka | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪तनूकृ⟫ | [tanūkṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tanūkṛ&filter=roman&accent=no&transLit=roman) | — | vähentää, heikentää | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
-| ⟪तन्त्र⟫ | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tantra&filter=roman&accent=no&transLit=roman) | n | kieli ; kangas, kude, kankere; perusta, normi, sääntö; opetus, oppikirja; tantra; mantrakeino; väline, temppu, lääke; ha | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
+| ⟪तन्त्र⟫ | [tantra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tantra&filter=roman&accent=no&transLit=roman) | n | kieli ; kangas, kude, kudottu ; perusta, normi, sääntö ; opetus, oppikirja ; tantra ; mantramuoto ; keino, temppu, lääke | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪तरय⟫ | [taraya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=taraya&filter=roman&accent=no&transLit=roman) | 3 | kolmijakoinen, koostuva kolmesta osasta | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪तर्हि⟫ | [tarhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tarhi&filter=roman&accent=no&transLit=roman) | — | silloin, sitten; siksi, siis | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪तात⟫ | [tāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tāta&filter=roman&accent=no&transLit=roman) | m | isä | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
@@ -340,6 +357,7 @@ outline: 2
 | ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | sauva, lyöntiväline, rangaistus | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | politiikka (Tatpuruṣa-yhdyssana sanasta daṇḍa m. = "sauva, valta, hallinta, rangaistus" ja nīti f. = "oikea johto") | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪दरैद्र⟫ | [daraidra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daraidra&filter=roman&accent=no&transLit=roman) | — | varsi | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
+| ⟪दह् दहति दग्ध⟫ | [dah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dah&filter=roman&accent=no&transLit=roman) | — | polttaa (jotakin) | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪दा⟫ | [dā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dā&filter=roman&accent=no&transLit=roman) | 3U | antaa | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪दान⟫ | [dāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāna&filter=roman&accent=no&transLit=roman) | n | antaminen, lahja, avuliaisuus | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪दायक⟫ | [dāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dāyaka&filter=roman&accent=no&transLit=roman) | — |  antava, lahjoittava | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
@@ -359,8 +377,8 @@ outline: 2
 | ⟪दुह्⟫ | [duh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=duh&filter=roman&accent=no&transLit=roman) | — | maitaa | [17](/fi/lektionen/lektion17#_17-6-sanalista) |
 | ⟪दूत⟫ | [dūta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dūta&filter=roman&accent=no&transLit=roman) | m | viestinviejä, lähettiläs | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪देव⟫ | [deva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deva&filter=roman&accent=no&transLit=roman) | m | Taivaallinen, jumala; ruhtinas, kuningas | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
-| ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | jumaluus (abstrakti ja konkreetinen) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
-| ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | jumalatar, erityisesti Durgā f. = , Šivan vaimo =  | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪देवता⟫ | [devatā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devatā&filter=roman&accent=no&transLit=roman) | f | jumaluus (abstrakti ja konkreetti) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪देवी⟫ | [devī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devī&filter=roman&accent=no&transLit=roman) | f | jumalatar, erityisesti Durgā f. = , Šivan puoliso =  | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪देवृ⟫ | [devṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=devṛ&filter=roman&accent=no&transLit=roman) | m | aviomiehen veli (vaimon käly) | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪देश⟫ | [deśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=deśa&filter=roman&accent=no&transLit=roman) | m | paikka, tila, maa, seutu | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 | ⟪द्रव्य⟫ | [dravya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dravya&filter=roman&accent=no&transLit=roman) | n | esine, omaisuus, aineellinen omaisuus, raha | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
@@ -376,7 +394,9 @@ outline: 2
 
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
+| ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("se, mikä on kiinteää", ts.) oikeus, laki, tapa, luonne | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | se, mikä on vakaata ja pitää kiinni = Dharma | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
+| ⟪धर्मसूत्र⟫ | [dharmasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharmasūtra&filter=roman&accent=no&transLit=roman) | n | opit oikeudesta ja tavasta (oikea käytös) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪धातुम्⟫ | Inf. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪धान्य⟫ | [dhānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhānya&filter=roman&accent=no&transLit=roman) | n | kuorittu vilja | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪धापयति⟫ | Kaus. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
@@ -384,7 +404,7 @@ outline: 2
 | ⟪धीयते⟫ | Pass. | — | sig[] | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪धीर⟫ | [dhīra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhīra&filter=roman&accent=no&transLit=roman) | 3 | vakaa, sitkeä, jatkuva, pitkäjänteinen | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪धृ⟫ | [dhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhṛ&filter=roman&accent=no&transLit=roman) | 1U | pitää, pitelemällä | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
-| ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (maitoa antava) lehmä | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪धेनु⟫ | [dhenu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhenu&filter=roman&accent=no&transLit=roman) | f | (maito-)lehmä | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪ध्यै⟫ | [dhyai](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhyai&filter=roman&accent=no&transLit=roman) | 1P | kuvitella, ajatella | [49](/fi/lektionen/lektion49#_49-4-sanalista) |
 | ⟪ध्रुव⟫ | [dhruva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dhruva&filter=roman&accent=no&transLit=roman) | 3 | vakaa, muuttumaton | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 
@@ -392,6 +412,7 @@ outline: 2
 
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
+| ⟪नगर⟫ | [nagara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nagara&filter=roman&accent=no&transLit=roman) | n | kaupunki | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | Miehen sisar | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪नन्दिन्⟫ | [nandin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nandin&filter=roman&accent=no&transLit=roman) | 3 | erityisellä ilolla merkitty, iloinen; m. Nimi ratsastuseläimelle (⟪वहन⟩) ⟪शिव:lle (härkä) | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
 | ⟪नन्द्⟫ | [nand](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nand&filter=roman&accent=no&transLit=roman) | 1P | iloita jstk () | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
@@ -415,6 +436,7 @@ outline: 2
 | ⟪निषेक⟫ | [niṣeka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=niṣeka&filter=roman&accent=no&transLit=roman) | m | kastelu, hedelmöitys, neste, siemenneste, seremonia syntymän yhteydessä | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
 | ⟪निस्⟫ | [nis](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nis&filter=roman&accent=no&transLit=roman) | — | ulos, pois, ulospäin, esiin, ulkoa, poispäin, ilman - from | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪नी⟫ | [nī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nī&filter=roman&accent=no&transLit=roman) | — | viedä pois, opettaa, kasvattaa | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
+| ⟪नीतिशास्त्र⟫ | [nītiśāstra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nītiśāstra&filter=roman&accent=no&transLit=roman) | n | elämänviisauden opit | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪नृप⟫ | [nṛpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛpa&filter=roman&accent=no&transLit=roman) | m | "miesten suojelija" = kuningas | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪नृशंस्य⟫ | [nṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | pahuus, halventavuus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
 | ⟪नोचेत्⟫ | [nocet](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nocet&filter=roman&accent=no&transLit=roman) | — | ellei, muuten | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -440,10 +462,11 @@ outline: 2
 | ⟪परिचित⟫ | [paricita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paricita&filter=roman&accent=no&transLit=roman) | 3 | tuttu, tunnettu | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪परिनिर्वाण⟫ | [parinirvāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parinirvāṇa&filter=roman&accent=no&transLit=roman) | n | täydellinen sammuminen, täydellinen vapautus (buddhan tai arhatin kuollessa) | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪परिव्राजक⟫ | [parivrājaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=parivrājaka&filter=roman&accent=no&transLit=roman) | m | vaeltaja, vaellusmunkki, pyhiinvaeltaja | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
-| ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | domesticoidtu kotieläin, karja (kollektiivi) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪पशु⟫ | [paśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paśu&filter=roman&accent=no&transLit=roman) | m | kesytetty hyödyke-eläin, karja (kollektiivi) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪पश्चात्ताप⟫ | [paścāttāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paścāttāpa&filter=roman&accent=no&transLit=roman) | m | katumus | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪पा⟫ | [pā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pā&filter=roman&accent=no&transLit=roman) | — | juoda (perinteisesti laskettu ensimmäiseen luokkaan) | [13](/fi/lektionen/lektion13#_13-9-sanalista) |
 | ⟪पाद⟫ | [pāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāda&filter=roman&accent=no&transLit=roman) | m | jalka, neljäs osa, säe | [13](/fi/lektionen/lektion13#_13-9-sanalista) |
+| ⟪पाप⟫ | [pāpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pāpa&filter=roman&accent=no&transLit=roman) | n | paha teko, pahuus (vastakohta sanalle puṇya) | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪पालयति⟫ | [pālayati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pālayati&filter=roman&accent=no&transLit=roman) | — | myös merkitykseltään sama kuin | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪पितामह⟫ | [pitāmaha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmaha&filter=roman&accent=no&transLit=roman) | m | isänpuoleinen isoisä | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪पितामही⟫ | [pitāmahī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitāmahī&filter=roman&accent=no&transLit=roman) | f | isänpuoleinen isoäiti | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
@@ -451,6 +474,8 @@ outline: 2
 | ⟪पितृव्य⟫ | [pitṛvya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pitṛvya&filter=roman&accent=no&transLit=roman) | m | isänveli (isäpuolen veli) | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪पिशित⟫ | [piśita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=piśita&filter=roman&accent=no&transLit=roman) | n | (valmistettu) liha | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪पीड्⟫ | [pīḍ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pīḍ&filter=roman&accent=no&transLit=roman) | 10P | painaa, kiduttaa; ahdistaa, piirittää, vaivata | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
+| ⟪पुण्य⟫ | [puṇya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=puṇya&filter=roman&accent=no&transLit=roman) | n | hyvä teko, ansio | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
+| ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | poika (Intiassa oli välttämätöntä saada poika, joka pystyi tuomaan uhreja esi-isille.) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪पुत्र⟫ | [putra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=putra&filter=roman&accent=no&transLit=roman) | m | poika | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪पुनः⟫ | [punaḥ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punaḥ&filter=roman&accent=no&transLit=roman) | — | aina uudelleen | [30](/fi/lektionen/lektion30#_30-6-sanalista) |
 | ⟪पुनर्⟫ | [punar](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=punar&filter=roman&accent=no&transLit=roman) | — | jälleen, uudelleen, takaisin, mutta | [24](/fi/lektionen/lektion24#_24-4-sanalista) |
@@ -471,6 +496,8 @@ outline: 2
 | ⟪पृष्ठम्⟫ | [pṛṣṭham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṛṣṭham&filter=roman&accent=no&transLit=roman) | — | takana, perässä | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪पॄ⟫ | [pṝ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pṝ&filter=roman&accent=no&transLit=roman) | 3P | täyttää, vallata | [33](/fi/lektionen/lektion33#_33-6-sanalista) |
 | ⟪प्रकृति⟫ | [prakṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prakṛti&filter=roman&accent=no&transLit=roman) | f | (sanasta + ) perusmuoto, luonnollinen tila, luonto; alkuperäisaine, alkuaine | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
+| ⟪प्रच्छ्⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | kysyä | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
+| ⟪प्रच्छ् पृच्छति⟫ | [prach](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prach&filter=roman&accent=no&transLit=roman) | — | kysyä (joltakulta: akk.; jostakin: akk.) | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪प्रजा⟫ | [prajā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajā&filter=roman&accent=no&transLit=roman) | f | syntyminen, syntymä, jälkeläisyys | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪प्रजापति⟫ | [prajāpati](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajāpati&filter=roman&accent=no&transLit=roman) | m | olentojen hallitsija, luoja | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪प्रज्ञा⟫ | [prajñā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prajñā&filter=roman&accent=no&transLit=roman) | f | viisaus, tieto | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
@@ -483,6 +510,7 @@ outline: 2
 | ⟪प्रधान⟫ | [pradhāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pradhāna&filter=roman&accent=no&transLit=roman) | 3 | pääasiallinen, paras ; n.: tärkein asia | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪प्रभृति⟫ | [prabhṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prabhṛti&filter=roman&accent=no&transLit=roman) | f | alku | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪प्रव्रज्या⟫ | [pravrajyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pravrajyā&filter=roman&accent=no&transLit=roman) | f | kotinsa hylkääminen asuimattomuuteen; seremonia, jossa tulee buddhalaiseksi novitsiksi (paliksi: ) | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
+| ⟪प्रश्न⟫ | [praśna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=praśna&filter=roman&accent=no&transLit=roman) | m | kysymys (liite -na kuten yaj-ña) | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪प्रसङ्ग⟫ | [prasaṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prasaṅga&filter=roman&accent=no&transLit=roman) | m | kiinnittyminen, taipumus ; tilaisuus | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪प्रसूति⟫ | [prasūti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prasūti&filter=roman&accent=no&transLit=roman) | f | synty, jälkeläisyys | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪प्राणान्तिक⟫ | [prāṇāntika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=prāṇāntika&filter=roman&accent=no&transLit=roman) | 3 | kohtalokas, kuolemaa tuova, elinkautinen | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
@@ -499,10 +527,13 @@ outline: 2
 | ⟪बाण⟫ | [bāṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāṇa&filter=roman&accent=no&transLit=roman) | m | nuoli, kohde | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | ahdistus, vaiva, kipu | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪बाह्य⟫ | [bāhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāhya&filter=roman&accent=no&transLit=roman) | 3 | ulkona, irrallaan oleva, vieras | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
+| ⟪बुद्धि⟫ | [buddhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=buddhi&filter=roman&accent=no&transLit=roman) | f | Tunnustus, tuntoelin | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
+| ⟪बुध् बुध्यते बोधति बुद्ध⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | herätä, nousta tietoisuuteen; PPP buddha 3 herännyt, joten Buddha = "herännyt" (ei: valaistunut) | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
+| ⟪बोधि⟫ | [budh](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=budh&filter=roman&accent=no&transLit=roman) | — | bodhi m./f. : herääminen (minkä kautta Buddha tai Jina saavuttaa pelastavan ymmärryksen) | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪ब्रह्मचर्य⟫ | [brahmacarya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahmacarya&filter=roman&accent=no&transLit=roman) | — | seksuaalinen pidättyvyys, celibaatissa eläminen | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
 | ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | absoluutti, Veda (Thiemen mukaan alun perin: muotoiltu totuus, josta "totuuden muotoilija") | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | m | Brahmana (pappissääty) | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
-| ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | brāhmaṇi (nainen) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | brahmaninainen | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪ब्रू⟫ | [brū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brū&filter=roman&accent=no&transLit=roman) | — | puhua, sanoa (jollekin: kaksoisakkusatiivi) | [17](/fi/lektionen/lektion17#_17-6-sanalista) |
 
 ## भ
@@ -567,27 +598,32 @@ outline: 2
 | ⟪मात्स्य⟫ | [mātsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mātsya&filter=roman&accent=no&transLit=roman) | 3 | kalalle (kaloihin) kuuluva | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪मान⟫ | [māna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māna&filter=roman&accent=no&transLit=roman) | m | arvio, maine, kunnia, kunnia, ylpeys, ylimielisyys, vähäisyydentunne ; (vertaa itseään muihin) | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪मार⟫ | [māra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māra&filter=roman&accent=no&transLit=roman) | m | personoitu pahuus, personoitu houkutus / manipulointi, piru | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
+| ⟪मार्ग⟫ | [mārga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mārga&filter=roman&accent=no&transLit=roman) | m | tie (tiut olivat usein eläinten kulkureittejä) | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪मार्यादा⟫ | [māryādā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=māryādā&filter=roman&accent=no&transLit=roman) | f | raja | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪मिह्⟫ | [mih](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mih&filter=roman&accent=no&transLit=roman) | 1P | virtsata, pissata, siittää | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪मुख⟫ | [mukha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mukha&filter=roman&accent=no&transLit=roman) | n | suu, kasvot, etuosa, alku | [37](/fi/lektionen/lektion37#_37-9-sanalista) |
-| ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | ilo, erityisesti iloitseminen (vastakohta kateudelle) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪मुच् मुञ्चति मुक्त⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | irrottaa, päästää irti, vapauttaa; kiertokulun (saṃsāra m.) vapauttaminen = pelastaa | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
+| ⟪मुदिता⟫ | [muditā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muditā&filter=roman&accent=no&transLit=roman) | f | ilo, erityisesti ilon jakaminen (vastakohta kateudelle) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪मुनि⟫ | [muni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muni&filter=roman&accent=no&transLit=roman) | m | viisas, (vaikenemis)asketi | [37](/fi/lektionen/lektion37#_37-9-sanalista) |
 | ⟪मुहूर्त⟫ | [muhūrta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muhūrta&filter=roman&accent=no&transLit=roman) | m | hetki, oikea hetki | [49](/fi/lektionen/lektion49#_49-4-sanalista) |
 | ⟪मूर्ख⟫ | [mūrkha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūrkha&filter=roman&accent=no&transLit=roman) | 3 | tyhmä, idiootti, pöyristyttävä m. tyhmi | [37](/fi/lektionen/lektion37#_37-9-sanalista) |
 | ⟪मूल⟫ | [mūla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūla&filter=roman&accent=no&transLit=roman) | n | juuri | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪मूल्य⟫ | [mūlya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mūlya&filter=roman&accent=no&transLit=roman) | n | arvo, hinta | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪मृ⟫ | [mṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛ&filter=roman&accent=no&transLit=roman) | — | kuolla (intialaisten grammatikkojen mukaan: 6 Ā) | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪मृग⟫ | [mṛga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛga&filter=roman&accent=no&transLit=roman) | m | villieläin | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪मृगया⟫ | [mṛgayā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛgayā&filter=roman&accent=no&transLit=roman) | f | metsästys | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪मृति⟫ | [mṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛti&filter=roman&accent=no&transLit=roman) | f | kuolema, kuolo | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪मृत्यु⟫ | [mṛtyu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛtyu&filter=roman&accent=no&transLit=roman) | m | kuolema ; personifioitu: kuoleman jumala | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪मृदु⟫ | [mṛdu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=mṛdu&filter=roman&accent=no&transLit=roman) | — | lempeä, pehmeä; hidas, heikko | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪मेघ⟫ | [megha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=megha&filter=roman&accent=no&transLit=roman) | m | Pilvi ("sateen tuottaja") | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪मैत्री⟫ | [maitrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maitrī&filter=roman&accent=no&transLit=roman) | f | Ystävyys, ystävällisyys, ystävällinen hyväntahtoisuus | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
+| ⟪मोक्ष⟫ | [muc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=muc&filter=roman&accent=no&transLit=roman) | — | mokṣa m. : irrottautuminen, vapautus, pelastus | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 
 ## य
 
 | Sanskrit | IAST | Suku | Suomi | Oppitunti |
 |---|---|---|---|---|
+| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | uhri | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | pyrkiä (, , ) | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | m | pyrkimys, vaiva | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | Adv | kuin, ikäänkuin | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
@@ -650,8 +686,12 @@ outline: 2
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | huijarit | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | kauppias | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪वत्स⟫ | [vatsa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vatsa&filter=roman&accent=no&transLit=roman) | m | vasikka, poika, lapsi ; vok.: rakas | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
+| ⟪वत्स्यति⟫ | Fut.: | — | br Pass.: :br PPP: :br Inf | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वदन⟫ | [vadana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vadana&filter=roman&accent=no&transLit=roman) | n | puhuminen; puheelin: suu, kasvot | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
+| ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | sanoa | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | muodollisesti tervehditä, puhutella | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪वद्⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | 1P | vastata = vastata | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
+| ⟪वद् वदति⟫ | [vad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vad&filter=roman&accent=no&transLit=roman) | — | sanoa, puhua | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪वन⟫ | [vana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vana&filter=roman&accent=no&transLit=roman) | n | metsä | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪वपुस्⟫ | [vapus](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vapus&filter=roman&accent=no&transLit=roman) | n | kauneus, muoto, vartalo (taivutus ks. myöhemmin) | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪वर⟫ | [vara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vara&filter=roman&accent=no&transLit=roman) | 3 | paras | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
@@ -662,11 +702,12 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | Väri, suku, yhteiskuntaluokka | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | sade, sadesävy, vuosi | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[], Imperat. 2.sg.: :sig[] : tahtoa, käskyttää, vaatia | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
-| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("kirkas" =) kevät (maaliskuu–toukokuu) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | varallisuus, aarre, omaisuus, omistus | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 2Ā | pukea (vaatteita), käyttää (vaatteita) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | istuin, paikka; todellinen esine, konkreettinen asia, todellisuus, kohde | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | todellisuudessa, aidosti | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("loistava" =) kevät (maaliskuu–toukokuu) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | rikkaus, aarre, omaisuus, varallisuus | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वस्⟫ | [vas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vas&filter=roman&accent=no&transLit=roman) | 1P | asua, asua paikalla (lokatiivi henkilöstä, jonka luona asuu) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वस्तु⟫ | [vastu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastu&filter=roman&accent=no&transLit=roman) | n | istuin, paikka; todellinen esine, reaali asia, todellisuus, kohde | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪वस्तुतस्⟫ | [vastutas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastutas&filter=roman&accent=no&transLit=roman) | — | todellisuudessa, oikeasti | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
 | ⟪वस्त्र⟫ | [vastra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vastra&filter=roman&accent=no&transLit=roman) | n | väline pukeutumiseen = vaate, asu, kangas | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
 | ⟪वह्⟫ | [vah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vah&filter=roman&accent=no&transLit=roman) | 1U | johtaa, ajaa, puhaltaa (tuuli) | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪वा⟫ | [vā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vā&filter=roman&accent=no&transLit=roman) | — | tai (perään sijoitettuna) | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
@@ -676,6 +717,7 @@ outline: 2
 | ⟪वाच्य⟫ | [vācya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vācya&filter=roman&accent=no&transLit=roman) | 3 | myös: moitittava | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪वात⟫ | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vāta&filter=roman&accent=no&transLit=roman) | m | tuuli | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪वात⟫ | [vāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vāta&filter=roman&accent=no&transLit=roman) | m | Tuuli | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
+| ⟪वाद⟫ | [vāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vāda&filter=roman&accent=no&transLit=roman) | m | lausunto, väite, sana | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 | ⟪वानप्रस्थ⟫ | [vānaprastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vānaprastha&filter=roman&accent=no&transLit=roman) | m | eräaskeetikko (joku, joka on 3. ) | [29](/fi/lektionen/lektion29#_29-2-sanalista) |
 | ⟪वार्त्ता⟫ | [vārttā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vārttā&filter=roman&accent=no&transLit=roman) | f | Toimeentulo, talous (talous) | [5](/fi/lektionen/lektion05#_5-4-sanalista) |
 | ⟪विक्ल्प⟫ | [viklpa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=viklpa&filter=roman&accent=no&transLit=roman) | m | Alternative, doubt | [40](/fi/lektionen/lektion40#_40-6-sanalista) |
@@ -716,7 +758,7 @@ outline: 2
 | ⟪वैश्य⟫ | [vaiśya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśya&filter=roman&accent=no&transLit=roman) | m | Vaiśya (viljelijä- ja kauppiaassääty) | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪वैश्या⟫ | [vaiśyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaiśyā&filter=roman&accent=no&transLit=roman) | f | naispuolinen vaiśya | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪व्यवहार⟫ | [vyavahāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyavahāra&filter=roman&accent=no&transLit=roman) | m | toiminta, elämäntapa, yhteys, liikenne, asia, kauppa, (oikeudenkäynti)prosessi | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
-| ⟪व्याकरण⟫ | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyākaraṇa&filter=roman&accent=no&transLit=roman) | n | kielioppi (sanaan liittyen) | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
+| ⟪व्याकरण⟫ | [vyākaraṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyākaraṇa&filter=roman&accent=no&transLit=roman) | n | kielioppi (sanaan ) | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪व्याघ्र⟫ | [vyāghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyāghra&filter=roman&accent=no&transLit=roman) | m | tiikeri (_Panthera tigris tigris_) (sanm. = haukottelija) | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪व्याधि⟫ | [vyādhi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vyādhi&filter=roman&accent=no&transLit=roman) | m | sairaus | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪व्रज्⟫ | [vraj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vraj&filter=roman&accent=no&transLit=roman) | 1P | astua, kävellä, poistua | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
@@ -728,8 +770,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪शंस्⟫ | [śaṃs](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śaṃs&filter=roman&accent=no&transLit=roman) | 1P | ylistää, käskiä | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | m | lintu | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
-| ⟪शक्ति⟫ | [śakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakti&filter=roman&accent=no&transLit=roman) | — | jumalallinen voima, personoituna naispuolisena seurueena erityisesti :lle | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
-| ⟪शक्र⟫ | [śakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakra&filter=roman&accent=no&transLit=roman) | m | lle) | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
+| ⟪शक्ति⟫ | [śakti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakti&filter=roman&accent=no&transLit=roman) | — | jumalallinen voima, personifioituna naisena erityisesti seurueessa | [22](/fi/lektionen/lektion22#_22-3-sanalista) |
 | ⟪शबर⟫ | [śabara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabara&filter=roman&accent=no&transLit=roman) | — | ei-arianen heimon nimi | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | m | ääni, sointi, signaalimaininta: sana | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪शयन⟫ | [śayana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śayana&filter=roman&accent=no&transLit=roman) | n | sänky, vuode | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
@@ -756,7 +797,7 @@ outline: 2
 | ⟪शुच्⟫ | [śuc](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuc&filter=roman&accent=no&transLit=roman) | 1P | (liekittää, loistaa); surra, valittaa | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪शूद्र⟫ | [śūdra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdra&filter=roman&accent=no&transLit=roman) | m | Śūdra (palvelussääty) | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪शूद्रा⟫ | [śūdrā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrā&filter=roman&accent=no&transLit=roman) | f | naispuolinen śūdra | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
-| ⟪शूद्री⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | śūdran vaimmainen | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪शूद्री शूद्राणी⟫ | [śūdrī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūdrī&filter=roman&accent=no&transLit=roman) | f | śūdran vaimo | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪शून्य⟫ | [śūnya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūnya&filter=roman&accent=no&transLit=roman) | 3 | tyhjä, autio | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪शूर⟫ | [śūra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śūra&filter=roman&accent=no&transLit=roman) | 3 | rohkea, sankarillinen ; m.: sankari | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪शोक⟫ | [śoka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śoka&filter=roman&accent=no&transLit=roman) | m | suru, murhe | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
@@ -764,9 +805,10 @@ outline: 2
 | ⟪शौच⟫ | [śauca](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śauca&filter=roman&accent=no&transLit=roman) | n | puhdistus, puhtaus | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
 | ⟪श्रम्⟫ | [śram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śram&filter=roman&accent=no&transLit=roman) | 4P | sig[]: vaivata itseään, väsyä | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
 | ⟪श्रि⟫ | [śri](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śri&filter=roman&accent=no&transLit=roman) | 1U | nojata, nojautua, löytää tukea, hakeutua jonkun luo (, ) | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
-| ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | kuuntelu, ikuinen perimätieto (nimitys Vedeille ja Brāhmaṇa-teoksille) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪श्रुति⟫ | [śruti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śruti&filter=roman&accent=no&transLit=roman) | f | kuuntelu, ikuinen perinne (Vedojen ja Brāhmaṇa-kirjojen nimitys) | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪श्रेष्ठिन्⟫ | [śreṣṭhin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śreṣṭhin&filter=roman&accent=no&transLit=roman) | m | rikas kauppias | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪श्रोणि⟫ | [śroṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śroṇi&filter=roman&accent=no&transLit=roman) | — | lantio | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
+| ⟪श्रौतसूत्र⟫ | [śrautasūtra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śrautasūtra&filter=roman&accent=no&transLit=roman) | n | opit suurten uhrausten suorittamisesta | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪श्वन्⟫ | [śvan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvan&filter=roman&accent=no&transLit=roman) | m | koira | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪श्वसुर⟫ | [śvasura](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvasura&filter=roman&accent=no&transLit=roman) | f | Appivanhempi (vanhassa ajassa: vain vaimolle) | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪श्वस्⟫ | [śvas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śvas&filter=roman&accent=no&transLit=roman) | — | aamulla | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
@@ -784,6 +826,7 @@ outline: 2
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (zu - : yhteen lyödä): joukko, parvi, yhteisö (esim. buddhalainen) | [41](/fi/lektionen/lektion41#_41-3-sanalista) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | riippua, tarttua | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | sig[] : liittää, kiinnittyä jhk () | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
+| ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | totuus | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | nopea, kiireinen | [43](/fi/lektionen/lektion43#_43-4-sanalista) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | istua, asettua | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sig[] : laskeutua istumaan | [46](/fi/lektionen/lektion46#_46-2-sanalista) |
@@ -798,15 +841,17 @@ outline: 2
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | — | yhtä suuri kuin | [23](/fi/lektionen/lektion23#_23-4-sanalista) |
 | ⟪समान⟫ | [samāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=samāna&filter=roman&accent=no&transLit=roman) | 3 | samanlainen, sama, samankaltainen; m.: ikätoveri | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪सर्व⟫ | [sarva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sarva&filter=roman&accent=no&transLit=roman) | 3 | jokainen, kaikki | [50](/fi/lektionen/lektion50#_50-2-sanalista) |
+| ⟪सह⟫ | [saha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saha&filter=roman&accent=no&transLit=roman) | — | yhdessä, rinnalla (myös „taistella jonkun kanssa“ jne.) (postpositio instrumentaalin kanssa) | [10](/fi/lektionen/lektion10#_10-5-sanalista) |
 | ⟪सहित⟫ | [sahita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sahita&filter=roman&accent=no&transLit=roman) | 3 | yhdistetty, varustettu | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
+| ⟪सह्⟫ | [sah](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sah&filter=roman&accent=no&transLit=roman) | — | selviytyä, kestää, sietää kärsivällisesti = anteeksi antaa | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪साधन⟫ | [sādhana](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhana&filter=roman&accent=no&transLit=roman) | m | tavoitteeseen johtava, aiheuttava | [16](/fi/lektionen/lektion16#_16-2-sanasto) |
-| ⟪साधु⟫ | [sādhu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhu&filter=roman&accent=no&transLit=roman) | 3 | oikea, hyvä | [2](/fi/lektionen/lektion02#_2-5-sanalista) |
 | ⟪साध्वी⟫ | [sādhvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sādhvī&filter=roman&accent=no&transLit=roman) | f | fem. sanasta sādhu | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪सामर्थ्य⟫ | [sāmarthya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmarthya&filter=roman&accent=no&transLit=roman) | n | sen tarkoituksen mukainen | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪सामान्य⟫ | [sāmānya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāmānya&filter=roman&accent=no&transLit=roman) | n | yhtäsuuruus, vastaavuus | [23](/fi/lektionen/lektion23#_23-4-sanalista) |
 | ⟪सायक⟫ | [sāyaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāyaka&filter=roman&accent=no&transLit=roman) | m | nuoli | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪सार⟫ | [sāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sāra&filter=roman&accent=no&transLit=roman) | m | ydin, sydän, olennaisuus, substanssi | [52](/fi/lektionen/lektion52#_52-7-sanalista) |
 | ⟪सिंह⟫ | [siṃha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=siṃha&filter=roman&accent=no&transLit=roman) | m | leijona (_Panthera leo persica_) | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪सिच् सिञ्चति सिक्त⟫ | [sic](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sic&filter=roman&accent=no&transLit=roman) | — | roiskuttaa | [12](/fi/lektionen/lektion12#_12-5-sanalista) |
 | ⟪सीमन्⟫ | [sīman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sīman&filter=roman&accent=no&transLit=roman) | f | raja | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪सुत⟫ | [suta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suta&filter=roman&accent=no&transLit=roman) | m | Poika | [38](/fi/lektionen/lektion38#_38-9-sanalista) |
 | ⟪सुप्ति⟫ | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=supti&filter=roman&accent=no&transLit=roman) | f | uni, erityisesti syväuni | [40](/fi/lektionen/lektion40#_40-6-sanalista) |
@@ -823,12 +868,12 @@ outline: 2
 | ⟪स्तेय⟫ | [steya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=steya&filter=roman&accent=no&transLit=roman) | n | varkaus | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪स्तोत्र⟫ | [stotra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=stotra&filter=roman&accent=no&transLit=roman) | n | (ylistämisen väline =) kiitosvirsi, hymni | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪स्त्री⟫ | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=strī&filter=roman&accent=no&transLit=roman) | f | nainen | [20](/fi/lektionen/lektion20#_20-9-sanalista) |
-| ⟪स्त्री⟫ | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=strī&filter=roman&accent=no&transLit=roman) | f | nainen, vaimo ; feminiinimuoto | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
+| ⟪स्त्री⟫ | [strī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=strī&filter=roman&accent=no&transLit=roman) | f | nainen, vaimo ; feminiinum | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪स्थविर⟫ | [sthavira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthavira&filter=roman&accent=no&transLit=roman) | 3 | vanha, iäkäs | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪स्था⟫ | [sthā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthā&filter=roman&accent=no&transLit=roman) | — | pidättäytyä, pitää etäisyyttä, välttää, jäädä, pysyä paikallaan | [42](/fi/lektionen/lektion42#_42-2-sanalista) |
 | ⟪स्थाविर⟫ | [sthāvira](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sthāvira&filter=roman&accent=no&transLit=roman) | n | (korkea) ikä | [48](/fi/lektionen/lektion48#_48-4-sanalista) |
 | ⟪स्पृश्⟫ | [spṛś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=spṛś&filter=roman&accent=no&transLit=roman) | 6P | koskettaa | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
-| ⟪स्मृति⟫ | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛti&filter=roman&accent=no&transLit=roman) | f | läsnäolo, muistaminen, meditatiivinen läsnäolo = huomioisuus, perimätieto (śrutin vastakäsite). Kattaa | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
+| ⟪स्मृति⟫ | [smṛti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=smṛti&filter=roman&accent=no&transLit=roman) | f | muistaminen, muisto, meditatiivinen muistaminen = tarkkaavaisuus, perinne (śruti:n vastakäsite). Sisältää | [3](/fi/lektionen/lektion03#_3-6-sanalista) |
 | ⟪स्व⟫ | [sva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sva&filter=roman&accent=no&transLit=roman) | 3 | oma, omistaa (minun, sinun jne.) Taivutetaan kuten . Abl.sg.m.n ja Nom.pl.m:ssä sitä voidaan taivuttaa myös kuten  | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪स्वक⟫ | [svaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svaka&filter=roman&accent=no&transLit=roman) | 3 | adj. (minun, sinun ...) ; m.: jäsen | [36](/fi/lektionen/lektion36#_36-4-sanalista) |
 | ⟪स्वप्⟫ | [svap](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=svap&filter=roman&accent=no&transLit=roman) | 2P | nukkua, asettua nukkumaan | [40](/fi/lektionen/lektion40#_40-6-sanalista) |
@@ -846,9 +891,10 @@ outline: 2
 |---|---|---|---|---|
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | — | sla, surmaa, tappaa | [17](/fi/lektionen/lektion17#_17-6-sanalista) |
 | ⟪हन्⟫ | [han](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=han&filter=roman&accent=no&transLit=roman) | 2P | torjua, lyödä takaisin | [44](/fi/lektionen/lektion44#_44-5-sanalista) |
-| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | vieden pois; m.: tuhoaja = Šivan lisänimi | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | vaalea, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen 1) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
-| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu ja Śiva yhdistettynä yhteen jumaluuteen | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪हर⟫ | [hara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hara&filter=roman&accent=no&transLit=roman) | 3 | viemällä pois; m.: tuhoaja = Śivan lisänimi | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪हरि⟫ | [hari](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hari&filter=roman&accent=no&transLit=roman) | 3 | vaaleankeltainen, keltainen, vihreä; m. Viṣṇun lisänimi (ei kuulu juureen 1) | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪हरिष्यति⟫ | Fut.: | — | br Pass.: :br PPP: :br Inf | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
+| ⟪हरिहर⟫ | [harihara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harihara&filter=roman&accent=no&transLit=roman) | m | Viṣṇu ja Śiva yhdistyneenä yhteen jumaluuteen | [27](/fi/lektionen/lektion27#_27-5-sanalista) |
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (karvojen pystyminen), ilo | [25](/fi/lektionen/lektion25#_25-5-sanalista) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | käsi | [18](/fi/lektionen/lektion18#_18-4-sanalista) |
 | ⟪हस्तिन्⟫ | [hastin](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hastin&filter=roman&accent=no&transLit=roman) | m | elefantti (_Elephas maximus_) | [38](/fi/lektionen/lektion38#_38-9-sanalista) |

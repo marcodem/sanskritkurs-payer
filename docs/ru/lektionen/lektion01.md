@@ -77,6 +77,7 @@ pārvatīparameśvarau |**
 >[Источник: **Кеммерих**, Макс (1876–1932): Kultur-Kuriosa. -- Мюнхен : Ланген. -- Т. 2. -- 1923. -- Стр. 74. -- Онлайн: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Дата обращения: 10.01.2010]
 ::: literatur-box
 [Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] 
+:::
 ::: literatur-box
 [Источник: **Кеммерих**, Макс (1876–1932): Kultur-Kuriosa. -- Мюнхен : Ланген. -- Т. 2. -- 1923. -- С. 74. -- Онлайн: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Дата обращения: 10.01.2010]
 :::

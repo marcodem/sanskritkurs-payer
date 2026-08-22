@@ -8,46 +8,39 @@ status: stable
 
 ---
 
-# Luento 48
+# Oppitunti 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
 ::: center
-⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
-
-⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
-
-⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫
-
-⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫
-
-⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫
-
-⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
-
-⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
+⟪सत्यम् वद ॥१॥ धर्मं चर ॥२॥ मातृदेवो भव ॥३॥ गौरवं प्राप्यते दानात् ॥४॥ श्वः कार्यमद्य कुर्वीत ॥५॥ विद्याविहीनः पशुः ॥६॥ लाघवं वैयाकरणस्य भूषणम् ॥७॥⟫
 :::
-## 48.2. Imperatiivin muodostus (⟪लोट्⟩) atemaattisten preesensvartojen varrella
+## 48.2. Imperatiivin muodostus (⟪लोट्⟫) atemaattisten preesensvartojen varrella
 
-### 48.2.1. Imperatiivin päätökset atemaattisille preesensvarroille
+### 48.2.1. Imperatiivin päätökset atemaattisissa preesensvarroissa
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.lk.: -atu** :br(ulk. -\*ntu) | \-atām:br(ulk.: -\*ntām) |
+| **1. persoona** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. persoona** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. persoona** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
 :::
-Huom.: ¹ 2. ja 3.sg.p:n päätökset voidaan korvata -tāt:lla, jos halutaan ilmaista siunaustoivomus. -tāt esiintyy (myös 3.sg.p:ssä) heikon varroksen päässä.
+Huom.: ¹ 2. ja 3.sg.P:n päätökset voidaan korvata -tāt:lla, jos halutaan ilmaista siunaustoivomus. -tāt esiintyy (myös 3.sg.P:ssä) heikon varren perässä.
 
 ::: grammar-box
-| **Zur Form der Pääte der 2.sg.Imperatiivi.P:** ||
+| **2.sg.Imperativ.P:n päätteen muoto:** ||
 | :---: | :--- |
-| **\-ø** 5. ja 8. luokan juuret, joissa loppuun \-u edeltää vain yksi konsonantti. | Juurin der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
-| **\-āna** 9. luokan juuret, jotka päättyvät konsonanttiin; korvaavat muodon \-nī+Pääte \-āna | Juurin der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Pääte \-āna |
-| **\-hi** | kaikki muut preesensvartalon muodot, jotka päättyvät vokaaliin tai puolivokaaliin (poikkeus: ⟪जुहुधि⟫ **⟪हु⟫ 3**) |
-| **\-dhi** | kaikki muut tapaukset |
+| **\-ø** | 5. ja 8.luokan juuret, joissa loppuun tuleva \-u edeltää vain yksi konsonantti. |
+| **\-āna** | 9.luokan juuret, jotka päättyvät konsonanttiin, korvaavat \-nī+päätteen \-āna:lla |
+| **\-hi** | kaikki muut preesensvarret, jotka päättyvät vokaaliin tai puolivokaaliin (poikkeus: ⟪जुहुधि⟫ **⟪हु⟫ 3**) |
+| **\-dhi** | Kaikki muut tapaukset |
+:::
+### 48.2.2. Preesensvarren muoto
+
+::: grammar-box
+**Vahva varsi:**
 :::
 ### 48.2.2. Preesensvartalon muoto
 
@@ -192,62 +185,62 @@ Huom.: ¹ ⟪धेहि⟫ muodossa \*dhazdhi: indoeurooppalaisen kitinan z ka
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Nominaalijohdoksista: ⟪तद्धित⟩-liitteet -a ja -ya
+## 48.3. Nominaalijohdanto: ⟪तद्धित⟫-liitteet -a ja -ya
 
 ::: grammar-box
-Liitteellä **-a** ja (harvemmin) **-ya** substantiivista voidaan johtaa toinen substantiivi. Tällöin alkuperäisen substantiivin ensimmäinen tavu saa pitkän asteen (⟪वृद्धि⟩). Jos alkuperäinen vartalo päättyy jo **-a**:n, ⟪वृद्धि⟩ on ainoa johdoksen merkki, koska vartalon pääte ei muutu.
+Liitteellä **-a** ja (harvemmin) **-ya** substantiivista voidaan johtaa toinen substantiivi. Tällöin alkuperäisen substantiivin ensimmäinen tavu saa pitkän asteen (⟪वृद्धि⟫). Jos alkuperäinen sanavarsi päättyy jo muotoon **-a**, ⟪वृद्धि⟫ on ainoa johdoksen merkki, koska varren lopussa ei tapahdu muutosta.
 
-Johdetuilla sanoilla on merkitys:
+Johdetut sanat tarkoittavat:
 
-> "jokin yhteys siihen, mitä perussana tarkoittaa"
+> "jonkin perussanan ilmaiseman asian suhteen oleva"
 
 esim.
 
-*   "peräisin"
-*   "kuuluva jhk"
+*   "peräisin jostakin"
+*   "kuuluville jollekin"
 
-Näin muodostetut sanat ovat adjektiiveja, mutta ne voidaan substantivoida, esim. patronyymiminä (nimenmuodostus isän mukaan: "N.N:n poika") tai abstrakteina (useimmiten neutreina).
+Näin muodostetut sanat ovat adjektiiveja, mutta niitä voidaan substantivoida, esim. patronyymiminä (nimenmuodostus isän mukaan: "N.N:n poika") tai abstrakteina (useimmiten keskisukuina).
 :::
 Esimerkkejä:
 
 ::: indent
-| Perussana | Johtimellinen johdos |
+| Perussana | Johdos |
 | :--- | :--- |
 | ⟪शुचि⟫ 3 "kirkas, puhdas" | ⟪शौच⟫ n. "puhtaus" |
-| ⟪पुत्र⟫ m. "poika" | ⟪पौत्र⟫ m. "pojan jälkeinen = pojanpoika, lapsenlapsi" |
-| ⟪गोतम⟫ m. "paljon lehmäomistava" ominaisnimi | ⟪गौतम⟫ m. "Gotaman poika" |
-| ⟪ब्रह्मन्⟫ n. "muotoiltu totuus, Veda, Absoluuttinen" | ⟪ब्राह्मण⟫ m. "totuudenmuotoilija, brahmani" |
+| ⟪पुत्र⟫ m. "poika" | ⟪पौत्र⟫ m. "pojan jäljiltä = pojan poika, lapsenlapsi" |
+| ⟪गोतम⟫ m. "erittäin monien lehmien omistaja" Oik.nimi | ⟪गौतम⟫ m. "Gotaman poika" |
+| ⟪ब्रह्मन्⟫ n. "muotoiltu totuus, Veda, Absoluutti" | ⟪ब्राह्मण⟫ m. "totuuden muotoilija, brahmani" |
 | ⟪शूर⟫ 3 "sankarillinen" | ⟪शौर्य⟫ n. "sankarillisuus, rohkeus" |
 | ⟪राजन्⟫ m. " kuningas" | ⟪राज्य⟫ n. "kuninkuus" |
-| ⟪देव⟫ m. "Taivallinen, jumala" | ⟪दैव्य⟫ 3 "taivallinen" |
+| ⟪देव⟫ m. "Taivaallinen, jumala" | ⟪दैव्य⟫ 3 "taivaallinen" |
 | ⟪ग्राम⟫ m. "kylä" | ⟪ग्राम्य⟫ 3 "kylläinen" |
 :::
 ::: grammar-box
-| **Behandlung des Vartaloauslautes vor dem Suffix \-a:** ||
+| **Varren lopun käsittely ennen liitettä \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
-| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEsimerkkejä siehe oben. |
-| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
-| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **muut taivutusluokat:** | katso Wackernagel, Altind. Grammatik II,2 § 38 |
+| **\-ṛ** | **\-a** liittyy yleensä muotoon **\-r**:brEsim. ⟪जेतृ⟫ "voittaja" » ⟪जैत्र⟫ 3 "voittoisa" |
+| **\-a** | Perussanan **\-a** korvaaminen uudella liitteellä **\-a**..:brKatso esimerkit yllä. |
+| **\-i** | **\-i**:n katoaminen:brEsim. ⟪प्रकृति⟫ f. "luonto" » ⟪प्राकृत⟫ 3 "luonnollinen, normaali, yleinen, vulgaari" |
+| **\-u** | useimmiten: **\-av-a**:brEsim. ⟪गुरु⟫ 3 "raskas"; m. "mestari, opettaja" » ⟪गौरव⟫ 3 "mestariin kuuluva, mestarin jäljiltä"; n. "paino, raskaus, arvo" |
+| **muut taivutusvarret:** | katso Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Vartalon **-ya** edellä vartalonloppua käsitellään samalla tavalla kuin vartalonloppua ennen vartaloa **-a**.
+Ennen liitettä **-ya** vartalon loppu käsitellään samalla tavalla kuin ennen liitettä **-a**.
 :::
 Esimerkit ks. yllä!
 
 ::: grammar-box
-**Nämä vartalon muodostavat -liitteet mahdollistavat myös yhdyssanoista johdosten muodostamisen.**
+**Näiden liitteiden avulla johdoksia voidaan muodostaa myös yhdyssanoista.**
 
-esim. ⟪स्वश्व⟫ m. "joka, jonka hevoset ovat hyvät" ominaisnimi » ⟪सौवश्व⟫ m. "Svaśvan jälkeläinen"
+esim. ⟪स्वश्व⟫ m. "jonka hevoset ovat hyvät" ominaisnimi » ⟪सौवश्व⟫ m. "Svaśvan jälkeläinen"
 
-**Yhdyssanoissa, joissa sandhin seurauksena edellisen osan lopussa oleva -i tai -u korvautuu v-yllä tai v-v:llä ja näin edeltävät perussanan ensimmäistä vokaalia (esim. yhdyssanat, joissa on ni-, vi-, su-), ⟪वृद्धि⟫ muodostetaan niin kuin siinä olisi -iy tai -uv.**
+**Yhdyssanoissa, joissa sandhin seurauksena etuosan lopussa oleva -i tai -u korvautuu y-:llä tai v-:llä ja näin edeltävät perus sanan ensimmäistä vokaalia (esim. yhdyssanat ni-, vi-, su-), ⟪वृद्धि⟩ muodostetaan niin kuin siinä olisi -iy tai -uv.**
 
-z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+esim. ⟪व्याघ्र⟫ m. "tiikeri" » ⟪वैयाघ्र⟫ 3 "tiikeristä peräisin, tiikeriin kuuluva"
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Kuva: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Kuv lähde: [Tiedot](/fi/licenses#lekt4801))
+Kuv.: ⟪वैयाघ्रं विजृम्भणम्⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4801))
 :::
 ## 48.4. Sanalista
 
@@ -257,27 +250,26 @@ Kuva: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 
 ⟪लघु⟫ 3: kevyt (ei raskas, ei vaikea), nopea, lyhyt (ilmaisussa)
 
-⟪व्याकरण⟫ n.: kielioppi (sanaan ⟪व्याकृ⟫ liittyen)
+⟪व्याकरण⟫ n.: kielioppi (sanaan ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: kieli ; kangas, kude, kankere; perusta, normi, sääntö; opetus, oppikirja; tantra; mantrakeino; väline, temppu, lääke; hallinto, valta
+⟪तन्त्र⟫ n.: kieli ; kangas, kude, kudottu ; perusta, normi, sääntö ; opetus, oppikirja ; tantra ; mantramuoto ; keino, temppu, lääke ; hallinto, valta
 
 ::: media
 ![](/images/lekt4802.webp)
 Kuv.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt4802))
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4802))
 :::
 
-:::
 ::: media
 ![](/images/lekt4803.webp)
 Kuv.: ⟪तन्त्री⟫
 Sitarinsoittaja = ⟪सितारवादकः⟫
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt4803))
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: nainen, vaimo ; feminiinimuoto
+⟪स्त्री⟫ f.: nainen, vaimo ; feminiinum
 
-Deklinointi:
+Taivutus:
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -393,5 +385,5 @@ B) Käännä sanskritiksi (käytä imperatiivia ja mahdollisimman paljon 2. ja 3
 sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] ⟪शोकमावहेयुररक्षिताः ॥५॥ इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् । यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥ स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च । स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥७॥ पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते । जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥८॥⟫
 :::
 Selitys:  
-:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) duaali muoto sanasta ⟪द्वे⟫ ⟪कुले⟫ "kaksi perhettä"
+⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Duali muoto sanasta ⟪द्वे कुले⟫ "kaksi perhettä"
 

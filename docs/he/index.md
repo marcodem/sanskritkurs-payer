@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "קורס סנסקריט"
-  text: "מסלול לימודים מלא"
-  tagline: "מאת אלוויס פאיר (ספריית הכפר הגלובלי של טיפל)"
+  text: "מסלול לימוד מלא"
+  tagline: "מאת אלוויס פאייר (ספריית הכפר הגלובלי של טיפל)"
   actions:
     - theme: brand
       text: "התחל קורס"
@@ -14,21 +14,22 @@ hero:
       link: /he/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "טיפוגרפיה משולבת ומלאה עבור כתובות הודיות."
-  - title: "קל לחיפוש"
-    details: "חיפוש טקסט מלא מקומי מעמיק שומר על הידע זמין בלחיצת כפתור."
-  - title: "ארכיטקטורה מודרנית"
-    details: "בנוי על בסיס של VitePress למהירות מקסימלית."
+  - title: "גלובלי ורב-לשוני"
+    details: "זמין במלואו ב-20+ שפות באמצעות קסקדה תרגום ממוחשבת אוטומטית רב-שלבי."
+  - title: "PWA ממוקד אינטרנט לא פעיל (Offline-First)"
+    details: "כל הקורס (כולל מנוע החיפוש המקומי) זמין לשימוש בכל המכשירים ללא חיבור אינטרנט פעיל."
+  - title: "טיפוגרפיה אקדמית"
+    details: "תמיכה מקורית בדהוונאגרי ובתעתיק IAST עם יישום טקסט אקדמי מדויק."
 
 ---
 
 ::: note-box
-קורס הסנסקריט מאת אלווויי פאייר הוא מסלול לימוד מקיף ומבוסס מדעית לרכישת שפת הסנסקריט וכתב דוונאג'רי. מהדורה דיגיטלית זו מציגה את כל הקורס בסביבת קריאה מודרנית, רב-לשונית ונידית.
+קורס הסנסקריט מאת אלווויי פאייר הוא מסלול לימוד מקיף ומבוסס מדעית ללימוד שפת הסנסקריט וכתב דוונאג'רי. מהדורה דיגיטלית זו מציגה את כל הקורס בסביבת קריאה מודרנית, רב-לשונית ונידית.
 
-השפות תורגמו באופן אוטומטי ומלא בעזרת בינה מלאכותית (Qwen3.6-32B) מגרמנית. דיווח על שגיאות תרגום מתקבל בברכה.
-**הערות וצור קשר**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-**להשתתף כעורך או כאוצר**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**עורך קוד פתוח Zentauri**: עורך Markdown עצמאי ב-[GitHub](https://github.com/marcodem/zentauri)
-**ויקי המפתחים וארכיטקטורה**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+השפות תורגמו באופן אוטומטי מלא באמצעות קסקדה רב-שלבית של בינה מלאכותית. אנו מקבלים בברכה דיווחים על שגיאות תרגום.
+
+**צור קשר והשתתפות**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**עורכים**: עורך אונליין זמין למחברים ([payer-author.birchville.org](https://payer-author.birchville.org)) | לחלופין: עורך Markdown עצמאי [Zentauri](https://github.com/marcodem/zentauri)
+**גרסה נוכחית**: v1.7.0
 :::

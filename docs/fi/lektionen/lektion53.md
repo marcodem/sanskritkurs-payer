@@ -36,7 +36,6 @@ Kuv.: ⟪मार्जारयुगम्⟫
 (Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt5301))
 :::
 
-:::
 ::: media
 ![](/images/lekt5302.webp)
 Kuv.: ⟪हस्तौ⟫
@@ -639,4 +638,3 @@ Alois Maria Payer
 :::
 
 
-:::

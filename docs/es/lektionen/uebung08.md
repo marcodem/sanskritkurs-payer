@@ -90,7 +90,7 @@ sādhuḥ svargāmś ca narakāmś ca paśyati.
 
 ⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
 
-3\. Él derrota a los kṣatriyas. &lt;!--  --&gt;
+3\. Él derrota a los kṣatriyas. \<!--  --\>
 
 kṣatriyāñ jayati.
 
@@ -144,7 +144,7 @@ kiṃ kāraṇam?
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung007))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Ejercicio de lectura
 
@@ -188,7 +188,7 @@ La niña escribe o dibuja.
 La doncella entra en la casa.
 
 14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. &lt;!--  --&gt;
+Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga. \<!--  --\>
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 El niño conduce al elefante.
@@ -206,5 +206,5 @@ El niño escribe una carta.
 ![](/images/uebung008.webp)
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung008))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

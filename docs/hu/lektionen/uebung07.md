@@ -222,4 +222,3 @@ sa guruḥ. enaṃ śṛṇvanti.
 Kép: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 (Képmegjelölés: [Részletek](/licenses#uebung006))
 :::
-:::

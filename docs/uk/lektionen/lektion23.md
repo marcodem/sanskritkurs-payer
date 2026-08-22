@@ -86,7 +86,7 @@ status: stable
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Коріньn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. &lt;!--  -→
+Die anderen Коріньn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. \<!--  -→
 
 ## 23.3. Інфінітив (⟪तुमुन्⟫) до наразі вивчених коренів
 

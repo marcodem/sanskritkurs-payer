@@ -239,7 +239,6 @@ Esempel: ⟪प्रतीची⟫
 (Fonte da figura: [Detagls](/rm/licenses#lekt6003))
 :::
 
-:::
 ::: media
 ![](/images/lekt6004.webp)
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6004))
@@ -427,7 +426,6 @@ A) Studiai en Kielhorn, Grammatica § 451 las furmas irregularas dal desiderativ
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6007))
 :::
 
-:::
 ::: media
 ![](/images/lekt6008.webp)
 (Imaggisurza: [Detagls](/rm/licenses#lekt6008))

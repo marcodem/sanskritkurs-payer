@@ -155,7 +155,7 @@ outline: 2
 | Sanskrit | IAST | Genus | Deutsch | Lektion |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | an einer Stelle | [51](/lektionen/lektion51#_51-6-wortliste) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon \&lt;!\&gt;, z.B. "allein die Wahrheit s | [15](/lektionen/lektion15#_15-8-wortliste) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon \<!\>, z.B. "allein die Wahrheit s | [15](/lektionen/lektion15#_15-8-wortliste) |
 
 ## ओ
 

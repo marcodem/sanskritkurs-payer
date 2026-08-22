@@ -559,7 +559,7 @@ Kutipan Mingguan
 
 ## [Pelajaran 43](lektion43)
 
-*   1\. Akhiran personal orang ke-2 (⟪मध्यमः⟫ = "orang \&lt;middle\&gt;")
+*   1\. Akhiran personal orang ke-2 (⟪मध्यमः⟫ = "orang \<middle\>")
 *   2\. Pembentukan bentuk verbal orang ke-2 (⟪मध्यमः⟫)
 *   2.1. Pokok Tematik
 *   2.1.1. Kelas Present Pertama (⟪भ्वादि⟫)

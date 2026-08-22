@@ -1,6 +1,6 @@
 ---
 title: "Ders 27"
-subtitle: 'Lokativ kullanımı (⟪सप्तमी⟫ f. = "yedinci hal eki")'
+subtitle: 'Lokativ Kullanımı (⟪सप्तमी⟫ f. = "yedinci hal eki")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -10,7 +10,7 @@ status: stable
 
 # Ders 27
 
-## 27.1. Kullanım Lokatifi (⟪सप्तमी⟫ f. = "yedinci hal eki")
+## 27.1. Kullanım Lokatif (⟪सप्तमी⟫ f. = "yedinci hal eki")
 
 ::: grammar-box
 
@@ -18,12 +18,12 @@ status: stable
 *   **nerede?**
 *   **ne zaman?**
 *   **hangi koşullar altında?**
-*   **neye göre?**
+*   **neyle ilgili olarak?**
 
 :::
 ::: grammar-box
 
-**1. Lokatif (⟪सप्तमी⟫), "Nerede?" sorusuna yanıt olarak, ajanın (⟪कर्ता⟫) veya bir eylemin nesnesinin bulunduğu mekânı ya da eylemin kendisinin gerçekleştiği yeri belirtir.**
+**1. Lokatif (⟪सप्तमी⟫), "Nerede?" sorusuna karşılık olarak, ajanın (⟪कर्ता⟫) veya bir eylemin nesnesinin bulunduğu mekânı ya da eylemin kendisinin gerçekleştiği yeri belirtir.**
 
 > ⟪नगरे वसति⟫ = "Şehirde oturur"
 
@@ -32,30 +32,28 @@ status: stable
 ![](/images/lekt2701.webp)
 Resim: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Resim kaynağı: [Detaylar](/tr/licenses#lekt2701))
+(Görsel kaynağı: [Detaylar](/tr/licenses#lekt2701))
 :::
 
 ::: grammar-box
 
-**2. Lokatif, "Ne zaman?" sorusuna yanıt olarak zamanı veya dış koşulları belirtir:**
+**2. Lokatif, "Ne zaman?" sorusuna karşılık olarak zaman noktasını veya dış koşulları belirtir:**
 
 > ⟪तस्मिन्काले⟫ = "o anda, bu sırada"
 
 **Buraya ayrıca Locativus Absolutus da dahildir:**
 
-**Bir kişinin veya şeyin eylemi veya durumu, başka BİR kişi veya şeyin bir eylem gerçekleştirdiği zamanı veya belirli bir durumda bulunduğu koşulları belirlerse, ilk kişi veya şeyi tanımlayan kelime, onu daha yakından tanımlayan kelimeyle (ki bu genellikle bir ortaçtır) birlikte Lokatif halini alır (⟪सप्तमी⟫):**
+**Bir kişinin veya şeyin eylemi veya durumu, başka bir kişi veya şeyin belirli bir durumda olduğu veya belirli bir eylemi gerçekleştirdiği zamanı - veya koşulları - belirlerse, ilk kişi veya şeyi tanımlayan kelime, onu daha yakından tanımlayan kelimeyle (ki bu sıklıkla bir ortaçtır) birlikte Lokatif halini alır (⟪सप्तमी⟫):**
 
 > ⟪एवं गच्छति काले⟫ = "zaman böyle geçerken..."
->
+\>
 > ⟪तस्मिन्गते⟫ = "gittiğinde..."
 
 **Bazen ajan (⟪कर्ता⟫) ayrıca belirtilmez:**
 
-> ⟪एवं सति⟫ = "durum böyle olunca"
+> ⟪एवं सति⟫ = "durum böyle olduğu için"
 
-**Locativus absolutus, bağlama göre "sırasında" (örn. Şimdiki Zaman Ortacı), "sonra", "zaten" (örn. Geçmiş Tamamlanmış Zaman Ortacı), "çünkü", "zira", "halbuki" vb. şeklinde çevrilmelidir.**
-
-**Not: Fiilimsi-çevreli (Absolutivum) durumunda, fiilimsinin öznesi ile ana cümlenin özdes aynı olmak zorundadır; fiilimsi-çevreli (Locativus absolutus) durumunda ise, fiilimsinin öznesi ile ana eylemin özdes farklı olmalıdır.**
+**Locativus absolutus, bağlama göre "sırasında" (örn. Şimdiki Zaman Ortacı), "sonra", "zaten" (örn. Geçmiş Tamamlanmış Zaman Ortacı), "çünkü", "zira", "halbuki", "eğer" vb. şeklinde çevrilmelidir.**
 
 :::
 ::: media

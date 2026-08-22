@@ -261,4 +261,3 @@ Sauva aiheuttaa filosofian, vedistisen tutkimuksen ja taloustieteen hankkimisen 
 Kuv.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung024))
 :::
-:::

@@ -8,24 +8,24 @@ status: stable
 
 ---
 
-# 27. lecke
+# Lecke 27
 
-## 27.1. A lokativ használata (⟪सप्तमी⟫ f. = "hetedik esetrag")
+## 27.1. A lokativuszószó használata (⟪सप्तमी⟫ f. = "hetedik esetrag")
 
 ::: grammar-box
 
-**A lokativ (⟪सप्तमी⟫) a következő kérdésekre áll:**
+**A lokativuszószó (⟪सप्तमी⟫) a következő kérdésekre áll:**
 *   **hol?**
 *   **mikor?**
 *   **milyen körülmények között?**
-*   **mire vonatkozóan?**
+*   **mihez képest?**
 
 :::
 ::: grammar-box
 
-**1. A lokativus (⟪सप्तमी⟫) a „Hol?” kérdésre válaszolva azt a teret jelöli, amelyben (ben, felül, mellett) az agens (⟪कर्ता⟫) vagy egy cselekvés tárgya tartózkodik, vagy ahol maga a cselekmény lezajlik.**
+**1. A lokativuszószó (⟪सप्तमी⟫) a "Hol?" kérdésre válaszolva azt a teret jelöli, amelyben (azalatt, azon, mellette) az agens (⟪कर्ता⟫) vagy egy cselekvés tárgya tartózkodik, vagy ahol maga a cselekmény lezajlik.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = „Ő a városban lakik.”
+> ⟪नगरे वसति⟫ = "A városban lakik"
 
 :::
 ::: media
@@ -37,23 +37,23 @@ Jaipur, 1875.
 
 ::: grammar-box
 
-**2. A lokativus a „Mikor?” kérdésre válaszolva az időpontot vagy a külső körülményeket jelöli:**
+**2. A lokativuszószó a "Mikor?" kérdésre válaszolva az időpontot vagy a külső körülményeket jelöli:**
 
-> ⟪तस्मिन्काले⟫ = „akkor, abban az időben”
+> ⟪तस्मिन्काले⟫ = "abban az időpontban, abban az időben"
 
 **Ide tartozik úgynevezett Locativus Absolutus is:**
 
-**Ha egy személy vagy dolog cselekvése vagy állapota meghatározza azt az időt, amikor – vagy a körülményeket, amelyek között – egy MÁSIK személy vagy dolog cselekvést hajt végre, vagy bizonyos állapotban van, akkor az első személyt vagy dolgot jelző szó együtt a azt pontosabban meghatározó szóval (amely gyakran melléknév) lokativusban áll (⟪सप्तमी⟫):**
+**Ha egy személy vagy dolog cselekvése vagy állapota határozza meg azt az időpontot, amikor – vagy a körülményeket, amelyek között – egy MÁSIK személy vagy dolog cselekvést hajt végre, vagy meghatározott állapotban van, akkor az első személyt vagy tárgyat jelölő szó együtt a azt pontosabban meghatározó szóval (amely gyakran egy igenev) lokativuszószóban áll (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "miközben az idő így telik..."
->
-> ⟪तस्मिन्गते⟫ = "miután elment..."
+> ⟪एवं गच्छति काले⟫ = "amíg az idő így telik..."
+\>
+> ⟪तस्मिन्गते⟫ = "amikor ő már elment..."
 
 **Néha az agens (⟪कर्ता⟫) nincs külön megjelölve:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "mivel így áll a dolog"
+> ⟪एवं सति⟫ = "mivel így áll a helyzet"
 
-**A locativus absolutust a kontextusnak megfelelően kell lefordítani: „miközben” (pl. jelen időű melléknévi igenév), „miután”, „amikor” (pl. befejezett múlt idejű melléknévi igenév), „mivel”, „mert”, „bár”, „ha” stb.**
+**A Locativus absolutust a kontextusnak megfelelően kell lefordítani "amíg" (pl. jelen időű igenev), "miután", "amikor" (pl. múlt idejű igemód), "mivel", "mert", "bár", "ha" stb. jelentéssel.**
 
 **Megjegyzés: az abszolútum esetében az abszolútum alanyának és a főmondat alanyának azonosnak kell lenniük; a locativus absolutus esetében pedig a locativus absolutus alanyának és a főige alanyának különbözőnek kell lenniük.**
 
@@ -65,7 +65,6 @@ Rádzsasztán.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt2702))
 :::
 
-:::
 ::: grammar-box
 
 **3. A lokativus a „Miben?” vagy hasonló kérdésekre is áll:**
@@ -80,7 +79,6 @@ Holi.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2703))
 :::
 
-:::
 ::: grammar-box
 
 **4. A lokativus a helyi szótárakban és a kommentátoroknál egy szó jelentésének megadására szolgál:**
@@ -257,7 +255,6 @@ Harihara (balra: Viṣṇu, jobbra: Śiva).
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2704))
 :::
 
-:::
 ::: media
 ![](/images/lekt2705.webp)
 Ábra: ⟪हरिहरः⟫
@@ -444,81 +441,75 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 
 :::
 ::: media
-![](/images/lekt2714.webp)
-Ábra: ⟪धेनुः⟫
-Kuh in Udaipur.
-(Képforrás: [Részletek](/hu/licenses#lekt2714))
-:::
-### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
-
-::: grammar-box
-
-| | egyes szám:br⟪एकवचनम्⟫ | többes szám:br⟪बहुवचनम्⟫ |
-| :--- | :--- | :--- |
-| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪देवी⟫ | ⟪देव्यस्⟫ |
-| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪देवीम्⟫ | ⟪देवीस्⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪देव्या⟫ | ⟪देवीभिस्⟫ |
-| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪देव्यै⟫ | ⟪देवीभ्यस्⟫ |
-| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪देव्यास्⟫ | ⟪देवीभ्यस्⟫ |
-| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪देव्यास्⟫ | ⟪देवीणाम्⟫ |
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-
-:::
-::: media
 ![](/images/lekt2715.webp)
 Ábra: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Képforrás: [Részletek](/hu/licenses#lekt2715))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2715))
 :::
-### 27.7.9. Partizip Jelen idő Parasmaipada auf -ant: ⟪सन्त्⟫
+### 27.7.9. Jelen idő aktív igenév -ant végződésű: ⟪सन्त्⟫
 
 ::: grammar-box
 
-| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **Egyes szám:brNemMaskulinum:br⟪पुंस्⟫** | **Egyes szám:brNemNeutrum:br⟪नपुंसकम्⟫** | **Többes szám:brNemMaskulinum:br⟪पुंस्⟫** | **Többes szám:brNemNeutrum:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सन्⟫ | ⟪सत्⟫ | ⟪सन्तः⟫ | ⟪सन्ति⟫ |
-| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪सन्तम्⟫ | ⟪सत्⟫ | ⟪सतस्⟫ | ⟪सन्ति⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪सता⟫ || ⟪सद्भिस्⟫ ||
-| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪सते⟫ || ⟪सद्भ्यस्⟫ ||
-| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪सतस्⟫ || ⟪सद्भ्यस्⟫ ||
-| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪सतस्⟫ || ⟪सताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
+| **1. Nominativusz** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सन्⟫ | ⟪सत्⟫ | ⟪सन्तः⟫ | ⟪सन्ति⟫ |
+| **2. Akkusativusz** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪सन्तम्⟫ | ⟪सत्⟫ | ⟪सतस्⟫ | ⟪सन्ति⟫ |
+| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪सता⟫ || ⟪सद्भिस्⟫ ||
+| **4. Dativusz** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪सते⟫ || ⟪सद्भ्यस्⟫ ||
+| **5. Ablativusz** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪सतस्⟫ || ⟪सद्भ्यस्⟫ ||
+| **6. Genetivusz** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪सतस्⟫ || ⟪सताम्⟫ ||
+| **7. Lokativusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪सति⟫ || ⟪सत्सु⟫ ||
 
 :::
 ::: media
 ![](/images/lekt2716.webp)
 Ábra: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Képforrás: [Részletek](/hu/licenses#lekt2716))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
-| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **Egyes szám:brNemMaskulinum:br⟪पुंस्⟫** | **Egyes szám:brNemNeutrum:br⟪नपुंसकम्⟫** | **Többes szám:brNemMaskulinum:br⟪पुंस्⟫** | **Többes szám:brNemNeutrum:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪महान्⟫ | ⟪महत्⟫ | ⟪महान्तस्⟫ | ⟪महान्ति⟫ |
-| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪महान्तम्⟫ | ⟪महत्⟫ | ⟪महतस्⟫ | ⟪महान्ति⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪महता⟫ || ⟪महद्भिस्⟫ ||
-| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪महते⟫ || ⟪महद्भ्यस्⟫ ||
-| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪महतस्⟫ || ⟪महद्भ्यस्⟫ ||
-| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪महतस्⟫ || ⟪महताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
+| **1. Nominativusz** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪महान्⟫ | ⟪महत्⟫ | ⟪महान्तस्⟫ | ⟪महान्ति⟫ |
+| **2. Akkusativusz** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪महान्तम्⟫ | ⟪महत्⟫ | ⟪महतस्⟫ | ⟪महान्ति⟫ |
+| **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪महता⟫ || ⟪महद्भिस्⟫ ||
+| **4. Dativusz** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪महते⟫ || ⟪महद्भ्यस्⟫ ||
+| **5. Ablativusz** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪महतस्⟫ || ⟪महद्भ्यस्⟫ ||
+| **6. Genetivusz** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪महतस्⟫ || ⟪महताम्⟫ ||
+| **7. Lokativusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. Hímneműek és semlegesek -vant / -mant végződéssel: ⟪गुणवन्त्⟫
 
 ::: grammar-box
 
-| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **Egyes szám:brHímnem:br⟪पुंस्⟫** | **Egyes szám:brSemlegesnem:br⟪नपुंसकम्⟫** | **Többes szám:brHímnem:br⟪पुंस्⟫** | **Többes szám:brSemlegesnem:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪गुणवान्⟫ | ⟪गुणवत्⟫ | ⟪गुणवन्तस्⟫ | ⟪गुणवन्ति⟫ |
-| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪गुणवन्तम्⟫ | ⟪गुणवत्⟫ | ⟪गुणवतस्⟫ | ⟪गुणवन्ति⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪गुणवता⟫ || ⟪गुणवद्भिस्⟫ ||
-| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪गुणवते⟫ || ⟪गुणवद्भ्यस्⟫ ||
-| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवद्भ्यस्⟫ ||
-| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवताम्⟫ ||
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
+| **1. Nominatívusz** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪गुणवान्⟫ | ⟪गुणवत्⟫ | ⟪गुणवन्तस्⟫ | ⟪गुणवन्ति⟫ |
+| **2. Akkuzatívusz** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪गुणवन्तम्⟫ | ⟪गुणवत्⟫ | ⟪गुणवतस्⟫ | ⟪गुणवन्ति⟫ |
+| **3. Instrumentális** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪गुणवता⟫ || ⟪गुणवद्भिस्⟫ ||
+| **4. Datívusz** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪गुणवते⟫ || ⟪गुणवद्भ्यस्⟫ ||
+| **5. Ablatívusz** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवद्भ्यस्⟫ ||
+| **6. Genetívusz** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪गुणवतस्⟫ || ⟪गुणवताम्⟫ ||
+| **7. Lokatívusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
+
+:::
+### 27.7.12. Mutató névmások: ⟪तद् । एतद् । इदम्⟫
+
+::: grammar-box
+
+| | **Egyes szám:brHímnem:br⟪पुंस्⟫** | **Egyes szám:brSemlegesnem:br⟪नपुंसकम्⟫** | **Egyes szám:brNőnem:br⟪स्त्री⟫** | **Többes szám:brHímnem:br⟪पुंस्⟫** | **Többes szám:brSemlegesnem:br⟪नपुंसकम्⟫** | **Többes szám:brNőnem:br⟪स्त्री⟫** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. Nominatívusz** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सस्⟫ / ⟪स⟫ | ⟪तत्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
+| **2. Akkuzatívusz** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪तम्⟫ | ⟪तत्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
+| **3. Instrumentális** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪तेन⟫ || ⟪तया⟫ | ⟪तैस्⟫ || ⟪ताभिस्⟫ |
+| **4. Datívusz** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪तस्मै⟫ || ⟪तस्यै⟫ | ⟪तेभ्यस्⟫ || ⟪ताभ्यस्⟫ |
+| **5. Ablatívusz** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪तस्मात्⟫ || ⟪तस्यास्⟫ | ⟪तेभ्यस्⟫ || ⟪ताभ्यस्⟫ |
+| **6. Genetívusz** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪तस्य⟫ || ⟪तस्यास्⟫ | ⟪तेषाम्⟫ || ⟪तासाम्⟫ |
+| **7. Lokatívusz** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪तस्मिन्⟫ || ⟪तस्याम्⟫ | ⟪तेषु⟫ || ⟪तासु⟫ |
 
 :::
 ### 27.7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
@@ -579,25 +570,10 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
-### 27.7.14. Kérdőszavak: ⟪किम्⟫
-
-::: grammar-box
-
-| | **egyes szám:brMasculine:br⟪पुंस्⟫** | **egyes szám:brNeuter:br⟪नपुंसकम्⟫** | **egyes szám:brFeminine:br⟪स्त्री⟫** | **többes szám:brMasculine:br⟪पुंस्⟫** | **többes szám:brNeuter:br⟪नपुंसकम्⟫** | **többes szám:brFeminine:br⟪स्त्री⟫** |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪कस्⟫ | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ |
-| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪केन⟫ || ⟪कया⟫ | ⟪कैस्⟫ || ⟪काभिस्⟫ |
-| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪कस्मै⟫ || ⟪कस्यै⟫ | ⟪केभ्यस्⟫ || ⟪काभ्यस्⟫ |
-| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪कस्मात्⟫ || ⟪कस्यास्⟫ | ⟪केभ्यस्⟫ || ⟪काभ्यस्⟫ |
-| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | ⟪कस्य⟫ || ⟪कस्यास्⟫ | ⟪केषाम्⟫ || ⟪कासाम्⟫ |
-| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪कस्मिन्⟫ || ⟪कस्याम्⟫ | ⟪केषु⟫ || ⟪कासु⟫ |
-
-:::
 ::: media
 ![](/images/lekt2717.webp)
-Kép: ⟪कस्मात्⟫ ?
-Tsunami 2005, Srí Lanka.
+Ábra: ⟪कस्मात्⟫ ?
+Cunami 2005, Srí Lanka.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2717))
 :::
 

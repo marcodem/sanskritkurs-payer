@@ -88,4 +88,3 @@ C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imper
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Sursă imagine: [Detalii](/licenses#uebung058))
 :::
-:::

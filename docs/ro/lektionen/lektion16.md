@@ -19,9 +19,9 @@ Consoane ocluzive guturale, retroflexe, dentale și labiale finale (adică nu na
 
 |   |   |
 | :--- | :--- |
-| **în pauză și în fața sunetelor surde** | **Înlocuire cu sunetul surd neaspirat corespunzător:** :br **de ex.** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **în fața sunetelor sonore non-nazale** | **Înlocuire cu sunetul sonor neaspirat corespunzător:** :br **de ex.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **în fața nazalelor** | **Înlocuire cu nazala corespunzătoare:** :br **de ex.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **în pauză și în fața sunetelor surde** | **Înlocuire cu sunetul surd neaspirat corespunzător:** :br **de ex.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **în fața sunetelor sonore non-nazale** | **Înlocuire cu sunetul sonor neaspirat corespunzător:** :br **de ex.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **în fața nazalelor** | **Înlocuire cu nazala corespunzătoare:** :br **de ex.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Excepție de la regula de mai sus:
@@ -32,10 +32,10 @@ Ocluziv dental final (nu nazal):
 
 |   |   |
 | :--- | :--- |
-| **în fața palatelor** | **Înlocuire cu palatalul neaspirat corespunzător:** :br **adică** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
+| **în fața palatelor** | **Înlocuire cu palatalul neaspirat corespunzător:** :br **adică** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- sau -cch-** |
-| **în fața retroflexelor** | **Înlocuire cu retroflexul neaspirat corespunzător:** :br **adică** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **în fața lui l-** | **Înlocuire cu -l:** :br **adică** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **în fața retroflexelor** | **Înlocuire cu retroflexul neaspirat corespunzător:** :br **adică** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **în fața lui l-** | **Înlocuire cu -l:** :br **adică** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Exemple:

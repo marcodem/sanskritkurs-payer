@@ -386,14 +386,12 @@ Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603
 (Fonte da imagem: [Detalhes](/licenses#lekt4603))
 :::
 
-:::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
 (Fonte da imagem: [Detalhes](/licenses#lekt4604))
 :::
 
-:::
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
@@ -460,7 +458,6 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 (Fonte da imagem: [Detalhes](/licenses#lekt4608))
 :::
 
-:::
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "móvel", ⟪दूरशब्द⟫ m. "chamada de longa distância, telefone" » ⟪चरिष्णुदूरशब्द⟫ "telefone móvel" (Formação de palavra: A. Payer)
 

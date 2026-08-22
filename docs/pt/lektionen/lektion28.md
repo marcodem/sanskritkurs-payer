@@ -349,7 +349,6 @@ Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906
 (Fonte da imagem: [Detalhes](/licenses#lekt2804))
 :::
 
-:::
 ::: indent
 ⟪चुर्⟫ 10 ⟪चोरयति⟫: roubar
 Fut. **corayiṣyati**

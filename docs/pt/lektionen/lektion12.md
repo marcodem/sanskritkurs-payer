@@ -138,7 +138,6 @@ Nas formações *aniṭ*, as seguintes leis de sandhi interno devem ser observad
 | **7. h-t é substituído por ḍh com alongamento de um i ou u precedente; ou por gdh. Antes de tal ḍh, a é substituído por o, mais raramente por ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-:::
 ## 12.5. Lista de vocabulário
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : despertar, despertar para o conhecimento, reconhecer; PPP **buddha** 3 desperto, portanto **Buddha** = "o Desperto" (não: o Iluminado)

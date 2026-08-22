@@ -224,7 +224,7 @@ Read and translate, then convert to the passive voice:
 > ⟪धनमिच्छन्ति पार्थिवाः⟫ |
 > ⟪नीचाः कलहमिच्छन्ति⟫
 > ⟪शान्तिमिच्छन्ति साधवः⟫ ||
->
+\>
 > ⟪मक्षिकाभिर्व्रण इष्यते⟫
 > ⟪धनमिष्यते पार्थिवैः ।⟫
 > ⟪नीचैः कलह इष्यते⟫
@@ -232,7 +232,7 @@ Read and translate, then convert to the passive voice:
 
 Flies desire a wound,
 Kings desire wealth,
-Vile persons desire conflict,
+Vile persons desire strife,
 Saints desire peace.
 
 ⟪२⟫. ⟪नरान्सृजति देवः⟫ |

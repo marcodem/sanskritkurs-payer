@@ -564,7 +564,7 @@ Heti idézet
 
 ## [43. lecke](lektion43)
 
-*   1\. A második személyű személyes végződések (⟪मध्यमः⟫ = "középső \&lt;személy\&gt;")
+*   1\. A második személyű személyes végződések (⟪मध्यमः⟫ = "középső \<személy\>")
 *   2\. A második személyű ragozott alakok képzése (⟪मध्यमः⟫)
 *   2.1. Témás törzsek
 *   2.1.1. Első jelen idő osztály (⟪भ्वादि⟫)

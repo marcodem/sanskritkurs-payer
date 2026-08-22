@@ -109,106 +109,106 @@ Brahmanlar Vedayı okudular ve öğrettiler, tanrılara kurban sunucuları olara
 
 ⟪५⟫. **⟪बुद्धपुत्राः सत्यमजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫**
 (⟪बुद्धस्य पुत्राः⟫)
-Buddha'nın oğulları gerçeği kavramış, acıyı durgunlaştırmış ve kurtuluşa ermişlerdir. "Buddha'nın oğlu" olarak, Buddha'nın yolunu izleyen bir keşiş nitelendirilir.
+Buddha'nın oğulları hakikati tanımış, ıstırabı durdurmuş ve kurtuluşa ulaşmışlardır. "Buddha'nın oğlu" olarak, Buddha'nın yolunda yürüyen bir keşiş adlandırılır.
 
 ::: media
 ![](/images/uebung050.webp)
-Resim: ⟪सम्पन्नरूपा⟫
-(Resim kaynağı: [Detaylar](/licenses#uebung050))
+Şek.: ⟪सम्पन्नरूपा⟫
+(Görsel kaynağı: [Ayrıntılar](/licenses#uebung050))
 :::
 ---
 
-## Kelime Biçimi Belirleme
+## Sözcük Biçimi Belirleme
 
-Aşağıdaki kelimeleri belirleyin ve çevirin:
+Aşağıdaki sözcükleri belirleyiniz ve çeviriniz:
 
 ::: grammar-box
-| Kelime Biçimi | Belirleme | Anlam |
+| Sözcük biçimi | Belirleme | Anlam |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | tanrının |
-| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | (yerleşik olan) tarafından |
-| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3. pl. Ā. Fut. | onlar alacaklardır |
-| ⟪४⟫. ⟪गुरौ⟫ | Lok. sg. m. | hocanın yanında |
-| ⟪५⟫. ⟪भाव्यते⟫ | 3. sg. Ind. Präs. Kaus. Passiv | o çıkarılacaktır |
+| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | yerleşik olan(dan) |
+| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3. pl. Ā. Fut. | onlar alacaklar |
+| ⟪४⟫. ⟪गुरौ⟫ | Lok. sg. m. | öğretmenin yanında |
+| ⟪५⟫. ⟪भाव्यते⟫ | 3. sg. Ind. Präs. Kaus. Edilgen | o meydana getirilir |
 | ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | ateşe |
 | ⟪७⟫. ⟪मोक्तुम्⟫ | Inf. | kurtarmak için |
-| ⟪८⟫. ⟪वितत्य⟫ | Absol. | gerdirildikten sonra |
-| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | hatırlatma için |
-| ⟪१०⟫. ⟪देवताः⟫ | Nom./Akk. pl. f. | ilahlar |
-| ⟪११⟫. ⟪ब्रवीति⟫ | 3. sg. P. Ind. Präs. | o konuşur |
-| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3. pl. P. Fut. | onlar soracaktır |
-| ⟪१३⟫. ⟪पततः⟫ | Gen. sg. m./n. Part. Präs. | düşen'in |
-| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3. pl. Ā. Fut. | onlar yürüyeceklerdir |
+| ⟪८⟫. ⟪वितत्य⟫ | Absol. | gerdikten sonra |
+| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | zihinde canlandırma için |
+| ⟪१०⟫. ⟪देवताः⟫ | Nom./Akk. pl. f. | tanrılar |
+| ⟪११⟫. ⟪ब्रवीति⟫ | 3. sg. P. Ind. Präs. | o söyler |
+| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3. pl. P. Fut. | onlar soracaklar |
+| ⟪१३⟫. ⟪पततः⟫ | Gen. sg. m./n. Part. Präs. | düşenin |
+| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3. pl. Ā. Fut. | onlar yürüyecekler |
 | ⟪१५⟫. ⟪आसते⟫ | 3. pl. Ā. Ind. Präs. | onlar otururlar |
-| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | büyük olanlar |
-| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | öldüren tarafından |
-| ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar gönderirler / gelmelerini sağlarlar |
-| ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | istenen yapılmış olan |
-| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | getirmesini sağladıktan sonra |
+| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | büyükler |
+| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | öldüren aracılığıyla |
+| ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar gönderirler / getirtirler |
+| ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | istek üzerine yapılmış olan |
+| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | getirttikten sonra |
 | ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | yalan için |
-| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | saygı gösterme ile |
-| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | (soruların) tarafından/from |
-| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3. pl. P. Fut. | onlar yakacaklardır |
+| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | hürmetle |
+| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | sorular(dan) |
+| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3. pl. P. Fut. | onlar yakacaklar |
 | ⟪२५⟫. ⟪मृगान्⟫ | Akk. pl. m. | yaban hayvanları |
 | ⟪२६⟫. ⟪बोधिम्⟫ | Akk. sg. f. | içgörü |
-| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | özellikler ile |
-| ⟪२८⟫. ⟪सन्ति⟫ | 3. pl. P. Ind. Präs. | onlar varlar / gerçek olanlar |
+| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | niteliklerle |
+| ⟪२८⟫. ⟪सन्ति⟫ | 3. pl. P. Ind. Präs. | onlardır / gerçek olanlar |
 | ⟪२९⟫. ⟪यन्ति⟫ | 3. pl. P. Ind. Präs. | onlar giderler |
-| ⟪३०⟫. ⟪क्रियते⟫ | 3. sg. Ind. Präs. Pass. | o yapılır |
+| ⟪३०⟫. ⟪क्रियते⟫ | 3. sg. Ind. Präs. Pass. | yapılır |
 | ⟪३१⟫. ⟪विगत्य⟫ | Absol. | geçtikten sonra |
 | ⟪३२⟫. ⟪चरित्वा⟫ | Absol. | otlattıktan sonra |
-| ⟪३३⟫. ⟪पीते⟫ | Lok. sg. m./n. PPP | içilen'in içinde |
+| ⟪३३⟫. ⟪पीते⟫ | Lok. sg. m./n. PPP | içilende |
 | ⟪३४⟫. ⟪अन्नानि⟫ | Nom./Akk. pl. n. | yiyecekler |
 | ⟪३५⟫. ⟪जलम्⟫ | Nom./Akk. sg. n. | su |
-| ⟪३६⟫. ⟪वक्ति⟫ | 3. sg. P. Ind. Präs. | o söyler |
+| ⟪३६⟫. ⟪वक्ति⟫ | 3. sg. P. Ind. Präs. | o der |
 | ⟪३७⟫. ⟪उक्तिः⟫ | Nom. sg. f. | söz |
-| ⟪३८⟫. ⟪अर्धात्⟫ | Abl. sg. m./n. | yarım olanın'dan |
-| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sg. m. | amaç ile |
-| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar övüleceklerdir |
-| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3. sg. P. Fut. | o duyacaktır |
+| ⟪३८⟫. ⟪अर्धात्⟫ | Abl. sg. m./n. | yarımdan |
+| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sg. m. | amaçla |
+| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar övülürler |
+| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3. sg. P. Fut. | o işitecek |
 | ⟪४२⟫. ⟪स्रष्टुम्⟫ | Inf. | çekmek için |
 | ⟪४३⟫. ⟪पशुम्⟫ | Akk. sg. m. | hayvan |
 | ⟪४४⟫. ⟪स्तुतीः⟫ | Akk. pl. f. | övgüler |
 | ⟪४५⟫. ⟪अरयः⟫ | Nom. pl. m. | düşmanlar |
-| ⟪४६⟫. ⟪जात्या⟫ | Instr. sg. f. | doğum ile |
-| ⟪४७⟫. ⟪जाताम्⟫ | Akk. sg. f. PPP | doğmuş olanı |
-| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3. sg. P. Fut. | o gösterecektir |
-| ⟪४९⟫. ⟪दर्शितः⟫ | Nom. sg. m. Kaus. PPP | gösterilen |
+| ⟪४६⟫. ⟪जात्या⟫ | Instr. sg. f. | doğumla |
+| ⟪४७⟫. ⟪जाताम्⟫ | Akk. sg. f. PPP | doğmuş olan |
+| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3. sg. P. Fut. | o gösterecek |
+| ⟪४९⟫. ⟪दर्शितः⟫ | Nom. sg. m. Kaus. PPP | gösterilmiş olan |
 | ⟪५०⟫. ⟪दुष्टाः⟫ | Nom. pl. m. PPP | bozulmuş olanlar |
-| ⟪५१⟫. ⟪द्विजातीन्⟫ | Akk. pl. m. | iki kez doğmuş olanlar |
-| ⟪५२⟫. ⟪मृत्योः⟫ | Abl./Gen. sg. m. | ölümün'den/from |
-| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Gen. pl. PPP | sağılmış olanların'ın/from |
-| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | talimatlar ile |
-| ⟪५५⟫. ⟪मात्रायाम्⟫ | Lok. sg. f. | ölçüde/in |
+| ⟪५१⟫. ⟪द्विजातीन्⟫ | Akk. pl. m. | iki kez doğmuşlar |
+| ⟪५२⟫. ⟪मृत्योः⟫ | Abl./Gen. sg. m. | ölümün |
+| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Gen. pl. PPP | sağılmış olanların |
+| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | yönergelerle |
+| ⟪५५⟫. ⟪मात्रायाम्⟫ | Lok. sg. f. | ölçüde |
 | ⟪५६⟫. ⟪अत्ति⟫ | 3. sg. P. Ind. Präs. | o yer |
-| ⟪५७⟫. ⟪जायन्ते⟫ | 3. pl. Ā. Ind. Präs. | onlar doğulurlar |
-| ⟪५८⟫. ⟪जीयन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar yenileceklerdir |
-| ⟪५९⟫. ⟪जयन्ति⟫ | 3. pl. P. Ind. Präs. | onlar zafer kazanırlar |
-| ⟪६०⟫. ⟪जनयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar üretirler |
-| ⟪६१⟫. ⟪प्रभृतेः⟫ | Abl./Gen. sg. f. | başlangıcın'dan/from |
-| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3. pl. P. Ind. Präs. | onlar önünde dururlar |
-| ⟪६३⟫. ⟪स्थित्याम्⟫ | Lok. sg. f. | kararlaştırmada/in |
-| ⟪६४⟫. ⟪भिक्षुषु⟫ | Lok. pl. m. | keşişlerin yanında/at |
+| ⟪५७⟫. ⟪जायन्ते⟫ | 3. pl. Ā. Ind. Präs. | onlar doğarlar |
+| ⟪५८⟫. ⟪जीयन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar yenilirler |
+| ⟪५९⟫. ⟪जयन्ति⟫ | 3. pl. P. Ind. Präs. | onlar zafer kazanır |
+| ⟪६०⟫. ⟪जनयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar meydana getirirler |
+| ⟪६१⟫. ⟪प्रभृतेः⟫ | Abl./Gen. sg. f. | başlangıç(tan) |
+| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3. pl. P. Ind. Präs. | onlar önüne çıkarlar |
+| ⟪६३⟫. ⟪स्थित्याम्⟫ | Lok. sg. f. | tutuklamada |
+| ⟪६४⟫. ⟪भिक्षुषु⟫ | Lok. pl. m. | keşişlerin yanında |
 | ⟪६५⟫. ⟪पक्त्वा⟫ | Absol. | pişirdikten sonra |
 | ⟪६६⟫. ⟪योद्धुम्⟫ | Inf. | savaşmak için |
-| ⟪६७⟫. ⟪मारयित्वा⟫ | Absol. Kaus. | öldürmesini sağladıktan sonra |
-| ⟪६८⟫. ⟪धेन्वा⟫ | Instr. sg. f. | inek ile/süt inegi |
-| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3. pl. Ā. Fut. | onlar düşüneceklerdir |
-| ⟪७०⟫. ⟪इज्यते⟫ | 3. sg. Ind. Präs. Pass. | o kurban edilir |
-| ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | duyurduktan sonra |
-| ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | o korur/sağlar |
-| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | yerleştirilmiş olanlar tarafından/ile |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (güçlerin) tarafından/from |
-| ⟪७५⟫. ⟪अलम्⟫ | Adv. | yeterince |
+| ⟪६७⟫. ⟪मारयित्वा⟫ | Absol. Kaus. | öldürdükten sonra |
+| ⟪६८⟫. ⟪धेन्वा⟫ | Instr. sg. f. | süt ineğiyle |
+| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3. pl. Ā. Fut. | onlar düşünecekler |
+| ⟪७०⟫. ⟪इज्यते⟫ | 3. sg. Ind. Präs. Pass. | kurban edilir |
+| ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | bildirdikten sonra |
+| ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | o muhafaza ettirir |
+| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | konulanlarla |
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | güçler(den) |
+| ⟪७५⟫. ⟪अलम्⟫ | Adv. | yeter |
 | ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | nedenler |
-| ⟪७७⟫. ⟪प्रतिमासु⟫ | Lok. pl. f. | tasvirlerin yanında/at |
-| ⟪७८⟫. ⟪यस्याः⟫ | Gen. sg. f. Rel. | hangisinin/from which |
-| ⟪७९⟫. ⟪हि⟫ | Konj. | çünkü, nämlich |
-| ⟪८०⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. Dem. | bu'da/in this |
-| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar alınacaklardır |
-| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | görevlilerin yanında/at |
+| ⟪७७⟫. ⟪प्रतिमासु⟫ | Lok. pl. f. | tasvirlerin yanında |
+| ⟪७८⟫. ⟪यस्याः⟫ | Gen. sg. f. Rel. | hangisinden |
+| ⟪७९⟫. ⟪हि⟫ | Konj. | çünkü, yani |
+| ⟪८०⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. Dem. | bunda |
+| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3. pl. Ind. Präs. Pass. | onlar alınır |
+| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | görevlendirilenlerin yanında |
 | ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | o öğretir |
-| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar okumalarını sağlarlar
+| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | onlar okuturlar |
 :::
 ::: media
 ![](/images/uebung051.webp)
@@ -298,24 +298,20 @@ Yüce Hari sığınağımdır; düşmanlarını göğe gönderen, kendi taraftar
 
 ::: media
 ![](/images/uebung053.webp)
-Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#uebung053))
+Resm.: ⟪श्रीगङ्गाधराय नमः⟫
+(Görsel kaynağı: [Detaylar](/licenses#uebung053))
 :::
 ---
 
->> ## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## Hikâye: Yaşlı Adam ve Maymunlar (Sanskrit-Bālādarśa)
 
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो ऽभवत् । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमगच्छत् ॥ तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त । वृद्धस्य तेषु स्पृहा जाती । परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः । तानवलोक्य वृद्धः प्रहर्षं गतः । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्राक्षिपत् । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं गतः ॥ अहो वृद्धस्य कौशलम् ॥⟫
 
-**Übersetzung:**
-Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuss eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte frassen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Grossartig ist das Geschick des Greises!
+**Çeviri:**
+Bir zamanlar yaşlı bir adam başka bir köye giderken yolda yoruldu. Dinlenmek için yol kenarındaki bir mango ağacının dibine gitti. Bu ağaçta olgun meyveler asılıydı. Yaşlı adam onlara istek duysa da, ağaca çıkıp onları toplayamadı. Neyse ki ağaçta meyveleri yiyen bazı maymunlar vardı. Yaşlı adam bunu görünce sevindi. Ne yaptı? Birkaç taş aldı, maymunlara nişan aldı ve onları fırlattı. Maymunlar öfkelendi, birkaç meyve koparıp yaşlı adama fırlattı. Yaşlı adam meyveleri sevinçle aldı ve yoluna devam etti. Yaşlı adamın kurnazlığı ne kadar harika!
 
 ::: media
 ![](/images/uebung054.webp)
-Abb.: ⟪वानरः⟫ ⟪कुपितः⟫
-(Bildquelle: [Details](/licenses#uebung054))
-
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an: -> Aşağıdaki fiil formlarını çevirin ve ilgili kökü belirtin:
-
-⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
+Resm.: ⟪वानरः कुपितः⟫
+(Görsel kaynağı: [Detaylar](/licenses#uebung054))
 :::

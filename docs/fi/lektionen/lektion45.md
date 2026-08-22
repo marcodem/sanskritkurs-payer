@@ -104,7 +104,7 @@ Kuv.: ⟪भवति⟩ ⟪किं⟩ ⟪करोषि⟩
 
 ## 45.4. Harjoitus
 
-A) Käännä sanskritiksi (käytä menneen ajan muodoissa imperfektia \&lt;⟪लङ्⟫\&gt;):
+A) Käännä sanskritiksi (käytä menneen ajan muodoissa imperfektia \<⟪लङ्⟫\>):
 
 1\. Jaat (buddhalaisen) yhteisön.
 
@@ -147,7 +147,5 @@ Kuva: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4502))
 :::
 
-:::
 
 
-:::

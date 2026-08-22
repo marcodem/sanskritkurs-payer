@@ -1,6 +1,6 @@
 ---
 title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere &lt;Person&gt;\")"
+subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # Luento 43
 
-## 43.1. Toisen persoonan personapäätteet (⟪मध्यमः⟫ = "keskimmäinen \&lt;henkilö\&gt;")
+## 43.1. Toisen persoonan personapäätteet (⟪मध्यमः⟫ = "keskimmäinen \<henkilö\>")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -369,4 +369,3 @@ Kuva: ⟪शर्करा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt4309))
 :::
 
-:::

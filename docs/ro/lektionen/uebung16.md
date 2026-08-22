@@ -257,4 +257,3 @@ Bătaia produce dobândirea și posesia sigură a filosofiei, vedisticii și eco
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung024))
 :::
-:::

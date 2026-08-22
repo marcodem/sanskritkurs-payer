@@ -8,46 +8,39 @@ status: stable
 
 ---
 
-# 48. lecke
+# Lecke 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
 ::: center
-⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
-
-⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
-
-⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫
-
-⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫
-
-⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫
-
-⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
-
-⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
+⟪सत्यम् वद ॥१॥ धर्मं चर ॥२॥ मातृदेवो भव ॥३॥ गौरवं प्राप्यते दानात् ॥४॥ श्वः कार्यमद्य कुर्वीत ॥५॥ विद्याविहीनः पशुः ॥६॥ लाघवं वैयाकरणस्य भूषणम् ॥७॥⟫
 :::
-## 48.2. Az imperativus képzése (⟪लोट्⟫) athematikus jelenstémák esetén
+## 48.2. Az imperativus képzése (⟪लोट्⟫) athémás jelenstamok
 
-### 48.2.1. Az imperativus végződései athematikus jelenstémák esetén
+### 48.2.1. Az imperativus végződése athémás jelenstamokon
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3. oszt.: -atu** :br(kiv. -\*ntu) | \-atām:br(kiv.: -\*ntām) |
+| **1. személy** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. személy** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. személy** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3. oszt.: -atu** :br(kiv. -\*ntu) | \-atām:br(kiv.: -\*ntām) |
 :::
-Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -tát-tal helyettesíthető, ha áldás kívánság fejeződik ki. A -tát (a harmadik személy egyes számában is) a gyenge tőhöz kapcsolódik.
+Megjegyzés: ¹ A 2. és 3. sg. végződéseket -tāt helyettesítheti, ha áldáskívánság fejeződik ki. -tāt (még a 3. sg.-ben is) a gyenge tőhöz kapcsolódik.
 
 ::: grammar-box
-| **Zur Form der Végződés der 2.sg.Felszólító mód.P:** ||
+| **A 2. sg. imperativus végződésének formájáról:** ||
 | :---: | :--- |
-| **\-ø** Az 5. és 8. osztály tője, ahol a végén álló \-u előtt csak egy mássalhangzó van. | Tőn der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
-| **\-āna** A 9. osztály tője, mássalhangzóra végződik; helyettesíti a \-nī+végződés \-āna-t | Tőn der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Végződés \-āna |
-| **\-hi** minden többi jelen időtő, amely magánhangzóra vagy félmagánhangzóra végződik (kivétel: ⟪जुहुधि⟫ a **⟪हु⟫ 3** esetében) | alle übrigen Jelen időstämme, die auf Vokal oder Halbvokal enden (Ausnahme: ⟪जुहुधि⟫ zu **⟪हु⟫ 3**) |
-| **\-dhi** Minden többi esetben | Alle übrigen Fälle |
+| **\-ø** | Az 5. és 8. osztály gyökei, ahol a végződő \-u előtt csak egy mássalhangzó áll. |
+| **\-āna** | A 9. osztály gyökei, amelyek mássalhangzóra végződnek; a \-nī+végződés helyett \-āna-t használnak. |
+| **\-hi** | Minden egyéb jelenstam, amely magánhangzóra vagy félmagánhangzóra végződik (kivétel: ⟪जुहुधि⟩ a **⟪हु⟩ 3.** esetén) |
+| **\-dhi** | Minden egyéb eset |
+:::
+### 48.2.2. A jelenstam formája
+
+::: grammar-box
+**Erős tő:**
 :::
 ### 48.2.2. A jelen időtő formája
 
@@ -231,51 +224,50 @@ Példák:
 | **\-u** | legtöbbször: **\-av-a** :pl. ⟪गुरु⟫ 3 "nehéz"; m. "mester, tanár" » ⟪गौरव⟫ 3 "mesterhez tartozó, mesteri"; n. "súly, nehézség, méltóság" |
 | **egyéb ragozási tőkék:** | lásd Wackernagel, Altind. Grammatik II,2 § 38 |
 
-A **-ya** képző előtt a szóvégi hangzó hasonlóan viselkedik, mint a **-a** képző előtt.
+A **-ya** képző előtt a szóvégi hangzás hasonlóan viselkedik, mint a **-a** képző előtt.
 :::
 Példák fentebb!
 
 ::: grammar-box
 **Ezekkel a képzőkkel összetételekből is származtatásokat lehet alkotni.**
 
-pl. ⟪स्वश्व⟫ m. „a jó lovaké, akinek a lovai jók” tulajdonnév » ⟪सौवश्व⟫ m. „Svaśva utóda”
+pl. ⟪स्वश्व⟫ m. "a, akinek a lovai jók" tulajdonnév » ⟪सौवश्व⟫ m. "Svaśva utóda"
 
-**Olyan összetételeknél, ahol a sandhi miatt az első tag végén álló -i vagy -u helyett -y, illetve -v lép fel, és így megelőzik az alap szó első magánhangzóját (pl. ni-, vi-, su- képzős összetételek), a ⟪वृद्धि⟫ úgy képződik, mintha -iy vagy -uv állna.**
+**Azoknál az összetételeknél, ahol a sandhi következtében az első tag végén álló -i vagy -u helyett -y, illetve -v kerül, és így megelőzik az alap szó első magánhangzóját (pl. ni-, vi-, su- összetételeknél), a ⟪वृद्धि⟫ úgy képződik, mintha -iy vagy -uv állna.**
 
-z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+pl. ⟪व्याघ्र⟫ m. "tigris" » ⟪वैयाघ्र⟫ 3 "tigristől származó, tigrishöz tartozó"
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Ábra: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Képforrás: [Részletek](/hu/licenses#lekt4801))
+Ábra: ⟪वैयाघ्रं विजृम्भणम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4801))
 :::
-## 48.4. Szójegyzék
+## 48.4. Szószedet
 
-⟪श्वस्⟫ : morgen
+⟪श्वस्⟫ : holnap
 
-⟪अद्य⟫ : heute
+⟪अद्य⟫ : ma
 
-⟪लघु⟫ 3: leicht (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben)
+⟪लघु⟫ 3: könnyű (nem nehéz, nem bonyolult), gyors, rövid (kifejezésben)
 
-⟪व्याकरण⟫ n.: Nyelvtan (hozzá ⟪व्याकृ⟫)
+⟪व्याकरण⟫ n.: grammatika (a ⟪व्याकृ⟫ szóhoz)
 
-⟪तन्त्र⟫ n.: Húr ; szövőszék, szövésketting, szövet ; alap, norma, szabály ; tanítás, tanmű ; Tantra ; varázsigé; eszköz, trükk, gyógyszer ; kormányzás, hatalom
+⟪तन्त्र⟫ n.: húr ; szövőszék, szövésketét, szövetség ; alap, norma, szabály ; tanítás, tankönyv ; tantra ; varázsigé; eszköz, trükk, gyógyszer ; kormányzás, hatalom
 
 ::: media
 ![](/images/lekt4802.webp)
-Kép: ⟪तन्त्रम्⟫
+Ábra: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4802))
 :::
 
-:::
 ::: media
 ![](/images/lekt4803.webp)
-Kép: ⟪तन्त्री⟫
+Ábra: ⟪तन्त्री⟫
 Szitárjátékos = ⟪सितारवादकः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: Nő, feleség ; nőnem
+⟪स्त्री⟫ f.: nő, feleség ; femininum
 
 Ragozás:
 
@@ -403,7 +395,7 @@ B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. 
 ⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
 ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
-:::
+:::  
 Magyarázat:  
-:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Kétes szám a ⟪द्वे⟫ ⟪कुले⟫ "két család"
+⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dualis ⟪द्वे कुले⟫ "két család"
 

@@ -105,65 +105,66 @@ Vain kieltävä **a-** / **an-** sietää liitteen **-⟪त्वा⟫** : ⟪
 
 ::: grammar-box
 
-**syväsana juuri + -tya**
+**matalle juuri + -tya**
 
 :::
 **Esimerkit:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "kun hän (...) on ylistänyt äänekkäästi / oli ylistänyt äänekkäästi"
+⟪प्रस्तुत्य⟫ "kun hän (...) on ylistänyt / oli ylistänyt"
 
 ⟪विस्मृत्य⟫ "kun hän (...) on unohtanut / oli unohtanut"
 
-⟪संस्कृत्य⟫ "kunnen (...) til offerringen har forberedt / havde forberedt"
+⟪संस्कृत्य⟫ "kun hän (...) on valmistanut uhriin / oli valmistanut uhriin"
 :::
-#### 22.2.2.4. Rødder på -am / -an, der i den svage grad udløber med -a
+#### 22.2.2.4. Juuret, jotka päättyvät -am / -an ja matalassa asteessa päättymiseen -a
 
 ::: grammar-box
 
 **Valinnainen:**
 
-Vartalo sananlopulla **-am** / **-an** + **-ya**
+Juuri **-am** / **-an** + **-ya**
 
 tai:
 
-Vartalo sananlopulla **-a** + **-tya**
+Juuri **-a** + **-tya**
 
 :::
 **Esimerkki:**
 
 ::: indent
-⟪विगम्य⟫ tai ⟪विगत्य⟫ "sen jälkeen kun (...) on kulunut / ollut"
+⟪विगम्य⟫ tai ⟪विगत्य⟫ "kun hän (...) on kulunut / oli kulunut"
 :::
 ## 22.3. Sanalista
 
-**⟪काम⟫ m.:** toive, halunnu; haluttu lahja, aistinharha, rakkaus, rakkauden jumala
+**⟪काम⟩ m.:** toive, halun kohte; toivottu lahja, aistinhimot, rakkaus, rakkauden jumala
 
 ::: indent
-⟪कामम्⟫ Akk. adverbina: toiveen mukaan, sydämen mielen mukaan
+⟪कामम्⟫ Akk. adverbiaalisesti: toiveen mukaan, sydämen halusta
 :::
 ::: media
 ![](/images/lekt2202.webp)
 Kuv.: ⟪कामदेवः⟫
-19. vuosisata
+1800-luku
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** olla pystynyt, voida
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** pystyä, osata
 
-siitä:
+tästä:
 
 ::: indent
-**⟪शक्ति⟫ f.:** kyky, voima, taito; myös: jumalallinen voima, personoituna naispuolisena seurueena erityisesti ⟪शिव⟫:lle
+**⟪शक्ति⟫ f.:** kyky, voima, taito; myös: jumalallinen voima, personifioituna naisena erityisesti ⟪शिव⟫ seurueessa
 
-**⟪शक्र⟫ m.:** mahtava (nimitys ⟪इन्द्र⟫:lle)
+**⟪शक्र⟫ m.:** mahtava (nimikkotunnus ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
 Kuv.: ⟪दुर्गाशक्तिः⟫
 Kolkata = কলকাতা
-(Kuv lähde: [Tiedot](/fi/licenses#lekt2203))
+(Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ansaita jotain (tulla kelvolliseksi jhk), saada luvan, olla velvoitettu tekemään jotain, pitää (2. persoonassa ⟪अर्ह्⟫ + infinitiivi toimii usein lieventettynä käskynä: "Sinun pitäisi")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ansaita jotain (olla johonkin kelvollinen), saada luvan, olla velvollinen tekemään jotain, pitäisi (2. persoonassa ⟪अर्ह्⟫ + infinitiivi on usein lievä käsky: "Sinun pitäisi")
+
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: ansioitunut henkilö. Buddhalaisuudessa ja Jainismissä: henkilö, joka on saavuttanut lopullisen vapautuksen
@@ -258,9 +259,4 @@ Goa = ⟪गोंय⟫
 ![](/images/lekt2204.webp)
 Kuva: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2204))
-:::
-
-:::
-
-
 :::

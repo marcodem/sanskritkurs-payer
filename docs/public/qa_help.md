@@ -2,10 +2,21 @@
 
 This reference documents tricky edge cases, container nesting, and specific rules for the Payer project.
 
-## 1. Editorial Workflow
+## 1. Offline Editing Process and Functions
 
-- **Left vs. Right:** Set the reference language on the **left** (usually DE) and the target language on the **right** (e.g. ID, ES, EN).
-- **Synchronization:** The left column controls the scrolling of the right column.
+With version 1.7.0, the QA Viewer operates entirely serverless. This means you read and save changes directly via the **GitHub Cloud**.
+
+### The Most Important Buttons
+* **Load from Cloud (Blue Button):** This is the most crucial step! When you open the QA Viewer, you only see a read-only preview. Click this button to download the markdown source code live from GitHub and unlock the editor.
+* **File ▾ Menu:**
+  - **Set PAT (GitHub Token):** Before you can save to the cloud, you must provide your Personal Access Token (PAT) here once, so GitHub recognizes you as an author. **To apply for a PAT, please contact the publisher via email at `webmaster@birchville.org`.**
+  - **Save (Commit to PR):** Saves your changes, creates a new Git commit in the background, and pushes it directly into a Pull Request. This also triggers the "Silent Auto-Repair" for broken tables.
+* **Sync:** Controls how the left and right halves of the screen are coupled when scrolling (e.g., based on headings).
+* **View:** Toggles the left reading view between the finished website (Rendered) and the raw markdown code.
+* **SWAP:** Swaps the left and right columns.
+* **VIM:** Activates special keyboard shortcuts (for advanced users only; activates a subset of the VIM editor keybindings).
+* **Reset:** Discards all local, unsaved changes and restores the original text.
+* **Left vs. Right:** Set the reference language on the **left side** (usually DE) and the target language on the **right side** (e.g., ID, ES, EN).
 
 ## 2. The 4-Colon Problem (Container Nesting)
 

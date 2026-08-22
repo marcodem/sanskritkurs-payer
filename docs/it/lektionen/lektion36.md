@@ -5,7 +5,7 @@ lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+---
 
 # Lezione 36
 
@@ -426,7 +426,7 @@ Spiegazioni:
 
 :sig[⟪सर्वे⟫] : Nom. pl. masch. di ⟪सर्व⟫ "tutti, ciascuno"
 
-⟪त्रयस्⟫ : Nom. pl. masch. di ⟪त्रि⟫ "tre" &lt;!--  --&gt;
+⟪त्रयस्⟫ : Nom. pl. masch. di ⟪त्रि⟫ "tre" \<!--  --\>
 
 ⟪सर्वास्⟫ : Nom./Acc. pl. fem. di ⟪सर्व⟫ "tutti, ciascuno"
 :::

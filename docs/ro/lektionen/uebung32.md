@@ -322,4 +322,3 @@ Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 Fig.: ⟪वानरः⟫ ⟪कुपितः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung054))
 :::
-:::

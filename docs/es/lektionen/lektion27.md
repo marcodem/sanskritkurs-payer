@@ -1,15 +1,16 @@
 ---
-title: Lektion 27
-subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
+title: "Lección 27"
+subtitle: 'Uso del locativo (⟪सप्तमी⟫ f. = "séptima terminación casual")'
 lesson_id: 27
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- &lt;!--  --&gt;
+
+---
 
 # Lección 27
 
-## 27.1. Uso del locativo (⟪सप्तमी⟫ f. = "séptima terminación casuál")
+## 27.1. Uso del Locativo (⟪सप्तमी⟫ f. = "séptima terminación casual")
 
 ::: grammar-box
 
@@ -22,9 +23,9 @@ status: stable
 :::
 ::: grammar-box
 
-**1. El locativo (⟪सप्तमी⟫) designa, ante la pregunta "¿dónde?", el espacio en (en, sobre, junto a) el cual se encuentra el agente (⟪कर्ता⟫) o el objeto de una acción, o donde la acción misma se lleva a cabo.**
+**1. El locativo (⟪सप्तमी⟫) responde a la pregunta "¿Dónde?" indicando el espacio en (en, sobre, junto al) cual se encuentra el agente (⟪कर्ता⟫) o el objeto de una acción, o donde tiene lugar la propia acción.**
 
-> ⟪नगरे⟫ ⟪वसति⟫ = "Él reside en la ciudad"
+> ⟪नगरे वसति⟫ = "Él reside en la ciudad"
 
 :::
 ::: media
@@ -32,60 +33,57 @@ status: stable
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2701))
-::: &lt;!--  --&gt;
-
 :::
+
 ::: grammar-box
 
-**2. El locativo designa, ante la pregunta "¿cuándo?", el momento o las circunstancias externas:**
+**2. El locativo indica, ante la pregunta "¿Cuándo?", el momento o las circunstancias externas:**
 
-> ⟪तस्मिन्काले⟫ = "en ese momento, en ese tiempo"
+> ⟪तस्मिन्काले⟫ = "en ese momento, en aquel tiempo"
 
-**Aquí pertenece también el llamado Locativus Absolutus:**
+**También pertenece a este grupo el llamado Locativus Absolutus:**
 
-**Si la acción o el estado de una persona o cosa determina el tiempo al cual — o las circunstancias bajo las cuales — otra persona o cosa realiza una acción o se encuentra en un estado determinado, entonces la palabra que designa la primera persona o cosa, junto con la palabra que la especifica más estrechamente (frecuentemente un participio), aparece en locativo (⟪सप्तमी⟫):**
+**Si la acción o el estado de una persona o cosa determina el tiempo en que —o las circunstancias bajo las cuales— otra PERSONA O COSA realiza una acción o se encuentra en un estado determinado, la palabra que designa a la primera persona o cosa junto con la palabra que la determina más específicamente (que frecuentemente es un participio) aparece en locativo (⟪सप्तमी⟫):**
 
-> ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "mientras el tiempo transcurre así..."
-&gt;
+> ⟪एवं गच्छति काले⟫ = "mientras el tiempo transcurre así..."
+\>
 > ⟪तस्मिन्गते⟫ = "cuando él se había ido..."
 
 **A veces el agente (⟪कर्ता⟫) no se designa explícitamente:**
 
-> ⟪एवं⟫ ⟪सति⟫ = "dado que las cosas están así"
+> ⟪एवं सति⟫ = "dado que las cosas están así"
 
-**El Locativus absolutus debe traducirse según el contexto como "mientras" (p. ej. participio presente), "después de", "cuando" (p. ej. PPP), "ya que", "porque", "aunque", "si" etc.**
+**El Locativus absolutus debe traducirse según el contexto como "mientras" (p. ej., participio presente), "después de que", "cuando" (p. ej., PPP), "ya que", "porque", "aunque", "si" y otros.**
 
-**Nota: en el absolutivo, el agente del absolutivo y el agente de la oración principal deben ser idénticos; en el locativo absoluto, el agente del locativo absoluto y el agente del verbo principal deben ser diferentes.**
+**Nota: en el absolutivo, el agente del absolutivo y el agente de la oración principal deben ser idénticos; en el locativo absoluto, los agentes del locativo absoluto y del verbo principal deben ser diferentes.**
 
 :::
 ::: media
 ![](/images/lekt2702.webp)
-Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
+Fig.: ⟪एवं गच्छति कालयुष्ट्रः स्वपित⟫i
 Rajasthan.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2702))
-::: &lt;!--  --&gt;
-
 :::
+
 ::: grammar-box
 
-**3. El locativo también aparece ante la pregunta "¿en relación con qué?" y similares:**
+**3. El locativo también responde a la pregunta "¿En relación con qué?" y similares:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Él tiene amor por su hijo" (literalmente "En relación con el hijo, hay en él amor")
+> ⟪अस्ति तस्य पुत्रे स्नेहः⟫ = "Él tiene amor por su hijo" (literalmente: "En relación con el hijo, hay en él amor")
 
 :::
 ::: media
 ![](/images/lekt2703.webp)
-Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
+Fig.: ⟪अस्ति तस्य पुत्रे स्नेहः⟫
 Holi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2703))
-::: &lt;!--  --&gt;
-
 :::
+
 ::: grammar-box
 
-**4. El locativo se utiliza en los diccionarios nativos y entre comentadores para indicar el significado de una palabra:**
+**4. El locativo se utiliza en los diccionarios nativos y entre comentaristas para indicar el significado de una palabra:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "la raíz ⟪भू⟫ en el significado de 'seridad' (sat-tā)"
+> ⟪भू सत्तायाम्⟫ = "la raíz ⟪भू⟫ en el significado de 'seridad' (sat-tā)"
 
 :::
 Más sobre el uso del locativo más adelante.
@@ -101,11 +99,11 @@ Más sobre el uso del locativo más adelante.
 **¡Tenga en cuenta los cambios fonéticos antes de -su, así como la posible cerebralización de -su a -ṣu!**
 
 :::
-### 27.2.1. Teminaciones consonánticas
+### 27.2.1. Temáticas consonánticas
 
 ::: grammar-box
 
-| Tema | Locativo Singular:br⟪सप्तमी⟫ ⟪एकवचन⟫ | Locativo Plural:br⟪सप्तमी⟫ ⟪बहुवचन⟫ |
+| Temática | Locativo Singular:br⟪सप्तमी एकवचन⟫ | Locativo Plural:br⟪सप्तमी बहुवचन⟫ |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजति⟫ (yaj-at-i) | ⟪यजत्सु⟫ |
 | ⟪महान्त्⟫ | ⟪महति⟫ | ⟪महत्सु⟫ |
@@ -119,25 +117,25 @@ Más sobre el uso del locativo más adelante.
 
 | | ⟪किम्⟫ | ⟪यद्⟫ | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Masculino / Neutro:brLocativo Singular | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
-| Masculino / Neutro:brLocativo Plural | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
-| Femenino:brLocativo Singular | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
-| Femenino:brLocativo Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
+| Masculino / Neutro:brLocativo singular | ⟪कस्मिन्⟫ | ⟪यस्मिन्⟫ | ⟪तस्मिन्⟫ | ⟪एतस्मिन्⟫ | ⟪अस्मिन्⟫ |
+| Masculino / Neutro:brLocativo plural | ⟪केषु⟫ | ⟪येषु⟫ | ⟪तेषु⟫ | ⟪एतेषु⟫ | ⟪एषु⟫ |
+| Femenino:brLocativo singular | ⟪कस्याम्⟫ | ⟪यस्याम्⟫ | ⟪तस्याम्⟫ | ⟪एतस्याम्⟫ | ⟪अस्याम्⟫ |
+| Femenino:brLocativo plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Temáticos vocálicos
+### 27.2.3. Temáticas vocálicas
 
 ::: grammar-box
 
-| | Locativo Singular | Locativo Plural |
+| | Locativo singular | Locativo plural |
 | :--- | :--- | :--- |
-| **⟪देव⟫** m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
-| **⟪कवि⟫** m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
-| **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
-| **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
-| **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
-| **⟪धेनु⟫** f. | **⟪धेनौ⟫** o **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
+| ⟪देव⟫ m. | ⟪देवे⟫ :br(« deva + -i) | ⟪देवेषु⟫ |
+| ⟪कवि⟫ m. | ⟪कवौ⟫ | ⟪कविषु⟫ |
+| ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
+| ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
+| ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ o bien ⟪श्रुत्याम्⟫ :br(es decir, ya sea como **kavi** :br⟪कवि⟫ o bien como **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪धेनु⟫ f. | ⟪धेनौ⟫ o bien ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
 ## 27.3. Resumen de las terminaciones casuales regulares (⟪विभक्ति⟫)
@@ -156,61 +154,53 @@ Más sobre el uso del locativo más adelante.
 | **7. Locativo** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
-**Impreso en rojo señalizador**: casos fuertes (con ablaut de la raíz).
+**Impreso en rojo**: casos fuertes (en caso de ablaut de la raíz).
 
-## 27.4. Un verso con todas las formas declinativas (singular) de :sig[⟪राम⟫]
+## 27.4. Un verso con todas las formas declinativas (singular) de ⟪राम⟫
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: ⟪रामे चित्तलयः सदा भवतु मे भो राम मामुद्धर ॥⟫
 Rāma-Satz.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2708))
 :::
-*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫
-*:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫
-*:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫
-*:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
+sig[⟪रामो⟫] ⟪राजमणिः सदा विजयते⟫ :sig[⟪रामं⟫] ⟪रमेशं भजे⟫:br :sig[⟪रामेणा⟫]⟪भिहता निशाचरचमू⟫ :sig[⟪रामाय⟫] ⟪तस्मै नमः ।⟫:br :sig[⟪रामान्ना⟫]⟪स्ति परायणम् परतरं⟫ :sig[⟪रामस्य⟫] ⟪दासोऽस्म्यहम्⟫:br :sig[⟪रामे⟫] ⟪चित्तलयः सदा भवतु मे भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर ॥⟫
 
 **Traducción:**
-1. **Nominativoooooo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
+1. **Nominativo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
 2. **Acusativo:** Amo (⟪भज्⟫ 1U) a Rāma, el señor y esposo (⟪ईश⟫ m.) de Ramā (= Lakṣmī).
-3. **Instrumental:** Rāma ha matado (⟪चमू⟫ f.) al ejército de los vagabundos nocturnos (= demonios) (⟪निशा⟫ f. = noche).
-4. **Dativoooooo:** ¡A este Rāma sea reverencia!
-5. **Ablativoooooo:** No hay mejor (⟪परतर⟫ 3) refugio (⟪परायण⟫ n.) que Rāma.
+3. **Instrumental:** Rāma ha matado (⟪चमू⟫ f.) el ejército de los vagabundos nocturnos (= demonios) (⟪निशा⟫ f. = noche).
+4. **Dativo:** ¡Que se rinda veneración a este Rāma!
+5. **Ablativo:** No hay un refugio (⟪परायण⟫ n.) mejor (⟪परतर⟫ 3) que Rāma.
 6. **Genitivo:** Yo (⟪अहम्⟫) soy (⟪अस्मि⟫) un siervo de Rāma.
 7. **Locativo:** En Rāma esté (⟪भवतु⟫) siempre la paz (⟪लय⟫ m.) de mi (⟪मे⟫) corazón.
-8. **Vocativo:** ¡Rāma, salva (⟪उद्धर⟫ = Imperativoooooo de ⟪उद्⟫ + ⟪हृ⟫ o ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
+8. **Vocativo:** Rāma, salvad (⟪उद्धर⟫ = Imperativo de ⟪उद्⟫ + ⟪हृ⟫ o bien ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
 
 ## 27.5. Lista de palabras
 
-**⟪वस्⟫** 1P (⟪वसति⟫): permanecer, habitar (con locativo de la persona con la que se habita)
+⟪वस्⟫ 1P (⟪वसति⟫): residir, habitar (con locativo de la persona donde se reside)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫:br **Pás.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
-de lo cual:
+de ello:
 
 ::: indent
-**⟪वस्तु⟫** n.: asiento, lugar; realidad, cosa real, realidad, objeto
+⟪वस्तु⟫ n.: asiento, lugar; realidad, cosa real, realidad, objeto
 
 :::
 ::: indent
-**⟪वस्तुतस्⟫**: en realidad, realmente
+⟪वस्तुतस्⟫: en realidad, verdaderamente
 :::
-**⟪वस्⟫** 2Ā (⟪वस्ते⟫): ponerse (ropa), llevar (ropa)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): ponerse (la ropa), llevar (ropa)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
-de lo cual:
+de ello:
 
 ::: indent
-**⟪वस्त्र⟫** n.: medio para vestirse = ropa, vestido, tela
+⟪वस्त्र⟫ n.: medio para vestirse = vestido, ropa, tela
 :::
 ::: media
 ![](/images/lekt2706.webp)
@@ -218,12 +208,12 @@ Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2706))
 :::
-**⟪वस्⟫** 6P (⟪उच्छति⟫): brillar (esta raíz es importante debido a las formaciones nominales:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): brillar (esta raíz es importante por las formaciones nominales:)
 
 ::: indent
-**⟪वसु⟫** n.: riqueza, tesoro, bienes, posesión
+⟪वसु⟫ n.: riqueza, tesoro, bienes, posesión
 
-**⟪वसन्त⟫** m.: ("brillante" =) primavera (marzo a mayo)
+⟪वसन्त⟫ m.: ("brillante" =) primavera (marzo a mayo)
 :::
 ::: media
 ![](/images/lekt2707.webp)
@@ -231,24 +221,21 @@ Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): sostener, llevar; traer, quitar, robar
+⟪हृ⟫ 1U (⟪हरति⟫): sostener, llevar; traer, quitar, robar
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
-de lo cual:
+de ello:
 
 ::: indent
-**⟪हर⟫** 3: quitando; m.: el destructor = epíteto de Śiva
+⟪हर⟫ 3: quitando; m.: el destructor = epíteto de Śiva
 :::
-Contraparte de **⟪हर⟫**:
+Contraparte de ⟪हर⟫:
 
-**⟪हरि⟫** 3: rubio, amarillo, verde; m. epíteto de Viṣṇu (no pertenece a la raíz ⟪हृ⟫ 1)
+⟪हरि⟫ 3: rubio, amarillo, verde; m. epíteto de Viṣṇu (no pertenece a la raíz ⟪हृ⟫ 1)
 
-**⟪हरिहर⟫** m.: Viṣṇu y Śiva unidos como una única deidad.
+⟪हरिहर⟫ m.: Viṣṇu y Śiva unidos como una única deidad.
 
 ::: media
 ![](/images/lekt2704.webp)
@@ -265,37 +252,21 @@ Harihara (izquierda: Viṣṇu, derecha: Śiva). Godrumdwip, Bengala Occidental.
 :::
 ## 27.6. Ejercicio
 
-**A) Complete las siguientes oraciones con las expresiones entre paréntesis en locativo (⟪सप्तमी⟫) singular y, donde sea apropiado, plural. Tenga en cuenta la diferente sandhi, es decir, escriba cada vez la oración completa.**
+**A) Inserte en la siguiente oración las expresiones entre paréntesis en locativo (⟪सप्तमी⟫) singular y, cuando sea apropiado, plural. Tenga en cuenta la diferente sandhi, es decir, escriba cada vez la oración completa.**
 
-⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+⟪रामस्⟫ ... ⟪वसति ।⟫ (⟪ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः⟫)
 
-**B) Traduzca y resuelva los compuestos:**
+**B) Traduzca y descomponga los compuestos:**
 
-⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫
-
-⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫
-
-⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫
+⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥ बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥ वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2709.webp)
-Fig.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
+Fig.: ⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥⟫
 Pintura de Rāja Ravi Varmā (1848 - 1906).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2709))
 :::
-⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
-
-⟪उपनीतबालैर्गुरुकुले⟫ ⟪उष्यते⟫ ⟪॥५॥⟫
-
-⟪यज्ञकाले⟫ ⟪विगतेऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫
-
-⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫
-
-⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रोऽप्यागच्छति⟫ ⟪॥९॥⟫
-
-⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫
+⟪पुत्रे मृतेऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥ उपनीतबालैर्गुरुकुले उष्यते ॥५॥ यज्ञकाले विगतेऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥ गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥ एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥ ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रोऽप्यागच्छति ॥९॥ गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫
 
 ## 27.7. Paradigmas de declinación para memorizar
 
@@ -320,7 +291,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2711))
 :::
-### 27.7.2. Neutros en -a: ⟪फल⟫ &lt;!--  --&gt;
+### 27.7.2. Neutros en -a: ⟪फल⟫
 
 ::: grammar-box
 
@@ -380,7 +351,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) con su nieto el Príncipe Jaya Cha
 ::: media
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
-Ejecución de dos participantes de la rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907).
+Ejecución por ahorcamiento de dos participantes en la rebelión de 1857. Fotografía de Felice Beato (1833/1834 - ca. 1907).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2712))
 :::
 ### 27.7.5. Femeninos en -i: ⟪मति⟫
@@ -461,7 +432,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2715))
 :::
-### 27.7.9. Participio presente parasmaipada en -ant: ⟪सन्त्⟫
+### 27.7.9. Participio de presente Parasmaipada en -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -482,7 +453,7 @@ Fig.: ⟪सद्गुरुः⟫
 Sai Baba de Shirdi (1835 - 1918).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2716))
 :::
-### 27.7.10. ⟪महान्त्⟫ &lt;!--  --&gt;
+### 27.7.10. ⟪महान्त्⟫
 
 ::: grammar-box
 
@@ -512,11 +483,11 @@ Sai Baba de Shirdi (1835 - 1918).
 | **7. Locativo** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Pronombres demostrativos: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+### 27.7.12. Pronombres demostrativos: ⟪तद् । एतद् । इदम्⟫
 
 ::: grammar-box
 
-| | **Singular:brMasculine:br⟪पुंस्⟫** | **Singular:brNeuter:br⟪नपुंसकम्⟫** | **Singular:brFeminine:br⟪स्त्री⟫** | **Plural:brMasculine:br⟪पुंस्⟫** | **Plural:brNeuter:br⟪नपुंसकम्⟫** | **Plural:brFeminine:br⟪स्त्री⟫** |
+| | **Singular:brMasculino:br⟪पुंस्⟫** | **Singular:brNeutro:br⟪नपुंसकम्⟫** | **Singular:brFemenino:br⟪स्त्री⟫** | **Plural:brMasculino:br⟪पुंस्⟫** | **Plural:brNeutro:br⟪नपुंसकम्⟫** | **Plural:brFemenino:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativo** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सस्⟫ / ⟪स⟫ | ⟪तत्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
 | **2. Acusativo** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪तम्⟫ | ⟪तत्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
@@ -531,9 +502,9 @@ Sai Baba de Shirdi (1835 - 1918).
 
 | | Singular:br⟪एकवचनम्⟫ | | | Plural:br⟪बहुवचनम्⟫ | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Masc. | Neutr. | Fem. | Masc. | Neutr. | Fem. |
+|  | Masc. | Neut. | Fem. | Masc. | Neut. | Fem. |
 | **1. Nominativo** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪एषस्⟫ / ⟪एष⟫ | ⟪एतत्⟫ | ⟪एषा⟫ | ⟪एते⟫ | ⟪एतानि⟫ | ⟪एतास्⟫ |
-| **2. Acusativo** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪एतम्⟫ / ⟪एनम्⟫ | ⟪एतत्⟫ / ⟪एनत्⟫ | ⟪एताम्⟫ / ⟪एनाम्⟫ | ⟪एतान्⟫ / ⟪एनान्⟫ | ⟪एतानि⟫ | ⟪एतास्⟫ / ⟪एनाः⟫ |
+| **2. Acusativo** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪एतम्⟫ / ⟪एनम्⟫ | ⟪एतत्⟫ / ⟪एनत्⟫ | ⟪एताम्⟫ / ⟪एनाम्⟫ | ⟪एतान्⟫ / ⟪एनान्⟫ | ⟪एतानि⟫ | ⟪एनाः⟫ / ⟪एनाः⟫ |
 | **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪एतेन⟫ / ⟪एनेन⟫ || ⟪एतया⟫ / ⟪एनया⟫ | ⟪एतैस्⟫ || ⟪एताभिस्⟫ |
 | **4. Dativo** :br **⟪४⟫. ⟪चतुर्थी⟫** | ⟪एतस्मै⟫ || ⟪एतस्यै⟫ | ⟪एतेभ्यस्⟫ || ⟪एताभ्यस्⟫ |
 | **5. Ablativo** :br **⟪५⟫. ⟪पञ्चमी⟫** | ⟪एतस्मात्⟫ || ⟪एतस्यास्⟫ | ⟪एतेभ्यस्⟫ || ⟪एताभ्यस्⟫ |
@@ -545,7 +516,7 @@ Sai Baba de Shirdi (1835 - 1918).
 
 | | Singular:br⟪एकवचनम्⟫ | | | Plural:br⟪बहुवचनम्⟫ | | |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | Masc. | Neutr. | Fem. | Masc. | Neutr. | Fem. |
+|  | Masc. | Neut. | Fem. | Masc. | Neut. | Fem. |
 | **1. Nominativo** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪अयम्⟫ | ⟪इदम्⟫ | ⟪इयम्⟫ | ⟪इमे⟫ | ⟪इमानि⟫ | ⟪इमास्⟫ |
 | **2. Acusativo** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनत्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनाः⟫ |
 | **3. Instrumental** :br **⟪३⟫. ⟪तृतीया⟫** | ⟪अनेन⟫ / ⟪एनेन⟫ || ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ || ⟪आभिस्⟫ |
@@ -555,7 +526,7 @@ Sai Baba de Shirdi (1835 - 1918).
 | **7. Locativo** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
-### 27.7.13. Pronombre relativo: ⟪यद्⟫
+### 27.7.13. Pronombres relativos: ⟪यद्⟫
 
 ::: grammar-box
 
@@ -590,7 +561,5 @@ Sai Baba de Shirdi (1835 - 1918).
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2717))
-::: &lt;!--  --&gt;
-
 :::
 

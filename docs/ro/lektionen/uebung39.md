@@ -109,4 +109,3 @@ Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Sursă imagine: [Detalii](/licenses#uebung064))
 ::::
 :::
-:::

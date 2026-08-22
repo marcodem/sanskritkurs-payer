@@ -1,6 +1,6 @@
 ---
 title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere &lt;Person&gt;\")"
+subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # 43. lecke
 
-## 43.1. A második személy egyes számú végződései (⟪मध्यमः⟫ = "középső \&lt;személy\&gt;")
+## 43.1. A második személy egyes számú végződései (⟪मध्यमः⟫ = "középső \<személy\>")
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

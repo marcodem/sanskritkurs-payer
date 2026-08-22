@@ -69,7 +69,7 @@ Fragen des Königs ⟪शूद्रक⟫ von ⟪विदिशा⟫ an den 
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
 > Der König sprach: "Lassen wir all das auf sich beruhen! Befriedigen Sie unsere Neugier! Herr, erzählen Sie uns von Anfang an: In welchem Land wurden Sie geboren? Wer hat Ihnen den Namen gegeben? Wer ist Ihre Mutter? Wie haben Sie die Veden erhalten? Wie haben Sie sich mit den Lehrwerken vertraut gemacht? Woher haben Sie die Künste erworben? Können Sie sich an frühere Geburten erinnern oder Wünsche erfüllen? Oder bewohnen Sie, indem Sie das Kleid eines Vogels tragen, ein Versteck? Oder wo wohnten Sie früher? Oder wie alt sind Sie? Wie wurden Sie in einen Käfig gefangen? Und wie sind Sie in die Hände von Cāṇḍālas gekommen? Oder wie sind Sie hierher gekommen?"
->
+\>
 > Vaiśampāyana aber, der vom Herrn der Erde mit spontan entstandener Neugier mit grossem Respekt gefragt worden war, überlegte einen Augenblick und antwortete dann voll Hochachtung: "König, das ist eine lange Geschichte. Wenn es Sie interessiert, leihen Sie mir Ihr Ohr!"
 
 ::: media

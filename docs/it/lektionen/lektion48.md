@@ -152,7 +152,7 @@ Nota: ¹ Spiegazione di **⟪जहि⟫*** vedi Thumb-Hauschild I,2 pag. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Terza classe del presente (⟪जुहोत्यादि⟫) &lt;!--  --&gt;
+### 48.2.4. Terza classe del presente (⟪जुहोत्यादि⟫) \<!--  --\>
 
 ::: grammar-box
 **La 3.pl.P termina in \-atu !**
@@ -163,9 +163,9 @@ Nota: ¹ Spiegazione di **⟪जहि⟫*** vedi Thumb-Hauschild I,2 pag. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Nota: ¹ Dissimilazione, in modo tale che non seguano due sillabe con **⟪ह्⟫**.
 :::
@@ -228,7 +228,7 @@ Esempi:
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEsempi siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 | &lt;!--  --&gt;
+| **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 | \<!--  --\>
 
 Prima del suffisso **-ya** la terminazione del tema viene trattata in modo simile a quanto avviene prima del suffisso **-a**.
 :::

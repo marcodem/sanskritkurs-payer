@@ -12,31 +12,31 @@ status: stable
 
 ## 16.1. De Sandhi consonantium finalium
 
-Ad compositiones, quarum prima pars stipes consonanti desinens est, sequentes regulae requiruntur:
+Ad compositiones formandas, quarum prima pars staminibus consonantiam finientibus constat, hae regulae requiruntur:
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
+Consonantes finales gutturales, retroflexae, dentales et labiales (id est non nasales nec palatales).
 
 ::: no-header
 
-|   |   |
+|   |   |
 | :--- | :--- |
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **in pausa et ante sonos insonoros** | **Substitutione per consonantem insonoram non aspiratam eis correspondentem:** :br **exempli gratia** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **ante sonos sonoros non-nasales** | **Substitutione per consonantem sonoram non aspiratam eis correspondentem:** :br **exempli gratia** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **ante nasales** | **Substitutione per nasalem eis correspondentem:** :br **exempli gratia** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Exceptionem ad regulam praecedentem:
+Exceptio ad regulam supra dictam:
 
-Auslautender dentaler Verschlusslaut (nicht Nasal):
+Consonans dentalis finalis (non nasal):
 
 ::: no-header
 
-|   |   |
+|   |   |
 | :--- | :--- |
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **ante palatales** | **Substitutione per palatalem non aspiratam pertinentem:** :br **id est** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- vel -cch-** |
+| **ante retroflexas** | **Substitutione per retroflexam non aspiratam pertinentem:** :br **id est** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **ante l-** | **Substitutione per -l:** :br **id est** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Exempla:
@@ -161,32 +161,22 @@ B) Solvite in sequentibus sententiis omnia composita Sanscritice, formate ita se
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
+⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । ३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । ४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । ५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । ६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । ७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । ८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । १०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां करोति ।⟫
 
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
+## 16.4. Exercitatio Recapitulativa
 
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
+A) Formate omnes casus hactenus didactos ad haec verba, ut exempla pro classibus declinationis hactenus discitis.
 
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
+Ad hoc adhibe schema sequens, quod ordinem casuum apud grammaticos Indicos servat et propter utilitates suas — de quibus postea dicendum est — a grammaticis quoque occidentalibus acceptum est:
 
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
-
-## 16.4. Wiederholungsübung
-
-A) Formate omnes hucusque casus didictos ad verba sequentia, ut exempla classium declinationis hucusque didictarum.
-
-Ad hoc utitur schema sequenti, quod ordinem casuum apud grammaticos Indos sequitur et ob eius utilitates — de quibus mox dicendum est — etiam a grammaticis Occidentalibus acceptum est:
-
-| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
+| Singularis:br⟪एकवचनम्⟫ | Pluralis:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominativus | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAccusativus | **⟪२⟫. ⟪द्वितीया⟫** |
 | **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenetivus | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Lectio facies declinationum exemplis his memoriter!!!
+Memoriter discite figuras declinationis secundum haec exempla!!!
 
 ⟪१⟫. ⟪नर⟫ m.
 
@@ -204,40 +194,30 @@ Lectio facies declinationum exemplis his memoriter!!!
 
 ⟪८⟫. ⟪देवी⟫ f.
 
-⟪९⟫. ⟪गुणवन्त्⟫, m., n., f.
+⟪९⟫. ⟪गुणवन्त्⟫ m., n., f.
 
-⟪१०⟫. ⟪किम्⟫  m., n., f.
+⟪१०⟫. ⟪किम्⟫ m., n., f.
 
-⟪११⟫. ⟪तद्⟫, m., n., f.
+⟪११⟫. ⟪तद्⟫ m., n., f.
 
-⟪१२⟫. ⟪एतद्⟫, m., n., f.
+⟪१२⟫. ⟪एतद्⟫ m., n., f.
 
-⟪१३⟫. ⟪इदम्⟫, m., n., f.
+⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Versa et omnia composita in Sanscrito solve:
+B) Traducite et resolvite omnia composita in Sanscrito:
 
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः ॥योगसूत्र १⟫.⟪२॥ २⟫. ⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥ क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥ वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥ शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥ सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥⟫
 
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
-
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
-
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
-
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
-
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
+(⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: indent
 Explanationes;
 
 Sententia 7: ⟪कृषिपाशुपाल्ये⟫ Dualis, Nominativus et Accusativus: Dvandva, quod duas "res" designat
 
-Versus 8: ⟪कर्म⟫ Nominativus, Accusativus singularis Neutrum ad ⟪कर्मन्⟫ "factum"
+Sententia 8: ⟪कर्म⟫ Nominativus, Accusativus singularis Neutrum ad ⟪कर्मन्⟫ "factum"
 
-Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. ad ⟪सर्व⟫ "quisque, omnes" (pronomen, non declinatum ut deva)
+Sententia 13: ⟪सर्वेषाम्⟫ Genitivus pluralis masculinum ad ⟪सर्व⟫ "quisque, omnes" (Pronomen, non declinatur ut deva)
 :::
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३॥⟫
 

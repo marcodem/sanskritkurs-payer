@@ -46,4 +46,3 @@ Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelel
 :::
 
 
-:::

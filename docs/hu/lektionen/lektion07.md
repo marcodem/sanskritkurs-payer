@@ -10,7 +10,6 @@ status: stable
 # 7. lecke
 
 
-:::
 ::: center
 **Heti idézet**
 :::

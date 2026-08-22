@@ -50,7 +50,6 @@ L’accusativ po vegnir adina aduprà sco
 
 *   da pronomina en il neutrum  
     Exemples:  
-:::
 ::: indent
 ⟪तद्⟫ "lura, perquai"
 ⟪यद्⟫ "schend, che"

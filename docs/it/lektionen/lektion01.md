@@ -20,7 +20,7 @@ Venerazione di Gaṇeśa
 ::: media
 ![](/images/lekt0102.webp)
 Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0102))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0102))
 :::
 
 ::: center
@@ -49,7 +49,7 @@ maṅgalacaraṇam
 ::: media
 ![](/images/lekt0101.webp)
 Fig. 1.1: Ardhanarīśvara
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0101))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0101))
 :::
 
 ::: center
@@ -86,14 +86,14 @@ All'inizio un'anomalia:
 ::: media
 ![](/images/lekt0103.webp)
 Fig.: Copertina di un'edizione tascabile
-(Fonte dell'immagine: [Dettagli](/licenses#lekt0103))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt0103))
 :::
 
 >**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Parte: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londra : Sidgwick & Jackson, 1954. -- Da allora molte edizioni, anche tascabili. **Lettura obbligatoria.** Una buona panoramica sulla vita, la storia e la cultura dell'India pre-islamica. Panoramica completa delle diverse aree della classica Indologia.
 ::: media
 ![](/images/lekt0104.webp)
 Fig.: Frontespizio
-(Fonte immagine: [Dettagli](/licenses#lekt0104))
+(Fonte immagine: [Dettagli](/it/licenses#lekt0104))
 :::
 
 La migliore grammatica sistematica:
@@ -105,16 +105,16 @@ La migliore grammatica sistematica:
 ::: media
 ![](/images/lekt0105.webp)
 Fig.: Titolo in copertina
-(Fonte immagine: [Dettagli](/licenses#lekt0105))
+(Fonte immagine: [Dettagli](/it/licenses#lekt0105))
 :::
 
 Una buona grammatica sistematica basata sui grammatici locali e, al tempo stesso, un'introduzione a Pāṇini:
 
-&gt; **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Scritto originariamente in malayalam. Tradotto in inglese da K.V.R. Pai. -- Parathode : edito dall’autore, 1983. -- 818 p. ; 23 cm.
+\> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Scritto originariamente in malayalam. Tradotto in inglese da K.V.R. Pai. -- Parathode : edito dall’autore, 1983. -- 818 p. ; 23 cm.
 ::: media
 ![](/images/lekt0107.jpg)
 Fig.: Titolo in copertina
-(Fonte immagine: [Dettagli](/licenses#lekt0107))
+(Fonte immagine: [Dettagli](/it/licenses#lekt0107))
 :::
 
 Una buona e concisa esposizione della terminologia linguistica europea si trova in:
@@ -126,12 +126,12 @@ Una buona e concisa esposizione della terminologia linguistica europea si trova 
 ::: media
 ![](/images/lekt0108.jpg)
 Fig.: Titolo in copertina
-(Fonte immagine: [Dettagli](/licenses#lekt0108))
+(Fonte immagine: [Dettagli](/it/licenses#lekt0108))
 :::
 
 Per chi desidera approfondire:
 
-&gt; **Lexikon der Sprachwissenschaft** / a cura di Hadumod Bussmann. -- 4ª ed., riveduta e ampliata con un'appendice bibliografica / con la collaborazione di Hartmut Lauffer. -- Stoccarda : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+\> **Lexikon der Sprachwissenschaft** / a cura di Hadumod Bussmann. -- 4ª ed., riveduta e ampliata con un'appendice bibliografica / con la collaborazione di Hartmut Lauffer. -- Stoccarda : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
 ## 1.2. I suoni del sanscrito
@@ -140,7 +140,7 @@ I suoni del sanscrito secondo la classificazione tradizionale indiana e la loro 
 
 ::: media
 ![](/images/lekt0106.webp)
-(Fonte dell’immagine: [Dettagli](/licenses#lekt0106))
+(Fonte dell’immagine: [Dettagli](/it/licenses#lekt0106))
 :::
 I dizionari moderni di sanscrito sono organizzati secondo l’ordine di questa classificazione. Tale classificazione è indispensabile per la comprensione della grammatica sanscrita e deve quindi essere imparata a memoria:
 

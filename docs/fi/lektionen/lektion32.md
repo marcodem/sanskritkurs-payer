@@ -635,7 +635,5 @@ Apinat mangopuissa.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt3210))
 :::
 
-:::
 
 
-:::

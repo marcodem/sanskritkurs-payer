@@ -379,7 +379,6 @@ Fig.: ⟪चतुर्मुखः⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5205))
 :::
 
-:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ cum numero cardinali in membro priori non libere formari possunt:**
 

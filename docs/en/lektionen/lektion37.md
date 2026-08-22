@@ -134,7 +134,7 @@ Examples:
 
 Examples:
 ::: indent
-⟪जातु⟫ "at all" (originally "by birth, by nature", acc. sg. n. to ⟪जातु⟫ \&lt;no longer commonly used as a noun\&gt;)
+⟪जातु⟫ "at all" (originally "by birth, by nature", acc. sg. n. to ⟪जातु⟫ \<no longer commonly used as a noun\>)
 
 ⟪तूष्णीम्⟫ "silently" (acc. sg. to a no longer common ⟪तूष्णी⟫ f. "silence")
 
@@ -383,7 +383,7 @@ Example: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪र�
 
 ⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \&lt;Absolutive\&gt;)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutive\>)
 
 ⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 

@@ -222,7 +222,6 @@ Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
 :::
 
-:::
 ::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
@@ -334,4 +333,3 @@ Ritual de nuntă hindus.
 
 
 
-:::

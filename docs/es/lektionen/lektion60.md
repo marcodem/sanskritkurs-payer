@@ -199,7 +199,7 @@ Ver paradigmas en Kielhorn, Gramática § 124:
 ::: media
 ![](/images/lekt6001.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
@@ -238,7 +238,7 @@ Ejemplo: ⟪प्रतीची⟫
 ::: media
 ![](/images/lekt6003.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
@@ -407,7 +407,7 @@ Pasivo: ⟪यियक्ष्यते⟫ "se desea sacrificar"
 ::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "él deseó obtener"
 :::
-**Aorist: iṣ-Aorist:** &lt;!--  --&gt;
+**Aorist: iṣ-Aorist:** \<!--  --\>
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
@@ -426,13 +426,13 @@ A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del deside
 ::: media
 ![](/images/lekt6007.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media
 ![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 
 :::
 ::: media

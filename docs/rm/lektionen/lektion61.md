@@ -448,7 +448,6 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 (Imprimà dal dretg: [Detagls](/rm/licenses#lekt6105))
 :::
 
-:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -667,7 +666,6 @@ Paradigmas: Kielhorn, Grammatik § 153:
 (Sursa da l'imagina: [Detagls](/rm/licenses#lekt6115))
 :::
 
-:::
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
@@ -684,7 +682,6 @@ Kielhorn, Grammatik § 177:
 (Fontana da l'imagines: [Detagls](/rm/licenses#lekt6116))
 :::
 
-:::
 ::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
@@ -741,7 +738,6 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
 (Bildquelle: [Details](/rm/licenses#lekt6101))
 :::
 
-:::
 ::: no-header
 |   |   |
 | --- | --- |
@@ -778,4 +774,3 @@ Ofterdingen, 2009-03-09
 FIN DAL CURS DA SANSKRIT
 :::
 
-:::

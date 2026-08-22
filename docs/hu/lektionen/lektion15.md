@@ -305,7 +305,7 @@ Kép: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (utólagosan): olyasvalami, mint (hasonlatokban: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris", "tigriszerű ember"
 
-⟪एव⟫ (utólagosan): hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ "csak az igazság győz", "pontosan az igazság győz", "az igazság győz"
+⟪एव⟫ (utólagosan): hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\<!\>`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ "csak az igazság győz", "pontosan az igazság győz", "az igazság győz"
 
 ⟪अरि⟫ m.: ellenség (Thieme szerint, Der Fremdling im Ṛgveda: eredetileg = idegen)
 

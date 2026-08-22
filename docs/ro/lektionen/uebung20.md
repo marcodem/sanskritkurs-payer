@@ -293,4 +293,3 @@ Săracii, care nu doresc, au foarte mulți fii, bogații nu au niciun fiu. Ciuda
 Ilustr.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursă imagine: [Detalii](/licenses#uebung032))
 :::
-:::

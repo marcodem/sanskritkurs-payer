@@ -231,13 +231,13 @@ e.g. **tan** 8 U.
 **pāpa** n. ⟪पाप⟫ : evil deed, wickedness (opposite of **puṇya**)
 **satya** n. ⟪सत्य⟫ : truth
 
-:::: note-box
+::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
+:::
 ::: literatur-box
 Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and the Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
-::::
 
 ::: media
 ![](/images/lekt1003.webp)
@@ -247,15 +247,15 @@ Fig.: ⟪वरुणः⟫
 **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
 
   ::: note-box
-  Word formation **an-** („un-“) + **ṛta** n.
+  Word formation **an-** ("un-") + **ṛta** n.
 
-  **ṛta** is a central concept in the Veda, whose translation is disputed: „truth“ (Lüders, Thieme), „order“ (Renou).
+  **ṛta** is a central concept in the Veda, whose translation is disputed: "truth" (Lüders, Thieme), "order" (Renou).
   :::
 
 **ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
 
   ::: note-box
-  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, chap. 5.
+  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of Vedic hymns. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, Chap. 5.
   :::
 
 ::: media
@@ -265,7 +265,7 @@ Fig.: ⟪विश्वामित्रः⟫
 :::
 **vad** 1 P (vadati) ⟪वद् वदति⟫ : to say, to speak
 **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
-**saha** ⟪सह⟫ : together with, jointly with (also in „to fight with“ etc.) (Postposition with Instrumental)
+**saha** ⟪सह⟫ : together with, jointly with (also in "to fight with" etc.) (Postposition with Instrumental)
 
 
 ## 10.6. Exercise

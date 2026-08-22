@@ -1,96 +1,95 @@
 ---
-title: Lektion 12
-subtitle: "Das Partizip Perfekt Passiv (PPP)"
+title: "Oppitunti 12"
+subtitle: "Perfektin passiivin partisiippi (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
+
 ---
 
 # Oppitunti 12
 
 
-:::
-## 12.1. Partisiipin Perfekt Passiivi (PPP)
+## 12.1. Perfekt passiivin partisiippi (PPP)
 
-Yksi tapa muodostaa menneen ajan passiivilauseet on ns. partisiipin perfektin passivin (PPP) rakenne.
+Tapahtuneen aikaisen passiivilauseen muodostamisen yksi tapa on ns. perfektin passiiivin partisiipin (PPP) käyttö.
 
 ::: grammar-box
-**Itse asiassa PPP ei ole oikea partisiippi, koska sitä ei muodosteta aikajänteen varresta. Se on pikemminkin substantiivinen johtomuoto juuresta ensijäsenellä -ta tai -na. Siksi intialaisessa grammatikassa puhutaan kta-jäsenestä.**
+**Todellisuudessa PPP ei ole aito partisiippi, koska sitä ei muodosteta aikamuodon varresta. Se on pikemminkin substantiivinen johtomuoto juuresta, jossa on primaaripääte -ta tai -na. Siksi intialaisessa kieliopissa puhutaan päätteestä kta.**
 :::
 
-:::
 ### 12.1.1. Kaava transitiivisille verbeille
 
 ::: grammar-box
-**Agentti (kartṛ) instrumentaalin sijassa (tṛtīyā) -- suora objekti (karman) nominatiivin sijassa (prathamā) -- partisiippi perfektin passivi**
+**Agentti (kartṛ) instrumentaalisissa (tṛtīyā) -- suora objekti (karman) nominatiivissa (prathamā) -- perfektin passiiivin partisiippi**
 
-PPP täsmää tässä tapauksessa objektin numeron, sijan ja genuksen kanssa.
+Tässä tapauksessa PPP taivuttaa lukua, sijaa ja sukua samoin kuin objekti.
 
-Apusanaa („olla“) ei tarvita.
+Apuverbi ("olla") ei ole tarpeen.
 
 Esimerkkejä:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(Taivaalle on päässyt pyhimys) = Pyhimys on saavuttanut taivaan.“
+> **sādhunā svarga āptaḥ** = ⟪साधुना स्वर्ग आप्तः⟫ = "(Pyhän saavutti taivaan) = Pyhä on saavuttanut taivaan."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(Brahmani on palvottu jumalatarta uhraamalla) = Brahmani on palvonnut jumalatarta uhraamalla.“
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन देवीष्टा⟫ = "(Brahmanin palvoi jumalatarta uhraamalla) = Brahmani on palvonut jumalatarta uhraamalla."
 :::
 
-### 12.1.2. Schema I transitiivisille verbeille ja liikkeen verbien
+### 12.1.2. Kaava I intransitiivisille verbeille ja liikkeen verbeille
 
 ::: grammar-box
-**Agens (kartṛ) nominatiivissa (prathamā) -- partisiippi perfektin passiivi**
+**Agentti (kartṛ) nominatiivissa (prathamā) -- perfektin passiiivin partisiippi**
 
-Tässä tapauksessa PPP täsmää agensin kanssa luvussa, sijassa ja sukua. Partisiippi perfektin "passiivi" on intransitiivisten verbien (verbien ilman suoraa objektia) ja liikeverbien aktiivinen merkitys.
+Tässä tapauksessa PPP taivuttaa lukua, sijaa ja sukua samoin kuin agentti. "Passiivin" perfektin partisiipilla on intransitiivisten verbien (verbien ilman suoraa objektia) ja liikkeen verbien kohdalla aktiivinen merkitys.
 
 Esimerkki:
-> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "Kṣatriyanaishan on mennyt kaupunkiin."
+> **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया नगरं गता⟫ = "Kṣatriya-nainen on mennyt kaupunkiin."
 :::
 
-### 12.1.3. Schema II intransitiivisille verbeille ja liikeverbeille
+### 12.1.3. Kaavio II intransitiivisille verbeille ja liikkeen verbeille
 
 ::: grammar-box
-**Agens (kartṛ) instrumentaalisessa (tṛtīyā) -- PPP nominatiivin yksikön neutri**
+**Agens (kartṛ) instrumentaalisissa (tṛtīyā) -- PPP nominatiivin yksikön neutrimuodossa**
 
 Esimerkki:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriya meni (kaupunkiin)) = Kṣatriya on mennyt (kaupunkiin).“
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Kṣatriyan toimesta) (kaupunkiin) on menty” = Kṣatriya on (mennyt kaupunkiin).
 
-Scheman II mukainen rakenne on paljon harvinaisempi kuin scheman I mukainen rakenne.
+Schema II:n rakenteita esiintyy huomattavasti harvemmin kuin schema I:n rakenteita.
 :::
 
-:::
 ## 12.2. PPP:n merkityksestä
 
-Kun siis ns. „Participium Perfekti Passivi“ transitiivisissa verbeissä ensisijaisesti on passiivinen merkitys (**āpta** = „saavutettu (oleva)“) ja intransitiivisissa verbeissä sekä liikkeen verbien aktiivinen merkitys (**gata** = „mennyt“), on olemassa joitakin verbejä, joilla PPP voi olla sekä aktiivinen että passiivinen merkitys:
+Kun transitiivisille verbeille ns. „perfektin passiivin partisiippi” on ensisijaisesti passiivinen merkitys (**āpta** = „saavutettu (oleva)”) ja intransitiivisille verbeille sekä liikkeen verbeille aktiivinen merkitys (**gata** = „mennyt”), on olemassa joitakin verbejä, joilla PPP voi olla sekä aktiivinen että passiivinen merkitys:
 
 esim.
-- **gata** = ⟪गत⟫ = „mennyt“ (aktiivinen); mutta myös: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „kuljettu tie“ (passiivinen)
-- **āpta** = ⟪आप्त⟫ = „saavutettu“ (passiivinen), „saavuttanut“ (aktiivinen)
+**gata** = ⟪गत⟫ = „mennyt” (aktiivinen); mutta myös: **gato mārgaḥ** = ⟪गतो मार्गः⟫ = „kuljettu tie” (passiivinen)
+**āpta** = ⟪आप्त⟫ = „saavutettu (oleva)” (passiivinen), „saavuttanut” (aktiivinen)
+
 
 ## 12.3. PPP:n muodostaminen
 
 ::: grammar-box
-Seuraavia muodostustapoja esiintyy (jokaiseen juureen tulee oppia sen PPP!):
+Seuraavia muodostustapoja esiintyy (kunkin juuren kohdalla on opeteltava sen PPP!):
 
-**(useimmiten) matalan tason juuri**
+**(useimmiten) guṇa-asteinen juuri**
 
-- **+ -ta**
-  - liitinvokaalin **-i-** kanssa edellä: **-ita**
-  - ilman liitinvokaalia: **-ta**
-- **+ -na**
+**+ -ta**
+sidettaimen **-i-** kanssa edellä: **-ita**
+ilman sidettainta: **-ta**
+**+ -na**
 
-Naispuolisen vartalon päättyvät muotoihin: **-tā**, **-itā**, **-nā**; keskisuuku flektoidaan kuten **phala** n.
+Naispuoliset vartalot ovat: **-tā**, **-itā**, **-nā**; neutrum taivuttaa kuten **phala** n.
 :::
 
-### 12.3.1. PPP päättyen -ta (kta)
+### 12.3.1. -ta (kta) päättyvät PPP:t
 
-#### 12.3.1.1. Ilman liitovokaalia -i- (aniṭ)
+#### 12.3.1.1. Ilman sidettainta -i- (aniṭ)
 
-*aniṭ* = „ilman (*an-*) suffiksia edeltävää (*-i-*) *t*“ (eli ilman liitovokaalia *i*).
+*aniṭ* = „ilman (*an-*) liiteosan edellä olevaa (*-i-*) *t*ä” (ts. ilman sidettainta *i*).
 
 ::: grammar-box
-Ilman liitovokaalia muodostetaan PPP yleensä vokaalilla päättyvistä verbijuurista sekä monista muista juurista, ilman että siitä voisi antaa tiukkaa sääntöä siitä, milloin liitovokaali esiintyy tai ei tietyissä juurirakenteissa.
+Sanskaum liitinvokaalia muodostetaan PPP yleensä vokaalilla päättyvistä juurista sekä monista muista juurista, ilman että siitä voisi antaa tiukkaa sääntöä siitä, milloin liitinvokaali esiintyy tai ei tietyissä juurirakenteissa.
 
-Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
+Luettelo *aniṭ*-juurista löytyy teoksesta Kielhorn, *Grammatik* § 298.
 :::
 **Esimerkit:**
 
@@ -110,11 +109,11 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. Mit Bindevokal -i- (seṭ)
+#### 12.3.1.2. Liitinvokaalilla -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
+*seṭ* = *sa-iṭ* = „liitinvokaalilla (*sa-*) etukäteen sijoitetulla (*-i-*) *t*:llä” (ts. liitinvokaalilla *i*).
 
-**Esimerkkejä:**
+**Esimerkit:**
 
 ::: grammar-box
 | Juuri | PPP (kta) |
@@ -125,64 +124,65 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Sananmuodostuslait sanassa
+## 12.4. Sanatuliittolait sanassa
 
-*aniṭ*-muodoissa on noudatettava seuraavia sanan sisäisiä sananmuodostuslakeja. **Nämä lait ovat erittäin tärkeitä sanskritin muoto-opin ymmärtämiseksi.**
+*aniṭ*-muodostuksissa on noudatettava seuraavia sanan sisäisiä sanatuliittolaita. **Nämä lait ovat erittäin tärkeitä koko sanskritin muoto-opin ymmärtämiseksi.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p äänteenliittymässä soinnittoman tukkiäänen (esim. t, th) edellä pysyvät muuttumattomina:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct korvautuu kt:llä = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
-| **3. śt korvautuu ṣṣ:llä = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
-| **4. Soinnillinen aspiroitumaton tukkiääne – paitsi j – korvautuu äänteenliittymässä soinnittoman äänteensä vastaavalla soinnittomalla aspiroitumattomalla äänteellä:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (tärkeä 2. preesensluokan kannalta) |
-| **5. jt korvautuu kt:llä tai ṣṭ:llä (ei valinnainen!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
-| **6. Soinnillinen aspiroitu tukkiääne + soinniton tukkiääne » soinnillinen aspiroitumaton tukkiääne + soinnillinen aspiroitu tukkiääne (Bartholomaeen aspirointilaki):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t korvautuu ḍh:llä, edeltävän i:n tai u:n pitkenemisen kera; tai gdh:llä. Tällaisen ḍh:n edellä a korvautuu o:lla, harvemmin ā:llä:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+**1. k, t, p ennen soinnitonta tukkoista (esim. t, th) pysyvät muuttumattomina:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+**2. ct korvautuu kt:llä = ⟪क्त्⟫:** | **muc + ta » muk-ta** = ⟪मुक्त⟫ |
+**3. śt korvautuu ṣṭ:llä = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
+**4. Soinnillinen aspiraatiton tukkonen – paitsi j – korvautuu ennen soinnitonta ääntä vastaavalla soinnittomalla aspiraatittomalla:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (tärkeä 2. preesensluokalle) |
+**5. jt korvautuu kt:llä tai ṣṭ:llä (ei valinnainen!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+**6. Soinnillinen aspiroitu tukkonen + soinniton tukkonen » soinnillinen aspiraatiton tukkonen + soinnillinen aspiroitu tukkonen (Bartholomaen aspiroitumislaki):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+**7. h-t korvautuu ḍṭ:llä, jossa edeltävä i tai u pitenee; tai gdh:lla. Tällaisen ḍṭ:n edellä a korvautuu o:lla, harvemmin ā:lla:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „piilottaa jotakin”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Sanalista
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : herätä, herätä tietoisuuteen, tunnistaa; PPP **buddha** 3 herännyt, joten **Buddha** = "herännut" (ei: valaistunut)
+**budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : herätä, nousta tietoisuuteen; PPP **buddha** 3 herännyt, joten **Buddha** = "herännyt" (ei: valaistunut)
 
 ::: media
 ![](/images/lekt1201.webp)
-Kuva: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Kuv lähde: [Tiedot](/fi/licenses#lekt1201))
+Kuv.: ⟪गौतमो बुद्धः⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (jotain) polttaa
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟩ sahate soḍha : selviytyä, kestää, kärsiä kärsivällisesti = anteeksi antaa
-- **mṛga** m. ⟪मृग⟩ : villieläin
-- **mārga** m. ⟪मार्ग⟩ : tie (tiet olivat usein villieläinten kulkureittejä)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : polttaa (jotakin)
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : selviytyä, kestää, sietää kärsivällisesti = anteeksi antaa
+**mṛga** m. ⟪मृग⟫ : villieläin
+**mārga** m. ⟪मार्ग⟫ : tie (tiut olivat usein eläinten kulkureittejä)
 
 ::: media
 ![](/images/lekt1202.webp)
-Kuva: ⟪मार्गः⟩
-(Kuv lähde: [Tiedot](/fi/licenses#lekt1202))
+Kuv.: ⟪मार्गः⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟩ : myös (jälkiliitteessä)
+**api** ⟪अपि⟫ : myös (perään sijoitettuna)
 
-Kuudennelle preesensluokalle kotimaiset grammatikot lukevat joitain vartaloita, jotka muodostavat preesensvartalon nasali-infixilla ja temattivokaalilla a, esim.:
+Kuudennelle preesensluokalle kotimaiset grammatikot luettelevat joitakin vartaloita, jotka muodostavat preesensvartalon nasali-infixilla ja temattivokaalilla a, esim.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : irrottaa, päästää irti; vapauttaa kiertokulmasta (**saṃsāra** m.) = pelastaa
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : roiskuttaa, kastella
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : irrottaa, päästää irti, vapauttaa; kiertokulun (**saṃsāra** m.) vapauttaminen = pelastaa
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : roiskuttaa
 
-Sananmuodostus:
+Sanojen muodostus:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : irrottautuminen, vapautus, pelastus
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : kuninkaan voitelu kruunajaisissa, kruunaaminen
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : herääminen (minkä kautta buddha tai jina saavuttaa pelastavan ymmärryksen)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : irrottautuminen, vapautus, pelastus
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : kuninkaan voitelu kruunajaisissa, kruunaaminen
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : herääminen (minkä kautta Buddha tai Jina saavuttaa pelastavan ymmärryksen)
 
 ::: media
 ![](/images/lekt1203.webp)
-Kuv.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Kuvan lähde: [Tiedot](/fi/licenses#lekt1203))
+Kuv.: ⟪महावीरो जिनः⟫
+(Kuvan lähde: [Yksityiskohdat](/fi/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedoneläin.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Tunnustus, tuntoelin.
 
-### 12.5.1. Passiivi ja tähän mennessä opeteltujen verbien juurten PPP
 
-| Juuri:br⟪धातु⟫ | Passiv Preesens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+### 12.5.1. Passiivi ja PPP aiemmin opetuista juurista
+
+| Juuri:br⟪धातु⟫ | Passiivin preesens 3. sg. indikatiivi:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -229,11 +229,12 @@ Kuv.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
+
 ## 12.6. Harjoitus
 
-**A) Muodosta aktiivilauseista [Lektion 7](/lektionen/lektion07), harjoitus A, PPP:n avulla menneisyyden passiivilauseet; intransitiivisten verbien ja liikkeen verbien kohdalla muodosta menneisyyden aktiivilauseet.**
+**A) Muodosta [Lektion 7](/lektionen/lektion07), harjoituksen A aktiivilauseista menneisyyden passiivilauseet; intransitiivisten verbien ja liikkeen verbien kohdalla muodosta menneisyyden aktiivilauseet.**
 
-**B) Muodosta vastaavat PPP:t verbimuodoille [Lektion 10](/lektionen/lektion10), harjoitus A. Huomaa, että muodolle kuten sṛjati vastaa PPP:tä kaikissa kolmessa sukua.**
+**B) Muodosta [Lektion 10](/lektionen/lektion10), harjoituksen A verbimuodoista vastaavat PPP:t. Huomioi, että muodolle kuten sṛjati vastaa PPP kolmessa sukussa.**
 
-**C) Muunna [Lektion 10](/lektionen/lektion10), harjoitus C:n lauseet passiiviin menneisyydessä.**
+**C) Muunna [Lektion 10](/lektionen/lektion10), harjoituksen C lauseet passiiviin menneisyyteen.**
 

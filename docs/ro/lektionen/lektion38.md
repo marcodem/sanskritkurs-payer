@@ -205,7 +205,6 @@ Fig.: ⟪हस्तवान्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3807))
 :::
 
-:::
 ::: grammar-box
 Adjectivele în **-⟪इन्⟫** sunt adesea formate în compuse.
 :::

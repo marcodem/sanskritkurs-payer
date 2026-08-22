@@ -107,9 +107,9 @@ last_reconstructed: 2026-05-15
 (⟪द्विजानां दासाः⟫)
 برهمه‌ها ودای را مطالعه و تدریس کرده‌اند، به عنوان میزبانان قربانی برای خدایان قربانی داده‌اند و در مأموریت دیگران قربانی کرده‌اند. کشاتریاها ودای را مطالعه کرده‌اند، از مردم محافظت کرده‌اند، زمین را بهره‌برداری کرده‌اند و به عنوان میزبانان قربانی برای خدایان قربانی داده‌اند. وایشیه‌ها ودای را مطالعه کرده‌اند، به عنوان میزبانان قربانی برای خدایان قربانی داده‌اند، خرید و فروش کرده‌اند. اما شودراها برده‌های دوباره زاییده‌ها بودند.
 
-⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
-(⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-پسران بودا حقیقت را درک کرده‌اند، رنج را به سکته رسانده و رهایی را یافته‌اند. راهبی که در مسیر بودا حرکت می‌کند، «پسر بودا» نامیده می‌شود.
+⟪५⟫. **⟪बुद्धपुत्राः सत्यमजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫**
+(⟪बुद्धस्य पुत्राः⟫)
+پسران بودا حقیقت را شناخته‌اند، رنج را به سکوت رسانده و رهایی را یافته‌اند. راهب را «پسر بودا» می‌نامند که در مسیر بودا گام برمی‌دارد.
 
 ::: media
 ![](/images/uebung050.webp)
@@ -118,97 +118,97 @@ last_reconstructed: 2026-05-15
 :::
 ---
 
-## Wortformbestimmung
+## تعیین شکل واژه
 
->> Bestimmen und übersetzen Sie folgende Wörter:
+اشکال زیر را تعیین و ترجمه کنید:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| شکل واژه | تعیین | معنا |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | des Gottes |
-| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | (von) der bewohnten |
-| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden erhalten |
-| ⟪४⟫. ⟪गुरौ⟫ | Lok. sg. m. | beim Lehrer |
-| ⟪५⟫. ⟪भाव्यते⟫ | 3. sg. Ind. Präs. Kaus. Passiv | er wird hervorgebracht |
-| ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | dem Feuer |
-| ⟪७⟫. ⟪मोक्तुम्⟫ | Inf. | um zu befreien |
-| ⟪८⟫. ⟪वितत्य⟫ | Absol. | nachdem er aufgespannt hat |
-| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | für die Vergegenwärtigung |
-| ⟪१०⟫. ⟪देवताः⟫ | Nom./Akk. pl. f. | die Gottheiten |
-| ⟪११⟫. ⟪ब्रवीति⟫ | 3. sg. P. Ind. Präs. | er spricht |
-| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3. pl. P. Fut. | sie werden fragen |
-| ⟪१३⟫. ⟪पततः⟫ | Gen. sg. m./n. Part. Präs. | des fallenden |
-| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden schreiten |
-| ⟪१५⟫. ⟪आसते⟫ | 3. pl. Ā. Ind. Präs. | sie sitzen |
-| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | die grossen |
-| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | durch den Tötenden |
-| ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie schicken / lassen kommen |
-| ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | die wünschen gemachte |
-| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | nachdem er herbeiführen liess |
-| ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | für die Lüge |
-| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | durch die Verehrung |
-| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | (von) den Fragen |
-| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3. pl. P. Fut. | sie werden verbrennen |
-| ⟪२५⟫. ⟪मृगान्⟫ | Akk. pl. m. | die Wildtiere |
-| ⟪२६⟫. ⟪बोधिम्⟫ | Akk. sg. f. | die Einsicht |
-| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | durch Eigenschaften |
-| ⟪२८⟫. ⟪सन्ति⟫ | 3. pl. P. Ind. Präs. | sie sind / die wahren |
-| ⟪२९⟫. ⟪यन्ति⟫ | 3. pl. P. Ind. Präs. | sie gehen |
-| ⟪३०⟫. ⟪क्रियते⟫ | 3. sg. Ind. Präs. Pass. | es wird getan |
-| ⟪३१⟫. ⟪विगत्य⟫ | Absol. | nachdem es vergangen ist |
-| ⟪३२⟫. ⟪चरित्वा⟫ | Absol. | nachdem er geweidet hat |
-| ⟪३३⟫. ⟪पीते⟫ | Lok. sg. m./n. PPP | im getrunkenen |
-| ⟪३४⟫. ⟪अन्नानि⟫ | Nom./Akk. pl. n. | die Speisen |
-| ⟪३५⟫. ⟪जलम्⟫ | Nom./Akk. sg. n. | das Wasser |
-| ⟪३६⟫. ⟪वक्ति⟫ | 3. sg. P. Ind. Präs. | er sagt |
-| ⟪३७⟫. ⟪उक्तिः⟫ | Nom. sg. f. | der Ausspruch |
-| ⟪३८⟫. ⟪अर्धात्⟫ | Abl. sg. m./n. | vom halben |
-| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sg. m. | durch den Zweck |
-| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden gepriesen |
-| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3. sg. P. Fut. | er wird hören |
-| ⟪४२⟫. ⟪स्रष्टुम्⟫ | Inf. | um zu schöpfen |
-| ⟪४३⟫. ⟪पशुम्⟫ | Akk. sg. m. | das Tier |
-| ⟪४४⟫. ⟪स्तुतीः⟫ | Akk. pl. f. | die Lobpreisungen |
-| ⟪४५⟫. ⟪अरयः⟫ | Nom. pl. m. | die Feinde |
-| ⟪४६⟫. ⟪जात्या⟫ | Instr. sg. f. | durch die Geburt |
-| ⟪४७⟫. ⟪जाताम्⟫ | Akk. sg. f. PPP | die geborene |
-| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3. sg. P. Fut. | er wird zeigen |
-| ⟪४९⟫. ⟪दर्शितः⟫ | Nom. sg. m. Kaus. PPP | der gezeigte |
-| ⟪५०⟫. ⟪दुष्टाः⟫ | Nom. pl. m. PPP | verdorbene |
-| ⟪५१⟫. ⟪द्विजातीन्⟫ | Akk. pl. m. | die Zweimalgeborenen |
-| ⟪५२⟫. ⟪मृत्योः⟫ | Abl./Gen. sg. m. | des Todes |
-| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Gen. pl. PPP | der gemolkenen |
-| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | durch Anweisungen |
-| ⟪५५⟫. ⟪मात्रायाम्⟫ | Lok. sg. f. | im Mass |
-| ⟪५६⟫. ⟪अत्ति⟫ | 3. sg. P. Ind. Präs. | er isst |
-| ⟪५७⟫. ⟪जायन्ते⟫ | 3. pl. Ā. Ind. Präs. | sie werden geboren |
-| ⟪५८⟫. ⟪जीयन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden besiegt |
-| ⟪५९⟫. ⟪जयन्ति⟫ | 3. pl. P. Ind. Präs. | sie siegen |
-| ⟪६०⟫. ⟪जनयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie erzeugen |
-| ⟪६१⟫. ⟪प्रभृतेः⟫ | Abl./Gen. sg. f. | vom Beginn |
-| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3. pl. P. Ind. Präs. | sie treten davor |
-| ⟪६३⟫. ⟪स्थित्याम्⟫ | Lok. sg. f. | in der Festsetzung |
-| ⟪६४⟫. ⟪भिक्षुषु⟫ | Lok. pl. m. | bei den Mönchen |
-| ⟪६५⟫. ⟪पक्त्वा⟫ | Absol. | nachdem er gekocht hat |
-| ⟪६६⟫. ⟪योद्धुम्⟫ | Inf. | um zu kämpfen |
-| ⟪६७⟫. ⟪मारयित्वा⟫ | Absol. Kaus. | nachdem er getötet hat |
-| ⟪६८⟫. ⟪धेन्वा⟫ | Instr. sg. f. | durch die Milchkuh |
-| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden denken |
-| ⟪७०⟫. ⟪इज्यते⟫ | 3. sg. Ind. Präs. Pass. | es wird geopfert |
-| ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | nachdem er verkündet hat |
-| ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | er lässt erhalten |
-| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | durch die gestellten |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (von) den Kräften |
-| ⟪७५⟫. ⟪अलम्⟫ | Adv. | genug |
-| ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | die Gründe |
-| ⟪७७⟫. ⟪प्रतिमासु⟫ | Lok. pl. f. | bei den Bildnissen |
-| ⟪७८⟫. ⟪यस्याः⟫ | Gen. sg. f. Rel. | von welcher |
-| ⟪७९⟫. ⟪हि⟫ | Konj. | denn, nämlich |
-| ⟪८०⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. Dem. | in diesem |
-| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden genommen |
-| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | bei den Beauftragten |
-| ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | er unterrichtet |
-| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie lassen lesen |
+| ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | خدای |
+| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | (از) مسکونی |
+| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3. pl. Ā. Fut. | آنها دریافت خواهند کرد |
+| ⟪४⟫. ⟪गुरौ⟫ | Lok. sg. m. | نزد استاد |
+| ⟪५⟫. ⟪भाव्यते⟫ | 3. sg. Ind. Präs. Kaus. Passiv | او به وجود خواهد آمد |
+| ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | آتش |
+| ⟪७⟫. ⟪मोक्तुम्⟫ | Inf. | برای رهایی بخشیدن |
+| ⟪८⟫. ⟪वितत्य⟫ | Absol. | پس از گستراندن |
+| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | برای تجسم |
+| ⟪१०⟫. ⟪देवताः⟫ | Nom./Akk. pl. f. | خدایان |
+| ⟪११⟫. ⟪ब्रवीति⟫ | 3. sg. P. Ind. Präs. | او می‌گوید |
+| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3. pl. P. Fut. | آنها خواهند پرسید |
+| ⟪१३⟫. ⟪पततः⟫ | Gen. sg. m./n. Part. Präs. | در حال سقوط |
+| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3. pl. Ā. Fut. | آنها خواهند رفت |
+| ⟪१५⟫. ⟪आसते⟫ | 3. pl. Ā. Ind. Präs. | آنها نشسته‌اند |
+| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | بزرگ‌ها |
+| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | توسط کشنده |
+| ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | آنها می‌فرستند / اجازه ورود می‌دهند |
+| ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | خواسته شده |
+| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | پس از آوردن |
+| ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | برای دروغ |
+| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | توسط احترام گذاشتن |
+| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | (از) پرسش‌ها |
+| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3. pl. P. Fut. | آنها خواهند سوزاند |
+| ⟪२५⟫. ⟪मृगान्⟫ | Akk. pl. m. | حیوانات وحشی |
+| ⟪२६⟫. ⟪बोधिम्⟫ | Akk. sg. f. | بینش |
+| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | توسط ویژگی‌ها |
+| ⟪२८⟫. ⟪सन्ति⟫ | 3. pl. P. Ind. Präs. | آنها هستند / حقیقت‌ها |
+| ⟪२९⟫. ⟪यन्ति⟫ | 3. pl. P. Ind. Präs. | آنها می‌روند |
+| ⟪३०⟫. ⟪क्रियते⟫ | 3. sg. Ind. Präs. Pass. | انجام می‌شود |
+| ⟪३१⟫. ⟪विगत्य⟫ | Absol. | پس از گذشتن |
+| ⟪३२⟫. ⟪चरित्वा⟫ | Absol. | پس از چریدن |
+| ⟪३३⟫. ⟪पीते⟫ | Lok. sg. m./n. PPP | در نوشیده شده |
+| ⟪३४⟫. ⟪अन्नानि⟫ | Nom./Akk. pl. n. | غذاها |
+| ⟪३५⟫. ⟪जलम्⟫ | Nom./Akk. sg. n. | آب |
+| ⟪३६⟫. ⟪वक्ति⟫ | 3. sg. P. Ind. Präs. | او می‌گوید |
+| ⟪३७⟫. ⟪उक्तिः⟫ | Nom. sg. f. | سخن |
+| ⟪३८⟫. ⟪अर्धात्⟫ | Abl. sg. m./n. | از نیمه |
+| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sg. m. | توسط هدف |
+| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3. pl. Ind. Präs. Pass. | آنها ستایش خواهند شد |
+| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3. sg. P. Fut. | او خواهد شنید |
+| ⟪४२⟫. ⟪स्रष्टुम्⟫ | Inf. | برای کشیدن |
+| ⟪४३⟫. ⟪पशुम्⟫ | Akk. sg. m. | حیوان |
+| ⟪४४⟫. ⟪स्तुतीः⟫ | Akk. pl. f. | ستایش‌ها |
+| ⟪४५⟫. ⟪अरयः⟫ | Nom. pl. m. | دشمنان |
+| ⟪४६⟫. ⟪जात्या⟫ | Instr. sg. f. | توسط تولد |
+| ⟪४७⟫. ⟪जाताम्⟫ | Akk. sg. f. PPP | زاده شده |
+| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3. sg. P. Fut. | او خواهد نشان داد |
+| ⟪४९⟫. ⟪दर्शितः⟫ | Nom. sg. m. Kaus. PPP | نشان داده شده |
+| ⟪५०⟫. ⟪दुष्टाः⟫ | Nom. pl. m. PPP | فاسد شده |
+| ⟪५१⟫. ⟪द्विजातीन्⟫ | Akk. pl. m. | دو بار زاده‌ها |
+| ⟪५२⟫. ⟪मृत्योः⟫ | Abl./Gen. sg. m. | مرگ |
+| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Gen. pl. PPP | دوشیده شده |
+| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | توسط دستورالعمل‌ها |
+| ⟪५५⟫. ⟪मात्रायाम्⟫ | Lok. sg. f. | در اندازه‌گیری |
+| ⟪५६⟫. ⟪अत्ति⟫ | 3. sg. P. Ind. Präs. | او می‌خورد |
+| ⟪५७⟫. ⟪जायन्ते⟫ | 3. pl. Ā. Ind. Präs. | آنها زاده خواهند شد |
+| ⟪५८⟫. ⟪जीयन्ते⟫ | 3. pl. Ind. Präs. Pass. | آنها شکست خواهند خورد |
+| ⟪५९⟫. ⟪जयन्ति⟫ | 3. pl. P. Ind. Präs. | آنها پیروز می‌شوند |
+| ⟪६०⟫. ⟪जनयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | آنها تولید می‌کنند |
+| ⟪६१⟫. ⟪प्रभृतेः⟫ | Abl./Gen. sg. f. | از آغاز |
+| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3. pl. P. Ind. Präs. | آنها در برابر آن می‌ایستند |
+| ⟪६३⟫. ⟪स्थित्याम्⟫ | Lok. sg. f. | در تعیین |
+| ⟪६४⟫. ⟪भिक्षुषु⟫ | Lok. pl. m. | نزد راهبان |
+| ⟪६५⟫. ⟪पक्त्वा⟫ | Absol. | پس از پختن |
+| ⟪६६⟫. ⟪योद्धुम्⟫ | Inf. | برای جنگیدن |
+| ⟪६७⟫. ⟪मारयित्वा⟫ | Absol. Kaus. | پس از کشتن |
+| ⟪६८⟫. ⟪धेन्वा⟫ | Instr. sg. f. | توسط گاو شیری |
+| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3. pl. Ā. Fut. | آنها خواهند اندیشید |
+| ⟪७०⟫. ⟪इज्यते⟫ | 3. sg. Ind. Präs. Pass. | قربانی خواهد شد |
+| ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | پس از اعلام کردن |
+| ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | او نگه می‌دارد |
+| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | توسط قرار داده شده |
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (از) نیروها |
+| ⟪७५⟫. ⟪अलम्⟫ | Adv. | کافی |
+| ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | دلایل |
+| ⟪७७⟫. ⟪प्रतिमासु⟫ | Lok. pl. f. | نزد مجسمه‌ها |
+| ⟪७८⟫. ⟪यस्याः⟫ | Gen. sg. f. Rel. | از کدام |
+| ⟪७९⟫. ⟪हि⟫ | Konj. | زیرا، یعنی |
+| ⟪८०⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. Dem. | در این |
+| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3. pl. Ind. Präs. Pass. | آنها گرفته خواهند شد |
+| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | نزد مأموران |
+| ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | او آموزش می‌دهد |
+| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | آنها می‌خوانند |
 :::
 ::: media
 ![](/images/uebung051.webp)
@@ -298,22 +298,22 @@ last_reconstructed: 2026-05-15
 
 ::: media
 ![](/images/uebung053.webp)
-Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#uebung053))
+تصویر: ⟪श्रीगङ्गाधराय नमः⟫
+(منبع تصویر: [جزئیات](/licenses#uebung053))
 :::
 ---
 
->> ## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## داستان: پیرمرد و میمون‌ها (بالادارسا)
 
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो ऽभवत् । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमगच्छत् ॥ तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त । वृद्धस्य तेषु स्पृहा जाती । परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः । तानवलोक्य वृद्धः प्रहर्षं गतः । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्राक्षिपत् । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं गतः ॥ अहो वृद्धस्य कौशलम् ॥⟫
 
-**Übersetzung:**
-Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuss eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte frassen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Grossartig ist das Geschick des Greises!
+**ترجمه:**
+روزگاری پیرمردی به دهکده‌ای دیگر رفت و در راه خسته شد. برای استراحت، زیر درخت انبه‌ای که کنار جاده بود رفت. میوه‌های رسیده بر این درخت آویزان بودند. پیرمرد هوس خوردن آن‌ها را کرد، اما نمی‌توانست برای چیدنشان به درخت بالا رود. خوشبختانه چند میمون بر روی درخت بودند که میوه می‌خوردند. پیرمرد این را دید و خوشحال شد. چه کرد؟ او چند سنگ برداشت، به میمون‌ها نشانه رفت و آن‌ها را پرتاب کرد. میمون‌ها خشمگین شدند، چند میوه چیدند و بر سر پیرمرد پرتاب کردند. پیرمرد با شادی میوه‌ها را گرفت و به راه خود ادامه داد. چه هوشمندی پیرمرد!
 
 ::: media
 ![](/images/uebung054.webp)
-Abb.: ⟪वानरः⟫ ⟪कुपितः⟫
-(Bildquelle: [Details](/licenses#uebung054))
+تصویر: ⟪वानरः कुपितः⟫
+(منبع تصویر: [جزئیات](/licenses#uebung054))
 
 :::
 

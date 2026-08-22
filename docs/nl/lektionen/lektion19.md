@@ -1,225 +1,207 @@
-
 ---
-title: Lektion 19
+title: "Les 19"
 lesson_id: 19
+
 ---
 
-# Les 19
-
-## 19.1. Der Relativsatz
+## 19.1. De relatieve zin
 
 ::: grammar-box
 
 **Schema:**
 
 
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
+**Relatiefvoornaamwoord -- Relatieve zin die het zelfstandig naamwoord bevat waarnaar de relatieve zin verwijst -- (aanwijzend voornaamwoord) -- hoofdzin**
 
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
+**De relatieve zin kan ook na de hoofdzin staan, maar mag niet in de hoofdzin worden ingevoegd.**
 
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
+**Het relatieve voornaamwoord en het relatieve woord, dat – in tegenstelling tot het Duits – in de relatieve zin staat, staan in het naamval dat de relatieve zin syntactisch vereist. Het aanwijzend voornaamwoord staat in het naamval dat de hoofdzin syntactisch vereist.**
 :::
 
-Beispiele:
+Voorbeelden:
 
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
+Opmerking: In relatieve zinnen met een algemeen geldende inhoud wordt vaak de optatief gebruikt in plaats van de indicatief. Veel van onze voorbeelden zouden dus bij voorkeur in de optatief staan.
 
-**1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
+**1. De agent (⟪कर्तृ⟫) van de zin wordt nader bepaald door een relatieve zin:**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
+⟪यो नरः पुण्यं करोति स स्वर्गं गच्छति⟫ =  ⟪यो नरः पुण्यं करोति तेन स्वर्गं गम्यते⟫ = ⟪येन नरेण पुण्यम् क्रियते तेन स्वर्गं गम्यते⟫ enz. = „Een man die verdienstelijke daden verricht, komt in de hemel.”
 :::
-**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
+**2. Het lijdend voorwerp (⟪कर्म⟫) van de hoofdzin wordt nader bepaald door de relatieve zin:**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
+⟪यो ब्राह्मणो देवान्यजते तं देवा रक्षन्ति⟫ = "De goden beschermen een brahmaan die als offeraar offers aan hen brengt."
 :::
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
+**3. De nadere bepaling van een zelfstandig naamwoord uit de hoofdzin staat in de relatieve zin:**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
+⟪ये नराः पापं कुर्वन्ति तेषां पुत्रा धनं न लभन्ते⟫ = "Zonen van mannen die kwaad doen, krijgen geen rijkdom."
 :::
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
+**4. Het voornaamwoord en het referentiewoord staan in de genitief (⟪षष्ठी⟫):**
 
 ::: indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
+⟪यस्य नरस्य पुत्राः पापं कुर्वन्ति स न सुखवान्⟫ = "De man is niet gelukkig, wiens zonen kwaad doen."
 :::
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
+**5. Het het voornaamwoord en het referentiewoord staan in de instrumentalis (⟪तृतीया⟫):**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
+⟪येन शत्रुणा ग्रामो जितस्तं द्विषन्ति⟫ = "Ze haten de vijand, die hun dorp heeft verslagen / veroverd."
 :::
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
+**6. Het het voornaamwoord en het referentiewoord staan in de accusatief (⟪द्वितीया⟫):**
 
 ::: indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
+⟪यं नरं देवी रक्षति स सुखमाप्नोति⟫ = "Een man, die door de godin wordt beschermd, bereikt geluk."
 :::
-## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. Het voornaamwoord = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::: grammar-box
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmässigem Sandhi.**
+**⟪यद्⟫ "welke, welke, welke" gedeclineerd zoals ⟪तद्⟫, maar met regelmatige sandhi.**
 
-| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
+| | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| **Singular** :br ⟪एकवचन⟫ | **1. Nominatief** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. Accusatief** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
-| **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
-| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **6. Genitief** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **Plural** :br ⟪बहुवचन⟫ | **1. Nominatief** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Accusatief** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
-| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
-
-**Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
+| | **6. Genitief** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
+**Als eerste deel van samengestelde woorden komt de stam ⟪यद्⟫ voor (met inachtneming van de sandhi).**
 
 :::
 
 
-## 19.3. Wortliste
+## 19.3. Woordenlijst
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+**⟪अर्थ⟫ m.:** doel, betekenis (van een woord), rijkdom, bezit, vermogen. ⟪अर्थम्⟫ (acc.), ⟪अर्थेन⟫ (instr.) met gen. of als achterlid van een Tatpuruṣa: omwille van ..., om te.
 
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+⟪अर्थ⟫ is een van de drie levensdoelen (⟪पुरुषार्थ⟫), zoals deze in de wereldlijke en religieuze literatuur worden beschreven:
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.:** het verwerven van verdienste door te doen wat voor iemand juist is, of op zijn minst het vermijden van het kwaad dat zou voortvloeien uit het niet naleven van de dharma
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.:** doelgericht rationeel gedrag, het verwerven van welvaart
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.:** zinnelijke lust, in het bijzonder ook op seksueel gebied
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+Afb.: ⟪कामः⟫
+Illustratie bij ⟪कामसूत्र⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** staan, blijven, blijven bestaan, zich bevinden. (Wordt traditioneel tot de 1e tegenwoordige tijdklasse gerekend, hoewel het om een reduplicerende thematische tegenwoordige tijdklasse gaat, zoals ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** naar voren treden, zich in eerbiedige houding voor iemand opstellen
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** vertrekken, weglopen
 
-von ⟪स्था⟫ :
+van ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** plek, (juiste) plaats, locatie
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ v.:** verblijf, standvastigheid, volharding
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** baarmoeder, schoot, binnenste, embryo / foetus. Aan het einde van een Bahuvrīhi vaak: „binnenste”, bijv.
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "zijn binnenste is geld = waarin zich geld bevindt"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** de innerlijkste heilige ruimte van een hindoe-tempel, die het belangrijkste godenbeeld van de tempel bevat (voor de opbouw van hindoe-tempels zie: Volwahsen, A.: India : Bouwwerken van de Hindu's, Boeddhisten en Jainas. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+Afb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(Bron afbeelding: [Details](/nl/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** waterdrager = regenwolk
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+Afb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(Bron afbeelding: [Details](/nl/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** waaien
 
-davon:
+daarvan:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** wind
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** leiden, rijden (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ n.:** zonnescherm, parasol
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+Afb.: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditionele kleding is een gebruik in de zuidelijke delen van Kerala. _Onappottan_ bezoekt huizen tijdens het _onam_-feest en geeft zegeningen. In de laatste tijd is _onappottan_ een zeldzaam gezicht geworden, beperkt tot dorpen."
+(Bron afbeelding: [Details](/nl/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.:** geleerde, wijze ; 3: slim, bedreven (in)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Afb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wonen bij, bewonen (Akk., Lok.) ; bezoeken, zich begeven naar (Akk.) ; bedienen, verzorgen, vereren ; beoefenen, gebruiken ; bijwonen, geslachtsverkeer hebben
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ Voorvoegsel:** neer, naar binnen
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ :** wonen bij, bewonen, bezoeken
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** daar, in het hiernamaals
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** hier, in dit leven
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** vinden
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ v.:** te behouden = echtgenote
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 3:** lief, aangenaam
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ n. (!):** vriend
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ m.:** verwant
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ :** want, namelijk (mag nooit aan het begin van een zin staan)
 
-## 19.4. Übung
+## 19.4. Oefening
 
-**Übersetzen Sie ins Sanskrit:**
+**Vertaal naar het Sanskriet:**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint.
+1. De Vaiśya-vrouw, wiens zoon is overleden, huilt.
 
-2\. Rāma opfert der Gottheit, die ihn behütet.
+2. Rāma offerent aan de godheid, die hem beschermt.
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt.
+3. De dichter prijst de Kṣatriya, wiens rijkdom hij begeert.
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt.
+4. Het vuur verbrandt het huis van de man, die Agni niet met een offer eert.
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv).
+5. De tijgergelijke man doodt de Kṣatriya-strijders, die Rāma hebben verslagen (passief).
 
 ## 19.5. ⟪सुभाषितानि⟫
 
-**Übersetzen Sie:**
+**Vertaal:**
 
 ::: indent
-⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
-⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
+⟪येन येन च वातेन वारिदो वारि मुञ्चति । तेन तेन च वातेन छत्रं वहति पण्डितः ॥१॥⟫
 :::
-Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
+Uitleg: ⟪वारि⟫ Nom., Akk. sg. van ⟪वारि⟫ n.: water
 
 ::: indent
-⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
-⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
-⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
+⟪यो धर्ममर्थं कामं च यथाकालं निषेवते । धर्मार्थकामसंयोगं सो ऽमुत्रेह च विन्दति ॥२॥⟫
 :::
-Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
+Uitleg: ⟪यथाकालम्⟫ Avyayībhāvakompositum: op het juiste moment; altijd, wanneer daarvoor de juiste tijd aanwezig is.
 
 ::: indent
-⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
-⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
-⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
+⟪सा भार्या या प्रियं ब्रूते स पुत्रो यस्तु जीवति । स जीवति गुणो यस्य धर्मो यस्य स जीवति ॥३॥ यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः । यस्यार्थाः स पुमांल्लोके यस्यार्थाः स हि पण्डितः ॥४॥⟫
 :::
-Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
+Verklaring: ⟪पुमान्⟫ Nom. sg. van ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Lok. sg. van ⟪लोक⟫ m.: in de ...
 

@@ -448,7 +448,6 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6105))
 :::
 
-:::
 ::: media
 ![](/images/lekt6103.webp)
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
@@ -738,7 +737,6 @@ Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6101))
 :::
 
-:::
 ::: no-header
 |   |   |
 | --- | --- |

@@ -357,7 +357,6 @@ Kép: ⟪चतुर्मुखः⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt5205))
 :::
 
-:::
 ::: grammar-box
 **⟪तत्पुरुष⟫ alapértékkel az első tagban nem szabad tetszőlegesen képezni:**
 
@@ -455,77 +454,48 @@ PPP ⟪विपरीत⟫ 3: helytelen, hamis
 | **5. ablativus:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **6. birtokos eset (genitivus):br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. lokativus:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
-:::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪खिल⟫ m.: szántóföld, pusztaság
+:::
+::: media
+![](/images/lekt5210.webp)
+Ábra: ⟪खिलः⟫
+Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5210))
+:::
+⟪अन्तर्⟫ Hat.: belül, a belsejében; Poszpozíció genitívvel. lokatívussal (⟪षष्टी⟫, ⟪सप्तमी⟫): belül, közepén; Poszpozíció genitívvel. ablativussal (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ...-ból kifelé
+
+⟪अन्योन्य⟫ 3: kölcsönösen, egymásnak
+
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : kudarcot vall
+
+::: indent
+PPP ⟪विपरीत⟫ 3: fordítva, helytelenül
+:::
+⟪त्रि⟫ 3: három
+
+::: grammar-box
+| | **Nemű: br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Nemű: br⟪स्त्री⟫** |
+| :--- | :---: | :---: | :---: |
+| **1. Nominatívus:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Akkusatívus:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Instrumentálusz:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. Dativusz:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Ablativusz:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genetívusz:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokatívusz:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+:::
+⟪निस्⟫ Poszpozíció és prefixum nomina és igék esetén: kifelé, elhaladva, ki, előtörve, -ból, el-, nélkül -tól
+
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : nyomni, kínoz; szorongat, ostromol, zaklat
 
 ::: media
 ![](/images/lekt5212.webp)
 Ábra: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Képforrás: [Részletek](/hu/licenses#lekt5212))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
-
-::: indent
-davon:
-
-⟪परम्⟫ Adv.: nagy mértékben, arra, később, de, azonban
-:::
-⟪प्रति⟫ Utószó (⟪द्वितीयया⟫): - felé, után, tekintetben, szemben
-
-⟪प्रधान⟫ 3: főbb, legjobb ; n.: legfontosabb
-
-::: media
-![](/images/lekt5213.webp)
-Kép: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Képmegjelenítés: [Részletek](/hu/licenses#lekt5213))
-:::
-⟪लौल्य⟫ n.: mohóság, vágyakozás
-
-⟪वर्ग⟫ m.: fejezet, rész, csapat
-
-::: indent
-⟪त्रिवर्ग⟫ m.: hármas csoport (pl. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; vagy: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; vagy: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
-:::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : akarnak, rendelni, vágyik valamire
-
-::: indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
-Fut. ⟪वशिष्यति⟫
-Pass. ⟪उष्यते⟫
-Kaus. ⟪वाशयति⟫
-PPP ⟪उशित⟫
-Inf. ⟪वशितुम्⟫
-Absol. -⟪वश्य⟫
-:::
-⟪वा⟫ 2P ⟪वाति⟫ : fújni, foulni
-
-::: indent
-Perf IV ⟪ववौ⟫
-Fut. ⟪वास्यति⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
-
-ebből:
-
-⟪वात⟫ m.: Szél
-:::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : fordít, csavar ; hárít, kizár
-
-::: indent
-Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
-Fut. ⟪वर्जिष्यति⟫
-Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : eltávolít
-Kaus. PPP ⟪वर्जित⟫ : valamitől megfosztott, mentes
-PPP ⟪वृक्त⟫
-Inf. ⟪वर्जितुम्⟫
-:::
+⟪पर⟫ 3: (Declináció mint ⟪सर्व⟫) távoli, idegen, magasabb (⟪पञ्चम्या⟫), legfelső; másik, idegen, ellenséges; m.: idegen
 ⟪व्यवहार⟫ m.: tevékenység, életmód, kapcsolat, forgalom, ügy, kereskedelem, (bírósági) per
 
 ⟪शील⟫ n.: szokás, gyakorlat, természet, jellem, jó szokás = erkölcs
@@ -684,7 +654,6 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, kb. 1810
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt5216))
 :::
 
-:::
 ::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
@@ -763,8 +732,8 @@ Mahābhārata : India nagy eposza / Sanskritból lefordítva és összefoglalva 
 
 ::: media
 ![](/images/lekt5201.webp)
-Ábra: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
+Ábra: ⟪श्रीगुम्पिः⟫ , ⟪मम मन्त्री⟫
 (Kép: Payer)
-(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5201))
+(Képmegjegyzés: [Részletek](/hu/licenses#lekt5201))
 :::
 

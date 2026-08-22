@@ -149,4 +149,3 @@ Kaikkien velvollisuus on: väkivallattomuus, totuudenmukaisuus, puhtaus, valituk
 Kuv.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Kuv lähde: [Yksityiskohdat](/licenses#uebung028))
 :::
-:::

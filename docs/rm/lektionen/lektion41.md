@@ -25,7 +25,6 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 (Sursa d'imaggin: [Details](/rm/licenses#lekt4102))
 :::
 
-:::
 ::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
@@ -190,7 +189,6 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa da l'immaġin: [Detagls](/rm/licenses#lekt4103))
 :::
 
-:::
 ::: grammar-box
 **2b. Radichs cun -u /-ū sustitueschan il -o dal grad alt avant il -ya cun -av, il -au dal grad lung cun -āv. La furmaziun en grad lung significiescha en quest cas necessitad.**
 :::

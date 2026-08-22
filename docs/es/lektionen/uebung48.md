@@ -36,7 +36,7 @@ La brevedad es el adorno del gramático.
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung083))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Traducciones al sánscrito (Imperativo)
 
@@ -112,7 +112,7 @@ Los maridos deben mantener a sus esposas.
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung076))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## El Dharma de las mujeres (⟪स्त्रीधर्मः⟫)
 

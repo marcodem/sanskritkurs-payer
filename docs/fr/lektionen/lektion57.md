@@ -1,6 +1,6 @@
 ---
 title: "Leçon 57"
-subtitle: "Aoriste 4 : aoriste en s"
+subtitle: "Aoriste 4 : s-aoriste"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -42,64 +42,66 @@ De telles formes pourraient également appartenir à l'aorist de la racine et ap
 Les grammairiens indiens ont également compté des formes telles que :sig[⟪अकृत⟫] (3.sg.Ā) parmi le s-aoriste, qui appartiennent clairement au racine-aoriste. À cette fin, les grammairiens indiens ont inventé la règle phonétique ad hoc suivante pour le s-aoriste :
 
 ::: indent
-« Après une voyelle brève, les « désinences » commençant par -st- ou -sth- perdent le -s-. »
+« Après une voyelle brève, les terminaisons commençant par -st- ou -sth- perdent le -s-. »
 :::
 Par ailleurs, les règles phonétiques concernant la liaison des consonnes finales avec s- doivent être respectées.
 
-Pour -dhvam :
+Pour -dhvam, la règle suivante s'applique :
 
 ::: grammar-box
-**Le -dh- de -dhvam est remplacé par -ḍh- après toutes les voyelles autres que a/ā, ainsi qu’après -r.**
+**Le -dh- de -dhvam est remplacé par -ḍh- après toutes les voyelles autres que a/ā, ainsi qu'après -r.**
 
 :::
 ::: indent
-par ex. **:sig[⟪चि⟫]** 5U : 2.pl.Ā **:sig[⟪अचेढ्वम्⟫]**
+ex. :sig[⟪चि⟫] 5U : 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
-**Form de la racine :**
+**Forme de la racine :**
 
 *   **⟪परस्मैपद⟫ : degré allongé**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Forme de la racine :**
-    *   **Racines se terminant par i/ī/u/ū : degré fort**
-    *   **-ṝ final est remplacé par -īr ou -ūr**
-    *   **Racines à ablaut en ā/e/o : degré faible**
+*   **Racines se terminant par i/ī/u/ū : degré fort**
+*   **-ṝ final est remplacé par -īr ou -ūr**
+*   **Racines à ablaut se terminant par ā/e/o : degré faible**
+*   **Autres voyelles raciniques : inchangées (c.-à-d. généralement au degré faible)**
 :::
 Exemples :
 
 |   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
 | ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
 | ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
 
-|   | --- |
+|   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
-|   | --- |
-| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **sg.Ā** |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
+|   | **1.sg.Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ et ⟪सृज्⟫ ont au ⟪परस्मैपद⟫ un degré allongé avec un diphtongue montant -rā- :**
+**⟪दृश्⟫ et ⟪सृज्⟫ ont au ⟪परस्मैपद⟫ le degré allongé avec le diphtongue croissant -rā- :**
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
+⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+L'aoriste d'autres racines avec -ṛ- à l'avant-dernière position peut également se former ainsi :
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
 Paradigmes :
+
+⟪नी⟫ 1U « conduire »
 
 ⟪नी⟫ 1U « mener »
 
@@ -239,4 +241,3 @@ B) Traduisez et identifiez les formes suivantes :
 54.  ⟪आदि्षि⟫
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
-

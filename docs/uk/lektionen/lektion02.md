@@ -5,7 +5,7 @@ lesson_id: 2
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
---- &lt;!--  -→
+---
 
 # Урок 2
 
@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 Див. також огляд:
 
-> **Payer, Alois (1944–):** Сандхі кінцівки -s. -- (Матеріали з санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm &lt;!--  -→
+> **Payer, Alois (1944–):** Сандхі кінцівки -s. -- (Матеріали з санскриту). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm \<!--  -→
 
 Остале **-s**:
 

@@ -147,5 +147,4 @@ Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
 :::
 
-:::
 

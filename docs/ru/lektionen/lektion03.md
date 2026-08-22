@@ -120,7 +120,7 @@ devī + umā » devy umā "Ума — это / богиня" = ⟪देव्�
 ## 3.5. Словесный сандхи -ās
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
+**-ās заменяется на -ā перед всеми звонкими звуками.**
 :::
 например
 

@@ -205,7 +205,6 @@ Kuv.: ⟪हस्तवान्⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3807))
 :::
 
-:::
 ::: grammar-box
 Adjektiivit, jotka päättyvät **-⟪इन्⟫**, muodostetaan mielellään yhdyssanoiksi.
 :::
@@ -402,7 +401,6 @@ Kuv.: ⟪अशोकवृक्षः⟫
 (Kuvan lähde: [Tiedot](/fi/licenses#lekt3810))
 :::
 
-:::
 ::: media
 ![](/images/lekt3811.webp)
 Kuva: ⟪अशोकसाम्राज्यम्⟫

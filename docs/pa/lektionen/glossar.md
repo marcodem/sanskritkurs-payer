@@ -178,7 +178,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | ਇੱਕ ਥਾਂ | [51](/pa/lektionen/lektion51#_51-6-) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ਪਿਛਲੇ ਸ਼ਬਦ ਨੂੰ ਜੋਰ ਦੇਣ ਵਾਲਾ | [13](/pa/lektionen/lektion13#_13-9--) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ਪਹਿਲਾਂ ਦਾ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ, ਜਰਮਨ ਵਿੱਚ ਅਕਸਰ ਜ਼ੋਰ ਦੇਣ ਦਾ ਹਿੱਸਾ, ਇੱਕ ਤਰ੍ਹਾਂ ਦਾ ਈਮੋਟੀਕਨ \&lt;!\&gt;, ਉਦਾਹਰਣ "ਸੱਚ ਹੀ ਜਿੱਤਦਾ ਹੈ", | [15](/pa/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ਪਹਿਲਾਂ ਦਾ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ, ਜਰਮਨ ਵਿੱਚ ਅਕਸਰ ਜ਼ੋਰ ਦੇਣ ਦਾ ਹਿੱਸਾ, ਇੱਕ ਤਰ੍ਹਾਂ ਦਾ ਈਮੋਟੀਕਨ \<!\>, ਉਦਾਹਰਣ "ਸੱਚ ਹੀ ਜਿੱਤਦਾ ਹੈ", | [15](/pa/lektionen/lektion15#_15-8-) |
 | ⟪एवम्⟫ | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=evam&filter=roman&accent=no&transLit=roman) | — | ਇਸ ਤਰ੍ਹਾਂ (ਕਿਰਿਆਵਾਚੀ, ਉਦਾ. evaṃ jayati "ਇਸ ਤਰ੍ਹਾਂ ਉਹ ਜਿੱਤਦਾ ਹੈ")। | [11](/pa/lektionen/lektion11#_11-2--) |
 
 ## ओ

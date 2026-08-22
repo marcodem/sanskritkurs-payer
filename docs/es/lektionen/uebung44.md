@@ -102,7 +102,7 @@ Has llorado a los no dignos de llanto y querías pronunciar palabras de sabidur�
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung072))
 :::
---- &lt;!--  --&gt;
+--- \<!--  --\>
 
 ## Otras determinaciones de forma
 
@@ -156,5 +156,5 @@ Determine las siguientes formas de palabra:
 Fig.: ⟪वदिता⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung073))
 ::::
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

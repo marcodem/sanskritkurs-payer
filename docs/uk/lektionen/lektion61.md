@@ -4,7 +4,7 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- &lt;!--  -→
+---
 
 # Урок 61
 
@@ -34,7 +34,7 @@ status: stable
 ### 61.1.2. Жіночі кореневі іменники на -ī
 
 ::: grammar-box
-**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.** &lt;!--  -→
+**Vor vokalischer Закінчення wird -ī durch -iy ersetzt.** \<!--  -→
 
 **Окрім утворень із регулярними відмінковими закінченнями, у Дав.Від.Род.Міс.одн. та Род.множ. трапляються також утворення за зразком багатоскладних жіночих іменників на -ī (⟪देवी⟫).**
 :::
@@ -114,7 +114,7 @@ status: stable
 
 **Deklination analog zu den femininen Коріньnomina auf -ī**
 :::
-Парадигма: &lt;!--  -→
+Парадигма: \<!--  -→
 
 ⟪भू⟫ f. "Земля"
 
@@ -201,7 +201,7 @@ status: stable
 ::: grammar-box
 **Форма кореня: Корінь зазвичай має ту саму форму, що й у простому майбутньому часі. Те саме стосується сполучного голосного -i-.**
 :::
-Приклади: &lt;!--  -→
+Приклади: \<!--  -→
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ тощо |
 | --- | --- |
@@ -288,7 +288,7 @@ status: stable
 Правила докладно у Кільгорна, Граматика § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Приклади: &lt;!--  -→
+Приклади: \<!--  -→
 
 | ⟪दा⟫ 3-я особа | ⟪देदीय⟫- |
 | --- | --- |

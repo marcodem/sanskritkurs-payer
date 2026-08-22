@@ -25,7 +25,7 @@ As die agens (**kartṛ** m. = ⟪कर्तृ⟫) in 'n werkwoordelike sin g
 'n Finiete werkwoordvorm, d.w.s. 'n werkwoordvorm met 'n persoonsuitgang, druk in Sanskrit die volgende uit:
 
 1. **Betekenis** (**artha** m. ⟪अर्थ⟫)
-2. **Persoon** en **Numerus** (Getal, **vacana** n. = ⟪वचन⟫) (ek, jy, hy &lt;sy, dit&gt;, ons twee, julle twee, hulle twee, ons, julle, hulle)
+2. **Persoon** en **Numerus** (Getal, **vacana** n. = ⟪वचन⟫) (ek, jy, hy \<sy, dit\>, ons twee, julle twee, hulle twee, ons, julle, hulle)
 3. Handelingswyse (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Woordvorm met betrekking tot 'n ander"): Aktief. bv. **yajati** = ⟪यजति⟫ = "Hy aanbid met 'n offer" (naamlik die priester wat die offer vir iemand anders voltrek)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Woordvorm met betrekking tot homself"): Medium. bv. **yajate** = ⟪यजते⟫ = "Hy aanbid met 'n offer in sy eie belang" (naamlik die heer van die offer, wat vir homself en sy familie offer)

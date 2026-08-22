@@ -559,7 +559,7 @@ Haftanın sözü
 
 ## [Ders 43](lektion43)
 
-*   1\. İkinci şahıs kişi ekleri (⟪मध्यमः⟩ = "orta \&lt;kişi\&gt;")
+*   1\. İkinci şahıs kişi ekleri (⟪मध्यमः⟩ = "orta \<kişi\>")
 *   2\. İkinci şahıs (⟪मध्यमः⟩) fiil formlarının oluşturulması
 *   2.1. Temalı kökler
 *   2.1.1. Birinci Şimdiki Zaman Sınıfı (⟪भ्वादि⟩)

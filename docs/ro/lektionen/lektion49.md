@@ -372,5 +372,4 @@ Papagal cu cap de prună = Psittacula cyanocephala
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4908))
 :::
 
-:::
 

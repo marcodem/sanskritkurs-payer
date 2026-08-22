@@ -1,7 +1,7 @@
-
 ---
-title: Lektion 18
+title: "Les 18"
 lesson_id: 18
+
 ---
 
 # Les 18
@@ -9,321 +9,295 @@ lesson_id: 18
 ## 18.1. ⟪सुभाषितम्⟫
 
 ::: indent
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. Determinatieve composita (⟪तत्पुरुष⟫) met adverbiaal voorlid
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können
+Als adverbiaal (niet-declinabel) voorlid kunnen
 
-*   Adverbien
-*   Präpositionen
-*   Partikel
-*   andere Indeklinabilia
+*   bijwoorden
+*   voorzetsels
+*   partikels
+*   andere indeclinabilia
 
 ::: indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann.
+gebruikt worden. Zulke Tatpuruṣa behoren meestal tot de klasse van de Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compositum"), d.w.z. de composita die men helemaal niet of niet alleen door middel van de in het compositum zelf voorkomende woorden kan ontleden.
 :::
-Beispiele:
+Voorbeelden:
 
-⟪अति⟫ "darüber hinaus":
+⟪अति⟫ "daarbovenuit":
 
 ::: indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig
+⟪अतिगुरु⟫ 3: uiterst zwaar, uiterst gewichtig
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held
+⟪अतिपुरुष⟫ m.: uitmuntende man, Superman, held
 
-⟪अतिस्तुति⟫ f.: übermässiges Lob
+⟪अतिस्तुति⟫ f.: overmatige lof
 
-⟪अत्युक्ति⟫ f.: übermässiges Sprechen, Übertreibung
+⟪अत्युक्ति⟫ f.: overmatig spreken, overdrijving
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-.
+De belangrijkste adverbiale voorleden zijn a-/an-, su-, dus-.
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht".
+⟪अ⟫ (vóór medeklinker), ⟪अन्⟫ (vóór klinker): un-: staat in het compositum in plaats van ⟪न⟫ "niet".
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): onwaarheid, leugen
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan
+⟪अकृत⟫ 3 = ⟪न कृत⟫ 3: niet gedaan, ongedaan
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin
+⟪अब्राह्मणी⟫ f. = ⟪न ब्राह्मणी⟫ : een niet-brahmane, onbrahmane
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न देवः⟫ : een niet-god, ongod
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "wel, goed"; wordt bij het ontleden van het compositum door de commentatoren vervangen door een adjectief met de betekenis "goed" (bijv. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪सुकवि⟫ m.: ein guter Dichter
+⟪सुकवि⟫ m.: een goede dichter
 
-⟪सुकृत⟫ n.: gute Tat
+⟪सुकृत⟫ n.: goede daad
+⟪सुखादित⟫ 3: goed gekauwd
 
-⟪सुखादित⟫ 3: gut gekaut
-
-⟪सुदुःख⟫ n.: grosses Leid
+⟪सुदुःख⟫ zn.: groot leed
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
+⟪दुस्⟫ "slecht, slecht" (let op de sandhi!).
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen
+⟪दुर्नय⟫ m.: slecht leiderschap, slecht gedrag
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat
+⟪दुष्करण⟫ n.: slechte daad, moeilijke daad
 :::
-Dabei gilt folgendes Gesetz:
+Hierbij geldt de volgende regel:
 
 ::: grammar-box
 
-Lautveränderung von -s in Komposita
+Klankverandering van -s in samengestelde woorden
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
+In tegenstelling tot de zinssandhi geldt in de uitklank van het eerste deel van samengestelde woorden:
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+\-s na -i- of -u- voor een stemloze guturaal of labiaal » -ṣ
 
-Deshalb: ⟪दुष्करण⟫
+Daarom: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Samengestelde woorden van het type ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit:
+Samengestelde woorden van het type ⟪सुकर⟫ / ⟪दुष्कर⟫ hebben voornamelijk de betekenis van passieve mogelijkheid:
 
-Beispiele:
+Voorbeelden:
 
 :::
 ::: indent
-⟪सुकर⟫ 3: leicht zu tun
+⟪सुकर⟫ 3: gemakkelijk te doen
 
-⟪सुगम⟫ 3: leicht zu gehen
+⟪सुगम⟫ 3: gemakkelijk te lopen
 
-⟪दुर्गम⟫ 3: schwer zu gehen
+⟪दुर्गम⟫ 3: moeilijk te lopen
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen
+⟪सुदुर्गम⟫ 3: heel moeilijk te lopen
 :::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Betekenissen van nañ-Tatpuruṣa (a- / an-)
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+Tatpuruṣa met a- / an- kunnen de volgende betekenissen hebben:
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):  
-::: indent
-⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein
-:::
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):  
-::: indent
-⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen)
-:::
-3.  Andersheit (⟪तदन्यत्वम्⟫):  
-::: indent
-⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist
-:::
-4.  Kleinheit (⟪तदल्पता⟫):  
-::: indent
-⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch)
-:::
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):  
-::: indent
-⟪अकालः⟫ = Unzeit
-:::
-6.  Feindschaft (⟪निरोधः⟫):  
-::: indent
-⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura)
-:::
+1.  Gelijkenis (⟪तत्सादृश्यम्⟫):  
+    ⟪अब्राह्मणः⟫ = een Kṣatriya of Vaiśya die het heilige koord (⟪यज्ञोपवीत⟫ n.) draagt en daardoor op een brahmaan lijkt, zonder er een te zijn
+2.  Gebrek, afwezigheid (⟪तदभावः⟫):  
+    ⟪अज्ञानम्⟫ = onwetendheid (gebrek aan kennis)
+3.  Andersheid (⟪तदन्यत्वम्⟫):  
+    ⟪अपटम्⟫ = iets dat geen stof / gewaad (⟪पट⟫ m: weefsel, gewaad) is
+4.  Kleinheid (⟪तदल्पता⟫):  
+    ⟪अनुदरम्⟫ = een kleine buik (een niet-buik)
+5.  Afkeuring (⟪अप्राशास्त्यम्⟫):  
+    ⟪अकालः⟫ = ongelegen moment
+6.  Vijandschap (⟪निरोधः⟫):  
+    ⟪असुरः⟫ = tegen-god (volgens de verkeerde etymologie a-sura)
 
-Folgender Vers fasst diese Bedeutungen zusammen:
+De volgende vers vat deze betekenissen samen:
 
 ::: indent
-⟪तत्सादृश्यमभावश्च⟫  
-⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
-⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
+⟪तत्सादृश्यमभावश्च तदन्यत्वं तदल्पता । अप्राशास्त्यं निरोधश्च नजर्थाः षट्प्रकीर्तिताः ॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) ....
+Men kent zes betekenissen van nañ (= a-/an-) ....
 :::
-## 18.3. Verbalkomposita
+## 18.3. Werkwoordelijke samenstellingen
 
 ::: indent
-⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
-⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
-⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
+⟪उपसर्गेण धात्वर्थो बलादन्यत्र नीयते । गङ्गासलिलमाधुर्यं सागरेण यथाम्भसा ॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2, regel 14v.
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süsse des Gangeswassers durch Meerwasser.
+Door een voorvoegsel wordt de betekenis van een wortel gewelddadig veranderd, zoals het zoete water van de Ganges door zeewater.
 
 ::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden.
+Werkwoorden kunnen in het Sanskriet met voorvoegsels (⟪उपसर्ग⟫ m.) worden verbonden. Hierbij geldt meestal de zinsandhi. Voorvoegsels kunnen de betekenis van de wortel onder omstandigheden aanzienlijk modificeren, zodat in veel gevallen de betekenis van een wortel met voorvoegsel afzonderlijk moet worden geleerd. Werkwoorden met voorvoegsel kunnen een andere modus (P, Ā) hebben dan de eenvoudige wortel. Voor een wortel kunnen tegelijkertijd meerdere voorvoegsels worden geplaatst.
 
 :::
-Einige wichtige Präverbe sind:
+Enkele belangrijke voorvoegsels zijn:
 
-⟪उप⟫ "zu, hin, gegen"
+⟪उप⟫ "naar, toe, tegen"
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : gaan, zich erop toeleggen
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : wijzen, onderwijzen, adviseren
 
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : bereiken
 
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis)
+*   PPP ⟪उपपन्न⟫ 3: uitgerust met (instrumentalis)
 
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen
+⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : vatten, bereiken
 :::
-⟪प्र⟫ "vorwärts, hervor"
+⟪प्र⟫ "vooruit, voort"
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : bereiken
 
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : tonen
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : ontwaken, erkennen
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : tevoorschijn komen, uitsteken, macht hebben over (gen., lok. dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : verklaren, meedelen, uitspreken
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : uitspreken, aanduiden als, verklaren voor
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : vooraf prijzen, luid prijzen, over iets ter sprake komen, beginnen
 :::
-⟪वि⟫ "auseinander, weg, zer-, ver-"
+⟪वि⟫ "uiteen, weg, uiteen-, ver-"
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : uiteengaan, vergaan, verdwijnen
 
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : verslaan
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : losmaken, bevrijden
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen
+⟪विवद्⟫ 1 ⟪विवदति⟫ : disputeren, uiteenzetten, vertellen
 
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergeten
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : kapotslaan, vernietigen, verdelgen
 :::
-⟪सम्⟫ "zusammen, mit"
+⟪सम्⟫ "samen, met"
 
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : samenzitten, zich ophouden, wonen
 
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen
+⟪समि⟫ 2 ⟪समेति⟫ : samenkomen, zich verenigen
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : samenkomen, op elkaar botsen (vriendelijk of vijandig), geslachtsgemeenschap hebben met (acc.)
 
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : ontstaan
 
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden
+*   PPP ⟪संजात⟫ 3: geboren, ontstaan, geworden
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : volledig ontwaken (tot de waarheid)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : iemand ten deel vallen, lukken
 
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.)
+*   PPP ⟪सम्पन्न⟫ 3: voorzien van (instr.)
 :::
 ::: grammar-box
 
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫
+De wortel ⟪कृ⟫ "doen" vertoont in verbinding met de preverbale elementen ⟪सम् । उप । अप । परि⟫ ook de vorm ⟪स्कृ⟫
 
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen
+sam-kṛ 8 ⟪संस्करोति⟫ : bereiden, voor het offer bereiden, wijden
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind)
+*   PPP ⟪संस्कृत⟫ 3: voor het offer bereid ; ⟪संस्कृत⟫ o.: Sanskriet: de voor het offer geschikte taal ; tegenhanger ⟪प्राकृत⟫ 3: gewoon, ordinair ; ⟪प्राकृत⟫ o.: gewone taal, Prakrit (benaming voor de volks- en omgangstalen die met het Sanskriet verwant zijn)
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+### 18.3.1. Nominale vormingen bij verbale composieten
 
 ::: grammar-box
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden.
+Van wortels met preverbia kunnen met behulp van kṛt-suffixen nomina gevormd worden.
 
 :::
-Beispiele:
+Voorbeelden:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: wijding, bereiding ; overgangsrituelen = benaming voor de ceremonies die de verschillende levensfasen van de conceptie tot de dood begeleiden (zie daarvoor de uitstekende samenvatting bij Basham, Wonder p. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804))
+Afb.: ⟪विवाहः⟫
+Huwelijk = ⟪विवाह⟫ m., een belangrijke ⟪संस्कारः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ o.: het dichterbij brengen (bij het offervuur) = ceremonie waarbij aan de mannelijke leden van de drie hogere standen het heilige koord (⟪यज्ञोपवीत⟫ o.) wordt aangelegd en tevens het heilige vers ⟪सावित्री⟫ in het oor wordt gefluisterd, dat zij voortaan dagelijks bij zonsopgang en zonsondergang reciteren. Voor de brahmanen is dit Ṛgveda III.62.10:
 
 ::: indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge."
+"Mogen wij de voortreffelijke glans van de god 'Aandrijver' ontvangen, die onze gedachten in beweging moge zetten."
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Door het Upanayana vindt de tweede geboorte plaats, daarom: ⟪द्विज । द्विजाति⟫
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801))
+Afb.: ⟪उपनयनम्⟫
+"Een jonge jongen is te zien tijdens het upanayana-ritueel. De vergeelde, dunne draad die van de linkerschouder naar de taille loopt, is de yagnopavita. Let ook op de gordel van munjagras rond de taille. Het takje in de rechterhand (meestal van de peepalboom) symboliseert zijn intrede in het brahmacharya-stadium."
+(Afbeeldingsbron: [Details](/nl/licenses#lekt1801))
 :::
-## 18.4. Wortliste
+## 18.4. Woordenlijst
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
+⟪सुष्टु⟫ 3: geprezen, uitmuntend, goed
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
+⟪शोभन⟫ 3: schitterend, prachtig, heerlijk, mooi, goed
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
+⟪सम⟫ 3: gelijk, even, vergelijkbaar (met instrumentalis)
 
-⟪व्याधि⟫ m.: Krankheit
+⟪व्याधि⟫ m.: ziekte
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , bedrieger
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: kennis
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪शूर⟫ 3: dapper, heldhaftig ; m.: held
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शब्द⟫ m.: geluid, toon, signaalgeluid: woord
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪उदक⟫ n.: water
 
-⟪उदक⟫ n.: Wasser
+⟪अन्त⟫ m.: einde, grens
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪आदि⟫ m.: begin
 
-⟪आदि⟫ m.: Anfang
+⟪दण्ड⟫ m.: stok, gesel, straf
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.: maat, begrenzing
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪सहित⟫ 3: verenigd, voorzien van
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪हस्त⟫ m.: hand
 
-⟪हस्त⟫ m.: Hand
+⟪प्रभृति⟫ f.: begin
 
-⟪प्रभृति⟫ f.: Anfang
+## 18.5. Oefening
 
-## 18.5. Übung
+A) Vertaal het ⟪सुभाषित⟫ aan het begin van de les.
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+B) Vertaal de volgende Tatpuruṣa:
 
-B) Übersetzen Sie folgende Tatpuruṣa:
-
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫
-
-⟪२⟫. ⟪सुकुल⟫ n.
+⟪१⟫. ⟪सुकर ३ २⟫. ⟪सुकुल⟫ n.
 
 ⟪३⟫. ⟪सुकृती⟫ f.
 
@@ -383,11 +357,11 @@ B) Übersetzen Sie folgende Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Wiederholungsübung
+## 18.6. Herhalingsopgave
 
-Bitte keine Hilfsmittel benutzen!
+Geen hulpmiddelen gebruiken!
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Ontbind de volgende samenstellingen in het Sanskriet en geef vertaalvoorstellen:
 
 ⟪१⟫. ⟪अन्तगत⟫ 3
 
@@ -401,41 +375,40 @@ A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvors
 
 ⟪६⟫. ⟪अरिसिंह⟫ m.
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n.
+⟪७⟫. ⟪आहारनिद्राभय⟫ o.
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f.
+⟪८⟫. ⟪मृतिसाधनी⟫ v.
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
 ::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Bildquelle: [Details](/licenses#lekt1802))
+Afb.: ⟪मृतिसाधनी काली⟫
+1770 Prent
+(Afbeeldingsbron: [Details](/nl/licenses#lekt1802))
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Vertaal met behulp van werkwoorden van de 2e presensklasse:
 
-1\. Der Brahmane preist die Göttinnen.
+1\. De brahmaan prijst de godinnen.
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
+2\. De helden gaan over de moeilijk begaanbare weg naar het dorp van de Ariërs.
 
-3\. Die Hausmagd melkt die Kühe.
+3\. De huismeid melkt de koeien.
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
+4\. De vijanden van de Ariërs doodslaan de machtige Kṣatriyas.
 
-5\. Ein Gespenst isst keine Früchte.
+5\. Een spook eet geen vruchten.
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
+6\. Zo spreekt hij die [de weg door de wedergeboorten] goed gegaan is tot de leerling.
 
 ::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803))
+Afb.: ⟪सुगतः गन्धार⟫ 1./2e eeuw n. Chr.
+(Afbeeldingsbron: [Details](/nl/licenses#lekt1803))
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+C) Geef in het Sanskriet de definitie van yoga op twee manieren: eenmaal met behulp van een samenstelling, eenmaal door de samenstelling te ontleden.
 
-D) Übersetzen Sie:
+D) Vertaal:
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
 

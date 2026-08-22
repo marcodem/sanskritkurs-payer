@@ -30,7 +30,7 @@ A) Спробуйте визначити можливі значення нас�
 
 10\. tantraka ⟪तन्त्रक⟫ : 3 (щойно) від тканинної ланцюга / верстата, що походить = нової тканини
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : танцівник &lt;!--  -→
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : танцівник \<!--  -→
 
 12\. naraka ⟪नरक⟫ : m. пекло
 
@@ -72,7 +72,7 @@ pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रति�
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "всіх істот") &lt;!--  -→
+(sarvabhūtānām = Genetiv (Wesfall): "всіх істот") \<!--  -→
 
 (Gautamadharmasūtra X,7)
 
@@ -95,7 +95,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 Пояснення:
 dvijātīnām = Genetiv (Wesfall) Plural до dvijāti (перекладіть тут: "порівняно з двічінародженими")
 
-kārukuśīlavakarma є Tatpuruṣa з Dvandva (kārukuśīlava) у передній частині. karma = Nom. sg. до karman n. "дія, діяльність, карма" до кореня kṛ 8 U). Перекладіть "дія / діяльність ... (Genetiv)" (позначені Dvandva). &lt;!--  -→
+kārukuśīlavakarma є Tatpuruṣa з Dvandva (kārukuśīlava) у передній частині. karma = Nom. sg. до karman n. "дія, діяльність, карма" до кореня kṛ 8 U). Перекладіть "дія / діяльність ... (Genetiv)" (позначені Dvandva). \<!--  -→
 
 Послух порівняно з двічінародженими, діяльність для засобів існування, діяльність як ремісник або мандрівний шоумен.
 

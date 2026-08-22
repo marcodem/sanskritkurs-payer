@@ -14,21 +14,22 @@ hero:
       link: /rm/grammatik
 
 features:
-  - title: "Devanāgarī ready"
-    details: "Perfecziunada tipografia integrata per scripts indians."
-  - title: "Facilità da tschertgar"
-    details: "Ina tschertga locala profunda en tut il text metta la savida a disposiziun cun in clic."
-  - title: "Architectura moderna"
-    details: "Construí sin la basa da VitePress per ina maximala sveltezza."
+  - title: "Global e poliglott"
+    details: "Completamain disponibel en 20+ linguas tras ina cascada da traducziun automatisa cun intgins pass d'intelligenza artificiala."
+  - title: "PWA offline-first"
+    details: "L'entir curs (incl. la motga da tschertga locala) po vegnir duvrà sin tut ils apparats senza ina connexiun activa a l'internet."
+  - title: "Tipografia scientifica"
+    details: "Support nativ per Devanāgarī e transliteraziun IAST cun in allineament textual academic exact."
 
 ---
 
 ::: note-box
-Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundierter Lehrgang zum Erlernen der Sanskrit-Sprache und Devanāgarī-Schrift. Diese digitale Ausgabe stellt den gesamten Kurs in einer modernen, mehrsprachigen und durchsuchbaren Leseumgebung bereit.
+Il **curs da sanscrit** d'Alois Payer è in curs cumplet, fundà scientificamain per l'aprendiment da la lingua sanscrita e da la scrittira Devanāgarī. Questa ediziun digitala metta a disposiziun l'entir curs en in ambient da lectura modern, multilingu e tschertgabel.
 
-Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
-- **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
-- **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
-- **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+Las linguas èn vegnidas traduidas cumplettamain automaticamain dal tudestg cun agid d'ina cascada da IA multistadiala. Remartgas davant erurs da traducziun èn bainvegnidas.
+
+**Contact & participaziun**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
+**GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
+**Editurs**: Editur en linea disponibel per auturs ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativ: Editur Markdown standalone [Zentauri](https://github.com/marcodem/zentauri)
+**Versiun actuala**: v1.7.0
 :::

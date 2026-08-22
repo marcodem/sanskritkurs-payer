@@ -144,5 +144,5 @@ Para liberarlos del mal, Buda hace que personas nobles comprendan las verdades n
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung045))
-::: &lt;!--  --&gt;
+::: \<!--  --\>
 :::

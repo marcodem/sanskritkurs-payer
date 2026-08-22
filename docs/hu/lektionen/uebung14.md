@@ -183,4 +183,3 @@ Kinek ételét áldozta ez a védikus bölcs?
 Kép: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Képmegjelölés: [Részletek](/licenses#uebung017))
 :::
-:::

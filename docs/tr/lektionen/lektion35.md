@@ -129,7 +129,7 @@ Aşağıdaki köklerden ve diğerlerinden oluşturulur:
 | ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | :sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Aorist Tip Vb: zayıf kök büzülmesi (e-tipi)
@@ -163,7 +163,6 @@ Orta -a- içeren diğer tüm kökler tarafından oluşturulur, yani orta kısım
 * h ile başlayanlar
 
 | eğer Aorist Tip Va'ya ait değillerse.
-:::
 | Örnek:
 
 | | Kök | 3. sg. Aorist P. | 3. pl. Aorist P. | 3. sg. Aorist Ā. | 3. pl. Aorist Ā. |
