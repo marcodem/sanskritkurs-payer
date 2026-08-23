@@ -258,6 +258,11 @@ export default defineConfig({
     }
     copyMdFiles(siteConfig.srcDir, siteConfig.outDir)
 
-
+    // Force copy qa_viewer.html to output dir
+    const qaHtmlSrc = path.join(siteConfig.srcDir, 'public', 'qa_viewer.html')
+    const qaHtmlDest = path.join(siteConfig.outDir, 'qa_viewer.html')
+    if (fs.existsSync(qaHtmlSrc)) {
+      fs.copyFileSync(qaHtmlSrc, qaHtmlDest)
+    }
   }
 })
