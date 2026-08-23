@@ -1,11 +1,11 @@
-
 ---
-title: Lektion 48
+title: "Les 48"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 48
@@ -13,53 +13,41 @@ status: stable
 ## 48.1. ⟪सुभाषितानि⟫
 
 ::: center
-⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
-
-⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
-
-⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫
-
-⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫
-
-⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫
-
-⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
-
-⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
+⟪सत्यम् वद ॥१॥ धर्मं चर ॥२॥ मातृदेवो भव ॥३॥ गौरवं प्राप्यते दानात् ॥४॥ श्वः कार्यमद्य कुर्वीत ॥५॥ विद्याविहीनः पशुः ॥६॥ लाघवं वैयाकरणस्य भूषणम् ॥७॥⟫
 :::
-## 48.2. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
+## 48.2. Vorming van de imperatief (⟪लोट्⟫) van athematische presensstammen
 
-### 48.2.1. Endungen des Imperativ an athematischen Präsensstämmen
+### 48.2.1. Uitgangen van de imperatief bij athematische presensstammen
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
+| **1. persoon** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. persoon** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. persoon** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.kl.: -atu** :br(uit -\*ntu) | \-atām:br(uit: -\*ntām) |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm.
+Opmerking: ¹ De uitgangen van de 2. en 3.sg.P kunnen door -tāt vervangen worden wanneer een zegenwens uitgedrukt dient te worden. -tāt wordt (ook in de 3.sg.P) aan de zwakke stam toegevoegd.
 
 ::: grammar-box
-| **Zur Form der Endung der 2.sg.Imperativ.P:** ||
+| **Over de vorm van de uitgang van de 2.sg.Imperatief.P:** ||
 | :---: | :--- |
-| **\-ø** | Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
-| **\-āna** | Wurzeln der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Endung \-āna |
-| **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: ⟪जुहुधि⟫ zu **⟪हु⟫ 3**) |
-| **\-dhi** | Alle übrigen Fälle |
+| **\-ø** | Wortels van de 5e en 8e klasse, waarbij aan de slot-\-u slechts één medeklinker voorafgaat. |
+| **\-āna** | Wortels van de 9e klasse, die op een medeklinker eindigen, substitueren voor \-nī+uitgang \-āna |
+| **\-hi** | alle overige presensstammen, die op een klinker of halfklinker eindigen (uitzondering: ⟪जुहुधि⟫ bij **⟪हु⟫ 3**) |
+| **\-dhi** | Alle overige gevallen |
 :::
-### 48.2.2. Form des Präsensstamms
+### 48.2.2. Vorm van de presensstam
 
 ::: grammar-box
-**Starker Stamm:**
+**Sterke stam:**
 
-*   **alle 1. Personen des Imperativ**
-*   **3.sg.P Imperativ**
+*   **alle 1e persoon van de imperatief**
+*   **3.ev. Imperativ**
 
-**Schwacher Stamm: alle übrigen Formen**
+**Zwakkere stam: alle overige vormen**
 :::
-### 48.2.3. Zweite Präsensklasse (⟪अदादि⟫)
+### 48.2.3. Tweede presentisklasse (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -67,9 +55,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
 
@@ -77,9 +65,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
@@ -87,9 +75,9 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
 ⟪इ⟫ 2P
 
@@ -97,19 +85,19 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
-⟪शी⟫ 2Ā (immer hochstufig!)
+⟪शी⟫ 2Ā (altijd hooggetoond!)
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | :sig[⟪शेरताम्⟫] |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | :sig[⟪शेरताम्⟫] |
 :::
 ⟪हन्⟫ 2P
 
@@ -117,11 +105,11 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(uit: \*hn-ta) |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
-Anm.: ¹ Erklärung von ⟪जहि⟫ siehe Thumb-Hauschild I,2 S. 253
+Avm.: ¹ Verklaring van ⟪जहि⟫ zie Thumb-Hauschild I,2 blz. 253
 :::
 ⟪स्तु⟫ 2U
 
@@ -129,9 +117,9 @@ Anm.: ¹ Erklärung von ⟪जहि⟫ siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br :sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br :sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br :sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br :sig[⟪स्तुवीध्वम्⟫] |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br :sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br :sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br :sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br :sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br :sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br :sig[⟪स्तुवीध्वम्⟫] |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br :sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br :sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
 ⟪अस्⟫ 2P
 
@@ -139,9 +127,9 @@ Anm.: ¹ Erklärung von ⟪जहि⟫ siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | :sig[⟪एधि⟫] :br(uit: \*s-dhi) | ⟪स्त⟫ |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
@@ -149,14 +137,14 @@ Anm.: ¹ Erklärung von ⟪जहि⟫ siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
+| **1e persoon** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2e persoon** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(uit: śās + dhi):bronregelmat. hooggetoond | ⟪शिष्ट⟫ |
+| **3e persoon** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :bronregelmat. hooggetoond |
 :::
-### 48.2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
+### 48.2.4. Der derde praesensklasse (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
-**Die 3.pl.P endet auf \-atu !**
+**De 3. mv.P eindigt op \-atu !**
 :::
 ⟪हु⟫ 3P
 
@@ -164,11 +152,11 @@ Anm.: ¹ Erklärung von ⟪जहि⟫ siehe Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:bronregelmatig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
-Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit ⟪ह्⟫ aufeinanderfolgen.
+Opmerking: ¹ Dissimilatie, zodat niet twee lettergrepen met ⟪ह्⟫ op elkaar volgen.
 :::
 ⟪धा⟫ 3U
 
@@ -176,11 +164,11 @@ Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit ⟪ह्⟫ aufeinanderfol
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-Anm.: ¹ ⟪धेहि⟫ aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
+Opmerking: ¹ ⟪धेहि⟫ uit \*dhazdhi: wegvallen van de indogermaanse sibilant z onder vervangingsverlenging; zie Thumb-Hauschild I,1 blz. 302
 :::
 ⟪हा⟫ 3P
 
@@ -188,95 +176,95 @@ Anm.: ¹ ⟪धेहि⟫ aus \*dhazdhi: Wegfall des indogermanischen Zischlau
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **Tweede persoon** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :bronreg. sterk. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
+## 48.3. Over naamwoordvorming: ⟪तद्धित⟫-suffixen -a en -ya
 
 ::: grammar-box
-Mit dem Suffix **-a** und (seltener) **-ya** kann aus einem Nomen ein anderes Nomen abgeleitet werden. Dabei erhält die erste Silbe des ursprünglichen Nomens Dehnstufe (⟪वृद्धि⟫). Endet der ursprüngliche Wortstamm bereits auf **-a** so ist die ⟪वृद्धि⟫ das einzige Zeichen der Ableitung, da sich am Stammauslaut nichts ändert.
+Met het suffix **-a** en (minder vaak) **-ya** kan uit een zelfstandig naamwoord een ander zelfstandig naamwoord worden afgeleid. Hierbij krijgt de eerste lettergreep van het oorspronkelijke zelfstandig naamwoord een verlengde graad (⟪वृद्धि⟫). Eindigt de oorspronkelijke woordstam al op **-a**, dan is de ⟪वृद्धि⟫ het enige teken van afleiding, omdat er aan de stameindiging niets verandert.
 
-Die abgeleiteten Wörter haben die Bedeutung:
+De afgeleide woorden hebben de betekenis:
 
-> "irgendeine Beziehung zu dem durch das Grundwort Bezeichnete habend"
+> "een zekere relatie hebbend tot datgene wat door het grondwoord wordt aangeduid"
 
-z.B.
+bijv.
 
-*   "stammend von"
-*   "gehörig zu"
+*   "afkomstig van"
+*   "behorend bij"
 
-Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronymica (Namensbildung nach dem Vater: "Sohn des N.N.") oder Abstrakta (meist Neutra).
+De zo gevormde woorden zijn adjectieven, maar kunnen als zelfstandig naamwoord worden gebruikt, bijv. als patronymica (naamvorming naar de vader: "zoon van N.N.") of als abstracta (meestal neutra).
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-| Grundwort | Ableitung |
+| Grondwoord | Afleiding |
 | :--- | :--- |
-| ⟪शुचि⟫ 3 "leuchtend, rein" | ⟪शौच⟫ n. "Reinheit" |
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पौत्र⟫ m. "vom Sohn stammend = Sohnessohn, Enkel" |
-| ⟪गोतम⟫ m. "Besitzer sehr vieler Rinder" Eigenname | ⟪गौतम⟫ m. "Sohn des Gotama" |
-| ⟪ब्रह्मन्⟫ n. "formulierte Wahrheit, Veda, Absolutes" | ⟪ब्राह्मण⟫ m. "Wahrheitsformulierer, Brahmane" |
-| ⟪शूर⟫ 3 "heldenhaft" | ⟪शौर्य⟫ n. "Heldenhaftigkeit, Tapferkeit" |
-| ⟪राजन्⟫ m. "König" | ⟪राज्य⟫ n. "Königsherrschaft" |
-| ⟪देव⟫ m. "Himmlischer, Gott" | ⟪दैव्य⟫ 3 "himmlisch" |
-| ⟪ग्राम⟫ m. "Dorf" | ⟪ग्राम्य⟫ 3 "dörfisch" |
+| ⟪शुचि⟫ 3 "schijnend, zuiver" | ⟪शौच⟫ n. "zuiverheid" |
+| ⟪पुत्र⟫ m. "zoon" | ⟪पौत्र⟫ m. "afkomstig van de zoon = kleinzoon" |
+| ⟪गोतम⟫ m. "bezitter van zeer veel runderen" eigennaam | ⟪गौतम⟫ m. "zoon van Gotama" |
+| ⟪ब्रह्मन्⟫ n. "geformuleerde waarheid, Veda, het Absolute" | ⟪ब्राह्मण⟫ m. "waarheidsformuleerder, brahmaan" |
+| ⟪शूर⟫ 3 "heldhaftig" | ⟪शौर्य⟫ n. "heldhaftigheid, dapperheid" |
+| ⟪राजन्⟫ m. "koning" | ⟪राज्य⟫ n. "koningschap" |
+| ⟪देव⟫ m. "Hemelse, god" | ⟪दैव्य⟫ 3 "hemels" |
+| ⟪ग्राम⟫ m. "dorp" | ⟪ग्राम्य⟫ 3 "dorps, plattelands" |
 :::
 ::: grammar-box
-| **Behandlung des Stammauslautes vor dem Suffix \-a:** ||
+| **Behandeling van de stameindiging voor het suffix \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
-| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
-| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
-| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
+| **\-ṛ** | **\-a** treedt doorgaans aan de eindiging **\-r**::brbijv. ⟪जेतृ⟫ "overwinnaar" » ⟪जैत्र⟫ 3 "overwinnend" |
+| **\-a** | Vervanging van het **\-a** van het grondwoord door het nieuwe suffix **\-a**.::brVoorbeelden zie hierboven. |
+| **\-i** | Wegvallen van het **\-i** :brbijv. ⟪प्रकृति⟫ v. "natuur" » ⟪प्राकृत⟫ 3 "natuurlijk, normaal, gebruikelijk, vulgair" |
+| **\-u** | meestal: **\-av-a** :brbijv. ⟪गुरु⟫ 3 "zwaar"; m. "meester, leraar" » ⟪गौरव⟫ 3 "tot de meester behorend, afkomstig van de meester"; n. "gewicht, zwaarte, waardigheid" |
+| **andere vervoegingsstammen:** | zie Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Vor dem Suffix **-ya** wird der Stammauslaut ähnlich wie vor dem Suffix **-a** behandelt.
+Vóór het suffix **-ya** wordt de stamuitgang op vergelijkbare wijze behandeld als vóór het suffix **-a**.
 :::
-Beispiele siehe oben!
+Zie hierboven voor voorbeelden!
 
 ::: grammar-box
-**Mittels dieser Suffixe können auch von Komposita Ableitungen gebildet werden.**
+**Met behulp van deze suffixen kunnen ook van samenstellingen afleidingen worden gevormd.**
 
-z.B. ⟪स्वश्व⟫ m. "der, dessen Pferde gut sind" Eigenname » ⟪सौवश्व⟫ m. "Nachkomme des Svaśva"
+bijv. ⟪स्वश्व⟫ m. "hij wiens paarden goed zijn" eigennaam » ⟪सौवश्व⟫ m. "nakomeling van Svaśva"
 
-**Bei Komposita, in denen infolge des Sandhi im Vorderglied auslautendes -i oder -u durch -y bzw. -v ersetzt werden und so dem ersten Vokal des Grundwortes vorausgehen (z.B. Komposita mit ni-, vi-, su-), wird die ⟪वृद्धि⟫ so gebildet, als ob -iy bzw. -uv dastehen würde.**
+**Bij samenstellingen waarin ten gevolge van het sandhi in het voorlid uitgaande -i of -u door -y respectievelijk -v vervangen wordt en aldus aan de eerste klinker van het grondwoord voorafgaat (bijv. samenstellingen met ni-, vi-, su-), wordt de ⟪वृद्धि⟫ zo gevormd alsof er -iy respectievelijk -uv zou staan.**
 
-z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+bijv. ⟪व्याघ्र⟫ m. "tijger" » ⟪वैयाघ्र⟫ 3 "van een tijger afkomstig, tot een tijger behorend"
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/licenses#lekt4801))
+Afb.: ⟪वैयाघ्रं विजृम्भणम्⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4801))
 :::
-## 48.4. Wortliste
+## 48.4. Woordenlijst
 
 ⟪श्वस्⟫ : morgen
 
-⟪अद्य⟫ : heute
+⟪अद्य⟫ : vandaag
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟫ 3: licht (niet zwaar, niet moeilijk), snel, kort (in de uitdrukking)
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
+⟪व्याकरण⟫ o.: grammatica (bij ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+⟪तन्त्र⟫ o.: snaar ; weefgetouw, schering, weefsel ; grondslag, norm, regel ; leer, leerboek ; tantra ; toverspreuk ; middel, truc, geneesmiddel ; regering, autoriteit
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+Afb.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
-Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803))
+Afb.: ⟪तन्त्री⟫
+Sitarspeler = ⟪सितारवादकः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum
+⟪स्त्री⟫ v.: vrouw, echtgenote ; femininum
 
-Deklination:
+Declinatie:
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -292,117 +280,103 @@ Deklination:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804))
+Afbeelding: ⟪स्वतन्त्राः स्त्रियः⟫
+[Zelfhulpgroep (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+(Bron afbeelding: [Details](/nl/licenses#lekt4804))
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Adverb: dag en nacht
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
+⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hangen, hechten
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ m.: kind, jongeman, prins; bijnaam van ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+Afbeelding: ⟪कुमारः⟫
+Thaipusam-feest = தைப்பூசம், Batu Caves, Maleisië
+(Bron afbeelding: [Details](/nl/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ f.: meisje, dochter
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+Afbeelding: ⟪कुमारी नेपाल⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ n.: kindertijd
 
-⟪यौवन⟫ n.: Jugend
+⟪यौवन⟫ n.: jeugd
 
-⟪स्थविर⟫ 3: alt, betagt
+⟪स्थविर⟫ 3: oud, bejaard
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+Afbeelding: ⟪स्थविराः जोधपुर⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ n.: (hoog) ouderdom
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: ook: berispenswaardig
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil
+⟪सूक्ष्म⟫ 3: fijn, klein, subtiel
 
 ::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+Afbeelding: ⟪सूक्ष्मम्⟫
+Karanji-meer = ಕಾರಂಜಿ ಕೆರೆ
+(Bron afbeelding: [Details](/nl/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ m.: gehechtheid, neiging ; gelegenheid
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit
+⟪विशेष⟫ m.: verschil, bijzonderheid
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
+⟪प्रसूति⟫ f.: geboorte, nakomelingschap
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ n.: gebruik, gewoonte, gewoonterecht ; verandering
 
-⟪जाया⟫ f.: Ehefrau
+⟪जाया⟫ f.: echtgenote
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+Afbeelding: ⟪मम जाया⟫
+(Afbeelding: Payer)
+(Bron afbeelding: [Details](/nl/licenses#lekt4809))
 :::
-## 48.5. Übung
+## 48.5. Oefening
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion.
+A) Vertaal de ⟪सुभाषितानि⟫ aan het begin van de les.
 
-B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichst Wurzeln der 2. und 3. Präsensklasse):
+B) Vertaal naar het Sanskriet (gebruik daarbij de imperatief en zo mogelijk wortels van de 2e en 3e presentisklasse):
 
-1. Nachdem du einen Sohn bekommen hast, verlasse die Familie!
-2. Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
-3. Die Mädchen sollen den Bettlern Speise geben.
-4. Wir wollen sprechen.
-5. Mit den Worten "Komm Mönch!" nahm Buddha den Mann in den Mönchsorden auf (⟪उपसम्पद्⟫ Kausativ).
-6. Seid wahre Nachfahren Manus!
-7. Ich will ⟪शिव⟫ und die anderen Götter preisen.
-8. Erzähle!
-9. Miss die Höllen aus!
-10. Sie (pl.) sollen auf diesen Liegen liegen.
-11. Die tigergleichen Männer sollen die töten, die Indra feind sind.
-12. Konzentriere dich!
-13. Sitzt hier!
-14. Wir wollen diese Früchte essen.
-15. Der Diener soll die Kuh melken.
-16. König, hüte den Dharma und die Leute.
-17. Lehre die Schüler den Veda!
-18. Er soll neue Kleider anziehen.
-19. Sie (pl.) sollen in meinem Haus sitzen.
-20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt).
+1. Nadat je een zoon hebt gekregen, verlaat de familie!
+2. Nakomelingen van Puru, vreest voor hen die kwaad gedaan hebben!
+3. De meisjes moeten de bedelaars spijs geven.
+4. Wij willen spreken.
+5. Met de woorden "Kom monnik!" nam Boeddha de man op in de monnikenorde (⟪उपसम्पद्⟫ causativum).
+6. Weest ware nakomelingen van Manu!
+7. Ik wil ⟪शिव⟫ en de andere goden prijzen.
+8. Vertel!
+9. Meet de hellen uit!
+10. Zij (mv.) moeten op deze ligbedden liggen.
+11. De tijgergelijke mannen moeten hen doden die Indra vijandig zijn.
+12. Concentreer je!
+13. Zit hier!
+14. Wij willen deze vruchten eten.
+15. De dienaar moet de koe melken.
+16. Koning, bewaak de dharma en de mensen.
+17. Onderwijs de leerlingen de Veda!
+18. Hij moet nieuwe klederen aantrekken.
+19. Zij (mv.) moeten in mijn huis zitten.
+20. Echtgenoten moeten hun echtgenotes onderhouden (in de zin van onderhoud).
 
-## 48.6. Übersetzungsübung
+## 48.6. Vertaaloefening
 
-⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
+⟪मनुस्मृति ९⟫ (⟪स्त्रीधर्मः⟫):
 
 ::: indent
-⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
-⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
-⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
-⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥३॥⟫  
-⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
-⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
-⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
-:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
-⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
-⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥६॥⟫  
-⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
-⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
-⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
-⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
-:::
-Erklärung:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien"
+⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् । विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥२॥ पिता रक्षति कौमरे भर्ता रक्षति यौवने । रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥३॥ काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः । मृते भर्तर⟫i ⟪पुत्रस्तु वाच्यो मातुररक्षिता ॥४॥ सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।⟫  
+sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] ⟪शोकमावहेयुररक्षिताः ॥५॥ इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् । यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥६॥ स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च । स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥७॥ पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते । जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥८॥⟫
+:::  
+Uitleg:  
+⟪द्वयोर्हि कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual aan ⟪द्वे कुले⟫ "twee families"
 

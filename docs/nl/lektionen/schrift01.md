@@ -1,33 +1,32 @@
-
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 1
+## Schriftoefening 1
 
-Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
+Sanskriet werd en wordt in een groot aantal scripts geschreven. Het volgende overzicht geeft een kleine selectie uit deze schriften:
 
 ![](/images/schrift001.webp)  
-Abb.: Schriftproben Sanskrit  
-\[Bildquelle: Wikipedia, GNU FD LIzenz\]
+Afb.: Schriftvoorbeelden Sanskriet
+\[Bron: Wikipedia, GNU FD LIzenz\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Het belangrijkste moderne Noord-Indiase Sanskriet-script is de Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = ⟪विराम⟫ -- kennzeichnen:
+Elk medeklinkerteken geeft ook een op de medeklinker volgende "a" weer. Wil men de pure medeklinker schrijven (zonder daaropvolgende klinker), dan moet dit worden aangegeven door een ondergeschreven schuine streep -- virāma = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Auf einen Konsonanten folgende Vokale -- ausser "a" -- werden so geschrieben:
+Op een medeklinker volgende klinkers -- behalve "a" -- worden zo geschreven:
 
 ⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Die Reihenfolge beim Schreiben dieser Verbindungen von Konsonant + Vokal ist:
+De volgorde bij het schrijven van deze combinaties van medeklinker + klinker is:
 
 ![](/images/schrift003.jpg)
 
-Beim Schreiben wird jeder Buchstabe inklusive Querstrich an Oberlinie vollendet bevor der nächste Buchstabe geschrieben wird.
+Bij het schrijven wordt elke letter inclusief de horizontale streep bovenaan voltooid voordat de volgende letter wordt geschreven.
 
 ## Oefening
 
@@ -35,12 +34,12 @@ Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Lesen und transliterieren Sie:
+Lees en translitereren:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-Zusätzliche Leseübung:
+Extra lees oefening:
 
-⟪पिता⟫ Vater, ⟪कपि⟫ Affe, ⟪कृत⟫ getan,  ⟪टीका⟫ Subkommentar, ⟪तत्⟫ dieses, ⟪तट⟫ Ufer, ⟪पत्⟫ dahinschiessen, ⟪पट⟫ Gewebe, ⟪काच⟫ Glas,  ⟪काकुत्⟫ Gaumen, ⟪चित्⟫ wahrnehmen, ⟪पृच्⟫ mischen,  ⟪पोटक⟫ Knecht, ⟪चेतु⟫ Absicht, ⟪तौतातित⟫ Anhänger des Kumārila (Mīmāṃsā), ⟪तूत⟫ Maulbeerbaum, ⟪पीत⟫ getrunken,  ⟪पीति⟫ Trank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ er jammert, ⟪पुटी⟫ Falte, ⟪चापि⟫ desgleichen, ⟪तोक⟫ Nachkommenschaft, ⟪तृपत्⟫ satt, ⟪पॄ⟫ füllen, ⟪कृकाटी⟫ Halsgelenk, ⟪पूपौ⟫ zwei Kuchen, ⟪पैतृकी⟫ väterlich (fem.), ⟪कौट⟫ betrügerisch, ⟪कच⟫ Haupthaar, ⟪कुतपे⟫ auf der Ziegenhaardecke, ⟪कुचौ⟫ Busen, ⟪चकिता⟫ erschrocken (fem.)
+⟪पिता⟫ vader, ⟪कपि⟫ aap, ⟪कृत⟫ gedaan,  ⟪टीका⟫ subcommentaar, ⟪तत्⟫ dit, ⟪तट⟫ oever, ⟪पत्⟫ afschieten, ⟪पट⟫ weefsel, ⟪काच⟫ glas,  ⟪काकुत्⟫ gehemelte, ⟪चित्⟫ waarnemen, ⟪पृच्⟫ mengen,  ⟪पोटक⟫ knecht, ⟪चेतु⟫ bedoeling, ⟪तौतातित⟫ aanhanger van Kumārila (Mīmāṃsā), ⟪तूत⟫ moerbei, ⟪पीत⟫ gedronken,  ⟪पीति⟫ drank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ hij klaagt, ⟪पुटी⟫ plooi, ⟪चापि⟫ evenzo, ⟪तोक⟫ nakomelingschap, ⟪तृपत्⟫ verzadigd, ⟪पॄ⟫ vullen, ⟪कृकाटी⟫ halswervel, ⟪पूपौ⟫ twee koeken, ⟪पैतृकी⟫ vaderlijk (v.), ⟪कौट⟫ bedrieglijk, ⟪कच⟫ hoofdharen, ⟪कुतपे⟫ op het geitenhaardekentje, ⟪कुचौ⟫ borst, ⟪चकिता⟫ geschrokken (v.)
 
 

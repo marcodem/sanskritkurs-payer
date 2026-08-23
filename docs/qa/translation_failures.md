@@ -1816,3 +1816,4 @@ Automatically generated. Do not edit manually.
 | 2026-08-22 20:05 | tr | lektion13.md | DE_RESIDUE_UNRESOLVED | 19 | 1 German residue(s) remained after auto-heal pass. |
 | 2026-08-22 23:07 | nl | lektion32.md | DE_RESIDUE_UNRESOLVED | 221 | 1 German residue(s) remained after auto-heal pass. |
 | 2026-08-22 23:50 | nl | lektion35.md | DE_RESIDUE_UNRESOLVED | 76,106 | 2 German residue(s) remained after auto-heal pass. |
+| 2026-08-23 02:41 | nl | lektion41.md | DE_RESIDUE_UNRESOLVED | 30,34,51,56 | 4 German residue(s) remained after auto-heal pass. |

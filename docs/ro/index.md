@@ -30,6 +30,6 @@ Limbile au fost traduse complet automat din germană cu ajutorul unei cascate de
 
 **Contact și contribuție**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editori**: Editor online disponibil pentru autori ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativ: Editor Markdown standalone [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Versiune curentă**: v1.7.0
 :::

@@ -1,16 +1,16 @@
-
 ---
-title: Lektion 58
-subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Les 58"
+subtitle: "De primaire uitgangen van de dualis (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 58
 
-## 58.1. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
+## 58.1. De primaire uitgangen van de dualis (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -20,23 +20,23 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. De dualis van thematische presentieklassen: indicativus praesens (⟪लट्⟫)
 
-Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
+Voor -vas en -vahe wordt de themavocaal -a- vervangen door -ā-.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. Eerste presentieklasse (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein"
+⟪भू⟫ 1P "worden, zijn"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wij beiden worden" | \<⟪भवावहे⟫\> |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"jullie beiden worden" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"zij beiden worden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Vierde presentieklasse (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen"
+⟪नृत्⟫ 4P "dansen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -46,27 +46,26 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
 ::: media
 ![](/images/lekt5802.webp)
-Abb.: ⟪नृत्यतः⟫
-⟪ओडिसी⟫
-(Bildquelle: [Details](/licenses#lekt5802))
+Afb.: ⟪नृत्यतः ओडिसी⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5802))
 :::
-### 58.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 58.2.3. Zesde presentieklasse (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "stoten, slaan"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. Tiende presentieklasse (⟪चुरादिगणः⟫) en causativa (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen"
+⟪चुर्⟫ 10U "stelen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ |
@@ -74,37 +73,33 @@ Abb.: ⟪नृत्यतः⟫
 :::
 ::: media
 ![](/images/lekt5803.webp)
-Abb.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
+Afbeelding: ⟪वानरौ रथाद्भाण्डानि चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Bildquelle: [Details](/licenses#lekt5803))
+(Bron afbeelding: [Details](/nl/licenses#lekt5803))
 :::
-## 58.3. Der Dual des einfachen Futurs (⟪ऌत्⟫)
+## 58.3. De dualis van de eenvoudige toekomst (⟪ऌत्⟫)
 
-### 58.3.1. ⟪अनिट्⟫
-
-⟪दा⟫ 3U "geben"
+### 58.3.1. ⟪अनिट् दा⟫ 3U "geven"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दास्यतस्⟫ | ⟪दास्येते⟫ |
 :::
-### 58.3.2. ⟪सेट्⟫
-
-⟪भू⟫ 1P "werden, sein"
+### 58.3.2. ⟪सेट् भू⟫ 1P "worden, zijn"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. De dualis passief (suffix -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "stoten, slaan"
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
@@ -112,14 +107,14 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.5. De dualis van athematische tegenwoordigtiijd klassen: indicatief tegenwoordige tijd (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Tweede tegenwoordige tijd klasse (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen"
+⟪द्विष्⟫ 2U "haten"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
@@ -128,16 +123,16 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ⟪दुह्⟫ 2U "melken"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | :sig[⟪दुग्धस्⟫] | ⟪दुहाते⟫ |
 :::
-⟪इ⟫ 2P "gehen"
+⟪इ⟫ 2P "gaan"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪इवस्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪इथस्⟫ |
@@ -145,13 +140,13 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ::: media
 ![](/images/lekt5806.webp)
-Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Bildquelle: [Details](/licenses#lekt5806))
+Afbeelding: ⟪उष्ट्रौ मरावितः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5806))
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
+⟪इ⟫ + ⟪अधि⟫ 2Ā "studeren"
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधी⟫:sig[⟪या⟫]⟪थे⟫ |
@@ -159,10 +154,10 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 :::
 ::: media
 ![](/images/lekt5804.webp)
-Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Bildquelle: [Details](/licenses#lekt5804))
+Afbeelding: ⟪कन्ये अधीयते⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5804))
 :::
-⟪हन्⟫ 2P "erschlagen"
+⟪हन्⟫ 2P "doden"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -171,7 +166,7 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
 | **3. ⟪प्रथमः⟫** | :sig[⟪हतस्⟫] |
 :::
-⟪अस्⟫ 2P "sein"
+⟪अस्⟫ 2P "zijn"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -182,32 +177,32 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 :::
 ::: media
 ![](/images/lekt5805.webp)
-Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Bildquelle: [Details](/licenses#lekt5805))
+Afbeelding: ⟪भगिन्यौ स्वः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5805))
 :::
-### 58.5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. Derde tegenwoordige tijd klasse (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer giessen"
+⟪हु⟫ 3P "in het offerbrandvuur gieten"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen"
+⟪धा⟫ 3U "plaatsen, leggen, zetten"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Vijfde presentisklasse (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen"
+⟪सु⟫ 5U "persen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -217,53 +212,52 @@ Abb.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 
 ::: media
 ![](/images/lekt5807.webp)
-Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
-⟪पुणेनगरे⟫
-(Bildquelle: [Details](/licenses#lekt5807))
+Afbeelding: ⟪शर्कराम्बु सुनुतः पुणेनगरे⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5807))
 :::
-### 58.5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 58.5.4. Achtste presentisklasse (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen"
+⟪तन्⟫ 8U "spannen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुतस्⟫ | ⟪तन्वाते⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen"
+⟪कृ⟫ 8U "doen, maken"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 58.5.5. Zevende presentisklasse (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | :sig[⟪रुन्द्धस्⟫] | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
-⟪युज्⟫ 7U "anschirren"
+⟪युज्⟫ 7U "voorspannen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. Negende presentisklasse (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "kopen"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
@@ -273,21 +267,21 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 
 ::: media
 ![](/images/lekt5801.webp)
-Abb.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Bildquelle: [Details](/licenses#lekt5801))
+Afbeelding: ⟪स्त्रियौ शाकं क्रीणाते⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: iṣ-aorist
 
 ::: grammar-box
-**Der iṣ-Aorist wird von allen seṭ-Wurzeln gebildet, für die nicht ausdrücklich ausschliesslich eine andere Form des Aorist gelehrt wird.**
+**De iṣ-aorist wordt gevormd door alle seet-stammen, waarvoor niet uitdrukkelijk uitsluitend een andere vorm van de aorist wordt geleerd.**
 
-**Bildung:**
+**Vorming:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung**
+**Augment + stam + i + s + athematische secundaire uitgang**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
+**!!!** De 2.ev.P resp. 3.ev.P komen voort uit **-**īs resp. -īt van **!!!** (Dit is ontstaan door een overname van het imperfectum van stammen van het type ⟪अब्रवीत्⟫; het zijn dus eigenlijk stamaorist-vormen).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
+De stamvormingssuffix + uitgangen van de iṣ-aorist luiden dus:
 
 ::: grammar-box
 
@@ -295,47 +289,37 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
-| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
+| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(optioneel na -h of halve medeklinker) |
 | **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::
 ::: grammar-box
-**Form der Wurzel:**
+**Vorm van de stam:**
 
-*   **Wurzeln mit kurzem Vokal vor einfachem Konsonanten: Hochstufe im P und Ā**  
-    Beispiele:  
-:::
-::: indent
-⟪बुध्⟫ 1U: 1.sg.P ⟪अबोधिषम्⟫
-⟪कॢप्⟫ 1Ā: 1.sg.Ā ⟪अकल्पिषि⟫
-:::
+*   **Stammen met korte klinker voor eenvoudige medeklinker: hoge graad in P en Ā**  
+Voorbeelden:  
+⟪बुध्⟫ 1U: 1.ev.P ⟪अबोधिषम् कॢप्⟫ 1Ā: 1.ev.Ā ⟪अकल्पिषि⟫
 
-*   **Wurzeln mit auslautendem Vokal:**
-    *   **P: Dehnstufe**
-    *   **Ā: Hochstufe**
+*   **Wortstammen met uitgaande klinker:**
+*   **P: Versterkte trap**
+*   **Ā: Hoge trap**
 
-    Beispiele:  
-::: indent
+Voorbeelden:  
 ⟪पू⟫ 9U: 1.sg.P ⟪अपाविषम्⟫ ; 1. sg.Ā ⟪अपविषि⟫
-:::
 
-*   **Wurzeln auf -ar., -al sowie ⟪वद्⟫ 1P "sagen", ⟪व्रज्⟫ 1P "weggehen": P: Dehnstufe**  
-    Beispiele:  
-::: indent
-⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫
-⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
-:::
+*   **Wortstammen op -ar., -al en ook ⟪वद्⟫ 1P "zeggen", ⟪व्रज्⟫ 1P "weggaan": P: Versterkte trap**  
+Voorbeelden:  
+⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम् वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
 
-*   **Andere Wurzeln der Form (Kons.-)Kons.-a-Kons.: im P wahlweise Dehnstufe (gilt nicht für Wurzeln auf -h, -m, -y sowie einige weitere Wurzeln)**  
-    Beispiel:  
-::: indent
-⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫
-aber:
+*   **Andere wortstammen van de vorm (Kons.-)Kons.-a-Kons.: in P optioneel versterkte trap (geldt niet voor wortstammen op -h, -m, -y en enkele andere wortstammen)**  
+Voorbeeld:  
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
+maar:  
 ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigmen:
+Paradigma's:
 
-⟪पू⟫ 9U "reinigen"
+⟪पू⟫ 9U "zuiveren"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -345,7 +329,7 @@ Paradigmen:
 | **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
-⟪बुध्⟫ 1U "erwachen, erkennen"
+⟪बुध्⟫ 1U "ontwaken, herkennen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||
@@ -355,7 +339,7 @@ Paradigmen:
 | **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
-⟪कॢप्⟫ 1Ā "passend sein"
+⟪कॢप्⟫ 1Ā "geschikt zijn"
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ ||
@@ -366,36 +350,28 @@ Paradigmen:
 | **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:**
+**Bijzonderheden:**
 
-1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:  
-:::
-::: indent
+1.  Bij sommige wortels kan de verbindende klinker -i- in ⟪आत्मनेपद⟫ worden vervangen door -ī-. Na ⟪ग्रह्⟫ 9U "pakken" moet deze vervanging in de P en Ā plaatsvinden:  
 ⟪अग्र⟫:sig[⟪ही⟫]⟪षम्⟫ , ⟪अग्र⟫:sig[⟪ही⟫]⟪षि⟫
-:::
 
-2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:  
-::: indent
-⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
-:::
+2.  Wortels van de 8e presentieklassse op -n (of -ṇ) kunnen in de 2.3.sg.Ā op een diepe graad staan:  
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (wortel-aoristus) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā u.a. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
-::: indent
+3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā en anderen kunnen in plaats van de 3.sg. Ā ook de vorm van de passieve aoristus aannemen:  
 ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
-:::
 
-4.  ⟪विज्⟫ 7P hat keinen Ablaut:  
-::: indent
+4.  ⟪विज्⟫ 7P heeft geen ablaut:  
 ⟪अविजीत्⟫
 :::
 ::: media
 ![](/images/lekt5808.webp)
-Abb.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5808))
+Afb.: ⟪दीपः श्रीकृष्णाय श्रीगनेशाय चादीपिष्ट चादीपि ॥⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt5808))
 :::
-## 58.7. Übung
+## 58.7. Oefening
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
+A) Bepaal en vertaal zonder hulpmiddelen de volgende vormen en vorm de overeenkomstige vormen van de i-aoristus:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫
@@ -417,7 +393,7 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 18.  ⟪ऐक्षध्वम्⟫
 19.  ⟪अचेतः⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen:
+B) Vertaal en bepaal de volgende vormen:
 
 1.  ⟪अनेढ्वम्⟫
 2.  ⟪एनयोः⟫
@@ -458,4 +434,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 37.  ⟪इतः⟫
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
-

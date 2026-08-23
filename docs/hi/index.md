@@ -30,6 +30,6 @@ Alois Payer का **संस्कृत पाठ्यक्रम** सं�
 
 **संपर्क और सहयोग**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**संपादक**: लेखकों के लिए ऑनलाइन संपादक उपलब्ध है ([payer-author.birchville.org](https://payer-author.birchville.org)) | वैकल्पिक: स्टैंडअलोन मार्कडाउन संपादक [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **वर्तमान संस्करण**: v1.7.0
 :::

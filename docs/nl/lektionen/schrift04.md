@@ -1,28 +1,27 @@
-
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 4
+## Schrijfoefening 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Punkt über dem Buchstaben. der dem Laut vorausgeht: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: punt boven de letter die aan de klank voorafgaat: ⟪कं कां किं कीं कुं कूं कें कैं कों कौं⟫
 
-Schreibung:
+Schrijfwijze:
 
 ![](/images/schrift007.jpg)
 
-Beachten Sie die obligatorische Schreibung von hṛ: ⟪हृ⟫
+Let op de verplichte schrijfwijze van hṛ: ⟪हृ⟫
 
 ## Oefening
 
-A) Schreiben Sie in Devanāgarī:
+A) Schrijf in het Devanāgarī:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 
-B) Lesen und translitterieren Sie:
+B) Lees en translitereer:
 
-⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
+⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो नयति⟫ | ⟪देवः सृजति⟫ ||
 
-Zu Lektion 6
+Naar Les 6
 
-Zu Schriftübung 5
+Naar Schrijfoefening 5

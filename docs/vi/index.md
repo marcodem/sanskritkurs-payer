@@ -29,6 +29,6 @@ features:
 Các ngôn ngữ đã được dịch hoàn toàn tự động từ tiếng Đức bằng sự trợ giúp của AI (Qwen3.6-32B). Các báo cáo về lỗi dịch thuật rất được hoan nghênh.
 **Nhận xét & Liên hệ**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **Tham gia với tư cách Biên tập viên hoặc Người bảo quản**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-**Trình soạn thảo Markdown mã nguồn mở Zentauri**: Trình soạn thảo độc lập trên [GitHub](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Wiki & Kiến trúc dành cho nhà phát triển**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

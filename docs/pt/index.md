@@ -28,6 +28,6 @@ Der **Sanskritkurs** von Alois Payer ist ein umfassender, wissenschaftlich fundi
 Die Sprachen wurden mit Hilfe einer KI (Qwen3.6-32B) vollständig automatisch aus dem Deutschen übersetzt. Meldungen betreffend Übersetzungsfehler sind sehr willkommen.
 - **Bemerkungen & Kontakt**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **Als Lektor oder Kurator mitwirken**: [onboarding@birchville.org](mailto:onboarding@birchville.org)
-- **Open-Source-Editor Zentauri**: Standalone Markdown-Editor auf [GitHub](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 - **Entwickler-Wiki & Architektur**: [GitHub Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
 :::

@@ -30,6 +30,6 @@ features:
 
 **聯絡與貢獻**：[webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**：[專案維基](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**編輯器**：線上編輯器可供作者使用（[payer-author.birchville.org](https://payer-author.birchville.org)）| 替代方案：獨立 Markdown 編輯器 [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **最新版本**：v1.7.0
 :::

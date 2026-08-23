@@ -1,40 +1,40 @@
-
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: "Les 42"
+subtitle: "Stammetypes op -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. Stammen op -ṛ
 
-### 42.1.1. Stämme mit Dehnstufe im starken Stamm
+### 42.1.1. Stammen met versterkte graad in de sterke stam
 
 ::: grammar-box
-Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen:
+Alle mannelijke zelfstandige naamwoorden op -ṛ, met uitzondering van de onder 1.3. genoemde verwantschapsaanduidingen. Hiervan maken ook de volgende verwantschapsaanduidingen deel uit:
 
-*   ⟪नप्तृ⟫ m. "Enkel"
-*   ⟪भर्तृ⟫ m. "Gatte (wörtl. Erhalter)"
+*   ⟪नप्तृ⟫ m. "kleinzoon"
+*   ⟪भर्तृ⟫ m. "gemaal (letterlijk: onderhouder)"
 
-Den Grossteil der hierhergehörigen Nomina bilden Nomina agentis auf das ⟪कृत्⟫-Suffix -⟪तृ⟫.
+Het grootste deel van de hieronder vallende zelfstandige naamwoorden bestaat uit agentia op het ⟪कृत्⟫-suffix -⟪तृ⟫.
 
-**Bildung:**
+**Vorming:**
 
-*   **Starker Stamm: -ār**
-*   **Schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **Sterke stam: -ār**
+*   **Zwakke stam**
+*   **voor klinker: -r**
+*   **voor medeklinker: -ṛ**
 
-Beachten Sie die unregelmässigen Bildungen (durch **rot** gekennzeichnet)!
+Let op de onregelmatige vormen (gemarkeerd met **rood**)!
 :::
-Maskulinum:
+Manne geslacht:
 
 ::: indent
-⟪दातृ⟫ m. "Geber"
+⟪दातृ⟫ m. "gever"
 :::
 ::: grammar-box
 
@@ -49,78 +49,78 @@ Maskulinum:
 | ⟪सप्तमी⟫ | :sig[⟪दातरि⟫] | ⟪दातृषु⟫ |
 
 :::
-Zur Erklärung der unregelmässigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81
+Voor de verklaring van de onregelmatige vormen zie Thumb-Hauschild I,2 blz. 76-81
 
-Femininum:
+Vrouwelijk geslacht:
 
 ::: indent
-⟪स्वसृ⟫ f. wird wie ⟪दातृ⟫ dekliniert mit Ausnahme des Akkusativ (⟪द्वितीया⟫) Plural: :sig[⟪स्वसॄस्⟫].
+⟪स्वसृ⟫ v. wordt gedeclineerd zoals ⟪दातृ⟫, met uitzondering van de accusatief (⟪द्वितीया⟫) meervoud: :sig[⟪स्वसॄस्⟫].
 :::
-### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
+### 42.1.2. Nominaal vorming: ⟪कृत्⟫-suffix -⟪तृ⟫
 
 ::: grammar-box
-Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet man Nomina agentis (Bezeichnungen für den ⟪कर्तृ⟫) zu fast jeder Wurzel bzw. Kausativstamm.
+Met het zeer vaak voorkomende ⟪कृत्⟫-suffix -⟪तृ⟫ vormt men agentia (aanduidingen voor de ⟪कर्तृ⟫) bij bijna elke wortel of causatieve stam.
 
-**Bildung:**
+**Vorming:**
 
-*   **hochstufige Wurzel + -tṛ**
+*   **Versterkte wortel + -tṛ**
 
-oder
+of
 
-*   **hochstufige Wurzel / Kausativstamm + i + tṛ**
+*   **hoogtraps wortel / causatieve stam + i + tṛ**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪कर्तृ⟫ m. "Täter"
+⟪कर्तृ⟫ m. "dader"
 
-⟪जेतृ⟫ m. "Sieger"
+⟪जेतृ⟫ m. "overwinnaar"
 
-⟪धातृ⟫ m. "Schöpfer"
+⟪धातृ⟫ m. "schepper"
 
-⟪रक्षितृ⟫ m. "Beschützer"
+⟪रक्षितृ⟫ m. "beschermer"
 
-⟪बोधयितृ⟫ m. "Wecker"
+⟪बोधयितृ⟫ m. "wekker"
 :::
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
-Abb.: ⟪अयं⟫ ⟪बोधयिता⟫
-(Bildquelle: [Details](/licenses#lekt4201))
+Afb.: ⟪अयं बोधयिता⟫
+(Bron van de afbeelding: [Details](/nl/licenses#lekt4201))
 :::
 
 ::: grammar-box
-Selten vorkommende Neutra auf -⟪तृ⟫ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148).
+Zelden voorkomende onzijdige nomina op -⟪तृ⟫ hebben deels een eigen declinatie (zie Kielhorn, Grammatica § 148).
 
-Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫** (wie ⟪देवी⟫).
+Het femininum bij de stammen op -⟪तृ⟫ luidt op **-⟪त्री⟫** (zoals ⟪देवी⟫).
 
-z.B. ⟪कर्त्री⟫ f. "Täterin"
+bijv. ⟪कर्त्री⟫ f. "pleegster"
 :::
-### 42.1.3. Stämme mit Hochstufe im starken Stamm
+### 42.1.3. Stammen met hoogtrap in de sterke stam
 
 ::: grammar-box
-Dazu gehören folgende Verwandtschaftsbezeichnungen:
+Hiertoe behoren de volgende verwantschapsbenamingen:
 
-*   ⟪पितृ⟫ m. "Vater"
-*   ⟪मातृ⟫ f. "Mutter"
-*   ⟪दुहितृ⟫ f. "Tochter"
-*   ⟪भ्रातृ⟫ m. "Bruder"
-*   ⟪देवृ⟫ m. "Gattenbruder (Schwager der Frau)"
-*   ⟪यातृ⟫ f. "Frau des Gattenbruders"
-*   ⟪ननान्दृ⟫ f. "Schwester des Gatten (Schwägerin der Frau)"
+*   ⟪पितृ⟫ m. "vader"
+*   ⟪मातृ⟫ f. "moeder"
+*   ⟪दुहितृ⟫ f. "dochter"
+*   ⟪भ्रातृ⟫ m. "broer"
+*   ⟪देवृ⟫ m. "broer van de echtgenoot (zwager van de vrouw)"
+*   ⟪यातृ⟫ f. "vrouw van de broer van de echtgenoot"
+*   ⟪ननान्दृ⟫ f. "zus van de echtgenoot (schoonzus van de vrouw)"
 
-**Bildung:**
+**Vorming:**
 
-*   **starker Stamm: -ar**
-*   **schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **sterke stam: -ar**
+*   **zwakke stam**
+*   **voor een vocaal: -r**
+*   **voor een consonant: -ṛ**
 :::
-Beispiele:
+Voorbeelden:
 
 ::: indent
-⟪पितृ⟫ m. "Vater"
+⟪पितृ⟫ m. "vader"
 
-⟪मातृ⟫ f. "Mutter"
+⟪मातृ⟫ f. "moeder"
 :::
 ::: grammar-box
 
@@ -128,74 +128,72 @@ Beispiele:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪प्रथमा⟫ | ⟪पिता⟫ | :sig[⟪पितरस्⟫] | ⟪माता⟫ | :sig[⟪मातरस्⟫] |
 | ⟪द्वितीया⟫ | :sig[⟪पितरम्⟫] | ⟪पितॄन्⟫ | :sig[⟪मातरम्⟫] | ⟪मातॄस्⟫ |
-| Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
+| Rest zoals ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Stammen op -ṛ in composita
 
 ::: grammar-box
-Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h.
+Als voorlid van een compositum staan nomina op -ṛ vanzelfsprekend in hun zwakke stam, d.w.z.
 
-*   **vor Konsonant: -ṛ**
-*   **vor Vokal: -r**
+*   **voor medeklinker: -ṛ**
+*   **voor klinker: -r**
 :::
-## 42.2. Wortliste
+## 42.2. Woordenlijst
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
+⟪प्रकृति⟫ v.: (van ⟪कृ⟫ + ⟪प्र⟫) grondvorm, natuurlijke staat, natuur; oermaterie, oorstof
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
+⟪अर्जुन⟫ m. eigennaam: Arjuna, een van de vijf zonen van ⟪पण्डु⟫. Held in het ⟪महाभारत⟫ (zie Basham, Wonder blz. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : zich onthouden van, afstand nemen van, zich afzijdig houden, blijven staan
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3: staande, zich bevindend
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ Adv.: eens, vroeger
 
-⟪अनेक⟫ 3: viele (nicht einige)
+⟪अनेक⟫ 3: veel (niet een paar)
 
-⟪कुमार⟫ m.: Prinz
+⟪कुमार⟫ m.: prins
 
-⟪दूत⟫ m.: Bote, Gesandter
+⟪दूत⟫ m.: boodschapper, gezant
 
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : sturen
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
+⟪सकाश⟫ m.: aanwezigheid, tegenwoordigheid
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ m.: pijlsteel, pijl
 
-⟪बाण⟫ m.: Pfeil, Ziel
+⟪बाण⟫ m.: pijl, doel
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : goedkeuren, beloven; Ā: antwoorden, bevestigen, beweren, erkennen
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : in beweging komen
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
-Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
+Perf. Wv ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: ijdelheid, trots
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: in gedachten verdiept
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ Adv.: ondertussen
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ v.:  grap, spel
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ Adv.:  hoe lang, terwijl
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ Adv.: zo lang
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ Adv.: tweeledig, in twee delen
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : prijzen, gebieden
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
@@ -203,166 +201,138 @@ Perf. I ⟪शशंस⟫
 Pass. ⟪शस्यते⟫  
 Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪हृदय⟫ n.: hart
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Enkele verwantschapsaanduidingen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+Afb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ m. (bij ⟪भृ⟫ "dragen, onderhouden"): Onderhouder, Kostgever, Echtgenoot
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Echtgenote (⟪भार्या⟫ = gerundivum bij ⟪भृ⟫ : wat gedragen moet worden, wat behouden moet worden, wat recht heeft op onderhoud)
 
-⟪पितृ⟫ m.: Vater
+⟪पितृ⟫ m.: Vader
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪पितृ⟫ m. Meervoud: de overleden mannelijke voorvaderen, d.w.z.
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+1.  Vader, grootvader, overgrootvader
+2.  de stamvaders van de mensheid
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+Aan beiden worden riten voltrokken, zgn. ⟪श्राद्ध⟫ n. Dagelijks worden aan telkens drie mannelijke voorvaderen (langs vaderszijde (en langs moederszijde)) water en bij bepaalde gelegenheden rijstbolletjes respectievelijk meelbolletjes (⟪पिण्ड⟫ m. "bolletjes") aangeboden. Zo moeten de voorvaderen voedsel krijgen. De voltrekking van deze ceremonie is mede een reden waarom men als man een zoon dient te verwekken. Zij die door deze ⟪पिण्ड⟫-gift verbonden zijn heten ⟪सपिण्ड⟫ (aan wie ⟪पिण्ड⟫ gemeenschappelijk is). ⟪सपिण्ड⟫ omvat zes generaties: drie achterwaarts (tot aan de overgrootvader) en drie voorwaarts (tot aan de achterkleinzoon).
 
 ⟪तात⟫ m.: Papa
 
-⟪मातृ⟫ f.: Mutter
+⟪मातृ⟫ f.: Moeder
 
-⟪पुत्र⟫ m.:  Sohn
+⟪पुत्र⟫ m.:  Zoon
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Dochter
 
-⟪नप्तृ⟫ m.: Enkel
+⟪नप्तृ⟫ m.: Kleinzoon
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪भ्रातृ⟫ m.: Broer
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Zuster
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪देवृ⟫ m.: Broer van de echtgenoot (zwager van de vrouw)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪यातृ⟫ m.: Echtgenote van de broer van de echtgenoot
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ f.: Zuster van de man
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪श्वसुर⟫ f.: Schoonvader (in oude tijd: alleen van de vrouw)
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪श्वस्रू⟫ f.: Schoonmoeder (declinatie volgt later)
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪मातुल⟫ m.: Moederbroer (oom langs moederszijde)
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪मातुलानी⟫ f.: Echtgenote van de moederbroer (vrouw van de moederbroer)
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितृव्य⟫ m.: Vaderbroer (oom langs vaderszijde)
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪पितामह⟫ m.: grootvader aan vaderskant
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
+⟪पितामही⟫ f.: grootmoeder aan vaderskant
 
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
+⟪मातामह⟫ m.: grootvader aan moederskant
 
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
+⟪मातामही⟫ f.: grootmoeder aan moederskant
 
-## 42.3. Übung
+## 42.3. Oefening
 
-Übersetzen Sie:
+Vertaal:
 
-⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
-
-⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
+⟪प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥ कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥⟫
 
 ::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
-Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Bildquelle: [Details](/licenses#lekt4203))
+Afbeelding: ⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4203))
 :::
-⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+⟪आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥⟫
 
 ::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
-Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt4204))
+Afbeelding: ⟪अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4204))
 :::
-⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥ भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥ सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥६॥ भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥७॥ क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥८॥ नप्तॄणां लाभं पितैच्छत् ॥९॥⟫
 
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
+## 42.4. Vertaaloefening
 
-⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥६॥⟫
+sig[⟪सीता⟫]⟪विवाहः पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥⟫
 
-⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥७॥⟫
-
-⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥८॥⟫
-
-⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
-
-## 42.4. Übersetzungsübung
-
-:sig[⟪सीता⟫]⟪विवाहः⟫
-
-⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
-
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
-
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
-
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः⟫ ⟪श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ -- ⟪तस्य सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक ।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत । श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
-Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Bildquelle: [Details](/licenses#lekt4208))
+Afbeelding: ⟪धनुर्द्वेधा भग्नं बभूव⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4208))
 :::
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
-
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं निरवर्तयन् ॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der **rot** hervorgehobenen Ausdrücke:
+Verklaring van de **rood** gemarkeerde uitdrukkingen:
 
-⟪सीता⟫ f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: ⟪सीता⟫ f. "Ackerfurche"
+⟪सीता⟫ v. eigennaam: dochter van koning ⟪जनक⟫ uit ⟪विदेह⟫. Zij kwam tevoorschijn uit de aarde, toen de koning eens het veld ploegde; daarom haar naam: ⟪सीता⟫ v. "ploegschar"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Abb.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Bildquelle: [Details](/licenses#lekt4205))
+Afbeelding: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
+⟪मिथिला⟫ v. eigennaam: hoofdstad van ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
-Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Bildquelle: [Details](/licenses#lekt4206))
+Afbeelding: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+⟪जनक⟫ m. eigennaam: koning van ⟪विदेह गुरुतर⟫ 3: comparative vorm van ⟪गुरु⟫ 3: zwaarder, zeer zwaar
 
-⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
+⟪धनुस्⟫ Nom.Akk.sg.n. bij ⟪धनुस्⟫ n. "boog"
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Bogen"
+⟪शतशस्⟫ Adv.: in de honderden
 
-⟪शतशस्⟫ Adv.: zu hunderten
+⟪लङ्का⟫ v. eigennaam: wordt geïdentificeerd met het huidige Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-⟪लङ्का⟫ f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert
-
-⟪रावण⟫ m. Eigennamen; Herrscher von ⟪लङ्का⟫, Herrscher der ⟪राक्षस⟫.
+⟪रावण⟫ m. eigennaam; heerser van ⟪लङ्का⟫, heerser der ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt4207))
+Afbeelding: ⟪रावणः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
+⟪अयोध्या⟫ v. eigennaam: hoofdstad van ⟪कोसल⟫ (zie kaart hierboven!)
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ m. eigennaam: koning van ⟪कोसल राम⟫ m. eigennaam: zoon van ⟪दशरथ लक्ष्मन⟫ m. eigennaam: zoon van ⟪दशरथ विश्वामित्र⟫ m. eigennaam: ⟪ऋषि⟫, trok met ⟪राम⟫ en ⟪लक्ष्मन⟫ uit om demonen te doden; daarvoor krijgen de twee van hem toverwapens.
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-⟪विश्वामित्र⟫ m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen.
-
-⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Lok.Dual bij ⟪सीताराम⟫
 

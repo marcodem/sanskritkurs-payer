@@ -30,6 +30,6 @@ features:
 
 **التواصل والمساهمة**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **جيت هب**: [ويكي المشروع](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**المحررون**: محرر عبر الإنترنت متاح للمؤلفين ([payer-author.birchville.org](https://payer-author.birchville.org)) | بديل: محرر ماركداون مستقل [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **الإصدار الحالي**: v1.7.0
 :::

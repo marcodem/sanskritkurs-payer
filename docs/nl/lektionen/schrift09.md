@@ -1,40 +1,39 @@
+# Schrijfoefening 9
 
-# Schriftübung 9
+### Woordsplitsing
 
-### Worttrennung
+Binnen een zin (een helft van een versregel) vindt woordsplitsing in de schrift alleen plaats als een woord eindigt met
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+*   klinker
+*   anusvāra (ṃ)
+*   visarga (ḥ)
 
-*   Vokal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ)
+en het volgende woord begint met een medeklinker. Eveneens in de gevallen waarin volgens de sandhi-regels van de zin een hiatus tussen klinkers ontstaat.
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+### Leestekens
 
-### Interpunktion
+Het einde van een zin wordt in proza aangegeven met | (ardhadanda m.). In verzen geeft | het einde van de halve strofe aan, || (danda m.) geeft het einde van de hele strofe aan. In proza duidt || een grotere onderbreking aan (bijv. het einde van een alinea). Het versnummer wordt tussen twee || geplaatst, bijv. ||⟪१⟫||.
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+### Afkortingen
 
-### Abkürzung
+Afkortingstekens (bijv. bij vermelding van werken) is °, bijv. ⟪पा⟫° = pā(ṇinīye) = "In het grammaticale handboek van Pāṇini".
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
-
-### Weitere Vokale in Anfangsstellung
+### Verdere klinkers in beginpositie
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Let op dat a, ā, o, au volgens hetzelfde grondbeginsel worden geschreven.
 
 ## Oefening
 
-A) Schreiben Sie in Devanāgarī:
+A) Schrijf in Devanāgarī:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) Lees en translitereren:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

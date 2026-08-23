@@ -30,6 +30,6 @@ Linguae per gradus plures AI cascade omnino automaticè e Germanico in alias lin
 
 **Contactus & Participatio**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editora**: Editor on-line pro auctoribus ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativa: Editor Standalone Markdown [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Versio Recens**: v1.7.0
 :::

@@ -1,123 +1,122 @@
-
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: "Les 36"
+subtitle: "Bijzondere vormen van het perfectum"
 lesson_id: 36
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 36
 
-## 36.1. Besondere Bildungen des Perfekts
+## 36.1. Bijzondere vormen van het perfectum
 
 ::: grammar-box
-1\. Einige Wurzeln zeigen nach der Reduplikationssilbe eine Veränderung des Wurzelanlauts.
+1. Sommige wortels vertonen na de reduplicatiesilabe een verandering van het wortelbegin.
 :::
-Beispiele:
+Voorbeelden:
 
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫:sig[⟪गा⟫]⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫:sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫:sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
-2\. Die Wurzel ⟪विद्⟫ 2P "wissen" hat ein Perfekt mit präsentischer Bedeutung.
+2. De wortel ⟪विद्⟫ 2P "weten" heeft een perfectum met presentische betekenis.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wortel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
+| ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/hij/zij weet | ⟪विदुर्⟫ :brzij weten |
 :::
 ::: grammar-box
-3\. Die Wurzel ⟪अह्⟫ "sagen" hat nur Perfektformen (Perfekt I). Diese haben präsentische Bedeutung.
+3. De wortel ⟪अह्⟫ "zeggen" heeft alleen perfectumvormen (Perfectum I). Deze hebben presentische betekenis.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wortel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
+| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/hij/zij zegt | ⟪आहुर्⟫ :brzij zeggen |
 :::
 ::: grammar-box
-4\. Die Wurzel ⟪भू⟫ 1P hat den Perfektstamm ⟪बभू⟫, vor Vokalen ⟪बभूव्⟫.
+4. De wortel ⟪भू⟫ 1P heeft de perfectumstam ⟪बभू⟫, voor klinkers ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wortel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Het perifrastische perfectum (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
-Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:
-
-1. bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)
-2. bei Wurzeln, die mit einem langen Vokal (ausser ā-) beginnen, bzw. mit einem Vokal (ausser a-) vor zwei Konsonanten
-3. bei einigen sonstigen Wurzeln
+Het perifrastische perfectum (⟪अनुप्रयोगलिट्⟫) wordt gebruikt:
+1. bij de afgeleide vervoegingen (causatief, desideratief, frequentatief, denominatief)
+2. bij stamwoorden die beginnen met een lange klinker (behalve ā-) of met een klinker (behalve a-) voorafgaand aan twee medeklinkers
+3. bij enkele andere stamwoorden
 :::
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-(schwacher) Präsensstamm + -ām + entsprechende Perfektform von ⟪कृ⟫, ⟪अस्⟫ oder ⟪भू⟫
+(zwakke) tegenwoordige tijdstam + -ām + overeenkomstige voltooid verleden tijd van ⟪कृ⟫, ⟪अस्⟫ of ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
-- ⟪अस्⟫ und ⟪भू⟫ werden auch bei Ātmanepada-Verben im Parasmaipada konjugiert.
+- De stamklinker aan het einde wordt vóór -ām guṇiërd.
+- ⟪अस्⟫ en ⟪भू⟫ worden ook bij Ātmanepada-werkwoorden in de Parasmaipada vervoegd.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+De perifrastische voltooid tijd is waarschijnlijk ontstaan uit het accusatief van een werkwoordelijk naamwoord op -ā. Dit accusatief wordt – zoals ook vaak het geval is – bijwoordelijk gebruikt.
 
-Beispiele:
+Voorbeelden:
 
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Wortel:br⟪धातु⟫ | 3e pers. enkelvoud voltooid deelwoord | 3e pers. meervoud voltooid deelwoord | 3e pers. enkelvoud voltooid deelwoord Ā | 3e pers. meervoud voltooid deelwoord Ā |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां बभूव⟫** | **⟪ईक्षां चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां बभूवुर्⟫** |
+| ⟪बन्ध्⟫ :br Causatief: ⟪बन्धय⟫-:br "laten binden" | **⟪बन्धयां चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां बभूव⟫** | **⟪बन्धयां चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां बभूवुर्⟫** | | |
 
 
 
 
-## 36.3. Perfekt Passiv
+## 36.3. Voltooid passief
 
 ::: grammar-box
-Im Perfekt werden für das Passiv die Formen des Ātmanepada verwendet. Bevorzugt wird demgegenüber die Verwendung des PPP. Die Konstruktion ist in beiden Fällen die der Passivsätze:
+In de voltooide tijd worden voor de passieve vorm de vormen van de Ātmanepada gebruikt. De voorkeur gaat echter uit naar het gebruik van de PPP. De constructie is in beide gevallen die van passieve zinnen:
 
 :::
 ::: indent
-⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "Er tat ein verdienstvolles Werk"
+⟪तेन पुण्यं चक्रे⟫ = ⟪तेन पुण्यं कृतम्⟫ = „Hij verrichtte een verdienstelijke daad”
 :::
-## 36.4. Wortliste
+## 36.4. Woordenlijst
 
-⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen
+⟪अह्⟫ P alleen voltooid verleden tijd met tegenwoordige tijdbetekenis ⟪आह⟫, ⟪आहुर्⟫ : zeggen, spreken
 
-⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen
+⟪अह् प्र⟫ P alleen perfectum met presensbetekenis ⟪प्राह⟫ : zeggen, spreken
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : zien, (op)merken, beschouwen
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
+Perf. ⟪ईक्षां चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
 Kaus. ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
 Inf. ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln
+⟪चि⟫ 5U ⟪चिनोति⟫ : stapelen, verzamelen
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
+Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
+Kaus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+Afb.: ⟪गोमयं चिकाय⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3601))
 :::
 
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schrijden, gaan, weggaan
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -127,84 +126,84 @@ Kaus. ⟪व्राजयति⟫
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggaan (m.n. uit het tehuis naar de thuisloosheid als asceet = een monnik worden)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim
+⟪अगार⟫ n.⟪। आगार⟫ n.: Huis, tehuis
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+Afb.: ⟪अगारम्⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3602))
 :::
 
 ::: indent
-davon:
+daarvan:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
+⟪अनगार्य⟫ n. ⟪। अनगार⟫ika f.: Thuisloosheid van een boeddhistische monnik of novice
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+Afb.: ⟪अनगार्यम्⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
+⟪अञ्जलि⟫ m.: De beide ter eerbiediging hoog samengevouwen handen
 
-⟪आदृत⟫ 3: geachtet
+⟪आदृत⟫ 3: geacht
 
-⟪उपाध्याय⟫ m.: Lehrer
+⟪उपाध्याय⟫ m.: leraar
 
-⟪पृथिवी⟫ f.: Erde
+⟪पृथिवी⟫ f.: aarde
 
-⟪पृष्ठ⟫ n: Rücken, Rückseite
+⟪पृष्ठ⟫ n: rug, achterzijde
 
 ::: indent
-⟪पृष्ठम्⟫ : hinter
+⟪पृष्ठम्⟫ : achter
 :::
-⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott
+⟪प्रजापति⟫ m.: Heer der schepselen, scheppergod
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäss, hinzu, hinter - her
+⟪अनु⟫ preverbium: naar, langs, over - heen, langs, volgens, erbij, achter - aan
 
 ::: indent
-z.B.
+bijv.
 
-⟪अनुकृ⟫ : nachahmen, nachmachen
+⟪अनुकृ⟫ : nabootsen, nadoen
 
-⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen
+⟪अनुगम्⟫ : iemand volgen, erlangs lopen
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ : be-, na - toe, naar - hier, naar - toe, tegen, in - binnenin, met betrekking tot, op, over, aan
 
 ::: indent
-z.B.
+bijv.
 
-⟪अभिगम्⟫ : hingehen, sich nähern
+⟪अभिगम्⟫ : heengaan, naderen
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüssen, anreden
+⟪वद्⟫ + ⟪अभि⟫ Kausatief Ā ⟪अभिवादयते⟫ : formeel begroeten, aanspreken
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : weerzin voelen, wegvloeien
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
+Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : etwas riechen
+⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : iets ruiken
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
+PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : vermakelijk maken, verblijden; liefhebben, iemand genegen zijn
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen
+⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : zich verblijden
 
 ::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
@@ -214,26 +213,26 @@ Kaus. :sig[⟪प्रीणयति⟫]
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : raken
 
 ::: indent
-Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
+Perf. IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Abb.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606))
+Afb.: ⟪सुगतो भूमीं पस्पर्श⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : stijf worden: zich verheffen (haar), zich verblijden over (Instr., Akk., Lok.)
 
 ::: indent
-Perf II ⟪जहर्ष⟫  
+Perf. II ⟪जहर्ष⟫  
 Fut. ⟪हर्षिष्यति⟫  
 Pass. ⟪हृष्यते⟫  
 Kaus. ⟪हर्षयति⟫  
@@ -241,27 +240,27 @@ PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604))
+Afbeelding: ⟪लोमहर्षः⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3604))
 :::
 
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
+⟪स्वक⟫ 3: eigen (mijn, jouw ...) ; m.: lid
 
-## 36.5. Übung
+## 36.5. Oefening
 
-A) Folgende Wurzeln haben sowohl redupliziertes wie periphrastisches Perfekt. Bilden Sie zu folgenden Formen die entsprechenden periphrastischen und reduplizierten Perfektformen:
+A) De volgende wortels hebben zowel een reduplicatief als een perifrastisch perfectum. Vorm voor de volgende vormen het bijbehorende perifrastische en reduplicatieve perfectum:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) Die Wurzel ⟪आस्⟫ "sitzen" hat periphrastisches Perfekt. Bilden sie dieses zu folgenden Formen:
+B) De wortel ⟪आस्⟫ "zitten" heeft een perifrastisch perfectum. Vorm dit voor de volgende vormen:
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
+C) Vorm het bijbehorende perfectum voor de volgende vormen:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -270,37 +269,29 @@ C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
 5.  ⟪ऐक्षन्त⟫
 6.  ⟪अगापयत्⟫
 7.  ⟪अपद्यन्त⟫
-8.  ⟪चिनोति⟫ (2 Formen)
+8.  ⟪चिनोति⟫ (2 vormen)
 9.  ⟪हन्ति⟫
 10.  ⟪प्रभविष्यन्ति⟫
 11.  ⟪क्रामन्ति⟫
 12.  ⟪प्राव्रजन्⟫
 13.  ⟪त्यक्ष्यति⟫
 
-D) Übersetzen Sie:
+D) Vertaal:
 
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫
+⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज । बुद्ध्यार्यसत्यानि प्रज्ञाय प्रज्ञया च दुःखान्मुक्तो मोक्तुकामार्यजनान्बोधयामासेति भिक्षव आहुः ॥१॥⟫
 
 ::: media
 ![](/images/lekt3605.webp)
-Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
-(Bildquelle: [Details](/licenses#lekt3605))
+Afbeelding: ⟪पुत्रे जाते सुगतः कुलं धनं च तत्याजागाराच्चानगर्यं प्रवव्राज⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3605))
 :::
-⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
+⟪ब्राह्मणा महादेवयज्ञायाग्निं चिक्यिरे । ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश । एवं यज्ञेन ब्राह्मणा महादेवैरादयां चक्रुस्तांश्च स्तोत्रानि श्रावयां बभूवुः ॥२॥ रक्षितधर्मक्षत्रिययोधा महानगरं जेतुकामाञ्छत्रून्विजिग्युर्न तु जघ्नुः ॥३॥ अधीतवेदद्विजो द्विजधर्मं वेद ॥४॥⟫
 
-⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫
+⟪विद्ययैव जीवितुं न शक्यते । य एवं विदुर्नाधीयीरन् ॥५॥ स साधुर्दुर्जनपापलोभमतिमीक्षां चक्रे ॥६॥ ब्राह्मणीभिः स्वान्नानि पेचिरे ॥७॥⟫
 
-⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫
+## 36.6. De perfectum (⟪लिट्⟫) voor de tot nu toe geleerde wortels
 
-⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫
-
-⟪स⟫ ⟪साधुर्दुर्जनपापलोभमतिमीक्षां⟫ ⟪चक्रे⟫ ⟪॥६॥⟫
-
-⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
-
-## 36.6. Das Perfekt (⟪लिट्⟫) zu den bisher gelernten Wurzeln
-
-| Wurzel:br⟪धातु⟫ | Perfektklasse | Perfekt (⟪लिट्⟫) |
+| Wortel:br⟪धातु⟫ | Perfectumklasse | Perfectum (⟪लिट्⟫) |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ 7P | I | ⟪आनञ्ज⟫ |
 | ⟪अद्⟫ 2P | I | ⟪आद⟫ |
@@ -310,13 +301,13 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪अस्⟫ 2P | I | ⟪आस⟫ |
 | ⟪अस्⟫ 4P | I | ⟪आस⟫ |
 | ⟪आप्⟫ 5P | I | ⟪आप⟫ |
-| ⟪आस्⟫ 2Ā | Periph. | **⟪आसां⟫ ⟪चक्रे⟫** |
+| ⟪आस्⟫ 2Ā | Perif. | **⟪आसां चक्रे⟫** |
 | ⟪इ⟫ 2P | IIIa | ⟪इयाय⟫, ⟪ईयुर्⟫ |
 | ⟪इष्⟫ 6P | II | ⟪इयेष⟫, ⟪ईषुर्⟫ |
-| ⟪कम्⟫ 10Ā | Periph. Vc | **⟪कामयां⟫ ⟪चक्रे⟫** / ⟪चकमे⟫ |
+| ⟪कम्⟫ 10Ā | Perif. Vc | **⟪कामयां चक्रे⟫** / ⟪चकमे⟫ |
 | ⟪कुप्⟫ 4P | II | ⟪चुकोप⟫, ⟪चुकुपुर्⟫ |
 | ⟪कृ⟫ 8U | IIIa | ⟪चकार⟫, ⟪चक्रुर्⟫ |
-| ⟪कृ⟫ ⟪सम्⟫ 8 | IIIb | ⟪सञ्चस्कार⟫, ⟪सञ्चस्करुर्⟫ |
+| ⟪कृ सम्⟫ 8 | IIIb | ⟪सञ्चस्कार⟫, ⟪सञ्चस्करुर्⟫ |
 | ⟪कृष्⟫ 1P, 6U | II | ⟪चकर्ष⟫, ⟪चकृषुर्⟫ |
 | ⟪क्रि⟫ 9U | IIIa | ⟪चिक्राय⟫, ⟪चिक्रियुर्⟫ |
 | ⟪क्रुध्⟫ 4P | II | ⟪चुक्रोध⟫, ⟪चुक्रुधुर्⟫ |
@@ -325,10 +316,10 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪गम्⟫ 1P | Va | ⟪जगाम⟫, ⟪जग्मुर्⟫ |
 | ⟪ग्रस्⟫ 1Ā | Vc | ⟪जग्रसे⟫ |
 | ⟪चर्⟫ 1P | Vb | ⟪चचार⟫, ⟪चेरुर्⟫ |
-| ⟪चुर्⟫ 10U | Periph. | **⟪चोरयां⟫ ⟪चकार⟫** |
+| ⟪चुर्⟫ 10U | Perif. | **⟪चोरयां चकार⟫** |
 | ⟪छिद्⟫ 7U | II | ⟪चिच्छेद⟫, ⟪चिच्छिदे⟫ |
 | ⟪जन्⟫ 1Ā | Va | ⟪जज्ञे⟫ |
-| ⟪जि⟫ 1P | Unregelm. IIIa | ⟪जिगाय⟫, ⟪जिग्युर्⟫ |
+| ⟪जि⟫ 1P | Onregelmat. IIIa | ⟪जिगाय⟫, ⟪जिग्युर्⟫ |
 | ⟪जीव्⟫ 1P | I | ⟪जजिजीव⟫ |
 | ⟪ज्ञा⟫ 9U | IV | ⟪जज्ञौ⟫, ⟪जज्ञे⟫ |
 | ⟪तन्⟫ 8U | Vb | ⟪ततान⟫, ⟪तेने⟫ |
@@ -358,10 +349,10 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪भज्⟫ 1U | Vb (!) | ⟪बभाज⟫, ⟪भेजे⟫ |
 | ⟪भञ्ज्⟫ 7P | I | ⟪बभञ्ज⟫, ⟪बभञ्जुर्⟫ |
 | ⟪भिद्⟫ 7U | II | ⟪बिभेद⟫, ⟪बिभिदे⟫ |
-| ⟪भी⟫ 3P | IIIa / Periph. | ⟪बिभाय⟫, ⟪बिभ्युर्⟫ / **⟪बिभयां⟫ ⟪चकार⟫** |
+| ⟪भी⟫ 3P | IIIa / Perif. | ⟪बिभाय⟫, ⟪बिभ्युर्⟫ / **⟪बिभयां चकार⟫** |
 | ⟪भुज्⟫ 7U | II | ⟪बुभोज⟫, ⟪बुबुजे⟫ |
-| ⟪भू⟫ 1P | Unregelm. | ⟪बभूव⟫, ⟪बभूवुर्⟫ |
-| ⟪भृ⟫ 1U, 3U | IIIa / Periph. | ⟪बभार⟫, ⟪बभ्रुर्⟫ / **⟪बिभरां⟫ ⟪चकार⟫** |
+| ⟪भू⟫ 1P | Onregelmat. | ⟪बभूव⟫, ⟪बभूवुर्⟫ |
+| ⟪भृ⟫ 1U, 3U | IIIa / Perif. | ⟪बभार⟫, ⟪बभ्रुर्⟫ / **⟪बिभरां चकार⟫** |
 | ⟪मद्⟫ 4P | Vb | ⟪ममाद⟫, ⟪मेदुर्⟫ |
 | ⟪मन्⟫ 4Ā | Vb | ⟪मेने⟫ |
 | ⟪मा⟫ 2P, 3Ā | IV | ⟪ममौ⟫, ⟪ममे⟫ |
@@ -382,7 +373,7 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪वस्⟫ 1P | Va | ⟪उवास⟫, ⟪ऊषुर्⟫ |
 | ⟪वस्⟫ 2Ā | Vc | ⟪ववसे⟫ |
 | ⟪वह्⟫ 1U | Va | ⟪उवाह⟫, ⟪ऊहे⟫ |
-| ⟪विद्⟫ 2P | II / Periph. / Präsentisch | ⟪विवेद⟫, ⟪विविदुर्⟫ / **⟪विदां⟫ ⟪चकार⟫** / ⟪वेद⟫, ⟪विदुर्⟫ |
+| ⟪विद्⟫ 2P | II / Perif. / Presentisch | ⟪विवेद⟫, ⟪विविदुर्⟫ / **⟪विदां चकार⟫** / ⟪वेद⟫, ⟪विदुर्⟫ |
 | ⟪विद्⟫ 6U | II | ⟪विवेद⟫, ⟪विविदे⟫ |
 | ⟪विश्⟫ 6P | II | ⟪विवेश⟫, ⟪विविशुर्⟫ |
 | ⟪वृत्⟫ 1Ā | II | ⟪ववृते⟫ |
@@ -399,78 +390,67 @@ Abb.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | ⟪स्मृ⟫ 1P | IIIb | ⟪सस्मार⟫, ⟪सस्मरुर्⟫ |
 | ⟪हन्⟫ 2P | Va | ⟪जघान⟫, ⟪जघ्नुर्⟫ |
 | ⟪हा⟫ 3P | IV | ⟪जहौ⟫, ⟪जहुर्⟫ |
-| ⟪हु⟫ 3P | IIIa / Periph. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां⟫ ⟪चकार⟫** |
+| ⟪हु⟫ 3P | IIIa / Perif. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां चकार⟫** |
 | ⟪हृ⟫ 1U | IIIa | ⟪जहार⟫, ⟪जह्रे⟫ |
+## 36.7. Vertaalopdracht
 
+Vertaal het volgende:
 
-## 36.7. Übersetzungsübung
-
-Übersetzen Sie:
-
-1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
+1\. ⟪महाभारत १३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
 ::: indent
-⟪येन⟫ ⟪प्रीणति⟫ :sig[⟪पितरं⟫]
-⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
-⟪प्रीणति⟫ :sig[⟪मातरं⟫] ⟪येन⟫
-⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪।⟫
-⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫
-⟪तेन⟫ ⟪स्या⟫:sig[⟪द्ब्रह्म⟫] ⟪पूजितम्⟫ ⟪।⟫
-:sig[⟪सर्वे⟫] ⟪तस्यादृता⟫ ⟪धर्मा⟫
-⟪यस्यैते⟫ :sig[⟪त्रय⟫] ⟪आदृताः⟫ ⟪।⟫
-⟪अनादृतास्तु⟫ ⟪यस्यैते⟫
-:sig[⟪सर्वास्त⟫]⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
+⟪येन प्रीणति⟫ :sig[⟪पितरं⟫]
+⟪तेन प्रीतः प्रजापतिः । प्रीणति⟫ :sig[⟪मातरं⟫] ⟪येन पृथिवी तेन पूजिता । येन प्रीणात्युपाध्यायं तेन स्या⟫:sig[⟪द्ब्रह्म⟫] ⟪पूजितम् ।⟫
+:sig[⟪सर्वे⟫] ⟪तस्यादृता धर्मा यस्यैते⟫ :sig[⟪त्रय⟫] ⟪आदृताः । अनादृतास्तु यस्यैते⟫
+:sig[⟪सर्वास्त⟫]⟪स्याफलाः क्रियाः ॥⟫
 
-Erklärungen:
+Toelichting:
 
-⟪पितरम्⟫ : Akk. sg. zu ⟪पितृ⟫ m. "Vater"
+⟪पितरम्⟫ : accusatief enkelvoud van ⟪पितृ⟫ m. "vader"
 
-⟪मातरम्⟫ : Akk. sg. zu ⟪मातृ⟫ f. "Mutter"
+⟪मातरम्⟫ : accusatief enkelvoud van ⟪मातृ⟫ v. "moeder"
 
-⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutes, Veda"
+⟪ब्रह्म⟫ : nominatief/accusatief enkelvoud van ⟪ब्रह्मन्⟫ zn. „het Absolute, Veda”
 
-⟪सर्वे⟫ : Nom. pl. mask. zu ⟪सर्व⟫ "alle, jeder"
+⟪सर्वे⟫ : nominatief meervoud mannelijk van ⟪सर्व⟫ „alle, ieder”
 
-⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "drei"
+⟪त्रयस्⟫ : nominatief meervoud mannelijk van ⟪त्रि⟫ "drie"
 
-⟪सर्वास्⟫ : Nom./Akk. pl. fem. zu ⟪सर्व⟫ "alle, jeder"
+⟪सर्वास्⟫ : nominatief/accusatief meervoud vrouwelijk van ⟪सर्व⟫ "alle, ieder"
 :::
 ::: media
 ![](/images/lekt3607.webp)
-Abb.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt3607))
+Afb.: ⟪येन प्रीणात्युपाध्यायं तेन स्याद्ब्रह्म पूजितम् ।⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3607))
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ über der rechte Verhalten gegenüber Alten:
+2\. ⟪मनुस्मृति ४⟫.⟪१५४⟫ over de juiste omgang met ouderen:
 
 ::: indent
-⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
-⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
+⟪अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् । कृताञ्जलिरुपासीत गच्छतः पृष्ठतो ऽन्वियात् ॥⟫
 :::
-3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Wer ein ⟪जितेन्द्रिय⟫ ist:
+3\. ⟪मनुस्मृति २⟫.⟪९८⟫: Wie een ⟪जितेन्द्रिय⟫ is:
 
 ::: indent
-⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
-⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः⟫ ⟪॥⟫
+⟪श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च भुक्त्वा घ्रात्वा च यो नरः । न हृष्यति ग्लायति वा स⟫ :sig[⟪विज्ञेयो⟫] ⟪जितेन्द्रियः ॥⟫
 
-Erklärung: ⟪विज्ञेय⟫ ⟪३⟫: einer, der zu erkennen ist; einer, der zu wissen ist (als)
+Uitleg: ⟪विज्ञेय ३⟫: iemand die herkend kan worden; iemand die gekend kan worden (als)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ über rechte Verhalten eines Brahmanen:
+4\. ⟪मनुस्मृति २⟫.⟪११०⟫ over het juiste gedrag van een brahmaan:
 
 ::: indent
-⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
-⟪जानन्नपि⟫ ⟪हि⟫ ⟪मेधावी⟫ ⟪जडवल्लोक⟫ ⟪आचरेत्⟫ ⟪॥⟫
+⟪नापृष्टः कस्यचिद्ब्रूयान्न चान्यायेन पृच्छतः । जानन्नपि हि मेधावी जडवल्लोक आचरेत् ॥⟫
 
-Erklärungen:
+Toelichtingen:
 
-In diesem Vers ist ⟪ब्रू⟫ mit dem Genetiv konstruiert
+In dit vers is ⟪ब्रू⟫ met de genitief geconstrueerd
 
-⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verständig, klug"
+⟪मेधावी⟫ : Nom. sg. manl. bij ⟪मेधाविन् ३⟫ "verstandig, slim"
 
-⟪जडवत्⟫ Adv. "In der Art eines Starren/Stumpfen/Dummen"
+⟪जडवत्⟫ Adv. "Op de wijze van een starre/stompe/dwaze"
 :::
-## 36.8. Wiederholungsübung zur Formenlehre
+## 36.8. Herhalingsoefening over de vormleer
 
-Bestimmen und übersetzen Sie folgende Wortformen auf alle möglichen Weisen:
+Bepaal en vertaal de volgende woordvormen op alle mogelijke wijzen:
 
 1.  ⟪नयति⟫
 2.  ⟪समस्कुर्वन्⟫

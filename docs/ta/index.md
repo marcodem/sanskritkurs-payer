@@ -30,6 +30,6 @@ features:
 
 **தொடர்பு & பங்களிப்பு**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**தொகுப்பாளர்கள்**: ஆசிரியர்களுக்கு இணைய தொகுப்பி கிடைக்கும் ([payer-author.birchville.org](https://payer-author.birchville.org)) | மாற்று: தனிநபர் Markdown தொகுப்பி [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **தற்போதைய பதிப்பு**: v1.7.0
 :::

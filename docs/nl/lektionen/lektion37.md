@@ -1,460 +1,436 @@
-
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: "Les 37"
+subtitle: "Het bijwoord (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Het bijwoord (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet
+Bijwoorden worden in het Sanskriet gevormd
 
-1.  durch Kasusformen von Nomina und Pronomina
-2.  mit Hilfe besonderer Suffixe und Endungen
+1.  door casusvormen van nomina en pronomina
+2.  met behulp van bijzondere suffixen en uitgangen
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden.
+In het eerste geval is de grens tussen levende casus en bijwoord vloeiend. Hiertoe behoren als bijzonder geval de bijwoorden die verstijfde, oude casusvormen zijn, terwijl in de declinatie andere vormen gebruikt worden dan wel de overeenkomstige nomina niet meer als nomina gebruikt worden.
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. Adverbiaal gebruik van casusvormen
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. Accusatief (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen:
+De accusatief (⟪द्वितीया⟫) kan adverbiaal gebruikt worden bij de vragen:
 
-*   in welcher Weise?
-*   wie lange?
-*   wohin?
-*   u. ä.
+*   op welke wijze?
+*   hoe lang?
+*   waarheen?
+*   e.d.
 
-Adverbial gebraucht werden kann der Akkusativ:
+Adverbiaal gebruikt kan de accusatief worden:
 
-*   von Substantiven  
-    Beispiele:  
-:::
-::: indent
-⟪कामम्⟫ "wunschgemäss, nach Wunsch"
-⟪अर्थम्⟫ "wegen"
-:::
-     
-*   von Adjektiven im Neutrum  
-    Beispiele:  
-::: indent
-⟪सुखम्⟫ "leicht, glücklich"
-⟪नित्यम्⟫ "stets"
-⟪साधु⟫ "richtig, gut"
-:::
-     
-*   von Pronomina im Neutrum  
-    Beispiele:  
-::: indent
-⟪तद्⟫ "dann, darum"
-⟪यद्⟫ "wenn, dass"
-⟪एतद्⟫ "so, hier, jetzt"
+*   van substantieven  
+Voorbeelden:  
+⟪कामम्⟫ "volgens wens, naar wens"  
+⟪अर्थम्⟫ "wegens"  
+
+*   van adjectieven in het neutrum  
+Voorbeelden:  
+⟪सुखम्⟫ "licht, gelukkig"  
+⟪नित्यम्⟫ "altijd"  
+⟪साधु⟫ "juist, goed"  
+
+*   van pronomina in het neutrum  
+Voorbeelden:  
+⟪तद्⟫ "toen, daarom"  
+⟪यद्⟫ "wanneer, dat"  
+⟪एतद्⟫ "zo, hier, nu"
 :::
 ### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen:
+De instrumentalis (⟪तृतीया⟫) kan adverbiaal gebruikt worden bij de vragen:
 
-*   wodurch?
-*   womit?
-*   u. ä.
+*   waardoor?
+*   waarmee?
+*   e.d.
 
-Adverbial gebraucht werden kann der Instrumentalis:
+Adverbiaal gebruikt kan de instrumentalis worden:
 
-*   von Substantiven  
-    Beispiele:  
-:::
-::: indent
-⟪अर्थेन⟫ "wegen"
-⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")
-:::
-     
-*   von Adjektiven, oft auch in der Pluralform  
-    Beispiele:  
-::: indent
-⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")
-⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)")
+*   van substantieven  
+Voorbeelden:  
+⟪अर्थेन⟫ "wegens"  
+⟪क्षणेन⟫ "op het ogenblik, onmiddellijk" (van ⟪क्षण⟫ m. "ogenblik")  
+
+*   van adjectieven, vaak ook in de pluralisvorm  
+Voorbeelden:  
+⟪दूरेण⟫ "ver, uit de verte" (bij ⟪दूर⟫ 3 "ver, ver van")  
+⟪उच्चैस्⟫ "hoog, luid" (bij ⟪उच्च⟫ 3 "hoog, verheven, luid, schel (van stem)")
 :::
 ### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen:
+Zelden wordt de datief (⟪चतुर्थी⟫) adverbieel gebruikt op de vragen:
 
-*   zu welchem Zweck?
-*   u. ä.
+*   met welk doel?
+*   enz.
 
-Beispiel:
+Voorbeeld:
 :::
 ::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen"
+⟪अर्थाय⟫ "met het oog op, om ... wil"
 :::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.4. Ablatief (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen:
+De ablatief (⟪पञ्चमी⟫) kan adverbieel worden gebruikt op de vragen:
 
-*   warum?
-*   aufgrund wessen?
-*   woher?
-*   u. ä.
+*   waarom?
+*   om welke reden?
+*   waarvandaan?
+*   enz.
 
-Adverbial gebraucht werden kann der Ablativ:
+De ablatief kan adverbieel worden gebruikt:
 
-*   von Substantiven  
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"  
-     
-*   von Adjektiven  
-    z.B. ⟪दूरात्⟫ "von fern"  
-     
-*   von Pronomina  
-    Beispiele:  
+*   van substantieven  
+bijv. ⟪बलात्⟫ "gewelddadig, met geweld"  
+
+*   van adjectieven  
+bijv. ⟪दूरात्⟫ "van veraf"  
+
+*   van pronomina  
+voorbeelden:  
+⟪कस्मात्⟫ "waarom"  
+⟪अकस्मात्⟫ "onverwacht"
+:::
+### 37.2.5. Genitief (⟪षष्ठी⟫)
+
+::: grammar-box
+Zelden wordt de genitief (⟪षष्ठी⟫) adverbieel gebruikt op de vraag "na hoeveel tijd?"
+
+bijv. ⟪चिरस्य⟫ "na lange tijd" (zie ⟪चिर⟫ 3 "lang (tijd)")
+:::
+### 37.2.6. Lokatief (⟪सप्तमी⟫)
+
+::: grammar-box
+De lokatief (⟪सप्तमी⟫) kan adverbieel worden gebruikt op de vragen:
+
+*   waar?
+*   onder welke omstandigheden?
+*   enz.
+
+Voorbeelden:
 :::
 ::: indent
-⟪कस्मात्⟫ "warum"
-⟪अकस्मात्⟫ "unerwartet"
+\-⟪अर्थे⟫ "wegens"  
+\-⟪कृते⟫ "om wil"  
+⟪दूरे⟫ "ver van"
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+## 37.3. Adverbieel gebruik van niet langer gebruikelijke kasusvormen
 
-::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?"
-
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)")
-:::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
-
-::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen:
-
-*   wo?
-*   unter welchen Umständen?
-*   u. ä.
-
-Beispiele:
-:::
+Voorbeelden:
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern"
+⟪जातु⟫ "in het algemeen" (oorspronkelijk "van geboorte, van nature", akk.sg.neu. tot ⟪जातु⟫ \<niet langer als zelfstandig naamwoord in gebruik\>)
+
+⟪तूष्णीम्⟫ "zwijgend" (akk.sg. tot een niet langer gebruikelijke ⟪तूष्णी⟫ v. "stilte")
+
+⟪एवम्⟫ "zo" (tot een anderszins verloren gegaan pronominaal stam ⟪एव⟫ "een, enkel")
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
-
-Beispiele:
-::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>)
-
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen")
-
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig")
-:::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Vorming van bijwoorden met adverbiale suffixen
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen
+Van de pronomale stammen ⟪तद्⟫, ⟪इदम्⟫ resp. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ resp. ⟪कु⟫ kan men met de adverbiale suffixen
 
-*   \-⟪तस्⟫ (Ablativ)
-*   \-⟪त्र⟫ (Lokativ)
-*   \-⟪था⟫ (Art und Weise)
-*   \-⟪थम्⟫ (Art und Weise)
-*   \-⟪दा⟫ (Zeit)
+*   \-⟪तस्⟫ (Ablatief)
+*   \-⟪त्र⟫ (Locatief)
+*   \-⟪था⟫ (Manier)
+*   \-⟪थम्⟫ (Manier)
+*   \-⟪दा⟫ (Tijd)
 
-entsprechende Pronominaladverbien ableiten.
+overeenkomstige pronomale bijwoorden afleiden.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | |
+| Suffix | Pronomale stam | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
+| **-⟪तस्⟫** :br(Ablatief) | ⟪ततस्⟫ :brvan daar, daarop, daarom | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvan hier, om deze reden | ⟪यतस्⟫ :brwaarvandaan, waarvan | ⟪कुतस्⟫ :brwaarvandaan?, waarom? |
+| **-⟪त्र⟫** :br(Locatief) | ⟪तत्र⟫ :brdaar, ginds | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwaar | ⟪कुत्र⟫ :brwaar? |
+| **-⟪था⟫** :br(Manier) | ⟪तथा⟫ :brzo | | ⟪यथा⟫ :brhoe | |
+| **-⟪थम्⟫** :br(Manier) | | | | ⟪कथम्⟫ :brhoe? |
+| **-⟪दा⟫** :br(Tijd) | ⟪तदा⟫ :brtoen, dan | | ⟪यदा⟫ :brtoen | ⟪कदा⟫ :brwanneer? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?"
+Een ander vraagbijwoord is: ⟪क्व⟫ "waar?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701))
+Afbeelding: ⟪क्व⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe**
+**Overige adverbiale suffixen**
 
 | Suffix | |
 | :--- | :--- |
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
-
+| **-⟪वत्⟫** | kan aan willekeurige zelfstandige naamwoorden worden gehecht om "naar de aard van, gelijk aan" uit te drukken:brbijv. ⟪पुत्रवत्⟫ "als een(zoon)" |
+| **-⟪तस्⟫** | aan zelfstandige naamwoorden en voornaamwoorden. Meestal ablatief betekenis "waarvandaan?", maar ook "waar?", "waarnaar?":brbijv. ⟪आदितस्⟫ "vanaf het begin" |
+| **-⟪धा⟫** | 1. Bij telbijwoorden in de betekenis "-voudig", "-vuldig":brbijv. ⟪द्विधा⟫ "tweevoudig":br2. in de betekenis "op enigerlei wijze":brbijv. ⟪समधा⟫ "op gelijke wijze" (tot ⟪सम⟫ 3 "gelijk") |
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Bijwoordelijke samenstellingen
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. Samenstellingen met een bijwoord of een als bijwoord gebruikt naamval als achterlid
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)"
+Voorbeeld: ⟪सुचिरम्⟫ "heel lang (tijd)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbiaal gebruikte ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied.
+Voorbeeld: ⟪रक्षार्थम्⟫ „op de manier van iemand wiens doel het beschermen is, met het oog op het beschermen”. Kan ook worden beschouwd als behorend tot 5.1.: -⟪अर्थम्⟫ als bijwoordelijk achterlid.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. ⟪अव्ययीभाव⟫-samengestelde woorden
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
+⟪अव्ययीभाव⟫ = "onveranderlijk/onverbuigbaar geworden"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt.
+Een ⟪अव्ययीभाव⟫ is een bijwoordelijk samengesteld woord waarvan het voorlid een onverbuigbaar woord (postpositie, partikel e.d.) is en waarvan het achterlid een zelfstandig naamwoord is dat de uitgang van de accusatief enkelvoud neutrum aanneemt.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
+Bij het ontleden van het samengestelde woord zou het voorlid het achterlid bepalen:
 
-Beispiele:
+Voorbeelden:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं प्रति⟫ = „tegen het vuur“
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = „met alle kracht“
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen"
+⟪अभिमुखम्⟫ = ⟪मुखम् अभि⟫ = "voorwaarts, tegemoet"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied:
+Bijzonder belangrijk zijn ⟪अव्ययीभाव⟫ met ⟪यथा⟫ "zoals" als voorlid:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig"
+bijv. ⟪यथाकामम्⟫ = ⟪कामो यथास्ति⟫ = "zoals men wenst, naar wens, naar believen"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702))
+Afb.: ⟪यथाशक्ति⟫
+(Bron: [Details](/nl/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches
+## 37.6. Syntaxis
 
 ::: grammar-box
-Bei den Verben
+Bij de werkwoorden
 
-*   ⟪अस्⟫ 2P "sein"
+*   ⟪अस्⟫ 2P "zijn"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen:
+kan in plaats van een predikatief bijvoeglijk naamwoord een predikatief bijwoord staan:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte"
+bijv. ⟪तूष्णीं बभूव⟫ "hij werd stil, hij zweeg"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703))
+Afb.: ⟪तूष्णीं बभूवुः⟫
+(Bron: [Details](/nl/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina
+## 37.7. Onbepaalde voornaamwoorden
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von
+Onbepaalde voornaamwoorden worden door toevoeging van
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet.
+aan de naamvallen van het vraagvoornaamwoord ⟪किम्⟫ gevormd.
 
-z.B.
+bijv.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को ऽपि⟫ = "iemand, wie dan ook"  
+⟪कस्यचिद्⟫ = van iemand
 :::
-## 37.8. Der Fragesatz
+## 37.8. De vragende zin
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm."
+"Wie?, hoe?, wat?, hoezo?, waarom?  
+Wie niet vraagt, blijft dom."
 
-⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
-⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
-⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
+⟪कः कथं किं केन कस्मात्कस्मै । यो न पृच्छेन् मूर्खस्तिष्ठेत् ॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist
+Motto van Sesamstraat, dat een goede leidraad is voor het leven en de studie van het Sanskriet
 :::
-Siehe auch [Lektion 4](lektion04.md).
+Zie ook [Les 4](lektion04.md).
 
-Man muss unterscheiden
+Er moet onderscheid worden gemaakt tussen
 
-*   Wortfragen (Ergänzungsfragen)
-*   Satzfragen
+*   Woordvragen (aanvullende vragen)
+*   Zinsvragen
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B.
+Bij woordvragen wordt gevraagd naar een agent (⟪कर्तृ⟫), een object, een handeling, een omstandigheid e.d., bijvoorbeeld:
 
-*   wer kommt?
-*   was tut Rāma?
-*   wen hört er?
-*   wie spricht sie Sanskrit?
-*   wo ist die Mutter?
+*   wie komt er?
+*   wat doet Rāma?
+*   wie hoort hij?
+*   hoe spreekt zij Sanskriet?
+*   waar is de moeder?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
+Bij zinsvragen wordt naar de volledige inhoud van de zin gevraagd, bijvoorbeeld:
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es richtig, dass ... ?
+*   gaat Rāma vandaag naar Ofterdingen?
+*   klopt het dat ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. Woordvragen (aanvullende vragen)
 
 ::: grammar-box
 Schema:
 
-Fragepronomen/Frageadverb - Satz
+Vraagvoornaamwoord/vraagbijwoord - zin
 :::
-Beispiele:
+Voorbeelden:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?"
+⟪को ग्रामं गच्छति⟫ =  ⟪केन ग्रामो गम्यते⟫ = "Wie gaat er naar het dorp?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?"
+⟪किं बाला अधीयीरन्⟫ = "Wat zouden kinderen moeten leren?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma?
+⟪क्व रामो वसति⟫ = Waar woont Rāma?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704))
+Afb.: ⟪किं बाला अधीयीरन्⟫
+(Bron: [Details](/nl/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. Vraagzinnen
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist.
+Soms is alleen uit de context te maken of een zin een vraagzin is.
 :::
 ::: grammar-box
 Schema I:
 
-Verb - restlicher Satz
+Werkwoord - rest van de zin
 :::
-Beispiel:
+Voorbeeld:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?"
+⟪गमिष्यति ब्राह्मणबालो गुरुम् ।⟫ „Zal de brahmaanjongen naar een meester gaan?”
 :::
 ::: grammar-box
 Schema II:
 
-Fragepartikel (meist am Satzanfang) - Satz
+Vraagpartikel (meestal aan het begin van de zin) – zin
 
-Die wichtigsten Fragepartikel sind:
+De belangrijkste vraagpartikels zijn:
 
 *   ⟪अपि⟫
     
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten)
+*   ⟪किम्⟫ (laat vaak een ontkennend antwoord verwachten)
     
 *   ⟪कच्चिद्⟫
     
 
-Diese Partikel entsprechen dem Fragezeichen.
+Deze partikels komen overeen met het vraagteken.
 :::
-Beispiel:
+Voorbeeld:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
+⟪अपि सत्यम् ।⟫ „Is het ook waar?”
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?"
+⟪किं शक्नोति ।⟫ "Kan hij dat dan?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?"
+⟪कच्चित्क्षत्रियेण शत्रवो जिताः ।⟫ "Heeft de Kṣatriya dan de vijanden verslagen?"
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫):
+Opmerking: ⟪किम्⟫ kan naast „wat?” en als vraagwoord ook „waarom?, waarvoor?” betekenen. Dit geldt met name bij het instrumentalis (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?"
+⟪किं क्रोधेन ।⟫ „Waarom die woede? Wat levert die woede op? Wat is het nut van die woede?”
 :::
-## 37.9. Wortliste
+## 37.9. Woordenlijst
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
+⟪मूर्ख⟫ 3: dom, stom, onnozel m. Domkop
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+⟪मुनि⟫ m.: Wijze, (zwijgende) asceet
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: asceet uit het geslacht van de ⟪शाक्य⟫ (Kṣatriya's uit ⟪कपिलवस्तु⟫) = Boeddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+Afb.: ⟪शाक्यमुनिः⟫
+(Bron: [Details](/nl/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ zn.: dag
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: boom
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+Afb.: ⟪वृक्षः⟫
+(Bron: [Details](/nl/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ zn.: mond, gezicht, voorste deel, begin
 
-## 37.10. Übung
+## 37.10. Oefening
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze.
+A) Beantwoord de volgende vragen in het Sanskriet met behulp van de woorden tussen haakjes. Vertaal de vraagzinnen.
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Voorbeeld: ⟪क आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम आगच्छति । कस्मै ब्राह्मण्यन्नं ददौ ॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
+⟪क आर्यसत्यान्यजानात् ॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
+⟪कुत्राग्निश्चीयते ॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
+⟪कदा ब्राह्माणा घृतमग्नौ जुह्वति ॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान् स्तु⟫ \<Absolutiv\>)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>)
+⟪कस्मान्मतिमतयः पुण्यं चक्रुः ॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
+⟪किमेव शस्त्रं छिनत्ति ॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
+⟪किंकामः शत्रुरार्यैः सह युयुधे ॥७॥⟫ (⟪धनं जि⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
+⟪कया भिक्षुरादितः ॥८॥⟫ (⟪गुणवती शूद्रा⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
+⟪कुतः सुपुनर्भवं गम्यते ॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
+⟪केन शूद्रा न काम्येत ॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪किमर्थं सुगतो ऽगारादनगार्यं प्रवव्राज ॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती प्रज्ञा⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
-
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
+⟪कस्याः पुत्र्रः कृष्ण आसीत् ॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707))
+Afbeelding: ⟪कृष्णः बलरामश्च⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
+⟪क्व मर्तुं सज्जना इच्छन्ति ॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708))
+Afbeelding: ⟪क्व मर्तुं सज्जना इच्छन्ति⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
+⟪केषां धर्मो वेदाध्ययनम् ॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
+⟪कैर्वेदः प्रोक्तः ॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
+⟪कस्मिञ्जात आर्यः सुखमाप्नोति ॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
+⟪का नरा लुभ्यन्ति ॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
+⟪के नराः सुरूपा लुभ्यन्ति ॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
+⟪कस्या इन्द्रः पुत्र्रं दास्यति ॥१९॥⟫ (⟪कृतव्रता पुण्यवती सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie:
+B) Vertaal:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+⟪किं स्थितप्रज्ञः प्रव्रजेत्किमगारे पुत्र्रेषु वसेत् ॥१॥ अपि गुरुः सत्यं जानाति ॥२॥ कच्चिच्छुद्रा द्विजदासाः ॥३॥ कच्छिच्छुद्रो भारमाबिभः ॥४॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
+C) Vertaal de volgende ⟪अव्ययीभाव⟫ :
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
-
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
-
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
-
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus"
+1\. ⟪अति⟫ Postpositie met acc.: "voorbij ... heen"
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
@@ -468,10 +444,10 @@ C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709))
+Afb.: ⟪अधिकेरलं वर्तन्ते⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach"
+3\. ⟪अनु⟫ "overeenkomstig, langs, volgens"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -479,18 +455,18 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne"
+4\. ⟪अप⟫ "zonder"
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf"
+5\. ⟪अभि⟫ "in de richting van"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich"
+6\. ⟪आ⟫ "sinds, tot, inclusief"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -498,27 +474,26 @@ Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710))
+Afb.: ⟪आबालवृद्धं लंदननगरे ववृतिरे⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe"
+7\. ⟪उप⟫ "nabij"
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711))
+Afb.: ⟪उपवृक्षं सीदन्ति⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. Herhalingsoefening
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden:
+Vertaal naar het Sanskriet door uitsluitend werkwoordsvormen van het perfectum te gebruiken:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises!
-
+Toen eens een of andere grijsaard naar een ander dorp ging, werd hij onderweg vermoeid. Daarop ging hij, om zich uit te rusten, naar de voet van een terzijde staande mangoboom. Op deze boom waren rijpe vruchten. De grijsaard kreeg lust naar deze. Maar hij kon niet op de boom klimmen en naar de vruchten grijpen. Gelukkig waren er op deze boom enige apen, die vruchten aten. Toen hij deze gewaar werd, verblijdde de grijsaard zich. Wat deed hij? Hij nam enkele stenen, mikte op de apen en wierp. De vertoornde apen plukten enige vruchten en wierpen deze naar de grijsaard. De grijsaard nam deze verheugd en ging naar zijn gewenste streek. Zie, het lot van de grijsaard!

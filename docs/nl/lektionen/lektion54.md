@@ -1,50 +1,46 @@
-
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: "Les 54"
+subtitle: "Voorafgaande opmerking"
 lesson_id: 54
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 54
+---# Les 54
 
-## 54.1. Vorbemerkung
+## 54.1. Inleiding
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+Met les 54 begint het tweede semester van de universitaire opleiding. Vanaf nu loopt de cursus alleen nog maar parallel aan het hoofdthema van dit semester: het lezen van de volledige Bhagavadgītā. Het leerdoel is om zo vertrouwd te raken met het lezen van een tekst van gemiddelde moeilijkheidsgraad, dat in het laatste derde deel van het semester grote delen van de Bhagavadgītā uit de losse pols kunnen worden vertaald. In het begin werden tijdens de universitaire colleges nog woordenlijsten uitgedeeld, later moesten de studenten zelf de juiste woordenboeken (Monier-Williams, Apte, PW) gebruiken.
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
+De cursus over de Bhagavadgītā wordt voorlopig nog niet online aangeboden.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden.
+De lessen van de Sanskrietcursus behandelen onderwerpen uit de Sanskrietgrammatica die tot nu toe nog niet aan bod zijn gekomen.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Woordvorming: ⟪कृत्⟫-achtervoegsel -u aan desideratieve stammen
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
+**Aan desideratieve stammen (⟪इच्छाप्रकृति⟫) („iets willen doen“; „op het punt staan iets te doen“) wordt het achtervoegsel -u toegevoegd om agentieve zelfstandige naamwoorden te vormen.**
 
-(Bildung der Desiderativstämme folgt später)
+(De vorming van de desideratieve stammen volgt later)
 
-Beispiel:
+Voorbeeld:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
+⟪युयुत्सु⟫ (yu-yudh + s + u) „strijdlustig, op het punt om te vechten“
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402))
+Afb.: ⟪अयुयुत्सुरर्जुनः भगवद्गीतोपदेशः⟫ Tirupati = 티루파티
+(Afbeeldingsbron: [Details](/nl/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 54.3. Metriek II: de epische ⟪त्रिष्टुभ्⟫ en de ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
+De ⟪त्रिष्टुभ्⟫ ("Drie jubelkreten") verschijnt in de epen temidden van de gebruikelijke ⟪श्लोक⟫-passages, juist op plaatsen waar de sfeer of de handeling een bijzondere opleving of afsluiting beleeft.
+De ⟪त्रिष्टुभ्⟫-strofe bestaat uit vier elflettergrepige ⟪पाद⟫, die qua opbouw niet van elkaar verschillen.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
-
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht.
+De ⟪त्रिष्टुभ्⟫ kent twee basisschema’s, afhankelijk van of de cesuur (woordeinde, compositiegrens of vóór bepaalde achtervoegsels zoals -tara, -tama e.d.) na de 4e of 5e lettergreep van de ⟪पाद⟫ staat.
 
 Schema I:
 
@@ -57,19 +53,19 @@ Schema II:
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
+De kwantiteit van de vier laatste lettergrepen is dus in beide schema’s gelijk.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
+⟪जगती⟫-basisvorm: zoals bij ⟪त्रिष्टुभ्⟫, maar met 12 lettergrepen. De laatste 5 lettergrepen van elke pada hebben de volgende kwantiteiten:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
+Daarnaast bestaat er de zogenaamde typisch overtollige ⟪त्रिष्टुभ्⟫ met een vijflettergrepig begin, die verdergaat als een ⟪त्रिष्टुभ्⟫ met een vierlettergrepig begin:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+In latere tijden worden de vormen van de ⟪त्रिष्टुभ्⟫ vastgelegd volgens een strikt schema van lange en korte lettergrepen; de cesuur speelt geen rol meer. De belangrijkste latere vormen zijn:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -84,172 +80,155 @@ b) ⟪उपेन्द्रवज्रा⟫
 c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
+⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ en ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ zijn in één strofe samengevoegd.
 :::
 ::: grammar-box
-**Merkverse:**
+**Herinneringsverzen:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
+**⟪स्यादिन्द्रवज्रा यदि तौ जगौ गः ।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
+"Het is een Indravājrā als de lettergrepen in alle pāda's ta ta ja ga ga zijn.
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
+⟪उपेन्द्रवज्रा प्रथमे लघौ सा ।⟫
+::: indent
+"Een Upendravajrā is als een Indravajrā die aan het begin een lichte lettergreep heeft"
+:::
+⟪अनन्तरोदीरितलक्ष्मभाजौ पदौ यदीयावुपजातयस्ताः । इत्थं किलान्यास्वपिमिश्रितासु वदन्ति जातिष्विदमिदमेवनाम ॥⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
+"Als twee pāda's, die respectievelijk de kenmerken van Indravajrā en Upendravajrā hebben, deel uitmaken van een vers, dan zijn het Upajātis. Ook als er andere metra in een vers zijn vermengd, noemt men het Upajāti."
 :::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+## 54.4. Oefening in metriek
 
-::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
-:::
-## 54.4. Übung zur Metrik
+Bepaal in de Bhagavadgītā II de Triṣṭubhs en Jagatīs.
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
+Voorbeeld van een recitatie: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Geraadpleegd op 28-01-2009
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
-
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Vormingstypen van de aoristus (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**Gemeenschappelijk aan alle vormtypes van de aoristus (⟪लुङ्⟫) is het augment a-, dat volgens dezelfde regels als in de onvoltooid verleden tijd (⟪लङ्⟫) wordt toegevoegd.**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
+Van de aoristus zijn in het Sanskriet alleen de indicatief en de prekatief in gebruik.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**Er zijn de volgende vormen van de aoristus (⟪लुङ्⟫):**
 
-1.  Nichtsibilantische (asigmatische) Aoriste: 
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung 
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung 
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
-
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen
+1.  Aoristussen zonder sibilant (asigmatisch): 
+    *   54.1. Wortelaoristus: augment + stam + secundaire uitgang
+    *   54.2. Aoristus met themavocaal: augment + stam + **a** + secundaire uitgang
+    *   54.3. Gedupliceerde aoristus: augment + **gedupliceerde** stam + **a** + secundaire uitgang 
+2.  Sibilantische (sigmatische) aoristus: s of een lettergreep die s (ṣ) bevat, staat vóór de persoonsuitgang 
+    *   54.4. -s-aoristus: augment + stam + **s** + secundaire uitgang
+    *   54.5. -iṣ-aoristus: augment + stam + **i** + **ṣ** + secundaire uitgang
+    *   54.6. -siṣ-aoristus: augment + stam + **siṣ** + secundaire uitgang
+    *   54.7. -sa-aoristus: augment + stam + **s** + **a** + secundaire uitgang
+Voor de verdeling van de stamwoorden over de afzonderlijke woordvormingstypen, zie de afzonderlijke typen
 :::
-## 54.6. Wurzelaorist
+## 54.6. Stamwoordvorming
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**Augment + Wurzel + Sekundärendung**
+**Augment + stam + secundaire uitgang**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich.
+De uitgang van de 3e persoon meervoud is -ur. Ātmanepada wordt niet gebruikt.
 
-Beispiel:
+Voorbeeld:
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 1e persoon "drinken"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (laag niveau!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
+De wortelstam wordt gevormd door slechts 12 wortels:
 
-1.  ⟪गा⟫ 3 "gehen"
-2.  ⟪घ्रा⟫ 1P "riechen"
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3U "geben"
-5.  ⟪दो⟫  1, 4 "schneiden"
-6.  ⟪धा⟫ 3U "setzen"
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1P "trinken"
-9.  ⟪शो⟫ 4P "schärfen"
-10.  ⟪सो⟫ "beendigen"
-11.  ⟪स्था⟫ 1P "stehen"
-12.  ⟪भू⟫ 1P "sein
+1.  ⟪गा⟫ 3 "gaan"
+2.  ⟪घ्रा⟫ 1P „ruiken”
+3.  ⟪छो⟫ 6 „snijden” (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U "geven"
+5.  ⟪दो⟫  1, 4 "snijden"
+6.  ⟪धा⟫ 3U „zetten“
+7.  ⟪धे⟫ 1 „zuigen“ (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P „drinken”
+9.  ⟪शो⟫ 4P „slijpen”
+10.  ⟪सो⟫ „beëindigen”
+11.  ⟪स्था⟫ 1P „staan”
+12.  ⟪भू⟫ 1P „zijn“
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
+Voor ⟪भू⟫ 1P wordt de stam als volgt gevormd:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | :sig[⟪अभूवन्⟫] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. De aoristus van de 3e persoon enkelvoud passief
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
+Een speciale vorm van de aoristus op basis van de stam is de aoristus van de 3e persoon enkelvoud passief. Deze kan worden gevormd vanuit alle stammen.
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**Augment + Wurzel + i**
+**Augment + stam + i**
 
-**Die Wurzel hat folgende Gestalt:**
+**De stam heeft de volgende vorm:**
 
-Hochstufe:
+Hoogniveau:
 
-*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
-    Beispiele:  
+*   Wortels met een korte klinker (behalve a) voor een enkele medeklinker, evenals ⟪जन्⟫ en de meeste wortels op -am  
+    Voorbeelden:  
+    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ „hij werd gespleten“  
+    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ „hij werd geduwd”
+
+Reeksstadium:
+
+*   Wortstammen met uitlopende klinker  
+Voorbeelden:  
+⟪नी⟫ 1U: ⟪अनायि⟫ "hij werd geleid"  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "zij werd geprezen"  
+⟪कृ⟫ 8U: ⟪अकारि⟫ "het werd gemaakt"
+
+
+*   Wortstammen met a voor een enkele medeklinker (behalve ⟪जन्⟫ en stammen op -am)  
+Voorbeeld:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ "het werd gezegd"  
+maar:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "zij werd geboren"
+
+
+*   enkele stammen op -am  
+Voorbeeld:  
+⟪गम् अगामि⟫
+
+
+Invoeging van y voor de uitgang:
+
+*   Stammen op -ā, -e, -ai, -o voegen een y in tussen het -ā van de stam en de uitgang:  
+Voorbeeld:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "het werd gegeven"
+
+
+Nasale infix:
+
+*   enkele stammen hebben een nasale infix:  
+Voorbeeld:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ naast ⟪अलाभि⟫ : "het werd ontvangen"
+
+
+(De overige vormen van het passief worden in de aorist weergegeven door Ātmanepada-vormen).
 :::
-::: indent
-⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"
-⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
-:::
+## 54.7. Oefening
 
-Dehnstufe:
-
-*   Wurzeln mit auslautendem Vokal  
-    Beispiele:  
-::: indent
-⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"
-⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"
-⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"
-:::
-     
-    
-*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)  
-    Beispiel:  
-::: indent
-⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"
-aber:
-⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"
-:::
-     
-
-*   einige Wurzeln auf -am  
-    Beispiel:  
-::: indent
-⟪गम्⟫ ⟪अगामि⟫
-:::
-    
-
-Einschub von y vor Endung:
-
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:  
-    Beispiel:  
-::: indent
-⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben"
-:::
-    
-
-Nasalinfix:
-
-*   einige Wurzeln haben ein Nasalinfix:  
-    Beispiel:  
-::: indent
-⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen"
-:::
-    
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben).
-## 54.7. Übung
-
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen:
+Vertaal schriftelijk de volgende vormen en vorm de bijbehorende aoristvormen:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -277,8 +256,8 @@ Nasalinfix:
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Afb.: ⟪त्रिचक्रेणेश्वरः स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401))
+(Bron afbeelding: [Details](/nl/licenses#lekt5401))
 :::
 

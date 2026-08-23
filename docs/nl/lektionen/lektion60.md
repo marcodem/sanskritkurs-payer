@@ -1,16 +1,16 @@
-
 ---
-title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Les 60"
+subtitle: "De duale uitgangen van de perfectus (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 60
 
-## 60.1. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
+## 60.1. De dualvormen van het perfectum (⟪द्विवचनम्⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -18,9 +18,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.2. De dual van het gerepliceerde perfectum (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Type 1: geen stamafleiding
 
 ⟪बन्ध्⟫ 9P "binden"
 
@@ -31,7 +31,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बबन्धतुर्⟫ |
 :::
-⟪भाष्⟫ 1Ā "sprechen"
+⟪भाष्⟫ 1Ā "spreken"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -40,9 +40,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. Type 2: sterke stam in hoge graad, zwakke stam in lage graad
 
-⟪भिद्⟫ 7U "spalten"
+⟪भिद्⟫ 7U "splijten"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -51,11 +51,11 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. Type 3: sterke stam in hoge graad/verlengde graad
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 60.2.3.1. Type 3a: sterke stam in hoge graad/verlengde graad, zwakke stam in lage graad
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U "leiden"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -64,7 +64,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪निन्यतुर्⟫ | ⟪निन्याते⟫ |
 :::
-⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
+⟪स्तु⟫ 2U (⟪अनिट्⟫) "prezen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -73,473 +73,467 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुष्टुवतुर्⟫ | ⟪तुष्टुवाते⟫ |
 :::
-⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
+⟪कृ⟫ 8U (⟪अनिट्⟫) "doen, maken"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 60.2.3.2. Type 3b: Sterke stam hoge graad/verlengde graad, zwakke stam hoge graad
 
-⟪स्मृ⟫ 1P "vergegenwärtigen"
+⟪स्मृ⟫ 1P "verbeelden"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. Type 4: Wortstammen op -ā / -ai
 
-⟪दा⟫ 3U "geben"
+⟪दा⟫ 3U "geven"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-\* identisch mit den entsprechenden Formen des Indikativ Präsens!
+\* identiek aan de overeenkomstige vormen van de indicativum present!
 :::
-### 60.2.5. Typ 5: Konsonant-a-Konsonant
+### 60.2.5. Type 5: Mediaklinker-a-medieklinker
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 60.2.5.1. Type 5a: Mediaklinker-a-medieklinker, zwakke stam lage graad
 
-⟪गम्⟫ 1U "gehen"
+⟪गम्⟫ 1U "gaan"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 60.2.5.2. Type 5b: Mediaklinker-a-medieklinker, beginmedeklinker geen gutturaal, aspiratie, h, Zwakke stam zonder reduplicatie, met -e-
 
 ⟪पच्⟫ 1U "garen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-
-⟪क्रम्⟫ 1U "schreiten"
+#### 60.2.5.3. Type 5c: Mediaklinker-a-medieklinker, zwakke stam hoge graad
+⟪क्रम्⟫ 1U "stappen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. De duale vorm van de perifrastische voltooid verleden tijd (⟪अनुप्रयोगलिट्⟫)
 
-⟪गण्⟫ 10P "zählen"
+⟪गण्⟫ 10P "tellen"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪गणयां⟫ ⟪चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां⟫ ⟪बभूवतुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪गणयां चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां बभूविव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪गणयां चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪गणयां चक्रतुर्⟫:br⟪गणयामासतुर्⟫:br⟪गणयां बभूवतुर्⟫ |
 :::
-⟪आस्⟫ 2Ā "sitzen"
+⟪आस्⟫ 2Ā "zitten"
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪आसां चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां बभूविवव्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आसांव् चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां बभूवथुर्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आसां चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. Het deelwoord ⟪परस्मैपद⟫ van de redupliceerde voltooid verleden tijd (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**schwacher Perfektstamm + vāṃs**
+**zwakke voltooid-stam + vāṃs**
 
-**Besteht der schwache Perfektstamm nur aus einer Silbe, dann wird der Bindevokal -i- angefügt. Bei einigen Perfekta ist der Bindevokal wahlweise.**
+**Als de zwakke voltooid-stam slechts uit één lettergreep bestaat, wordt de verbindingsklinker -i- toegevoegd. Bij sommige voltooid-vormen is de verbindingsklinker optioneel.**
 :::
-Beispiele:
+Voorbeelden:
 
-| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
+| ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ „iemand die heeft gespleten“ |
 | --- | --- |
-| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "jemand, der gewesen ist" ; "jemand, der geworfen hat" |
-| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "jemand, der gegeben hat" |
-| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
-| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
+| ⟪अस्⟫ 2P; 4P | ⟪आसिवांस्⟫ "iemand die is geweest" ; "iemand die heeft gegooid" |
+| ⟪दा⟫ 3U | ⟪ददिवांस्⟫ (da-d-i-vāṃs) "iemand die heeft gegeven" |
+| ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "iemand die heeft gekookt" |
+| ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ “iemand die is vertrokken” |
 
 ::: grammar-box
-**Deklination:**
+**Vervoeging:**
 
-*   **starker Stamm: -vāṃs**
-*   **schwacher Stamm:**
-    *   **vor Konsonant:** **-vat** **(!)**
-    *   **vor Vokal: -uṣ**
+*   **Sterke stam: -vāṃs**
+*   **Zwakke stam:**
+*   **voor medeklinker: -vat** **(!)**
+*   **voor klinker: -uṣ**
 
-**Vor uṣ entfällt der Bindevokal -i-.**
+**Voor uṣ valt de verbindingsklinker -i- weg.**
 
-**Feminin:**
+**Vrouwelijk geslacht:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**Zwakke stam voor klinker + -ī (vervoegd zoals ⟪देवी⟫)**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende"
+Voorbeeld: ⟪विदुषी⟫ "een wetende"
 :::
-Paradigmen siehe Kielhorn, Grammatik § 124:
+Zie paradigmas bij Kielhorn, Grammatik § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Bildquelle: [Details](/licenses#lekt6001))
+(Bron afbeelding: [Details](/nl/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Bildquelle: [Details](/licenses#lekt6002))
+(Bron afbeelding: [Details](/nl/licenses#lekt6002))
 :::
-## 60.5. Deklination der Stämme auf -añc (-ac)
+## 60.5. Vervoeging van de stammen op -añc (-ac)
 
 ::: grammar-box
-**Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
+**De stammen op -añc/-ac zijn combinaties van voorvoegsels enz. met het wortelnominaal woord van de wortel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "zich bewegen".**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 60.5.1. Driedimensionale stammen op -añc
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm:**
-    *   **vor Konsonant: -ac**
-    *   **vor Vokal:**
-        *   **das -a- des schwachen Stamms -ac entfällt und für einen vorangehenden Halbvokal wird der diesem entsprechende lange Vokal substituiert:**  
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **Geht dem -ac kein Halbvokal voraus, wird -ac durch -īc ersetzt:**  
-            ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+*   **Sterke stam: -añc**
+*   **Zwakke stam:**
+*   **voor medeklinker: -ac**
+*   **voor klinker:**
+*   **het -a- van de zwakke stam -ac valt weg en voor een voorgaande halvklinker wordt de overeenkomstige lange klinker als substitutie gebruikt:**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच् अन्वच्⟫ » ⟪अनूच्⟫
+*   **Als er geen halvklinker voorafgaat aan -ac, wordt -ac vervangen door -īc:**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:**
+**Vrouwelijk geslacht:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**Zwakke stam voor klinker + -ī (vervoegd zoals ⟪देवी⟫)**
 
-Beispiel: ⟪प्रतीची⟫
+Voorbeeld: ⟪प्रतीची⟫
 :::
-####  Paradigmen siehe Kielhorn, Grammatik § 128:
+#### Zie paradigmas bij Kielhorn, Grammatik § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
-(Bildquelle: [Details](/licenses#lekt6003))
+(Bron afbeelding: [Details](/nl/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Bildquelle: [Details](/licenses#lekt6004))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6004))
 :::
-Hierher gehören:
+Hieronder vallen:
 
-*   ⟪प्रत्यञ्च्⟫ 3 "rückwärts, westlich"
+*   ⟪प्रत्यञ्च्⟫ 3 „achterwaarts, westwaarts“
     
-*   ⟪अन्वञ्च्⟫ 3 "folgend"
+*   ⟪अन्वञ्च्⟫ 3 "volgend"
     
-*   ⟪उदञ्च्⟫ 3 "nach oben gerichtet, nördlich"
+*   ⟪उदञ्च्⟫ 3 "naar boven gericht, noordelijk"
     
-*   ⟪तिर्यञ्च्⟫ 3 "wagrecht gehend (von Tieren"
+*   ⟪तिर्यञ्च्⟫ 3 „horizontaal lopend (van dieren”
     
-*   ⟪सम्यञ्च्⟫ 3 "richtig"
+*   ⟪सम्यञ्च्⟫ 3 „juist”
     
-*   ⟪न्यञ्च्⟫ 3 "niedrig"
+*   ⟪न्यञ्च्⟫ 3 "laag"
     
-*   ⟪विष्वञ्च्⟫ 3 "nach allen Seiten gehend"
+*   ⟪विष्वञ्च्⟫ 3 "naar alle kanten lopend"
     
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. Stammen met twee stamdelen op -añc
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
+*   **sterke stam: -añc**
+*   **zwakke stam voor een medeklinker of klinker: -ac**
 :::
-Hierher gehören:
+Hieronder vallen:
 
-*   ⟪प्राञ्च्⟫ 3 "vorwärts gerichtet, östlich"
-*   ⟪अवाञ्च्⟫ 3 "abwärts gerichtet"
+*   ⟪प्राञ्च्⟫ 3 "naar voren gericht, oostelijk"
+*   ⟪अवाञ्च्⟫ 3 "naar beneden gericht"
 
-Paradigma ⟪प्राञ्च्⟫ siehe oben!
+Paradigma ⟪प्राञ्च्⟫ zie hierboven!
 
-Die Haupthimmelsrichtungen
+De belangrijkste windrichtingen
 
-|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
+|   | ⟪उदञ्च्⟫ 3:br"naar boven gericht,:brnoordelijk" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
-|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"naar achteren,:brwestelijk" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"naar voren gericht,:broostelijk" |
+|   | ⟪दक्षिण⟫ 3:brrechts,:brzuidelijk |   |
 
-(Bildquelle: [Details](/licenses#lekt6005))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. Het desiderativum (⟪सन्⟫)
 
 ::: grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen ausserhalb des Präsensstamms sind aber sehr selten.**
+**Van elke stam en van het causatief kan een desideratief (⟪सन्⟫) worden gevormd. Het desideratief kan in alle tijden en wijzen van de P, Ā en de passieve vorm worden vervoegd. Desideratieve vormen buiten de tegenwoordige tijd zijn echter zeer zeldzaam.**
 
-**Bedeutung:**
+**Betekenis:**
 
-*   **eine Person oder Sache wünscht zu tun oder zu erleiden, was durch die Wurzel oder das Kausativum ausgedrückt wird**
-*   **seltener: jemand oder etwas ist im Begriffe, zu tun, was durch die Wurzel oder das Kausativum ausgedrückt wird**
+*   **een persoon of ding wenst te doen of te ondergaan wat door de stam of het causatief wordt uitgedrukt**
+*   **minder vaak: iemand of iets staat op het punt te doen wat door de stam of het causatief wordt uitgedrukt**
 :::
-####  Beispiele:
+####  Voorbeelden:
 
-| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
+| ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "hij wenst te doen" |
 | --- | --- |
-| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "er ist im Begriffe, zu fallen" |
-| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
-| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
+| ⟪पत्⟫ 1P | ⟪पिपतिषति⟫ "hij staat op het punt te vallen" |
+| ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "hij wenst te stelen" |
+| ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "hij wenst te onderwijzen (tot inzicht te wekken)" |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. Vorming van de desideratieve stam
 
 ::: grammar-box
-**Wurzeln der Präsensklassen 1 - 9:**
+**Stammen van de presentieklassen 1 - 9:**
 
-**reduplizierte Wurzel + sa**
+**ge-redupliceerde wortel + sa**
 
-**oder:**
+**of:**
 
-**reduplizierte Wurzel + i + ṣa**
+**ge-redupliceerde wortel + i + ṣa**
 
-Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 443 - 445.
+De regels voor het gebruik van de verbindende klinker -i- zie bij Kielhorn, Grammatik § 443 - 445.
 
-**Wurzeln der 10. Präsensklasse und Kausative:**
+**Stammen van de 10e presentieklass en kausatieven:**
 
-**reduplizierter Präsensstamm + i + ṣa**
+**ge-redupliceerde presentiestam + i + ṣa**
 :::
 ::: grammar-box
-**Gestalt der Wurzel:**
+**Vorm van de wortel:**
 
-1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
-     
-    1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
-        ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"  
-         
-    2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
-        ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "zu füllen wünschen"  
-         
-    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
-        ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
-        ⟪धा⟫ » ⟪धित्स⟫-  
-        ⟪मा⟫ » ⟪मित्स⟫-  
-         
-2.  Hochstufige Wurzel haben im Desiderativ: 
-    1.  die meisten Wurzeln auf -ā (-e, -ai usw.):  
-        ⟪गै⟫ » ⟪जिगास⟫- "zu singen wünschen"  
-        ⟪पा⟫ » ⟪पिपास⟫- "zu trinken wünschen, dürsten"  
-         
-    2.  die meisten Wurzeln der Form (Konsonant -) a / ā - Konsonant:  
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "zu verbrennen wünschen"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "zu kauen wünschen"  
-         
-    3.  bei Antreten des Bindevokals -i-: 
-        1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:  
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"  
-             
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant ausser -v\_  
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
+1.  De wortel is meestal in de lage graad: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
+
+1.  uitgaand -i, -u wordt vervangen door -ī resp. -ū, als er geen verbindende klinker volgt:  
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "te willen overwinnen"  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "te willen lopen"  
+
+2.  uitgaand -ṛ, -ṝ wordt vervangen door -īr, na labialen door -ūr, als er geen verbindende klinker volgt:  
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "te willen doen"  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "op het punt staan te sterven"  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "te willen vullen"  
+
+3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ en enkele andere wortels op -ā, -e, -o hebben de lage graad Ø:  
+⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
+⟪धा⟫ » ⟪धित्स⟫-  
+⟪मा⟫ » ⟪मित्स⟫-  
+
+2.  Wortels in de hoge graad hebben in het desiderativum: 
+1.  de meeste wortels op -ā (-e, -ai enz.):  
+⟪गै⟫ » ⟪जिगास⟫- "te willen zingen"  
+⟪पा⟫ » ⟪पिपास⟫- "te willen drinken, dorsten"
+
+2. de meeste wortels van het type (medeklinker -) a / ā - medeklinker:  
+⟪दह्⟫ » ⟪दिधक्ष⟫- "willen te verbranden"  
+⟪खाद्⟫ » ⟪चिखादिष⟫- "willen te kauwen"  
+
+3. bij het toevoegen van de verbindingssilabe -i-: 
+1.  verplicht: wortels van het type i/u - medeklinker en (medeklinker -) ṛ/ḷ - medeklinker:  
+⟪इष्⟫ » ⟪एषिषिष⟫- "willen te wensen"  
+⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "willen te passen"  
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟩]⟪यिष⟫- "willen te glimlachen"  
+
+2. optioneel: wortels van het type medeklinker - (medeklinker -) i/u - medeklinker behalve -v\_  
+⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "willen te vonken"
 :::
 ::: grammar-box
-**Zur Reduplikation:**
+**Over de reduplicatie:**
 
-1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:  
+1.  Medeklinker-aanvangende wortels: De reduplicatie vindt plaats op de volgens bovenstaande regels gewijzigde wortels, volgens de gebruikelijke regels. In plaats van a als reduplicatievowel verschijnt echter i:  
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+De cerebraalisatie na i/u van uitgaand -s van de wortel blijft achterwege, wanneer het s van het desiderativum-suffix cerebraal wordt:  
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
+
+2.  Klinker-aanvangende wortels worden volgens de desbetreffende regels voor het reduplicerende aorist ([Lektion 56](lektion56.md)) geredupliceerd:  
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟫ » ⟪अरिरिष⟫-  
+
+3. De speciale desiderativum-vorming van bepaalde wortels zie bij Kielhorn, Grammatik § 451.
 :::
-::: indent
-⟪पा⟫ » ⟪पिपास⟫-
-⟪त्यज्⟫ » ⟪तित्यज⟫-
-⟪चुर्⟫ » ⟪चुचोरयिष⟫-
-Die Zerebralisierung nach i/u von auslautendem -s der Wurzel unterbleibt, wenn das s des Desiderativsuffixes zerebralisiert wird:
-⟪स्मि⟫ » ⟪सिस्मयिष⟫-
-:::
-     
-2.  Vokalisch anlautende Wurzeln werden nach den entsprechenden Regeln für den reduplizierten Aorist ([Lektion 56](lektion56.md)) redupliziert:  
-::: indent
-⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)
-⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)
-⟪ऋ⟫ » ⟪अरिरिष⟫-
-:::
-     
-3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
 ::: grammar-box
-**Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
+**Van sommige stamwoorden worden desideratieven gevormd zonder desideratieve betekenis. Van deze desideratieven kunnen weer desideratieven met een desideratieve betekenis worden gevormd.**
 :::
-Liste bei Kielhorn, Grammatik § 452:
+Lijst bij Kielhorn, Grammatica § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Bildquelle: [Details](/licenses#lekt6006))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6006))
 :::
-### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
+### 60.6.2. Vervoeging van het desideratief (⟪सन्⟫)
 
 ::: grammar-box
-**Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
+**De desideratieve vorm is – op enkele uitzonderingen na – P, Ā of U, afhankelijk van of de onderliggende stam (of de onderliggende werkwoordstam) P, Ā of U is.**
 
-**Präsensstamm: Konjugation wie ein thematischer Stamm:**
+**Stam in de tegenwoordige tijd: vervoeging zoals een thematische stam:**
 
 ⟪यज्⟫ 1U:
 
 :::
 ::: indent
-P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
-Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
-Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
+P: ⟪यियक्षति⟫ "hij wenst voor iemand anders te offeren"
+Ā: ⟪यियक्षते⟫ "hij wenst voor zichzelf (als offeraar) te offeren"
+Passief: ⟪यियक्ष्यते⟫ „er wordt gewenst om te offeren“
 :::
-**Perfekt: periphrastisch:**
+**Voltooid: perifrastisch:**
 
 ::: indent
-⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
+⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां चकार⟫ "hij wenste te verkrijgen"
 :::
-**Aorist: iṣ-Aorist:**
+**Aoristus: iṣ-aoristus:**
 
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫**
+**Toekomst: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
 :::
-Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
+Zie [Les 54](lektion54.md) voor de vorming van agentieve zelfstandige naamwoorden op -u vanuit de desideratieve stam.
 
-## 60.7. Übung
+## 60.7. Oefening
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben:
+A) Bestudeer in Kielhorn, Grammatica § 451 de onregelmatige desideratieve vormen van de tot nu toe geleerde werkwoorden:
 
 ::: media
 ![](/images/lekt6007.webp)
-(Bildquelle: [Details](/licenses#lekt6007))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Bildquelle: [Details](/licenses#lekt6008))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Bildquelle: [Details](/licenses#lekt6009))
+(Afbeeldingsbron: [Details](/nl/licenses#lekt6009))
 :::
-B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
+B) Bepaal en vertaal de volgende vormen zonder hulpmiddelen:
 
 1.  ⟪ददुषोः⟫
-    
+
 2.  ⟪अहिंसीः⟫
-    
+
 3.  ⟪देमथुः⟫
-    
+
 4.  ⟪वक्त्वा⟫
-    
+
 5.  ⟪अक्षथाः⟫
-    
+
 6.  ⟪मुमुषिषिष्यतः⟫
-    
+
 7.  ⟪अचिक्षंसेथाम्⟫
-    
+
 8.  ⟪अस्नाः⟫
-    
+
 9.  ⟪जिहिंसुषि⟫
-    
+
 10.  ⟪जिहिंसिषुणा⟫
-     
+
 11.  ⟪द्युभिः⟫
-     
+
 12.  ⟪जग्लिव⟫
-     
+
 13.  ⟪अतिस्तीर्षम्⟫
-     
+
 14.  ⟪अस्मेष्ठाः⟫
-     
+
 15.  ⟪ईशिष्व⟫
-     
+
 16.  ⟪रुरुषतुः⟫
-     
+
 17.  ⟪रुरुषुः⟫
-     
+
 18.  ⟪रुरुषिषुः⟫
-     
+
 19.  ⟪अपिप्रीणताम्⟫
-     
+
 20.  ⟪अपिप्रीषतम्⟫
-     
+
 21.  ⟪पिप्रियतुः⟫
-     
+
 22.  ⟪तिस्रः⟫
-     
+
 23.  ⟪अदांक्ष्टाम्⟫
-     
+
 24.  ⟪असिसीर्ष्यत⟫
-     
+
 25.  ⟪बभासाते⟫
-     
+
 26.  ⟪बिभासिषेथे⟫
-     
+
 27.  ⟪अबीभणत⟫
-     
+
 28.  ⟪चकर्त⟫
-     
+
 29.  ⟪चकर्थ⟫
-     
+
 30.  ⟪दिद्युते⟫
-     
+
 31.  ⟪दिद्युतिषे⟫
-     
+
 32.  ⟪चुच्यूषवे⟫
-     
+
 33.  ⟪दित्सामि⟫
-     
+
 34.  ⟪अचीकृतम्⟫
-     
+
 35.  ⟪विजिगीषौ⟫
-     
+
 36.  ⟪पित्सेथे⟫
-     
+
 37.  ⟪उदीचि⟫
-     
+
 38.  ⟪संगणय्य⟫
-     
+
 39.  ⟪अतिस्तराव⟫
-     
+
 40.  ⟪त्रिलोक्याः⟫
-     
+
 41.  ⟪अहः⟫
-     
+
 42.  ⟪जग्मुषः⟫
-     
+
 43.  ⟪अताप्स्व⟫
-     
+
 44.  ⟪ईशिशिषाञ्चक्रे⟫
-     
+
 45.  ⟪ईशाञ्चक्रे⟫
-     
+
 46.  ⟪ईशयाञ्चक्रे⟫
-     
+
 47.  ⟪षण्णाम्⟫
-     
+
 48.  ⟪अघुक्षम्⟫
-     
+
 49.  ⟪अष्टौ⟫
-     
+
 50.  ⟪प्साथः⟫
-     
+
 51.  ⟪अवाचः⟫
-     
+
 52.  ⟪ईयुषे⟫
 

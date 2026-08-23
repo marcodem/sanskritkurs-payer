@@ -30,6 +30,6 @@ Diller, çok aşamalı bir yapay zeka zinciri kullanılarak tamamen otomatik ola
 
 **İletişim & Katılım**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Proje Viki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editörler**: Yazarlar için çevrimiçi editör mevcut ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternatif: Bağımsız Markdown editörü [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Güncel Sürüm**: v1.7.0
 :::

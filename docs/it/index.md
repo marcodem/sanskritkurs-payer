@@ -30,6 +30,6 @@ Le lingue sono state tradotte completamente in modo automatico dall'italiano tra
 
 **Contatto e Contributo**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Wiki del Progetto](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editori**: Editor online disponibile per gli autori ([payer-author.birchville.org](https://payer-author.birchville.org)) | In alternativa: Editor Markdown standalone [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Versione corrente**: v1.7.0
 :::

@@ -30,6 +30,6 @@ features:
 
 **צור קשר והשתתפות**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**עורכים**: עורך אונליין זמין למחברים ([payer-author.birchville.org](https://payer-author.birchville.org)) | לחלופין: עורך Markdown עצמאי [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **גרסה נוכחית**: v1.7.0
 :::

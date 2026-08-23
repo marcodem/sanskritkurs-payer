@@ -30,6 +30,6 @@ features:
 
 **تماس و مشارکت**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **گیت‌هاب**: [ویکی پروژه](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**ویراستاران**: ویرایشگر آنلاین برای نویسندگان موجود است ([payer-author.birchville.org](https://payer-author.birchville.org)) | یا ویرایشگر مستقل Markdown [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **نسخهٔ فعلی**: v1.7.0
 :::

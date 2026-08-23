@@ -30,6 +30,6 @@ features:
 
 **Контакти та співпраця**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Редактори**: Онлайн-редактор доступний для авторів ([payer-author.birchville.org](https://payer-author.birchville.org)) | Альтернативно: автономний Markdown-редактор [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Поточна версія**: v1.7.0
 :::

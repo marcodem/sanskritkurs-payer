@@ -30,6 +30,6 @@ Bahasa-bahasa telah diterjemahkan sepenuhnya secara otomatis dari bahasa Jerman 
 
 **Kontak & Kontribusi**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 **GitHub**: [Wiki Proyek](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-**Editor**: Editor daring tersedia untuk penulis ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternatif: Editor Markdown mandiri [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 **Versi Saat Ini**: v1.7.0
 :::

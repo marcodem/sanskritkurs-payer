@@ -1,11 +1,11 @@
-
 ---
-title: Lektion 40
+title: "Les 40"
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 40
@@ -13,29 +13,16 @@ status: stable
 ## 40.1. ⟪सुभाषितानि⟫
 
 ::: indent
-⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
-⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
-
-⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
-⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
-⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
-
-⟪आचार्यात्पादमादत्ते⟫  
-⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
-⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् । पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥१॥ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् । सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥२॥ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया । पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥३॥⟫
 :::
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Bildquelle: [Details](/licenses#lekt4005))
+Afb.: ⟪पादं सब्रह्मचारिभ्यः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4005))
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. Vorming van de werkwoordvormen van de eerste persoon perfectum (⟪लिट्⟫)
 
-Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫)
+Uitgangen van de eerste persoon (⟪तृतीयः⟫) in het perfectum (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -46,39 +33,39 @@ Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट�
 
 :::
 ::: grammar-box
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen ausser Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā.
+Merk op dat de uitgangen van de 1. persoon enkelvoud P,Ā identiek zijn aan die van de 3. persoon enkelvoud. Daarom zijn in alle perfectumtypen behalve type III(a,b) en type V(a,b,c) de vormen van de 1. enkelvoud P respectievelijk Ā altijd identiek aan die van de 3. enkelvoud P respectievelijk Ā.
 
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
+Bij type IV eindigt de 1. enk. P. net als de 3. enk. P. op -au.
 
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
+Bij de perfectumtypen III en V is de 1. enkelvoud Ā altijd identiek aan de 3. enkelvoud Ā.
 
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein.
+Bij de perfectumtypen III en V zijn de 1. enkelvoud P en de 3. enkelvoud P naar keuze identiek: de 3. enk. P. moet bij deze vormingstypen altijd de verlengde trap hebben, de 1. enk. P. kan naar keuze de hoge trap of de verlengde trap hebben.
 :::
 ::: grammar-box
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-.
+Voor medeklinkerstartende uitgangen treedt bij het merendeel van de wortels de verbale klinker -i- op.
 
-Ausser vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich
+Behalve voor de uitgang -re, waar altijd -i- moet verschijnen (de verbale klinker voor medeklinkerstartende uitgangen komt namelijk nooit voor bij acht wortels op -ṛ resp. -u), nl.
 
-1.  ⟪कृ⟫ 8U (ausser ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "wählen"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "rennen"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "fliessen"
+1. ⟪कृ⟫ 8U (behalve ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "kiezen"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "rennen"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "stromen"
 
-Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
+Bij zogenaamde facultatieve ⟪अनिट्⟫-wortels kan de verbale klinker optioneel worden ingevoegd of juist niet. (Opsomming van deze wortels bij Kielhorn, Grammatik blz. 92 § 298b,2,3)
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. Perfectum Type I: geen stamafstoting
 
 1.sg. = 3.sg.
 
-Verben, die diesem Typ folgen:
+Werkwoorden die dit type volgen:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Medeklinker-lange klinker-medeklinker
+*   Medeklinker-klinker-medeklinker-medeklinker
+*   a-Medeklinker(-Medeklinker)
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
@@ -99,302 +86,302 @@ Verben, die diesem Typ folgen:
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
 :::
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+⟪अस्⟫ 2P en ⟪अस्⟫ 4P
 
 ::: indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. Perfectum Type II: sterke stam hoge graad, zwakke stam lage graad
 
-Verben, die diesem Typ folgen:
+Werkwoorden die dit type volgen:
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   (Medeklinker-)i/u/ṛ/ḷ-Medeklinker
 
 ⟪भिद्⟫ 7U
 
 ::: indent
 *   1.sg.P ⟪बिभेद⟫
-    
+
 *   1.pl.P ⟪बिभिदिम⟫
-    
+
 *   1.sg.Ā ⟪बिभिदे⟫
-    
+
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 4P facultatief ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪मुमोह⟫
-    
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+
+*   1.pl.P ⟪मुमुहिम । मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. Perfectum Type III: Sterke stam hoge graad/verlengde graad
 
-1.sg.P wahlweise hochstufig oder dehnstufig
+1.sg.P optioneel hoogtraps of verlengdtraps
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. Perfectum Type IIIa: Sterke stam hoogtrap/verlengdtrap, zwakke stam dieptrap
 
-Verben, die diesem Typ folgen:
+Werkwoorden die dit type volgen:
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
-*   (Konsonant-)-ṛ
+*   (Medewerker-)(Medewerker-)i/ī/u/ū
+*   (Medewerker-)-ṛ
 
 ⟪इ⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
-    
+*   1.sg.P ⟪इयाय । इयय⟫ (i+e+a)
+
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
-    
+*   1.sg.P ⟪निनाय । निनय⟫
+
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
-    
+
 *   1.sg.Ā ⟪निन्ये⟫
-    
+
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
 ⟪स्तु⟫ 2U strikt ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
-    
+*   1.sg.P ⟪तुष्टाव । तुष्टव⟫ (tu-sto + a)
+
 *   1.pl.P ⟪तुष्टुम⟫
-    
+
 *   1.sg.Ā ⟪तुष्टुवे⟫
-    
+
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
 ⟪कृ⟫ 8U strikt ⟪अनिट्⟫
 
 ::: indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
-    
+*   1.sg.P ⟪चकार । चकर⟫
+
 *   1.pl.P ⟪चकृम⟫
-    
+
 *   1.sg.Ā ⟪चक्रे⟫
-    
+
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. Perfectum Type IIIb: Sterke stam hoogtrap/verlengdtrap, zwakke stam hoogtrap
 
-Verben, die diesem Typ folgen:
+Werkwoorden die dit type volgen:
 
-*   (Konsonant-)(Konsonant-)-ṝ
+*   (Medewerker-)(Medewerker-)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
 
 ::: indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
-    
+*   1.sg.P ⟪पपार । पपर⟫
+
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
-    
+*   1.sg.P ⟪सस्मार । सस्मर⟫
+
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
-    
+*   1.sg.P ⟪सञ्चस्कार । सञ्चस्कर⟫
+
 *   1.pl.P ⟪सञ्चस्करिम⟫
-    
+
 *   1.sg.Ā ⟪सञ्चस्करे⟫
-    
+
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. Perfectum Type IV: Wortels op -ā / -ai
 
-*   Starker Stamm:
-    *   1.,3. sg. Parasamaip.: -au
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Sterke stam:
+*   1.,3. sg. Parasamaip.: -au
+*   Zwakke stam:
+*   voor medeklinker: dieptrap-i
+*   voor klinker: dieptrap-ø
 
 ⟪दा⟫ 3U
 
 ::: indent
 *   1.sg.P ⟪ददौ⟫
     
-*   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
+*   1e pers. meervoud ⟪ददिम⟫ (da-d-i-ma)
     
-*   1.sg.Ā ⟪ददे⟫
+*   1e pers. enkelvoud ⟪ददे⟫
     
-*   1.pl.Ā ⟪ददिमहे⟫
+*   1e meervoud Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
+### 40.2.5. Perfectum type V: medeklinker-a-medeklinker
 
-1.sg.P. wahlweise hochstufig oder dehnstufig
+1e pers. enkelvoud voltooid, naar keuze hoogtoon of langtoon
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. Voltooid type Va: medeklinker-a-medeklinker, zwakke stam, lage toon
 
-Verben, die diesem Typ folgen:
+Werkwoorden die aan dit type voldoen:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1.  gam „gaan“
+2.  han (»ghan) „doden“
+3.  jan „geboren worden“
+4.  vac „spreken“
+5.  vad „spreken“
+6.  yaj „offeren“
+7.  e.a.
 :::
 ⟪गम्⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
+*   1e pers. enkelvoud ⟪जगाम । जगम⟫
     
-*   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
+*   1e pers. meervoud ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
+*   1e pers. enkelvoud ⟪जघान । जघन⟫
     
-*   1.pl.P ⟪जघ्निम⟫
+*   1e meervoud, passief ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
 ::: indent
-*   1.sg.Ā ⟪जज्ञे⟫
+*   1e pers. enkelvoud Ā ⟪जज्ञे⟫
     
-*   1.pl.Ā ⟪जज्ञिमहे⟫
+*   1e pers. meervoud Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
 ::: indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
+*   1e pers. enkelvoud ⟪उवाच । उवच⟫
     
-*   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
+*   1e pers. meervoud ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
+*   1e pers. enkelvoud ⟪उवाद । उवद⟫
     
-*   1.pl.P ⟪ऊदिम⟫
+*   1e mv.P ⟪ऊदिम⟫
     
-*   1.sg.Ā ⟪ऊदे⟫
+*   1e enkelvoud Ā ⟪ऊदे⟫
     
-*   1.pl.Ā  ⟪ऊदिमहे⟫
+*   1e persoon meervoud Ā  ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
+*   1e pers. enkelvoud ⟪इयाज । इयज⟫
     
-*   1.pl.P ⟪ईजिम⟫
+*   1e pers. meervoud ⟪ईजिम⟫
     
-*   1.sg.Ā ⟪ईजे⟫
+*   1e pers. enkelvoud Ā ⟪ईजे⟫
     
-*   1.pl.Ā ⟪ईजिमहे⟫
+*   1e pers. meervoud Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 40.2.5.2. Perfectum type Vb: medeklinker-a-medeklinker, beginmedeklinker geen keelklank, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
+*   1e pers. enkelvoud ⟪पपाच । पपच⟫
     
-*   1.pl.P ⟪पेचिम⟫
+*   1e pers. meervoud ⟪पेचिम⟫
     
-*   1.sg.Ā ⟪पेचे⟫
+*   1e pers. enkelvoud Ā ⟪पेचे⟫
     
-*   1.pl.Ā ⟪पेचिमहे⟫
+*   1e pers. meervoud Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 40.2.5.3. Perfectum type Vc: medeklinker-a-medeklinker, zwakke stam, hoog niveau
 
-Verben, die diesem Typ folgen:
+Werkwoorden die aan dit type voldoen:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   Alle overige stamwoorden met een middellange -a-
 
 ⟪क्रम्⟫ 1U
 
 ::: indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
-    
-*   1.pl.P ⟪चक्रमिम⟫
-    
-*   1.sg.Ā ⟪चक्रमे⟫
-    
-*   1.pl.Ā ⟪चक्रमिमहे⟫
-:::
-### 40.2.6. Besondere Perfekt-Bildungen
+*   1e pers. enkelvoud tegenwoordige tijd ⟪चक्राम । चक्रम⟫
 
-⟪विद्⟫ 2P präsentisches Perfekt:
+*   1.fl.P ⟪चक्रमिम⟫
+
+*   1.ev.Ā ⟪चक्रमे⟫
+
+*   1.fl.Ā ⟪चक्रमिमहे⟫
+:::
+>> ### 40.2.6. Bijzondere Perfectum-vormingen
+
+⟪विद्⟫ 2P presentisch Perfectum:
 
 ::: indent
-*   1.sg.P ⟪वेद⟫ (= 3.sg.P)
-    
-*   1.pl.P ⟪विद्म⟫
+*   1.ev.P ⟪वेद⟫ (= 3.ev.P)
+
+*   1.fl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. Person nicht gebräuchlich!
+⟪अह्⟫ 1. persoon niet gebruikelijk!
 
 ⟪भू⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
-    
-*   1.pl.P ⟪बभूविम⟫
+*   1.ev.P ⟪बभूव⟫ (= 3.ev.P)
+
+*   1.fl.P ⟪बभूविम⟫
 :::
 ⟪जि⟫ 1P
 
 ::: indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
-    
-*   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+*   1.ev.P ⟪जिगाय⟫ (= 3.ev.P) ⟪। जिगय⟫
+
+*   1.fl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Vorming van de werkwoordsvormen van de eerste persoon van het perifrastische Perfectum (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+Het perifrastische Perfectum wordt gevormd van:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   afgeleide werkwoordstammen (Kausatief, Desiderativum, Frequentativum, Denominativa), met name Kausatief
+*   wortels die beginnen met lange klinker (behalve ā)
+*   wortels: klinker (behalve a-)-medeklinker-medeklinker
+*   enkele andere
+*   bij sommige wortels kunnen beide Perfecta optioneel gevormd worden: uṣ "branden", vid "weten", jāgṛ "waakzaam zijn", daridrā "arm zijn"
+*   bij de volgende wortels kunnen beide Perfecta optioneel gevormd worden en ook het perifrastische Perfectum is redupliceerd, namelijk met de reduplicatiesilabe van de Presentstam:
+*   bhī "zich vrezen"
+*   bhṛ "dragen"
+*   hu "offeren"
+*   hrī "zich schamen"
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
-    
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
+*   1.ev.Ā ⟪ईक्षां चक्रे । ईक्षामास । ईक्षां बभूव⟫
+
+*   1.fl.Ā ⟪ईक्षां चकृमहे । ईक्षामासिम । ईक्षां बभूविम⟫
 :::
 ⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫
 
 ::: indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-    
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
+*   1.ev.P ⟪बन्धयां चकर । बन्धयां चकार⟫ (= 3.ev.P) ⟪। बन्धयामास⟫ (= 3.ev.P) ⟪। बन्धयां बभूव⟫ (= 3.ev.P)
+
+*   1.pl.P ⟪बन्धयां चकृम । बन्धयामासिम । बन्धयां बभूविम⟫
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. Syntactisch over de eerste persoon (⟪तृतीयः⟫)
 
 ::: grammar-box
-Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden
+Aangezien een finiet werkwoord (vervoegd werkwoord) de agens (⟪कर्तृ⟫) meedrukt, hoeven het "ik", "wij" in niet-passieve verbale zinnen met een finiet werkwoord niet extra door een persoonlijk voornaamwoord uitgedrukt te worden
 :::
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+## 40.5. Persoonlijk voornaamwoord (⟪पुरुषार्थकसर्वनाम⟫) van de 1e persoon enkelvoud en meervoud
 
 ::: grammar-box
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe.
+De vorm van het persoonlijk voornaamwoord (persoonlijk naamwoord) is voor alle geslachten dezelfde.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
+| | ⟪एकवचनम्⟫ :br"ik" | ⟪बहुवचनम्⟫ :br"wij" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -406,56 +393,56 @@ Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlech
 
 :::
 ::: grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden.
+De kortere vormen, die hierboven op de tweede plaats staan (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) mogen nooit aan het begin van een zin of vers gebruikt worden.
 
-Vor den Partikeln ⟪च⟫, ⟪वा⟫, ⟪एव⟫ dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden:
+Vóór de partikels ⟪च⟫, ⟪वा⟫, ⟪एव⟫ mogen deze zgn. enclitische vormen ook niet gebruikt worden:
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... "und mich"
+alleen: ... ⟪मां च⟫ ... "en mij"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
+De genitief (⟪षष्ठी⟫) van de persoonlijke voornaamwoorden wordt als bezittelijk voornaamwoord gebruikt:
 
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mein"
+⟪मम । मे⟫ = "mijn"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "unser"
+⟪अस्माकम् । नस्⟫ = "ons"
 :::
 ::: grammar-box
-Als Vorderglied von Komposita stehen für diese Pronomina die Stämme:
+Als voorglid van samenstellingen staan voor deze voornaamwoorden de stammen:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
 
-z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
+bijv. ⟪मत्पुस्तकम्⟫ "mijn boek" ; ⟪अस्मद्पुस्तकानि⟫ "onze boeken"
 :::
-## 40.6. Wortliste
+## 40.6. Woordenlijst
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
+⟪पात्र⟫ n.: Eerbiedwaardige, Meester, Verhevene
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
+⟪मेधा⟫ f.: Wijsheid, Verstand, Gedachte
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
+⟪पुस्तक⟫ m.n.: Manuscript, Boek
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in goede orde zijn, passen bij (Loc.) ; zich vormen, ontstaan ; besluiten tot, zich neerleggen bij (Datief)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+Perf. II ⟪चकॢपे⟫ facultatief ⟪अनिट्⟫  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : in orde brengen, creëren, in de verbeelding vormen, zich inbeelden  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+daarvan:
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.: Het vormen in gedachten, het aannemen van iets dat niet bestaat in de werkelijkheid, fictie
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (zich verschillend voorstellen =) ter discussie stellen, betwijfelen
 
 ::: indent
-davon:
+daarvan:
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.: Alternatief, twijfel
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ : slaan
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -465,82 +452,82 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ : oversteken, overschrijden, zich redden voor iemand (Akk. = iemands oversteken)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+daarvan:
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.: Oversteekplaats, heilige badplaats, pelgrimsoord
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+Afb.: ⟪हरिद्वारे तीर्थम्⟫
+(Bron afbeelding: [Details](/nl/licenses#lekt4003))
 :::
 
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m. (uit: ⟪तीर्थम्⟫+ ⟪कृ⟫): Oversteekplaatsmaker (over het lijden heen) = de 24 leraren van de Jaina
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+Afb.: ⟪तीर्थङ्करः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4002))
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ Preverb.: neer, omlaag, weg, af-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : afdalen
 
 ::: indent
-davon:
+daarvan:
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.: (afdaler, afdaling) incarnatie van een god, m.n. Viṣṇu's 10 incarnaties (z. Basham, Wonder blz. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+Afb.: ⟪विष्णोर्दशावताराः⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : slapen, zich ter slaap leggen
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
+Imperf. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
+Pass. ⟪सुप्यते⟫ (uit \*svp-ya-te)  
+Caus. ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-davon:
+daarvan:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ m.: slaap, droom
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ f. (uit \*svp-ti): slaap, m.n. diepe slaap
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+Afb.: ⟪स्वपन्ति⟫
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4004))
 :::
-## 40.7. Übung
+## 40.7. Oefening
 
-A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion.
+A) Vertaal de ⟪सुभाषितानि⟫ aan het begin van de les.
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an.
+B) Zet de volgende werkwoordsvormen om in de overeenkomstige perfectumvormen. Bij meerdere mogelijkheden, geef alstublieft alle mogelijkheden.
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫)
+(Legenda: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = facultatief ⟪अनिट्⟫)
 
 1.  ⟪अश्नीमः⟫
 2.  ⟪स्मः⟫
 3.  ⟪स्रक्ष्यामि⟫
-4.  ⟪स्तुमहे⟫ ⟪अ⟫
+4.  ⟪स्तुमहे अ⟫
 5.  ⟪वर्धामहे⟫
 6.  ⟪आवर्ते⟫
 7.  ⟪सेक्ष्यामि⟫
@@ -557,13 +544,13 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 18.  ⟪वसामः⟫
 19.  ⟪अभवाम⟫
 20.  ⟪अस्यामि⟫
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫
-22.  ⟪कल्पामहे⟫ ⟪इ⟫
+21.  ⟪अबिभ्रि अ⟫
+22.  ⟪कल्पामहे इ⟫
 23.  ⟪त्यज्यामि⟫
 24.  ⟪अतरम्⟫
 25.  ⟪चिन्मः⟫
 26.  ⟪पृच्छामः⟫
-27.  ⟪अनश्याम⟫ ⟪इ⟫
+27.  ⟪अनश्याम इ⟫
 28.  ⟪चरामः⟫
 29.  ⟪अवदाम⟫
 30.  ⟪शोचयामः⟫
@@ -575,12 +562,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 36.  ⟪मन्ये⟫
 37.  ⟪स्वपिमः⟫
 38.  ⟪पामि⟫
-39.  ⟪शृणुमः⟫ ⟪अ⟫
+39.  ⟪शृणुमः अ⟫
 40.  ⟪अतुदम्⟫
 41.  ⟪अमिम⟫
 42.  ⟪तिष्ठामि⟫
 43.  ⟪अवहाम⟫
-44.  ⟪अकुर्महि⟫ ⟪अ⟫
+44.  ⟪अकुर्महि अ⟫
 45.  ⟪जहीमः⟫
 46.  ⟪अस्पृशम्⟫
 47.  ⟪नेष्यामः⟫
@@ -589,9 +576,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 50.  ⟪पुने⟫
 51.  ⟪भुञ्ज्मः⟫
 52.  ⟪स्मरिष्यामः⟫
-53.  ⟪अभजाम⟫ (geht nach Typ Vb)
+53.  ⟪अभजाम⟫ (volgt type Vb)
 54.  ⟪जेष्यामः⟫
-55.  ⟪आसे⟫ (periphrast.)
+55.  ⟪आसे⟫ (perifrast.)
 56.  ⟪विन्दामः⟫
 57.  ⟪धक्ष्यामः⟫
 58.  ⟪शक्नुमः⟫
@@ -607,44 +594,44 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. Herhalingsopdracht voor de vormleer
 
-1.  ⟪ददे⟫
-2.  ⟪ददते⟫
-3.  ⟪पापे⟫
-4.  ⟪आसे⟫
-5.  ⟪एते⟫
-6.  ⟪इते⟫
-7.  ⟪इतः⟫
-8.  ⟪यतः⟫
-9.  ⟪यते⟫
-10.  ⟪ईयते⟫
-11.  ⟪यत्⟫
-12.  ⟪यदा⟫
-13.  ⟪अस्तुवि⟫
-14.  ⟪अस्तुवति⟫
-15.  ⟪अस्तवीत्⟫
-16.  ⟪ब्रह्मिणः⟫
-17.  ⟪ब्रह्मणः⟫
-18.  ⟪ब्राह्मणः⟫
-19.  ⟪लभे⟫
-20.  ⟪लाभे⟫
-21.  ⟪लेभे⟫
-22.  ⟪लोभे⟫
-23.  ⟪काश्चन⟫
-24.  ⟪तन्त्रे⟫
-25.  ⟪तत्र⟫
-26.  ⟪मनौ⟫
-27.  ⟪मेने⟫
-28.  ⟪सत्स्यामि⟫
-29.  ⟪वेत्स्यामः⟫
-30.  ⟪कच्चित्⟫
-31.  ⟪तत्त्यागः⟫
-32.  ⟪तत्याज⟫
-33.  ⟪विद्ये⟫
-34.  ⟪विद्याम्⟫
-35.  ⟪एनेन⟫
-36.  ⟪ऐक्षे⟫
-37.  ⟪आह⟫
-38.  ⟪आहन्⟫
+1. ⟪ददे⟫
+2. ⟪ददते⟫
+3. ⟪पापे⟫
+4. ⟪आसे⟫
+5. ⟪एते⟫
+6. ⟪इते⟫
+7. ⟪इतः⟫
+8. ⟪यतः⟫
+9. ⟪यते⟫
+10. ⟪ईयते⟫
+11. ⟪यत्⟫
+12. ⟪यदा⟫
+13. ⟪अस्तुवि⟫
+14. ⟪अस्तुवति⟫
+15. ⟪अस्तवीत्⟫
+16. ⟪ब्रह्मिणः⟫
+17. ⟪ब्रह्मणः⟫
+18. ⟪ब्राह्मणः⟫
+19. ⟪लभे⟫
+20. ⟪लाभे⟫
+21. ⟪लेभे⟫
+22. ⟪लोभे⟫
+23. ⟪काश्चन⟫
+24. ⟪तन्त्रे⟫
+25. ⟪तत्र⟫
+26. ⟪मनौ⟫
+27. ⟪मेने⟫
+28. ⟪सत्स्यामि⟫
+29. ⟪वेत्स्यामः⟫
+30. ⟪कच्चित्⟫
+31. ⟪तत्त्यागः⟫
+32. ⟪तत्याज⟫
+33. ⟪विद्ये⟫
+34. ⟪विद्याम्⟫
+35. ⟪एनेन⟫
+36. ⟪ऐक्षे⟫
+37. ⟪आह⟫
+38. ⟪आहन्⟫
 

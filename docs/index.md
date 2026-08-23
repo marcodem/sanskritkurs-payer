@@ -29,6 +29,6 @@ Die Sprachen wurden mit Hilfe einer mehrstufigen KI-Kaskade vollständig automat
 
 - **Kontakt & Mitwirkung**: [webmaster@birchville.org](mailto:webmaster@birchville.org)
 - **GitHub**: [Project Wiki](https://github.com/birchville-org/sanskritkurs-payer/wiki)
-- **Editoren**: On-line Editor verfügbar für Autoren ([payer-author.birchville.org](https://payer-author.birchville.org)) | Alternativ: Standalone Markdown-Editor [Zentauri](https://github.com/marcodem/zentauri)
+- **Editoren**: Online-Editor verfügbar via [QA](/qa_viewer.html) (View-only, Write Login-protected)
 - **Aktuelle Version**: v1.7.0
 :::

@@ -1,33 +1,33 @@
-
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Les 55"
+subtitle: "De a-aoristus (aorist met themavocaal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. De a-aoristus (aoristus met themaklinker)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**De a-aoristus wordt gevormd als een imperfectum (⟪लङ्⟫) van de 6e presensklasse (⟪तुदादि⟫), d.w.z.:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**Augment + wortel op de zwakke trap + a + secundaire uitgangen**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**De -a- wordt in dezelfde gevallen als in het imperfectum door -ā- vervangen.**
 
-**Keine Nasalinfixe.**
+**Geen nasale infixen.**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**Het Ātmanepada is zeldzaam; bij ubhayapada-wortels wordt het meestal volgens andere aoristusklassen gevormd (zie Kielhorn, Grammatik §340 alsook hieronder bij de betreffende aoristusklassen).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**Lijst van de wortels die deze aoristus hebben, bij Kielhorn, Grammatik §340.**
 :::
-Beispiel:
+Voorbeeld:
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U "besprenkelen"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -37,23 +37,23 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmässige Bildungen:
+Onregelmatige vormingen:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "werpen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (verklaring zie Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "vertellen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "zien": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (hoge trap!)
 :::
-Beachte:
+Let op:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
+⟪शास्⟫ 2P "bevelen": ⟪अशिषत्⟫ (regelmatige zwakke trap!)
 :::
-## 55.2. Übung
+## 55.2. Oefening
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+Bepaal en vertaal schriftelijk de volgende vormen en vorm de overeenkomstige vormen van de a-aoristus:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -75,23 +75,23 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 18.  ⟪श्राम्यन्ति⟫
 19.  ⟪विन्दथ⟫
 20.  ⟪असीदन्⟫
-21.  ⟪वर्तामहे⟫ (a-Aor.: P)
+21.  ⟪वर्तामहे⟫ (a-aoristus: P)
 22.  ⟪अशात्⟫
 23.  ⟪सेक्ष्यसे⟫
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+27.  ⟪अजीर्यम्⟫ (aoristus: hoge trap)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+30.  ⟪अशोभथाः⟫  (a-aoristus: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+Afb.: ⟪अजीर्यमिति⟫
+'Inâyat Khân op stervensbed, ontwerp voor een miniature van een handschrift voor Jahângîr = جهانگير, ca. 1618
+(Bron afbeelding: [Details](/nl/licenses#lekt5501))
 :::
 
