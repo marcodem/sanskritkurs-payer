@@ -24,7 +24,7 @@ status: stable
 
 **1. De lokatief (⟪सप्तमी⟫) duidt bij de vraag „Waar?” de ruimte aan waarin (aan, op, bij) de agent (⟪कर्ता⟫) of het object van een handeling zich bevindt of waar de handeling zelf plaatsvindt.**
 
-&gt; ⟪नगरे वसति⟫ = „Hij woont in de stad“
+> ⟪नगरे वसति⟫ = „Hij woont in de stad“
 
 :::
 ::: media
@@ -38,19 +38,19 @@ Jaipur, 1875.
 
 **2. De locatief geeft bij de vraag "Wanneer?" het tijdstip of de uiterlijke omstandigheden aan:**
 
-&gt; ⟪तस्मिन्काले⟫ = „op dat moment, op dat tijdstip“
+> ⟪तस्मिन्काले⟫ = „op dat moment, op dat tijdstip“
 
 **Hieronder valt ook de zogenaamde Locativus Absolutus:**
 
 **Als de handeling of de toestand van een persoon of zaak bepalend is voor het tijdstip waarop – of de omstandigheden waaronder – een ANDERE persoon of zaak een handeling verricht of zich in een bepaalde toestand bevindt, dan wordt het woord dat de eerste persoon of zaak aanduidt, samen met het woord dat deze nader specificeert (dat vaak een deelwoord is) in de locatief (⟪सप्तमी⟫):**
 
-&gt; ⟪एवं गच्छति काले⟫ = "terwijl de tijd zo verstrijkt..."
+> ⟪एवं गच्छति काले⟫ = "terwijl de tijd zo verstrijkt..."
 \&gt;
-&gt; ⟪तस्मिन्गते⟫ = "toen hij weg was..."
+> ⟪तस्मिन्गते⟫ = "toen hij weg was..."
 
 **Soms wordt de agent (⟪कर्ता⟫) niet apart benoemd:**
 
-&gt; ⟪एवं सति⟫ = "aangezien het zo is"
+> ⟪एवं सति⟫ = "aangezien het zo is"
 
 **De locativus absolutus moet, afhankelijk van de context, worden vertaald met "terwijl" (bijv. onvoltooid deelwoord), "nadat", "toen" (bijv. voltooid deelwoord), "omdat", "hoewel", "wanneer" enz.**
 
