@@ -55,7 +55,7 @@ Bepaal de volgende vormen:
 | ⟪३९⟫. | ⟪मह्यम्⟫ | :sig[⟪अहम्⟫]: Dat. Sg. |
 :::
 ::: media
-![](/images/oefening078.webp)
+![](/images/uebung078.webp)
 Afb.: ⟪गायी⟫
 (Bron: [Details](/licenses#oefening078))
 :::

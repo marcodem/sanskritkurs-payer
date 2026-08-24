@@ -70,7 +70,7 @@ De vocatief enkelvoud van de mannelijke en onzijdige zelfstandige naamwoorden op
 ⟪सर्व⟫ 3 "alle, geheel" (vervoegd volgens de pronominale vervoeging)
 
 ::: media
-![](/images/oefening057.jpg)
+![](/images/uebung057.jpg)
 Afb.: ⟪तिलप्रमाणम्⟫
 (Bron: [Details](/licenses#oefening057))
 :::

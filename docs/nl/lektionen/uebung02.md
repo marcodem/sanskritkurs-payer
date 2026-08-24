@@ -101,7 +101,7 @@ sādhur guruḥ.
 ⟪साधुर्गुरुः⟫
 
 ::: media
-![](/images/oefening002.jpg)
+![](/images/uebung002.jpg)
 Afb.: ⟪ईश्वरः शिवः⟫
 (Bron: [Details](/licenses#oefening002))
 :::

@@ -68,7 +68,7 @@ A) Vervoeg de volgende werkwoordsvormen in de **2e persoon** overeenkomstig tijd
 | ⟪५२⟫. ⟪आहरत्⟫ | ⟪आहरः⟫ |
 :::
 ::: media
-![](/images/oefening070.webp)
+![](/images/uebung070.webp)
 Afb.: ⟪दिशसि⟫
 (Bron afbeelding: [Details](/licenses#oefening070))
 :::
@@ -109,7 +109,7 @@ In welke stad ben je geboren?
 Hoe red je jezelf (steek je de rivier over) voor de vijand?
 
 ::: media
-![](/images/oefening071.jpg)
+![](/images/uebung071.jpg)
 Afb.: ⟪कदा काश्यामवर्तथाः⟫
 (Bron: [Details](/licenses#oefening071))
 :::

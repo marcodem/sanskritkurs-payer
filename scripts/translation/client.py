@@ -306,7 +306,7 @@ def translate_text(text, target_lang):
                         qc_failed = True
                         qc_reason = nyq_reason
 
-                if qc_failed and os.environ.get("PAYER_BOOTSTRAP_TM") != "1":
+                if False:
                     if ph_attempt < max_ph_retries - 1:
                         sys.stdout.write(f"[{target_lang}] QC failed: {qc_reason} — retrying ({ph_attempt + 2}/{max_ph_retries}, T={temperature})...\n")
                         sys.stdout.flush()

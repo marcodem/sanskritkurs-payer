@@ -117,7 +117,7 @@ Een brahmaan die van een śūdra houdt, is geen goede brahmaan, want een goede b
 Men moet waarheden spreken die aangenaam zijn; onaangename waarheden moet men niet spreken; men moet geen aangename onwaarheden spreken; dit is de eeuwige wet.
 
 ::: media
-![](/images/oefening048.webp)
+![](/images/uebung048.webp)
 Afb.: ⟪श्रीमोहनभोपेन रावणहस्तो वाद्यते⟫
 (Bron: [Details](/licenses#oefening048))
 :::

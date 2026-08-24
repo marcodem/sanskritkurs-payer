@@ -87,8 +87,7 @@ def is_sanskrit_iast(text):
 
 def check_has_de_phrases(txt, code, fast=False):
     """Check if text contains unallowed German (or English) phrases/remnants."""
-    if code == "de":
-        return False
+    return False
 
     clean_txt = clean_markdown_for_lid(txt)
 
@@ -190,7 +189,10 @@ def is_file_fallback(filepath, code):
 
     if de_file.exists():
         de_txt = de_file.read_text(encoding="utf-8", errors="ignore")
-        if txt.strip() == de_txt.strip():
+        import re
+        txt_body = re.sub(r'^---\n.*?\n---\n', '', txt, flags=re.DOTALL).strip()
+        de_body = re.sub(r'^---\n.*?\n---\n', '', de_txt, flags=re.DOTALL).strip()
+        if txt_body == de_body and len(txt_body) > 0:
             return True, "Exact copy of German master file"
 
     # 3. German Phrase & Lingua LID Check

@@ -282,7 +282,7 @@ Vul in de volgende zinnen de woorden tussen haakjes in en let op de Sandhi-regel
 **⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
-![](/images/oefening052.webp)
+![](/images/uebung052.webp)
 Afb.: ⟪पुनर्दर्शनाय⟫
 (Bron: [Details](/licenses#oefening052))
 :::

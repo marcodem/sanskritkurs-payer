@@ -53,7 +53,7 @@ B) Vertaal met behulp van samengestelde woorden naar het Sanskriet:
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥⟫
 
 ::: media
-![](/images/oefening031.webp)
+![](/images/uebung031.webp)
 Afb.: ⟪शस्त्राजीवः क्षत्रियः⟫
 (Bron: [Details](/licenses#oefening031))
 :::

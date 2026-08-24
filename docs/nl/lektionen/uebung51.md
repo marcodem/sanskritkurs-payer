@@ -72,7 +72,7 @@ Overpeinzingen van de papegaai ⟪वैशम्पायन⟫ over het jachtl
 > En toen drong het tot me door: Ach, hun [van de jagers] leven bestaat voornamelijk uit verblinding en hun levenswijze wordt door de Goeden veroordeeld. Het zit namelijk zo: zij beschouwen het offeren van mensenvlees als de ware godsdienst; hun voedsel bestaat uit honingwijn, vlees en dergelijke, die door de Goeden worden veroordeeld; hun streven is de jacht; hun leerboek is het gehuil van de jakhalzen; uilen zijn hun leraren in goed en kwaad; hun wijsheid is de kennis van vogels; hun vertrouwelingen zijn honden; hun rijk ligt in lege bossen; hun feest is een drinkgelag; hun vrienden zijn bogen die wrede daden verrichten; hun metgezellen zijn pijlen waarvan de punt met gif is besmeurd als slangen; hun gezang brengt verdoemenis over verward wild; hun vrouwen zijn de ontvoerde jonge meisjes van anderen; zij wonen samen met wrede tijgers; met dierenbloed vereren zij de goden; vlees brengen zij als offers; van roof leven zij; hun sieraden zijn edelstenen van slangen; hun ledematen smeren ze in met het bronstvocht van bosolifanten; elk bos waarin ze zich vestigen, ontwortelen ze volledig – Terwijl ik zo nadacht, kwam de generaal van de Śabaras bij me binnen.
 
 ::: media
-![](/images/oefening086.webp)
+![](/images/uebung086.webp)
 Afb.: Jager
 (Bron: [Details](/licenses#oefening086))
 :::

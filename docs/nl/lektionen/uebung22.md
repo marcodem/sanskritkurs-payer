@@ -86,7 +86,7 @@ De leeuwachtige mannen zijn de strijd aangegaan met de vijanden die geen Ārya�
 Als iemand verdienstelijke daden heeft verricht en alleen de waarheid heeft gesproken, komt hij niet in de hel terecht.
 
 ::: media
-![](/images/oefening034.jpg)
+![](/images/uebung034.jpg)
 Afb.: ⟪धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति⟫
 (Bron: [Details](/licenses#oefening034))
 :::

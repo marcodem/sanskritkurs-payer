@@ -212,7 +212,7 @@ De plicht van iedereen is: geweldloosheid, waarachtigheid, reinheid, niet mopper
 De stok zorgt voor het verwerven en veilig bezit van filosofie, vedische wetenschap en economie. Het hanteren van de stok is politiek.
 
 ::: media
-![](/images/oefening024.webp)
+![](/images/uebung024.webp)
 Afb.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Afbeeldingsbron: [Details](/licenses#oefening024))
 :::

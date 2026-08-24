@@ -79,7 +79,7 @@ B) Vertaal de volgende Tatpuruṣa:
 ⟪३१⟫. ⟪अमृत⟫ n. — Onsterfelijkheid, onsterfelijkheidsvoedsel, onsterfelijkheidsdrank
 
 ::: media
-![](/images/oefening027.jpg)
+![](/images/uebung027.jpg)
 Afb.: ⟪नास्ति कामसमो व्याधिः⟫
 (Bron: [Details](/licenses#oefening027))
 :::

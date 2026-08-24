@@ -31,7 +31,7 @@ Een mens zonder opleiding is een beest.
 Beknoptheid is de sier van de grammaticus.
 
 ::: media
-![](/images/oefening083.webp)
+![](/images/uebung083.webp)
 Afb.: ⟪विद्याविहीनः पशुः⟫
 (Bron: [Details](/licenses#oefening083))
 :::
