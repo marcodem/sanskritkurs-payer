@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 24
+---
+# Les 24
 
 ## 24.1. Die datief (⟪चतुर्थी⟫ = 'vierde naamval-uitgang')
 

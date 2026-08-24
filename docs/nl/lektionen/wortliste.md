@@ -4392,7 +4392,7 @@ wordt in de overige tijden niet gebruikt
 
 ⟪अजिन⟫ n.: antilopenvacht, met name de vacht van de zwarte antilope (hertgeitantilope: _Antilope cervicapra_ L.). Kwam oorspronkelijk voor op het hele Indiase subcontinent, van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி). Zie:
 
-&gt; **Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
+> **Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
 
 ::: media
 ![](/images/lekt5105.webp)

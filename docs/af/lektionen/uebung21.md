@@ -4,7 +4,8 @@ uebung_id: 21
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 21
+---
+# Oefening 21
 
 A) Ontleed die volgende Sanskrit-samesestelde woorde en vertaal dit:
 

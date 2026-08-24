@@ -6,7 +6,8 @@ category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 
----# Les 1
+---
+# Les 1
 
 
 ::: center

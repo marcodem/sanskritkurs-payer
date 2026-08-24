@@ -4,7 +4,8 @@ uebung_id: 6
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 6
+---
+# Oefening 6
 
 A) Vorm verbale sinne deur die wortels wat in hakies gegee is in te sit:
 

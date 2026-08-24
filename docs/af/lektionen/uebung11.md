@@ -4,7 +4,8 @@ uebung_id: 11
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 11
+---
+# Oefening 11
 
 A) Vertaal die onderstaande sinne
 

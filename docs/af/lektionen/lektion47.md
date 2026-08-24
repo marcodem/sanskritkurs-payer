@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 47
+---
+# Les 47
 
 ## 47.1. Die imperatief (⟪लोट्⟫)
 

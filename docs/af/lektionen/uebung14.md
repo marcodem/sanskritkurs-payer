@@ -4,7 +4,8 @@ uebung_id: 14
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 14
+---
+# Oefening 14
 
 Vertaal die volgende spreuke en leer dit uit die kop:
 

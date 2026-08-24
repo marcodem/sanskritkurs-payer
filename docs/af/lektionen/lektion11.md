@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 
----# Les 11
+---
+# Les 11
 
 ## 11.1. Dubbele akkusatief
 

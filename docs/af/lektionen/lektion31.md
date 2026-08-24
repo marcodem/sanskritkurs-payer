@@ -3,7 +3,8 @@ title: "Lesing 31"
 lesson_id: 31
 status: stable
 
----# Les 31
+---
+# Les 31
 
 ## 31.1. Die 7de teenwoordige tydklas (⟪रुधादि⟫ = "⟪रुध्⟫ ens.")
 

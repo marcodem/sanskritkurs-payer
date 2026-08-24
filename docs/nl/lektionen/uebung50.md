@@ -4,7 +4,8 @@ uebung_id: 50
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 50
+---
+# Oefening 50
 
 A) Ter herhaling van de verbuiging: het volgende vers bevat alle verbuigingsvormen in het enkelvoud van ⟪गुरु⟫ m.:
 
@@ -13,14 +14,14 @@ A) Ter herhaling van de verbuiging: het volgende vers bevat alle verbuigingsvorm
 **⟪न गुरोः परमं शिशुरस्मि गुरोर्⟫**  
 **⟪मतिरस्ति गुरौ मम पाहि गुरो ॥⟫**
 
-&gt; Mijn leraar is mijn toevlucht,  
-&gt; Ik vereer mijn leraar,  
-&gt; Ik ben samen met mijn leraar,  
-&gt; Eer aan mijn leraar,  
-&gt; Er is niets hogers dan de leraar,  
-&gt; Ik ben het kind van mijn leraar,  
-&gt; Mijn hart is bij mijn leraar,  
-&gt; Leraar, bescherm mij!
+> Mijn leraar is mijn toevlucht,  
+> Ik vereer mijn leraar,  
+> Ik ben samen met mijn leraar,  
+> Eer aan mijn leraar,  
+> Er is niets hogers dan de leraar,  
+> Ik ben het kind van mijn leraar,  
+> Mijn hart is bij mijn leraar,  
+> Leraar, bescherm mij!
 
 ---
 
@@ -33,7 +34,7 @@ A) Ter herhaling van de verbuiging: het volgende vers bevat alle verbuigingsvorm
 **⟪तेन यायात्सतां मार्गम्⟫**  
 **⟪तेन गच्छन्न रिष्यते ॥ १ ॥⟫**
 
-&gt; Men moet het pad van de Goeden bewandelen, het pad dat de vaders hebben bewandeld, het pad dat de grootvaders hebben bewandeld. Als men dit pad bewandelt, zal men geen kwaad ondervinden.
+> Men moet het pad van de Goeden bewandelen, het pad dat de vaders hebben bewandeld, het pad dat de grootvaders hebben bewandeld. Als men dit pad bewandelt, zal men geen kwaad ondervinden.
 
 ### ⟪मनुस्मृति ३⟫, ⟪६३⟫
 
@@ -42,7 +43,7 @@ A) Ter herhaling van de verbuiging: het volgende vers bevat alle verbuigingsvorm
 **⟪कुलान्यकुलतां यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण च ॥ २ ॥⟫**
 
-&gt; Gezinnen veranderen in niet-gezinnen door slechte huwelijken, door het nalaten van rituelen, door het niet bestuderen van de Veda’s en door overtredingen tegen brahmanen.
+> Gezinnen veranderen in niet-gezinnen door slechte huwelijken, door het nalaten van rituelen, door het niet bestuderen van de Veda’s en door overtredingen tegen brahmanen.
 
 ### ⟪मनुस्मृति ३⟫, ⟪६०⟫
 
@@ -51,7 +52,7 @@ A) Ter herhaling van de verbuiging: het volgende vers bevat alle verbuigingsvorm
 **⟪यस्मिन्नेव कुले नित्यम्⟫**  
 **⟪कल्याणं तत्र वै ध्रुवम् ॥ ३ ॥⟫**
 
-&gt; Een gezin waarin de man altijd tevreden is met zijn vrouw en de vrouw met haar man, in zo’n gezin is voortdurend geluk verzekerd.
+> Een gezin waarin de man altijd tevreden is met zijn vrouw en de vrouw met haar man, in zo’n gezin is voortdurend geluk verzekerd.
 
 ::: media
 ![](/images/uebung081.webp)

@@ -4,7 +4,8 @@ uebung_id: 30
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 30
+---
+# Oefening 30
 
 A) Verander die volgende werkwoordvorme in die optatiewe vorme wat ooreenstem met die werkwoord in persoon, getal en geslag:
 

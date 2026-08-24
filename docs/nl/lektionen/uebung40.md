@@ -4,7 +4,8 @@ uebung_id: 40
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 40
+---
+# Oefening 40
 
 A) Vertaal de ⟪सुभाषितानि⟫ aan het begin van de les:
 

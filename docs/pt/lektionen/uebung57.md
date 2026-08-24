@@ -4,7 +4,8 @@ uebung_id: 57
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Exercício 57
+---
+# Exercício 57
 
 ## A) Transformações do aoristo
 

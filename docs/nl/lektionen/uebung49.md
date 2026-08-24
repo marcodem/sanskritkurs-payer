@@ -69,9 +69,9 @@ Vragen van koning ⟪शूद्रक⟫ van ⟪विदिशा⟫ aan de p
 
 **⟪वैशम्पायनस्तु स्वयमुपजातकुतूहलेन सबहुमानमवनि्पतिना पृष्टो मुहूर्तमिव ध्यात्वा सादरमब्रवीत् । देव मतीयं कथा । यदि कौतुकमाकर्ण्यताम् ॥⟫**
 
-&gt; De koning sprak: “Laten we dat allemaal maar achterwege laten! Bevredig onze nieuwsgierigheid! Heer, vertel ons alles vanaf het begin: in welk land bent u geboren? Wie heeft u deze naam gegeven? Wie is uw moeder? Hoe bent u in het bezit gekomen van de Veda’s? Hoe heeft u zich de leerboeken eigen gemaakt? Waar heeft u de kunsten geleerd? Kunt u zich eerdere levens herinneren of wensen vervullen? Of verblijft u, gekleed in het gewaad van een vogel, in een schuilplaats? Of waar woonde u vroeger? Of hoe oud bent u? Hoe bent u in een kooi gevangen geraakt? En hoe bent u in de handen van de Cāṇḍāla’s terechtgekomen? Of hoe bent u hier gekomen?”
+> De koning sprak: “Laten we dat allemaal maar achterwege laten! Bevredig onze nieuwsgierigheid! Heer, vertel ons alles vanaf het begin: in welk land bent u geboren? Wie heeft u deze naam gegeven? Wie is uw moeder? Hoe bent u in het bezit gekomen van de Veda’s? Hoe heeft u zich de leerboeken eigen gemaakt? Waar heeft u de kunsten geleerd? Kunt u zich eerdere levens herinneren of wensen vervullen? Of verblijft u, gekleed in het gewaad van een vogel, in een schuilplaats? Of waar woonde u vroeger? Of hoe oud bent u? Hoe bent u in een kooi gevangen geraakt? En hoe bent u in de handen van de Cāṇḍāla’s terechtgekomen? Of hoe bent u hier gekomen?”
 \&gt;
-&gt; Maar Vaiśampāyana, die door de Heer van de Aarde met spontaan opgekomen nieuwsgierigheid en met groot respect was ondervraagd, dacht even na en antwoordde toen vol eerbied: „Koning, dat is een lang verhaal. Als het u interesseert, leen mij dan uw oor!“
+> Maar Vaiśampāyana, die door de Heer van de Aarde met spontaan opgekomen nieuwsgierigheid en met groot respect was ondervraagd, dacht even na en antwoordde toen vol eerbied: „Koning, dat is een lang verhaal. Als het u interesseert, leen mij dan uw oor!“
 
 ::: media
 ![](/images/uebung079.webp)

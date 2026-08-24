@@ -4,7 +4,8 @@ uebung_id: 36
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 36
+---
+# Oefening 36
 
 A) Vorm beide die redupliseerde en die perifrasiese perfektye vir die volgende vorme:
 

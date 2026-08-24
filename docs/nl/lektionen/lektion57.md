@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 57
+---
+# Les 57
 
 ## 57.1. Aoristus 4: s-aoristus
 

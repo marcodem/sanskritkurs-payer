@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 17
+---
+# Les 17
 
 ## 17.1. Tweede teenwoordige tydklas (⟪अदादि⟫ = ⟪अद्⟫ ens.)
 

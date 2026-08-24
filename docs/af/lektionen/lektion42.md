@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 42
+---
+# Les 42
 
 ## 42.1. Stamme wat in -ṛ eindig
 

@@ -4,7 +4,8 @@ uebung_id: 34
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 34
+---
+# Oefening 34
 
 A) Vorm die voltooide tye ooreenkomstig die persoon, getal en geslag van die werkwoorde hieronder:
 

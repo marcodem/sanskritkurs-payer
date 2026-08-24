@@ -4,7 +4,8 @@ uebung_id: 45
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 45
+---
+# Oefening 45
 
 A) Vertaal in Sanskrit (gebruik die onvoltooide tyd vir die verlede):
 

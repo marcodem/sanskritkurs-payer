@@ -4,7 +4,8 @@ uebung_id: 19
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 19
+---
+# Oefening 19
 
 A) Vertaal naar het Sanskriet:
 

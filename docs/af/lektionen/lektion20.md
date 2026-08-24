@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 20
+---
+# Les 20
 
 ## 20.1. Besittende samestellings = ⟪बहुव्रीहि⟫ m.
 

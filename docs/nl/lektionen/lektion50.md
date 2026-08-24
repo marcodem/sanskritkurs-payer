@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 50
+---
+# Les 50
 
 ## 50.1. Zelfstandig naamwoordvorming: regelmatige vervoeging
 

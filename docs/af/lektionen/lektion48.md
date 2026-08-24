@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 48
+---
+# Les 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 

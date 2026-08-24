@@ -120,7 +120,7 @@
 *   1\. Passive वाक्य
 *   2\. Instrumental = tṛtīyā strīliṅg = ⟪⟪तृतीया⟫⟫ = "तीसरा case ending"
 *   2.1. Instrumental के उपयोग के बारे में (tṛtīyā = ⟪⟪तृतीया⟫⟫)
-*   3\. -n- के लिए所说的 Cerebralisations नियम (एक word sandhi)
+*   3\. -n- के लिए Cerebralisations नियम (एक word sandhi)
 *   4\. Passive, Indicative Present (yak = ⟪⟪यक्⟫⟫)
 *   4.1. Passive के निर्माण के लिए विशेष नियम
 *   5\. शब्द सूची

@@ -4,7 +4,8 @@ uebung_id: 31
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 31
+---
+# Oefening 31
 
 A) Vertaal de volgende zinnen en ontleed de samengestelde woorden:
 

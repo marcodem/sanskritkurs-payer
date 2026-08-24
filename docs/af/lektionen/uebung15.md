@@ -4,7 +4,8 @@ uebung_id: 15
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 15
+---
+# Oefening 15
 
 A) Vertaal die spreekwoord aan die begin van die les
 

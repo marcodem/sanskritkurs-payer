@@ -4,7 +4,8 @@ uebung_id: 2
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 2
+---
+# Oefening 2
 
 A) Vul in de volgende zinnen, met inachtneming van de sandhi, de aangegeven namen en zelfstandige naamwoorden in en vorm naamwoordzinnen:
 

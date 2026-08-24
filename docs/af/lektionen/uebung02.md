@@ -4,7 +4,8 @@ uebung_id: 2
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 2
+---
+# Oefening 2
 
 A) Sit die gegewe name en selfstandige naamwoorde in die volgende sinne in, met sandhi in ag genome, en vorm nominale klousules:
 

@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 39
+---
+# Les 39
 
 ## 39.1. Eerste persoon se persoonlike eindvorme (:sig[तृतीयः] ⟪पुरुषः⟫ = "derde persoon")
 

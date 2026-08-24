@@ -4,7 +4,8 @@ uebung_id: 5
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 5
+---
+# Oefening 5
 
 A) Vertaal die volgende sinne en samestelde woorde, en ontleed die dvandvas wat hulle bevat in Sanskrit:
 

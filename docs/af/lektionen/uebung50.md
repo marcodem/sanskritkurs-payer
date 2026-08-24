@@ -4,7 +4,8 @@ uebung_id: 50
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 50
+---
+# Oefening 50
 
 A) Om die afleidings te hersien: Die volgende vers bevat al die enkelvoudige afleidingsvorme van ⟪गुरु⟫ (manlik):
 

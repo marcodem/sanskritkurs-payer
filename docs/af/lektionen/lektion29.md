@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 29
+---
+# Les 29
 
 ## 29.1. Gebruik van die Parasmaipada (⟪परस्मैपद⟫) en Ātmanepada (⟪आत्मनेपद⟫) in die causatief
 

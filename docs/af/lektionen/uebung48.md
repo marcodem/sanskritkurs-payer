@@ -4,7 +4,8 @@ uebung_id: 48
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 48
+---
+# Oefening 48
 
 A) Vertaal die ⟪सुभाषितानि⟫ aan die begin van die les:
 

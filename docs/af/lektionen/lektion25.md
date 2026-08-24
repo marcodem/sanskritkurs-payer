@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 25
+---
+# Les 25
 
 ## 25.1. Vorming van die ablatief (⟪पञ्चमी⟫ = "vyfde geval-uitgang")
 

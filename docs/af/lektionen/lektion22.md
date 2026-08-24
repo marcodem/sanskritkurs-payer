@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 22
+---
+# Les 22
 
 ## 22.1. Die absolutiwus (⟪क्त्वा । ल्यप्⟫)
 

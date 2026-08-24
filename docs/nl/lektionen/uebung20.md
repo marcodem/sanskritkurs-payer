@@ -4,7 +4,8 @@ uebung_id: 20
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 20
+---
+# Oefening 20
 
 A) Vertaal en ontleed de samengestelde woorden in het Sanskriet:
 

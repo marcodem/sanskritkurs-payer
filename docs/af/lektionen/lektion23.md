@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 23
+---
+# Les 23
 
 ## 23.1. Die infinitief (⟪तुमुन्⟫)
 

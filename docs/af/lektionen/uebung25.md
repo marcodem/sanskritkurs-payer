@@ -4,7 +4,8 @@ uebung_id: 25
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 25
+---
+# Oefening 25
 
 A) Voltooi die deklinasiemodelle uit Les 16 deur die 4de datief (⟪चतुर्थी⟫) en die 5de ablatief (⟪पञ्चमी⟫) by te voeg..
 

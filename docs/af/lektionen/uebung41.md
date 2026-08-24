@@ -4,7 +4,8 @@ uebung_id: 41
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 41
+---
+# Oefening 41
 
 A) Vertaal die twee spreuke aan die begin van die les:
 

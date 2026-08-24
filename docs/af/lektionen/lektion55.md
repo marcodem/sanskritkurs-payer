@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 55
+---
+# Les 55
 
 ## 55.1. Die a-aorist (aorist met 'n tematiese vokaal)
 

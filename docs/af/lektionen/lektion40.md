@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 40
+---
+# Les 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 

@@ -4,7 +4,8 @@ uebung_id: 16
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 16
+---
+# Oefening 16
 
 A) Zet de volgende uitdrukkingen om in Tatpuruṣa en vertaal ze:
 

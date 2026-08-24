@@ -169,7 +169,7 @@ outline: 2
 
 | Sanskrit | IAST | Genus | Bedeutung | Lektion |
 |---|---|---|---|---|
-| ⟪ओष्ठ⟫ | [oṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=oṣṭha&filter=roman&accent=no&transLit=roman) | m | χείλος, губа | [20](/el/lektionen/lektion20#_20-9-) |
+| ⟪ओष्ठ⟫ | [oṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=oṣṭha&filter=roman&accent=no&transLit=roman) | m | χείλος | [20](/el/lektionen/lektion20#_20-9-) |
 
 ## औ
 

@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 46
+---
+# Les 46
 
 ## 46.1. Vorming van de werkwoordsvormen van de 2e persoon (⟪मध्यमः⟫) voltooid (⟪लिट्⟫)
 

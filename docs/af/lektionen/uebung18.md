@@ -4,7 +4,8 @@ uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 18
+---
+# Oefening 18
 
 A) Vertaal die ⟪सुभाषित⟫ aan die begin van die les.
 

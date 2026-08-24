@@ -4,7 +4,8 @@ uebung_id: 22
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 22
+---
+# Oefening 22
 
 A) Vorm en vertaal het absoluutief van de volgende werkwoorden:
 

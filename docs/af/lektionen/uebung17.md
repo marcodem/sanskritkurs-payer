@@ -4,7 +4,8 @@ uebung_id: 17
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 17
+---
+# Oefening 17
 
 A) Vul die werkwoord in die volgende sinne in en vertaal dit:
 

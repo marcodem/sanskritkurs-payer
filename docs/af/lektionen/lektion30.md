@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 30
+---
+# Les 30
 
 ## 30.1. Die 9de teenwoordige tydklas (⟪क्र्यादि⟫ = "⟪क्री⟫ ens.")
 

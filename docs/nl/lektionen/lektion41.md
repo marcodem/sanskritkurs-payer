@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 41
+---
+# Les 41
 
 ## 41.1. ⟪सुभाषिते⟫  (twee spreekwoorden)
 

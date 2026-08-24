@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 56
+---
+# Les 56
 
 ## 56.1. Die herhaalde aoristus
 

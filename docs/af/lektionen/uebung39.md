@@ -4,7 +4,8 @@ uebung_id: 39
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 39
+---
+# Oefening 39
 
 A) Vorm vir die volgende werkwoordvorme die eerste-persoonvorme wat daarmee ooreenstem in getal, tyd, stemming (aangewese, wensende) en stem (werkende, lydende, weerkerende):
 

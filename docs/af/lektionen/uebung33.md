@@ -4,7 +4,8 @@ uebung_id: 33
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 33
+---
+# Oefening 33
 
 A) Vul die leemtes in die volgende sinspatroon in met die toepaslike vorme van die woorde in hakies:
 

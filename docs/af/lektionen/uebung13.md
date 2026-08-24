@@ -4,7 +4,8 @@ uebung_id: 13
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 13
+---
+# Oefening 13
 
 A) Vertaal en herformuleer in aktiewe teenwoordige tyd sinne:
 

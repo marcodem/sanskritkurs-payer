@@ -4,7 +4,8 @@ uebung_id: 29
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 29
+---
+# Oefening 29
 
 Vertaal woord-vir-woord in goeie Duits en leer die Sanskriet-tekste uit die kop:
 

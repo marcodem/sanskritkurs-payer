@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 27
+---
+# Les 27
 
 ## 27.1. Gebruik van die lokatief (⟪सप्तमी⟫ f. = 'sewende gevalleseinde')
 

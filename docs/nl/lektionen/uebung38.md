@@ -4,7 +4,8 @@ uebung_id: 38
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 38
+---
+# Oefening 38
 
 A) Vul in de volgende zinnen de juiste vorm van de woorden tussen haakjes in en vertaal:
 

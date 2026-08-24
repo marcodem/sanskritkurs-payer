@@ -4,7 +4,8 @@ uebung_id: 27
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 27
+---
+# Oefening 27
 
 A) In die volgende sin, voeg die uitdrukkings in hakies in in die lokatief (⟪सप्तमी⟫) enkelvoud en — waar toepaslik — meervoud.
 

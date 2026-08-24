@@ -41,14 +41,14 @@ last_reconstructed: 2026-05-15
 > * zich voeden met bosproducten.
 
 **⟪प्रव्राजकस्य जितेन्द्रियत्वमनारम्भो निष्किंचनत्वं सङ्गत्यागो भैक्षाव्रतमनेकत्रारण्ये च वासो बाह्याभ्यन्तरं च शौचम् ॥ १२ ॥⟫**
-&gt; Een dakloze zwervende asceet moet:
-&gt; * zijn zintuigen overwinnen
-&gt; * niets nieuws beginnen
-&gt; * geen enkel bezit hebben
-&gt; * alle gehechtheid opgeven
-&gt; * de gelofte nakomen om van aalmoezen te leven
-&gt; * op vele plaatsen in de wildernis verblijven
-&gt; * innerlijk en uiterlijk rein zijn.
+> Een dakloze zwervende asceet moet:
+> * zijn zintuigen overwinnen
+> * niets nieuws beginnen
+> * geen enkel bezit hebben
+> * alle gehechtheid opgeven
+> * de gelofte nakomen om van aalmoezen te leven
+> * op vele plaatsen in de wildernis verblijven
+> * innerlijk en uiterlijk rein zijn.
 
 ---
 
@@ -60,7 +60,7 @@ last_reconstructed: 2026-05-15
 **⟪व्यवस्थितार्यमर्यादः कृतवर्णाश्रमस्थितिः ।⟫**  
 **⟪त्रय्याभिरक्षितो लोकः प्रसीदति न सीदति ॥ १७ ॥⟫**
 
-&gt; Daarom moet de koning de wezens niet laten afwijken van hun specifieke dharma. Want wie zijn specifieke dharma vervult, zal zich na zijn dood en in dit leven verheugen. Wanneer de orde van de edelen vaststaat, wanneer standen en levensfasen bestendigd zijn, dan leeft de door de drie Veda’s beschermde wereld vreedzaam en gaat zij niet ten onder.
+> Daarom moet de koning de wezens niet laten afwijken van hun specifieke dharma. Want wie zijn specifieke dharma vervult, zal zich na zijn dood en in dit leven verheugen. Wanneer de orde van de edelen vaststaat, wanneer standen en levensfasen bestendigd zijn, dan leeft de door de drie Veda’s beschermde wereld vreedzaam en gaat zij niet ten onder.
 
 ---
 
@@ -69,7 +69,7 @@ last_reconstructed: 2026-05-15
 Overpeinzingen van de papegaai ⟪वैशम्पायन⟫ over het jachtleven:
 
 **⟪आसीच्च मे मनसि⟫ -- ⟪अहो मोहप्रायमेतेषां जीवितं साधुजनगर्हितं च चरितम् । तथा हि । पुरुषपिशितोपहारे धर्मबुद्धिः⟫, ⟪अहारः साधुजनगर्हितो मधुमांसादिः⟫ , ⟪श्रमो मृगया⟫ , ⟪शास्त्रं शिवारुतम्⟫ , ⟪समुपदेष्टारः सद्सतां कौशिकाः⟫ , ⟪प्रज्ञा शकुनिज्ञानम्⟫ , ⟪परिचिताः श्वानः⟫ , ⟪राज्यं शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि क्रुरकर्मसाधनानि धनूंषि⟫ , ⟪सहाया विषदिग्धमुखा भुजंगा इव सायकाः⟫ , ⟪गीतमुत्सादकारि मुग्धमृगाणाम्⟫ , ⟪कलत्राणि बन्दीगृहीताः परयोषितः⟫ , ⟪क्रूरात्मभिः शार्दूलैः सह संवासः⟫ , ⟪पशुरुधिरेण देवतार्चनम्⟫ , ⟪मांसेन बलिकर्म⟫ , ⟪चौर्येण जीवनम्⟫ , ⟪भूषणानि भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव कानने निवसन्ति तदेवोत्ख्यातममूलमशेषतः कुर्वत इति चिन्तयत्येव मयि शबरसेनापतिः समुपाविशत् ॥⟫**
-&gt; En toen drong het tot me door: Ach, hun [van de jagers] leven bestaat voornamelijk uit verblinding en hun levenswijze wordt door de Goeden veroordeeld. Het zit namelijk zo: zij beschouwen het offeren van mensenvlees als de ware godsdienst; hun voedsel bestaat uit honingwijn, vlees en dergelijke, die door de Goeden worden veroordeeld; hun streven is de jacht; hun leerboek is het gehuil van de jakhalzen; uilen zijn hun leraren in goed en kwaad; hun wijsheid is de kennis van vogels; hun vertrouwelingen zijn honden; hun rijk ligt in lege bossen; hun feest is een drinkgelag; hun vrienden zijn bogen die wrede daden verrichten; hun metgezellen zijn pijlen waarvan de punt met gif is besmeurd als slangen; hun gezang brengt verdoemenis over verward wild; hun vrouwen zijn de ontvoerde jonge meisjes van anderen; zij wonen samen met wrede tijgers; met dierenbloed vereren zij de goden; vlees brengen zij als offers; van roof leven zij; hun sieraden zijn edelstenen van slangen; hun ledematen smeren ze in met het bronstvocht van bosolifanten; elk bos waarin ze zich vestigen, ontwortelen ze volledig – Terwijl ik zo nadacht, kwam de generaal van de Śabaras bij me binnen.
+> En toen drong het tot me door: Ach, hun [van de jagers] leven bestaat voornamelijk uit verblinding en hun levenswijze wordt door de Goeden veroordeeld. Het zit namelijk zo: zij beschouwen het offeren van mensenvlees als de ware godsdienst; hun voedsel bestaat uit honingwijn, vlees en dergelijke, die door de Goeden worden veroordeeld; hun streven is de jacht; hun leerboek is het gehuil van de jakhalzen; uilen zijn hun leraren in goed en kwaad; hun wijsheid is de kennis van vogels; hun vertrouwelingen zijn honden; hun rijk ligt in lege bossen; hun feest is een drinkgelag; hun vrienden zijn bogen die wrede daden verrichten; hun metgezellen zijn pijlen waarvan de punt met gif is besmeurd als slangen; hun gezang brengt verdoemenis over verward wild; hun vrouwen zijn de ontvoerde jonge meisjes van anderen; zij wonen samen met wrede tijgers; met dierenbloed vereren zij de goden; vlees brengen zij als offers; van roof leven zij; hun sieraden zijn edelstenen van slangen; hun ledematen smeren ze in met het bronstvocht van bosolifanten; elk bos waarin ze zich vestigen, ontwortelen ze volledig – Terwijl ik zo nadacht, kwam de generaal van de Śabaras bij me binnen.
 
 ::: media
 ![](/images/oefening086.webp)

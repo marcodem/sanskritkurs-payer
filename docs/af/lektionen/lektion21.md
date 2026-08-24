@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 21
+---
+# Les 21
 
 ## 21.1. Verdere teenwoordige tydstamme wat op -nt eindig
 

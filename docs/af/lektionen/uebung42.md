@@ -4,7 +4,8 @@ uebung_id: 42
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 42
+---
+# Oefening 42
 
 Vertaal:
 

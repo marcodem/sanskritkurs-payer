@@ -4,7 +4,8 @@ uebung_id: 43
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 43
+---
+# Oefening 43
 
 A) Vorm die **tweede persoon**-vorm van die volgende werkwoordsvorme, en sorg dat hulle ooreenstem in tyd, getal, stemming, ens.:
 

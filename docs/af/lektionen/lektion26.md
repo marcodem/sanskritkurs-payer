@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 26
+---
+# Les 26
 
 ## 26.1. Die wet van serebraliserings vir -s- binne woorde
 

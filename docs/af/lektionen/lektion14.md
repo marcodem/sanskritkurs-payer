@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 14
+---
+# Les 14
 
 ## 14.1. Uiting van die verhouding tussen dinge wat deur selfstandige naamwoorde aangedui word: die genitief (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesde-geval-uitgang)
 

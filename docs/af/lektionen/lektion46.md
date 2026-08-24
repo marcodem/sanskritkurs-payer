@@ -6,7 +6,8 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----# Les 46
+---
+# Les 46
 
 ## 46.1. Vorming van die 2de-persoon werkwoordsvorme (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 

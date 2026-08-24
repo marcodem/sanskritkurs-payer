@@ -4,7 +4,8 @@ lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
 
----# Les 28
+---
+# Les 28
 
 ## 28.1. Die causatief (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 

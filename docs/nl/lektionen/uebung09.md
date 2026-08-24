@@ -4,7 +4,8 @@ uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
 
----# Oefening 9
+---
+# Oefening 9
 
 A) Probeer de mogelijke betekenissen van de volgende woorden te achterhalen:
 
