@@ -158,7 +158,7 @@ Voorbeelden:
 ::: media
 ![](/images/lekt5602.webp)
 Afb.: ⟪क्लैब्यं मा स्म गमः⟫
-Poster (Ernesto Che Guevara) van een politieke partij in Vallachira (Wallasi拉), Thrissur (തൃശ്ശൂര്‍). „Een ruwe vertaling van wat erop staat zou zijn: Martelaarschap is een fascinerende ervaring voor een revolutionair. En een ontmoedigende uitweg voor een lafaard. Che is geen rolmodel voor lafaards.”
+Poster (Ernesto Che Guevara) van een politieke partij in Vallachira (Vallachira), Thrissur (തൃശ്ശൂര്‍). „Een ruwe vertaling van wat erop staat zou zijn: Martelaarschap is een fascinerende ervaring voor een revolutionair. En een ontmoedigende uitweg voor een lafaard. Che is geen rolmodel voor lafaards.”
 (Bron: [Details](/nl/licenses#lekt5602))
 :::
 Beide voorbeelden hebben een verbiedende betekenis. De aoristus van de imperatief wordt hier dus in zijn oorspronkelijke betekenis gebruikt. (Het overwicht van de aoristus van de imperatief in dergelijke zinnen kan wellicht worden verklaard door het overwicht van verbodszinnen ten opzichte van remmende zinnen, maar deze kwestie zou voor het klassieke Sanskriet nog moeten worden onderzocht.)
