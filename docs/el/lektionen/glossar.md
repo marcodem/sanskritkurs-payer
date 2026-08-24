@@ -163,7 +163,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | σε μία θέση | [51](/el/lektionen/lektion51#_51-6-) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο λέξη | [13](/el/lektionen/lektion13#_13-9-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο, αντιστοιχεί συχνά στη γερμανική έμφαση, μια είδους emoticon \<!\>, π.χ. "μόνο η αλήθεια νι | [15](/el/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | τονίζει το προηγούμενο, αντιστοιχεί συχνά στη γερμανική έμφαση, μια είδους emoticon \<!\>, π.χ. "μόνο η αλήθεια νικά", " | [15](/el/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

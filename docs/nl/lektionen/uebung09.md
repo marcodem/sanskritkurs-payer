@@ -1,113 +1,110 @@
-
 ---
-title: "Übung 9"
+title: "Oefening 9"
 uebung_id: 9
 category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 9
 
-# Oefening 9
+A) Probeer de mogelijke betekenissen van de volgende woorden te achterhalen:
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. iemand die alleen maar op een brahmaan lijkt = een slechte brahmaan
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+2\. mati ⟪मति⟫ : v. mening
 
-2\. mati ⟪मति⟫ : f. Meinung
+3\. śravaṇa ⟪श्रवण⟫ : n. oor
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+4\. dhenuka ⟪धेनुक⟫ : m. (coïtus) op de manier van een koe
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+5\. jayaka ⟪जयक⟫ : 3 zegevierend
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+6\. rakṣikā ⟪रक्षिका⟫ : v. bewaker, amulet
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett
+7\. karṣaka ⟪कर्षक⟫ : 3 ploegend ; m. landbouwer
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer
+8\. kleśa ⟪क्लेश⟫ : m. kwelling
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+9\. nāyikātva ⟪नायिकात्व⟫ : n. toestand van een geliefde
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+10\. tantraka ⟪तन्त्रक⟫ : 3 (net) van de weefketting / het weefgetouw afkomstig = nieuw geweven
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+11\. nartaka (v. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : danser
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer
-
-12\. naraka ⟪नरक⟫ : m. Hölle
+12\. naraka ⟪नरक⟫ : m. hel
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : v. HEER-zijn
 
-15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
+15\. dhenukā ⟪धेनुका⟫ : v. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. strijder
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. woede
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 binnentreden
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 ziend
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig
+20\. kopaka ⟪कोपक⟫ : 3 iemand die snel boos wordt, opvliegend
 
-B) Übersetzen Sie:
+B) Vertaal:
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. Taken van alle tweemaal-geborenen:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben.
+Offer, studie van de Veda’s, het geven van giften.
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. Specifieke taken van een brahmaan:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Onderwijzen, offers brengen in opdracht, giften aannemen.
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. Specifieke taken van een Kṣatriya:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+(sarvabhūtānām = genitief: „van alle wezens”)
 
 (Gautamadharmasūtra X,7)
 
-Hüten aller Wesen.
+Bescherming van alle wezens.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4\. Specifieke taken van een Vaiśya:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(naar Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Landbouw, handel, veeteelt en gelduitlening.
 
-5\. Aufgaben eines Śūdra:
+5\. Taken van een Śūdra:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(naar Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+Toelichting:
+dvijātīnām = genitief (wezenval) meervoud van dvijāti (vertaal hier: "tegenover de Tweemaalgeborenen")
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma is een tatpuruṣa met een dvandva (kārukuśīlava) in het voorlid. karma = nom. enk. van karman o. "daad, werkzaamheid, karma" bij de wortel kṛ 8 U). Vertaal "daad / werkzaamheid van de ... (genitief)" (door het dvandva aangeduiden).
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Gehoorzaamheid tegenover de Tweemaalgeborenen, werkzaamheden voor het levensonderhoud, werkzaamheid als ambachtsman respectievelijk rondtrekkende artiesten.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(naar Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+Economie is landbouw, veeteelt en handel.
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Afb.: ⟪रक्षणं सर्वभूतानाम्⟫
+(Afbeeldingsbron: [Details](/licenses#uebung013))
 :::

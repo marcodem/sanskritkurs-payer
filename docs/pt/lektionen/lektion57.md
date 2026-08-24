@@ -1,22 +1,23 @@
 ---
-title: Lektion 57
-subtitle: "Aorist 4: s-Aorist"
+title: "Lição 57"
+subtitle: "Aoristo 4: s-Aoristo"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Lição 57
 
-## 57.1. Aoristo 4: aoristo em s
+## 57.1. Aoristo 4: s-Aorista
 
 ::: grammar-box
-**O aoristo em s é formado a partir da maioria das raízes ⟪अनिट्⟫, desde que não tenham exclusivamente outra forma de aoristo. Raízes ⟪अनिट्⟫ facultativas podem, em geral, formar opcionalmente este aoristo ou o aoristo em iṣ. Também as raízes ⟪अनिट्⟫, que formam o ⟪परस्मैपद⟫ segundo a 1ª, 2ª ou 6ª forma do aoristo, formam o ⟪आत्मनेपद⟫ segundo o aoristo em s.**
+**O s-aoristo é formado para a maioria das raízes ⟪अनिट्⟫, desde que não tenham exclusivamente outra forma de aoristo. Raízes facultativas ⟪अनिट्⟫ podem, em geral, formar opcionalmente este ou o aoristo iṣ. Também raízes ⟪अनिट्⟫, que formam o ⟪परस्मैपद⟫ após a 1ª, 2ª ou 6ª forma do aoristo, formam o ⟪आत्मनेपद⟫ segundo o s-aoristo.**
 
-**Formação: Augmento + Raiz + s + desinência secundária atemática**
+**Formação: Aumento + Raiz + s + desinência secundária átema**
 :::
-Tabela das desinências com sufixo de formação do tema
+Tabela de desinências com sufixo de formação do tema
 
 ::: grammar-box
 
@@ -28,7 +29,7 @@ Tabela das desinências com sufixo de formação do tema
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Aplica-se a lei fonética geral de que uma sibilante entre duas oclusivas é elidida (cf. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), ou seja, o sufixo de formação do tema -s- antes de desinências que começam com -t- ou -th- é omitido (mas não depois de nasais ou r-).**
+**Aplica-se a lei fonética geral de que um som fricativo entre duas oclusivas cai (cf. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), ou seja, o sufixo de formação do tema -s- antes das desinências que começam com -t- ou -th- cai (mas não após nasais ou r-).**
 
 Exemplos:
 
@@ -37,18 +38,18 @@ Exemplos:
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫:sig[⟪क्षिप्त⟫]
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
 :::
-Tais formas poderiam também pertencer ao aoristo radical e, provavelmente, em parte, também pertencem a ele.
-Os gramáticos indianos também classificaram formas como :sig[⟪अकृत⟫] (3.sg.Ā) como aoristo em -s-, que claramente pertencem ao aoristo radical. Para este fim, os gramáticos indianos inventaram a seguinte regra fonética ad-hoc para o aoristo em -s-:
+Tais formas também poderiam pertencer ao aoristo da raiz e provavelmente pertencem em parte a ele.
+Os gramáticos indianos também contaram formas como ⟪अकृत⟫ (3.sg.Ā) para o s-aoristo, que pertencem claramente ao aoristo da raiz. Para esse fim, os gramáticos indianos inventaram a seguinte regra fonética ad-hoc para o s-aoristo:
 
 ::: indent
-"Depois de uma vogal curta, as "desinências" que começam com -st- ou -sth- perdem o -s-."
+"Após uma vogal breve, as 'terminações' que começam com -st- ou -sth- perdem o -s-."
 :::
-De resto, devem ser observadas as regras fonéticas para a combinação de consoantes finais com s-.
+Caso contrário, as regras fonéticas para a conexão de consoantes finais com s- devem ser observadas.
 
-Para -dhvam, vale o seguinte:
+Para -dhvam, aplica-se:
 
 ::: grammar-box
-**O -dh- de -dhvam é substituído por -ḍh- após todas as vogais que não sejam a/ā, bem como após -r.**
+**O -dh- de -dhvam é substituído por -ḍh- após todas as vogais que não são a/ā, bem como após -r.**
 
 :::
 ::: indent
@@ -57,18 +58,18 @@ p.ex. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 ::: grammar-box
 **Forma da raiz:**
 
-*   **⟪परस्मैपद⟫ : Grau de alongamento**
+*   **⟪परस्मैपद⟫ : Grau alongado**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Raízes com i/ī/u/ū final: Grau forte**
-    *   **-ṝ final é substituído por -īr ou -ūr**
-    *   **Raízes com apofonia em ā/e/o: Grau zero**
-    *   **Outras vogais da raiz: inalteradas (ou seja, geralmente no grau zero)**
+*   **Raízes com i/ī/u/ū final: Grau forte**
+*   **-ṝ final é substituído por -īr ou -ūr**
+*   **Raízes com ablaut terminadas em ā/e/o: Grau fraco**
+*   **Outros vogais radicais: inalterados (ou seja, geralmente no grau fraco)**
 :::
 Exemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +78,7 @@ Exemplos:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -87,32 +88,32 @@ Exemplos:
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ e ⟪सृज्⟫ têm no ⟪परस्मैपद⟫ o grau de alongamento com o ditongo ascendente -rā-:**
+**⟪दृश्⟫ e ⟪सृज्⟫ têm no परस्मैपद Grau alongado com o ditongo crescente -rā-:**
 
 :::
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+O Aoristo de outras raízes com -ṛ- na penúltima posição também pode ser formado assim:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
 Paradigmas:
 
-⟪नी⟫ 1U "conduzir"
+⟪नी⟫ 1U "liderar"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫:sig[⟪ढ्वम्⟫] |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟩:sig[⟪ढ्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
 ![](/images/lekt5701.webp)
-Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Fonte da imagem: [Detalhes](/licenses#lekt5701))
+Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८९१ १९५६⟫) ⟪। सो ऽनैषीद्दलितान् ॥⟫
+(Fonte da imagem: [Detalhes](/pt/licenses#lekt5701))
 :::
 ⟪कृ⟫ 8U "fazer"
 
@@ -135,103 +136,102 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 ::: grammar-box
 **Formas irregulares:**
 
-**1. Raízes em nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) formam o aoristo em s no grau forte:**
-**⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**Além disso, existem para ⟪गम्⟫ as formas regulares de grau fraco:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (no P, ⟪गम्⟫ tem o aoristo temático)**
+**1. Raízes terminadas em nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) formam o aoristo s com grau pleno:**
+**⟪अगंसि । अमंसि । अरंस्त⟫**
+**Além disso, para ⟪गम्⟫ existem as formas regulares com grau reduzido:**
+**⟪अगसि⟫ (« \*a-gm-si) ⟪। अगथास् । अगत⟫ (no P, ⟪गम्⟫ tem o aoristo temático)**
 
-2.  ⟪पद्⟫ 4Ā é regular (p. ex. ⟪अपत्सि⟫), mas na 3ª sg. Ā tem a forma do aoristo radical passivo:
+2. ⟪पद्⟫ 4Ā é regularmente (por exemplo, ⟪अपत्सि⟫), mas na 3.sg.Ā possui a forma do aoristo da raiz passivo:
 ⟪अपादि⟫ "ele foi"
 
-3.  ⟪बुध्⟫ Ā pode, na 3ª sg. Ā, opcionalmente assumir a forma do aoristo radical passivo:
+3. ⟪बुध्⟫ Ā pode opcionalmente assumir na 3.sg.Ā a forma do aoristo da raiz passivo:
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "ele reconheceu"
 :::
 ## 57.2. Exercício
 
-A) Traduza e analise sem auxílio as seguintes formas e forme as formas correspondentes do aoristo. Exceto para causativos e raízes que formam o aoristo em s, a classe do aoristo correspondente é indicada entre parênteses:
+A) Traduza e determine sem auxílios as seguintes formas e forme os respectivos aoristos. Exceto para causativos e raízes que formam o s-aoristo, a classe do respectivo aoristo está indicada entre parênteses:
 
-1.  ⟪पेचिथ⟫
-2.  ⟪अवक्⟫ (⟪३⟫)
-3.  ⟪सोष्यसि⟫
-4.  ⟪छिन्दे⟫
-5.  ⟪कुरुषे⟫
-6.  ⟪आधत्ते⟫
-7.  ⟪पद्यते⟫
-8.  ⟪जिगाय⟫
-9.  ⟪जिघ्रामः⟫ (⟪१⟫,⟪६⟫)
-10.  ⟪शासति⟫ (⟪२⟫)
-11.  ⟪स्तुवे⟫
-12.  ⟪दिग्धे⟫
-13.  ⟪प्लवध्वे⟫
-14.  ⟪तस्थिथ⟫ (⟪१⟫)
-15.  ⟪बिभ्यति⟫
-16.  ⟪ततर्प⟫
-17.  ⟪जुहुथ⟫
-18.  ⟪ऊषुः⟫
-19.  ⟪ससर्जिथ⟫
-20.  ⟪लिल्यिरे⟫
-21.  ⟪अत्याजयम्⟫
-22.  ⟪सिध्यथ⟫ (⟪२⟫)
-23.  ⟪निन्य⟫
-24.  ⟪कर्षन्ति⟫
-25.  ⟪अप्रच्छयन्⟫
+1. ⟪पेचिथ⟫
+2. ⟪अवक्⟫ (⟪३⟫)
+3. ⟪सोष्यसि⟫
+4. ⟪छिन्दे⟫
+5. ⟪कुरुषे⟫
+6. ⟪आधत्ते⟫
+7. ⟪पद्यते⟫
+8. ⟪जिगाय⟫
+9. ⟪जिघ्रामः⟫ (⟪१⟫, ⟪६⟫)
+10. ⟪शासति⟫ (⟪२⟫)
+11. ⟪स्तुवे⟫
+12. ⟪दिग्धे⟫
+13. ⟪प्लवध्वे⟫
+14. ⟪तस्थिथ⟫ (⟪१⟫)
+15. ⟪बिभ्यति⟫
+16. ⟪ततर्प⟫
+17. ⟪जुहुथ⟫
+18. ⟪ऊषुः⟫
+19. ⟪ससर्जिथ⟫
+20. ⟪लिल्यिरे⟫
+21. ⟪अत्याजयम्⟫
+22. ⟪सिध्यथ⟫ (⟪२⟫)
+23. ⟪निन्य⟫
+24. ⟪कर्षन्ति⟫
+25. ⟪अप्रच्छयन्⟫
 
-B) Traduza e analise as seguintes formas:
+B) Traduza e determine as seguintes formas:
 
-1.  ⟪चेलुः⟫
-2.  ⟪जन्तुः⟫
-3.  ⟪अश्वसीत्⟫
-4.  ⟪ज्येष्ठायाः⟫
-5.  ⟪संयक्⟫
-6.  ⟪असे⟫
-7.  ⟪असि⟫
-8.  ⟪अचैष्ट⟫
-9.  ⟪अचेष्ट⟫
-10.  ⟪अभग्नम्⟫
-11.  ⟪भस्म⟫
-12.  ⟪हवींषि⟫
-13.  ⟪अद्राक्षीः⟫
-14.  ⟪शनैः⟫
-15.  ⟪अपन्थाः⟫
-16.  ⟪शत्रुह⟫
-17.  ⟪उदासीने⟫
-18.  ⟪कनीयान्⟫
-19.  ⟪कन्याम्⟫
-20.  ⟪आरम्⟫
-21.  ⟪रिपू⟫
-22.  ⟪अदात्⟫
-23.  ⟪आदत्⟫
-24.  ⟪अवोढ⟫
-25.  ⟪अवोचम्⟫
-26.  ⟪दिक्⟫
-27.  ⟪शुनोः⟫
-28.  ⟪यते⟫
-29.  ⟪येते⟫
-30.  ⟪याते⟫
-31.  ⟪चतस्रः⟫
-32.  ⟪परंपरायै⟫
-33.  ⟪विमलाभ्याम्⟫
-34.  ⟪ते⟫
-35.  ⟪रजसि⟫
-36.  ⟪रजसी⟫
-37.  ⟪विक्रेढ्वम्⟫
-38.  ⟪युष्मत्⟫
-39.  ⟪अघम्⟫
-40.  ⟪अभुक्थाः⟫
-41.  ⟪उत्थानाय⟫
-42.  ⟪अलुम्पत⟫
-43.  ⟪अलुपत⟫
-44.  ⟪अलुप्त⟫
-45.  ⟪अलुप्तम्⟫
-46.  ⟪वसिष्ठे⟫
-47.  ⟪वर्षिष्ठे⟫
-48.  ⟪अक्षैष्म⟫
-49.  ⟪अहृत⟫
-50.  ⟪कामधुग्भिः⟫
-51.  ⟪अमुत्र⟫
-52.  ⟪पत्युः⟫
-53.  ⟪क्षेपीयन्⟫
-54.  ⟪आदि्षि⟫
-55.  ⟪पाणी⟫
-56.  ⟪अस्प्राक्षम्⟫
-
+1. ⟪चेलुः⟫
+2. ⟪जन्तुः⟫
+3. ⟪अश्वसीत्⟫
+4. ⟪ज्येष्ठायाः⟫
+5. ⟪संयक्⟫
+6. ⟪असे⟫
+7. ⟪असि⟫
+8. ⟪अचैष्ट⟫
+9. ⟪अचेष्ट⟫
+10. ⟪अभग्नम्⟫
+11. ⟪भस्म⟫
+12. ⟪हवींषि⟫
+13. ⟪अद्राक्षीः⟫
+14. ⟪शनैः⟫
+15. ⟪अपन्थाः⟫
+16. ⟪शत्रुह⟫
+17. ⟪उदासीने⟫
+18. ⟪कनीयान्⟫
+19. ⟪कन्याम्⟫
+20. ⟪आरम्⟫
+21. ⟪रिपू⟫
+22. ⟪अदात्⟫
+23. ⟪आदत्⟫
+24. ⟪अवोढ⟫
+25. ⟪अवोचम्⟫
+26. ⟪दिक्⟫
+27. ⟪शुनोः⟫
+28. ⟪यते⟫
+29. ⟪येते⟫
+30. ⟪याते⟫
+31. ⟪चतस्रः⟫
+32. ⟪परंपरायै⟫
+33. ⟪विमलाभ्याम्⟫
+34. ⟪ते⟫
+35. ⟪रजसि⟫
+36. ⟪रजसी⟫
+37. ⟪विक्रेढ्वम्⟫
+38. ⟪युष्मत्⟫
+39. ⟪अघम्⟫
+40. ⟪अभुक्थाः⟫
+41. ⟪उत्थानाय⟫
+42. ⟪अलुम्पत⟫
+43. ⟪अलुपत⟫
+44. ⟪अलुप्त⟫
+45. ⟪अलुप्तम्⟫
+46. ⟪वसिष्ठे⟫
+47. ⟪वर्षिष्ठे⟫
+48. ⟪अक्षैष्म⟫
+49. ⟪अहृत⟫
+50. ⟪कामधुग्भिः⟫
+51. ⟪अमुत्र⟫
+52. ⟪पत्युः⟫
+53. ⟪क्षेपीयन्⟫
+54. ⟪आदि्षि⟫
+55. ⟪पाणी⟫
+56. ⟪अस्प्राक्षम्⟫

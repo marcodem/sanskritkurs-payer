@@ -1,75 +1,69 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: "Lesing 38"
+subtitle: "Week se Oplossing"
 lesson_id: 38
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 38
 
-## 38.1. Losung der Woche
+## 38.1. Oplossing van die week
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren:
+⟪मनुस्मृति ४⟫.⟪३२⟫ oor regte urineren:
 
 ::: indent
-⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
-⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
+⟪प्रत्य⟫:sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं च प्रतिसोमोदकद्विजम् । प्रति⟫:sig[⟪गु⟫] ⟪प्रतिवातं च प्रज्ञा नश्यति मेहतः ॥⟫
 :::
-Erklärungen:
+Verduidelikings:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. tot ⟪अग्नि⟫ m.
 
-\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
+\-⟪गु⟫ Neutrum Nom.Akk.sg. tot ⟪गो⟫ m.f. "bees, koei"
 
 ::: media
 ![](/images/lekt3801.webp)
-Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Bildquelle: [Details](/licenses#lekt3801))
+Afbeelding: ⟪प्रज्ञा नश्यति मेहतः⟫
+(Beeldbron: [Details](/af/licenses#lekt3801))
 :::
-## 38.2. Lautwandel von Nasalen im Wort
+## 38.2. Klankverandering van nasale in die woord
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
+Nasale in 'n woord word aan die volgende konsonant geassimileer, d.w.s. hulle word vervang deur die nasale wat ooreenstem met daardie konsonant.
 
-Nach c- und j- wird -n- durch -ñ- ersetzt.
+Na c- en j- word -n- vervang deur -ñ-.
 :::
-## 38.3. Deklination der Stämme auf -n
+## 38.3. Deklinasie van die stamme op -n
 
-### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
+### 38.3.1. Nomina op -an asook nomina op -man resp. -van na 'n klinker
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
+Nomina op **-an** asook nomina **-man** resp. **-van** na 'n klinker het drie stamme:
 
-| Stamm | -an | -man | -van | Verwendung |
+| Stam | -an | -man | -van | Gebruik |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Sterk Stam** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
+| **Middelsterke Swak Stam** | **-a** :br(uit -*n) | **-ma** :br(uit -*mn) | **-va** :br(uit -*vn) | Oorblywende kategorieë voor konsonantiese begin:brKeuse ook Lok. sg. m. n. f. |
+| **Swakste Stam** | **-n** | **-mn** | **-vn** | Oorblywende kategorieë voor vokaliese begin |
 
-**Die Endungen sind regelmässig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
+**Die eindings is gereeld. Die Nominatief Enkelvoud m. f. word sonder uitgaande -n gevorm.**
 :::
-Beispiele:
+Voorbeelde:
 
-⟪राजन्⟫ m. "König"
+⟪राजन्⟫ m. "koning"
 
-*   starker Stamm: ⟪राजान्⟫
-*   mittlerer Stamm: :sig[⟪राज⟫]
-*   schwächster Stamm: ⟪राज्ञ्⟫
+*   Sterk stam: ⟪राजान्⟫
+*   Middelste stam: ⟪राज⟫
+*   Swakste stam: ⟪राज्ञ् सीमन्⟫ f. "grens"
 
-⟪सीमन्⟫ f. "Grenze"
+*   Sterk stam: ⟪सीमान्⟫
+*   Middelste stam: ⟪सीम⟫
+*   Swakste stam: ⟪सीम्न् नामन्⟫ n. "naam"
 
-*   starker Stamm: ⟪सीमान्⟫
-*   mittlerer Stamm: ⟪सीम⟫
-*   schwächster Stamm: ⟪सीम्न्⟫
-
-⟪नामन्⟫ n. "Name"
-
-*   starker Stamm: ⟪नामान्⟫
-*   mittlerer Stamm: ⟪नाम⟫
-*   schwächster Stamm: ⟪नाम्न्⟫
+*   Sterk stam: ⟪नामान्⟫
+*   Middelste stam: ⟪नाम⟫
+*   Swakste stam: ⟪नाम्न्⟫
 ::: grammar-box
 
 | | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
@@ -94,34 +88,31 @@ Beispiele:
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Abb.: ⟪सीमा⟫
-(Bildquelle: [Details](/licenses#lekt3803))
+Afbeelding: ⟪सीमा⟫
+(Beeldbron: [Details](/af/licenses#lekt3803))
 :::
-### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
+### 38.3.2. Nomina op -man resp. -van na konsonant
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
-*   Schwacher Stamm:
-    *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
-    *   vor vokalisch anlautenden Endungen: **\-man, -van**
-
-Sonst Bildung wie unter 3.1.
+*   Sterk stam: -mān, -vān
+*   Swak stam:
+*   voor konsonantisch beginnende uitgangen: -ma, -va (uit -\*mn, -\*vn)
+*   voor vokaal beginnende uitgangen: **\-man, -van**
+Anders, vorming soos in 3.1.
 :::
-Beispiele:
+Voorbeelde:
 
-⟪आत्मन्⟫ n. "Seele"
+⟪आत्मन्⟫ n. 'siel'
 
-*   starker Stamm: ⟪आत्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪आत्म⟫
-    *   vor Vokal: ⟪आत्मन्⟫
+*   sterk stam: ⟪आत्मान्⟫
+*   swak stam:
+    *   voor 'n medeklinker: ⟪आत्म⟫
+    *   voor 'n vokaal: ⟪आत्मन् ब्रह्मन्⟫ n.: die Absoluut, die Veda, Brahman
 
-⟪ब्रह्मन्⟫ n.: Absolutes, Veda, Brahman
-
-*   starker Stamm: ⟪ब्रह्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪ब्रह्म⟫
-    *   vor Vokal: ⟪ब्रह्मन्⟫
+*   sterk stam: ⟪ब्रह्मान्⟫
+*   swak stam:
+    *   voor 'n medeklinker: ⟪ब्रह्म⟫
+    *   voor 'n vokaal: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -144,18 +135,18 @@ Beispiele:
 | ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
+### 38.3.3. Manlike en onbepaalde selfstandige naamwoorde wat op -in, -min, -vin eindig
 
 ::: grammar-box
-Diese Nomina haben **keine** Stammabstufung.
+Hierdie selfstandige naamwoorde het **geen** stamgradering nie.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
+Die manlike nominatief enkelvoud en die onbesieldes akkusatief meervoud word gevorm deur analogie met die -an-stamme (verlenging van die -i-), net soos die stam wat in **\-i-** eindig voor 'n medeklinker-einde.
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
+Die vroulike vorm word met die agtervoegsel -ī gevorm: bv. ⟪बलिनी⟫
 :::
-Beispiel:
+Voorbeeld:
 
-⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)"
+⟪बलिन्⟫ m.n. 'sterk, magtig (gekarakteriseer deur 'n bepaalde ⟪बल⟫, wat ⟪बल⟫ besit)'
 
 ::: grammar-box
 
@@ -164,220 +155,218 @@ Beispiel:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
-
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
+## 38.4. Oor selfstandige naamwoordvorming: die agtervoegsel ⟪तद्धित⟫ -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
+Die (baie belangrike!) agtervoegsel **-in** word gebruik om byvoeglike naamwoorde van selfstandige naamwoorde te vorm met die betekenis:
 
-**gekennzeichnet durch, besitzend**
+**gekarakteriseer deur, besit**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+Oorspronklik het die vorming met die agtervoegsel **-⟪इन्⟫** verskil van dié met **-⟪मन्त्⟫/-⟪वन्त्⟫** daarin dat **-⟪इन्⟫** karakterisering deur iets spesifiek aangedui het, terwyl **-⟪मन्त्⟫/-⟪वन्त्⟫** het besit van, of identifikasie deur, iets wat alledaags of algemeen is, uitgedruk.
 :::
-Beispiel:
+Voorbeeld:
 
-⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
+⟪हस्तिन्⟫ m.: die een wat deur 'n spesiale hand gemerk is = die olifant (na alles is sy hand nie 'n gewone hand nie, maar 'n sloor)
 
 ::: media
 ![](/images/lekt3806.webp)
-Abb.: ⟪हस्ती⟫
-(Bildquelle: [Details](/licenses#lekt3806))
+Fig.: ⟪हस्ती⟫
+(Beeldbron: [Details](/af/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat
+⟪हस्तवन्त्⟫ : een wat (menslike) hande het
 
 ::: media
 ![](/images/lekt3807.webp)
-Abb.: ⟪हस्तवान्⟫
-(Bildquelle: [Details](/licenses#lekt3807))
+Figuurlik: ⟪हस्तवान्⟫
+(Beeldbron: [Details](/af/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet.
+Bywoorde wat op **-⟪इन्⟫** eindig, word dikwels gebruik om samestelde woorde te vorm.
 :::
-Beispiel:
+Voorbeeld:
 
-⟪सत्यवादिन्⟫ zu ⟪सत्यवाद⟫ m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht"
+⟪सत्यवादिन्⟫ tot ⟪सत्यवाद⟫ m. 'die waarheid spreek': 'iemand wat gekenmerk word deur die waarheid te spreek = een wat altyd die waarheid spreek'
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫
+## 38.5. Sintaktiese notas oor ⟪नामन्⟫
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man:
+Om "iemand met die naam N. N." uit te druk, word die volgende konstruksie gebruik:
 
-**N.N. (im Nominativ) ⟪नाम⟫**
+**N.N. (in die nominatief) ⟪नाम⟫**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz.
+Letterlik: "die naam is/was N.N.". Dit is dus 'n ingevoegde nominale klousule.
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
+⟪आसीद्राजा नलो नाम वीरसेनसुतो बली ।⟫ "Eendag was daar 'n koning met die naam Nala, die magtige seun van Vīrasena."
 :::
-Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken:
+Natuurlik kan dieselfde ding uitgedruk word met behulp van 'n ⟪बहुव्रीहि⟫:
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
+⟪देवदत्तनामा पुरुषः⟫ "'n man wie se naam Devadatta is"
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist"
+⟪मदयन्तिकानाम्नी बाला⟫ "'n meisie wie se naam Madayantika is"
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Bildquelle: [Details](/licenses#lekt3808))
+Fig.: ⟪आसीन्महात्मा गन्धी नाम⟫
+(Beeldbron: [Details](/af/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 38.6. Sintaktiese notas oor ⟪आत्मन्⟫
 
 ::: grammar-box
-⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+⟪आत्मन्⟫ **manlik** kan in die **enkelvoud** as 'n refleksiewe voornaamwoord vir al drie geslagte, getalle (insluitend die dubbelvoud en meervoud) en persone gebruik word.
 :::
-Beispiele:
+Voorbeelde:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst"
+⟪आत्मन्येषा दोषं न पश्यति ।⟫ "Sy sien geen fout in haarself nie"
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst"
+⟪आत्मानं स्तुवन्ति ।⟫ "Hulle prys hulself"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kann deswegen stehen für "mein/dein/sein/... eigenes"
+Die genitief (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kan dus 'my/jou/sy/... eie' beteken
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus."
+⟪आत्मनो गृहं प्रविशति ।⟫ "Hy gaan sy eie huis binne."
 :::
-## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
+## 38.7. Stamme wat in 'n medeklinker eindig as die eerste element van samestellings
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
+Stamwoorde wat op 'n medeklinker eindig, verskyn as die eerste element van 'n samestelling in die (swak) stamvorm wat hulle aannem­en voor die -su-uitgang van die lokatief-meervoud (⟪सप्तमी⟫).
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-:sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
+:sig[⟪राज⟫]⟪पुत्र⟫ "prins"
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
+## 38.8. Stamme wat in -an eindig as die tweede element van 'n ⟪बहुव्रीहि⟫
 
 ::: grammar-box
-Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
+As die tweede element van 'n ⟪बहुव्रीहि⟫ kan 'n -an-stam vir al drie geslagte gebruik word. As reël word die vroulike vorm egter gevorm met die agtervoegsel -ī van die swakste manlike stam.
 :::
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin"
+⟪दुर्णाम्नी⟫ "een wie se naam kwaad is; demoon van siekte"
 :::
-## 38.9. Wortliste
+## 38.9. Woordelys
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+⟪सूर्य⟫ m.: Son, Sonsgod Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+Figuur: ⟪सूर्यः⟫
+(Beeldbron: [Details](/af/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ n.: water
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+Fig.: ⟪उदकम्⟫
+(Beeldbron: [Details](/af/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : blaas, wegblaas
 
 ::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫
+Caus. ⟪वापयति⟫
+PPP ⟪वान । वात⟫
+Infinitief ⟪वातुम्⟫
 
-davon:
+waarvan:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: wind
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : blaas, weggewaai word, ophou
 
 ::: indent
-davon:
+waarvan:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ n.: Uitwissing, Nirwana
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ n.: volledige uitwissing, volledige bevryding (aan die einde van 'n Boeddha se of Arhat se lewe)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+Fig.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : om te piepie, om te pies, om te ejakuleer
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
-Pass. ⟪मिह्यते⟫
-Kaus. ⟪मेहयति⟫
-PPP ⟪मीढ⟫
+Passief ⟪मिह्यते⟫
+Kausatief ⟪मेहयति⟫
+Voltooide deelwoord ⟪मीढ⟫
 
-davon:
+waarvan:
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: wolk ('Seicher')
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: seun
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -:sig[⟪राज⟫] m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: koning (oor koningskap in Indië, sien Basham, *Wonder*, bl. 82–94). As die finale element van 'n samestelling (veral ⟪तत्पुरुष⟫) gewoonlik: -⟪राज⟫ m. (soos in ⟪देव⟫)
 
 ::: indent
-Femininum:
+Feminin:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ f.: koningin, vrou van 'n koning
 
-von :sig[⟪राज⟫] :
+van ⟪राज⟫ :
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 3: koninklik; n. koninkryk, koningskap, bewind
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.: naam
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ v.: grens
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.: self, eie persoon, innerste wese. Filosofies en in verlossingsleer: die Absoluut binne die individu, waarvan die individu egter dalk nie bewus is nie (v. Stietencron)
+⟪ब्रह्मन्⟫ n.: die Absoluut, die Veda (volgens Thieme, oorspronklik: die geformuleerde waarheid, vandaar ⟪ब्राह्मण⟫ 'formuleerder van waarheid')
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
-
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.: Brahmā, die Skeppergod wat as 'n persoonlike wese beskou word
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+Figuurlik: ⟪ब्रह्मा⟫
+(Beeldbron: [Details](/af/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)
+⟪कर्मन्⟫ n.: verwant aan ⟪कृ⟫ 8U: aksie, daad, werk; heilige werk, offerrite; karma: verlede dade wat later vrugte afwerp (bv. in hergeboorte) 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: Ryping van dade = die goeie en slegte gevolge van dade in vorige lewens (sien ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: olifant (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: mens, man; naam van die vader van die mensdom (sien ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon:
+waarvan:
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: mens
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (om te flits, om te skyn); om te treur, om te rou
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -385,106 +374,105 @@ Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
 Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Absolute ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+waarvan:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: stralend, suiwer, helder
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: droefheid, hartseer
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: vry van hartseer; Ashoka-boom = _Saraca asoca_ (Roxb.) Wilde; Naam van Keiser Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (c. 304–232 v.C.)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+Fig.: ⟪अशोकवृक्षः⟫
+(Beeldbron: [Details](/af/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+Fig.: ⟪अशोकसाम्राज्यम्⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt3811))
 :::
-## 38.10. Übung
+## 38.10. Oefening
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) Sit die toepaslike vorm van die woorde in hakies in die volgende sinne in en vertaal:
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
+... (⟪सप्तमी विभक्तिः⟫) ... ⟪धर्मं रक्षत्यभया जनाः ॥१॥⟫ (⟪राजन्⟫)
+⟪आसीद्राजपुत्रो गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो बुद्ध्या रूपामितबलः ॥२॥⟫ (⟪नामन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
+⟪राज्यस्य⟫ ... (⟪सप्तमी बहुवचने⟫) ... ⟪अरयो राजानं योद्धुं तिष्ठन्ति ॥३॥⟫ (⟪सीमन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
-
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
+⟪वैश्यानां कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
 ⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
+... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥६॥⟫ (⟪कर्मन्⟫)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
+⟪किम्⟫ ... ⟪किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥७॥⟫ (⟪कर्मन्⟫)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न शोचति न लुभ्यति ॥८॥⟫ (⟪प्रसन्नात्मन्⟫)...
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
+ (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य सुफलमाहुः ॥९॥⟫ (⟪कर्मन्⟫)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
+⟪महीभोगस्⟫ ... (⟪शष्ठी बहुवचने⟫) ... ⟪धर्मः ॥१०॥⟫ (⟪राजन्⟫)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
+⟪राज्ञे⟫ ... ⟪दीयेरन् ॥११॥⟫ (⟪बलिन् हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
+... (⟪तृतीया विभक्तिः⟫) ... ⟪लोका असृज्यन्त ॥१२॥⟫ (⟪ब्रह्मन्⟫ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
+... (⟪तृतीया विभक्तिः⟫) ... ⟪कृतं पापं⟫... (⟪तृतीया विभक्तिः⟫) ... ⟪अकृतं पापम् ॥१३॥⟫ (⟪आत्मन्⟫)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो ऽभयं दीयते ॥१४॥⟫ (⟪राजन्⟫)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
+... ⟪धर्मं न रक्षत्सु सभया जनाः ॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Woordelys vir die vertalingsopdrag
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫)
+⟪प्राय⟫ n.: die hoofsaak, Instr. ⟪प्रायेण⟫ : gewoonlik, oor die algemeen (verwant aan ⟪प्र⟫-⟪इ⟫)
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
+⟪विनोद⟫ m.: tydverdrywing, vermaak, amusering
 
 ::: media
 ![](/images/lekt3812.webp)
-Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812))
+Figuur: ⟪विनोदः⟫
+(Beeldbron: [Details](/af/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
+⟪अट्⟫ 1P ⟪अटति⟫ : ronddwaal
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
-Kaus. ⟪आटयति⟫
+Caus. ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: seicht
+⟪गाध⟫ 3: vlak
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
+⟪तॄ⟫ 1P ⟪तरति⟫ : oorsteek, om jouself van (akk.) te red
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
+Fut. ⟪तरिष्यति । तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
-Kaus. ⟪टारयति⟫
+Caus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Infinitief ⟪तरितुम् । तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel
+⟪पार⟫ n. (m.): die ander oewer, grens, bestemming
 
-⟪तीर⟫ n.: Ufer
+⟪तीर⟫ n.: oewer
 
 ::: media
 ![](/images/lekt3813.webp)
-Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813))
+Fig.: ⟪वाराणस्यां गङ्गातीरे⟫
+(Beeldbron: [Details](/af/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: je einzeln
+⟪एकैकशस्⟫ byvoeg.: een vir een
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
+⟪गण्⟫ 10P ⟪गणयति⟫ : tel
 
 ::: indent
-Perf. ⟪गणयां⟫ ⟪चकार⟫
+Perf. ⟪गणयां चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
@@ -493,97 +481,92 @@ Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814))
+Fig.: ⟪गणयां चक्रुः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : om te skreeu, om te klaag
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
-Kaus. ⟪क्रोशयति⟫
-PPP ⟪क्रुष्ट⟫
+Caus. ⟪क्रोशयति⟫
+Voltooide verlede tyd ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt
+⟪इदानीम्⟫ Adv.: nou
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich
+⟪नूनम्⟫ Adv.: nou; so, daarom; beslis, sekerlik
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : te sink, te duik
 
 ::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
-Kaus. ⟪मज्जयति⟫
+Caus. ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
+Absol. ⟪मङ्क्त्वा । मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen
+⟪गवेषयति⟫ Denominatief: te soek
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt
+⟪व्याकुल⟫ 3: ontsteld, geagiteerd, verward
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm
+⟪कोलाहल⟫ m.n.: geskree, geraas
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen
+⟪विवेष्टित⟫ n.: die daad om oral te soek
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen
+⟪हस्⟫ 1ste persoon ⟪हसति⟫ : om te lag
 
 ::: indent
-Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
+Perfektief Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
-Kaus. ⟪हासयति⟫
+Caus. ⟪हासयति⟫
 PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen
+⟪सृ⟫ 1P ⟪सरति⟫ : om te hardloop
 
 ::: indent
-Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
+Voltooid ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
-Kaus. ⟪सारयति⟫
+Caus. ⟪सारयति⟫
 PPP ⟪सृत⟫
-Inf. ⟪सर्तुम्⟫
+Infinitief ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr")
+⟪कर्णयति⟫ Denominatief: hoor (van ⟪कर्ण⟫ m. 'oor')
 
-⟪लज्जा⟫ f.: Scham
+⟪लज्जा⟫ v.: skaamte
 
-⟪अधस्⟫ Adv.: nach unten
+⟪अधस्⟫ byw.: na onder
 
-## 38.12. Übersetzungsübung
+## 38.12. Vertalingsopdrag
 
-:sig[⟪दश⟫] ⟪मूढाः⟫
+:sig[⟪दश⟫] ⟪मूढाः मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ -- ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी ।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥⟫
+⟪आसीत्तेषां मध्ये कश्चन वृद्धः । स किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो गणयामास । परं⟫ :sig[⟪नवै⟫]⟪व परिगणितास्तेन । ततः स आक्रोशत् । अहो⟫ :sig[⟪वयम्⟫] ⟪दश प्रस्थिताः । इदानीं नवैव⟫ :sig[⟪स्मः⟫] ⟪। नूनमस्माकमेको नद्यां निमग्नः ।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति । ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪। तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+Verduidelikings:
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪दश⟫ nom. acc. pl. m. f. n. van ⟪दशन्⟫ "tien"
 
-Erklärungen:
+⟪बाहुभ्याम्⟫ instrumentaal, datief, ablatief, dual van ⟪बाहु⟫ m. "arm"
 
-:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn"
+⟪सर्वे⟫ Nominatief meervoud manlik van ⟪सर्व⟫ 3 "iedereen, almal"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm"
+⟪जिज्ञासमान⟫ DeelwoordPret. Ā. Desideratief van ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "om te wil herken, om te wil weet"
 
-:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle"
+⟪नव⟫ Nom. Acc. meervoud m. v. n. van ⟪नवन्⟫ "nege"
 
-:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen"
+⟪वयम्⟫ Nom. meervoud "ons"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun"
+⟪स्मस्⟫ 1ste persoon meervoud aanwysende teenwoordige tyd passief van ⟪अस्⟫ 2de persoon
 
-:sig[⟪वयम्⟫] Nom.pl. "wir"
+⟪गवेषयत⟫ 2de-persoon meervoud imperatief
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
+⟪एकैक⟫ "elkeen afsonderlik"
 
-:sig[⟪गवेषयत⟫] 2.pl.Imperativ P
+⟪समजनि⟫ 3de-persoon enkelvoud passief aoristus van ⟪जन् तरसा⟫ Instrumenteel enkelvoud van ⟪तरस्⟫ n. "energie", byvoeglik gebruik: "snel, kragtig"
 
-⟪एकैक⟫ "jeder einzeln"
+⟪यूयम्⟫ nom. meerv. "hulle"
 
-:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫
-
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt"
-
-:sig[⟪यूयम्⟫] Nom.pl. "ihr"
-
-⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫]
+⟪युष्माकम्⟫ gen. meerv. van ⟪यूयम्⟫
 

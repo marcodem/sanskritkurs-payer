@@ -1,107 +1,108 @@
 ---
 aside: true
 outline: [2, 3]
+
 ---
 
-# Grammatik Themen
+# Tematikat e Gramatikës
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+Kjo faqe ofron një përmbledhje sistematike të të gjitha temave gramatikore të kursit të Sanskritishtes. Çdo një nga 61 leksionet është klasifikuar këtu tematikisht.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Fonologjia & Shkrimi (Saṃhitā & Lipi)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -\> [Lektion 1](/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -\> [Lektion 40](/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -\> [Lektion 41](/lektionen/lektion41) & [Lektion 42](/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -\> [Lektion 2](/lektionen/lektion02), [Lektion 3](/lektionen/lektion03), [Lektion 30](/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -\> [Lektion 4](/lektionen/lektion04)
-    *   **Vokalsandhi** -\> [Lektion 3](/lektionen/lektion03), [Lektion 24](/lektionen/lektion24)
-    *   Sandhi von **-n** -\> [Lektion 7](/lektionen/lektion07)
-    *   Sandhi für **Nasale** -\> [Lektion 21](/lektionen/lektion21), [Lektion 26](/lektionen/lektion26)
-    *   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/lektionen/lektion10), [Lektion 26](/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -\> [Lektion 44](/lektionen/lektion44), [Lektion 51](/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -\> [Lektion 16](/lektionen/lektion16), [Lektion 43](/lektionen/lektion43)
+*   **Hyrje në tingujt**: Sistematika dhe shqiptimi -\> [Leksioni 1](/sq/lektionen/lektion01)
+*   **Hyrje në shkrimin (Devanāgarī)**:
+*   Zërat dhe bashkëtingëlloret e thjeshta -\> [Leksioni 40](/sq/lektionen/lektion40)
+*   Bashkëtingëlloret e kombinuara (Ligaturat) -\> [Leksioni 41](/sq/lektionen/lektion41) & [Leksioni 42](/sq/lektionen/lektion42)
+*   **Sandhi (Lidhja e tingujve)**:
+*   Sandhi për **-s/Visarga** në fund të fjalës -\> [Leksioni 2](/sq/lektionen/lektion02), [Leksioni 3](/sq/lektionen/lektion03), [Leksioni 30](/sq/lektionen/lektion30)
+*   Sandhi për **-m, -e, -d** -\> [Leksioni 4](/sq/lektionen/lektion04)
+*   **Sandhi i zanoreve** -\> [Leksioni 3](/sq/lektionen/lektion03), [Leksioni 24](/sq/lektionen/lektion24)
+*   Sandhi për **-n** -\> [Leksioni 7](/sq/lektionen/lektion07)
+*   Sandhi për **Nazalizet** -\> [Leksioni 21](/sq/lektionen/lektion21), [Leksioni 26](/sq/lektionen/lektion26)
+*   Cerebralizimi (**n -\> ṇ / s -\> ṣ**) -\> [Leksioni 10](/sq/lektionen/lektion10), [Leksioni 26](/sq/lektionen/lektion26)
+*   Sandhi i fjalës (h-, ch-) -\> [Leksioni 44](/sq/lektionen/lektion44), [Leksioni 51](/sq/lektionen/lektion51)
+*   **Sandhi i bashkëtingëlloreve** (Përmbledhje) -\> [Leksioni 16](/sq/lektionen/lektion16), [Leksioni 43](/sq/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Studimi i Fjalëve (Morfologjia)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Emrat dhe Mbiemrat (Deklinationi)
 
-*   **Grundlagen**: Kasuslehre -\> [Lektion 1](/lektionen/lektion01), [Lektion 2](/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -\> [Lektion 2](/lektionen/lektion02), [Lektion 7](/lektionen/lektion07)
-*   **I- und U-Stämme** -\> [Lektion 3](/lektionen/lektion03), [Lektion 27](/lektionen/lektion27), [Lektion 52](/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -\> [Lektion 13](/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -\> [Lektion 38](/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -\> [Lektion 51](/lektionen/lektion51), [Lektion 54](/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -\> [Lektion 61](/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -\> [Lektion 49](/lektionen/lektion49), [Lektion 50](/lektionen/lektion50), [Lektion 53](/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -\> [Lektion 52](/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -\> [Lektion 53](/lektionen/lektion53)
+*   **Bazat**: Mësimi rreth raste -\> [Mësimi 1](/sq/lektionen/lektion01), [Mësimi 2](/sq/lektionen/lektion02)
+*   **Stemat A** (Maskulin & Neutër) -\> [Mësimi 2](/sq/lektionen/lektion02), [Mësimi 7](/sq/lektionen/lektion07)
+*   **Stemat I dhe U** -\> [Mësimi 3](/sq/lektionen/lektion03), [Mësimi 27](/sq/lektionen/lektion27), [Mësimi 52](/sq/lektionen/lektion52)
+*   **Stemat konsonantore**:
+*   Stema me **-mant / -vant** -\> [Mësimi 13](/sq/lektionen/lektion13)
+*   Stema me **-n** (Rājan, Ātman) -\> [Mësimi 38](/sq/lektionen/lektion38)
+*   Stemat konsonantore të thjeshta -\> [Mësimi 51](/sq/lektionen/lektion51), [Mësimi 54](/sq/lektionen/lektion54)
+*   Nomina të rrënjës me **-ā, -ī, -ū** -\> [Mësimi 61](/sq/lektionen/lektion61)
+*   **Duali (dyësia)** e emrave -\> [Mësimi 49](/sq/lektionen/lektion49), [Mësimi 50](/sq/lektionen/lektion50), [Mësimi 53](/sq/lektionen/lektion53)
+*   **Numrat & Krahasimi**:
+*   Numra (kardinalë/ordinalë) -\> [Mësimi 52](/sq/lektionen/lektion52)
+*   Krahasimi (Komparativ/Superlativ) -\> [Mësimi 53](/sq/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Pronominet & Adverbet
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -\> [Lektion 4](/lektionen/lektion04)
-    *   Relativpronomen (yad) -\> [Lektion 19](/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -\> [Lektion 46](/lektionen/lektion46), [Lektion 47](/lektionen/lektion47)
-    *   Indefinitpronomina -\> [Lektion 37](/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -\> [Lektion 37](/lektionen/lektion37), [Lektion 52](/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -\> [Lektion 21](/lektionen/lektion21), [Lektion 44](/lektionen/lektion44)
+*   **Pronominet**:
+*   Pronomet pyetëse dhe demonstrative -\> [Mësimi 4](/sq/lektionen/lektion04)
+*   Pronomet relative (yad) -\> [Mësimi 19](/sq/lektionen/lektion19)
+*   Pronomet personale (Personi 1. & 2.) -\> [Mësimi 46](/sq/lektionen/lektion46), [Mësimi 47](/sq/lektionen/lektion47)
+*   Pronomet indefinite -\> [Mësimi 37](/sq/lektionen/lektion37)
+*   **Adverbet & Adresimi**:
+*   Formimi i adverbeve -\> [Mësimi 37](/sq/lektionen/lektion37), [Mësimi 52](/sq/lektionen/lektion52)
+*   Adresimi i respektshëm & vokativi -\> [Mësimi 21](/sq/lektionen/lektion21), [Mësimi 44](/sq/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Verbet (Konjugim)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -\> [Lektion 6](/lektionen/lektion06), [Lektion 44](/lektionen/lektion44), [Lektion 39](/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -\> [Lektion 6](/lektionen/lektion06), [Lektion 28](/lektionen/lektion28)
-    *   Athematische Klassen -\> [Lektion 17](/lektionen/lektion17), [Lektion 33](/lektionen/lektion33), [Lektion 7](/lektionen/lektion07), [Lektion 31](/lektionen/lektion31), [Lektion 8](/lektionen/lektion08), [Lektion 30](/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -\> [Lektion 32](/lektionen/lektion32)
-    *   **Optativ & Imperativ** -\> [Lektion 30](/lektionen/lektion30), [Lektion 48](/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -\> [Lektion 34](/lektionen/lektion34), [Lektion 35](/lektionen/lektion35), [Lektion 36](/lektionen/lektion36)
-    *   **Perfekt (Dual)** -\> [Lektion 60](/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -\> [Lektion 26](/lektionen/lektion26), [Lektion 61](/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -\> [Lektion 54](/lektionen/lektion54), [Lektion 55](/lektionen/lektion55), [Lektion 56](/lektionen/lektion56), [Lektion 57](/lektionen/lektion57), [Lektion 58](/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -\> [Lektion 10](/lektionen/lektion10), [Lektion 28](/lektionen/lektion28), [Lektion 29](/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -\> [Lektion 61](/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -\> [Lektion 59](/lektionen/lektion59), [Lektion 60](/lektionen/lektion60)
+*   **Sistemi i prezencit (Indikativ)**:
+*   Funde personale (3., 2., 1. Person) -\> [Mësimi 6](/sq/lektionen/lektion06), [Mësimi 44](/sq/lektionen/lektion44), [Mësimi 39](/sq/lektionen/lektion39)
+*   Klasat tematike (1, 4, 6, 10) -\> [Mësimi 6](/sq/lektionen/lektion06), [Mësimi 28](/sq/lektionen/lektion28)
+*   Klasat athematike -\> [Mësimi 17](/sq/lektionen/lektion17), [Mësimi 33](/sq/lektionen/lektion33), [Mësimi 7](/sq/lektionen/lektion07), [Mësimi 31](/sq/lektionen/lektion31), [Mësimi 8](/sq/lektionen/lektion08), [Mësimi 30](/sq/lektionen/lektion30)
+*   **Tempore të tjera & Modi**:
+*   **Imperfekt** (E kaluara) -\> [Mësimi 32](/sq/lektionen/lektion32)
+*   **Optativ & Imperativ** -\> [Mësimi 30](/sq/lektionen/lektion30), [Mësimi 48](/sq/lektionen/lektion48)
+*   **Perfekt** (Singular/Plural) -\> [Mësimi 34](/sq/lektionen/lektion34), [Mësimi 35](/sq/lektionen/lektion35), [Mësimi 36](/sq/lektionen/lektion36)
+*   **Perfekt (Dual)** -\> [Mësimi 60](/sq/lektionen/lektion60)
+*   **Futur** (Thjesht & Periphrastik) -\> [Mësimi 26](/sq/lektionen/lektion26), [Mësimi 61](/sq/lektionen/lektion61)
+*   **Aorist** (E kaluara) -\> [Mësimi 54](/sq/lektionen/lektion54), [Mësimi 55](/sq/lektionen/lektion55), [Mësimi 56](/sq/lektionen/lektion56), [Mësimi 57](/sq/lektionen/lektion57), [Mësimi 58](/sq/lektionen/lektion58)
+*   **Forma të nxjerra verbale**:
+*   **Pasiv & Kausativ** -\> [Mësimi 10](/sq/lektionen/lektion10), [Mësimi 28](/sq/lektionen/lektion28), [Mësimi 29](/sq/lektionen/lektion29)
+*   **Intensivum & Denominativa** -\> [Mësimi 61](/sq/lektionen/lektion61)
+*   **Verbet në Dual (Zweizahl)** -\> [Mësimi 59](/sq/lektionen/lektion59), [Mësimi 60](/sq/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Formime të emrave & Kompozita
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **Kompozita (Samāsa)**:
+*   **Dvandva** (Kompozit kopulativ) -\> [Mësimi 5](/sq/lektionen/lektion05), [Mësimi 9](/sq/lektionen/lektion09)
+*   **Tatpuruṣa** (Determinativ) -\> [Mësimi 15](/sq/lektionen/lektion15), [Mësimi 18](/sq/lektionen/lektion18)
+*   Kompozita Upapada -\> [Mësimi 51](/sq/lektionen/lektion51)
+*   **Bahuvrīhi** (Posesiv) -\> [Mësimi 20](/sq/lektionen/lektion20)
+*   **Sufikset & Particippet**:
+*   Sufikse kryesore (-a, -ana, -tra, etj.) -\> [Mësimi 8](/sq/lektionen/lektion08), [Mësimi 9](/sq/lektionen/lektion09)
+*   **PPP** (Participi i Përsosur Pasiv) -\> [Mësimi 12](/sq/lektionen/lektion12), [Mësimi 13](/sq/lektionen/lektion13)
+*   **PPA** (Participi i Përsosur Aktiv) -\> [Mësimi 52](/sq/lektionen/lektion52)
+*   **Absolutivi & Infinitivi** -\> [Mësimi 22](/sq/lektionen/lektion22), [Mësimi 23](/sq/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Gramatika e Fjalive (Sintaksa)
 
-*   **Der Nominalsatz** -\> [Lektion 2](/lektionen/lektion02)
-*   **Der Fragesatz** -\> [Lektion 37](/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -\> [Lektion 2](/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -\> [Lektion 7](/lektionen/lektion07), [Lektion 11](/lektionen/lektion11)
-    *   Instrumentalis -\> [Lektion 10](/lektionen/lektion10)
-    *   Genitiv -\> [Lektion 14](/lektionen/lektion14)
-    *   Dativ -\> [Lektion 24](/lektionen/lektion24)
-    *   Ablativ -\> [Lektion 25](/lektionen/lektion25)
-    *   Lokativ -\> [Lektion 27](/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -\> [Lektion 19](/lektionen/lektion19)
-    *   Gebrauch der Partizipien -\> [Lektion 12](/lektionen/lektion12), [Lektion 44](/lektionen/lektion44)
+*   **Fjala nominale** -\> [Mësimi 2](/sq/lektionen/lektion02)
+*   **Fjala pyetëse** -\> [Mësimi 37](/sq/lektionen/lektion37)
+*   **Përdorimi i rasteve**:
+*   Fjala nominale & Nominativi -\> [Mësimi 2](/sq/lektionen/lektion02)
+*   Akuzativi (edhe dyfish) -\> [Mësimi 7](/sq/lektionen/lektion07), [Mësimi 11](/sq/lektionen/lektion11)
+*   Instrumentali -\> [Mësimi 10](/sq/lektionen/lektion10)
+*   Gjenitivi -\> [Mësimi 14](/sq/lektionen/lektion14)
+*   Dativi -\> [Mësimi 24](/sq/lektionen/lektion24)
+*   Ablativi -\> [Mësimi 25](/sq/lektionen/lektion25)
+*   Lokativi -\> [Mësimi 27](/sq/lektionen/lektion27)
+*   **Fjalitë nënrendore**:
+*   Fjalitë relative -\> [Mësimi 19](/sq/lektionen/lektion19)
+*   Përdorimi i participeve -\> [Mësimi 12](/sq/lektionen/lektion12), [Mësimi 44](/sq/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Metrika (Mësimi për vargje)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Filozofia dhe letësia sanskrite shpesh shkruhen në vargje. Metrika mëson ritmin dhe ndërtimin e këtyre vargjeve.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
+*   **Hyrje & Śloka** -\> [Mësimi 45](/sq/lektionen/lektion45), [Mësimi 53](/sq/lektionen/lektion53)
+*   **Metra të avancuara** (Trīṣṭubh, Jāgatī) -\> [Mësimi 54](/sq/lektionen/lektion54)
 

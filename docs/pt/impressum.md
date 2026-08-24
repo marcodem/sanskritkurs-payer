@@ -5,7 +5,7 @@ title: Aviso Legal e Como Citar
 
 # Impressum, Copyright & Zitierweise
 
-*Der folgende Text wurde bei der Konvertierung aus den Lektions-Dateien ausgelagert, um den Lesefluss zu verbessern.*
+*O seguinte texto foi extraído dos ficheiros das lições durante a conversão para melhorar a fluidez da leitura.*
 
 ## Zitierweise | cite as:
 **Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
@@ -17,15 +17,15 @@ Erstellt für die Lehrveranstaltungen 1980 - 1984
 Dieser Text steht der Allgemeinheit zur Verfügung. 
 Eine Verwertung in Publikationen, die über übliche Zitate hinausgeht, bedarf der ausdrücklichen Genehmigung des Verfassers.
 
-Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Library**.
+Este texto faz parte do departamento de Sânscrito da **Tüpfli's Global Village Library**.
 
 ---
 
 ## Lizenz dieser Publikation
 
-**Originaltext** (deutsche Lektionen): © Alois Payer. Der Text steht der Allgemeinheit zur Verfügung; eine Verwertung in Publikationen bedarf der ausdrücklichen Genehmigung des Verfassers.
+**Originaltext** (deutsche Lições): © Alois Payer. O texto está à disposição do público; a sua utilização em publicações requer a autorização expressa do autor.
 
-**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) und **technische Pipeline** (Skripte, QA-Viewer, VitePress-Konfiguration):
+**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) e **pipeline técnica** (Skripte, QA-Viewer, VitePress-Konfiguration):
 
 - Übersetzungen: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
 - Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)

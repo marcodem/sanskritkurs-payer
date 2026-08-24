@@ -1,148 +1,141 @@
 ---
 title: "Oefening 15"
 uebung_id: 15
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 15
 
-# Oefening 15
+A) Vertaal die spreekwoord aan die begin van die les
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion
+⟪गुरुशुश्रूषया विद्या पुष्कलेन धनेन वा । अथवा विद्यया विद्या चतुर्थी नैव विद्यते ॥⟫  
+Kennis word verkry deur gehoorsaamheid aan 'n onderwyser, of in ruil vir 'n groot bedrag geld, of in ruil vir kennis. Daar is geen vierde moontlikheid nie.
 
-⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
-⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
-⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫  
-Wissen gibt es durch Gehorsam gegenüber einem Lehrer oder für üppig viel Geld oder im Austausch gegen Wissen. Eine vierte Möglichkeit gibt es nicht.
+B) Ontwikkel die volgende tatpuruṣa:
 
-B) Lösen Sie folgende Tatpuruṣa auf:
+⟪१⟫. ⟪बलकृतः । बलेन कृतः⟫ — 'n gewelddadige
 
-⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — ein gewalttätiger
+⟪२⟫. ⟪बालधनस्य । बालस्य धनस्य⟫ — rakende die eiendom van 'n minderjarige
 
-⟪२⟫. ⟪बालधनस्य⟫ ⟪।⟫ ⟪बालस्य⟫ ⟪धनस्य⟫ — des Eigentums eines Minderjährigen
+⟪३⟫. ⟪नरकाकम् । काक इव नरम् । नर एव काकम्⟫ — 'n man soos 'n kraai
 
-⟪३⟫. ⟪नरकाकम्⟫ ⟪।⟫ ⟪काक⟫ ⟪इव⟫ ⟪नरम्⟫ ⟪।⟫ ⟪नर⟫ ⟪एव⟫ ⟪काकम्⟫ — einen Mann wie eine Krähe
+⟪४⟫. ⟪लोकगुरोः । लोकस्य गुरोः । लोकानां गुरोः⟫ — van die Meester / Leermeester van die mense / van die wêreld / van die wêrelde
 
-⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — des Meisters / Lehrers der Leute / der Welt / der Welten
+⟪५⟫. ⟪जलेश्वरेण । जलस्येश्वरेण । जालानामीश्वरेण⟫ — deur die Here van die Waters = deur Varuṇa
 
-⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — durch den HERRN der Wasser = durch Varuṇa
+⟪६⟫. ⟪जनपानम् । जनस्य पानम् । जनानां पानम्⟫ — drink vir die mense / vir die mensdom
 
-⟪६⟫. ⟪जनपानम्⟫ ⟪।⟫ ⟪जनस्य⟫ ⟪पानम्⟫ ⟪।⟫ ⟪जनानां⟫ ⟪पानम्⟫ — Trank für die Leute / für die Menschen
+⟪७⟫. ⟪वाक्यसारथीन् । वाक्यस्य सारथीन् । वाक्यानां सारथीन्⟫ — die (akk.) woordvoerders
 
-⟪७⟫. ⟪वाक्यसारथीन्⟫ ⟪।⟫ ⟪वाक्यस्य⟫ ⟪सारथीन्⟫ ⟪।⟫ ⟪वाक्यानां⟫ ⟪सारथीन्⟫ — die (Akk.) Wortführer
+⟪८⟫. ⟪गुणवचनानि । गुणस्य वचनानि । गुणानां वचनानि⟫ — byvoeglike naamwoorde
 
-⟪८⟫. ⟪गुणवचनानि⟫ ⟪।⟫ ⟪गुणस्य⟫ ⟪वचनानि⟫ ⟪।⟫ ⟪गुणानां⟫ ⟪वचनानि⟫ — Eigenschaftswörter
+⟪९⟫. ⟪मृगेश्वरैः । मृगस्येश्वरैः । मृगाणामीश्वरैः⟫ — deur die HERE van die wilde diere = deur leeus
 
-⟪९⟫. ⟪मृगेश्वरैः⟫ ⟪।⟫ ⟪मृगस्येश्वरैः⟫ ⟪।⟫ ⟪मृगाणामीश्वरैः⟫ — durch die HERREN der Wildtiere = durch Löwen
+⟪१०⟫. ⟪बुद्धिकृतायाः । बुद्ध्या कृतायाः⟫ — wat (gen.), wat met rede geskep is, rasioneel opgetree het
 
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫ ⟪।⟫ ⟪बुद्ध्या⟫ ⟪कृतायाः⟫ — der (Gen.), die mit Vernunft gemacht wurde, vernünftig gehandelt
+⟪११⟫. ⟪धर्मयज्ञेन । धर्मेनैव यज्ञेन । धर्मस्य यज्ञ्नेन⟫ — deur 'n bloedlose offer
 
-⟪११⟫. ⟪धर्मयज्ञेन⟫ ⟪।⟫ ⟪धर्मेनैव⟫ ⟪यज्ञेन⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञ्नेन⟫ — durch ein unblutiges Opfer
+⟪१२⟫. ⟪यज्ञाङ्गानि । यज्ञस्याङ्गानि । यज्ञा⟫anam⟪ङ्गानि⟫ — ledemate / komponente / dele van 'n offer, offergereedskap
+⟪१३⟫. ⟪गृहजनेन । गृहस्य जनेन⟫ — deur die familie
 
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫ ⟪।⟫ ⟪यज्ञस्याङ्गानि⟫ ⟪।⟫ ⟪यज्ञा⟫anam⟪ङ्गानि⟫ — Glieder / Bestandteile / Teile eine Opfers, Opfergeräte
+⟪१४⟫. ⟪ग्रामलेखकाः । ग्रामाणां लेखकाः⟫ — die dorpsskrifgeleerdes
 
-⟪१३⟫. ⟪गृहजनेन⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪जनेन⟫ — durch die Familie
+⟪१५⟫. ⟪नागदेवः । नागानां देवः⟫ — slanggod, slangheer, olifantgod, olifantkoning
 
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ ⟪।⟫ ⟪ग्रामाणां⟫ ⟪लेखकाः⟫ — die Dorfschreiber
+⟪१६⟫. ⟪पुण्यजिताभिः । पुण्येन जिताभिः⟫ — bereik deur verdienste / goeie dade (f.)
 
-⟪१५⟫. ⟪नागदेवः⟫ ⟪।⟫ ⟪नागानां⟫ ⟪देवः⟫ — Schlangengott, Schlangenfürst, Elefantengott, Elefantenkönig
+⟪१७⟫. ⟪पापलोकम् । पापस्य लोकम् । पापानां लोकम् । पापं लोकम्⟫ — die (akk.) wêreld van die kwaad, wêreld van die goddeloses, hel, bose wêreld
 
-⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — durch durch Verdienst / Gutestun ersiegte (fem.)
+⟪१८⟫. ⟪सत्यवदनस्य । सत्यस्य वदनस्य⟫ — van die waarheid spreek
 
-⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — die (Akk.) Welt des Bösen, Welt der Bösen, Hölle, böse Welt
+⟪१९⟫. ⟪दानधर्मेण । दानस्य धर्मेण । दानेनैव धर्मेण⟫ — deur die plig om aalmoese te gee
 
-⟪१८⟫. ⟪सत्यवदनस्य⟫ ⟪।⟫ ⟪सत्यस्य⟫ ⟪वदनस्य⟫ — des Sprechens der Wahrheit
+⟪२०⟫. ⟪सुखप्रश्नः । सुखस्य प्रश्नः । सुखः प्रश्नः⟫ — 'n vraag oor geluk, 'n vraag oor welsyn, 'n vraag oor hoe mens voel, 'n eenvoudige vraag
 
-⟪१९⟫. ⟪दानधर्मेण⟫ ⟪।⟫ ⟪दानस्य⟫ ⟪धर्मेण⟫ ⟪।⟫ ⟪दानेनैव⟫ ⟪धर्मेण⟫ — durch die Pflicht zu Spenden
+⟪२१⟫. ⟪दुःखमोहस्य । दुःखस्य मोहस्य । दुःखेन मोहस्य⟫ — verwarring veroorsaak deur lyding, wanhoop, misleiding rakende lyding
 
-⟪२०⟫. ⟪सुखप्रश्नः⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नः⟫ ⟪।⟫ ⟪सुखः⟫ ⟪प्रश्नः⟫ — Frage nach dem Glück, Frage nach dem Wohlsein, Frage nach dem Befinden, eine leichte Frage
+⟪२२⟫. ⟪सोमपात्राणि । सोमस्य पात्राणि⟫ — vaartuie van die verstand
 
-⟪२१⟫. ⟪दुःखमोहस्य⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहस्य⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪मोहस्य⟫ — der Verwirrung durch das Leid, Verzweiflung, Verblendung bezüglich des Leides
+⟪२३⟫. ⟪स्वर्गमार्गः । स्वर्गस्य मार्गः⟫ — Die pad na die hemel
 
-⟪२२⟫. ⟪सोमपात्राणि⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪पात्राणि⟫ — Somagefässe
+⟪२४⟫. ⟪कामधेन्वा । कामस्य धेन्वा । कामानां धेन्वा⟫ — deur die wensvervullende koei
 
-⟪२३⟫. ⟪स्वर्गमार्गः⟫ ⟪।⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ — Weg zum Himmel
+⟪२५⟫. ⟪वर्णधर्मः । वर्णानां धर्मः⟫ — Die Reg van die Landgoed
 
-⟪२४⟫. ⟪कामधेन्वा⟫ ⟪।⟫ ⟪कामस्य⟫ ⟪धेन्वा⟫ ⟪।⟫ ⟪कामानां⟫ ⟪धेन्वा⟫ — durch die Wunschkuh
-
-⟪२५⟫. ⟪वर्णधर्मः⟫ ⟪।⟫ ⟪वर्णानां⟫ ⟪धर्मः⟫ — Ständerecht
-
-⟪२६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुत्योदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ — vom Veda Gesagtes / Vorgeschriebenes
+⟪२६⟫. ⟪श्रुत्युदितम् । श्रुत्योदितम् । श्रुतेरुदितम्⟫ — dit wat in die Veda's vermeld / voorgeskryf word
 
 ::: media
 ![](/images/uebung014.webp)
-Abb.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
-(Bildquelle: [Details](/licenses#uebung014))
+Fig.: ⟪जलेश्वरो वरुणः⟫
+(Beeldbron: [Details](/licenses#uebung014))
 :::
 ---
 
-## Zusätzliche Übungen
+## Bykomende oefeninge
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt.
+Ontleed die volgende samestellings as tatpuruṣa in Sanskrit en verskaf 'n Duitse vertaling. Vir elkeen, gee al die moontlike ontledings en vertalings wat by jou opkom. Gee ook die geval en die getal van die samestelling as geheel.
+⟪१⟫. ⟪देवेन्द्रस्य । देवानामिन्द्रस्य⟫ — Die Prins van die Godhede
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — Des Götterfürsten
+⟪२⟫. ⟪दुःखदग्धा । दुःखेन दग्धा⟫ — 'n vrou verteer deur lyding
 
-⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — eine von Leid verbrannte Frau
+⟪३⟫. ⟪मोक्षधर्मः । मोक्षस्य धर्मः⟫ — die leer van verlossing, die wet van verlossing
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — die Lehre von der Erlösung, das Gesetz der Erlösung
+⟪४⟫. ⟪अन्नजातानि । अन्नेन जातानि । अन्नस्य जातानि⟫ — dinge wat deur kos geproduseer word, soorte kos
 
-⟪४⟫. ⟪अन्नजातानि⟫ ⟪।⟫ ⟪अन्नेन⟫ ⟪जातानि⟫ ⟪।⟫ ⟪अन्नस्य⟫ ⟪जातानि⟫ — von Speise Hervorgebrachtes, Arten des Essens
+⟪५⟫. ⟪गृहकरणम् । गृहस्य करणम्⟫ — Huislike take
 
-⟪५⟫. ⟪गृहकरणम्⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪करणम्⟫ — Hausarbeit
+⟪६⟫. ⟪शूद्रकृतेन । शूद्रस्य कृतेन । शूद्राणां कृतेन⟫ — deur die werk van die Śūdras
 
-⟪६⟫. ⟪शूद्रकृतेन⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪कृतेन⟫ ⟪।⟫ ⟪शूद्राणां⟫ ⟪कृतेन⟫ — durch Śūdrawerk
+⟪७⟫. ⟪ईश्वरपूजा । ईश्वरस्य पूजा⟫ — godsdienstige diens
 
-⟪७⟫. ⟪ईश्वरपूजा⟫ ⟪।⟫ ⟪ईश्वरस्य⟫ ⟪पूजा⟫ — Gottesdienst
+⟪८⟫. ⟪देवेश्वरः । देवानामीश्वरः⟫ — HERE van die gode
 
-⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — HERR der Götter
+⟪९⟫. ⟪क्षत्रिययज्ञम् । क्षत्रियस्य यज्ञम् । क्षत्रियाणां यज्ञम्⟫ — Offerande (akkusatief) van die Kaṣatriyas / van die Kṣatriya, offerande vir die Kṣatriyas / vir 'n Kṣatriya
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — Opfer (Akkusativ) der Kaṣatriyas / des Kṣatriya, Opfer für Kṣatriyas / einen Kṣatriya
+⟪१०⟫. ⟪वैश्यभावेन । वैश्यस्य भावेन । वैश्यानां भावेन⟫ — deur die Vaiśyas
 
-⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — durch Vaiśyawesen
+⟪११⟫. ⟪देवगुरोः । देवानां गुरोः । देवस्येव् गुरोः । देवस्यैव गोरोः⟫ — van die goddelike onderwyser, die goddelike onderwyser, die goddelike onderwyser
 
-⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — des Götterlehrers, des göttergleichen Lehrers, des göttlichen Lehrers
+⟪१२⟫. ⟪धनलोभः ॥ धनस्य लोभः । धनानां लोभः⟫ — materiële gewin
 
-⟪१२⟫. ⟪धनलोभः⟫ ⟪॥⟫ ⟪धनस्य⟫ ⟪लोभः⟫ ⟪।⟫ ⟪धनानां⟫ ⟪लोभः⟫ — materieller Gewinn
+⟪१३⟫. ⟪गृहदासी । गृहस्य दासी⟫ — 'n huishoudster
 
-⟪१३⟫. ⟪गृहदासी⟫ ⟪।⟫ ⟪गृहस्य⟫ ⟪दासी⟫ — Hausmagd
+⟪१४⟫. ⟪दुःखमोहः । दुःखस्य मोहः⟫ — waanopvatting oor lyding, verwarring veroorsaak deur lyding
 
-⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — Verblendung über das Leiden, Verwirrung durch Leiden
+⟪१५⟫. ⟪ग्रामेश्वरम् । ग्रामस्येश्वरम् । ग्रामाणामीश्वरम्⟫ — die dorpshere
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — der Dorfherren
+⟪१६⟫. ⟪नगरजनाः । नगरस्य जनाः । नगराणां जनाः⟫ — dorpenaars, stadsbewoners
 
-⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — Stadtvolk, Städter
+⟪१७⟫. ⟪यज्ञकालस्य ॥ यज्ञस्य कालस्य । जज्ञानां कालस्य⟫ — die regte tyd vir offer / vir gawes, die tyd ...
 
-⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — des rechten Zeitpunkts für das Opfer / für Opfer, der Zeit ...
+⟪१८⟫. ⟪देवगृहाणि । देवस्य गृहाणि । देवाणां गृहाणि⟫ — Godshuise
 
-⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — Gotteshäuser
+⟪१९⟫. ⟪देवपुत्राणाम् । देवानां पुत्राणाम्⟫ — die Seun van die gode
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — der Göttersöhne
+⟪२०⟫. ⟪पश्विष्टिः । पशोरिष्टिः । पशूनामीष्टिः⟫ — dieroffer
 
-⟪२०⟫. ⟪पश्विष्टिः⟫ ⟪।⟫ ⟪पशोरिष्टिः⟫ ⟪।⟫ ⟪पशूनामीष्टिः⟫ — Tieropfer
+⟪२१⟫. ⟪स्मृत्युक्तम् । स्मृत्योक्तम् । स्मृतेरुक्तम् । स्मृत्या उक्तम्⟫ — spreuk van die heilige oerlewering
 
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫ ⟪।⟫ ⟪स्मृत्योक्तम्⟫ ⟪।⟫ ⟪स्मृतेरुक्तम्⟫ ⟪।⟫ ⟪स्मृत्या⟫ ⟪उक्तम्⟫ — Spruch der heiligen Überlieferung
+⟪२२⟫. ⟪गुरुगृहम् । गुरोर्गृहम् । गुरूणां गृहम्⟫ — huis van die meester / die meesters
 
-⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — Haus des Meisters / der Meister
+⟪२३⟫. ⟪सोमयज्ञेन । सोमस्य यज्ञेन⟫ — deur 'n soma-offer
 
-⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — durch ein Somaopfer
+⟪२४⟫. ⟪स्वर्गगताः । स्वर्गं गताः⟫ — na die hemel gegaan
 
-⟪२४⟫. ⟪स्वर्गगताः⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गताः⟫ — in den Himmel Gekommene
+⟪२५⟫. ⟪सुखप्रश्नम् । सुखस्य प्रश्नम्⟫ — die (akk.) vraag na geluk, vraag na welstand, vraag na gesteldheid, ligte vraag
 
-⟪२५⟫. ⟪सुखप्रश्नम्⟫ ⟪।⟫ ⟪सुखस्य⟫ ⟪प्रश्नम्⟫ — die (Akk.) Frage nach dem Glück, Frage nach dem Wohlergehen, Frage nach der Befindlichkeit, leichte Frage
+⟪२६⟫. ⟪पशुधर्मः । पशोर्धर्मः । पशूनां धर्मः⟫ — die wet van vee, veegedrag
 
-⟪२६⟫. ⟪पशुधर्मः⟫ ⟪।⟫ ⟪पशोर्धर्मः⟫ ⟪।⟫ ⟪पशूनां⟫ ⟪धर्मः⟫ — das Gesetz des Viehs, viehisches Verhalten
+⟪२७⟫. ⟪स्वर्गलोकः । स्वर्⟫ga⟪णां लोकः । स्वर्ग एव लोकः⟫ — hemelwêreld, wêreld van die hemele
 
-⟪२७⟫. ⟪स्वर्गलोकः⟫ ⟪।⟫ ⟪स्वर्⟫ga⟪णां⟫ ⟪लोकः⟫ ⟪।⟫ ⟪स्वर्ग⟫ ⟪एव⟫ ⟪लोकः⟫ — Himmelswelt, Welt der Himmel
+⟪२८⟫. ⟪ऋषियज्ञैः । ऋषेर्यज्ञैः । ऋषीणां यज्ञैः⟫ — deur offer van vediese wyses / die vediese wyse
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — durch Opfer vedischer Weiser / des vedischen Weisen
+⟪२९⟫. ⟪तत्कालम् । तस्य कालम् । त्स्याः कालम् । तेषां कालम् । तासां कालम्⟫ — tyd (akkusatief) daarvoor, die regte tydstip daarvoor
 
-⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — Zeit (Akkusativ) dafür, der (rechte) Zeitpunkt dafür
-
-⟪३०⟫. ⟪सत्यवदनम्⟫ ⟪।⟫ ⟪स्त्यस्य⟫ ⟪वदनम्⟫ — Wahrheitsrede, Sprechen der Wahrheit
+⟪३०⟫. ⟪सत्यवदनम् । स्त्यस्य वदनम्⟫ — spreuk van die waarheid, praat van die waarheid
 
 ::: media
 ![](/images/uebung016.webp)
-Abb.: ⟪गृहकरणम्⟫
-(Bildquelle: [Details](/licenses#uebung016))
+Afbeelding: ⟪गृहकरणम्⟫
+(Beeldbron: [Details](/licenses#uebung016))
 :::

@@ -163,7 +163,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | ἐν ἑνὶ τόπῳ | [51](/grc/lektionen/lektion51#_51-6-) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ἐπικρατοῦν τὴν προτέραν λέξιν | [13](/grc/lektionen/lektion13#_13-9-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ἰσχυρὸν τὸ προηγούμενον, ἀναλογεῖ τῇ Γερμανικῷ ἰσχύσει, εἶδος ἐμοτικόν \<!\>, π.χ. "μόνη ἡ ἀλήθεια νικᾷ", "ἀκριβὴς | [15](/grc/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | ἰσχυρὸν τὸ προηγούμενον, ἀναλογεῖ τῇ Γερμανικῷ ἰσχύσει, εἶδος ἐμοτικόν \<!\>, π.χ. "μόνη ἡ ἀλήθεια νικᾷ", "ἀκριβὴς ἡ ἀλή | [15](/grc/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

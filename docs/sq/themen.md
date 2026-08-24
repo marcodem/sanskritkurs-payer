@@ -1,17 +1,18 @@
 ---
 aside: false
 outline: false
+
 ---
 
-# Grammatik Index
+# Indeksi i Gramatikës
 
-Der Grammatik Index listet alle grammatischen Themen und Phänomene aus dem Sanskritkurs auf und ermöglicht einen schnellen Zugriff auf spezifische Lektionen.
+Indeksi i Gramatikës liston të gjitha temat dhe fenomenet gramatike nga kurset e sanskritishtes dhe mundëson akses të shpejtë në leksione specifike.
 
 <PayerTopicIndex />
 
 <style>
-/* Adjust layout for full width index */
-.VPDoc {
-  padding: 32px 48px 64px !important;
+/* Rregulloni layout-in për indeksin me gjerësi të plotë */
+VPDoc {
+padding: 32px 48px 64px !important;
 }
 </style>

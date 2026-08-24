@@ -107,9 +107,9 @@ Exemple:
 
 | | Pers. a III.Sg. | Pers. a III.Pl. | Pers. a III.Sg. Ā. | Pers. a III.Pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
 ## 33.3. Referitor la ablația lui ā
 

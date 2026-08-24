@@ -396,8 +396,8 @@ def generate_report():
         else:
             lines.append("Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/s*\n")
     
-    lines.append("| Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |")
-    lines.append("| :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |")
+    lines.append("| Rang | Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |")
+    lines.append("| :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |")
     
     active_code = active_proc["lang"] if active_proc else None
     
@@ -439,7 +439,7 @@ def generate_report():
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
             
         code_str = f"`{r['code']}`"
-        lines.append(f"| {code_str} | {r['name']} | {r['sauber']}/{TOTAL_MASTER} | {r['fallbacks']} | {offen_str} | {r['delta_str']} | {r['pct']:.1f}% | {status} |")
+        lines.append(f"| {idx + 1}. | {code_str} | {r['name']} | {r['sauber']}/{TOTAL_MASTER} | {r['fallbacks']} | {offen_str} | {r['delta_str']} | {r['pct']:.1f}% | {status} |")
 
     report_text = "\n".join(lines)
     REPORT_FILE.write_text(report_text, encoding="utf-8")

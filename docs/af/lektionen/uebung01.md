@@ -1,9 +1,10 @@
 ---
 title: "Oefening 1"
 uebung_id: 1
-category: "Oefening"
+category: "Übung"
+
 ---
 
 # Oefening 1
 
-Lektion 1 enthält keine schriftlichen Übungen, da sie als Einführung in die Lautlehre und Aussprache konzipiert ist. Die Leseübungen am Ende der Lektion dienen der praktischen Einübung der Laute und erfordern keinen separaten Lösungsschlüssel.
+Les 1 bevat geen schriftelijke oefeningen, omdat het is ontworpen als een inleiding tot de fonetiek en uitspraak. De leesoefeningen aan het einde van de les dienen ter praktische beoefening van de klanken en vereisen geen aparte antwoordsleutel.

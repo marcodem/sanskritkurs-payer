@@ -1,8 +1,9 @@
 ---
 title: "Exercício 16"
 uebung_id: 16
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
@@ -10,87 +11,55 @@ last_reconstructed: 2026-05-15
 
 A) Transforme as seguintes expressões em Tatpuruṣa e traduza-as:
 
-⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ — ⟪देवपुरुषः⟫
+⟪१⟫. ⟪देवस्य पुरुषः ।⟫ — ⟪देवपुरुषः २⟫. ⟪गुणवती ब्राह्मणी ।⟫ — ⟪गुणवद्ब्राह्मणी ३⟫. ⟪सत्यवान्ब्राह्मणः ।⟫ — ⟪सत्यवद्ब्राह्मणः ४⟫. ⟪पशुमन्तो जनाः ।⟫ — ⟪पशुमज्जनाः ५⟫. ⟪सुखवान्वैश्यायाः पुत्रः ।⟫ — ⟪सुखवद्वैश्यापुत्रः ६⟫. ⟪सुखवत्या वैश्यायाः पुत्रः ।⟫ — ⟪सुखवद्वैश्यापुत्रः ७⟫. ⟪कवेरुक्त्याः सत्यम् ।⟫ — ⟪कव्युक्तिसत्यम् ८⟫. ⟪शिव⟫en ⟪रक्षिता बाला ।⟫ — ⟪शिवरक्षितबाला ९⟫. ⟪रामेण पीतं जलम् ।⟫ — ⟪रामपीतजलम् १०⟫. ⟪फलवांल्लाभः ।⟫ — ⟪फलवद्लाभः ११⟫. ⟪इष्टाया देवतायाः पूजा ।⟫ — ⟪इष्टदेवतापूजा १२⟫. ⟪देवानां स्तुतिः ।⟫ — ⟪देवस्तुतिः⟫
 
-⟪२⟫. ⟪गुणवती⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ — ⟪गुणवद्ब्राह्मणी⟫
+B) Resolva todos os compostos nas seguintes frases em sânscrito, forme assim frases com substantivos flexionados e traduza-as:
 
-⟪३⟫. ⟪सत्यवान्ब्राह्मणः⟫ ⟪।⟫ — ⟪सत्यवद्ब्राह्मणः⟫
+⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो देवेन्द्रलोकं गच्छति । पुण्यवान्वैश्यस्य पुत्रो देवानामिन्द्रस्य लोकं गच्छति ।⟫ (ou: ⟪पुण्यवतो वैश्यस्य पुत्रो⟫...)
+O filho meritório de um vaiśya ascende ao céu do senhor dos deuses. (ou: O filho de um vaiśya meritório...)
 
-⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫ — ⟪पशुमज्जनाः⟫
+⟪२⟫. ⟪पुण्यकरणं स्वर्गमार्गः । पुण्यस्य करणं स्वर्गस्य मार्गः ।⟫ (ou: ⟪पुण्यानां करणं स्वर्गं मार्गः ।⟫)
+A prática do que é meritório é o caminho para o céu.
 
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ — ⟪सुखवद्वैश्यापुत्रः⟫
-
-⟪६⟫. ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ — ⟪सुखवद्वैश्यापुत्रः⟫
-
-⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫ — ⟪कव्युक्तिसत्यम्⟫
-
-⟪८⟫. ⟪शिव⟫en ⟪रक्षिता⟫ ⟪बाला⟫ ⟪।⟫ — ⟪शिवरक्षितबाला⟫
-
-⟪९⟫. ⟪रामेण⟫ ⟪पीतं⟫ ⟪जलम्⟫ ⟪।⟫ — ⟪रामपीतजलम्⟫
-
-⟪१०⟫. ⟪फलवांल्लाभः⟫ ⟪।⟫ — ⟪फलवद्लाभः⟫
-
-⟪११⟫. ⟪इष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजा⟫ ⟪।⟫ — ⟪इष्टदेवतापूजा⟫
-
-⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
-
-B) Resolva todos os compostos nas seguintes frases em sânscrito, forme assim frases com substantivos flexionados e traduza:
-
-⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (ou: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
-O filho meritório de um vaiśya alcança o céu do senhor dos deuses. (ou: O filho de um vaiśya meritório...)
-
-⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
-⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (ou: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
-Fazer o meritório é o caminho para o céu.
-
-⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
-⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (ou: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
+⟪३⟫. ⟪न साधुः पशुवन्नरधेनुलोभः । न साधुः पशुवतो नरस्य धेनूनां लोभः ।⟫ (ou: ...⟪धेनोर्लोभः ।⟫)
 A cobiça do homem rico em gado por vacas / pela vaca não é boa.
 
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
-⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-Com sacrifícios de animais, os seres humanos não alcançam o céu. Mas com oferendas (não sangrentas) de justiça, eles atingem a felicidade celestial.
+⟪४⟫. ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मयज्ञैस्तु स्वर्गसुखमाप्नुवन्ति । न पशूनां यज्ञैर्नराः स्वर्गं गच्छन्ति । धर्मस्य यज्ञैस्तु स्वर्गस्य सुखमाप्नुवन्ति ।⟫
+Os seres humanos não alcançam o céu por meio de sacrifícios animais. Mas, através de sacrifícios (não sangrentos) da justiça, eles alcançam a felicidade celestial.
 
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-Śūdras nennt man Sklaven der Zweimalgeborenen.
+⟪५⟫. ⟪द्विजदासा इति शूद्रा उच्यन्ते । द्विजानां दासा इति शूद्रा उच्यन्ते ।⟫
+Chama-se Śūdra o escravo dos duas vezes nascidos.
 
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-Os jovens filhos dos brâmanes ouvem o homem verdadeiro.
+⟪६⟫. ⟪बालब्राह्मणपुत्राः सत्यवन्नरं शृण्वन्ति । बा्ला ब्राह्मणानां पुत्राः स्त्यवन्तं नरं शृण्वन्ति ।⟫
+Os jovens filhos dos brâmanes escutam o homem verdadeiro.
 
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
-⟪बलवन्तः⟫ ⟪क्षत्रिया⟫ ⟪धनवतां⟫ ⟪शत्रूनां⟫ ⟪नगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
-Os poderosos kṣatriyas derrotam a rica cidade dos inimigos.
+⟪७⟫. ⟪बलवत्क्षत्रिया धनवच्छत्रुनगरं जयन्ति । बलवन्तः क्षत्रिया धनवतां शत्रूनां नगरं जयन्ति ।⟫
+Os poderosos kṣatriyas vencem a rica cidade dos inimigos.
 
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-⟪ऋषीणामुक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
+⟪८⟫. ⟪ऋष्युक्त्या सत्यमुच्यते । ऋषीणामुक्त्या सत्यमुच्यते ।⟫
 A palavra dos sábios védicos diz a verdade.
 
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-⟪बलवन्तो⟫ ⟪योधा⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-Os guerreiros fortes foram à aldeia dos brâmanes.
+⟪९⟫. ⟪बलवद्योधा ब्राह्मणग्रामं गताः । बलवन्तो योधा ब्राह्मणानां ग्रामं गताः ।⟫
+Os fortes guerreiros foram para a aldeia brâmanica.
 
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
-⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
-Ele venera a dividade pessoal do Vaiśya meritório.
+⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां करोति । पुन्यवतो वैश्यस्येष्टाया देवतायाः पूजां करोति ।⟫
+Ele venera a divindade pessoal do vaiśya meritório.
 
 ::: media
 ![](/images/uebung023.webp)
-Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
+Fig.: ⟪न पशुयज्ञैर्नराः स्वर्गं गच्छन्ति⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung023))
 :::
 ---
 
-## Deklinationsmuster
+## Padrões de declinação
 
-A) Forme todos os casos aprendidos até agora para as seguintes palavras como exemplos das classes de declinação já estudadas.
+A) Forme todos os casos aprendidos até agora para as seguintes palavras como exemplos das classes de declinação aprendidas até o momento.
 
 ::: grammar-box
 ⟪१⟫. ⟪नर⟫ (m.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪नरस्⟫ (⟪नरः⟫) | ⟪नरास्⟫ (⟪नराः⟫) |
 | 2. Akk. | ⟪नरम्⟫ | ⟪नरान्⟫ |
@@ -99,7 +68,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪२⟫. ⟪फल⟫ (n.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪फलम्⟫ | ⟪फलानि⟫ |
 | 2. Akk. | ⟪फलम्⟫ | ⟪फलानि⟫ |
@@ -108,7 +77,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪३⟫. ⟪क्षत्रिया⟫ (f.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪क्षत्रिया⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
 | 2. Akk. | ⟪क्षत्रियाम्⟫ | ⟪क्षत्रियास्⟫ (⟪क्षत्रियाः⟫) |
@@ -117,7 +86,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪४⟫. ⟪अरि⟫ (m.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪अरिस्⟫ (⟪अरिः⟫) | ⟪अरयस्⟫ (⟪अरयः⟫) |
 | 2. Akk. | ⟪अरिम्⟫ | ⟪अरीन्⟫ |
@@ -126,7 +95,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪५⟫. ⟪मति⟫ (f.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪मतिस्⟫ (⟪मतिः⟫) | ⟪मतयस्⟫ (⟪मतयः⟫) |
 | 2. Akk. | ⟪मतिम्⟫ | ⟪मतीस्⟫ (⟪मतीः⟫) |
@@ -135,7 +104,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪६⟫. ⟪गुरु⟫ (m.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪गुरुस्⟫ (⟪गुरुः⟫) | ⟪गुरवस्⟫ (⟪गुरवः⟫) |
 | 2. Akk. | ⟪गुरुम्⟫ | ⟪गुरून्⟫ |
@@ -144,7 +113,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪७⟫. ⟪धेनु⟫ (f.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪धेनुस्⟫ (⟪धेनुः⟫) | ⟪धेनवस्⟫ (⟪धेनवः⟫) |
 | 2. Akk. | ⟪धेनुम्⟫ | ⟪धेनूस्⟫ (⟪धेनूः⟫) |
@@ -153,7 +122,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪८⟫. ⟪देवी⟫ (f.)
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪देवी⟫ | ⟪देव्यस्⟫ (⟪देव्यः⟫) |
 | 2. Akk. | ⟪देवीम्⟫ | ⟪देवीस्⟫ (⟪देवीः⟫) |
@@ -162,29 +131,29 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪९⟫. ⟪गुणवन्त्⟫ (m./n.)
 
-**Maskulinum:**
+**Masculino:**
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪गुणवान्⟫ | ⟪गुणवन्तस्⟫ (⟪गुणवन्तः⟫) |
 | 2. Akk. | ⟪गुणवन्तम्⟫ | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) |
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-**Neutrum:**
+**Neutro:**
 
-| Kasus | Singular | Plural |
+| Caso | Singular | Plural |
 | :--- | :--- | :--- |
 | 1. Nom. | ⟪गुणवत्⟫ | ⟪गुणवन्ति⟫ |
 | 2. Akk. | ⟪गुणवत्⟫ | ⟪गुणवन्ति⟫ |
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
+(Feminino ⟪गुणवती⟫ declina como ⟪देवी⟫)
 
 ⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪कस्⟫ (⟪कः⟫) | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
 | 2. Akk. | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
@@ -193,7 +162,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪११⟫. ⟪तद्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪स⟫ / ⟪सो⟫ / ⟪सः⟫ | ⟪तद्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
 | 2. Akk. | ⟪तम्⟫ | ⟪तद्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
@@ -202,7 +171,7 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪१२⟫. ⟪एतद्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪एष⟫ / ⟪एषो⟫ / ⟪एषः⟫ | ⟪एतद्⟫ | ⟪एषा⟫ | ⟪एते⟫ | ⟪एतानि⟫ | ⟪एतास्⟫ (⟪एताः⟫) |
 | 2. Akk. | ⟪एतम्⟫ / ⟪एनम्⟫ | ⟪एतद्⟫ / ⟪एनद्⟫ | ⟪एताम्⟫ / ⟪एनाम्⟫ | ⟪एतान्⟫ / ⟪एनान्⟫ | ⟪एतानि⟫ / ⟪एनानि⟫ | ⟪एतास्⟫ / ⟪एनास्⟫ |
@@ -211,10 +180,10 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 ⟪१३⟫. ⟪इदम्⟫ (m./n./f.)
 
-| Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
+| Caso | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪अयम्⟫ | ⟪इदम्⟫ | ⟪इयम्⟫ | ⟪इमे⟫ | ⟪इमानि⟫ | ⟪इमास्⟫ (⟪इ⟫ma⟪ाः⟫) |
-| 2. Akk. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
+| 2. Acc. | ⟪इमम्⟫ / ⟪एनम्⟫ | ⟪इदम्⟫ / ⟪एनद्⟫ | ⟪इमाम्⟫ / ⟪एनाम्⟫ | ⟪इमान्⟫ / ⟪एनान्⟫ | ⟪इमानि⟫ / ⟪एनानि⟫ | ⟪इमास्⟫ / ⟪एनास्⟫ |
 | 3. Instr. | ⟪अनेन⟫ / ⟪एनेन⟫ | — | ⟪अनया⟫ / ⟪एनया⟫ | ⟪एभिस्⟫ (⟪एभिः⟫) | — | ⟪आभिस्⟫ (⟪आभिः⟫) |
 | 6. Gen. | ⟪अस्य⟫ | — | ⟪अस्यास्⟫ (⟪अस्याः⟫) | ⟪एषाम्⟫ | — | ⟪आसाम्⟫ |
 :::
@@ -224,35 +193,30 @@ A) Forme todos os casos aprendidos até agora para as seguintes palavras como ex
 
 B) Traduza e resolva todos os compostos em sânscrito:
 
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
-⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (ou: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
-O ioga é a cessação das atividades mentais.
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः ॥ योगसूत्र १⟫.⟪२ ॥ योगश्चित्तस्य वृत्तेर्निरोधः⟫ (ou: ⟪वृत्तीनां निरोधः⟫) ⟪।⟫
+O Yoga é a cessação da atividade mental.
 
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
-O dever específico do brâmane é: estudo dos Vedas, ensino dos Vedas, sacrifício como senhor do sacrifício, sacrifício por ordem de outros, dar aos brâmanes e receber oferendas.
+⟪२⟫. ⟪स्वधर्मो ब्राह्मणस्याध्ययनमध्यापनं यजनं याजनं दानं प्रतिग्रहश्च ॥५॥⟫
+O dever específico do brâmane é: estudo dos Vedas, ensino dos Vedas, sacrifício como mestre de cerimônia, sacrifício por encomenda, doação aos brâmanes e recebimento de oferendas.
 
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शास्त्रेणाजीवो⟫ ⟪भूतानां⟫ ⟪रक्षणं⟫ ⟪च्⟫ ⟪।⟫
-O dever específico de um Kṣatriya é: estudo dos Vedas, realizar sacrifícios como patrono do sacrifício, dar aos brâmanes, sustentar-se com a espada e proteger os seres vivos.
+⟪क्षत्रियस्याध्ययनं यजनं दानं शस्त्राजीवो भूतरक्षणं च ॥६॥ क्षत्रियस्याध्ययनं यजनं दानं शास्त्रेणाजीवो भूतानां रक्षणं च् ।⟫
+O dever específico de um kṣatriya é: estudo dos Vedas, sacrifício como mestre de cerimônia, doação aos brâmanes, sustento pela espada e proteção dos seres vivos.
 
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪च⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫
-O dever específico de um Vaiśya é: estudo dos Vedas, realizar sacrifícios como patrono do sacrifício, dar aos brâmanes, agricultura e criação de gado, comércio.
+⟪वैश्यस्याध्ययनं यजनं दानं कृषिपाशुपाल्ये वणिज्या च ॥७॥ वैश्यस्याध्ययनं यजनं दानं कृषिः पाशुपाल्यं च वणिज्या च ।⟫
+O dever específico de um vaiśya é: estudo dos Vedas, sacrifício como mestre de cerimônia, doação aos brâmanes, agricultura e criação de gado, comércio.
 
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
-⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
-Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgeborenen, Wirtschaftstätigkeit und Tätigkeit als Handwerker und Schausteller.
+⟪शूद्रस्य द्विजातिशुश्रूषा वार्त्ता कारुकुशीलवकर्म च ॥८॥ शुड्रस्य द्विजातीनां शुश्रूषा वार्त्ता कारूणां कुशीलवानां च कर्म ।⟫
+O dever específico de um Śūdra é o serviço obediente aos Duas-Nascidos, a atividade econômica e a atuação como artesão e artista.
 
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-O dever de todos é: não violência, verdade, pureza, não reclamar do próprio destino, isenção de maldade e tolerância paciente.
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
+⟪सर्वेषामहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥१३॥⟫
+O dever de todos é: não violência, veracidade, pureza, não murmuração contra o próprio destino, ausência de malícia e paciência tolerante.
+(⟪कौटिलीयार्थशास्त्र १⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-⟪३⟩. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟩ ⟪योगक्षेमसाधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪॥⟩ ⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩.⟪४⟩.⟪३⟩ ⟪॥⟩
-⟪आन्वीक्षिक्याः⟩ ⟪त्रय्याः⟩ ⟪वार्त्ताया⟩ ⟪योगस्य⟩ ⟪क्ष⟩e⟪मस्य⟩ ⟪च⟩ ⟪साधनो⟩ ⟪दण्डः⟩, ⟪तस्य⟩ ⟪नीतिर्दण्डनीतिः⟩ ⟪।⟩
-O bastão provoca a aquisição e posse segura de filosofia, vedologia e economia. A condução do bastão é política.
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां योगक्षेमसाधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ॥ कौटिलीयार्थशास्त्र १⟫.⟪४⟫.⟪३ ॥ आन्वीक्षिक्याः त्रय्याः वार्त्ताया योगस्य क्ष⟫e⟪मस्य च साधनो दण्डः⟫, ⟪तस्य नीतिर्दण्डनीतिः ।⟫
+O bastão gera aquisição e posse segura de filosofia, vedologia e economia. A condução do bastão é política.
 
 ::: media
 ![](/images/uebung024.webp)
-Legenda: ⟪योगश्चित्तवृत्तिनिरोधः⟩
+Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Fonte da imagem: [Detalhes](/licenses#uebung024))
 :::

@@ -167,7 +167,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | yhdessä paikassa | [51](/fi/lektionen/lektion51#_51-6-sanalista) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää sanaa | [13](/fi/lektionen/lektion13#_13-9-sanalista) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki \<!\>, esim. "vain t | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | korostaa edeltävää, vastaa usein saksankielistä painotusta, eräänlainen emotionaalinen merkki \<!\>, esim. "vain totuus  | [15](/fi/lektionen/lektion15#_15-8-sanalista) |
 | ⟪एवम्⟫ | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=evam&filter=roman&accent=no&transLit=roman) | — | niin (adverbiaalisesti, esim. evaṃ jayati "niin hän voittaa") | [11](/fi/lektionen/lektion11#_11-2-sanalista) |
 
 ## ओ

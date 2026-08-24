@@ -107,9 +107,9 @@ Esimerkkejä:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikatiivi preesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekti** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optatiivi** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikatiivi preesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+| **Imperfekti** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
+| **Optatiivi** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
 ## 33.3. ā:n ablautista
 

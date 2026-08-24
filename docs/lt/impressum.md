@@ -1,35 +1,35 @@
 ---
 layout: doc
-title: Impressum & Zitieren
----
-
-# Impressum, Copyright & Zitierweise
-
-*Der folgende Text wurde bei der Konvertierung aus den Lektions-Dateien ausgelagert, um den Lesefluss zu verbessern.*
-
-## Zitierweise | cite as:
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
-
-## Anlass
-Erstellt für die Lehrveranstaltungen 1980 - 1984
-
-## Copyright
-Dieser Text steht der Allgemeinheit zur Verfügung. 
-Eine Verwertung in Publikationen, die über übliche Zitate hinausgeht, bedarf der ausdrücklichen Genehmigung des Verfassers.
-
-Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Library**.
+title: "Spaudos duomenys ir citavimas"
 
 ---
 
-## Lizenz dieser Publikation
+# Impressum, Copyright & Citavimo tvarka
 
-**Originaltext** (deutsche Lektionen): © Alois Payer. Der Text steht der Allgemeinheit zur Verfügung; eine Verwertung in Publikationen bedarf der ausdrücklichen Genehmigung des Verfassers.
+*Šis tekstas buvo ištrauktas konvertuojant iš pamokų failų, kad būtų pagerintas skaitymo srautas.*
 
-**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) und **technische Pipeline** (Skripte, QA-Viewer, VitePress-Konfiguration):
+## Citavimo tvarka | cite as:
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 2010 m. versija. -- URL: http://www.payer.de/sanskritkurs/
 
-- Übersetzungen: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
-- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
+## Proga
+Sukurtas dėstymo renginiams 1980 - 1984 m.
 
-**Zitierweise für die Übersetzungen:**
-> Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
+## Autorinės teisės
+Šis tekstas yra laisvai prieinamas visuomenei.
+Jo naudojimas publikacijose, viršijančiuose įprastus citavimus, reikalauja išimtinio autoriaus leidimo.
 
+Šis tekstas yra **Tüpfli's Global Village Library** sanskrito skyriaus dalis.
+
+---
+
+## Šios publikacijos licencija
+
+**Originalus tekstas** (vokiečių pamokos): © Alois Payer. Tekstas yra laisvai prieinamas visuomenei; jo naudojimas publikacijose reikalauja išimtinio autoriaus leidimo.
+
+**AI generuoti vertimai** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) ir **techninė valdymo linija** (skriptai, QA peržiūros programa, VitePress konfigūracija):
+
+Vertimai: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — priskyrimas, platinimas tomis pačiomis sąlygomis
+Kodas/valdymo linija: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
+
+**Vertimų citavimo tvarka:**
+> Payer, Alois: Sanskritkurs. Išverstas naudojant AI pagalbą. Marco Demarmels (red. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0

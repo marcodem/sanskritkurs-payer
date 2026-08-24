@@ -1,14 +1,15 @@
 ---
 title: "Exercício 4"
 uebung_id: 4
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 4
 
-A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:
+A) Forme oralmente perguntas sobre as seguintes palavras seguindo o esquema viṣṇuḥ kaḥ (⟪विष्णुः कः⟫) e responda às perguntas em sânscrito:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -16,81 +17,81 @@ A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇu�
 
 śrutiḥ kā? vedaḥ śrutiḥ.
 
-⟪श्रुतिः⟫ ⟪का⟫ ⟪।⟫ ⟪वेदः⟫ ⟪श्रुतिः⟫ ⟪।⟫
+⟪श्रुतिः का । वेदः श्रुतिः ।⟫
 
 śivaḥ kaḥ? īśvaraḥ śivaḥ.
 
-⟪शिवः⟫ ⟪कः⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪शिवः⟫ ⟪।⟫
+⟪शिवः कः । ईश्वरः शिवः ।⟫
 
 brāhmaṇaḥ kaḥ? dvijo brāhmaṇaḥ.
 
-⟪ब्राह्मणः⟫ ⟪कः⟫ ⟪।⟫ ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ ⟪।⟫
+⟪ब्राह्मणः कः । द्विजो ब्राह्मणः ।⟫
 
 dvijāḥ ke? brāhmānakṣatriyavaiśyā dvijāḥ.
 
-⟪द्विजाः⟫ ⟪के⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्या⟫ ⟪द्विजाः⟫ ⟪।⟫
+⟪द्विजाः के । ब्राह्मणक्षत्रियवैश्या द्विजाः ।⟫
 
 indrāṇī kā? devīndrāṇī.
 
-⟪इन्द्राणी⟫ ⟪का⟫ ⟪।⟫ ⟪देवीन्द्राणी⟫ ⟪।⟫
+⟪इन्द्राणी का । देवीन्द्राणी ।⟫
 
 dhenuḥ kā? paśur dhenuḥ.
 
-⟪धेनुः⟫ ⟪का⟫ ⟪।⟫ ⟪पशुर्धेनुः⟫ ⟪।⟫
+⟪धेनुः का । पशुर्धेनुः ।⟫
 
 tulādharaḥ kaḥ? vaiśyas tulādharaḥ.
 
-⟪तुलाधरः⟫ ⟪कः⟫ ⟪।⟫ ⟪वैश्यस्तुलाधरः⟫ ⟪।⟫
+⟪तुलाधरः कः । वैश्यस्तुलाधरः ।⟫
 
 kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
-⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
+⟪कालिदासः कः । कविः कालिदासः ॥⟫
 
-B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Forme perguntas para o seguinte exercício de leitura seguindo o padrão etat kim (⟪एतत्किम्⟫) e responda às perguntas com as palavras indicadas e pronomes demonstrativos, por exemplo: eṣa bālaḥ (⟪एष बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)
-Abb.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt0401))
+Fig.: ⟪एष कः । एष गजः । अयं गजः । स गजः । एषा का । एषा बाला । इयं बाला । सा बाला ।⟫
+(Fonte da imagem: [Detalhes](/licenses#lekt0401))
 :::
 eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
 
-⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
+⟪एष कः । एष गजः । अयं गजः । स गजः ।⟫
 
 eṣā kā? eṣā bālā / iyaṃ bālā / sā bālā.
 
-⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
+⟪एषा का । एषा बाला । इयं बाला । सा बाला ।⟫
 
-etad kim? eṣa śukaḥ.
+o que é isto? este é um papagaio.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪शुकः⟫ ⟪।⟫
+⟪एतत्किम् । एष शुकः ।⟫
 
-etat kim? eṣa kākaḥ.
+o que é isto? este é um corvo.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
+⟪एतत्किम् । एष काकः ।⟫
 
-etat kim? eṣā peṭikā.
+o que é isto? esta é uma caixa.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पेटिका⟫ ⟪।⟫
+⟪एतत्किम् । एषा पेटिका ।⟫
 
-etat kim? eṣā lātā.
+o que é isto? esta é uma planta de latã.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪लाता⟫ ⟪।⟫
+⟪एतत्किम् । एषा लाता ।⟫
 
-etat kim? eṣa pādaḥ.
+o que é isto? esta é uma mão.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪पादः⟫ ⟪।⟫
+⟪एतत्किम् । एष पादः ।⟫
 
-eṣa kaḥ? eṣa bālaḥ.
+quem é este? esta é uma criança.
 
-⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪बालः⟫ ⟪।⟫
+⟪एष कः । एष बालः ।⟫
 
-etat kim? eṣā pipīlikā.
+o que é isto? esta é uma formiga.
 
-⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पिपीलिका⟫ ⟪॥⟫
+⟪एतत्किम् । एषा पिपीलिका ॥⟫
 
 ::: media
 ![](/images/uebung003.webp)
-Abb.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung003))
+Fig.: ⟪एतत्किम् । एष काकः ।⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung003))
 :::

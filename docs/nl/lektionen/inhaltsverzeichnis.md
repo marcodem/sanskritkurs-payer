@@ -1,857 +1,854 @@
-
 # Inhoudsopgave
 
-## [Lektion 1](lektion01)
+## [Les 1](lektion01)
 
-*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Verehrung des Gaṇeśa
-*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Glückbringender Anfang"
-*   1\. Literatur für Anfänger in Indologie
-*   2\. Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift
-    *   2.1. Zur Aussprache einzelner Laute
-*   3\. Übung
+*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Verering van Gaṇeśa
+*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Gelukbrengend begin"
+*   1\. Literatuur voor beginnelingen in de Indologie
+*   2\. De klanken van het Sanskriet volgens de traditionele Indiase classificatie en hun wetenschappelijke transliteratie
+*   2.1. Over de uitspraak van individuele klanken
+*   3\. Oefening
 
-## [Lektion 2](lektion02)
+## [Les 2](lektion02)
 
-*   1\. Der Nominalsatz
-*   2\. Zur Deklination (Beugung von Nomina)
-*   3\. Der Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫
-    *   3.1. Nominativ Singular auf -s
+*   1\. De nominale zin
+*   2\. Over de declinatie (buiging van zelfstandige naamwoorden)
+*   3\. De nominatief enkelvoud = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫
+*   3.1. Nominatief enkelvoud op -s
 *   4\. Sandhi -- ⟪सन्धि⟫
-    *   4.1. Sandhi von auslautendem -s
-*   5\. Wortliste
-*   6\. Übung
+*   4.1. Sandhi van uitgaand -s
+*   5\. Woordenlijst
+*   6\. Oefening
 
-## [Lektion 3](lektion03)
+## [Les 3](lektion03)
 
-*   1\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (Fortsetzung)
-    *   1.1. Nominativ Singular auf -s (Fortsetzung)
-    *   1.2. Nominativ singular ohne Endung
-*   2\. Bildung der Feminina zu Maskulina (Adjektive und Substantive)
-*   3\. Nominativ plural = prathamā bahuvacanam = ⟪प्रथमा⟫ ⟪बहुचनम्⟫
-*   4\. Vokalsandhi
-*   5\. Satzsandhi von -ās
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Nominatief enkelvoud = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫ (vervolg)
+*   1.1. Nominatief enkelvoud op -s (vervolg)
+*   1.2. Nominatief enkelvoud zonder uitgang
+*   2\. Vorming van de vrouwelijke vormen van mannelijke vormen (adjectieven en zelfstandige naamwoorden)
+*   3\. Nominatief meervoud = prathamā bahuvacanam = ⟪प्रथमा बहुचनम्⟫
+*   4\. Vokaalsandhi
+*   5\. Zinsandhi van -ās
+*   6\. Woordenlijst
+*   7\. Oefening
 
-## [Lektion 4](lektion04)
+## [Les 4](lektion04)
 
-Gesprochenes Sanskrit
+Gesproken Sanskriet
 
-*   1\. Einfache Ergänzungsfragen (Wortfragen) und Antworten
-    *   1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
-        *   1.1.1.Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
-        *   1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
-    *   1.2. Sandhi von auslautendem -m
-    *   1.3. Sandhi von auslautendem -e
-    *   1.4. Sandhi von aulautendem -d
-    *   1.5. Frageformeln
-*   2\. Übung
+*   1\. Eenvoudige aanvullingsvragen (woordvragen) en antwoorden
+*   1.1. Vraagspronomena (praśnārthakasarvanāma n.) en aanwijzende pronomena (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च⟫
+*   1.1.1. Vraagspronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+*   1.1.2. Aanwijzende pronomena (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+*   1.2. Sandhi van uitgaand -m
+*   1.3. Sandhi van uitgaand -e
+*   1.4. Sandhi van uitgaand -d
+*   1.5. Vraagformules
+*   2\. Oefening
 
-## [Lektion 5](lektion05)
+## [Les 5](lektion05)
 
-*   1\. Nominalkomposita = samāsa m. = ⟪समास⟫
-*   2\. Zur Sanskrit-Terminologie für Komposita
-*   3\. Kopulative Komposita = Dvandva n. ("Paar") = ⟪द्वन्द्व⟫
-    *   3.1. Vorderglieder von Komposita
-    *   3.2. Plural-Itaretaradvandva
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Nominaalcomposita = samāsa m. = ⟪समास⟫
+*   2\. Over de Sanskrit-terminologie voor composita
+*   3\. Kopulatieve Composita = Dvandva n. ("Paar") = ⟪द्वन्द्व⟫
+*   3.1. Voorgedeelten van composita
+*   3.2. Pluraal-Itaretaradvandva
+*   4\. Woordenlijst
+*   5\. Oefening
 
-## [Lektion 6](lektion06)
+## [Les 6](lektion06)
 
-*   1\. Der Verbalsatz
-*   2\. Zur Bildung der Verbalformen
-*   3\. Indikativ Präsens (laṭ = ⟪लट्⟫)
-*   4\. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
-*   5\. Bildung des Präsensstamms
-    *   5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
-    *   5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
-        *   5.2.1. Wortsandhi von e und o
-        *   5.2.2. Lautabstufung (Ablaut)
-    *   5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
-    *   5.4. Themavokal, thematische Präsensklassen
-*   6\. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
-*   7\. Wortliste
-*   8\. Übung
-*   9\. Wiederholungsübung
+*   1\. De werkwoordelijke zin
+*   2\. Over de vorming van werkwoordsvormen
+*   3\. Indicativus Praesens (laṭ = ⟪लट्⟫)
+*   4\. Primaire uitgangen van de derde persoon (prathama m. = ⟪प्रथम⟫ = "eerste (!) persoon")
+*   5\. Vorming van de praesensstam
+*   5.1. Werkwoorden van de 6e praesensklasse (tudādi = ⟪तुदादि⟫ = "tud enz.")
+*   5.2. Werkwoorden van de 1e praesensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū enz.")
+*   5.2.1. Woordsandhi van e en o
+*   5.2.2. Klankafstemming (Ablaut)
+*   5.3. Werkwoorden van de 4e praesensklasse (divādi = ⟪दिवादि⟫ = "div enz.")
+*   5.4. Themavocaal, thematische praesensklassen
+*   6\. Gesproken Sanskriet: Verdere vragen (praśna m. = ⟪प्रश्न⟫)
+*   7\. Woordenlijst
+*   8\. Oefening
+*   9\. Herhalingsoefening
 
-## [Lektion 7](lektion07)
+## [Les 7](lektion07)
 
-Wochenspruch
+Wekelijkse spreuk
 
-*   1\. Der Verbalsatz mit direktem Objekt
-*   2\. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-    *   2.1. Akkusativ singular und Plural der Frage- und Demonstrativpronomina
-    *   2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-*   3\. Sandhi von auslautendem -n
-*   4\. Das Neutrum (napuṃsaka n. =  ⟪नपुंसक⟫)
-    *   4.1. Neutrum der Stämme auf -a
-*   5\. Athematische Präsensklassen
-    *   5.1. Primärendungen der 3. Person Plural bei athematischen Präsensstämmen
-    *   5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw."
-*   6\. Wortliste
-*   7\. Übung
+*   1\. De werkwoordelijke zin met lijdend voorwerp
+*   2\. De accusativus (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "tweede kasusuitgang")
+*   2.1. Accusativus enkelvoud en meervoud van de vraag- en aanwijzende voornaamwoorden
+*   2.2. Gebruik van de accusativus (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "tweede kasusuitgang")
+*   3\. Sandhi van uitlopend -n
+*   4\. Het neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+*   4.1. Neutrum van de stammen op -a
+*   5\. Athematische praesensklassen
+*   5.1. Primaire uitgangen van de 3e persoon meervoud bij athematische praesensstammen
+*   5.2. De 5e praesensklasse (svādi = ⟪स्वादि⟫ = "su enz."
+*   6\. Woordenlijst
+*   7\. Oefening
 
-## [Lektion 8](lektion08)
+## [Lesing 8](lektion08)
 
-*   1\. Zur Bildung von Nomina
-*   2\. Einteilung der Nominalsuffixe
-*   3\. Einige wichtige Nominalsuffixe
-    *   3.1. -a m. (kṛt)
-    *   3.2. -ana n. (kṛt)
-    *   3.3. -tra n. (kṛt)
-    *   3.4. -ti f. (kṛt)
-    *   3.5. -tva n., tā f. (taddhita)
-*   4\. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Lese- und Übersetzungsübung
+*   1\. Voor de vorming van nomina
+*   2\. Indeling van de nominalisatie-suffixen
+*   3\. Enkele belangrijke nominalisatie-suffixen
+*   3.1. -a m. (kṛt)
+*   3.2. -ana n. (kṛt)
+*   3.3. -tra n. (kṛt)
+*   3.4. -ti f. (kṛt)
+*   3.5. -tva n., tā f. (taddhita)
+*   4\. De achtste presentia-klasse (tanādi = ⟪तनादि⟫ = "tan enz.")
+*   5\. Woordenlijst
+*   6\. Oefening
+*   7\. Lees- en vertaaloefening
 
-## [Lektion 9](lektion09)
+## [Lesing 9](lektion09)
 
-*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Zusammenfassungsdvandva")
-*   2\. Zur Bildung von Nominalstämmen
-    *   2.1. -ka (taddhita)
-    *   2.2. -aka (kṛt), fem. oft -ikā
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("samenvattende dvandva")
+*   2\. Voor de vorming van nominalisatie-stammen
+*   2.1. -ka (taddhita)
+*   2.2. -aka (kṛt), vrouwelijk vaak -ikā
+*   3\. Woordenlijst
+*   4\. Oefening
 
-## [Lektion 10](lektion10)
+## [Lesing 10](lektion10)
 
-*   1\. Der Passivsatz
-*   2\. Der Instrumentalis = tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung"
-    *   2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
-*   3\. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
-*   4\. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
-    *   4.1. Sonderregeln zur Bildung des Passiv
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wortliste 2
-*   8\. Lese- und Übersetzungsübung
+*   1\. De passieve zin
+*   2\. Het instrumentalis = tṛtīyā f. = ⟪तृतीया⟫ = "derde kasusuitgang"
+*   2.1. Over het gebruik van de instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+*   3\. Het zogenaamde cerebrale geluidswet voor -n- (een woord-sandhi)
+*   4\. Het passief, indicativus presentia (yak = ⟪यक्⟫)
+*   4.1. Bijzondere regels voor de vorming van het passief
+*   5\. Woordenlijst
+*   6\. Oefening
+*   7\. Woordenlijst 2
+*   8\. Lees- en vertaaloefening
 
-## [Lektion 11](lektion11)
+## [Lesing 11](lektion11)
 
-*   1\. Doppelter Akkusativ
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
+*   1\. Dubbele accusativus
+*   2\. Woordenlijst
+*   3\. Oefening
+*   4\. Herhalingsoefening
 
-## [Lektion 12](lektion12)
+## [Lesing 12](lektion12)
 
-*   1\. Partizip Perfekt Passiv (PPP)
-    *   1.1. Schema für transitive Verben
-    *   1.2. Schema I für intransitive Verben und Verben der der Bewegung
-    *   1.3. Schema II für intransitive Verben und Verben der Bewegung
-*   2\. Zur Bedeutung des PPP
-*   3\. Bildung des PPP
-    *   3.1. PPP auf -ta (kta)
-        *   3.1.1. Ohne Bindevokal -i- (aniṭ)
-        *   3.1.2. Mit Bindevokal -i- (seṭ)
-*   4\. Gesetze der Lautverbindung im Wort
-*   5\. Wortliste
-    *   5.1. Passiv und PPP der bisher gelernten Wurzeln
-*   6\. Übung
+*   1\. Participle perfectum passivum (PPP)
+*   1.1. Schema voor transitieve werkwoorden
+*   1.2. Schema I voor intransitieve werkwoorden en bewegingswerkwoorden
+*   1.3. Schema II voor intransitieve werkwoorden en bewegingswerkwoorden
+*   2\. Over de betekenis van het PPP
+*   3\. Vorming van het PPP
+*   3.1. PPP op -ta (kta)
+*   3.1.1. Zonder tussenvoegsel -i- (aniṭ)
+*   3.1.2. Met tussenvoegsel -i- (seṭ)
+*   4\. Wetten van de klankverbinding in het woord
+*   5\. Woordenlijst
+*   5.1. Passief en PPP van de tot nu toe geleerde wortels
+*   6\. Oefening
 
-## [Lektion 13](lektion13)
+## [Les 13](lektion13)
 
-*   1\. PPP auf -na-
-*   2\. Weiteres zum Gebrauch des PPP
-*   3\. Attributive Bestimmungen von Nomina (Wortstellung)
-*   4\. Bildung von Adjektiven auf -mant und -vant (taddhita)
-*   5\. Stammabstufung von Nomina
-*   6\. Zum Wortsandhi
-*   7\. Kasusendungen konsonantischer Stämme
-*   8\. Deklination der Stämme auf -mant und -vant
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+*   1\. PPP op -na-
+*   2\. Meer over het gebruik van de PPP
+*   3\. Attributieve bepalingen van nomina (woordvolgorde)
+*   4\. Vorming van adjectiva op -mant en -vant (taddhita)
+*   5\. Stamafstamming van nomina
+*   6\. Over het woord-sandhi
+*   7\. Kasusuitgangen van medeklinker-stammen
+*   8\. Declinatie van de stammen op -mant en -vant
+*   9\. Woordenlijst
+*   10\. Oefening
+*   11\. Herhalings-oefening
 
-## [Lektion 14](lektion14)
+## [Les 14](lektion14)
 
-*   1\. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
-*   2\. Bildung der Genetivformen (ṣāṣṭhī f. = ⟪षष्ठी⟫)
-*   3\. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
-*   4\. Wortliste
-*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
-*   6\. Übung
+*   1\. De uitdrukking van het verhouding tussen door substantieven aangeduide: de Genetief (ṣaṣṭhī f. = ⟪षष्टी⟫ = zesde Kasusuitgang)
+*   2\. Vorming van de Genetief-vormen (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3\. Meer over het gebruik van de Genetief (⟪षष्ठी⟫)
+*   4\. Woordenlijst
+*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Spreekwoorden
+*   6\. Oefening
 
-## [Lektion 15](lektion15)
-
-*   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   3\. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   4\. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   5\. Zerlegung von Komposita (ausser Dvandvas)
-*   6\. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
-*   7\. Einteilung der ⟪तत्पुरुष⟫
-    *   7.1. Einteilung der ⟪कर्मधारय⟫
-*   8\. Wortliste
-*   9\. Übung 1
-*   10\. Übung 2
-*   11\. Übung 3
-
-## [Lektion 16](lektion16)
-
-*   1\. Zum Sandhi auslautender Konsonanten
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
-
-## [Lektion 17](lektion17)
-
-*   1\. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
-*   2\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
-*   3\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
-*   4\. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
-*   5\. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
-*   6\. Wortliste
-*   7\. Übung 1
-*   8\. Übung 2
-
-## [Lektion 18](lektion18)
+## [Les 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
-    *   2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
-*   3\. Verbalkomposita
-    *   3.1. Nominalbildungen zu Verbalkomposita
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+*   2\. Determinatief-composita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+*   3\. Determinatief-composita met attributief / appositioneel voorlid = Karmadhāraya m. = ⟪कर्मधारय⟫
+*   4\. Determinatief-composita met een voorlid, dat tot het achterlid in een niet-attributief/appositioneel Kasus-verhouding staat = Tatpuruṣa in engere zin
+*   5\. Ontleding van composita (behalve Dvandvas)
+*   6\. De vorm van het voorlid in composita (⟪समास⟫ m.)
+*   7\. Indeling van de ⟪तत्पुरुष⟫
+*   7.1. Indeling van de ⟪कर्मधारय⟫
+*   8\. Woordenlijst
+*   9\. Oefening 1
+*   10\. Oefening 2
+*   11\. Oefening 3
 
-## [Lektion 19](lektion19)
+## [Les 16](lektion16)
 
-*   1\. Der Relativsatz
-*   2\. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Over de Sandhi van uitgaande medeklinkers
+*   2\. Woordenlijst
+*   3\. Oefening
+*   4\. Herhalings-oefening
+
+## [Les 17](lektion17)
+
+*   1\. Tweede klasse van tegenwoordige tijdstammen (⟪अदादि⟫ = ⟪अद्⟫ enz.)
+*   2\. Wortstammen van de tweede klasse met stamafleiding Hoog niveau - Laag niveau
+*   3\. Wortstammen van de tweede klasse met stamafleiding Verlangd niveau - Laag niveau
+*   4\. Wortstammen van de tweede klasse zonder stamafleiding
+*   5\. Tweesilbige wortels op -i/-ī met stamafleiding
+*   6\. Woordenlijst
+*   7\. Oefening 1
+*   8\. Oefening 2
+
+## [Les 18](lektion18)
+
+*   ⟪१⟫. ⟪सुभाषितम्⟫
+*   2\. Determinatieve samenstellingen (⟪तत्पुरुष⟫) met adverbiaal voorlid
+*   2.1. Samenstellingen van het type ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   2.2. Betekenissen van nañ-Tatpuruṣa (a- / an-)
+*   3\. Werkwoordelijke samenstellingen
+*   3.1. Nominaal afgeleiden van werkwoordelijke samenstellingen
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. Herhalingsoefening
+
+## [Les 19](lektion19)
+
+*   1\. De bijzin met betrekking tot het onderwerp
+*   2\. Het voornaamwoord = ⟪व्यपेक्षकसर्वनाम⟫ m.
+*   3\. Woordenlijst
+*   4\. Oefening
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lektion 20](lektion20)
+## [Les 20](lektion20)
 
-*   1\. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
-*   2\. Bahuvrīhi mit attributivem Vorderglied
-*   3\. Bahuvrīhi mit appositionellem Vorderglied
-*   4\. Bahuvrīhi mit kasuellem Vorderglied
-*   5\. Bahuvrīhi mit adverbiellem Vorderglied
-*   6\. Flexion des Schlussglieds eines Bahuvrīhi
-*   7\. Eine andere Einteilung der Arten von Bahuvrīhis
-*   8\. Verhältnis von Bahuvrīhi und Relativsatz
-*   9\. Wortliste
-*   10\. Übung 1
-*   11\. Übung 2
-*   12\. Übersetzungsübung
+*   1\. Bezittelijke samenstellingen = ⟪बहुव्रीहि⟫ m.
+*   2\. Bahuvrīhi met attributief voorlid
+*   3\. Bahuvrīhi met appositief voorlid
+*   4\. Bahuvrīhi met causatief voorlid
+*   5\. Bahuvrīhi met adverbiaal voorlid
+*   6\. Vervoeging van het eindlid van een Bahuvrīhi
+*   7\. Een andere indeling van de soorten Bahuvrīhi's
+*   8\. Verhouding tussen Bahuvrīhi en betrekkingzin
+*   9\. Woordenlijst
+*   10\. Oefening 1
+*   11\. Oefening 2
+*   12\. Vertaal-oefening
 
-## [Lektion 21](lektion21)
+## [Les 21](lektion21)
 
-*   1\. Weitere Präsensstämme auf -nt
-    *   1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
-    *   1.2. ⟪महान्त्⟫ "gross"
-*   2\. Sandhi für auslautende Nasale
-*   3\. Höfliche Formen der Anrede
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Verdere tegenwoordige tijdstammen op -nt
+*   1.1. Participle van de tegenwoordige tijd (⟪लडादेशः⟫) Parasmaipada
+*   1.2. ⟪महान्त्⟫ "groot"
+*   2\. Sandhi voor uitgaande medeklinkers
+*   3\. Eerbiedige vormen van aanspreken
+*   4\. Woordenlijst
+*   5\. Oefening
+## [Les 22](les22)
 
-## [Lektion 22](lektion22)
+*   1\. Het absolutief (⟪क्त्वा । ल्यप्⟫)
+*   2\. Vorming van het absolutief
+    *   2.1. Werkwoorden zonder preverbum: absolutief op -⟪त्वा⟫
+    *   2.2. Werkwoorden met een preverb
+        *   2.2.1. Wortels op een lange klinker (behalve -ā) of op een medeklinker
+        *   2.2.2. Wortels op -ā
+        *   2.2.3. Wortstammen die in de laagste vorm eindigen op een korte -i, -u, -ṛ
+        *   2.2.4. Wortstammen op -am / -an die in de laagste vorm eindigen op -a
+*   3\. Woordenlijst
+*   4\. Oefening
 
-*   1\. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   2\. Bildung des Absolutivums
-    *   2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-    *   2.2. Verben mit Präverb
-        *   2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
-        *   2.2.2. Wurzeln auf -ā
-        *   2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
-        *   2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
-*   3\. Wortliste
-*   4\. Übung
+## [Les 23](les23)
 
-## [Lektion 23](lektion23)
+*   1\. De infinitief (⟪तुमुन्⟫)
+*   2\. Vorming van de infinitief (⟪तुमुन्⟫)
+*   3\. De infinitief (⟪तुमुन्⟫) van de tot nu toe geleerde stamwoorden
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. Herhalingsoefening
 
-*   1\. Der Infinitiv (⟪तुमुन्⟫)
-*   2\. Bildung des Infinitiv (⟪तुमुन्⟫)
-*   3\. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+## [Les 24](les24)
 
-## [Lektion 24](lektion24)
+*   1\. De datief (⟪चतुर्थी⟫ = „vierde naamvaluitgang”)
+*   2\. Vorming van de datief (⟪चतुर्थी⟫)
+    *   2.1. Medeklinkerstammen
+    *   2.2. Vraagwoorden
+    *   2.3. Aanwijzende voornaamwoorden
+    *   2.4. Klinkerstammen
+*   3\. Sandhi van -ai en -au aan het einde van een woord
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. Meer oefeningen over het gebruik van de datief
 
-*   1\. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
-*   2\. Bildung des Dativ (⟪चतुर्थी⟫)
-    *   2.1. Konsonantische Stämme
-    *   2.2. Fragepronomen
-    *   2.3. Demonstrativpronomina
-    *   2.4. Vokalische Stämme
-*   3\. Sandhi von auslautendem -ai und -au
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Weitere Übungen zum Gebrauch des Dativ
+## [Les 25](les25)
 
-## [Lektion 25](lektion25)
-
-*   1\. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
-*   2\. Gebrauch des Ablativ (⟪पञ्चमी⟫)
-*   3\. Das Suffix -⟪तस्⟫
-*   4\. Andere Möglichkeiten, Begründungen auszudrücken
-*   5\. Wortliste
-*   6\. Übung
+*   1\. Vorming van de ablatief (⟪पञ्चमी⟫ = „vijfde naamvaluitgang”)
+*   2\. Gebruik van de ablatief (⟪पञ्चमी⟫)
+*   3\. Het achtervoegsel -⟪तस्⟫
+*   4\. Andere manieren om redenen uit te drukken
+*   5\. Woordenlijst
+*   6\. Oefening
 *   7\. ⟪सुभाषितानि⟫
-*   8\. Übersetzungsübung
+*   8\. Vertaaloefening
 
-## [Lektion 26](lektion26)
+## [Les 26](les26)
 
-*   1\. Cerebralisationsgesetz für -s- im Wortinnern
-*   2\. Cerebralisationsgesetz für Dentale im Wortinnern
-*   3\. Wortsandhi für Palatal, Guttural, ṣ, h + -s
-*   4\. Grassmannsches Hauchdissimilationsgesetz
-*   5\. Wortsandhi für -m, -n vor Zischlaut
-*   6\. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   7\. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   8\. Übung
+*   1\. Cerebraliseringsregel voor -s- in het midden van een woord
+*   2\. Cerebralisatiewet voor dentale klanken in het midden van een woord
+*   3\. Woordsandhi voor palatale, guturale klanken, ṣ, h + -s
+*   4\. De wet van Grassmann inzake aspiratiedissimatie
+*   5\. Woord-sandhi voor -m, -n vóór een sissende klank
+*   6\. Gebruik van de eenvoudige toekomende tijd (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ v.)
+*   7\. Vorming van de eenvoudige toekomende tijd (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  v.)
+*   8\. Oefening
 
-## [Lektion 27](lektion27)
+## [Les 27](lektion27)
 
-*   1\. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung)
-*   2\. Bildung des Lokativ (⟪सप्तमी⟫)
-    *   2.1. Konsonatische Stämme
-    *   2.2. Frage, Demonstrativ- und Relativpronomina
-    *   2.3. Vokalische Stämme
-*   3\. Übersicht über die regulären Kasusendungen (⟪विभक्ति⟫) des Singular und Plural
-*   4\. Ein Vers mit allen Deklinationsformen des Singular zu ⟪राम⟫
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Deklinationsparadigmen zum Auswendiglernen
-    *   7.1. Maskulina auf -a: ⟪नर⟫
-    *   7.2. Neutra auf -a: ⟪फल⟫
-    *   7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
-    *   7.4. Maskulina auf -i: ⟪अरि⟫
-    *   7.5. Feminina auf -i: ⟪मति⟫
-    *   7.6. Maskulina auf -u: ⟪गुरु⟫
-    *   7.7. Feminina auf -u: ⟪धेनु⟫#
-    *   7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
-    *   7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
-    *   7.10. ⟪महान्त्⟫
-    *   7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
-    *   7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   7.13. Relativpronomen: ⟪यद्⟫
-    *   7.14. Fragepronomen: ⟪किम्⟫
+*   1\. Gebruik van de Lokatief (⟪सप्तमी⟫ v. = "zevende kasusuitgang")
+*   2\. Vorming van de Lokatief (⟪सप्तमी⟫)
+*   2.1. Medeklinkerstammen
+*   2.2. Vragende, aanwijzende en betrekkelijke voornaamwoorden
+*   2.3. Klinkerstammen
+*   3\. Overzicht van de reguliere kasusuitgangen (⟪विभक्ति⟫) voor enkelvoud en meervoud
+*   4\. Een vers met alle vervoegingsvormen van de enkelvoud voor ⟪राम⟫
+*   5\. Woordenlijst
+*   6\. Oefening
+*   7\. Vervoegingsparadigma's om uit het hoofd te leren
+*   7.1. Maskulina op -a: ⟪नर⟫
+*   7.2. Neutra op -a: ⟪फल⟫
+*   7.3. Feminina op -ā: ⟪क्षत्रिया⟫
+*   7.4. Maskulina op -i: ⟪अरि⟫
+*   7.5. Feminina op -i: ⟪मति⟫
+*   7.6. Maskulina op -u: ⟪गुरु⟫
+*   7.7. Feminina op -u: ⟪धेनु⟫#
+*   7.8. Meerkleurige Feminina op -ī: ⟪देवी⟫
+*   7.9. Participle Present Parasmaipada op -ant: ⟪सन्त्⟫
+*   7.10. ⟪महान्त्⟫
+*   7.11. Maskulina en Neutra op -vant / -mant: ⟪गुणवन्त्⟫
+*   7.12. Aanwijzende voornaamwoorden: ⟪तद् । एतद् । इदम्⟫
+*   7.13. Betrekkelijke voornaamwoorden: ⟪यद्⟫
+*   7.14. Vragende voornaamwoorden: ⟪किम्⟫
 
-## [Lektion 28](lektion28)
+## [Les 28](lektion28)
 
-*   1\. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   2\. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   3\. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   4\. Bildung des Passivs (⟪यक्⟫)  zum Kausativ
-*   5\. Bildung des Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
-*   6\. Bildung des PPP (⟪क्त⟫) zum Kausativ
-*   7\. Bildung des Absolutivs (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) zum Kausativ
-*   8\. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
-*   9\. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
-*   10\. Wortliste
-*   11\. Übung
+*   1\. Het Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   2\. Zinsconstructie met het Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   3\. Vorming van de tegenwoordige stam voor het Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   4\. Vorming van het Passief (⟪यक्⟫) voor het Kausativum
+*   5\. Vorming van de Toekomstige tijd (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ v.) voor het Kausativum
+*   6\. Vorming van de PPP (⟪क्त⟫) voor het Kausativum
+*   7\. Vorming van de Absolutiv (⟪क्त्वा । ल्यप्⟫) voor het Kausativum
+*   8\. Vorming van de Infinitief (⟪तुमुन्⟫) voor het Kausativum
+*   9\. De tiende tegenwoordige klasse (⟪चुरादि⟫ = ⟪चुर्⟫ enz.)
+*   10\. Woordenlijst
+*   11\. Oefening
 
-## [Lektion 29](lektion29)
+## [Les 29](lektion29)
 
-*   1\. Verwendung des Parasmaipada und Ātmanepada im Kausativum
-*   2\. Wortliste
-*   3\. Übersetzungsübung zur Wiederholung
-*   4\. Futur und Kausativ zu den bisher gelernten Wurzeln
+*   1\. Gebruik van het Parasmaipada en Ātmanepada in de causativum
+*   2\. Woordenlijst
+*   3\. Vertaalopdracht ter herhaling
+*   4\. Futurum en causativum voor de tot nu toe geleerde wortels
 
-## [Lektion 30](lektion30)
+## [Les 30](lektion30)
 
-*   1\. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
-*   2\. Gebrauch des Optativ (⟪लिङ्⟫)
-*   3\. Sekundärendungen der 3. Personen Singular und Plural
-*   4\. Bildung des Optativ Präsens (⟪लिङ्⟫)
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Sandhi von auslautendem -r
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. De negende presentisklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ enz.")
+*   2\. Gebruik van de optatief (⟪लिङ्⟫)
+*   3\. Secundaire uitgangen voor de derde persoon enkelvoud en meervoud
+*   4\. Vorming van de optatief presentum (⟪लिङ्⟫)
+*   4.1. Thematische presentisklassen
+*   4.2. Athematische presentisklassen
+*   5\. Sandhi van uitklinkend -r
+*   6\. Woordenlijst
+*   7\. Oefening
+*   8\. Herhalingsopdracht voor de vormleer
 
-## [Lektion 31](lektion31)
+## [Les 31](lektion31)
 
-*   1\. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
-*   2\. Wortliste
-*   3\. Übung
+*   1\. De zevende presentisklasse (⟪रुधादि⟫ = "⟪रुध्⟫ enz.")
+*   2\. Woordenlijst
+*   3\. Oefening
 
-## [Lektion 32](lektion32)
+## [Les 32](lektion32)
 
-*   1\. Die Vergangenheitstempora
-*   2\. Das Imperfekt (⟪लङ्⟫)
-*   3\. Regeln für das Augment
-*   4\. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Übung zur Wiederholung über die Weihnachtsferien
+*   1\. De verleden tijden
+*   2\. Het imperfectum (⟪लङ्⟫)
+*   3\. Regels voor het augmentum
+*   4\. Voorbeelden van de imperfectumvorming voor de afzonderlijke presentisklassen
+*   4.1. Thematische presentisklassen
+*   4.2. Athematische presentisklassen
+*   5\. Woordenlijst
+*   6\. Oefening
+*   7\. Herhalingsopdracht gedurende de kerstvakantie
 
-## [Lektion 33](lektion33)
+## [Les 33](lektion33)
 
-*   1\. Die Reduplikation (⟪अभ्यास⟫ m.)
-    *   1.1. Der Reduplikationskonsonant
-*   2\. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
-    *   2.1. Der Reduplikationsvokal der 3. Präsensklasse
-*   3\. Zum Ablaut von ā
-*   4\. Wurzeln auf -ā der dritten Präsensklasse
-    *   4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
-*   5\. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
-*   6\. Wortliste
-*   7\. Übung
+*   1\. De reduplicatie (⟪अभ्यास⟫ m.)
+*   1.1. De reduplicatieconsonant
+*   2\. Derde presentisklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ enz.")
+*   2.1. De reduplicatievokaal van de derde presentisklasse
+*   3\. Over het ablautum van ā
+*   4\. Wortels op -ā van de derde presentisklasse
+*   4.1. De wortels ⟪दा⟫ en ⟪धा⟫
+*   5\. Het participium presentum Parasmaipada van de wortels van de derde presentisklasse
+*   6\. Woordenlijst
+*   7\. Oefening
 
-## [Lektion 34](lektion34)
+## [Les 34](lektion34)
 
-*   1\. Das Perfekt (⟪लिट्⟫)
-*   2\. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Stammabstufung
-    *   2.2. Die Perfektendungen
-    *   2.3. Bindevokal -i-
-    *   2.4. Reduplikation konsonantisch anlautender Wurzeln
-    *   2.5. Reduplikation vokalisch anlautender Wurzeln
-*   3\. Typen des reduplizierten Perfekts
-*   4\. Perfekt Typ I: Perfekt ohne Stammabstufung
-*   5\. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Übersetzungsübung
+*   1\. Het perfectum (⟪लिट्⟫)
+*   2\. Het reduplicerend perfectum (⟪द्वित्वलिट्⟫)
+*   2.1. Stammafleiding (gradatie)
+*   2.2. De perfectum-uitgangen
+*   2.3. Tussenklinker -i-
+*   2.4. Reduplicatie van wortels beginnend met een medeklinker
+*   2.5. Reduplicatie van wortels beginnend met een klinker
+*   3\. Typen van het reduplicerende perfectum
+*   4\. Perfectum Type I: Perfectum zonder stamgradatie
+*   5\. Perfectum II: sterke stam in hoge graad, zwakke stam in lage graad
+*   6\. Woordenlijst
+*   7\. Oefening
+*   8\. Vertaalopgave
 
-## [Lektion 35](lektion35)
+## [Les 35](lektion35)
 
-*   1\. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-    *   1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-    *   1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-*   2\. Perfekt Typ IV: Wurzeln auf -ā / -ai
-*   3\. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
-    *   3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
-    *   3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
-    *   3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Perfectum Type III: Sterke stam in hoge graad/verlengde graad
+*   1.1. Perfectum Type IIIa: Sterke stam in hoge graad/verlengde graad, zwakke stam in lage graad
+*   1.2. Perfectum Type IIIb: Sterke stam in hoge graad/verlengde graad, zwakke stam in hoge graad
+*   2\. Perfectum Type IV: Wortels op -ā / -ai
+*   3\. Perfectum Type V: Wortels C-vowel-C (medeklinker-klinker-medeklinker)
+*   3.1. Perfectum Type Va: zwakke stam in lage graad
+*   3.2. Perfectum Type Vb: Wortels C-vowel-C, beginmedeklinker geen gutturaal, aspiratie of h. Zwakke stam zonder reduplicatie, met -e-
+*   3.3. Perfectum Type Vc: Wortels C-vowel-C. Zwakke stam in hoge graad
+*   4\. Woordenlijst
+*   5\. Oefening
 
-## [Lektion 36](lektion36)
+## [Les 36](lektion36)
 
-*   1\. Besondere Bildungen des Perfekts
-*   2\. Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   3\. Perfekt Passiv
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Das Perfekt (⟪लिट्⟫) zu den bisher gelernten Wurzeln
-*   7\. Übersetzungsübung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. Bijzondere vormen van het perfectum
+*   2\. Het perifrastische perfectum (⟪अनुप्रयोगलिट्⟫)
+*   3\. Perfectum Passief
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. Het perfectum (⟪लिट्⟫) bij de tot nu toe geleerde wortels
+*   7\. Vertaalopgave
+*   8\. Herhalingsopgave voor de vormleer
+## [Les 37](les37)
 
-## [Lektion 37](lektion37)
-
-*   1\. Das Adverb (⟪क्रियाविशेषनम्⟫)
-*   2\. Adverbialer Gebrauch von Kasusformen
-    *   2.1. Akkusativ (⟪द्वितीया⟫)
+*   1\. Het bijwoord (⟪क्रियाविशेषनम्⟫)
+*   2\. Bijwoordelijk gebruik van naamvalvormen
+    *   2.1. Accusatief (⟪द्वितीया⟫)
     *   2.2. Instrumentalis (⟪तृतीया⟫)
-    *   2.3. Dativ (⟪चतुर्थी⟫)
-    *   2.4. Ablativ (⟪पञ्चमी⟫)
-    *   2.5. Genetiv (⟪षष्ठी⟫)
-    *   2.6. Lokativ (⟪सप्तमी⟫)
-*   3\. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
-*   4\. Bildung von Adverbien mit Adverbialsuffixen
-*   5\. Adverbiale Komposita
-    *   5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
-    *   5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
-    *   5.3. ⟪अव्ययीभाव⟫-Komposita
-*   6\. Syntaktisches
-*   7\. Indefinitpronomina
-*   8\. Der Fragesatz
-    *   8.1. Wortfragen (Ergänzungsfragen)
-    *   8.2. Satzfragen
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+    *   2.3. Datief (⟪चतुर्थी⟫)
+    *   2.4. Ablatief (⟪पञ्चमी⟫)
+    *   2.5. Genitief (⟪षष्ठी⟫)
+    *   2.6. Locatief (⟪सप्तमी⟫)
+*   3\. Adverbiaal gebruik van niet meer gangbare naamvalvormen
+*   4\. Vorming van bijwoorden met adverbiale achtervoegsels
+*   5\. Adverbiale samenstellingen
+    *   5.1. Samenstellingen met een bijwoord of een in adverbiale functie gebruikte naamval als achterlid
+    *   5.2. In adverbiale functie gebruikte ⟪बहुव्रीहि⟫
+    *   5.3. ⟪अव्ययीभाव⟫-samenstellingen
+*   6\. Syntactisch
+*   7\. Onbepaalde voornaamwoorden
+*   8\. De vraagzin
+    *   8.1. Woordvragen (aanvullende vragen)
+    *   8.2. Zinsvragen
+*   9\. Woordenlijst
+*   10\. Oefening
+*   11\. Herhalingsoefening
 
-## [Lektion 38](lektion38)
+## [Les 38](les38)
 
-*   1\. Losung der Woche
-*   2\. Lautwandel von Nasalen im Wort
-*   3\. Deklination der Stämme auf -n
-    *   3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
-    *   3.2. Nomina auf -man bzw. -van nach Konsonant
-    *   3.3. Maskulina und Neutra auf -in, -min, -vin
-*   4\. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
-*   5\. Syntaktisches zu ⟪नामन्⟫
-*   6\. Syntaktisches zu ⟪आत्मन्⟫
-*   7\. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
-*   8\. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wortliste zur Übersetzungsübung
-*   12\. Übersetzungsübung
+*   1\. Woord van de week
+*   2\. Klankverandering van nasalen in het woord
+*   3\. Verbuiging van stammen op -n
+    *   3.1. Zelfstandige naamwoorden op -an en zelfstandige naamwoorden op -man of -van na een klinker
+    *   3.2. Zelfstandige naamwoorden op -man of -van na een medeklinker
+    *   3.3. Mannelijke en onzijdige zelfstandige naamwoorden op -in, -min, -vin
+*   4\. Over naamwoordvorming: ⟪तद्धित⟫-achtervoegsel -in
+*   5\. Syntactische opmerkingen over ⟪नामन्⟫
+*   6\. Syntactische opmerkingen over ⟪आत्मन्⟫
+*   7\. Stamwoorden die op een medeklinker eindigen als voorelement van samengestelde woorden
+*   8\. Stamwoorden op -an als achterelement van een ⟪बहुव्रीहि⟫
+*   9\. Woordenlijst
+*   10\. Oefening
+*   11\. Woordenlijst bij de vertaaloefening
+*   12\. Vertaaloefening
 
-## [Lektion 39](lektion39)
+## [Les 39](les39)
 
-*   1\. Die Personalendungen der ersten Person (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "dritte Person")
-*   2\. Bildung der Verbformen der ersten Person thematischer Präsensstämme
-    *   2.1. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.2. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.3. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Passiv (Suffix ⟪यक्⟫)
-*   3\. Bildung der Verbformen der ersten Person des einfachen Futur (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫-Bildung
-    *   3.2. ⟪सेट्⟫-Bildung
-*   4\. Bildung der Verbformen der ersten Person athematischer Präsensstämme
-    *   4.1. Zweite Präsensklasse (⟪अदादि⟫)
-    *   4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   4.4. Achte Präsensklasse (⟪तनादि⟫)
-    *   4.5. Siebte Präsensklasse (⟪रुधादि⟫)
-    *   4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   5\. Übung
+*   1\. De persoonsuitgangen van de eerste persoon (⟪तृतीयः पुरुषः⟫ = "derde persoon")
+*   2\. Vorming van de werkwoordsvormen van de eerste persoon thematische tegenwoordige stam
+*   2.1. Eerste tegenwoordigeklas (⟪भ्वादि⟫)
+*   2.2. Zesde tegenwoordigeklas (⟪तुदादि⟫)
+*   2.3. Vierde tegenwoordigeklas (⟪दिवादि⟫)
+*   2.4. Tiende tegenwoordigeklas (⟪चुरादि⟫) en causativa (⟪णिजन्त⟫)
+*   2.5. Passief (suffix ⟪यक्⟫)
+*   3\. Vorming van de werkwoordsvormen van de eerste persoon eenvoudige toekomst (⟪ऌत्⟫)
+*   3.1. ⟪अनिट्⟫-vorming
+*   3.2. ⟪सेट्⟫-vorming
+*   4\. Vorming van de werkwoordsvormen van de eerste persoon athematische tegenwoordige stam
+*   4.1. Tweede tegenwoordigeklas (⟪अदादि⟫)
+*   4.2. Derde tegenwoordigeklas (⟪जुहोत्यादि⟫)
+*   4.3. Vijfde tegenwoordigeklas (⟪स्वादि⟫)
+*   4.4. Achtste tegenwoordigeklas (⟪तनादि⟫)
+*   4.5. Zevende tegenwoordigeklas (⟪रुधादि⟫)
+*   4.6. Negende tegenwoordigeklas (⟪क्र्यादि⟫)
+*   5\. Oefening
 
-## [Lektion 40](lektion40)
-
-*   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
-    *   2.1. Perfekt Typ I: keine Stammabstufung
-    *   2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   2.5. Perfekt Typ V: Konsonant-a-Konsonant
-        *   2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   2.6. Besondere Perfekt-Bildungen
-*   3\. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
-*   5\. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 41](lektion41)
-
-*   1\. ⟪सुभाषिते⟫  (zwei Sprichwörter)
-*   2\. Weitere ⟪कृत्⟫-Bildungen auf -a
-    *   2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) Passiv, Partizip Futur (⟪ऌडादेशः⟫) Ā
-        *   2.1.1. Thematische Präsensstämme, Passiv und Futur
-        *   2.1.2. Athematische Präsensklassen
-    *   2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-        *   2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
-        *   2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
-        *   2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
-        *   2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
-    *   2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-    *   2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
-    *   2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 42](lektion42)
-
-*   1\. Stämme auf -ṛ
-    *   1.1. Stämme mit Dehnstufe im starken Stamm
-    *   1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
-    *   1.3. Stämme mit Hochstufe im starken Stamm
-    *   1.4. Stämme auf -ṛ in Komposita
-*   2\. Wortliste
-    *   2.1. Einige Verwandtschaftsbezeichnungen
-*   3\. Übung
-*   4\. Übersetzungsübung
-
-## [Lektion 43](lektion43)
-
-*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
-*   2\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
-    *   2.1. Thematische Stämme
-        *   2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
-        *   2.1.2. Sechste Präsensklasse (⟪तुदादि⟫)
-        *   2.1.3. Vierte Präsensklasse (⟪दिवादि⟫)
-        *   2.1.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-        *   2.1.5. Passiv
-        *   2.1.6. Futur (⟪ऌट्⟫)
-            *   2.1.6.1. ⟪अनिट्⟫-Bildungen
-            *   2.1.6.2. ⟪सेट्⟫-Bildungen
-*   3\. Das Personalpronomen der zweiten Person
-*   4\. Wortliste
-*   5\. Übung
-*   6\. ⟪संवादः⟫ = Gespräch
-
-## [Lektion 44](lektion44)
-
-*   1.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
-    *   1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.2. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Zum Wortsandhi
-    *   2.1. Zum Wortsandhi für dh-
-    *   2.2. Zum Wortsandhi für s-
-*   3.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
-    *   3.1. Zweite Präsensklasse (⟪अदादि⟫)
-*   4\. Der Vokativ (⟪आमन्त्रितम्⟫)
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 45](lektion45)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
-    *   1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   1.2. Siebte Präsensklasse (⟪रुधादि⟫)
-*   2\. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 46](lektion46)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
-    *   1.1. Endungen
-    *   1.2. Lautveränderung der Endung -dhve
-    *   1.3. Perfekt Typ I: keine Stammabstufung
-    *   1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   1.7. Perfekt Typ V: Konsonant-a-Konsonant
-        *   1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   1.8. Besondere Perfekt-Bildungen
-    *   1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   2\. Wortliste
-*   3\. Übung
-
-## [Lektion 47](lektion47)
-
-*   1\. Der Imperativ (⟪लोट्⟫)
-*   2\. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an thematischen Präsensstämmen
-    *   2.2. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.4. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-    *   2.6. Passiv
-*   3\. Übung
-
-## [Lektion 48](lektion48)
+## [Les 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an athematischen Präsensstämmen
-    *   2.2. Form des Präsensstamms
-    *   2.3. Zweite Präsensklasse (⟪अदादि⟫)
-    *   2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-*   3\. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Übersetzungsübung
+*   2\. Vorming van de werkwoordsvormen van de eerste persoon perfectum (⟪लिट्⟫)
+*   2.1. Perfectum type I: geen stamafleiding
+*   2.2. Perfectum type II: sterke stam hoogste trap, zwakke stam laagste trap
+*   2.3. Perfectum type III: Sterke stam hoogste trap/verlengde trap
+*   2.3.1. Perfectum type IIIa: Sterke stam hoogste trap/verlengde trap, zwakke stam laagste trap
+*   2.3.2. Perfectum type IIIb: Sterke stam hoogste trap/verlengde trap, zwakke stam hoogste trap
+*   2.4. Perfectum type IV: wortels op -ā / -ai
+*   2.5. Perfectum type V: medeklinker-a-medeklinker
+*   2.5.1. Perfectum type Va: medeklinker-a-medeklinker, zwakke stam laagste trap
+*   2.5.2. Perfectum type Vb: medeklinker-a-medeklinker, beginmedeklinker geen gutturaal, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
+*   2.5.3. Perfectum type Vc: medeklinker-a-medeklinker, zwakke stam hoogste trap
+*   2.6. Bijzondere perfectum-vormingen
+*   3\. Vorming van de werkwoordsvormen van de eerste persoon perifrastisch perfectum (⟪अनुप्रयोगलिट्⟫)
+*   4\. Syntactisch over de eerste persoon (⟪तृतीयः⟫)
+*   5\. Persoonlijke voornaamwoorden (⟪पुरुषार्थकसर्वनाम⟫) van de 1. persoon enkelvoud en meervoud
+*   6\. Woordenlijst
+*   7\. Oefening
+*   8\. Herhalingsoefening voor de vormleer
 
-## [Lektion 49](lektion49)
+## [Les 41](lektion41)
 
-*   1\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
-    *   1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
-    *   1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.3. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Deklination der Nominalstämme auf -as, -is, -us
-*   3\. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
-*   4\. Wortliste
-*   5\. Wiederholungsübung zur Formenlehre
-*   6\. Übersetzungsübung
+*   1\. ⟪सुभाषिते⟫  (twee spreekwoorden)
+*   2\. Verdere ⟪कृत्⟫-vormingen op -a
+*   2.1. Participle van de Tegenwoordige Tijd (⟪लडादेशः⟫) Ā, Participle van de Tegenwoordige Tijd (⟪लडादेशः⟫) Passief, Participle van de Toekomstige Tijd (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Thematische tegenwoordige tijd stamvormen, passief en toekomstige tijd
+*   2.1.2. Atheematische tegenwoordige tijd klassen
+*   2.2. "Participle" van de passieve noodzaak (Gerundivum) (⟪कृत्य⟫)
+*   2.2.1. Het suffix -⟪तव्य⟫ / -⟪तव्या⟫
+*   2.2.2. Het suffix -⟪अनीय⟫ / -⟪अनीया⟫
+*   2.2.3. Het suffix -⟪य⟫ / -⟪या⟫
+*   2.2.4. Het suffix -⟪त्य⟫ / ⟪त्या⟫ (in plaats van -⟪य⟫ / -⟪या⟫)
+*   2.3. Syntactisch over het "participle" van de passieve noodzaak (Gerundivum) (⟪कृत्य⟫)
+*   2.4. Verschillen in het gebruik van de gerundivum-suffixen
+*   2.5. Geen verbinding met ⟪सु⟫- en ⟪दुस्⟫-
+*   3\. Woordenlijst
+*   4\. Oefening
 
-## [Lektion 50](lektion50)
+## [Les 42](lektion42)
 
-*   1\. Nominalbildung: regelmässige Steigerung
-*   2\. Wortliste
-*   3\. Übersetzungsübung
+*   1\. Stamvormen op -ṛ
+*   1.1. Stamvormen met versterkte graad in de sterke stam
+*   1.2. Nominaal vorming: ⟪कृत्⟫-suffix -⟪तृ⟫
+*   1.3. Stamvormen met hoge graad in de sterke stam
+*   1.4. Stamvormen op -ṛ in samenstellingen
+*   2\. Woordenlijst
+*   2.1. Enkele verwantschapsaanduidingen
+*   3\. Oefening
+*   4\. Vertaal-oefening
 
-## [Lektion 51](lektion51)
+## [Les 43](lektion43)
 
-*   1\. ⟪उपपद⟫-Komposita
-*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten
-    *   2.1. Stämme auf nichtpalatalen Verschlusslaut
-    *   2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
-    *   2.3. Stämme auf -h
-*   3\. Sandhi von anlautendem h-
-*   4\. Sandhi von anlautendem ch-
-*   5\. -ch- im Wortinnern
-*   6\. Wortliste
-*   7\. Übersetzungsübung
+*   1\. Persoonlijke uitgangen van de tweede persoon (⟪मध्यमः⟫ = "midden \<persoon\>")
+*   2\. Vorming van de werkwoordsvormen van de tweede persoon (⟪मध्यमः⟫)
+*   2.1. Thematische stamvormen
+*   2.1.1. Eerste tegenwoordige tijd klasse (⟪भ्वादि⟫)
+*   2.1.2. Zesde tegenwoordige tijd klasse (⟪तुदादि⟫)
+*   2.1.3. Vierde tegenwoordige tijd klasse (⟪दिवादि⟫)
+*   2.1.4. Tiende tegenwoordige tijd klasse (⟪चुरादि⟫) en causativa
+*   2.1.5. Passief
+*   2.1.6. Toekomstige tijd (⟪ऌट्⟫)
+*   2.1.6.1. ⟪अनिट्⟫-vormingen
+*   2.1.6.2. ⟪सेट्⟫-vormingen
+*   3\. Het persoonlijk voornaamwoord van de tweede persoon
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. ⟪संवादः⟫ = Gesprek
 
-## [Lektion 52](lektion52)
+## [Les 44](lektion44)
 
-*   1\. Neutrum der Stämme auf -i und -u
-*   2\. Nominalbildung
-    *   2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-    *   2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-    *   2.3. ⟪तद्धित⟫-Suffix -eya
-*   3\. Adverbialbildung: Adverbialsuffix -śas
-*   4\. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
-    *   4.1. cvi-Bildungen
-    *   4.2. Suffix -sāt
-*   5\. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-*   6\. Das Zahlwort (⟪सम्ख्या⟫ f.)
-    *   6.1. Kardinalzahlen
-        *   6.1.1. Zahladjektive (für 1 bis 19)
-        *   6.1.2. Zahlsubstantive (für 19ff.)
-        *   6.1.3. Syntaktisches zu den Kardinalzahlen
-    *   6.2. Ordinalzahlen
-    *   6.3. Zahladverbien
-    *   6.4. Zahladjektive
-    *   6.5. Komposita mit Kardinalzahlen im Vorderglied
-*   7\. Wortliste
-*   8\. Übersetzungsübung
-*   9\. Aufgaben während der Semesterferien
+*   1.  Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen met een vocaal eindigend suffix
+*   1.1. Vijfde tegenwoordige tijd klasse (⟪स्वादि⟫)
+*   1.2. Achtste tegenwoordige tijd klasse (⟪तनादि⟫)
+*   1.3. Negende tegenwoordige tijd klasse (⟪क्र्यादि⟫)
+*   2\. Over het woord-sandhi
+*   2.1. Over het woord-sandhi voor dh-
+*   2.2. Over het woord-sandhi voor s-
+*   3.  Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix
+*   3.1. Tweede tegenwoordige tijd klasse (⟪अदादि⟫)
+*   4\. De vocatief (⟪आमन्त्रितम्⟫)
+*   5\. Woordenlijst
+*   6\. Oefening
+*   7\. Herhalingsoefening voor de vormleer
 
-## [Lektion 53](lektion53)  (Semesterferien)
+## [Les 45](lektion45)
 
-*   1\. Der Dual (⟪द्विवचन⟫ n.) der Nomina
-*   2\. Dualendungen des Nomen
-*   3\. Der Dual konsonantisch auslautender Stämme
-    *   3.1. Stämme ohne Stammabstufung
-    *   3.2. Stämme mit Stammabstufung
-*   4\. Der Dual vokalisch auslautender Stämme
+*   1\. Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) van athematische stammen zonder vocaal eindigend suffix (vervolg)
+*   1.1. Derde tegenwoordige tijd klasse (⟪जुहोत्यादि⟫)
+*   1.2. Zevende tegenwoordige tijd klasse (⟪रुधादि⟫)
+*   2\. De vocatief enkelvoud (⟪आमन्त्रितमेकवचने⟫)
+*   3\. Woordenlijst
+*   4\. Oefening
+
+## [Les 46](lektion46)
+
+*   1\. Vorming van de werkwoordsvormen voor de 2e persoon (⟪मध्यमः⟫) Perfectum (⟪लिट्⟫)
+*   1.1. Eindigingen
+*   1.2. Klankverandering van de uitgang -dhve
+*   1.3. Perfectum Type I: geen stamafstoting
+*   1.4. Perfectum Type II: sterke stam hoog niveau, zwakke stam laag niveau
+*   1.5. Perfectum Type III: Sterke stam hoog niveau/verlengingsniveau
+*   1.5.1. Perfectum Type IIIa: Sterke stam hoog niveau/verlengingsniveau, zwakke stam laag niveau
+*   1.5.2. Perfectum Type IIIb: Sterke stam hoog niveau/verlengingsniveau, zwakke stam hoog niveau
+*   1.6. Perfectum Type IV: Wortels op -ā / -ai
+>> *   1.7. Perfectum Type V: Medewerker-a-Medewerker
+*   1.7.1. Perfectum Type Va: Medewerker-a-Medewerker, zwakke stam laag niveau
+*   1.7.2. Perfectum Type Vb: Medewerker-a-Medewerker, beginmedewerker geen gutturaal, aspiratie, h, Zwakke stam zonder reduplicatie, met -e-
+*   1.7.3. Perfectum Type Vc: Medewerker-a-Medewerker, zwakke stam hoog niveau
+*   1.8. Bijzondere Perfectum-vormingen
+*   1.9. Perifraastisch Perfectum (⟪अनुप्रयोगलिट्⟫)
+*   2\. Woordenlijst
+*   3\. Oefening
+
+## [Les 47](lektion47)
+
+*   1\. De imperatief (⟪लोट्⟫)
+*   2\. Vorming van de imperatief (⟪लोट्⟫) thematische tegenwoordigstam
+*   2.1. Uitgangen van de imperatief op thematische tegenwoordigstammen
+*   2.2. Eerste tegenwoordige klasse (⟪भ्वादि⟫)
+*   2.3. Zesde tegenwoordige klasse (⟪तुदादि⟫)
+*   2.4. Vierde tegenwoordige klasse (⟪दिवादि⟫)
+*   2.5. Tiende tegenwoordige klasse (⟪चुरादि⟫) en causativa
+*   2.6. Passief
+*   3\. Oefening
+
+## [Les 48](lektion48)
+
+*   1\. ⟪सुभाषितानि⟫
+*   2\. Vorming van de imperatief (⟪लोट्⟫) athematische tegenwoordigstammen
+*   2.1. Uitgangen van de imperatief op athematische tegenwoordigstammen
+*   2.2. Vorm van de tegenwoordigstam
+*   2.3. Tweede tegenwoordige klasse (⟪अदादि⟫)
+*   2.4. Derde tegenwoordige klasse (⟪जुहोत्यादि⟫)
+*   3\. Over de vorming van zelfstandige naamwoorden: ⟪तद्धित⟫-suffixen -a en -ya
+*   4\. Woordenlijst
+*   5\. Oefening
+*   6\. Vertaaloefening
+
+## [Les 49](lektion49)
+
+*   1\. Vorming van de imperatief (⟪लोट्⟫) athematische tegenwoordigstammen (vervolg)
+*   1.1. Zevende tegenwoordige klasse (⟪रुधादि⟫)
+*   1.2. Vijfde tegenwoordige klasse (⟪स्वादि⟫)
+*   1.3. Achtste tegenwoordige klasse (⟪तनादि⟫)
+*   1.4. Negende tegenwoordige klasse (⟪क्र्यादि⟫)
+*   2\. Bogeving van de zelfstandige naamwoordstammen op -as, -is, -us
+*   3\. Vorming van zelfstandige naamwoorden: ⟪कृत्⟫-suffix -as Neutrum
+*   4\. Woordenlijst
+*   5\. Herhalingsoefening voor de vormleer
+*   6\. Vertaaloefening
+
+## [Les 50](lektion47)
+
+*   1\. Vorming van zelfstandige naamwoorden: regelmatige vergrotende trap
+*   2\. Woordenlijst
+*   3\. Vertaaloefening
+
+## [Les 51](lektion51)
+
+*   1\. ⟪उपपद⟫-samenstellingen
+*   2\. Bogeving van de stammen die uitkomen op een eenvoudige medeklinker (behalve neusklank, halfklinker, -s)
+*   2.1. Stammen op niet-palatale stopklank
+*   2.2. Stammen op palatale stopklank (c, ch, j), ś, ṣ
+*   2.3. Stammen op -h
+*   3\. Sandhi van aanvangend h-
+*   4\. Sandhi van aanvangend ch-
+*   5\. -ch- in het woordinterieur
+*   6\. Woordenlijst
+*   7\. Vertaaloefening
+
+## [Les 52](lektion52)
+
+*   1\. Neutrum van de stammen op -i en -u
+*   2\. Nominaalvorming
+*   2.1. PPP + -vant: Participle van het verleden Parasmaipada
+*   2.2. ⟪तद्धित⟫-suffix -maya / -mayī
+*   2.3. ⟪तद्धित⟫-suffix -eya
+*   3\. Adverbiumvorming: adverbieel suffix -śas
+*   4\. Werkwoordcomposieten die uitdrukken dat iets wordt of gemaakt wordt tot wat het voorheen niet was (⟪अभुततद्भावः⟫)
+*   4.1. cvi-vormingen
+*   4.2. Suffix -sāt
+*   5\. Woordherhalingen (⟪द्विरुक्तम्⟫)
+*   6\. Het telwoord (⟪सम्ख्या⟩ v.)
+*   6.1. Kardinalgetallen
+*   6.1.1. Teladjectieven (voor 1 tot en met 19)
+*   6.1.2. Telsubstantieven (voor 19 en hoger)
+*   6.1.3. Syntactisch gebruik van de kardinalgetallen
+*   6.2. Ordinale getallen
+*   6.3. Teladverbiumen
+*   6.4. Teladjectieven
+*   6.5. Composieten met kardinalgetallen in het voorlid
+*   7\. Woordenlijst
+*   8\. Vertaalopgave
+*   9\. Oefeningen tijdens de semestervakanties
+
+## [Les 53](lektion53)  (Semestervakanties)
+
+*   1\. De dualis (⟪द्विवचन⟩ n.) van de nomina
+*   2\. Dualiseinden van het naamwoord
+*   3\. De dualis van medeklinkeruitgaande stammen
+*   3.1. Stammen zonder stamafstoting
+*   3.2. Stammen met stamafstoting
+*   4\. De dualis van klinkeruitgaande stammen
 *   5\. Dualdvandva
-*   6\. Der Dual von Pronomina
-*   7\. Pronominaladjektive
-*   8\. Unregelmässige Steigerung
-*   9\. Deklination der Komparative auf -īyas
-*   10\. Metrik (Lehre von den Versmassen)
-    *   10.1. Bedeutung der Bestimmung des Metrums
-    *   10.2. Arten von Metren
-    *   10.3. Die metrische Quantität von Silben
-    *   10.4. Der epische Śloka (⟪श्लोक⟫ m.)
-*   11\. Übung
+*   6\. De dualis van voornaamwoorden
+*   7\. Pronominaal adjectieven
+*   8\. Onregelmatige vergelijking
+*   9\. Declinatie van de comparativa op -īyas
+*   10\. Metriek (leer van de versmaten)
+*   10.1. Betekenis van de bepaling van het metrum
+*   10.2. Soorten metra
+*   10.3. De metrische kwantiteit van lettergrepen
+*   10.4. De epische Śloka (⟪श्लोक⟩ m.)
+*   11\. Oefening
 
-## [Lektion 54](lektion54)
+## [Les 54](lektion54)
 
-*   1\. Vorbemerkung
-*   2\. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
-*   3\. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
-*   4\. Übung zur Metrik
-*   5\. Bildungstypen des Aorist (⟪लुङ्⟫)
-*   6\. Wurzelaorist
-    *   6.1. Der Aorist der 3.sg.Passiv
-*   7\. Übung
+*   1\. Voorwoord
+*   2\. Woordvorming: ⟪कृत्⟫-suffix -u op desiderativastammen
+*   3\. Metriek II: de epische ⟪त्रिष्टुभ्⟫ en de ⟪जगती⟫
+*   4\. Oefening over metriek
+*   5\. Aorist-vormingstypen (⟪लुङ्⟫)
+*   6\. Wortel-aorist
+*   6.1. De aorist van de 3.sg.passief
+*   7\. Oefening
 
-## [Lektion 55](lektion55)
+## [Les 55](lektion55)
 
-*   1\. Der a-Aorist (Aorist mit Themavokal)
-*   2\. Übung
+*   1\. De a-aorist (aorist met themavocaal)
+*   2\. Oefening
 
-## [Lektion 56](lektion56)
+## [Les 56](lektion56)
 
-*   1\. Der reduplizierte Aorist
-    *   1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-*   2\. Der Injunktiv
-*   3\. Der Verbotssatz
+*   1\. De reduplicatieve aorist
+*   1.1. Vorming van de aorist van causativa en wortels van de tiende presentieklassse
+*   2\. De injunctief
+*   3\. Het verbodszin
 *   4\. ⟪स्म⟫
-*   5\. Übung
+*   5\. Oefening
 
-## [Lektion 57](lektion57)
+## [Les 57](lektion57)
 
-*   1\. Aorist 4: s-Aorist
-*   2\. Übung
+*   1\. Aorist 4: s-aorist
+*   2\. Oefening
 
-## [Lektion 58](lektion58)
+## [Les 58](lektion58)
 
-*   1\. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-*   3\. Der Dual des einfachen Futurs (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫
-    *   3.2. ⟪सेट्⟫
-*   4\. Der Dual Passiv (Suffix -⟪यक्⟫)
-*   5\. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   6\. Aorist 5: iṣ-Aorist
-*   7\. Übung
+*   1\. De primaire uitgangen van de dualis (⟪द्विवचनम्⟫)
+*   2\. De dualis van thematische presentieklassen: indicativus praesens (⟪लट्⟫)
+*   2.1. Eerste presentieklassse (⟪भ्वादिगणः⟫)
+*   2.2. Vierde presentieklassse (⟪दिवादिगणः⟫)
+*   2.3. Zesde presentieklassse (⟪तुदादिगणः⟫)
+*   2.4. Tiende presentieklassse (⟪चुरादिगणः⟫) en causativa (⟪णिजन्त⟫)
+*   3\. De dualis van de eenvoudige future (⟪ऌत्⟫)
+*   3.1. ⟪अनिट्⟫
+*   3.2. ⟪सेट्⟫
+*   4\. De dualis passief (suffix -⟪यक्⟫)
+*   5\. De dualis van athematische presentieklassen: indicativus praesens (⟪लट्⟫)
+*   5.1. Tweede presentieklassse (⟪अदादिगणः⟫)
+*   5.2. Derde presentieklassse (⟪जुहोत्यादिगणः⟫)
+*   5.3. Vijfde presentieklassse (⟪स्वादिगणः⟫)
+*   5.4. Achtste presentieklassse (⟪तनादिगणः⟫)
+*   5.5. Zevende presentieklassse (⟪रुधादिगणः⟫)
+*   5.6. Negende presentieklassse (⟪क्र्यादिगणः⟫)
+*   6\. Aorist 5: iṣ-aorist
+*   7\. Oefening
 
-## [Lektion 59](lektion59)
+## [Les 59](lektion59)
 
-*   1\. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Der Passiv (Suffix -⟪यक्⟫)
-*   3\. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   4\. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   4.1. Wurzelaorist
-    *   4.2. a-Aorist
-    *   4.3. Reduplizierter Aorist
-    *   4.4. s-Aorist
-    *   4.5. iṣ-Aorist
-*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
-*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
-*   7\. Übung
+*   1\. De secundaire uitgangen en imperatiefuitgangen van de dualis (⟪द्विवचनम्⟫)
+*   2\. De dualis van thematische presentieklassen: optatief (⟪विधिलिङ्⟫), imperfectum (⟪लङ्⟫), imperatief (⟪लोट्⟫)
+*   2.1. Eerste presentieklassse (⟪भ्वादिगणः⟫)
+*   2.2. Vierde presentieklassse (⟪दिवादिगणः⟫)
+*   2.3. Zesde presentieklassse (⟪तुदादिगणः⟫)
+*   2.4. Tiende presentieklassse (⟪चुरादिगणः⟫) en causativa (⟪णिजन्त⟫)
+*   2.5. Het passief (suffix -⟪यक्⟫)
+*   3\. De dualis van athematische presentieklassen: optatief (⟪विधिलिङ्⟫), imperfectum (⟪लङ्⟫), imperatief (⟪लोट्⟫)
+*   3.1. Tweede presentieklassse (⟪अदादिगणः⟫)
+*   3.2. Derde presentieklassse (⟪जुहोत्यादिगणः⟫)
+*   3.3. Vijfde presentieklassse (⟪स्वादिगणः⟫)
+*   3.4. Achtste presentieklassse (⟪तनादिगणः⟫)
+*   3.5. Zevende presentieklassse (⟪रुधादिगणः⟫)
+*   3.6. Negende presentieklassse (⟪क्र्यादिगणः⟫)
+*   4\. Dualis (⟪द्विवचनम्⟫) aoristus (⟪लुङ्⟫)
+*   4.1. Wortelaoristus
+*   4.2. a-aoristus
+*   4.3. Geredupliceerde aoristus
+*   4.4. s-aoristus
+*   4.5. iṣ-aoristus
+*   5\. Aoristus (⟪लुङ्⟫) 6: siṣ-aoristus (alleen P)
+*   6\. Aoristus (⟪लुङ्⟫) 7: sa-aoristus (thematische s-aoristus)
+*   7\. Oefening
 
-## [Lektion 60](lektion60)
+## [Les 60](lektion60)
 
-*   1\. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Typ 1: keine Stammabstufung
-    *   2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Typ 4: Wurzeln auf -ā / -ai
-    *   2.5. Typ 5: Konsonant-a-Konsonant
-        *   2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-*   3\. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-*   5\. Deklination der Stämme auf -añc (-ac)
-    *   5.1. Dreistämmige Stämme auf -añc
-    *   5.2. Zweistämmige Stämme auf -añc
-*   6\. Das Desiderativum (⟪सन्⟫)
-    *   6.1. Bildung des Desiderativstammes
-    *   6.2. Konjugation des Desiderativs (⟪सन्⟫)
-*   7\. Übung
+*   1\. De perfectumuitgangen van de dualis (⟪द्विवचनम्⟫)
+*   2\. De dualis van het geredupliceerde perfectum (⟪द्वित्वलिट्⟫)
+*   2.1. Type 1: geen stamafleiding
+*   2.2. Type 2: sterke stam hoogste trap, zwakke stam diepste trap
+*   2.3. Type 3: Sterke stam hoogste trap/verlengde trap
+*   2.3.1. Type 3a: Sterke stam hoogste trap/verlengde trap, zwakke stam diepste trap
+*   2.3.2. Type 3b: Sterke stam hoogste trap/verlengde trap, zwakke stam hoogste trap
+*   2.4. Type 4: Wortels op -ā / -ai
+*   2.5. Type 5: Medeklinker-a-medeklinker
+*   2.5.1. Type 5a: Medeklinker-a-medeklinker, zwakke stam diepste trap
+*   2.5.2. Type 5b: Medeklinker-a-medeklinker, beginmedeklinker geen gutturaal, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
+*   2.5.3. Type 5c: Medeklinker-a-medeklinker, zwakke stam hoogste trap
+*   3\. De dualis van het perifrastische perfectum (⟪अनुप्रयोगलिट्⟫)
+*   4\. Het participium ⟪परस्मैपद⟫ van het geredupliceerde perfectum (⟪द्वित्वलिट्⟫)
+*   5\. Declinatie van de stammen op -añc (-ac)
+*   5.1. Drie-stammige stammen op -añc
+*   5.2. Twee-stammige stammen op -añc
+*   6\. Het desiderativum (⟪सन्⟫)
+*   6.1. Vorming van de desiderativumstam
+*   6.2. Conjugatie van het desiderativum (⟪सन्⟫)
+*   7\. Oefening
 
-## [Lektion 61](lektion61)
+## [Les 61](lektion61)
 
-*   1\. Deklination der Wurzelnomina auf -ā, -ī, -ū
-    *   1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
-    *   1.2. Feminine Wurzelnomina auf -ī
-    *   1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
-    *   1.4. Einsilbige, feminine Wurzelnomina auf -ū
-    *   1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
-    *   1.6. Deklination mehrsilbiger Feminina auf -ū
-*   2\. Das periphrastische Futur (⟪लुट्⟫)
-*   3\. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
-    *   3.1. Ātmanepada-Intensivum
-    *   3.2. Parasmaipada-Intensivum
+*   1\. Deklinatie van de wortelnomina op -ā, -ī, -ū
+*   1.1. Wortelnomina op -ā aan het einde van ⟪तत्पुरुष⟫
+*   1.2. Vrouwelijke wortelnomina op -ī
+*   1.3. Wortelnomina op -ī aan het einde van ⟪तत्पुरुष⟫
+*   1.4. Eencilvige, vrouwelijke wortelnomina op -ū
+*   1.5. Wortelnomina op -ū aan het einde van ⟪तत्पुरुष⟫
+*   1.6. Deklinatie van meercellige vrouwelijke vormen op -ū
+*   2\. Het perifrastische futurum (⟪लुट्⟫)
+*   3\. Het intensiefum (frequentativum) (⟪चर्करीतम्⟫)
+*   3.1. Ātmanepada-intensiefum
+*   3.2. Parasmaipada-intensiefum
 *   4\. Denominativa (⟪नामधातु⟫)
-    *   4.1. Bildung ohne besonderes Suffix, Parasmaipada
-    *   4.2. Bildung mit Suffix -ya, Parasmaipada
-    *   4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
-    *   4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
-    *   4.5. Bildung mit dem Suffix -ya, Ātmanepada
-    *   4.6. Bildung mit dem Suffix -aya, -āpaya
-*   5\. Der Benediktiv (⟪आशीर्लिङ्⟫)
-*   6\. Der Konditionalis (⟪ऌङ्⟫)
-*   7\. Deklination der Nomina auf -ai, -o, -au
-*   8\. Restliche Pronomina
-    *   8.1. Personalpronomen des Dual
-    *   8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
-*   9\. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   4.1. Vorming zonder bijzonder suffix, Parasmaipada
+*   4.2. Vorming met suffix -ya, Parasmaipada
+*   4.3. Vorming met het suffix -kāmya, Parasmaipada
+*   4.4. Vorming met het suffix -sya of -asya, Parasmaipada
+*   4.5. Vorming met het suffix -ya, Ātmanepada
+*   4.6. Vorming met het suffix -aya, -āpaya
+*   5\. Het benedictivum (⟪आशीर्लिङ्⟫)
+*   6\. Het conditionalis (⟪ऌङ्⟫)
+*   7\. Deklinatie van de nomina op -ai, -o, -au
+*   8\. Overige pronomina
+*   8.1. Persoonlijke voornaamwoorden van de dualis
+*   8.2. Demonstratieve voornaamwoorden ⟪अदस्⟫ "die (ver verwijderd)"
+*   9\. Ontslag in de oceaan van de Sanskritliteratuur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-ENDE DES SANSKRITKURSES
+EINDE VAN DE SANSKRITCURSUS
 

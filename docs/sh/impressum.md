@@ -1,35 +1,35 @@
 ---
 layout: doc
-title: Impressum & Zitieren
+title: "Impresum i citiranje"
+
 ---
 
 # Impressum, Copyright & Zitierweise
 
-*Der folgende Text wurde bei der Konvertierung aus den Lektions-Dateien ausgelagert, um den Lesefluss zu verbessern.*
+>> *The following text was extracted during the conversion from the lecture files to improve the reading flow.*
 
 ## Zitierweise | cite as:
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
+>> **Payer, Alois \<1944 - \>:** Sanskrit Course. -- Version of 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Anlass
-Erstellt für die Lehrveranstaltungen 1980 - 1984
+>> Created for the lectures 1980 - 1984
 
 ## Copyright
-Dieser Text steht der Allgemeinheit zur Verfügung. 
-Eine Verwertung in Publikationen, die über übliche Zitate hinausgeht, bedarf der ausdrücklichen Genehmigung des Verfassers.
+>> This text is available to the general public.
+>> Any use in publications that goes beyond standard citations requires the explicit permission of the author.
 
-Dieser Text ist Teil der Abteilung Sanskrit von **Tüpfli's Global Village Library**.
+>> This text is part of the Sanskrit department of **Tüpfli's Global Village Library**.
 
 ---
 
 ## Lizenz dieser Publikation
 
-**Originaltext** (deutsche Lektionen): © Alois Payer. Der Text steht der Allgemeinheit zur Verfügung; eine Verwertung in Publikationen bedarf der ausdrücklichen Genehmigung des Verfassers.
+>> **Original text** (German lectures): © Alois Payer. The text is available to the general public; any use in publications requires the explicit permission of the author.
 
-**KI-generierte Übersetzungen** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) und **technische Pipeline** (Skripte, QA-Viewer, VitePress-Konfiguration):
+>> **AI-generated translations** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) and **technical pipeline** (scripts, QA-Viewer, VitePress configuration):
 
-- Übersetzungen: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
-- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
+Übersetzungen: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Namensnennung, Weitergabe unter gleichen Bedingungen
+Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Zitierweise für die Übersetzungen:**
 > Payer, Alois: Sanskritkurs. Übersetzt mit KI-Unterstützung. Marco Demarmels (Hrsg. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.org)), 2026. URL: https://payer.birchville.org — CC BY-SA 4.0
-

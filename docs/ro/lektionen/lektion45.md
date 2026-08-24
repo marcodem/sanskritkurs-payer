@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | ⟪जुहुषे⟫ | ⟪जुहुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | ⟪अजुहुथास्⟫ | ⟪अजुहुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
 :::
 ⟪धा⟫ 2U
 
@@ -104,7 +104,7 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercitiu
 
-A) Traduceți în sanscrită (pentru formele de trecut, vă rugăm să utilizați imperfectul \<⟪लङ्⟫\>):
+A) Traduceți în sanscrită (pentru formele de trecut, vă rugăm să utilizați imperfectul ⟪लङ्⟫):
 
 1\. Tu divizezi comunitatea (buddhistă).
 

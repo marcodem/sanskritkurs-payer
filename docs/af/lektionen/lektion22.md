@@ -1,196 +1,193 @@
 ---
-title: Lektion 22
-subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: "Lesing 22"
+subtitle: "Die Absolutivkonstruktion (⟪क्त्वा । ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 22
+---# Les 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-
-::: grammar-box
-
-Will man in Sanskrit ausdrücken, dass eine Handlung des Agens (⟪कर्तृ⟫) einer anderen Handlung des Agens vorausgeht oder mit ihr als begleitender Umstand einhergeht, verwendet man das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Also
-
-"nachdem er das getan hat, tut er jenes" ; "er tut das, dann tut er jenes" ; "als Folge von diesem tut er jenes" ; "ich kam, sah und siegte" u. ä.
-
-Das Absolutivum ist ein Verbal-Adverb, d.h. es ist weder konjugierbar noch deklinierbar, es hat aber immer - von wenigen Ausnahmen abgesehen - denselben Agens (⟪कर्तृ⟫) wie die Handlung, der die durch das Absolutiv bezeichnete Handlung vorausgeht bzw. die es begleitet. Der Agens des Absolutiv steht also im Nominativ (⟪प्रथमा⟫)  oder Instrumentalis (⟪तृतीया⟫).
-
-Neben den Komposita ist das Absolutiv eines der häufigsten Ausdrucksmittel im Sanskrit.
-
-Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man verwende statt dessen die im Deutschen gebräuchlichen Ausdrucksweisen für zeitliche Anreihung.
-
-**Schema:**
-
-(nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
-
-:::
-**Beispiele:**
-
-::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passivkonstruktion: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"Der Mann betritt das Haus, sieht das kleine Mädchen und spricht es an."
-
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
-:::
-## 22.2. Bildung des Absolutivums
-
-::: grammar-box
-**Bildung des Absolutivums**
-
-*   Verben ohne Präverb: Absolutiv auf **-tvā**
-*   Verben mit Präverb: Absolutiv auf **-ya** bzw. **-tya**
-:::
-### 22.2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
+## 22.1. Die absolutiwus (⟪क्त्वा । ल्यप्⟫)
 
 ::: grammar-box
 
-**Bildung:**
+As mens in Sanskrit wil uitdruk dat 'n handeling deur die agent (⟪कर्तृ⟫) 'n ander handeling van die agent voorafgaan of dit as 'n vergeselende omstandigheid vergesel, gebruik mens die absolutief (⟪क्त्वा । ल्यप्⟫). Byvoorbeeld:
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
+'nadat hy dit gedoen het, doen hy dit'; 'hy doen dit, dan doen hy dit'; 'as gevolg daarvan, doen hy dit'; 'ek het gekom, ek het gesien, ek het oorwin' en so aan.
 
-Nur das verneinende **a-** / **an-** verträgt sich mit dem Suffix **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "ohne getan zu haben"
+Die absolutief is 'n werkwoordlike byvoegsel, d.w.s. dit is nie konjugeerbaar of deklinabel nie, maar – met 'n paar uitsonderings – dit het altyd dieselfde agent (⟪कर्तृ⟫) as die handeling wat die deur die absolutief aangeduide handeling voorafgaan of vergesel. Die agent van die absolutief is dus in die nominatief (⟪प्रथमा⟫) of instrumentaal (⟪तृतीया⟫).
+
+Saam met samestelde woorde is die absolutief een van die mees algemene uitdrukkingsmiddels in Sanskrit.
+
+Wanneer daar in Duits vertaal word, moet mens vermy om voortdurend 'nachdem' ('nadat') te gebruik. In plaas daarvan moet mens die uitdrukkings gebruik wat in die Duits gebruiklik is vir tydsvolgorde.
+
+**Skema:**
+
+(verdergaande spesifikasie rakende die absolutief: omstandigheidsaanvulling, voorwerp, ens.) – absolutief – absolutief – ... – absolutief – ... handelende onderwerp + werkwoordklousule (in die aktiewe of passiewe stem)
 
 :::
-**Beispiele:**
+**Voorbeelde:**
 
 ::: indent
-⟪आप्त्वा⟫ "nachdem er / sie / es / ich / du / wir / ihr / sie / wir beide / ihr beide / sie beide erreicht hat / hatte / haben / hatten"
+**⟪गृहं प्रविश्य बालां दृष्ट्वा नरो वदति⟫** = Passiewe konstruksie: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरेणोद्यते⟫**  
+"Die man gaan die huis binne, sien die dogtertjie en praat met haar."
 
-⟪आसित्वा⟫ "nachdem er (...) gesessen war / ist"
-
-⟪इत्वा⟫ "nachdem er (...) gegangen war / ist"
-
-⟪स्थित्वा⟫ "nachdem er (...) gestanden war / ist"
-
-⟪जित्वा⟫ "nachdem er (...) gesiegt hat / hatte"
-
-⟪उक्त्वा⟫ "nachdem er (...) gesprochen hat / hatte"
+Meervoud: **⟪गृहं प्रविश्य बालां दृष्ट्वा नरा वदन्ति ।⟫**
 :::
-### 22.2.2. Verben mit Präverb
+## 22.2. Vorming van die absolutief
 
-#### 22.2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
+::: grammar-box
+**Vorming van die absolutief**
+
+*   Werwe sonder 'n prefiks: absolutiewe agtervoegsel in **-tvā**
+*   Werwe met 'n voorvoegsel: absolutief-uitgang **-ya** of **-tya**
+:::
+### 22.2.1. Werwe sonder 'n prefiks: die absolutief eindig in -⟪त्वा⟫
 
 ::: grammar-box
 
-**(meist) tiefstufige Wurzel + -ya**
+**Vorming:**
+
+(gewoonlik) die laagste-vlak-wortel in die vorm wat dit aanneem voor die PPP + **-tvā** (**-⟪त्वा⟫**)
+
+Slegs die negatiewe **a-** / **an-** is versoenbaar met die agtervoegsel **-⟪त्वा⟫**: ⟪अकृत्वा⟫ "sonder om gedoen te hê"
 
 :::
-**Beispiele:**
+**Voorbeelde:**
 
 ::: indent
-⟪उपनीय⟫ "nachdem er (...) herangeführt hat / hatte"
+⟪आप्त्वा⟫ "nadat hy / sy / dit / ek / jy / ons / hulle / ons albei / julle albei / hulle albei bereik het / bereik het gehad"
 
-⟪प्रभूय⟫ "nachdem er (...) herausgeragt ist / war" "nachdem er (...) Macht hatte"
+⟪आसित्वा⟫ "nadat hy gesit het (...)"
 
-⟪प्राप्य⟫ "nachdem er (...) erlangt hat / hatte"
+⟪इत्वा⟫ "nadat hy gegaan het (...)"
+
+⟪स्थित्वा⟫ "nadat hy gestaan het (...)"
+
+⟪जित्वा⟫ "nadat hy gewen het (...)"
+
+⟪उक्त्वा⟫ "nadat hy gepraat het (...)"
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+### 22.2.2. Werwe met 'n voorwerf
+
+#### 22.2.2.1. Wortels wat eindig in 'n lang vokaal (behalwe -ā) of 'n medeklinker
 
 ::: grammar-box
 
-**unverändert hochstufige Wurzel + -ya**
+**(gewoonlik) swak-graadwortel + -ya**
 
 :::
-**Beispiel:**
+**Voorbeelde:**
 
 ::: indent
-⟪उपस्थाय⟫ "nachdem er (...) hingetreten war / ist" ; (aber ohne Präverb: ⟪स्थित्वा⟫)
+⟪उपनीय⟫ "nadat hy (...) vorentoe gebring het"
+
+⟪प्रभूय⟫ "nadat hy uitgestaan het / uitgestaan het" "nadat hy mag gehad het / mag gehad het"
+
+⟪प्राप्य⟫ "nadat hy (...) bereik het"
 :::
-#### 22.2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
+#### 22.2.2.2. Wortels wat in -ā eindig
 
 ::: grammar-box
 
-**tiefstufige Wurzel + -tya**
+**ongeveranderd hoë-graadwortel + -ya**
 
 :::
-**Beispiele:**
+**Voorbeeld:**
 
 ::: indent
-⟪प्रस्तुत्य⟫ "nachdem er (...) laut gepriesen hat / hatte"
-
-⟪विस्मृत्य⟫ "nachdem er (...) vergessen hat / hatte"
-
-⟪संस्कृत्य⟫ "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+⟪उपस्थाय⟫ "nadat hy vorentoe gestap het" ; (maar sonder 'n voorsetsel: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.3. Wortels wat in die lae graadvorm eindig met 'n kort -i, -u of -ṛ
+::: grammar-box
+
+**laagste-vlak wortel + -tya**
+
+:::
+**Voorbeelde:**
+
+::: indent
+⟪प्रस्तुत्य⟫ "nadat hy (...) hardop geprys het"
+⟪विस्मृत्य⟫ "nadat hy (...) vergeet het"
+
+⟪संस्कृत्य⟫ "nadat hy (...) vir die offer voorberei het"
+:::
+#### 22.2.2.4. Wortels wat in -am / -an eindig, wat in die lae-graadvorm in -a eindig
 
 ::: grammar-box
 
-**Optionell:**
+**Opsioneel:**
 
-Wurzel auf **-am** / **-an** + **-ya**
+Wortel wat in **-am** / **-an** + **-ya**
 
-oder:
+of:
 
-Wurzel auf **-a** + **-tya**
+wortel wat op **-a** eindig + **-tya**
 
 :::
-**Beispiel:**
+**Voorbeeld:**
 
 ::: indent
-⟪विगम्य⟫ oder ⟪विगत्य⟫ "nachdem er (...) vergangen ist / war"
+⟪विगम्य⟫ of ⟪विगत्य⟫ "nadat hy oorlede is / was"
 :::
-## 22.3. Wortliste
+## 22.3. Woordelys
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+**⟪काम⟫ m.:** begeerte, verlange; 'n verlangde geskenk, sensuele plesier, liefde, liefdesgod
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪कामम्⟫ Akk. adverbiaal: soos mens wil, na hartelust
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Figuurlik: ⟪कामदेवः⟫
+19de eeu
+(Beeldbron: [Details](/af/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP ⟪शक्त⟫ Inf. ⟪शक्तुम्⟫ :** in staat wees, kan
 
-davon:
+waarvan:
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
+**⟪शक्ति⟫ v.:** vermoë, kapasiteit, vaardigheid, krag; ook: goddelike krag, gepersonifiseer as 'n vroulike metgesel, veral van ⟪शिव⟫
 
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
+**⟪शक्र⟫ m.:** die Magtige Een (bynaam van ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+Fig.: ⟪दुर्गाशक्तिः⟫
+Kolkata = কলকাতা
+(Beeldbron: [Besonderhede](/af/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** verdien (waard van iets wees), mag, is verplig om, behoort te (in die tweede persoon, ⟪अर्ह्⟫ + infinitief word dikwels as 'n sagte bevel gebruik: 'Jy behoort te')
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** deelwoord, teenwoordige tyd: 'n waardige een. In Boeddhisme en Jainisme: een wat finale verlossing bereik het
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** gelofte, godsdienstige plig, godsdienstige handeling (mens belowe iets aan die godheid om iets daarvan te ontvang). Voorbeeld: 'n moeder belowe om haar dogter as 'n tempelprostituut (⟪देवदासी⟫) aan te bied as haar dogter herstel. Belangrike ⟪व्रत⟫ vandag: vas; onthouding van kos wat mens liefhet; seksuele onthouding; lees van heilige tekste; uitvoering van sekere rituele; voer Brahmins, ens. Kortliks oor die ⟪व्रत⟫: Walker, *Hindu World*, Deel II, bl. 581 vv. Vir 'n gedetailleerde uiteensetting: P. V. Kane: *History of Dharmaśāstra*, Deel 5,1, bl. 1–462. Daar, bl. 253–462: 'n lys van ⟪व्रत⟫ en godsdienstige feeste ("die volgende lys … maak nie aanspraak daarop om deeglik uitputtend te wees nie"!!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
+**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1ste persoon ⟪चरति⟫ passief ⟪चर्यते⟫ voltooide deelwoord ⟪चरित⟫ Infinitief ⟪चरितुम्⟫) :** om te wei, om rond te loop, om aktief te wees, om te beweeg, om op te tree, om iets te beoefen, om uit te voer (bv. **⟪व्रतं चर्⟫**: om 'n gelofte te beoefen, veral seksuele onthouding)
 
-davon:
+waarvan:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** mobiel; n.: dit wat beweeg = diere (onderskeidelik van plante)
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ n., m.:** voet
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ n.:** lewenswyse, dade in die lewe
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ n.:** Die beoefening van die Veda (⟪ब्रह्मन्⟫) = die studie van die Veda in die eerste lewensstadium (dit van ⟪ब्रह्मचारिन्⟫), wat streng seksuele onthouding vereis; daarom ook: seksuele onthouding, 'n selibatair leefwyse
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+(Beeldbron: [Besonderhede](/af/licenses#lekt2201))
 :::
-## 22.4. Übung
+## 22.4. Oefening
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
+**A) Vorm en vertaal die absolutiwum vir die volgende werkwoorde:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -200,7 +197,7 @@ Goa = ⟪गोंय⟫
 6.  ⟪संस्कृ⟫
 7.  ⟪कृ⟫
 8.  ⟪गम्⟫
-9.  ⟪उपगम्⟫ (2 Formen)
+9.  ⟪उपगम्⟫ (2 vorme)
 10.  ⟪जि⟫
 11.  ⟪विजि⟫
 12.  ⟪तन्⟫
@@ -209,7 +206,7 @@ Goa = ⟪गोंय⟫
 15.  ⟪नी⟫
 16.  ⟪पच्⟫
 17.  ⟪उपपद्⟫
-18.  ⟪पा⟫ ⟪१⟫
+18.  ⟪पा १⟫
 19.  ⟪प्रच्छ्⟫
 20.  ⟪बुध्⟫
 21.  ⟪सम्बुध्⟫
@@ -229,33 +226,14 @@ Goa = ⟪गोंय⟫
 35.  ⟪प्रवद्⟫
 36.  ⟪हन्⟫
 
-**B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:**
+**B) Vertaal en ontleed die samestelde woorde in Sanskrit:**
 
-⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदासो⟫ ⟪ऽत्ति⟫ ⟪॥१॥⟫
+⟪अन्नं पक्त्वा ब्राह्मणदासो ऽत्ति ॥१॥ इष्टदेवतापूजां कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः स्तुवन्ति ॥२॥ प्रस्थाय रामः सपुत्रः सद्गुरुश्रवणार्थेन ब्राह्मणग्रामं गच्छति ॥३॥ अनिष्ट्वा नरो भगवद्भक्तिमात्रेणापि मोक्षमाप्नोति ॥४॥ गृहगर्भं प्रविश्य ब्राह्मणपुत्रमुपस्थाय क्षत्रियशूरो वक्ति ॥५॥ सम्बुध्य दुःखाद्यार्यसत्यानि प्रोच्य सुगतो मोक्षमार्गेण नरान्नयति ॥६॥ मन्त्रं विस्मृत्य यजन्यज्ञदोषं करोति ॥७॥ धनं प्राप्य बुद्धमार्गभिक्षवो दुष्यन्ति ॥८॥ अनार्यशत्रुभिः संगत्य नरसिंहा विजयन्ते ॥९॥ पुण्यं कृत्वा सत्यमेवोदित्वा नरो नरकं नोपपद्यते ॥१०॥⟫
 
-⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫
-
-⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫
-
-⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫
-
-⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫
-
-⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫
-
-⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫
-
-⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫
-
-⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫
-
-⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫
-
-**C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen**
+**C) Verander die bogenoemde sinne (behalwe sinne 8 en 10) in passiewe konstruksies**
 
 ::: media
 ![](/images/lekt2204.webp)
-Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Bildquelle: [Details](/licenses#lekt2204))
+Fig.: ⟪अन्नं पक्त्वा⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt2204))
 :::
-

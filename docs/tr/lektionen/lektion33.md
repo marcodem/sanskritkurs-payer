@@ -100,9 +100,9 @@ Reduplicasyon hecesi bir ünsüz ve (bir) ünlüden oluşur.
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-**Şimdiki zaman bildirme kipi** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-**İmperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-**Optatif** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+**Şimdiki zaman bildirme kipi** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+**İmperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
+**Optatif** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
 ## 33.3. ā'nın ablautu hakkında
 

@@ -1,5 +1,5 @@
 ---
-title: Lektion 15
+title: Lição 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
@@ -42,7 +42,7 @@ p. ex.
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > etc.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
+O género de um Tatpuruṣa é - com poucas exceções - o do seu elemento posterior.
 
 :::
 ## 15.3. Compostos determinativos com membro anterior atributivo / apositivo = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -71,7 +71,7 @@ Fig.: ⟪लक्ष्मी⟫
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
+No que diz respeito à sequência dos elementos num Karmadhāraya, deve observar-se a seguinte regra especial:
 
 *   se um Karmadhāraya expressa uma COMPARAÇÃO, então aquilo com que se compara fica no membro posterior do composto:
 

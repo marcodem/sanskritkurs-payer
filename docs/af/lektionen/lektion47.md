@@ -1,141 +1,140 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: "Lesing 47"
+subtitle: "Die Imperatief (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 47
+---# Les 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. Die imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-Der Imperativ (⟪लोट्⟫) bezeichnet
+Die imperatief (⟪लोट्⟫) dui op
 
-*   **Befehl** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt)
-*   **Vorschrift**
-*   **Forderung**
-*   **Wunsch**
-*   **Bitte**
-*   **Einladung**
-*   **Überlegung**
-*   **Frage**
+*   **'n bevel** (ook uitgedruk deur die gerundief (⟪कृत्य⟫))
+*   **Voorskrif**
+*   **Eis**
+*   **Wens**
+*   **Versoek**
+*   **Uitnodiging**
+*   **Oorweging**
+*   **Vraag**
 
-Die genannten Bedeutungen hat er mit dem Optativ (⟪विधिलिङ्⟫) gemeinsam.
+Dit deel hierdie betekenisse met die optatief (⟪विधिलिङ्⟫).
 
-Mit dem Imperativ drückt man auch aus:
+Die imperatief word ook gebruik om uit te druk:
 
-*   **Erlaubnis**
-*   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt)
-*   **Segenswunsch**
+*   **toestemming**
+*   **dat 'n aksie betyds is** (ook uitgedruk deur die gerundief (⟪कृत्य⟫))
+*   **'n seën**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: indent
-⟪एहि⟫ ⟪।⟫ "Komm!"
+⟪एहि ।⟫ "Kom!"
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ oder Optativ : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Kommen Sie zum Dorf!"
+⟪ग्रामं भवानागच्छतु ।⟫ of optatief: ⟪ग्रामं भवानगच्छेत् ।⟫ "Kom na die dorp toe!"
 
-⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪वेदमधीयीय⟫ ⟪।⟫ "Ich möchte den Veda studieren."
+⟪वेदमध्ययै ।⟫ of optatief: ⟪वेदमधीयीय ।⟫ "Ek wil graag die Veda's bestudeer."
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ oder Optativ:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Ich wünsche, sie mögen essen."
+⟪इच्छामि भुङ्क्तां भवान् ।⟫ of optatief:  ⟪इच्छामि भुञ्जीत भवान् ।⟫ "Ek wens hulle sou eet."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Sollte ich den Veda studieren?"
+⟪किं वेदमध्ययै ।⟫ of die optatief: ⟪किं वेदमधीयीय ।⟫ "Moet ek die Veda's bestudeer?"
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ oder Gerundiv: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Machen Sie ein Messer!" ; "Sie dürfen ein Messer machen." ; "Es ist an der Zeit, dass Sie ein Messer machen."
+⟪करोतु शस्त्रं भवान् ।⟫ of gerundief: ⟪भवता शस्त्रं कर्तव्यम् ।⟫ "Maak 'n mes!"; "Jy mag 'n mes maak." ; "Dit is tyd dat jy 'n mes maak."
 
-⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!"
+⟪चिरं जीवतु भवान् ।⟫ "Mag jy lank lewe!"
 :::
 ::: grammar-box
-Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt.
+Hoflike opdragte word dikwels uitgedruk met die passiewe imperatief.
 :::
-Beispiele:
+Voorbeelde:
 
 ::: indent
-⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!"
+⟪भवता प्रविश्यताम् ।⟫ "**Kom asseblief** in!"
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!"
+⟪निषद्यताम् ।⟫ "Asseblief, neem asseblief 'n sitplek in!"
 :::
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!"
+In die imperatief van Klassieke Sanskrit word die eerste-persoonvorme afgelei van die subjunktief. Die Vediese subjunktief is hoofsaaklik die stemming wat gebruik word om 'n wens uit te druk: "Ons wil gaan!" "Laat ons gaan!"
 
 ::: grammar-box
-Der Imperativ wird vom Präsensstamm gebildet.
+Die Imperativvorm word van die teenwoordige stam gevorm.
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
+## 47.2. Vorming van die Imperatief (⟪लोट्⟫) tematiese teenwoordige stamme
 
-### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen
+### 47.2.1. Eindigings van die Imperatief op tematiese teenwoordige stamme
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Endungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| :---: | :---: | :---: | :---: |
+| **Eindigings** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Eerste persoon** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **Tweede persoon** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **Derde persoon** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll:
+Aanm.: ¹ Die eindigings van die tweede en derde enkelvoud kan vervang word deur -tāt, wanneer 'n seënswens uitgedruk moet word:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!"
+⟪भद्रो भवतात्⟫ "Mag jy gelukkig wees!" "Hy mag gelukkig wees!"
 
-⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!"
+⟪शुभं भवतु⟫ of ⟪शुभं भवतात्⟫ "Mag dit goed wees!" "Alle goeds!"
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
+### 47.2.2. Eerste teenwoordige klas (⟪भ्वादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | ⟪भवै⟫ | ⟪भवामहै⟫ |
+| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | ⟪भवस्व⟫ | ⟪भवध्वम्⟫ |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | ⟪भ्वताम्⟫ | ⟪भवन्ताम्⟫ |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. Sesde teenwoordige klas (⟪तुदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | ⟪विशै⟫:br(viś-a + ai) | ⟪विशामहै⟫ |
+| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | ⟪विशस्व⟫ | ⟪विशध्वम्⟫ |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | ⟪विशताम्⟫ | ⟪विशन्ताम्⟫ |
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
-Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/licenses#lekt4702))
+Fig.: ⟪प्रविशत⟫
+Hanuman-temple, Delhi = ⟪हनुमान् मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
+(Beeldbron: [Details](/af/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. Vierde teenwoordige klas (⟪दिवादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+| **⟪नृत्⟫ 4V** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. persoon** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | ⟪नृत्यै⟫ | ⟪नृत्यामहै⟫ |
+| **2. persoon** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | ⟪नृत्यस्व⟫ | ⟪नृत्यध्वम्⟫ |
+| **3. persoon** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्यन्ताम्⟫ |
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/licenses#lekt4701))
+Fig.: ⟪नृत्यत⟫
+(Beeldbron: [Details](/af/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
+### 47.2.5. Tienste teenwoordige klas (⟪चुरादि⟫) en kausatiw
 
-⟪चुर्⟫ 10U
+⟪चुर्⟫ 10O
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
+| **1. persoon** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. persoon** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. persoon** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv
+### 47.2.6. Passief
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -143,113 +142,96 @@ Abb.: ⟪नृत्यत⟫
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| **1. persoon** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. persoon** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. persoon** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
+## 47.3. Oefening
 
-A) Übersetzen Sie:
+A) Vertaal:
 
-⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫
-
-⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫
-
-⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
+⟪यदि गच्छसि गच्छ त्वम् । अहं न गमिष्यामि ॥१॥ आर्य प्रेक्षस्व मे परिभवम् ॥२॥ भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥३॥⟫
 
 ::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Bildquelle: [Details](/licenses#lekt4703))
+Fig.: ⟪भो राम यदि मया गन्तवं तदैषा कन्यापि मम सहायिनी भवतु⟫
+(Beeldbron: [Details](/af/licenses#lekt4703))
 :::
-⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
-
-⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
-
-⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
+⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥४॥ प्रसीदत्वार्यः ॥५॥ आर्ये स्वागतं ते ॥६॥⟫
 
 ::: media
 ![](/images/lekt4704.webp)
-Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Bildquelle: [Details](/licenses#lekt4704))
+Fig.: ⟪आर्ये स्वागतं ते⟫
+(Beeldbron: [Details](/af/licenses#lekt4704))
 :::
-⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
+⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥७॥ युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥८॥ प्रश्नः⟫ : ⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥९॥ तवैव हस्ते शस्त्रं तिष्ठतु ॥१०॥ भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥११॥⟫
 
-⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
+B.) Vertaal na Sanskriet (gebruik de imperatief):
 
-⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫
+1. Ik wil ontvangen worden.
 
-⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫
+2. Hij moet tevreden zijn.
 
-⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
+3. Wij willen roepen.
 
-B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ):
+4. Ik wil mij voor je buigen (⟪चतुर्थ्या⟫).
 
-1\. Ich will erhalten werden.
+5. Deze daad moet gedaan worden.
 
-2\. Er soll zufrieden sein.
+6. Zij moeten slapen (passieve constructie).
 
-3\. Wir wollen rufen.
+7. Mijn zoon streef naar rijkdom!
 
-4\. Ich will mich dir (⟪चतुर्थ्या⟫) beugen.
+8. Begin met de studie!
 
-5\. Diese Tat soll getan werden.
+9. Geef (⟪प्र⟫-⟪यम्⟫) de voorvaderen rijstballetjes!
 
-6\. Sie sollen schlafen (Passivkonstruktion).
+10. Zij moeten zich verheugen!
 
-7\. Mein Sohn strebe nach Reichtum!
+11. Ik wil neerzien op de wereld.
 
-8\. Beginnt das Studium!
+12. Wij willen naar Benares gaan (⟪पद्⟫).
 
-9\. Gebt (⟪प्र⟫-⟪यम्⟫) den Ahnvätern Reisbällchen!
+13. Zij (mv.) moeten als offerheren de goden met een offer vereren.
+14\. Sing 'n loflied!
 
-10\. Sie sollen sich freuen!
+15\. Mag daar seuns vir my gebore word!
 
-11\. Ich will auf die Welt hinabblicken.
+16\. Ek sal jou my huis wys.
 
-12\. Wir wollen nach Benares gehen (⟪पद्⟫).
+17\. Gaan weg van my af!
 
-13\. Sie (pl.) sollen als Opferherren die Götter mit einem Opfer verehren.
+18\. Hy sal vrygelaat word!
 
-14\. Singe ein Loblied!
+19\. Ek sal jou vrou beskerm.
 
-15\. Söhne sollen mir geboren werden!
+20\. Sterf, vyand!
 
-16\. Ich will dir mein Haus zeigen.
+21\. Veg!
 
-17\. Gehe von mir weg!
+22\. Laat hulle (v.) die bevele gee.
 
-18\. Er soll befreit werden!
+23\. Ons sal in jou huis woon.
 
-19\. Ich will deine Gattin behüten.
+24\. So sal dit wees!
 
-20\. Stirb, Feind!
+25\. Slaan die perd!
 
-21\. Kämpft!
+26\. Laat hulle (mv.) ronddwaal.
 
-22\. Sie (pl.) mögen befehlen.
+27\. Word dronk!
 
-23\. Wir wollen in deinem Haus wohnen.
+28\. Laat die perd die vrag trek.
 
-24\. So soll es geschehen!
+29\. Ons sal die wêrelde in orde stel.
 
-25\. Schlage das Pferd!
+30\. Drink die drankie!
 
-26\. Sie (pl.) sollen umherirren.
+31\. Dink!
 
-27\. Berauscht euch!
+32\. Hulle (mv.) sal verslaan word!
 
-28\. Das Pferd soll die Last ziehen.
+33\. Ons wil deur jou gelei word.
 
-29\. Wir wollen die Welten in Ordnung bringen.
-
-30\. Trinke den Trank!
-
-31\. Denke!
-
-32\. Sie (pl.) sollen besiegt werden!
-
-33\. Wir wollen von dir geführt werden.
-
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
+34\. Mag dit goeie geluk bring! (Seën)
 

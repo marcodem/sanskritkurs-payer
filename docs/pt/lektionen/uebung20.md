@@ -1,295 +1,211 @@
 ---
 title: "Exercício 20"
 uebung_id: 20
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 20
 
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+A) Traduza e resolva os compostos em sânscrito:
 
-⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
-⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (oder: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
-Der Götterfürst besiegt die Nichtarier, die Feinde Indras sind (oder: deren Feind Indra ist).
+⟪१⟫. ⟪इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥ इन्द्रः शत्रुर्येषां ते ऽनार्या देवानामिन्द्रेण जीयन्ते ।⟫ (ou: ⟪इन्द्रस्य शत्रव एवानार्या⟫...)
+O príncipe dos deuses derrota os não-ários, cujos inimigos são (ou: cujo inimigo é) Indra.
 
-⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
-⟪शूरस्य⟫ ⟪बलं⟫ ⟪यस्य⟫ ⟪स⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪योधः⟫ ⟪शूरमेव⟫ ⟪पुत्रमि्च्छति⟫ ⟪॥⟫
-Der Kṣatriyakrieger mit der Kraft eines Helden wünscht sich einen Heldensohn.
+⟪२⟫. ⟪शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥ शूरस्य बलं यस्य स क्षत्रिय एव योधः शूरमेव पुत्रमि्च्छति ॥⟫
+O guerreiro kṣatriya, com a força de um herói, deseja um filho heróico.
 
-⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
-⟪सुदुर्गमेण⟫ ⟪मार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकस्य⟫ ⟪मार्गः⟫ ⟪॥⟫
-Auf einem sehr beschwerlichen Weg kommt man in einen Himmel. Der Weg zu einer Hölle ist aber einfach.
+⟪३⟫. ⟪सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥ सुदुर्गमेण मार्गेण स्वर्गं गम्यते । सुगमस्तु नरकस्य मार्गः ॥⟫
+Por um caminho muito árduo se chega ao céu. O caminho para o inferno, porém, é simples.
 
-⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
-⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥⟫
-Die Brahmanin, deren Sohn gestorben ist, weint.
+⟪४⟫. ⟪मृतपुत्रब्राह्मणी रोदिति ॥४॥ मृतः पुत्रो यस्याः सा ब्राह्मणी रोदिति ॥⟫
+A brâmane, cujo filho morreu, chora.
 
-⟪५⟫. ⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
-⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्तामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫
-Ein von Verblendung freier Brahmane begehrt keine Śūdrafrau, auch wenn sie einen vollkommenen Körper hat.
+⟪५⟫. ⟪वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥ वीतो मोहो यस्य स ब्राह्मणः सम्पन्नं रूपं यस्यास्तामपि शूद्रां न लुभ्यति ॥⟫
+Um brâmane livre de ilusão não deseja uma mulher śūdra, mesmo que ela tenha um corpo perfeito.
 
-⟪६⟫. ⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
-⟪शोभना⟫ ⟪नीतिर्यस्य⟫ ⟪स⟫ ⟪पुत्रः⟫ ⟪प्राप्तं⟫ ⟪मतेर्दर्शनं⟫ ⟪येन⟫ ⟪तं⟫ ⟪साधुं⟫ ⟪गच्छति⟫ ⟪॥⟫
-Der artige Sohn geht zum Heiligen, der die Fähigkeit, Gedanken zu lesen, erworben hat.
+⟪६⟫. ⟪सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥ शोभना नीतिर्यस्य स पुत्रः प्राप्तं मतेर्दर्शनं येन तं साधुं गच्छति ॥⟫
+O filho bem-comportado vai ao sábio que adquiriu a faculdade de ler os pensamentos.
 
-⟪७⟫. ⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घन्ति⟫ ⟪॥७॥⟫
-⟪प्राप्तः⟫ ⟪प्रभावो⟫ ⟪यैस्ते⟫ ⟪क्षत्रिया⟫ ⟪दृष्टं⟫ ⟪मात्रं⟫ ⟪येषां⟫ ⟪ताञ्छत्रून्घन्ति⟫ ⟪॥⟫
-Die zur Macht gekommenen Kṣatriyas töten die Feinde sobald sie sie erblickt haben.
+⟪७⟫. ⟪प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घन्ति ॥७॥ प्राप्तः प्रभावो यैस्ते क्षत्रिया दृष्टं मात्रं येषां ताञ्छत्रून्घन्ति ॥⟫
+Os kṣatriyas, que chegaram ao poder, matam os inimigos assim que os avistam.
 
-⟪८⟫. ⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (oder: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
-Die Krieger, die den Feind besiegt hatten, befreien die vom Feind Besiegten.
+⟪८⟫. ⟪जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥ जितः शत्रुर्यैस्ते योधाः शत्रुणा जितान्मुञ्चन्ति ।⟫ (ou: ⟪जिताः शत्रवो यैस्त्ते⟫...)
+Os guerreiros, que haviam derrotado o inimigo, libertam os vencidos pelo inimigo.
 
-⟪९⟫. ⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
-⟪कृतमुपनयनं⟫ ⟪यय्स⟫ ⟪स⟫ ⟪बालः⟫ ⟪शिव⟫ ⟪आदिर्येषां⟫ ⟪तेषां⟫ ⟪देवानां⟫ ⟪पुजां⟫ ⟪करोति⟫ ⟪॥⟫
-Der in den Veda initiierte Knabe verehrt Śiva und die anderen Götter.
+⟪९⟫. ⟪कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥ कृतमुपनयनं यय्स स बालः शिव आदिर्येषां तेषां देवानां पुजां करोति ॥⟫
+O menino iniciado nos Vedas venera Śiva e os outros deuses.
 
-⟪१०⟫. ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
-⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-Die zu Buddha Gegangenen hören die Wahrheit vom Leiden und die anderen (edlen) Wahrheiten.
+⟪१०⟫. ⟪बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥ बुद्धं गता दुःखमादिर्येषां तानि सत्यानि शृण्वन्ति ॥⟫
+Os que foram para Buda ouvem a verdade sobre o sofrimento e as outras verdades (nobres).
 
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
+B) Traduza para o sânscrito usando compostos:
 
-1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht.
-⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (oder: ⟪जनान्रक्षति⟫ ⟪।⟫)
+1\. Um Kṣatriya, que não segura o bastão na mão, não protege o povo.
+⟪अदण्डहस्तः क्षत्रियो न जनान्पाति ।⟫ (ou: ⟪जनान्रक्षति ।⟫)
 
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
-⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
+2\. Kālidāsa e os outros poetas são os professores de sânscrito.
+⟪संस्कृतगुरवः कालिदासादिक्वयः ।⟫
 
-3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen.
-⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫
+3\. Um Kṣatriya tem sua subsistência por meio das armas.
+⟪शस्त्राजीवः क्षत्रियः ।⟫
 
-4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
-⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
+4\. As mulheres Śūdra também têm como dharma a não-violência, a verdade, a pureza, o não-murmuração, a não-maldade e a longanimidade.
+⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः शूद्रा अपि ॥⟫
 
 ::: media
 ![](/images/uebung031.webp)
-Abb.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
-(Bildquelle: [Details](/licenses#uebung031))
+Legenda: ⟪शस्त्राजीवः क्षत्रियः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung031))
 :::
 ---
 
-## Komposita-Analyse
+## Análise de Compostos
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf.
+Resolva os seguintes compostos como Bahuvrīhi e/ou Dvandva e/ou Tatpuruṣa de todas as maneiras que lhe parecerem possíveis em sânscrito.
 
-⟪१⟫. ⟪इन्द्रशत्रवः⟫ ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (oder: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
+⟪१⟫. ⟪इन्द्रशत्रवः । इन्द्रस्य शत्रवः ।⟫ (ou: ⟪इन्द्रः शत्रुर्येषां ते ।⟫)
 
-⟪२⟫. ⟪दुष्कुलायाः⟫ ⟪।⟫ ⟪दुष्टं⟫ ⟪कुलं⟫ ⟪यस्यास्तसाः⟫ ⟪।⟫
+⟪२⟫. ⟪दुष्कुलायाः । दुष्टं कुलं यस्यास्तसाः । ३⟫. ⟪जातिमात्रस्य । जातेर्मात्रस्य ।⟫ (ou: ⟪जातिरेव मात्रं यस्य तस्य ।⟫)
 
-⟪३⟫. ⟪जातिमात्रस्य⟫ ⟪।⟫ ⟪जातेर्मात्रस्य⟫ ⟪।⟫ (oder: ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तस्य⟫ ⟪।⟫)
+⟪४⟫. ⟪प्राप्तोदकाः । प्राप्तमुदकं यैस्ते ।⟫ (ou: ⟪प्राप्तमुदकं याभिस्ताः ।⟫)
 
-⟪४⟫. ⟪प्राप्तोदकाः⟫ ⟪।⟫ ⟪प्राप्तमुदकं⟫ ⟪यैस्ते⟫ ⟪।⟫ (oder: ⟪प्राप्तमुदकं⟫ ⟪याभिस्ताः⟫ ⟪।⟫)
+⟪५⟫. ⟪सुनीतिभिः । शोभनाभिर्नीतिभिः ।⟫ (ou: ⟪शोभना नीतिर्येषां तैः ।⟫)
 
-⟪५⟫. ⟪सुनीतिभिः⟫ ⟪।⟫ ⟪शोभनाभिर्नीतिभिः⟫ ⟪।⟫ (oder: ⟪शोभना⟫ ⟪नीतिर्येषां⟫ ⟪तैः⟫ ⟪।⟫)
+⟪६⟫. ⟪मृतपुत्रः । मृतः पुत्रः ।⟫ (ou: ⟪मृतः पुत्रो यस्य सः ।⟫)
 
-⟪६⟫. ⟪मृतपुत्रः⟫ ⟪।⟫ ⟪मृतः⟫ ⟪पुत्रः⟫ ⟪।⟫ (oder: ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪७⟫. ⟪गतपुण्येन । गतेन पुण्येन ।⟫ (ou: ⟪गतं पुण्यं यस्य तेन ।⟫)
 
-⟪७⟫. ⟪गतपुण्येन⟫ ⟪।⟫ ⟪गतेन⟫ ⟪पुण्येन⟫ ⟪।⟫ (oder: ⟪गतं⟫ ⟪पुण्यं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
+⟪८⟫. ⟪आर्यरूपम् । आर्यास्य रूपम् ।⟫ (ou: ⟪आर्यं रूपं यस्य तम् ।⟫)
 
-⟪८⟫. ⟪आर्यरूपम्⟫ ⟪।⟫ ⟪आर्यास्य⟫ ⟪रूपम्⟫ ⟪।⟫ (oder: ⟪आर्यं⟫ ⟪रूपं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
+⟪९⟫. ⟪मुक्तासनया । मुक्तमासनं यया तया । १०⟫. ⟪तद्रूपः । तद्रूपं यस्य सः ।⟫ (ou: ⟪तस्य रूपं यस्य सः ।⟫)
 
-⟪९⟫. ⟪मुक्तासनया⟫ ⟪।⟫ ⟪मुक्तमासनं⟫ ⟪यया⟫ ⟪तया⟫ ⟪।⟫
+⟪११⟫. ⟪कृतफलानाम् । कृतस्य फलानाम् ।⟫ (ou: ⟪कृतं फलं यैस्तेषाम् ।⟫)
 
-⟪१०⟫. ⟪तद्रूपः⟫ ⟪।⟫ ⟪तद्रूपं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ (oder: ⟪तस्य⟫ ⟪रूपं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪१२⟫. ⟪व्याघ्रबलाः । व्याघ्रस्य बलं येषां ते । १३⟫. ⟪प्राप्तकाला । प्राप्तः कालो यया सा । १४⟫. ⟪शूरपुत्राम् । शूरः पुत्रो यस्यास्ताम् । १५⟫. ⟪कृतभिषेखः । कृतो ऽभिषेखः ।⟫ (ou: ⟪कृतो ऽभिषेखो यस्य सः ।⟫)
 
-⟪११⟫. ⟪कृतफलानाम्⟫ ⟪।⟫ ⟪कृतस्य⟫ ⟪फलानाम्⟫ ⟪।⟫ (oder: ⟪कृतं⟫ ⟪फलं⟫ ⟪यैस्तेषाम्⟫ ⟪।⟫)
+⟪१६⟫. ⟪शूरबलान् । शूरस्य बलं येषां तान् । १७⟫. ⟪वीतमोहः । वीतो मोहः ।⟫ (ou: ⟪वीतो मोहो यस्य सः ।⟫)
 
-⟪१२⟫. ⟪व्याघ्रबलाः⟫ ⟪।⟫ ⟪व्याघ्रस्य⟫ ⟪बलं⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫
+⟪१८⟫. ⟪दण्डहस्तस्य । दण्डस्यैव हस्तस्य ।⟫ (ou: ⟪हस्ते दण्डो यस्य तस्य ।⟫)
 
-⟪१३⟫. ⟪प्राप्तकाला⟫ ⟪।⟫ ⟪प्राप्तः⟫ ⟪कालो⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫
+⟪१९⟫. ⟪गतमात्रम् । गतं मात्रम् ।⟫ (ou: ⟪गतं मात्रमेव यस्य तम् ।⟫)
 
-⟪१४⟫. ⟪शूरपुत्राम्⟫ ⟪।⟫ ⟪शूरः⟫ ⟪पुत्रो⟫ ⟪यस्यास्ताम्⟫ ⟪।⟫
+⟪२०⟫. ⟪इन्द्रपुत्रा । इन्द्रः पुत्रो यस्याः सा ।⟫ (Mãe de Indra = ⟪पृथिवी⟫)
 
-⟪१५⟫. ⟪कृतभिषेखः⟫ ⟪।⟫ ⟪कृतो⟫ ⟪ऽभिषेखः⟫ ⟪।⟫ (oder: ⟪कृतो⟫ ⟪ऽभिषेखो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪२१⟫. ⟪तद्गुणाः । तस्य गुणाः ।⟫ (ou: ⟪स गुणो येषां ते ।⟫)
 
-⟪१६⟫. ⟪शूरबलान्⟫ ⟪।⟫ ⟪शूरस्य⟫ ⟪बलं⟫ ⟪येषां⟫ ⟪तान्⟫ ⟪।⟫
+⟪२२⟫. ⟪उपल्ब्धसुखैः । उपल्ब्धैः सुखैः ।⟫ (ou: ⟪उपलब्धं सुखं यैस्तैः ।⟫)
 
-⟪१७⟫. ⟪वीतमोहः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहः⟫ ⟪।⟫ (oder: ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪२३⟫. ⟪प्राप्तप्रभावः । प्राप्तः प्रभावः ।⟫ (ou: ⟪प्राप्तः प्रभावो येन सः ।⟫)
 
-⟪१८⟫. ⟪दण्डहस्तस्य⟫ ⟪।⟫ ⟪दण्डस्यैव⟫ ⟪हस्तस्य⟫ ⟪।⟫ (oder: ⟪हस्ते⟫ ⟪दण्डो⟫ ⟪यस्य⟫ ⟪तस्य⟫ ⟪।⟫)
+⟪२४⟫. ⟪तन्मात्राणि । तस्य मात्राणि ।⟫ (ou: ⟪तन्मात्रं येषां तानि ।⟫)
 
-⟪१९⟫. ⟪गतमात्रम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪मात्रम्⟫ ⟪।⟫ (oder: ⟪गतं⟫ ⟪मात्रमेव⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
+⟪२५⟫. ⟪प्रभूतरूपा । प्रभूतं रूपं यस्याः सा ।⟫ (de forma proeminente)
 
-⟪२०⟫. ⟪इन्द्रपुत्रा⟫ ⟪।⟫ ⟪इन्द्रः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (Mutter des Indra = ⟪पृथिवी⟫)
+⟪२६⟫. ⟪कृतोपनयनाः । कृतमुपनयनं येषां ते । २७⟫. ⟪विगतनयनम् । विगतं नयनं यस्य तम् ।⟫ (cego)
 
-⟪२१⟫. ⟪तद्गुणाः⟫ ⟪।⟫ ⟪तस्य⟫ ⟪गुणाः⟫ ⟪।⟫ (oder: ⟪स⟫ ⟪गुणो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫)
+⟪२८⟫. ⟪बुद्धमार्गेण । बुद्धस्य मार्गेण ।⟫ (ou: ⟪बुद्धो मार्गो यस्य तेन ।⟫)
 
-⟪२२⟫. ⟪उपल्ब्धसुखैः⟫ ⟪।⟫ ⟪उपल्ब्धैः⟫ ⟪सुखैः⟫ ⟪।⟫ (oder: ⟪उपलब्धं⟫ ⟪सुखं⟫ ⟪यैस्तैः⟫ ⟪।⟫)
+⟪२९⟫. ⟪विजयफलान् । विजयस्य फलानि येषां तान् । ३०⟫. ⟪दुर्गमः ।⟫ difícil de percorrer
 
-⟪२३⟫. ⟪प्राप्तप्रभावः⟫ ⟪।⟫ ⟪प्राप्तः⟫ ⟪प्रभावः⟫ ⟪।⟫ (oder: ⟪प्राप्तः⟫ ⟪प्रभावो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫)
+⟪३१⟫. ⟪समयकारः । समयस्य कारः ।⟫ (encontro)
 
-⟪२४⟫. ⟪तन्मात्राणि⟫ ⟪।⟫ ⟪तस्य⟫ ⟪मात्राणि⟫ ⟪।⟫ (oder: ⟪तन्मात्रं⟫ ⟪येषां⟫ ⟪तानि⟫ ⟪।⟫)
+⟪३२⟫. ⟪सम्पन्नरूपाम् । सम्पन्नं रूपं यस्यास्ताम् । ३३⟫. ⟪रूपसम्पन्नाम् । रूपेण सम्पन्नाम् ।⟫ (perfeitamente na forma)
 
-⟪२५⟫. ⟪प्रभूतरूपा⟫ ⟪।⟫ ⟪प्रभूतं⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (von herausragender Gestalt)
+⟪३४⟫. ⟪अपुण्यानाम् । न पुण्यं येषां तेषाम् ।⟫ (sem mérito)
 
-⟪२६⟫. ⟪कृतोपनयनाः⟫ ⟪।⟫ ⟪कृतमुपनयनं⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫
+⟪३५⟫. ⟪मृतगृहाणि । मृतानां गृहाणि ।⟫ (casas de cadáveres)
 
-⟪२७⟫. ⟪विगतनयनम्⟫ ⟪।⟫ ⟪विगतं⟫ ⟪नयनं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (blind)
+⟪३६⟫. ⟪अजनस्य ।⟫ desprovido de pessoas
 
-⟪२८⟫. ⟪बुद्धमार्गेण⟫ ⟪।⟫ ⟪बुद्धस्य⟫ ⟪मार्गेण⟫ ⟪।⟫ (oder: ⟪बुद्धो⟫ ⟪मार्गो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
+⟪३७⟫. ⟪तद्देवतैः । सा देवता येषां तैः । ३८⟫. ⟪जातपुत्राः । जाताः पुत्रा येषां ते । ३९⟫. ⟪दुरन्ताभिः ।⟫ terminando mal
 
-⟪२९⟫. ⟪विजयफलान्⟫ ⟪।⟫ ⟪विजयस्य⟫ ⟪फलानि⟫ ⟪येषां⟫ ⟪तान्⟫ ⟪।⟫
+⟪४०⟫. ⟪भूतसर्गेण । भूतानां सर्गेण । ४१⟫. ⟪मतिदर्शनम् । मतीनां दर्शनम् ।⟫ (visão dos pensamentos)
 
-⟪३०⟫. ⟪दुर्गमः⟫ ⟪।⟫ schwer zu gehen
+⟪४२⟫. ⟪मुक्तहस्ता । मुक्तं हस्तं यस्याः सा ।⟫ (generoso)
 
-⟪३१⟫. ⟪समयकारः⟫ ⟪।⟫ ⟪समयस्य⟫ ⟪कारः⟫ ⟪।⟫ (Verabredung)
+⟪४३⟫. ⟪तदन्तः । तस्यान्तः ।⟫ (ou: ⟪सो ऽन्तो यस्य सः ।⟫)
 
-⟪३२⟫. ⟪सम्पन्नरूपाम्⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫ ⟪।⟫
+⟪४४⟫. ⟪जातिमात्रम् । जातिरेव मात्रं यस्य तम् ।⟫ (apenas por nascimento)
 
-⟪३३⟫. ⟪रूपसम्पन्नाम्⟫ ⟪।⟫ ⟪रूपेण⟫ ⟪सम्पन्नाम्⟫ ⟪।⟫ (vollkommen an Gestalt)
+⟪४५⟫. ⟪तज्जयेन । तस्य जयेन ।⟫ (ou: ⟪तस्य जयो यस्य तेन ।⟫)
 
-⟪३४⟫. ⟪अपुण्यानाम्⟫ ⟪।⟫ ⟪न⟫ ⟪पुण्यं⟫ ⟪येषां⟫ ⟪तेषाम्⟫ ⟪।⟫ (verdienstlos)
+⟪४६⟫. ⟪लब्धधनानाम् । लब्धं धनं येषां तेषाम् । ४७⟫. ⟪सुदर्शः ।⟫ bem visível
 
-⟪३५⟫. ⟪मृतगृहाणि⟫ ⟪।⟫ ⟪मृतानां⟫ ⟪गृहाणि⟫ ⟪।⟫ (Totenhäuser)
+⟪४८⟫. ⟪सकारणः ।⟫ com uma causa
 
-⟪३६⟫. ⟪अजनस्य⟫ ⟪।⟫ menschenleer
+⟪४९⟫. ⟪तनादयः । तन्⟫ e assim por diante (= 8ª classe de presente)
 
-⟪३७⟫. ⟪तद्देवतैः⟫ ⟪।⟫ ⟪सा⟫ ⟪देवता⟫ ⟪येषां⟫ ⟪तैः⟫ ⟪।⟫
+⟪५०⟫. ⟪जातमात्राम् । जातमेव मात्रं यस्यस्ताम् ।⟫ (acabado de surgir)
 
-⟪३८⟫. ⟪जातपुत्राः⟫ ⟪।⟫ ⟪जाताः⟫ ⟪पुत्रा⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫
+⟪५१⟫. ⟪दुर्जातयः ।⟫ de má origem
 
-⟪३९⟫. ⟪दुरन्ताभिः⟫ ⟪।⟫ übel endend
+⟪५२⟫. ⟪हतपुत्रः । हतः पुत्रो यस्य सः । ५३⟫. ⟪दुरासितम् ।⟫ má maneira de sentar
 
-⟪४०⟫. ⟪भूतसर्गेण⟫ ⟪।⟫ ⟪भूतानां⟫ ⟪सर्गेण⟫ ⟪।⟫
+⟪५४⟫. ⟪इष्टदेवतया । इष्टा देवता यस्यास्तया । ५५⟫. ⟪कृतपुण्याभिः । कृतं पुण्यं याभिस्ताभिः । ५६⟫. ⟪श्रुत्युदितम् । श्रुतेरुदितम् । ५७⟫. ⟪गतपापैः । गतं पापं येषां तैः । ५८⟫. ⟪जितारिणा । जितो ऽरि येन तेन । ५९⟫. ⟪जातकोपा । जातः कोपो यस्याः सा । ६०⟫. ⟪जातिधर्मः । जातीनां धर्मः । ६१⟫. ⟪तत्प्रभृतयः । सा प्रभृतिर्येषां ते ।⟫ (e assim por diante)
 
-⟪४१⟫. ⟪मतिदर्शनम्⟫ ⟪।⟫ ⟪मतीनां⟫ ⟪दर्शनम्⟫ ⟪।⟫ (Sehen der Gedanken)
+⟪६२⟫. ⟪सुदुर्जयः ।⟫ muito difícil de vencer
 
-⟪४२⟫. ⟪मुक्तहस्ता⟫ ⟪।⟫ ⟪मुक्तं⟫ ⟪हस्तं⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (freigebig)
+⟪६३⟫. ⟪जितक्रोधेन । जितः क्रोधो यस्य तेन । ६४⟫. ⟪दुरुपदेशम् ।⟫ difícil de instruir
 
-⟪४३⟫. ⟪तदन्तः⟫ ⟪।⟫ ⟪तस्यान्तः⟫ ⟪।⟫ (oder: ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
+⟪६५⟫. ⟪लब्धलाभा । लब्धो लाभो यया सा । ६६⟫. ⟪बुद्धदासः । बुद्धस्य दासः । ६७⟫. ⟪मुक्तबुद्धिः । मुक्ता बुद्धिर्यस्य सः । ६८⟫. ⟪यज्ञकालम् । यज्ञस्य कालम् । ६९⟫. ⟪जितशत्रून् । जितः शत्रुर्यैस्तान् । ७०⟫. ⟪शत्रुजितान् । शत्रुणा जितान् । ७१⟫. ⟪तत्फलः । तस्य फलं यस्य सः ।⟫
 
-⟪४४⟫. ⟪जातिमात्रम्⟫ ⟪।⟫ ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (nur der Geburt nach)
+⟪७२⟫. ⟪सुगुणा ।⟫ de boa qualidade
 
-⟪४५⟫. ⟪तज्जयेन⟫ ⟪।⟫ ⟪तस्य⟫ ⟪जयेन⟫ ⟪।⟫ (oder: ⟪तस्य⟫ ⟪जयो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
+⟪७३⟫. ⟪जातक्रोधः । जातः क्रोधो यस्य सः । ७४⟫. ⟪दृष्टमात्रः ।⟫ assim que foi visto
 
-⟪४६⟫. ⟪लब्धधनानाम्⟫ ⟪।⟫ ⟪लब्धं⟫ ⟪धनं⟫ ⟪येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
+⟪७५⟫. ⟪भूतकालः ।⟫ passado
 
-⟪४७⟫. ⟪सुदर्शः⟫ ⟪।⟫ gut zu sehen
+⟪७६⟫. ⟪सुनेत्राः ।⟫ tendo bons olhos
 
-⟪४८⟫. ⟪सकारणः⟫ ⟪।⟫ mit einer Ursache
+⟪७७⟫. ⟪तदादीनाम् । सादिर्येषां तेषाम् । ७८⟫. ⟪जातिस्मरणम् ।⟫ lembrança de nascimentos anteriores
 
-⟪४९⟫. ⟪तनादयः⟫ ⟪।⟫ ⟪तन्⟫ u.s.w. (= 8. Präsensklasse)
+⟪७९⟫. ⟪सफलम् ।⟫ fértil
 
-⟪५०⟫. ⟪जातमात्राम्⟫ ⟪।⟫ ⟪जातमेव⟫ ⟪मात्रं⟫ ⟪यस्यस्ताम्⟫ ⟪।⟫ (eben entstanden)
+⟪८०⟫. ⟪अकरुणस्य ।⟫ sem compaixão
 
-⟪५१⟫. ⟪दुर्जातयः⟫ ⟪।⟫ von schlechter Geburt
-
-⟪५२⟫. ⟪हतपुत्रः⟫ ⟪।⟫ ⟪हतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-
-⟪५३⟫. ⟪दुरासितम्⟫ ⟪।⟫ schlechte Art zu sitzen
-
-⟪५४⟫. ⟪इष्टदेवतया⟫ ⟪।⟫ ⟪इष्टा⟫ ⟪देवता⟫ ⟪यस्यास्तया⟫ ⟪।⟫
-
-⟪५५⟫. ⟪कृतपुण्याभिः⟫ ⟪।⟫ ⟪कृतं⟫ ⟪पुण्यं⟫ ⟪याभिस्ताभिः⟫ ⟪।⟫
-
-⟪५६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ ⟪।⟫
-
-⟪५७⟫. ⟪गतपापैः⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪येषां⟫ ⟪तैः⟫ ⟪।⟫
-
-⟪५८⟫. ⟪जितारिणा⟫ ⟪।⟫ ⟪जितो⟫ ⟪ऽरि⟫ ⟪येन⟫ ⟪तेन⟫ ⟪।⟫
-
-⟪५९⟫. ⟪जातकोपा⟫ ⟪।⟫ ⟪जातः⟫ ⟪कोपो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫
-
-⟪६०⟫. ⟪जातिधर्मः⟫ ⟪।⟫ ⟪जातीनां⟫ ⟪धर्मः⟫ ⟪।⟫
-
-⟪६१⟫. ⟪तत्प्रभृतयः⟫ ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (das u.s.w.)
-
-⟪६२⟫. ⟪सुदुर्जयः⟫ ⟪।⟫ sehr schwer zu besiegen
-
-⟪६३⟫. ⟪जितक्रोधेन⟫ ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
-
-⟪६४⟫. ⟪दुरुपदेशम्⟫ ⟪।⟫ schwierige Unterrichtung
-
-⟪६५⟫. ⟪लब्धलाभा⟫ ⟪।⟫ ⟪लब्धो⟫ ⟪लाभो⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫
-
-⟪६६⟫. ⟪बुद्धदासः⟫ ⟪।⟫ ⟪बुद्धस्य⟫ ⟪दासः⟫ ⟪।⟫
-
-⟪६७⟫. ⟪मुक्तबुद्धिः⟫ ⟪।⟫ ⟪मुक्ता⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ⟪।⟫
-
-⟪६८⟫. ⟪यज्ञकालम्⟫ ⟪।⟫ ⟪यज्ञस्य⟫ ⟪कालम्⟫ ⟪।⟫
-
-⟪६९⟫. ⟪जितशत्रून्⟫ ⟪।⟫ ⟪जितः⟫ ⟪शत्रुर्यैस्तान्⟫ ⟪।⟫
-
-⟪७०⟫. ⟪शत्रुजितान्⟫ ⟪।⟫ ⟪शत्रुणा⟫ ⟪जितान्⟫ ⟪।⟫
-
-⟪७१⟫. ⟪तत्फलः⟫ ⟪।⟫ ⟪तस्य⟫ ⟪फलं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-
-⟪७२⟫. ⟪सुगुणा⟫ ⟪।⟫ von guter Qualität
-
-⟪७३⟫. ⟪जातक्रोधः⟫ ⟪।⟫ ⟪जातः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-
-⟪७४⟫. ⟪दृष्टमात्रः⟫ ⟪।⟫ sobald er gesehen wurde
-
-⟪७५⟫. ⟪भूतकालः⟫ ⟪।⟫ Vergangenheit
-
-⟪७६⟫. ⟪सुनेत्राः⟫ ⟪।⟫ gute Augen habend
-
-⟪७७⟫. ⟪तदादीनाम्⟫ ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
-
-⟪७८⟫. ⟪जातिस्मरणम्⟫ ⟪।⟫ Erinnerung an frühere Geburten
-
-⟪७९⟫. ⟪सफलम्⟫ ⟪।⟫ fruchtbar
-
-⟪८०⟫. ⟪अकरुणस्य⟫ ⟪।⟫ mitleidlos
-
-⟪८१⟫. ⟪सोढदुःखाः⟫ ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
+⟪८१⟫. ⟪सोढदुःखाः । सोढं दुःखं यैस्ते ।⟫
 
 ::: media
 ![](/images/uebung030.webp)
-Abb.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
-(Bildquelle: [Details](/licenses#uebung030))
+Fig.: ⟪सम्पन्नरूपा रूपसम्पन्ना⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung030))
 :::
 ---
 
 ## Scholarly Fragments
 
-⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-Die Abklärung des Geistes geschieht durch die Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die Glück und Leid, Verdienstvolles und Nicht-Verdienstvolles als Objekt haben.
+⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥ योगसूत्र १⟫.⟪३३ ॥⟫  
+A clarificação da mente ocorre através do desenvolvimento da benevolência amigável, compaixão, alegria empática e equanimidade, que têm como objeto a felicidade e o sofrimento, o meritório e o não-meritório.
 
-⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
-⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-Yoga der Tat ist Askese, Vedastudium und aufmerksamer Dienst am HERRN. Er hat als Ziel die Entfaltung der Sammlung und die Schwächung der "Qualen".
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥ योगसूत्र २⟫.⟪१ ॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥ योगसूत्र २⟫.⟪२ ॥⟫  
+O Yoga da Ação é austeridade, estudo dos Vedas e serviço atento ao SENHOR. Tem como objetivo o desenvolvimento da concentração e a enfraquecimento das "dor".
 
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
-Das höchste Ziel des Menschen ist, dass das dreifache Leid völlig verschwindet. (*Dreifaches Leid: aus einem selbst, von den Objekten, von den Göttern.*)
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः ॥ सांख्यसूत्र १⟫.⟪१ ॥⟫  
+O mais alto objetivo do ser humano é que o sofrimento triplo desapareça completamente. (*Sofrimento Triplo: de si mesmo, dos objetos, dos deuses.*)
 
-⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
-⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Leid ist durch Bedrängnis gekennzeichnet. Erlösung ist die völlige Befreiung davon.
+⟪बाधनालक्षणं दुःखम् ॥ न्यायसूत्र १⟫.⟪२१ ॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥ न्यायसूत्र १⟫.⟪२२ ॥⟫  
+O sofrimento é caracterizado pela angústia. A libertação é a completa liberação disso.
 
-⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
-⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
-Es gibt keinen Himmel, keine Erlösung, keine überweltliche Seele, es gibt auch keine fruchtbringenden Rituale und Tätigkeiten für Stände und Lebensstadien. ( ⟪सर्वदर्शनसंग्रह⟫ )
+⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादीनां क्रियाश्च फलदायिकाः ॥⟫  
+Não há céu, nem libertação, nem alma transcendental; tampouco existem rituais e ações frutíferas para as castas e estágios de vida. ( ⟪सर्वदर्शनसंग्रह⟫ )
 
-⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
-⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
-⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
-⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-Brahmanen geben den Göttern Abgaben, den Brahmanen geben Könige Abgaben, den Königen geben die Leute Abgaben, den Leuten gibt die Erde Abgaben.
+⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫  
+Os brâmanes pagam tributos aos deuses; os reis pagam tributos aos brâmanes; o povo paga tributos aos reis; a terra paga tributos ao povo.
 
-⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
-⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
-⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫  
-⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪४१६⟫ ⟪॥⟫  
-Gattin, Sohn und Leibeigener, diese drei sind der Überlieferung nach besitzlos. Was sie erwerben, ist Besitz dessen, dem sie gehören.
+⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥ मनुस्मृति ८⟫.⟪४१६ ॥⟫  
+A esposa, o filho e o servo são, segundo a tradição, desprovidos de propriedade. Tudo o que eles adquirem pertence àquele a quem servem.
 
-⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫  
-⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  
-⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫  
-⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫  
-In der Mitte schlank, an den Hüften breit, mit roten Lippen, schwarzen Augen, mit einem gebogenem Nabel und prallen Brüsten, welchen Mann erschlägt eine solch schöner Frauenkörper nicht?
+⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫  
+De cintura fina, quadris largos, lábios vermelhos, olhos negros, umbigo curvo e seios fartos: que homem não mata por uma mulher tão bela?
 
-⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫  
-⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
-⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Arme, die sie nicht wünschen, haben sehr viele Söhne, Reiche haben keinen einzigen Sohn. Seltsam ist der Lauf der Schöpfung.
+⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫  
+Os pobres, que não desejam filhos, têm muitos; os ricos não têm nenhum. Estranho é o curso da criação.
 
 ::: media
 ![](/images/uebung032.webp)
-Abb.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
-(Bildquelle: [Details](/licenses#uebung032))
+Fig.: ⟪सन्ति पुत्राः सुबहवो दरिद्राणाम्⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung032))
 :::

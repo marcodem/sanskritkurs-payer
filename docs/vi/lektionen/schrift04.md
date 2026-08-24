@@ -1,27 +1,27 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 4
+## Bài tập viết 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Punkt über dem Buchstaben. der dem Laut vorausgeht: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: Dấu chấm trên chữ cái. đứng trước âm thanh: ⟪कं कां किं कीं कुं कूं कें कैं कों कौं⟫
 
-Schreibung:
+Cách viết:
 
 ![](/images/schrift007.jpg)
 
-Beachten Sie die obligatorische Schreibung von hṛ: ⟪हृ⟫
+Lưu ý cách viết bắt buộc của hṛ: ⟪हृ⟫
 
-## Übung
+## Bài tập
 
-A) Schreiben Sie in Devanāgarī:
+A) Viết bằng chữ Devanāgarī:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 
-B) Lesen und translitterieren Sie:
+B) Đọc và chuyển tự:
 
-⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
+⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो नयति⟫ | ⟪देवः सृजति⟫ ||
 
-Zu Lektion 6
+Liên quan đến Bài học 6
 
-Zu Schriftübung 5
+Liên quan đến Bài tập viết 5

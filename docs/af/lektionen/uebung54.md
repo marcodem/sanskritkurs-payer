@@ -1,45 +1,46 @@
 ---
 title: "Oefening 54"
 uebung_id: 54
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Vorm die ooreenstemmende aoristusvorm vir die volgende teenwoordige tyd of voltooide tydvorm:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Nr. | Vorm | Bepaling / Betekenis | Aoristus |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | hulle gaan | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | ek drink | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫ | ek het / hy het gegee | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫ | ek / hy / sy was / julle was | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫ | hulle plaas | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫ | ons het gegaan | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫ | jy het gedrink / beskerm | ⟪अपाः⟫ (vir :sig[⟪पा⟫] "drink") |
+| ⟪८⟫. | ⟪तिष्ठति⟫ | hy staan | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫ | jy het gegaan | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫ | julle het gedrink | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫ | julle sal gaan | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫ | hulle het gestaan | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫ | julle het geplaas | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫ | jy het gegee | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫ | hulle was | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫ | ons het gegee | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫ | dit word geskei | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫ | dit word gesê | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫ | hy word geprees | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫ | dit word geploeg | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫ | hy word gebore | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫ | dit word gesing | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫ | dit is gegaan | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Afbeelding: ⟪अगायि⟫
+(Beeldbron: [Besonderhede](/licenses#uebung093))
 :::
 

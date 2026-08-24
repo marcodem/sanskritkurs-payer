@@ -145,7 +145,7 @@ outline: 2
 | संस्कृत | IAST | लिंग | हिंदी | पाठ |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | एक स्थान पर | [51](/hi/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | पूर्व पद पर जोर देता है, जर्मन में अक्सर जोर देने के समान, एक प्रकार का इमोजी \<!\>, उदाहरण: ⟪ "सत्य ही जीतता है", | [15](/hi/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | पूर्व पद पर जोर देता है, जर्मन में अक्सर जोर देने के समान, एक प्रकार का इमोजी \<!\>, उदाहरण: ⟪ "सत्य ही जीतता है", "बिल् | [15](/hi/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

@@ -1,214 +1,213 @@
 ---
 title: "Oefening 8"
 uebung_id: 8
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 8
 
-A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:
+A) Verduidelik die volgende selfstandige naamwoorde deur die stam, waarvan dit afgelei is, en die nominale suffix aan te dui. Gee geslag en betekenis aan:
 
-1\. lobha: lubh 4 P "begehren" + -a m.: "Begierde"
+1\. lobha: lubh 4 P "begeer" + -a m.: "Begerigheid"
 
-2\. rakṣa: rakṣ 1 P "hüten" + -a 3: "hütend, beschützend" ; m.: "Wächter"
+2\. rakṣa: rakṣ 1 P "beskerm" + -a 3: "beskendend, beskermend" ; m.: "Wagter"
 
-3\. śrotra: śru 5 P "hören" + -tra n.: "Ohr"
+3\. śrotra: śru 5 P "hoor" + -tra n.: "Oor"
 
-4\. mati: man 4 Ā "denken" + -ti f.: "Gedanke, Meinung"
+4\. mati: man 4 Ā "dink" + -ti f.: "Gedagte, mening"
 
-5\. savana: su 5 U "auspressen" + -ana n.: "Somapressung"
+5\. savana: su 5 U "pers uit" + -ana n.: "Somapressing"
 
-6\. yodha: yudh 4 Ā "kämpfen" + -a m.: "Kämpfer, Soldat"
+6\. yodha: yudh 4 Ā "veg" + -a m.: "Vegter, soldaat"
 
-7\. lābha: labh 1 Ā "erhalten" + -a m.: "Bekommen, Gewinn"
+7\. lābha: labh 1 Ā "verkry" + -a m.: "Ontvangs, wins"
 
-8\. kāraṇa: kṛ 8 U "machen, tun" + -ana n.: "Ursache, Grund"
+8\. kāraṇa: kṛ 8 U "doen" + -ana n.: "Oorsaak, rede"
 
-9\. gati: gam 1 P "gehen" + -ti f.: "Gang, 'Laufbahn', Ziel"
+9\. gati: gam 1 P "loop" + -ti f.: "Gang, 'lewensbaan', doelwit"
 
-10\. khādana: khād 1 P "kauen" + -ana n.: "Kauen, Verzehr, Futter"
+10\. khādana: khād 1 P "kau" + -ana n.: "Kau, verbruik, voer"
 
-11\. smara: smṛ 1 P "vergegenwärtigen" + -a m.: "Erinnerung, Gedächtnis, Sehnsucht, Liebe"
+11\. smara: smṛ 1 P "herinner" + -a m.: "Herinnering, geheue, verlange, liefde"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "Emanation, Schöpfung"
+12\. sṛṣṭi: sṛj 6 P / 4 A "laat emaneeer, skep" + -ti: "Emanasie, skepping"
 
-13\. tantra: tan 8 U "aufspannen" + -tra n.: "Webkette, Gewebe"
+13\. tantra: tan 8 U "opspan" + -tra n.: "Schering, weefsel"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter"
+14\. bhāva: bhū 1 P "word, wees" + -a m.: "Wording, natuurlike aard, karakter"
 
-15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System"
+15\. darśana: dṛś (4 P: paśyati) "sien" + -ana n-: "Sien, verskyning, sigswyse, filosofiese stelsel"
 
-16\. netra: nī 1 U "führen" + -tra n.: "Auge"
+16\. netra: nī 1 U "lei" + -tra n.: "Oog"
 
-17\. veśana: viś 6 P "eintreten" + -ana n.: "Eintritt"
+17\. veśana: viś 6 P "binnegaan" + -ana n.: "Binneweë"
 
-18\. kopa: kup 4 P "zürnen" + -a m.: "Zorn"
+18\. kopa: kup 4 P "toornig wees" + -a m.: "Toorn"
 
-19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "Loslassen, Emanation, Schöpfung"
+19\. sarga: ṛj 6 P / 4 A "laat emaneeer, skep" + -a m.: "Loslaat, emanasie, skepping"
 
-20\. yajana: yaj 1 U "opfern" + -ana n.: "Opfern, Opferplatz"
+20\. yajana: yaj 1 U "offer" + -ana n.: "Offer, offerplek"
 
-21\. moha: muḥ 4 P "verwirrt sein" + -a m.: "Verwirrtsein, Verblendung, Irrtum"
+21\. moha: muḥ 4 P "verwirr wees" + -a m.: "Verwarring, Blindheid, Dwaling"
 
-22\. śrava: śru 5 P "hören" + -a m.: "Hören"
+22\. śrava: śru 5 P "hoor" + -a m.: "Hoor"
 
-23\. bhavana: bhū 1 P "werden, sein" + -ana n.: "Werden, Entstehen, Entstehung"
+23\. bhavana: bhū 1 P "word, wees" + -ana n.: "Word, Ontstaan, Ontstanding"
 
-24\. nīti: nī 1 U "führen" + -ti f.: "Führung"
+24\. nīti: nī 1 U "lei" + -ti f.: "Leiing"
 
-25\. nartana: nṛt 4 P "tanzen" + -ana 3: "tanzend, Tänzer" ; n.: "Tanz"
+25\. nartana: nṛt 4 P "dans" + -ana 3: "dansend, Danser" ; n.: "Dans"
 
-26\. jaya: ji 1 P "siegen" + -a m.: "Siegen, Sieg"
+26\. jaya: ji 1 P "segt" + -a m.: "Seg, Oorwinning"
 
-27\. nayana: nī 1 U "führen" + -ana n.: "Auge"
+27\. nayana: nī 1 U "lei" + -ana n.: "Oog"
 
-28\. śravaṇa: śru 5 P "hören" + -ana n.: "Ohr"
+28\. śravaṇa: śru 5 P "hoor" + -ana n.: "Oor"
 
-B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich)
+B) Vorm abstrakte name vir alle tot dusver geleerde selfstandige naamwoorde en oorweeg hul betekenis (mondeling)
 
-C) Setzen Sie als direktes Objekt im Singular und Plural ein:
+C) Plaas as direkte voorwerp in enkelvoud en meervoud:
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
+⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+D) Vertaal
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Kṣatriyas beskerm sowat Brahmane asook Vaiśyas en Śūdras. (2 maniere)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
-
-2\. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
+⟪क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।⟫
+2\. 'n heilige man sien beide die hemel en die hel.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪साधुः स्वर्गांश्च नरकांश्च पश्यति ।⟫
 
-3\. Er besiegt Kṣatriyas.
+3\. Hy oorwin die Kṣatriyas.
 
 kṣatriyāñ jayati.
 
-⟪क्षत्रियञ्जयति⟫ ⟪।⟫
+⟪क्षत्रियञ्जयति ।⟫
 
-4\. Sie spannt die Webkette auf.
+4\. Sy rek die warps.
 
 tantraṃ tanoti.
 
-⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
+⟪तन्त्रं तनोति ।⟫
 
-5\. Soldaten kämpfen.
+5\. Soldate veg.
 
 yodhā yudhyante.
 
-⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪योधा युध्यन्ते ।⟫
 
-6\. Der Brahmane macht ein Feuer.
+6\. Die Brahmin maak 'n vuur.
 
 brāhmaṇo 'gniṃ karoti.
 
-⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
+⟪ब्राह्मणो ऽग्निं करोति ।⟫
 
-7\. Brahmanen machen Feuer.
+7\. Brahmine maak vure.
 
 brāhmaṇā agniṃ kurvanti.
 
-⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा अग्निं कुर्वन्ति ।⟫
 
-8\. Was tun diese Kämpfer?
+8\. Wat doen hierdie krygers?
 
 ime yodhāḥ kiṃ kurvanti?
 
-⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪इमे योधाः किं कुर्वन्ति ।⟫
 
-9\. Wen sieht das Auge?
+9\. Wie sien die oog?
 
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं पश्यति ।⟫
 
-10\. Was begehren Götter?
+10\. Wat begeer die gode?
 
 devāḥ kiṃ lubhyanti?
 
-⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪देवाः किं लुभ्यन्ति ।⟫
 
-11\. Was ist der Grund?
+11\. Wat is die rede?
 
 kiṃ kāraṇam?
 
-⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
+⟪किं कारणम् ॥⟫
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
+(Beeldbron: [Besonderhede](/licenses#uebung007))
 :::
 ---
 
-## Leseübung
+## Leesoefening
 
-1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-Der Śūdra führt den Knaben.
+1\. ⟪शूद्रो बालं नयति⟫ |
+Die Śūdra lei die seun.
 
-2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-Der Dichter opfert dem Gott.
+2\. ⟪कविर्देवं यजते⟫ |
+Die digter bring 'n offer aan die god.
 
-3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Der Heilige isst Früchte.
+3\. ⟪साधुः फलानि खादति⟫ |
+Die wysgeer eet vrugte.
 
-4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-Der Meister besiegt seinen Zorn.
+4\. ⟪गुरुः क्रोधं जयति⟫ |
+Die meester oorwin sy woede.
 
-5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Der Gott erschafft die Hölle.
+5\. ⟪देवो नरकं सृजति⟫ |
+Die god skep die hel.
 
-6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Die Kuh betritt das Dorf.
+6\. ⟪धेनुर्ग्रामं विशति⟫ |
+Die koei kom die dorp binne.
 
-7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-Leidenschaft, Zorn und Gier führen zur Hölle.
+7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+Pasi, woede en gierigheid lei tot die hel.
 
-8\. ⟪देवतां⟫ ⟪यजति⟫ |
-Er opfert für einen Opferherren der Gottheit.
+8\. ⟪देवतां यजति⟫ |
+Hy bring 'n offer aan die godheid namens 'n borg.
+9\. ⟪बाला भवति⟫ |
+'n Meisie kom tot stand.
 
-9\. ⟪बाला⟫ ⟪भवति⟫ |
-Ein Mädchen entsteht.
+10\. ⟪सारथी रथं नयति⟫ |
+'n Charioteer stuur die wa.
 
-10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-Ein Wagenlenker lenkt den Wagen.
+11\. ⟪कपयः फलानि खादन्ति⟫ |
+Die ape eet die vrugte.
 
-11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-Die Affen fressen die Früchte.
+12\. ⟪बाला लिखति⟫ |
+Die meisie skryf of teken.
 
-12\. ⟪बाला⟫ ⟪लिखति⟫ |
-Das Mädchen scheibt bzw. zeichnet.
+13\. ⟪कुमारी गृहं विशति⟫ |
+Die maagd gaan die huis binne.
 
-13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-Die Jungfrau betritt das Haus.
+14\. ⟪देवो नागं सृजति⟫ |
+God skep die olifant, of die slang, of die Nāga.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+15\. ⟪बालो गजं नयति⟫ |
+Die seun lei die olifant.
 
-15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-Der Knabe führt den Elefanten.
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ eie naam Vimalā)
+Vimalā is hartseer.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-Vimalā ist traurig.
+17\. ⟪शुकः पतति⟫ |
+Die papegaai vlieg.
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
-Der Papagei fliegt.
-
-18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
-Der Knabe schreibt einen Brief.
+18\. ⟪बालः पत्रिकां लिखति⟫ |
+Die seun skryf 'n brief.
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
-(Bildquelle: [Details](/licenses#uebung008))
+Fig.: ⟪कपिः फलं खदति⟫
+(Beeldbron: [Besonderhede](/licenses#uebung008))
 :::

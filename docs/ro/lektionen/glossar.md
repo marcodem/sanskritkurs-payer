@@ -161,7 +161,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | într-un loc | [51](/ro/lektionen/lektion51#_51-6-list-de-cuvinte) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | subliniază cuvântul precedent | [13](/ro/lektionen/lektion13#_13-9-list-de-cuvinte) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | subliniază ceea ce a precedat, în germană corespunde adesea accentuării, un fel de emoticon \<!\>, ex. "doar adevă | [15](/ro/lektionen/lektion15#_15-8-list-de-cuvinte) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | subliniază ceea ce a precedat, în germană corespunde adesea accentuării, un fel de emoticon \<!\>, ex. "doar adevărul în | [15](/ro/lektionen/lektion15#_15-8-list-de-cuvinte) |
 
 ## ओ
 

@@ -319,7 +319,7 @@ html[dir="rtl"] .vp-doc em {
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   font-size: 1.1rem !important;
   color: var(--vp-c-text-1) !important;
-  font-weight: 600 !important; /* Bold styling - wie im original */
+  /* font-weight: 600 !important; Removed: Caused all Latin text to be falsely bold */
 }
 
 .dark .vp-doc .custom-block.grammar-box2 {

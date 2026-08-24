@@ -1,28 +1,34 @@
 📊 Translation Status Report (Master-Basis: 140 Dateien)
-Timestamp: 2026-08-22 20:30:06 CEST
-Vergleich zum letzten Bericht: `2026-08-22 20:12:39 CEST`
+Timestamp: 2026-08-24 20:36:32 CEST
+Vergleich zum letzten Bericht: `2026-08-24 20:32:34 CEST`
 
-✅ **25 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `it`, `es`, `fr`, `ru`, `uk`, `rm`, `ar`, `fi`, `ta`, `pa`, `la`, `id`, `th`, `hi`, `el`, `grc`, `ro`, `he`, `hu`, `zh-CN`, `fa`, `bg`, `zh`, `tr`
+✅ **27 Sprachen vollständig fertig (100%, 0 Fallbacks):** `en`, `it`, `es`, `fr`, `ru`, `uk`, `rm`, `ar`, `fi`, `ta`, `pa`, `id`, `th`, `hi`, `ro`, `he`, `hu`, `zh-CN`, `pt`, `af`, `nl`, `fa`, `lt`, `sh`, `bg`, `zh`, `tr`
 
 🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):
 
-Sprache: 🇳🇱 Nederlands (nl)
-Prozess-PID: 8031 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Volumes/SanDisk1TB/proj/Payer/scripts/lan_translate.py --lang nl --force` – Ungepuffert & Aktiv, CPU-Time: 0:01.57)
-Aktuelle Datei / Chunk-Fortschritt: `lektion25.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **29/140 Dateien (20.7%)**
-Pipeline-Queue (111 Dateien ausstehend): `lektion23.md` (Contains unallowed German/English phrases or remnants), `lektion25.md` (Contains unallowed German/English phrases or remnants), `lektion26.md` (Contains unallowed German/English phrases or remnants), `lektion27.md` (Contains unallowed German/English phrases or remnants), `lektion28.md` (Contains unallowed German/English phrases or remnants), `lektion29.md` (Contains unallowed German/English phrases or remnants), `lektion30.md` (Contains unallowed German/English phrases or remnants), `lektion31.md` (Contains unallowed German/English phrases or remnants) ... (+103 weitere)
-Delta zum letzten Bericht: **+1 Sauber | -1 FB | Δ +0.7%**
+Sprache: 🇸🇰 Slovenčina (sk)
+Prozess-PID: 75957 (`/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python scripts/lan_translate.py --lang sk --force` – Ungepuffert & Aktiv, CPU-Time: 0:00.44)
+Aktuelle Datei / Chunk-Fortschritt: `schrift08.md` (Sektion 1/1 Chunks – 100.0% dieser Datei) | Gesamt: **15/140 Dateien (10.7%)**
+Pipeline-Queue (125 Dateien ausstehend): `lektion04.md` (Exact copy of German master file), `lektion05.md` (Exact copy of German master file), `lektion06.md` (Exact copy of German master file), `lektion07.md` (Exact copy of German master file), `lektion08.md` (Exact copy of German master file), `lektion09.md` (Exact copy of German master file), `lektion10.md` (Exact copy of German master file), `lektion11.md` (Exact copy of German master file) ... (+117 weitere)
+Delta zum letzten Bericht: **-113 Sauber | +113 FB | Δ -80.7%**
 Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).
 Performance: ⚡ Aktiv (Warte auf ersten Chunk) – *Neustart-Schwelle: < 5.0 t/s*
 
-| Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |
-| :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |
-| `pt` | Português | 61/140 | 79 | 79 Dateien | — | 43.6% | 🔄 Nächste Sprache |
-| `nl` | Nederlands | 29/140 | 111 | 111 Dateien | +1 Sauber | -1 FB | Δ +0.7% | 20.7% | 🎯 Aktiv (`lektion25.md` Sektion 1/1) |
-| `af` | Afrikaans | 7/140 | 133 | 133 Dateien | — | 5.0% | ⌛ In Warteschlange |
-| `vi` | Tiếng Việt | 6/140 | 134 | 134 Dateien | — | 4.3% | ⌛ In Warteschlange |
-| `lt` | Lietuvių | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
-| `sh` | Srpsko-hrvatski | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
-| `sq` | Shqip | 2/140 | 138 | 138 Dateien | — | 1.4% | ⌛ In Warteschlange |
-| `am` | አማርኛ | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
-| `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
-| `zu` | isiZulu | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| Rang | Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |
+| :---: | :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |
+| 1. | `la` | Latina | 139/140 | 1 | 1 (themen.md) | -1 Sauber | +1 FB | Δ -0.7% | 99.3% | 🔄 Nächste Sprache |
+| 2. | `el` | Ελληνικά | 139/140 | 1 | 1 (themen.md) | -1 Sauber | +1 FB | Δ -0.7% | 99.3% | ⌛ In Warteschlange |
+| 3. | `grc` | Ἀρχαία | 139/140 | 1 | 1 (themen.md) | -1 Sauber | +1 FB | Δ -0.7% | 99.3% | ⌛ In Warteschlange |
+| 4. | `sq` | Shqip | 139/140 | 1 | 1 (impressum.md) | -1 Sauber | +1 FB | Δ -0.7% | 99.3% | ⌛ In Warteschlange |
+| 5. | `vi` | Tiếng Việt | 82/140 | 58 | 58 Dateien | -58 Sauber | +58 FB | Δ -41.4% | 58.6% | ⌛ In Warteschlange |
+| 6. | `zu` | isiZulu | 20/140 | 120 | 120 Dateien | -120 Sauber | +120 FB | Δ -85.7% | 14.3% | ⌛ In Warteschlange |
+| 7. | `am` | አማርኛ | 18/140 | 122 | 122 Dateien | -122 Sauber | +122 FB | Δ -87.1% | 12.9% | ⌛ In Warteschlange |
+| 8. | `cop` | ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ | 17/140 | 123 | 123 Dateien | -123 Sauber | +123 FB | Δ -87.9% | 12.1% | ⌛ In Warteschlange |
+| 9. | `pl` | Polski | 17/140 | 123 | 123 Dateien | -123 Sauber | +123 FB | Δ -87.9% | 12.1% | ⌛ In Warteschlange |
+| 10. | `cs` | Čeština | 17/140 | 123 | 123 Dateien | -123 Sauber | +123 FB | Δ -87.9% | 12.1% | ⌛ In Warteschlange |
+| 11. | `sk` | Slovenčina | 15/140 | 125 | 125 Dateien | -113 Sauber | +113 FB | Δ -80.7% | 10.7% | 🎯 Aktiv (`schrift08.md` Sektion 1/1) |
+| 12. | `sl` | Slovenščina | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| 13. | `ka` | ქართული | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| 14. | `hy` | Հայերեն | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| 15. | `si` | සිංහල | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |
+| 16. | `te` | తెలుగు | 0/140 | 0 | 0 Dateien | — | 0.0% | ⌛ In Warteschlange |

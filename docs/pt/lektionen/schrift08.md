@@ -1,22 +1,22 @@
-# Exercício de Escrita 8
+# Exercício de escrita 8
 
-Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit einem vorhergehenden Wort verbunden ist:
+Sinais vocálicos para o início da palavra, caso a palavra não esteja escrita ligada a uma palavra anterior:
 
 ![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
-### Konsonantenligaturen
+### Ligaduras consonânticas
 
-Wenn im Wort oder Satz zwei oder mehrere Konsonanten unmittelbar aufeinander folgen, werden sie mit Ligatur (verbundenes Zeichen) geschrieben.
+Quando duas ou mais consoantes se seguem imediatamente no interior de uma palavra ou frase, elas são escritas com ligadura (sinal unido).
 
-1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschliesst, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
+1. Se o primeiro dos sinais consonânticos a serem unidos terminar com uma linha vertical à direita, ele perde essa linha e é colocado antes da segunda consoante.
 
-Ausnahme: wenn das zweite Konsonantenzeichen ⟪न्⟫ oder ⟪ल्⟫ ist, wird dieses mit Verlust des wagrechten Strichs unter das erste Konsonantenzeichen gesetzt. Je nach Schrifttype gibt es weitere Ausnahmen, die in der folgenden aufgeführt sind. Ist in der betreffenden Schrifttype eine Ligatur nicht vorgesehen, wird ein Virāma gesetzt.
+Exceção: se o segundo sinal consonântico for ⟪न्⟫ ou ⟪ल्⟫, este é colocado sob o primeiro sinal consonântico, perdendo a linha horizontal. Dependente da fonte tipográfica existem outras exceções listadas abaixo. Se uma ligadura não estiver prevista na respectiva fonte, é inserido um Virāma.
 
-Beispiele:
+Exemplos:
 
-In der Type, die in diesem Skript verwendet wird:
+Na fonte utilizada neste script:
 
 ⟪ख्⟫ kh: ⟪ख्य⟫  khya, ⟪ख्र⟫ khra
 
@@ -40,7 +40,7 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪न्⟫ n: ⟪न्त⟫ nta, ⟪न्त्य⟫ ntya, ⟪न्त्र⟫ ntra, ⟪न्द⟫ nda, ⟪न्द्र⟫ ndra, ⟪न्ध⟫ ndha, ⟪न्ध्र⟫ ndhra, ⟪न्न⟫ nna, ⟪न्य⟫ nya
 
-⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
+⟪प्⟫ p: ⟪प्त⟫ pta, ⟪प्न⟫ pna, ⟪प्म⟫ pma, ⟪प्र⟫ pra, ⟪प्ल⟫ pla,  ⟪प्स⟫ psa
 
 ⟪ब्⟫ b: ⟪ब्ज⟫ bja, ⟪ब्द⟫ bda, ⟪ब्ध⟫ bdha, ⟪ब्ब⟫ bba, ⟪ब्भ⟫ bbha, ⟪ब्र⟫ bra
 
@@ -60,23 +60,23 @@ In der Type, die in diesem Skript verwendet wird:
 
 ⟪स्⟫ s: ⟪स्क⟫ ska, ⟪स्ख⟫ skha, ⟪स्त⟫ sta, ⟪स्त्य⟫ stya, ⟪स्त्र⟫ stra, ⟪स्त्व⟫ stva, ⟪स्थ⟫ stha, ⟪स्न⟫ sna, ⟪स्प⟫ spa, ⟪स्र⟫ sra
 
-Beachten Sie die Schreibung von jña:
+Observe a escrita de jña:
 
 ![](/images/schrift017.webp)
 
-Anlautendes -a, das gemäss den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
+O -a inicial, que é elidido de acordo com as regras do Sandhi de frase (-as + a- » -o ' ), é indicado pelo chamado Avagraha:
 
 ⟪ऽ⟫
 
-z.B.
+Por exemplo,
 
-⟪देवो⟫ ⟪ऽग्निः⟫ \= devo 'gniḥ
+⟪देवो ऽग्निः⟫ \= devo 'gniḥ
 
 ## Exercício
 
-A) Schreiben Sie alle in der obigen Liste vorkommenden Ligaturen
+A) Escreva todas as ligaduras presentes na lista acima.
 
-B) Schreiben und übersetzen Sie:
+B) Escreva e traduza:
 
 1\. devo viṣṇuḥ.
 
@@ -114,12 +114,12 @@ B) Schreiben und übersetzen Sie:
 
 18\. devā yudhyante.
 
-C) Schreiben Sie:
+C) Escreva:
 
 agraṃ agniḥ ākāśa ūrdhvaṃ īpsitaḥ āptaṃ udayo īśo āsanno uttamaṃ
 
-D) Lesen, transliterieren und übersetzen Sie:
+D) Leia, translitere e traduza:
 
-⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ | ⟪साध्व्यः⟫ ⟪स्मरन्ति⟫ | ⟪देव्यो⟫ ⟪मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | ⟪साधवो⟫ ⟪गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
+⟪शूद्रा नृत्यन्ति⟫ | ⟪साध्व्यः स्मरन्ति⟫ | ⟪देव्यो मन्यन्ते⟫ | ⟪योधाञ्जयति⟫ | ⟪गुरूञ्छृणोति⟫ | ⟪पशूल्लंभते⟫ | ⟪साधुः स्वर्गं गच्छति⟫ | ⟪साधवो गुरूञ्छृण्वन्ति⟫ | ⟪नरकांश्च स्वर्गांश्च गच्छन्ति⟫ | ⟪सृष्टिः⟫ | ⟪तन्वन्ति⟫ |
 
 

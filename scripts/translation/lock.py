@@ -76,7 +76,7 @@ def acquire_nyx_lock():
 
         sys.stderr.write(f"\n[!] FATAL LOCK ERROR: Another active translation process (PID {lock_pid}) is running and holding {LOCK_FILE_PATH}.\n")
         sys.stderr.write(f"[!] Single-process rule enforced: Exiting process PID {os.getpid()} immediately.\n\n")
-        sys.exit(1)
+        sys.exit(42)
 
 def touch_nyx_lock_heartbeat():
     """Touch lock file mtime to maintain active heartbeat."""

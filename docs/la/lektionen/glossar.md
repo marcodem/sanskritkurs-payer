@@ -160,7 +160,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | loco uno | [51](/la/lektionen/lektion51#_51-6-glossarium) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | verbum praecedens emphaticum reddit | [13](/la/lektionen/lektion13#_13-9-glossarium-verborum) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | praecedens emphaticum reddit, Germanice saepe accentui respondet, veluti emoticonum \<!\>, exempli gratia "veritas | [15](/la/lektionen/lektion15#_15-8-vocabularium) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | praecedens emphaticum reddit, Germanice saepe accentui respondet, veluti emoticonum \<!\>, exempli gratia "veritas sola  | [15](/la/lektionen/lektion15#_15-8-vocabularium) |
 
 ## ओ
 

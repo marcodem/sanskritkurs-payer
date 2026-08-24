@@ -1,17 +1,17 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 5
+## Bài tập viết chữ 5
 
 ![](/images/schrift008.webp)
 
-## Übung
+## Bài tập
 
-A) Schreiben Sie in Devanāgarī:
+A) Viết bằng chữ Devanāgarī:
 
 chāyā paṭhati chidā phaṭā yathā khanati phalaṃ chādayate khādanīyaṃ tathā pāṭhana chāgalaḥ ṭhaṃsarī phalarāśi mithunā phenaḥ khidira kathaṃ ratho likhati
 
-B) Lesen und transliterieren Sie:
+B) Đọc và chuyển tự:
 
-⟪फूत्⟫ ⟪विठोबा⟫ ⟪वितथ⟫ ⟪पाययति⟫ ⟪छलकं⟫ ⟪खेदो⟫ ⟪पाठीनं⟫ ⟪छिदुरा⟫ ⟪खेडकं⟫ ⟪खटू⟫ ⟪मुखं⟫ ⟪मुथहा⟫ ⟪नाथो⟫
+⟪फूत् विठोबा वितथ पाययति छलकं खेदो पाठीनं छिदुरा खेडकं खटू मुखं मुथहा नाथो⟫
 
 

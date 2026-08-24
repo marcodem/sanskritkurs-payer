@@ -70,13 +70,9 @@ Opmerking: **e** is de hogere trap (**guṇa**) van **i**, **o** is de hogere tr
 :::
 bijv.
 
-devatā + annapūrṇā » devatānnapūrṇā “Annapūrṇā is een godheid” = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā “Annapūrṇā is een godheid” = ⟪देवतान्नपूर्णा⟫ (Annapūrṇā is de godin van het eten en het koken; zij wordt beschouwd als een incarnatie van Pārvatī, de echtgenote van Śiva.)
 
-\> (Annapūrṇā is de godin van het eten en het koken; zij wordt beschouwd als een incarnatie van Pārvatī, de echtgenote van Śiva.)
-
-devī + indrāṇī » devīndrāṇī „Indrāṇī is een godin” = ⟪देवीन्द्राणी⟫
-
-\> (Indrāṇī is de echtgenote van de god Indra.)
+devī + indrāṇī » devīndrāṇī „Indrāṇī is een godin” = ⟪देवीन्द्राणी⟫ (Indrāṇī is de echtgenote van de god Indra.)
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -93,9 +89,7 @@ Afb.: Indra en Indrāṇī op de olifant Airavata, miniatuur, Rājasthān, 1670/
 :::
 bijv.
 
-devī + umā » devy umā "Umā is een / de godin" = ⟪देव्युमा⟫
-
-\> (Umā is een naam voor Pārvatī, de echtgenote van Śiva)
+devī + umā » devy umā "Umā is een / de godin" = ⟪देव्युमा⟫ (Umā is een naam voor Pārvatī, de echtgenote van Śiva)
 
 ::: grammar-box
 **-a / -ā voor een ongelijksoortige klinker:**

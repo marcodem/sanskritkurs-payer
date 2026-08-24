@@ -1,107 +1,108 @@
 ---
 aside: true
 outline: [2, 3]
+
 ---
 
-# Grammatik Themen
+# Grammatika onderwerpe
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+Hierdie bladsy bied 'n sistematiese oorsig van alle grammatikale onderwerpe in die Sanskrit-kursus. Elke een van die 61 lesies is hier tematies ingedeel.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Klankleer & Skryf (Saṃhitā & Lipi)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -\> [Lektion 1](/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -\> [Lektion 40](/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -\> [Lektion 41](/lektionen/lektion41) & [Lektion 42](/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -\> [Lektion 2](/lektionen/lektion02), [Lektion 3](/lektionen/lektion03), [Lektion 30](/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -\> [Lektion 4](/lektionen/lektion04)
-    *   **Vokalsandhi** -\> [Lektion 3](/lektionen/lektion03), [Lektion 24](/lektionen/lektion24)
-    *   Sandhi von **-n** -\> [Lektion 7](/lektionen/lektion07)
-    *   Sandhi für **Nasale** -\> [Lektion 21](/lektionen/lektion21), [Lektion 26](/lektionen/lektion26)
-    *   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/lektionen/lektion10), [Lektion 26](/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -\> [Lektion 44](/lektionen/lektion44), [Lektion 51](/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -\> [Lektion 16](/lektionen/lektion16), [Lektion 43](/lektionen/lektion43)
+*   **Inleiding tot die klank**: Sistematiek en uitspraak -\> [Les 1](/af/lektionen/lektion01)
+*   **Skryf inleiding (Devanāgarī)**:
+*   Klinkers en eenvoudige konsonante -\> [Les 40](/af/lektionen/lektion40)
+*   Saamgestelde konsonante (ligature) -\> [Les 41](/af/lektionen/lektion41) & [Les 42](/af/lektionen/lektion42)
+*   **Sandhi (klankverbinding)**:
+*   Sandhi van uitgaande **-s/Visarga** -\> [Les 2](/af/lektionen/lektion02), [Les 3](/af/lektionen/lektion03), [Les 30](/af/lektionen/lektion30)
+*   Sandhi van **-m, -e, -d** -\> [Les 4](/af/lektionen/lektion04)
+*   **Klinkersandhi** -\> [Les 3](/af/lektionen/lektion03), [Les 24](/af/lektionen/lektion24)
+*   Sandhi van **-n** -\> [Les 7](/af/lektionen/lektion07)
+*   Sandhi vir **Nasale** -\> [Les 21](/af/lektionen/lektion21), [Les 26](/af/lektionen/lektion26)
+*   Cerebraliserings (**n -\> ṇ / s -\> ṣ**) -\> [Les 10](/af/lektionen/lektion10), [Les 26](/af/lektionen/lektion26)
+*   Woordsandhi (h-, ch-) -\> [Les 44](/af/lektionen/lektion44), [Les 51](/af/lektionen/lektion51)
+*   **Konsonantensandhi** (opsommings) -\> [Les 16](/af/lektionen/lektion16), [Les 43](/af/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Woordkunde (Morfologie)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Substantiewe en byvoeglike naamwoorde (Deklinasie)
 
-*   **Grundlagen**: Kasuslehre -\> [Lektion 1](/lektionen/lektion01), [Lektion 2](/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -\> [Lektion 2](/lektionen/lektion02), [Lektion 7](/lektionen/lektion07)
-*   **I- und U-Stämme** -\> [Lektion 3](/lektionen/lektion03), [Lektion 27](/lektionen/lektion27), [Lektion 52](/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -\> [Lektion 13](/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -\> [Lektion 38](/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -\> [Lektion 51](/lektionen/lektion51), [Lektion 54](/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -\> [Lektion 61](/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -\> [Lektion 49](/lektionen/lektion49), [Lektion 50](/lektionen/lektion50), [Lektion 53](/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -\> [Lektion 52](/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -\> [Lektion 53](/lektionen/lektion53)
+*   **Grondslae**: Kasusleer -\> [Les 1](/af/lektionen/lektion01), [Les 2](/af/lektionen/lektion02)
+*   **A-stamme** (Maskulinum & Neutrum) -\> [Les 2](/af/lektionen/lektion02), [Les 7](/af/lektionen/lektion07)
+*   **I- en U-stamme** -\> [Les 3](/af/lektionen/lektion03), [Les 27](/af/lektionen/lektion27), [Les 52](/af/lektionen/lektion52)
+*   **Konsonantiese stamme**:
+*   Stamme op **-mant / -vant** -\> [Les 13](/af/lektionen/lektion13)
+*   Stamme op **-n** (Rājan, Ātman) -\> [Les 38](/af/lektionen/lektion38)
+*   Eenvoudige konsonantiese stamme -\> [Les 51](/af/lektionen/lektion51), [Les 54](/af/lektionen/lektion54)
+*   Wortstamnomina op **-ā, -ī, -ū** -\> [Les 61](/af/lektionen/lektion61)
+*   **Die Dual (tweeslag)** van die Nomina -\> [Les 49](/af/lektionen/lektion49), [Les 50](/af/lektionen/lektion50), [Les 53](/af/lektionen/lektion53)
+*   **Getalle & Vergelyking**:
+*   Telwoorde (Kardinaal/Orde) -\> [Les 52](/af/lektionen/lektion52)
+*   Vergelyking (Komparatief/Superlatief) -\> [Les 53](/af/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Voornaamwoorde & Bywoorde
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -\> [Lektion 4](/lektionen/lektion04)
-    *   Relativpronomen (yad) -\> [Lektion 19](/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -\> [Lektion 46](/lektionen/lektion46), [Lektion 47](/lektionen/lektion47)
-    *   Indefinitpronomina -\> [Lektion 37](/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -\> [Lektion 37](/lektionen/lektion37), [Lektion 52](/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -\> [Lektion 21](/lektionen/lektion21), [Lektion 44](/lektionen/lektion44)
+*   **Voornaamwoorde**:
+*   Vra- en Demonstratiewe voornaamwoorde -\> [Les 4](/af/lektionen/lektion04)
+*   Relatiewe voornaamwoorde (yad) -\> [Les 19](/af/lektionen/lektion19)
+*   Persoonlike voornaamwoorde (1. & 2. persoon) -\> [Les 46](/af/lektionen/lektion46), [Les 47](/af/lektionen/lektion47)
+*   Onbepaalde voornaamwoorde -\> [Les 37](/af/lektionen/lektion37)
+*   **Bywoorde & Aanspreekvorms**:
+*   Vorming van bywoorde -\> [Les 37](/af/lektionen/lektion37), [Les 52](/af/lektionen/lektion52)
+*   Vriendelike aanspreekvorms & vokatief -\> [Les 21](/af/lektionen/lektion21), [Les 44](/af/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Werkwoorde (Konjugasie)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -\> [Lektion 6](/lektionen/lektion06), [Lektion 44](/lektionen/lektion44), [Lektion 39](/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -\> [Lektion 6](/lektionen/lektion06), [Lektion 28](/lektionen/lektion28)
-    *   Athematische Klassen -\> [Lektion 17](/lektionen/lektion17), [Lektion 33](/lektionen/lektion33), [Lektion 7](/lektionen/lektion07), [Lektion 31](/lektionen/lektion31), [Lektion 8](/lektionen/lektion08), [Lektion 30](/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -\> [Lektion 32](/lektionen/lektion32)
-    *   **Optativ & Imperativ** -\> [Lektion 30](/lektionen/lektion30), [Lektion 48](/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -\> [Lektion 34](/lektionen/lektion34), [Lektion 35](/lektionen/lektion35), [Lektion 36](/lektionen/lektion36)
-    *   **Perfekt (Dual)** -\> [Lektion 60](/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -\> [Lektion 26](/lektionen/lektion26), [Lektion 61](/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -\> [Lektion 54](/lektionen/lektion54), [Lektion 55](/lektionen/lektion55), [Lektion 56](/lektionen/lektion56), [Lektion 57](/lektionen/lektion57), [Lektion 58](/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -\> [Lektion 10](/lektionen/lektion10), [Lektion 28](/lektionen/lektion28), [Lektion 29](/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -\> [Lektion 61](/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -\> [Lektion 59](/lektionen/lektion59), [Lektion 60](/lektionen/lektion60)
+*   **Die teenwoordige stelsel (Indikatief)**:
+*   Persoonlike uitgange (3., 2., 1. persoon) -\> [Lesing 6](/af/lektionen/lektion06), [Lesing 44](/af/lektionen/lektion44), [Lesing 39](/af/lektionen/lektion39)
+*   Thematische klasse (1, 4, 6, 10) -\> [Lesing 6](/af/lektionen/lektion06), [Lesing 28](/af/lektionen/lektion28)
+*   Atheematiese klasse -\> [Lesing 17](/af/lektionen/lektion17), [Lesing 33](/af/lektionen/lektion33), [Lesing 7](/af/lektionen/lektion07), [Lesing 31](/af/lektionen/lektion31), [Lesing 8](/af/lektionen/lektion08), [Lesing 30](/af/lektionen/lektion30)
+*   **Andere tydvorme & wysigings**:
+*   **Imperfek** (verlede) -\> [Lesing 32](/af/lektionen/lektion32)
+*   **Optatief & Imperatief** -\> [Lesing 30](/af/lektionen/lektion30), [Lesing 48](/af/lektionen/lektion48)
+*   **Perfek** (enkervoud/meervoud) -\> [Lesing 34](/af/lektionen/lektion34), [Lesing 35](/af/lektionen/lektion35), [Lesing 36](/af/lektionen/lektion36)
+*   **Perfek (duo)** -\> [Lesing 60](/af/lektionen/lektion60)
+*   **Futuur** (Eenvoudig & Perifraasties) -\> [Lesing 26](/af/lektionen/lektion26), [Lesing 61](/af/lektionen/lektion61)
+*   **Aorist** (verlede) -\> [Lesing 54](/af/lektionen/lektion54), [Lesing 55](/af/lektionen/lektion55), [Lesing 56](/af/lektionen/lektion56), [Lesing 57](/af/lektionen/lektion57), [Lesing 58](/af/lektionen/lektion58)
+*   **Afgeleide werkwoordvorms**:
+*   **Passief & Kausatief** -\> [Lesing 10](/af/lektionen/lektion10), [Lesing 28](/af/lektionen/lektion28), [Lesing 29](/af/lektionen/lektion29)
+*   **Intensivum & Denominativa** -\> [Lesing 61](/af/lektionen/lektion61)
+*   **Werkwoorde in die duo (tweesydigheid)** -\> [Lesing 59](/af/lektionen/lektion59), [Lesing 60](/af/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Nominaalvormings & Samestellings
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **Samestellings (Samāsa)**:
+*   **Dvandva** (Koördinerende samestelling) -\> [Les 5](/af/lektionen/lektion05), [Les 9](/af/lektionen/lektion09)
+*   **Tatpuruṣa** (Determinerende samestelling) -\> [Les 15](/af/lektionen/lektion15), [Les 18](/af/lektionen/lektion18)
+*   Upapada-samestelling -\> [Les 51](/af/lektionen/lektion51)
+*   **Bahuvrīhi** (Possessiewe samestelling) -\> [Les 20](/af/lektionen/lektion20)
+*   **Agtervoegsels & Deelwoorde**:
+*   Belangrike agtervoegsels (-a, -ana, -tra, ens.) -\> [Les 8](/af/lektionen/lektion08), [Les 9](/af/lektionen/lektion09)
+*   **PPP** (Participium Perfek Passief) -\> [Les 12](/af/lektionen/lektion12), [Les 13](/af/lektionen/lektion13)
+*   **PPA** (Participium Perfek Aktief) -\> [Les 52](/af/lektionen/lektion52)
+*   **Absolutiewe & Infinitief** -\> [Les 22](/af/lektionen/lektion22), [Les 23](/af/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Sintaksis (Syntax)
 
-*   **Der Nominalsatz** -\> [Lektion 2](/lektionen/lektion02)
-*   **Der Fragesatz** -\> [Lektion 37](/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -\> [Lektion 2](/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -\> [Lektion 7](/lektionen/lektion07), [Lektion 11](/lektionen/lektion11)
-    *   Instrumentalis -\> [Lektion 10](/lektionen/lektion10)
-    *   Genitiv -\> [Lektion 14](/lektionen/lektion14)
-    *   Dativ -\> [Lektion 24](/lektionen/lektion24)
-    *   Ablativ -\> [Lektion 25](/lektionen/lektion25)
-    *   Lokativ -\> [Lektion 27](/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -\> [Lektion 19](/lektionen/lektion19)
-    *   Gebrauch der Partizipien -\> [Lektion 12](/lektionen/lektion12), [Lektion 44](/lektionen/lektion44)
+*   **Die Nominaalzin** -\> [Les 2](/af/lektionen/lektion02)
+*   **Die Vraesin** -\> [Les 37](/af/lektionen/lektion37)
+*   **Gebruik van die Kasusse**:
+*   Nominaalzin & Nominatief -\> [Les 2](/af/lektionen/lektion02)
+*   Akkusatief (ook dubbel) -\> [Les 7](/af/lektionen/lektion07), [Les 11](/af/lektionen/lektion11)
+*   Instrumentalis -\> [Les 10](/af/lektionen/lektion10)
+*   Genitief -\> [Les 14](/af/lektionen/lektion14)
+*   Datief -\> [Les 24](/af/lektionen/lektion24)
+*   Ablatief -\> [Les 25](/af/lektionen/lektion25)
+*   Lokatief -\> [Les 27](/af/lektionen/lektion27)
+*   **Bysinne**:
+*   Betreklike sinne -\> [Les 19](/af/lektionen/lektion19)
+*   Gebruik van die Deelwoorde -\> [Les 12](/af/lektionen/lektion12), [Les 44](/af/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Metriek (Versleer)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Sanskrit-filosofie en -literatuur is dikwels in verse geskryf. Die metriek leer die ritme en struktuur van hierdie verse.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
+*   **Inleiding & Śloka** -\> [Les 45](/af/lektionen/lektion45), [Les 53](/af/lektionen/lektion53)
+*   **Gevorderde metrum** (Trīṣṭubh, Jāgatī) -\> [Les 54](/af/lektionen/lektion54)
 

@@ -72,7 +72,12 @@ print(TOTAL_MASTER - len(get_translation_queue('$TOP_LANG')))
     echo "============================================================"
 
     START_TIME=$(date +%s)
-    if python3 scripts/lan_translate.py --lang "$TOP_LANG" $EXTRA_FLAGS; then
+    set +e
+    python3 scripts/lan_translate.py --lang "$TOP_LANG" $EXTRA_FLAGS
+    EXIT_CODE=$?
+    set -e
+    
+    if [ $EXIT_CODE -eq 0 ]; then
         END_TIME=$(date +%s)
         ELAPSED=$((END_TIME - START_TIME))
         ELAPSED_FMT="$(($ELAPSED / 3600))h $((($ELAPSED % 3600) / 60))m $(($ELAPSED % 60))s"
@@ -86,8 +91,12 @@ print('1' if is_language_completed('$TOP_LANG') else '0')
 
         if [ "$IS_COMPLETED" -eq 1 ]; then
             echo "🎉 [COMPLETED] [$TOP_LANG] is 100% clean (136/136 files)!"
-
         fi
+    elif [ $EXIT_CODE -eq 42 ]; then
+        echo "[$TOP_LANG] ⏳ Lock held by another process. Waiting 15 seconds..."
+        sleep 15
+        # Skip updating PREV_LANG and PREV_SAUBER so it doesn't trigger the stuck logic
+        continue
     else
         echo "[$TOP_LANG] ⚠️ Error occurred. Retrying [$TOP_LANG] in 10 seconds..."
         sleep 10

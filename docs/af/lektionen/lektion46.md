@@ -1,45 +1,44 @@
 ---
-title: Lektion 46
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
+title: "Lesing 46"
+subtitle: "Vorming van die werkwoordsvorms vir die tweede persoon (⟪मध्यमः⟫) Perfektyd (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 46
+---# Les 46
 
-## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Vorming van die 2de-persoon werkwoordsvorme (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Afsluitinge
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Perfektendungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Volmaakte eindings** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Beachten Sie, dass die Endung -- meistens aber nicht die Form! -- der 2.pl.P mit der der 1. und 3.sg.P übereinstimmt.
+Neem kennis dat die eindvorm — maar gewoonlik nie die vorm nie! — van die tweede persoon meervoud teenwoordige tyd ooreenstem met dié van die eerste en derde persoon enkelvoud teenwoordige tyd.
 
 ::: grammar-box
-Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
+In die meeste wortels kom geen verbindingsvokaal \-i- voor -ṛ gevolg deur -tha voor nie. In sommige wortels is die \-i- voor \-tha opsioneel.
 :::
-### 46.1.2. Lautveränderung der Endung -dhve
+### 46.1.2. Klankveranderings in die uitgang -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Die uitgang -dhve moet in die perfektyd deur -ḍhve vervang word as dit onmiddellik voorafgegaan word deur 'n stam -u of -ṛ. Hierdie vervanging kan opsioneel plaasvind ná die verbindingsvokaal -i- as dit onmiddellik voorafgegaan word deur 'n halvklinker of h.
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. Tipe I Perfekt: geen stamgradering nie
 
-Verben, die diesem Typ folgen:
+Werwe wat hierdie patroon volg:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Konsonant–lang vokaal–konsonant
+*   Konsonant-vokaal-konsonant-konsonant
+*   a-konsonant(-konsonant)
 *   ā-Konsonant
 
 ::: grammar-box
-1.sg.P = 3.sg.P = 2.pl.P
+1ste sing. teenw. = 3de sing. teenw. = 2de vpl. teenw.
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -55,7 +54,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | ⟪जिजीविषे⟫ | ⟪जिजीविध्वे⟫:br⟪जिजीविढ्वे⟫ |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,13 +62,13 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | ⟪आसिषे⟫ | ⟪आसिध्वे⟫ |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Perfektiipe II: Sterk stam hoë trappie, swak stam lae trappie
 
-Verben, die diesem Typ folgen:
+Werkwoorde wat hierdie tipe volg:
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant
+*   (Konsonant-)i/u/ṛ/ḷ-konsonant
 
 ⟪भिद्⟫ 7U
 
@@ -79,7 +78,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫
+⟪मुह्⟫ 4P fakultatief ⟪अनिट्⟫
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -87,13 +86,13 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. Perfektiipe III: Sterk stam hoë trappie/verlengde trappie
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. Perfektiipe IIIa: Sterk stam hoë trappie/verlengde trappie, swak stam lae trappie
 
-Verben, die diesem Typ folgen:
+Werkwoorde wat hierdie tipe volg:
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū
+*   (Konsonant-)(konsonant-)i/ī/u/ū
 *   (Konsonant-)-ṛ
 
 ⟪इ⟫ 2P
@@ -128,9 +127,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 46.1.5.2. Perfektiipe IIIb: Sterk stam hoë/streng-stem, swak stam hoë-stem
 
-Verben, die diesem Typ folgen:
+Werkwoorde wat hierdie tipe volg:
 
 *   (Konsonant-)(Konsonant-)-ṝ
 *   Konsonant-Konsonant-ṛ
@@ -151,11 +150,11 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Perfektiipe IV: Wortels op -ā / -ai
 
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   Swak stam:
+*   voor konsonant: diep-stem-i
+*   voor klinker: diep-stem-ø
 
 ⟪दा⟫ 3U
 
@@ -173,20 +172,20 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. Perfektiipe V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. Perfektiipe Va: Konsonant-a-Konsonant, swak stam diep-stem
 
-Verben, die diesem Typ folgen:
+Werkwoorde wat hierdie tipe volg:
 
 ::: indent
-1.  gam "gehen"
-2.  han (»ghan) "erschlagen"
-3.  jan "geboren werden"
-4.  vac "sprechen"
-5.  vad "sprechen"
-6.  yaj "opfern"
-7.  u.a.
+1.  gam "gaan"
+2.  han (»ghan) "slaan"
+3.  jan "gebore word"
+4.  vac "praat"
+5.  vad "praat"
+6.  yaj "offer"
+7.  ens.
 :::
 ⟪गम्⟫ 1P
 
@@ -252,10 +251,10 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
+#### 46.1.7.2. Tipe Vb perfek: konsonant-a-konsonant, aanvangs-konsonant nie 'n keelklank, aspirant of h nie, swak stam sonder reduplisering, met -e-
 
 ::: grammar-box
-Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
+Die tweede persoon enkelvoud teenwoordige tyd word gevorm uit die swak stam wanneer die verbindingsvokaal -i- voorkom.
 :::
 ⟪पच्⟫ 1U
 
@@ -265,11 +264,11 @@ Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn der Bindevokal -i- antritt.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. Tipe Vc perfek: medeklinker-a-medeklinker, swak stam, hoë graad
 
-Verben, die diesem Typ folgen:
+Werwe wat hierdie patroon volg:
 
-*   Alle übrigen Wurzeln mit mittlerem -a-
+*   Alle ander wortels met 'n middel-a
 
 ⟪क्रम्⟫ 1U
 
@@ -279,9 +278,9 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Spesiale Perfektvormings
 
-⟪विद्⟫ 2P präsentisches Perfekt
+⟪विद्⟫ 2P teenwoordige perfek
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -303,7 +302,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
+| ⟪बभूविथ⟫:br= 1.3.sg.P |
 :::
 ⟪जि⟫ 1P
 
@@ -313,89 +312,89 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Perifrastiese Perfek (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von:
+Die perifrastiese perfek word gevorm deur:
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ
-*   Wurzeln, die mit langem Vokal (ausser ā) beginnen
-*   Wurzeln: Vokal (ausser a-)-Konsonant-Konsonant
-*   einigen anderen
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein"
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms:
-    *   bhī "sich fürchten"
-    *   bhṛ "tragen"
-    *   hu "opfern"
-    *   hrī "sich schämen"
+*   afgeleide werkwoordstamme (kouseatief, desideratief, frekwentatief, denominatiewe), veral kouseatief
+*   wortels wat met 'n lang klinker (behalwe ā) begin
+*   wortels: Vokaal (behalwe a-)-Konsonant-Konsonant
+*   'n paar ander
+*   by sommige wortels kan beide perfekke opsioneel gevorm word: uṣ "brand", vid "weet", jāgṛ "waak", daridrā "arm wees"
+*   by die volgende wortels kan beide perfekke opsioneel gevorm word en ook die perifrastiese perfek is herhalend, naamlik met die herhalingssilabe van die teenwoordige stam:
+*   bhī "vrees"
+*   bhṛ "dra"
+*   hu "offer"
+*   hrī "skaam"
 
-⟪बन्ध्⟫ Kausativ
+⟪बन्ध्⟫ Kouseatief
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
+| ⟪बन्धयां चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ | ⟪बन्धयां चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां बभूविथ⟫ | ⟪बन्धयां चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Woordlys
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+⟪सम⟫ 3: gelyk, presies, soortgelyk
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+daarvandaan:
+⟪समम्⟫ Adv.: op dieselfde manier, gelyktydig (⟪तृतीयया⟫), eweredig
+⟪समता⟫ f.: gemoedsrus
+⟪विषम⟫ 3: ongelyk, oneffen, sleg
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : gryp, vashou, vat
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
+Toek. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫  
-PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫  
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+daarvandaan:
+⟪ग्रह⟫ m.: gryp, greper, krokodil, wandelende ster
+⟪नवग्रह⟫ m.: die nege wandelende sterre (nie planete nie!) (s. Basham, Wonder S. 493):
+1. ⟪सूर्यः⟫ = Son
+2. ⟪चन्द्रः⟫ = Maan
+3. ⟪मङ्गलः⟫ = Mars
+4. ⟪बुधः⟫ = Mercurius
+5. ⟪बृहस्पतिः⟫ = Jupiter
+6. ⟪शुक्रः⟫ = Venus
+7. ⟪शनिः⟫ = Saturnus
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Vir ⟪राहु⟫ en ⟪केतु⟫ sien:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Inleiding en Oorsig. -- 10. Sakramente en oorgangsrites (samskara). -- Aanhangsel C: Rahu en Ketu, die onsigbare wandelende sterre . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+Afbeelding: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/af/licenses#lekt4602)
+(Beeldbron: [Besonderhede](/af/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/af/licenses#lekt4603)
+(Belegbild: [Details](/af/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/af/licenses#lekt4604)
+(Belegbild: [Details](/af/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/af/licenses#lekt4605)
+(Belegbild: [Details](/af/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
@@ -414,15 +413,15 @@ Inf. ⟪तोष्टुम्⟫
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+Fig.: [⟪नारायण तुभ्यं नमामि⟫](/af/licenses#lekt4607)
+(Belegbild: [Details](/af/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
 
@@ -430,17 +429,17 @@ Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+Fig.: [⟪अश्वरोहकः⟫](/af/licenses#lekt4606)
+(Belegbild: [Details](/af/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -450,139 +449,137 @@ Kaus. ⟪ह्वाययति⟫
 PPP ⟪हूत⟫  
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
-
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+Fig.: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/af/licenses#lekt4608)
+(Beeldbron: [Details](/af/licenses#lekt4608))
 :::
 
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobiel", ⟪दूरशब्द⟫ n. "langeafstandskall, telefoon" » ⟪चरिष्णुदूरशब्द⟫ "selfoon" (woordvorming: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: die daad van heen en weer loop
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: die weglating
 
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : worstel, moeg word
 
 ::: indent
-Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Fut. ⟪श्रमिष्यति⟫  
+Voltooide Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
+Toekoms ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
+Caus. ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
-⟪आश्रम⟫ m.n.
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
+waarvan:
+⟪आश्रम⟫ n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+Fig.: [⟪श्रान्तः⟫](/af/licenses#lekt4609)
+(Beeldbron: [Besonderhede](/af/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : leun, teen iets rus, ondersteuning vind, na iemand toe gaan (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 Fut. ⟪श्रयिष्यति⟫  
 Pass. ⟪श्रीयते⟫  
-Kaus. ⟪श्राययति⟫  
+Caus. ⟪श्राययति⟫  
 PPP ⟪श्रित⟫  
-Inf. ⟪श्रयितुम्⟫
+Infinitief ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : om aan te heg, om aan te klou (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
 Fut. ⟪संक्ष्यति⟫  
 Pass. ⟪सज्यते⟫  
-Kaus. ⟪सञ्जयति⟫  
+Caus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
-Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+Infinitief ⟪संक्तुम्⟫
+waarvan:
+⟪सङ्ग⟫ m.: aan klou aan, kontak met (तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
+Fig.: [⟪सङ्गः⟫](/af/licenses#lekt4610)
+(Beeldbron: [Besonderhede](/af/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : hardloop, haastig
 
 ::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
-Kaus. ⟪द्रावयति⟫  
+Caus. ⟪द्रावयति⟫  
 PPP ⟪द्रुत⟫  
 Inf. ⟪द्रोतुम्⟫  
 Absol. -⟪द्रुत्य⟫
-
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : om te dwaal, om rond te loop
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+waarvan:
+⟪विभ्रम⟫ m.: ronddwaal, verwarring, fout
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : om op af te hang (⟪सप्तम्या⟫), om aan geheg te wees (⟪सप्तम्या⟫)
 
 ::: indent
-Perf. I ⟪ललम्बे⟫  
-Fut. ⟪लम्बिष्यते⟫  
-Pass. ⟪लम्ब्यते⟫  
-Kaus. ⟪लम्बयति⟫  
+Perfektum I ⟪ललम्बे⟫  
+Toekoms ⟪लम्बिष्यते⟫  
+Passief ⟪लम्ब्यते⟫  
+Caus. ⟪लम्बयति⟫  
 PPP ⟪लम्बित⟫  
-Inf. ⟪लम्बितुम्⟫  
-Absol. -⟪लम्ब्य⟫
+Infinitief ⟪लम्बितुम्⟫  
+Absolute -⟪लम्ब्य⟫
 
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+Fig.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/af/licenses#lekt4601)
+(Beeldbron: [Details](/af/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : aan klou (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ Konjugasie:  as
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : omring, oorheers, verslaan
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: verslaan, verneder, gedegradeer
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Voorwoorde: afwaarts, af, in, agtertoe
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+bv.
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : gaan sit
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ Vokatiefdeeltjie: 'n uitroep wat gebruik word om iemand aan te spreek, bv. he, heda, o, ei, hallo, hi! Dikwels onvertalbaar. Hierdie deeltjie het 'n spesiale sandhi: voor alle gegomde klanke, word dit uitgespreek :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+Fig.: [⟪भोः⟫](/af/licenses#lekt4611)
+(Beeldbron: [Details](/af/licenses#lekt4611))
 :::
-## 46.3. Übung
+## 46.3. Oefening
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) Identifiseer en vertaal die volgende vorme:
 
 1.  ⟪वित्थ⟫
 2.  ⟪वेत्थ⟫
@@ -637,22 +634,19 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 51.  ⟪सुषुपुः⟫
 52.  ⟪ऊस⟫
 
-B) Übersetzen Sie:
+B) Vertaal:
 
-⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
+⟪प्रजहाति यदा कामानात्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥१॥⟫
 
 ::: indent
-⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
-⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
-⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
-⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥२॥⟫
+⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥२॥⟫
 
 :::
-⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
+⟪नास्ति बुद्धिरयुक्तस्य ॥३॥⟫
 
 ::: media
 ![](/images/lekt4612.webp)
-Abb.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/licenses#lekt4612)
-(Bildquelle: [Details](/licenses#lekt4612))
+Afbeelding: [⟪क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रनश्यति ॥⟫](/af/licenses#lekt4612)
+(Bron afbeelding: [Details](/af/licenses#lekt4612))
 :::
 

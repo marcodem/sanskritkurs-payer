@@ -1,16 +1,16 @@
-# Schriftübung 10
+# Bài tập viết 10
 
-### Zweite Regel zur Bildung von Konsonantenligaturen
+### Quy tắc thứ hai để hình thành các ligature phụ âm
 
-\[Erste Regel siehe in [Schriftübung 8](schrift08.md)\]
+\[Quy tắc đầu tiên xem tại [Bài tập viết 8](schrift08.md)\]
 
-Wenn der erste der zu verbindenden Konsonanten nicht mit einem senkrechten Strich abschliesst, dann wird der folgende Konsonant mit Verlust seines wagrechten Strichs unter den ersten Konsonanten gesetzt.
+Nếu phụ âm đầu tiên của cặp cần nối không kết thúc bằng một đường dọc, thì phụ âm thứ hai sẽ được đặt dưới phụ âm đầu tiên sau khi mất đi đường ngang của nó.
 
-Ausnahmen: Sind ⟪म्⟫ bzw. ⟪य्⟫ das zweite Glied der Ligatur, so werden sie verkürzt hinter das erste Zeichen geschrieben:
+Ngoại lệ: Nếu ⟪म्⟫ hoặc ⟪य्⟫ là thành phần thứ hai của ligature, chúng được viết ngắn gọn ngay sau ký tự đầu tiên:
 
 > ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
 
-Merke:
+Ghi nhớ:
 
 > ⟪क्त⟫ kta, ⟪त्त⟫ tta, ⟪द्द⟫ dda, ⟪द्ध⟫ ddha, ⟪द्न⟫ dna, ⟪द्भ⟫ dbha, ⟪ह्न⟫ hna, ⟪द्व⟫ dva, ⟪ह्व⟫ hva
 > 
@@ -18,17 +18,17 @@ Merke:
 
 ![](/images/schrift020.jpg)
 
-Beispiele (Ausnahmen sind unterstrichen):
+Ví dụ (các ngoại lệ được gạch dưới):
 
 ![](/images/schrift021.webp)
 
 ![](/images/schrift022.webp)
 
-### Übung
+### Bài tập
 
-Schreiben Sie alle oben angeführten Ligaturen
+Viết tất cả các ligature đã nêu ở trên
 
-### Verzeichnis der gebäuchlichsten Ligaturen in der Schrifttype von Kielhorns Grammatik
+### Danh mục các ligature phổ biến nhất trong kiểu chữ của cuốn Ngữ pháp Kielhorn
 
 ![](/images/schrift023.jpg)
 
@@ -36,10 +36,8 @@ Schreiben Sie alle oben angeführten Ligaturen
 
 ![](/images/schrift025.webp)
 
-### Übung
+### Bài tập
 
-Lesen und transliterieren Sie:
+Đọc và chuyển tự:
 
-⟪वाक्चल⟫ ⟪वाक्छलम्⟫ ⟪पृथग्जनः⟫ ⟪वाक्टीका⟫ ⟪वाग्झटिति⟫ ⟪षड्कोण⟫ ⟪षट्खेटकम्⟫ ⟪वाग्डम्बरः⟫ ⟪खङ्गः⟫ ⟪द्विड्घोरा⟫ ⟪भक्तिः⟫ ⟪उत्कट⟫ ⟪उक्थम्⟫ ⟪उत्खात⟫ ⟪हृद्गत⟫ ⟪सद्गुण⟫ ⟪दग्ध⟫ ⟪उद्घाटकः⟫ ⟪वाक्पटु⟫ ⟪वाक्फलम्⟫ ⟪ककुप्खालु⟫ ⟪पृथग्भावः⟫ ⟪कुकुब्गुरुः⟫ ⟪कुकुब्घोरा⟫ ⟪षट्चरणः⟫ ⟪षट्छविः⟫ ⟪षड्जः⟫ ⟪अप्चरः⟫ ⟪ककुप्छविः⟫ ⟪कुब्ज⟫ ⟪षड्देवाः⟫ ⟪षड्धा⟫ ⟪षट्पति⟫ ⟪दुप्टीका⟫ ⟪षट्फण⟫ ⟪षड्बाहु⟫ ⟪ककुपठक्कुरः⟫ ⟪अब्डिम्भ⟫ ⟪लब्ध⟫ ⟪भगवद्गीता⟫ ⟪संयुक्त⟫ ⟪अद्भूत⟫ ⟪बुद्धियुक्त⟫ ⟪सच्छब्दः⟫ ⟪अङ्क⟫ ⟪शङ्ख⟫ ⟪लिङ्गम्⟫ ⟪सञ्जयः⟫ ⟪सङ्घ⟫ ⟪कण्ठः⟫ ⟪पण्डितः⟫ ⟪अन्तः⟫ ⟪पन्थक⟫ ⟪सुन्दर⟫ ⟪इन्धः⟫ ⟪कम्पन⟫ ⟪गुम्फति⟫ ⟪सम्बन्धः⟫ ⟪आरम्भः⟫ ⟪पङ्क्तिः⟫ ⟪याच्ञा⟫ ⟪ज्ञानम्⟫ ⟪रत्नम्⟫ ⟪पाप्मन्⟫ ⟪तज्ज्ञेय⟫ ⟪सञ्ज्ञा⟫ ⟪संज्ञा⟫ ⟪विशेषज्ञः⟫ ⟪जिज्ञासुः⟫ ⟪ऋक्ण⟫ ⟪रुग्ण⟫ ⟪ग्र्भ्णाति⟫ ⟪शक्णोति⟫ ⟪अग्निः⟫ ⟪विघ्न⟫ ⟪पद्मा⟫ ⟪ध्मातम्⟫ ⟪दध्मौ⟫ ⟪दिङ्नाग⟫ ⟪वाङ्मय⟫ ⟪षण्मास⟫ ⟪म्नात⟫ ⟪क्वचित्त्⟫ ⟪पक्वान्न⟫ ⟪आख्यो⟫ ⟪ऋग्वेदः⟫ ⟪ह्वे⟫ ⟪विह्वल⟫ ⟪तत्त्व⟫ ⟪ईश्वरः⟫ ⟪अन्वित⟫ ⟪दृड्ढम्⟫ ⟪श्र्ण्वन्⟫ ⟪आश्चर्यम्⟫ ⟪श्वस्रु⟫ ⟪श्मस्रु⟫ ⟪सृष्टिः⟫ ⟪दंष्ट्र⟫ ⟪दृष्ट्वा⟫ ⟪स्खलित⟫ ⟪स्तब्ध⟫ ⟪क्षेत्रज्ञ⟫ ⟪वत्सः⟫ ⟪स्निग्धः⟫ ⟪श्रेष्ठत्वम्⟫ ⟪श्च्युत⟫ ⟪अक्षर⟫ ⟪लिप्ति⟫ ⟪दृप्ति⟫ ⟪मुक्ति⟫ ⟪मुञ्चति⟫
-
-
+⟪वाक्चल वाक्छलम् पृथग्जनः वाक्टीका वाग्झटिति षड्कोण षट्खेटकम् वाग्डम्बरः खङ्गः द्विड्घोरा भक्तिः उत्कट उक्थम् उत्खात हृद्गत सद्गुण दग्ध उद्घाटकः वाक्पटु वाक्फलम् ककुप्खालु पृथग्भावः कुकुब्गुरुः कुकुब्घोरा षट्चरणः षट्छविः षड्जः अप्चरः ककुप्छविः कुब्ज षड्देवाः षड्धा षट्पति दुप्टीका षट्फण षड्बाहु ककुपठक्कुरः अब्डिम्भ लब्ध भगवद्गीता संयुक्त अद्भूत बुद्धियुक्त सच्छब्दः अङ्क शङ्ख लिङ्गम् सञ्जयः सङ्घ कण्ठः पण्डितः अन्तः पन्थक सुन्दर इन्धः कम्पन गुम्फति सम्बन्धः आरम्भः पङ्क्तिः याच्ञा ज्ञानम् रत्नम् पाप्मन् तज्ज्ञेय सञ्ज्ञा संज्ञा विशेषज्ञः जिज्ञासुः ऋक्ण रुग्ण ग्र्भ्णाति शक्णोति अग्निः विघ्न पद्मा ध्मातम् दध्मौ दिङ्नाग वाङ्मय षण्मास म्नात क्वचित्त् पक्वान्न आख्यो ऋग्वेदः ह्वे विह्वल तत्त्व ईश्वरः अन्वित दृड्ढम् श्र्ण्वन् आश्चर्यम् श्वस्रु श्मस्रु सृष्टिः दंष्ट्र दृष्ट्वा स्खलित स्तब्ध क्षेत्रज्ञ वत्सः स्निग्धः श्रेष्ठत्वम् श्च्युत अक्षर लिप्ति दृप्ति मुक्ति मुञ्चति⟫

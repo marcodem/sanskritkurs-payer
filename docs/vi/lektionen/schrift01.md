@@ -1,45 +1,45 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 1
+## Bài tập viết chữ 1
 
-Sanskrit wurde und wird in einer Vielzahl von Schriften geschrieben. Folgende Übersicht gibt einen kleinen Ausschnitt aus diesen Schriften:
+Tiếng Phạn được và đang được viết bằng rất nhiều loại chữ. Bảng tổng hợp sau đây cho thấy một phần nhỏ trong số các loại chữ đó:
 
 ![](/images/schrift001.webp)  
-Abb.: Schriftproben Sanskrit  
-\[Bildquelle: Wikipedia, GNU FD LIzenz\]
+Minh họa: Mẫu chữ tiếng Phạn
+\[Nguồn ảnh: Wikipedia, Giấy phép GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Loại chữ tiếng Phạn Bắc Ấn hiện đại quan trọng nhất là Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Jedes Konsonantenzeichen bezeichnet ein auf den Konsonanten folgendes "a" mit. Soll der reine Konsonant geschrieben werden (ohne nachfolgenden Vokal), muss man dies durch einen untergesetzten Schrägstrich -- virāma = ⟪विराम⟫ -- kennzeichnen:
+Mỗi ký tự phụ âm đều bao gồm một nguyên âm "a" đứng sau phụ âm đó. Nếu muốn viết riêng phụ âm thuần túy (không có nguyên âm đi kèm), cần phải đánh dấu bằng một gạch chéo dưới -- virāma = ⟪विराम⟫ -- để nhận biết:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
-Auf einen Konsonanten folgende Vokale -- ausser "a" -- werden so geschrieben:
+Các nguyên âm đứng sau phụ âm -- trừ "a" -- được viết như sau:
 
 ⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-Die Reihenfolge beim Schreiben dieser Verbindungen von Konsonant + Vokal ist:
+Thứ tự khi viết các kết hợp phụ âm + nguyên âm này là:
 
 ![](/images/schrift003.jpg)
 
-Beim Schreiben wird jeder Buchstabe inklusive Querstrich an Oberlinie vollendet bevor der nächste Buchstabe geschrieben wird.
+Khi viết, mỗi chữ cái bao gồm cả đường ngang trên cùng phải được hoàn thành trước khi viết chữ cái tiếp theo.
 
-## Übung
+## Bài tập
 
 Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
-Lesen und transliterieren Sie:
+Đọc và chuyển tự:
 
-⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+⟪तॄ पाप चट् चि चाप पॄ पति पितृ कॢप् कृ कुप् कुतो चैक पुट पचति तौ पू चेत् पतति ततो तट तपति तु ते कृ पीतौ⟫
 
-Zusätzliche Leseübung:
+Bài tập đọc thêm:
 
-⟪पिता⟫ Vater, ⟪कपि⟫ Affe, ⟪कृत⟫ getan,  ⟪टीका⟫ Subkommentar, ⟪तत्⟫ dieses, ⟪तट⟫ Ufer, ⟪पत्⟫ dahinschiessen, ⟪पट⟫ Gewebe, ⟪काच⟫ Glas,  ⟪काकुत्⟫ Gaumen, ⟪चित्⟫ wahrnehmen, ⟪पृच्⟫ mischen,  ⟪पोटक⟫ Knecht, ⟪चेतु⟫ Absicht, ⟪तौतातित⟫ Anhänger des Kumārila (Mīmāṃsā), ⟪तूत⟫ Maulbeerbaum, ⟪पीत⟫ getrunken,  ⟪पीति⟫ Trank, ⟪कॢप्⟫  passen, ⟪कृपते⟫ er jammert, ⟪पुटी⟫ Falte, ⟪चापि⟫ desgleichen, ⟪तोक⟫ Nachkommenschaft, ⟪तृपत्⟫ satt, ⟪पॄ⟫ füllen, ⟪कृकाटी⟫ Halsgelenk, ⟪पूपौ⟫ zwei Kuchen, ⟪पैतृकी⟫ väterlich (fem.), ⟪कौट⟫ betrügerisch, ⟪कच⟫ Haupthaar, ⟪कुतपे⟫ auf der Ziegenhaardecke, ⟪कुचौ⟫ Busen, ⟪चकिता⟫ erschrocken (fem.)
+⟪पिता⟫ cha, ⟪कपि⟫ khỉ, ⟪कृत⟫ đã làm,  ⟪टीका⟫ chú thích phụ, ⟪तत्⟫ này, ⟪तट⟫ bờ, ⟪पत्⟫ bắn đi, ⟪पट⟫ vải dệt, ⟪काच⟫ kính,  ⟪काकुत्⟫ vòm miệng, ⟪चित्⟫ nhận biết, ⟪पृच्⟫ trộn lẫn,  ⟪पोटक⟫ đầy tớ, ⟪चेतु⟫ ý định, ⟪तौतातित⟫ người theo phái Kumārila (Mīmāṃsā), ⟪तूत⟫ cây dâu tằm, ⟪पीत⟫ đã uống,  ⟪पीति⟫ thức uống, ⟪कॢप्⟫  phù hợp, ⟪कृपते⟫ anh ấy kêu la, ⟪पुटी⟫ nếp nhăn, ⟪चापि⟫ tương tự, ⟪तोक⟫ dòng dõi, ⟪तृपत्⟫ no nê, ⟪पॄ⟫ làm đầy, ⟪कृकाटी⟫ khớp cổ, ⟪पूपौ⟫ hai chiếc bánh, ⟪पैतृकी⟫ thuộc về cha (giống cái), ⟪कौट⟫ lừa đảo, ⟪कच⟫ tóc trên đầu, ⟪कुतपे⟫ trên tấm thảm lông dê, ⟪कुचौ⟫ ngực, ⟪चकिता⟫ kinh sợ (giống cái)
 
 

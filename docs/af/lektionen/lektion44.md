@@ -1,23 +1,24 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: "Lesing 44"
+subtitle: "Vorming van die werkwoordsvorms vir die tweede persoon (⟪मध्यमः⟫) van athemeatiese stamme met 'n vokale eindende suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
 # Les 44
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
+## 44.1. Vorming van die werkwoordsvorms vir die 2e persoon (⟪मध्यमः⟫) van athematiese stamme met 'n vokale eindende suffix
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!**
+**Die 3.sg.Ā.Imperfek is vormgelyk aan die 2.pl.P.Imperfek!!!**
 :::
-### 44.1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 44.1.1. Vyfde teenwoordige tyd klas (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -25,11 +26,11 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| **Indikatiewe Teenwoordige Tyd** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Imperfek** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.2. Agste teenwoordige tyd klas (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -37,9 +38,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| **Indikatiewe Teenwoordige Tyd** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Imperfek** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
@@ -47,61 +48,61 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| **Indikatiewe Teenwoordige Tyd** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Imperfek** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 44.1.3. Negende teenwoordige tydklas (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| **Teenwoordige aanwysende** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brSerebralisering! | ⟪क्रीणीध्वे⟫ |
+| **Onvolmaaklik** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Zum Wortsandhi
+## 44.2. Oor woord-sandhi
 
-Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten.
+Vir teenwoordige tydstamme wat op 'n medeklinker eindig, moet die reëls van woord-sandhi wat reeds bespreek is, nagekom word.
 
-Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
+Daarbenewens geld die volgende reëls van woord-sandhi.
 
-(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.)
+('n Gedetailleerde opsomming van al die klankveranderings wat hier van toepassing is, kan gevind word in Kielhorn, Grammar, bl. 76 vv.)
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. Oor woord-sandhi vir dh-
 
 ::: grammar-box
-1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:**
-   z.B. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
+1. **'n Geaspireerde letter wat 'n ander geaspireerde letter voorafgaan, word vervang deur die ooreenstemmende nie-geaspireerde letter:**
+   bv. ⟪रुध्⟫ 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » ⟪रुन्द्ध्वे⟫ (run**ddh**ve)
 2. **-h + dh- » -gdh-**
-   z.B. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
-3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!)
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
-4. **-s + dh- » -dh-** (Wegfall des -s)
-   z.B. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
+   bv. ⟪दुह्⟫ 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » ⟪धुग्ध्वे⟫ (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** (Hierdie reël geld slegs vir konjugasie!)
+   bv. ⟪द्विष्⟫ 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » ⟪द्विड्ढ्वे⟫ (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** (weglating van die -s)
+   bv. ⟪आस्⟫ 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » ⟪आध्वे⟫ (ādhve)
 :::
-### 44.2.2. Zum Wortsandhi für s-
+### 44.2.2. Oor woord-sandhi vir s-
 
 ::: grammar-box
-1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse)
-   Beispiele:
-   * ⟪वस्⟫ 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
+1. **-s + s- » -ts- of (nie opsioneel nie!) -ss-** (soos in die 2de teenwoordige tydklas)
+   Voorbeelde:
+   * ⟪वस्⟫ 1P: Toekoms: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » ⟪वत्स्यति⟫ (va**ts**yati)
    * ⟪वस्⟫ 2Ā: ⟪वस्⟫ + ⟪से⟫ » ⟪वस्से⟫ (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   z.B. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
+   bv. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪द्वेक्षि⟫ (dve**kṣ**i)
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
+## 44.3. Vorming van die werkwoordsvorms vir die tweede persoon (⟪मध्यमः⟫) van athemeatiese stamme sonder 'n vokale eindende suffix
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1. Tweede teenwoordige tyd klas (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
+| **Indikatiewe teenwoordige tyd** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Onvoltooid verlede tyd** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
 
@@ -109,9 +110,9 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
+| **Indikatiewe teenwoordige tyd** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Onvoltooid verlede tyd** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
@@ -119,9 +120,9 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
+| **Indikatiewe teenwoordige tyd** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Onvoltooid verlede tyd** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
 ⟪इ⟫ 2P
 
@@ -129,17 +130,17 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
+| **Indikatiewe teenwoordige tyd** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | ⟪इषे⟫ | ⟪इध्वे⟫ |
+| **Onvoltooid verlede tyd** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Optatief** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
+| **Indikatief teenwoordig** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Imperfek** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
 ⟪स्तु⟫ 2U
 
@@ -147,207 +148,203 @@ Ausserdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
+| **Indikatief teenwoordig** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Imperfek** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
-⟪अस्⟫ 2P (besonders zu merken!)
+⟪अस्⟫ 2P (veralg goed onthou!)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
-| **Imperfekt** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
-| **Optativ** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
+| **Indikatief teenwoordig** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **Imperfek** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Optatief** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
-⟪तत्त्वमसि⟫
-
-⟪शास्⟫ 2P
+⟪तत्त्वमसि शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
+| **Indikatief teenwoordig** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Imperfek** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+| **Indikatief teenwoordig** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Imperfek** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Optatief** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+## 44.4. Die vokatief (⟪आमन्त्रितम्⟫)
 
-Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫).
+Inboorlinggrammatikane beskou die vokatief (⟪आमन्त्रितम्⟫) nie as 'n geval op sigself nie, maar slegs as 'n wysiging van die nominatief (⟪प्रथमा⟫).
 
 ::: important
-**Der Vokativ dient dem Anruf, dem Ansprechen und steht ausserhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.**
+**Die vokatief word gebruik om iemand aan te roep of aan te spreek en staan buite die konteks van die res van die sin; dit verskil dus van die ander gevalle, wat 'n verhouding tot die werkwoord of tot 'n ander selfstandige naamwoord uitdruk.**
 
-**Meist wird der Vokativ an den Beginn des Satzes gestellt:**
+**Die vokatief word gewoonlik aan die begin van die sin geplaas:**
 
 :::
 ::: indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?"
+⟪बाल किं वदसि⟫ = "Kind, wat sê jy?"
 :::
 ::: important
-**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"**
+**Mens behoort te vermy om die vokatief met "**O** …" te vertaal. Ons gebruik vokatiewe die heeltyd in Duits, byvoorbeeld wanneer ons sê: "Darling, what shall we cook today?". Niemand sou in hierdie konteks sê: "**O** darling, what shall we cook today?"**
 :::
 ::: media
 ![](/images/lekt4402.webp)
-Abb.: Zur richtigen Verwendung von "O" im Deutschen: **"O Mann!"**
-(Bildquelle: [Details](/licenses#lekt4402))
+Fig.: Oor die korrekte gebruik van "O" in Duits: **"O Mann!"**
+(Beeldbron: [Details](/af/licenses#lekt4402))
 :::
 
 ::: grammar-box
-**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.**
+**Die vorme van die vokatief meervoud en dual is identies aan dié van die nominatief (⟪प्रथमा⟫) meervoud en dual, onderskeidelik.**
 
-**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).**
+**Die vorme van die roepnaam enkelvoud word behandel in [Les 45](lektion45.md).**
 :::
-## 44.5. Wortliste
+## 44.5. Woordelys
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+⟪प्रति⟫ Preposisies: agter, teen, na
 
 ::: indent
-z.B.
+bv.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : terugklap
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : reply = respond
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : om te verwerp, om af te wys
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 2P ⟪याति⟫ : om te gaan, om te ry
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
 Pass. ⟪यायते⟫  
-Kaus. ⟪यापयति⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫
+Kausatief ⟪यापयति⟫  
+Teenwoordige voltooide tyd ⟪यात⟫  
+Infinitief ⟪यातुम्⟫  
+waarvan:
 
-davon:
-
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.: loop, pad, voertuig
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403))
+Fig.: ⟪रेल्यानम्⟫
+(Beeldbron: [Details](/af/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : lê. Hierdie wortel het **Hoë-vlak:** 1ste sing. ind. teenw. Ā :sig[⟪शेये⟫] (śe + e) in alle vorme van die teenwoordige stam. Spesiale aandag moet geskenk word aan die volgende vorme: 3de pers. meervoud ind. teenw. Ā :sig[⟪शेरते⟫], 3de pers. meervoud imperf. Ā :sig[⟪अशेरत⟫]
 
 ::: indent
-Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
-Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
+Perfekt IIIa ⟪शिश्ये⟫ (śi-śī + e)  
+Toekoms ⟪शयिष्यते⟫  
+Kausatief ⟪शापयति⟫  
 PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫
+Infinitief ⟪शयितुम्⟫  
 
-davon:
+waarvan:
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.: sofa, bed
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404))
+Figuurlik: ⟪योगी शयने शेते⟫
+(Beeldbron: [Details](/af/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : om te juig in (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
+Caus. ⟪नन्दयति⟫  
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
-Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫
+Absolute -⟪नन्द्य⟫  
+Gerundief ⟪नन्द्य⟫  
 
-davon:
+waarvan:
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 3: gekenmerk deur (bepaalde) vreugde, vrolik; met die naam van die berging (⟪वहन⟫) van die ⟪शिव⟫ ('n bul)
 :::
 ::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405))
+Fig.: ⟪नन्दी⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā) ⟪अभिनन्दति⟫ : om plesier in (⟪द्वितीयया⟫) te hê, om iemand vrolik te groet, om iemand welkom te heet
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : om vas te hou, om te dra; om aan te bied, om te verleen; om saam te hou, om in toom te hou, om te rem, om te onderdruk
 
 ::: indent
-Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
+Perf. vnw. ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+Caus. ⟪यामयति⟫ maar: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
-
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : uitrek, uitbrei
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt
+PPP ⟪आयत⟫ 3: verlengd
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406))
+Fig.: ⟪आयतो मरुः⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : oorhandig, aanbied, voorlê
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : om saam te bind, om vas te maak, om in te hou
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : daarna streef (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
-Kaus. ⟪यातयति⟫  
+Caus. ⟪यातयति⟫  
 PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫
+Inf. ⟪यतितुम्⟫  
 
-davon:
+waarvan:
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung
+⟪यत्न⟫ m.: moeite, poging
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407))
+Figuur: ⟪यत्नेन⟫
+(Beeldbron: [Details](/af/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (variant van ⟪लभ्⟫): om te som
 
 ::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
+Kausatief: sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : om aan te pak, om te begin, om aan te neem
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ nw. (verwant aan ⟪प्र⟫–⟪व्रज्⟫): om sy huis te verlaat om as 'n hawelose persoon te leef; seremonie wat iemands inwyding as 'n Boeddhistiese novis aandui (Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
+Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt4408))
 :::
-## 44.6. Übung
+## 44.6. Oefening
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) Identifiseer en vertaal die volgende vorme:
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -404,31 +401,16 @@ A) Bestimmen und übersetzen Sie folgende Formen:
 
 ::: media
 ![](/images/lekt4409.webp)
-Abb.: ⟪कस्माद्रोदिषि⟫
-(Bildquelle: [Details](/licenses#lekt4409))
+Fig.: ⟪कस्माद्रोदिषि⟫
+(Beeldbron: [Details](/af/licenses#lekt4409))
 :::
-B) Übersetzen Sie:
+B) Vertaal:
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
+⟪अक्रोधेन जयेत्क्रोधमसाधुं सधुना जयेज्जयेत्सत्येन चानृतम् ॥१॥ पुत्राः किं पितृभ्यः पिण्डान्प्रायच्छत ॥२॥ कानि शास्त्राणि काश्यामध्यैथाः ॥३॥ बुद्धपुत्राश्चेन्महाशयनेषु शयीरन्प्रव्रज्यायां कृतं व्रतं न चरेयुः ॥४॥ अप्यार्ययुद्धाख्यानमाख्यास्यन्तं गुरुमभ्यनन्दः ॥५॥ द्वेष्यमपि न द्विष्यात लोभनीयं च न लुभ्येतैवं च प्रसन्ना भविष्यथ ॥६॥ न योत्स्य इत्यर्जुन उवाच ॥७॥ अशोच्यानशोचः प्रज्ञावादांश्च प्रवक्तुमैच्छः । मृताञ्जीवतश्च बुद्धिमन्तो न शोचन्ति ॥८॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
+## 44.7. Herhalingsoefening vir vormleer
 
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
-
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
-
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
-
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
-
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
-
-⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
-
-## 44.7. Wiederholungsübung zur Formenlehre
-
-Bestimmen Sie folgende Formen:
+Bepaal die volgende vorme:
 
 1.  ⟪वदिता⟫
 2.  ⟪उदिता⟫

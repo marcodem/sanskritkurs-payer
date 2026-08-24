@@ -1,158 +1,157 @@
 ---
 title: "Oefening 47"
 uebung_id: 47
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 47
 
-A) Übersetzen Sie:
+A) Vertaal:
 
-⟪१⟫. **⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Wenn du gehen willst, dann geh! Ich werde nicht gehen.
+⟪१⟫. **⟪यदि गच्छसि गच्छ त्वम् । अहं न गमिष्यामि ॥ १ ॥⟫**
+As jy wil gaan, dan gaan! Ek sal nie gaan nie.
 
-⟪२⟫. **⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Edler, sieh meine Demütigung!
+⟪२⟫. **⟪आर्य प्रेक्षस्व मे परिभवम् ॥ २ ॥⟫**
+Edele, sien my vernedering!
 
-⟪३⟫. **⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Herr Rāma, wenn ich gehen muss, dann soll auch dieses Mädchen meine Begleiterin sein.
+⟪३⟫. **⟪भो राम यदि मया गन्तव्यं तदैषा कन्यापि मम सहायिनी भवतु ॥ ३ ॥⟫**
+Here Rāma, as ek moet gaan, dan moet hierdie meisie ook my metgesel wees.
 
-⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Gnädige Frau, bleiben Sie stehen, bleiben Sie stehen. Sie brauchen keine Angst zu haben.
+⟪४⟫. **⟪आर्ये तिष्ठ तिष्ठ । न त्वया भेतव्यम् ॥ ४ ॥⟫**
+Edelvrou, bly staan, bly staan. U hoef nie bang te wees nie.
 
-⟪५⟫. **⟪प्रसीदत्वार्यः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Beruhigen Sie sich, edler Herr!
+⟪५⟫. **⟪प्रसीदत्वार्यः ॥ ५ ॥⟫**
+Kalmeer, edele here!
 
-⟪६⟫. **⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Willkommen, gnädige Frau!
+⟪६⟫. **⟪आर्ये स्वागतं ते ॥ ६ ॥⟫**
+Welkom, edelvrou!
 
-⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Edler Herr, bitte befehlen Sie, was ich tun soll.
+⟪७⟫. **⟪आज्ञापयत्वार्यः किं मया क्रियतामिति ॥ ७ ॥⟫**
+Edele here, beveel asseblief wat ek moet doen.
 
-⟪८⟫. **⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Rüste dich zum Kampf, so wird dir kein Übel geschehen.
+⟪८⟫. **⟪युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥ ८ ॥⟫**
+Toerust vir die geveg, dan sal jou geen kwaad oorkom nie.
 
-⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Frage: "Wovor fürchtest du dich?" Antwort: "Vor den Vorzügen dieses Rāma." Frager: "Was sind das für Vorzüge eines Mannes, in dessen Haus es nichts zu essen gibt, wenn man eintritt?"
+⟪९⟫. **⟪कस्मात्त्वं भीतः । प्रतिवचनम्⟫ : ⟪तस्य रामस्य गुणेभ्यः । प्रष्टा⟫ : ⟪के तस्य गुणा यस्य गृहं प्रविश्याशितव्यमपि नास्ति ॥ ९ ॥⟫**
+Vraag: "Waarvoor vrees jy?" Antwoord: "Vir die deugde van hierdie Rāma." Vraer: "Wat is dit vir deugde van 'n man, in wie se huis daar niks te eet is nie wanneer mens binnekom?"
 
-⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Das Schwert bleibe in deiner Hand!
+⟪१०⟫. **⟪तवैव हस्ते शस्त्रं तिष्ठतु ॥ १० ॥⟫**
+Die swaard bly in jou hand!
 
-⟪११⟫. **⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Gnädige Frau, Ihre Demütigung soll Herrn Rāma nicht berichtet werden.
-
+⟪११⟫. **⟪भवति न ते परिभवस्तत्रभवतो रामस्य निवेदयितव्यः ॥ ११ ॥⟫**
+Edelvrou, u vernedering mag nie aan Here Rāma berig word nie.
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ)
+## Vertalings in Sanskrit (imperatief)
 
-B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs:
+B) Vertaal in Sanskrit met die imperatief:
 
-⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Ich will erhalten werden.
+⟪१⟫. **⟪भ्रियै ॥ १ ॥⟫**
+Ek wens om bewaar te word.
 
-⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Er soll zufrieden sein.
+⟪२⟫. **⟪तुष्यतु ॥ २ ॥⟫**
+Mag hy tevrede wees.
 
-⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Wir wollen rufen.
+⟪३⟫. **⟪ह्वयाम ॥ ३ ॥⟫**
+Ons wil uitroep.
 
-⟪४⟫. **⟪तुभ्यं⟫ ⟪नमानि⟫ ⟪।⟫** (Oder: **⟪नमानि⟫ ⟪ते⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**)
-Ich will mich dir beugen.
+⟪४⟫. **⟪तुभ्यं नमानि ।⟫** (Of: **⟪नमानि ते ॥ ४ ॥⟫**)
+Ek wil voor jou buig.
 
-⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Diese Tat soll getan werden.
+⟪५⟫. **⟪एतत्कर्म क्रियताम् ॥ ५ ॥⟫**
+Hierdie daad moet gedoen word.
 
-⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Sie sollen schlafen. (Passiv-Konstruktion)
+⟪६⟫. **⟪भवता सुप्यताम् ॥ ६ ॥⟫**
+Hulle sal slaap. (Passiewe konstruksie)
 
-⟪७⟫. **⟪पुत्र⟫ ⟪धने⟫ ⟪यतस्व⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (Oder: **... ⟪धनं⟫ / ⟪धनाय⟫ ...**)
-Mein Sohn, strebe nach Reichtum!
+⟪७⟫. **⟪पुत्र धने यतस्व ॥ ७ ॥⟫** (Of: **... ⟪धनं⟫ / ⟪धनाय⟫ ...**)
+My seun, streef na rykdom!
 
-⟪८⟫. **⟪अध्ययनमारभध्वम्⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Beginnt das Studium!
+⟪८⟫. **⟪अध्ययनमारभध्वम् ॥ ८ ॥⟫**
+Begin jou studies!
 
-⟪९⟫. **⟪पितृभ्यः⟫ ⟪पिण्डान्प्रयच्छत⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Gebt den Vorvätern Speiseopfer!
+⟪९⟫. **⟪पितृभ्यः पिण्डान्प्रयच्छत ॥ ९ ॥⟫**
+Breng voedseloffers aan die voorvaders!
 
-⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen sich freuen!
+⟪१०⟫. **⟪नन्दन्तु ॥ १० ॥⟫**
+Laat hulle juig!
 
-⟪११⟫. **⟪लोकमवेक्षै⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Ich will auf die Welt blicken.
+⟪११⟫. **⟪लोकमवेक्षै ॥ ११ ॥⟫**
+Ek verlang daarna om die wêreld te aanskou.
 
-⟪१२⟫. **⟪काशीं⟫ ⟪पद्यामहै⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫**
-Wir wollen nach Benares gehen.
+⟪१२⟫. **⟪काशीं पद्यामहै ॥ १२ ॥⟫**
+Kom ons gaan na Benares.
 
-⟪१३⟫. **⟪देवान्यजन्ताम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Sie sollen als Opferherren die Götter verehren.
+⟪१३⟫. **⟪देवान्यजन्ताम् ॥ १३ ॥⟫**
+Hulle behoort die gode as slagmeesters te aanbid.
 
-⟪१४⟫. **⟪स्तोत्रं⟫ ⟪गाय⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Singe ein Loblied!
+⟪१४⟫. **⟪स्तोत्रं गाय ॥ १४ ॥⟫**
+Sing 'n loflied!
 
-⟪१५⟫. **⟪पुत्रा⟫ ⟪मे⟫ ⟪जायन्ताम्⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Söhne sollen mir geboren werden!
+⟪१५⟫. **⟪पुत्रा मे जायन्ताम् ॥ १५ ॥⟫**
+Mag daar seuns vir my gebore word!
 
-⟪१६⟫. **⟪तुभ्यं⟫ ⟪मे⟫ ⟪गृहं⟫ ⟪दिशानि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-Ich will dir mein Haus zeigen.
+⟪१६⟫. **⟪तुभ्यं मे गृहं दिशानि ॥ १६ ॥⟫**
+Ek sal jou my huis wys.
 
-⟪१७⟫. **⟪मत्प्रव्रज⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫**
-Gehe von mir weg!
+⟪१७⟫. **⟪मत्प्रव्रज ॥ १७ ॥⟫**
+Gaan weg van my af!
 
-⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll befreit werden!
+⟪१८⟫. **⟪मुच्यताम् ॥ १८ ॥⟫**
+Hy moet vrygelaat word!
 
-⟪१९⟫. **⟪तव⟫ ⟪भार्यां⟫ ⟪रक्षाणि⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Ich will deine Gattin behüten.
+⟪१९⟫. **⟪तव भार्यां रक्षाणि ॥ १९ ॥⟫**
+Ek wil jou vrou beskerm.
 
-⟪२०⟫. **⟪शत्रो⟫ ⟪म्रियस्व⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Stirb, Feind!
+⟪२०⟫. **⟪शत्रो म्रियस्व ॥ २० ॥⟫**
+Sterf, vyand!
+⟪२१⟫. **⟪युध्यध्वम् ॥ २१ ॥⟫**
+Veg!
 
-⟪२१⟫. **⟪युध्यध्वम्⟫ ⟪॥⟫ ⟪२१⟫ ⟪॥⟫**
-Kämpft!
+⟪२२⟫. **⟪आज्ञापयन्तु ॥ २२ ॥⟫**
+Jy mag die bevele gee.
 
-⟪२२⟫. **⟪आज्ञापयन्तु⟫ ⟪॥⟫ ⟪२२⟫ ⟪॥⟫**
-Sie mögen befehlen.
+⟪२३⟫. **⟪तव गृहे वसाम ॥ २३ ॥⟫**
+Ons wil in jou huis woon.
 
-⟪२३⟫. **⟪तव⟫ ⟪गृहे⟫ ⟪वसाम⟫ ⟪॥⟫ ⟪२३⟫ ⟪॥⟫**
-Wir wollen in deinem Haus wohnen.
+⟪२४⟫. **⟪एवं भवतु ॥ २४ ॥⟫**
+So sy dit!
 
-⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
-So soll es geschehen!
+⟪२५⟫. **⟪अश्वं तुद ॥ २५ ॥⟫**
+Slaan die perd!
 
-⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
-Schlage das Pferd!
+⟪२६⟫. **⟪भ्रमन्तु ॥ २६ ॥⟫**
+Laat hulle ronddwaal.
 
-⟪२६⟫. **⟪भ्रमन्तु⟫ ⟪॥⟫ ⟪२६⟫ ⟪॥⟫**
-Sie sollen umherirren.
+⟪२७⟫. **⟪माद्यत ॥ २७ ॥⟫**
+Word dronk!
 
-⟪२७⟫. **⟪माद्यत⟫ ⟪॥⟫ ⟪२७⟫ ⟪॥⟫**
-Berauscht euch!
+⟪२८⟫. **⟪अश्वो भारं कर्षतु ॥ २८ ॥⟫**
+Laat die perd die vrag trek.
 
-⟪२८⟫. **⟪अश्वो⟫ ⟪भारं⟫ ⟪कर्षतु⟫ ⟪॥⟫ ⟪२८⟫ ⟪॥⟫**
-Das Pferd soll die Last ziehen.
+⟪२९⟫. **⟪लोकान्कल्पयाम ॥ २९ ॥⟫**
+Ons wil die wêrelde in orde stel.
 
-⟪२९⟫. **⟪लोकान्कल्पयाम⟫ ⟪॥⟫ ⟪२९⟫ ⟪॥⟫**
-Wir wollen die Welten ordnen.
+⟪३०⟫. **⟪पानं पिब ॥ ३० ॥⟫**
+Drink die drankie!
 
-⟪३०⟫. **⟪पानं⟫ ⟪पिब⟫ ⟪॥⟫ ⟪३०⟫ ⟪॥⟫**
-Trinke den Trank!
+⟪३१⟫. **⟪मन्यस्व ॥ ३१ ॥⟫**
+Dink!
 
-⟪३१⟫. **⟪मन्यस्व⟫ ⟪॥⟫ ⟪३१⟫ ⟪॥⟫**
-Denke!
+⟪३२⟫. **⟪जीयन्ताम् ॥ ३२ ॥⟫**
+Hulle moet verslaan word!
 
-⟪३२⟫. **⟪जीयन्ताम्⟫ ⟪॥⟫ ⟪३२⟫ ⟪॥⟫**
-Sie sollen besiegt werden!
+⟪३३⟫. **⟪त्वया नीयामहै ॥ ३३ ॥⟫**
+Ons wil deur jou gelei word.
 
-⟪३३⟫. **⟪त्वया⟫ ⟪नीयामहै⟫ ⟪॥⟫ ⟪३३⟫ ⟪॥⟫**
-Wir wollen von dir geführt werden.
-
-⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
-Es möge zum Glück gereichen! (Segenswunsch)
+⟪३४⟫. **⟪सुखाय भवतात् ॥ ३४ ॥⟫**
+Mag dit goeie fortuin bring! (Seën)
 
 ::: media
 ![](/images/uebung075.webp)
-Abb.: ⟪माद्यत⟫
-(Bildquelle: [Details](/licenses#uebung075))
+Fig.: ⟪माद्यत⟫
+(Beeldbron: [Besonderhede](/licenses#uebung075))
 :::

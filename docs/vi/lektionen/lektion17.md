@@ -1,172 +1,173 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Bài 17"
+subtitle: "Lớp động từ hiện tại thứ hai (⟪अदादि⟫ = ⟪अद्⟫ v.v.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 17
+# Bài 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. Lớp hiện tại thứ hai (⟪अदादि⟫ = ⟪अद्⟫ v.v.)
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
+Các đuôi động từ gắn trực tiếp vào gốc. Cần lưu ý những biến đổi âm vị phát sinh từ quy tắc hợp tự (saṃdhi) của từ.
 
 ::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
+Có các hình thức cấu tạo sau trong lớp hiện tại thứ hai:
 
-1.  Wurzeln mit Stammabstufung 
-    *   meistens: Hochstufe - Tiefstufe
-    *   einige Wurzeln: Dehnstufe - Tiefstufe 
-2.  Wurzeln ohne Stammabstufung 
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+1. Gốc có biến cách gốc (stem gradation)
+*   thường gặp: bậc cao - bậc thấp
+*   một số gốc: bậc dài - bậc thấp
+2. Gốc không có biến cách gốc
+3. Gốc hai âm tiết kết thúc bằng -i/-ī có biến cách gốc
 
 :::
-## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
+## 17.2. Gốc của lớp hiện tại thứ hai có biến cách gốc bậc cao - bậc thấp
 
-Beispiele:
+Ví dụ:
 
-⟪द्विष्⟫ 2 U "hassen"
+⟪द्विष्⟫ 2 U "ghét"
 
-*   starker Präsensstamm: dveṣ-
-*   schwacher Präsensstamm: dviṣ-
+*   gốc hiện tại mạnh: dveṣ-
+*   gốc hiện tại yếu: dviṣ-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. sg. hiện tại P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. hiện tại P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. hiện tại Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. hiện tại Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-Hierbei wirkt folgendes Wortsandhigesetz:
+Ở đây áp dụng quy tắc saṃdhi từ sau:
 
 ::: grammar-box
-Wortsandhi von -ṣ + t(h)-
+Saṃdhi từ của -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
-Weitere Beispiele:
+Các ví dụ khác:
 
-⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien)
+⟪इ⟫ 2 P "đi" (Ā theo sau một số tiền tố)
 
-*   starker Präsensstamm: e-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: i-
-    *   vor Vokal: y-/iy-
-
-::: no-header
-
-| | |
-| :--- | :--- |
-| 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
-| 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
-| 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
-
-:::
-⟪दुह्⟫ 2 U "melken"
-
-*   starker Präsensstamm: doh-
-*   schwacher Präsensstamm: duh-
+*   gốc hiện tại mạnh: e-
+*   gốc hiện tại yếu:
+*   trước phụ âm: i-
+*   trước nguyên âm: y-/iy-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
-| 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
-| 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. sg. hiện tại P | ⟪एति⟫ (e-ti) |
+| 3\. pl. hiện tại P | ⟪यन्ति⟫ (y-anti) |
+| 3\. sg. hiện tại Ā | ⟪इते⟫ (i-te) |
+| 3\. pl. hiện tại Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+⟪दुह्⟫ 2 U " vắt sữa"
 
-*   starker Präsensstamm: han-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han-
+*   gốc hiện tại mạnh: doh-
+*   gốc hiện tại yếu: duh-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
-| 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
-| 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. sg. hiện tại P | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. hiện tại P | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. hiện tại Ā | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. hiện tại Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪अस्⟫ 2 P "sein"
+⟪हन्⟫ 2 P "đánh, giết chết"
 
-*   starker Präsensstamm: as-
-*   schwacher Präsensstamm: s-
+*   gốc hiện tại mạnh: han-
+*   gốc hiện tại yếu:
+*   trước phụ âm: ha- (« \*hn-)
+*   trước nguyên âm: ghn-/han-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. sg. hiện tại P | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. hiện tại P | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. hiện tại Ā | ⟪हते⟫ (ha-te) |
+| 3\. pl. hiện tại Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
-## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
+⟪अस्⟫ 2 P "là"
 
-Beispiel:
-
-⟪स्तु⟫ 2 U "preisen"
-
-*   starker Präsensstamm: stau-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: stu-
-    *   vor Vokal: stuv-
+*   gốc hiện tại mạnh: as-
+*   gốc hiện tại yếu: s-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
-| 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
-| 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. sg. hiện tại P | ⟪अस्ति⟫ (as-ti) |
+| 3\. pl. hiện tại P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
+## 17.3. Gốc của lớp hiện tại thứ hai với biến đổi gốc: bậc dài - bậc thấp
+
+Ví dụ:
+
+⟪स्तु⟫ 2 U "ca ngợi"
+
+*   gốc hiện tại mạnh: stau-
+*   gốc hiện tại yếu:
+*   trước phụ âm: stu-
+*   trước nguyên âm: stuv-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. hiện tại P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
+| 3\. pl. hiện tại P | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 3\. sg. hiện tại Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. pl. hiện tại Ā | ⟪स्तुवते⟫ (stuv-ate) |
+
+:::
+## 17.4. Gốc của lớp hiện tại thứ hai không có biến đổi gốc
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
+Không có biến đổi gốc là các gốc của lớp hiện tại thứ hai kết thúc bằng -ā
 :::
-Beispiel:
+Ví dụ:
 
-⟪पा⟫  2 P "schützen, behüten, hüten"
+⟪पा⟫ 2 P "bảo vệ, che chở"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. sg. hiện tại P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. hiện tại P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
+Một số gốc khác của lớp thứ hai cũng không có biến đổi gốc:
 
-Beispiele:
+Ví dụ:
 
-⟪अद्⟫ 2 P "essen"
+⟪अद्⟫ 2 P "ăn"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. sg. hiện tại P | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. hiện tại P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
-⟪आस्⟫ 2 Ā "sitzen"
+⟪आस्⟫ 2 Ā "ngồi"
 
 ::: no-header
 
@@ -176,28 +177,28 @@ Beispiele:
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
-⟪वच्⟫ 2 P "sagen"
+⟪वच्⟫ 2 P "nói"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. pl. Präs. P | không xuất hiện |
 
 :::
-## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+## 17.5. Các gốc hai âm tiết kết thúc bằng -i/-ī với biến cách gốc
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
+Nhiều gốc từ ở dạng hai âm tiết trong một loạt các hình thái, nghĩa là chúng có -i (hoặc trước một số hậu tố là -ī) đứng trước kết thúc phụ âm. Tuy nhiên, các gốc từ này vẫn được các nhà ngữ pháp bản địa và trong các từ điển v.v. xác định là đơn âm tiết.
 
-Beispiele:
+Ví dụ:
 
-⟪रुद्⟫ 2 P "weinen, heulen"
+⟪रुद्⟫ 2 P "khóc, hú"
 
-*   starker Präsensstamm: rodi-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: rudi-
-    *   vor Vokal: rud-
+*   gốc hiện tại mạnh: rodi-
+*   gốc hiện tại yếu:
+*   trước phụ âm: rudi-
+*   trước nguyên âm: rud-
 
 ::: no-header
 
@@ -207,12 +208,12 @@ Beispiele:
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
-⟪ब्रू⟫ 2 U "sprechen"
+⟪ब्रू⟫ 2 U "nói"
 
-*   starker Präsensstamm: bravī- (« bro- + -ī)
-*   schwacher Präsensstamm:
-    *   vor Konsonant: brū-
-    *   vor Vokal: bruv-
+*   gốc hiện tại mạnh: bravī- (« bro- + -ī)
+*   gốc hiện tại yếu:
+*   trước phụ âm: brū-
+*   trước nguyên âm: bruv-
 
 ::: no-header
 
@@ -224,7 +225,7 @@ Beispiele:
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
+Cũng ⟪स्तु⟫ 2 U "tán dương" có bên cạnh các hình thái đã nêu ở mục 3. là các hình thái theo mẫu này:
 
 ::: no-header
 
@@ -233,180 +234,90 @@ Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen 
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. Từ vựng
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Bị động ⟪हन्यते⟫  PPP ⟪हत⟫ : đánh, giết chết
 
-davon:
+từ đó:
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.: sự giết hại
 :::
 
 ::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : ngồi
 
-davon:
+từ đó:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.: sự ngồi, chỗ ngồi ; cũng: các tư thế ngồi của Yogin
 :::
 
 ::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : khóc, hú
 
-davon:
+từ đó:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.: (kẻ hú =) vị thần bão Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: nói, bảo (cái gì đó với ai đó: cách bổ ngữ kép)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : vắt sữa
 
 ::: media
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : chỉ, hướng dẫn, ra lệnh
 
-davon:
+từ đó:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+⟪दिष्टि⟫ f.: sự hướng dẫn, sự sắp đặt tốt lành
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+⟪दिष्ट्या⟫ Instr.: (nghĩa đen: bằng một sự sắp đặt tốt lành) Ô sự sắp đặt tốt lành (lời kêu gọi vui mừng và hạnh phúc)
 :::
 
-## 17.7. Übung 1
+## 17.7. Bài tập 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+A) Hãy điền động từ vào các câu sau và dịch:
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
+⟪१⟫. ⟪ब्राह्मणो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫)
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫)
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫)
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫)
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫)
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫)
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫)
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫)
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫)
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫)
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫)
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫)
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
+⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫)
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
+B) Đặt chủ ngữ và động từ ở số nhiều trong các câu đã được hình thành ở mục A
 
-## 17.8. Übung 2
+## 17.8. Bài tập 2
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
+Dịch các dạng động từ sau đây và chỉ ra gốc động từ tương ứng:
 
-⟪१⟫. ⟪अदन्ति⟫
-
-⟪२⟫. ⟪सन्ति⟫
-
-⟪३⟫. ⟪आसते⟫
-
-⟪४⟫. ⟪यन्ति⟫
-
-⟪५⟫. ⟪इच्छति⟫
-
-⟪६⟫. ⟪कुर्वते⟫
-
-⟪७⟫. ⟪गच्छन्ति⟫
-
-⟪८⟫. ⟪जायते⟫
-
-⟪९⟫. ⟪जयति⟫
-
-⟪१०⟫. ⟪तनोति⟫
-
-⟪११⟫. ⟪दहति⟫
-
-⟪१२⟫. ⟪दोग्धि⟫
-
-⟪१३⟫. ⟪पश्यति⟫
-
-⟪१४⟫. ⟪द्विष्टे⟫
-
-⟪१५⟫. ⟪नयन्ति⟫
-
-⟪१६⟫. ⟪नृत्यति⟫
-
-⟪१७⟫. ⟪पद्यन्ते⟫
-
-⟪१८⟫. ⟪पिबति⟫
-
-⟪१९⟫. ⟪पान्ति⟫
-
-⟪२०⟫. ⟪पृच्छति⟫
-
-⟪२१⟫. ⟪बुध्यन्ते⟫
-
-⟪२२⟫. ⟪ब्रवीति⟫
-
-⟪२३⟫. ⟪भवन्ति⟫
-
-⟪२४⟫. ⟪मन्यते⟫
-
-⟪२५⟫. ⟪मुञ्चन्ति⟫
-
-⟪२६⟫. ⟪म्रियन्ते⟫
-
-⟪२७⟫. ⟪यजते⟫
-
-⟪२८⟫. ⟪युध्यन्ते⟫
-
-⟪२९⟫. ⟪रक्षति⟫
-
-⟪३०⟫. ⟪रोदिति⟫
-
-⟪३१⟫. ⟪लभते⟫
-
-⟪३२⟫. ⟪वक्ति⟫
-
-⟪३३⟫. ⟪वदति⟫
-
-⟪३४⟫. ⟪शृणोति⟫
-
-⟪३५⟫. ⟪स्तौति⟫
-
-⟪३६⟫. ⟪स्मरति⟫
-
-⟪३७⟫. ⟪हन्ति⟫
-
-⟪३८⟫. ⟪अश्नुवते⟫
-
-⟪३९⟫. ⟪कुप्यते⟫
-
-⟪४०⟫ ⟪कर्षन्ति⟫
-
-⟪४१⟫. ⟪उद्यते⟫
-
-⟪४२⟫. ⟪सहन्ते⟫
-
-⟪४३⟫. ⟪सिच्यन्ते⟫
-
-⟪४४⟫. ⟪आप्नोति⟫
-
-⟪४५⟫. ⟪जीव्यते⟫
-
-⟪४६⟫. ⟪दिश्यन्ते⟫
+⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
 

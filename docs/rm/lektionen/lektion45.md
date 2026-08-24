@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | ⟪जुहुषे⟫ | ⟪जुहुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | ⟪अजुहुथास्⟫ | ⟪अजुहुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
 :::
 ⟪⟪धा⟫⟫ 2U
 
@@ -104,7 +104,7 @@ Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercizi
 
-A) Traducir en sánscrito (para formas del pasado, por favor usar el imperfecto \<⟪लङ्⟫\>):
+A) Traducir en sánscrito (para formas del pasado, por favor usar el imperfecto ⟪लङ्⟫):
 
 1\. Ti disfermis la (budista) cumunitad.
 

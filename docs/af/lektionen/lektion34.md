@@ -1,79 +1,78 @@
 ---
-title: Lektion 34
+title: "Lesing 34"
 lesson_id: 34
 status: stable
----
 
-# Les 34
+---# Les 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. Die Perfekte Tyd (⟪लिट्⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
+In Klassieke Sanskrit word die perfekte stam slegs in die indikatiewe bui en as 'n deelwoord gebruik.
 
 ::: grammar-box
-**Es gibt zwei Arten der Perfektbildung:**
-*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫**
-*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫**
+**Daar is twee maniere om die perfekstyd te vorm:**
+*   **die herhaalde perfek = ⟪द्वित्वलिट्⟫**
+*   **die perifrasiese perfek = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:**
-1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
-2. **bei Wurzeln, die mit einem langen Vokal (ausser ā-) beginnen, bzw. mit einem Vokal (ausser a-) vor zwei Konsonanten**
-3. **bei einigen sonstigen Wurzeln**
+**Die perifrasiese perfek (⟪अनुप्रयोगलिट्⟫) word gebruik:**
+1. **in afgeleide konjugasies (kausatief, desideratief, frequentatief, denominatief)**
+2. **met wortels wat begin met 'n lang vokaal (behalwe ā-) of met 'n vokaal (behalwe a-) wat twee medeklinkers voorafgaan**
+3. **met sekere ander wortels**
 :::
-## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+## 34.2. Die herhaalde perfek (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Stamgradering
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**starker Stamm:** Singular Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
+**sterk stam:** enkelvoud Parasmaipada
+*   **herhaalde hoë-graad- of lang-graad-wortel + perfek-einde**
 
-**schwacher Stamm:** alle übrigen Formen
-*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+**swak stam:** alle ander vorme
+*   **herhaalde lae-graadwortel + perfek-uitgang**
 :::
 ::: grammar-box
-**Generell (auch ausserhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+**Oor die algemeen (insluitend buite die perfek), het wortels van die volgende vorme nie stamgradering nie:**
+*   **(medeklinker)-medeklinker-lang vokaal-medeklinker**
+*   **(medeklinker)-medeklinker-vokaal-medeklinker-medeklinker**
 
-**Im Perfekt haben ausserdem keine Stammabstufung Wurzeln der Form:**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**In die perfekttyd, wortels van die vorm:**
+*   **a-lettergreep**
+*   **ā-lettergreep**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. Die perfek-uitgange
 
 ::: grammar-box
 
-| | 3. Singular | 3. Plural |
+| | 3de enkelvoud | 3de meervoud |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.3. Die verbindingsvokaal -i-
 
 ::: grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
+**Die skakelvokaal -i- kom altyd voor die agtervoegsel van die 3de meervoud Ā (-re), en kom voor die ander medeklinker-inleidende agtervoegsels in die meervoudsvorme van die wortels.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. Reduplikasie van wortels wat met 'n medeklinker begin
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
+**Die reëls uiteengesit in [Les 33](lektion33.md) is van toepassing op die reduplikasie van aanvangsmedeklinkers.**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
+**Die reduplikasievokaal vir wortels wat met 'n medeklinker begin, is die kort wortelvokaal.**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
+**Diftonge wat 'n medeklinker voorafgaan, word verminder tot die ooreenstemmende kort lae-graad-vokaal.**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+**ṛ, ṝ, ḷ, en finale diftonge word met -a- gereproduseer.**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Woorstam | 3de sing. Perf. P. |
 | :--- | :--- |
 | ⟪भिद्⟫ | :sig[⟪बि⟫]⟪भेद⟫ |
 | ⟪मुच्⟫ | :sig[⟪मु⟫]⟪मोच⟫ |
@@ -81,102 +80,101 @@ Beispiele:
 
 :::
 ::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
+**Sommige wortels wat met y of v begin, word geredupliseer met i of u, wat in die swak vorme met die wortelvokaal 'saamvloei'.**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Woorstam | 3de sing. perf. verlede tyd | 3de mv. perf. verlede tyd |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+### 34.2.5. Reduplikasie van wortels wat met 'n vokaal begin
 
 ::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
+**1. 'n Inisiale a-, ā- word geredupliseer met a-, sodat ā- verskyn.**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Woorwortel | 3de sing. perf. verlede tyd |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 'wees' en ⟪अस्⟫ 4 'gooi' | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
+**2.wortels wat met 'n i- begin, het iy- as die herhalingslettergreep in die sterk stam, en i- in die swak stam, wat met die wortelvokaal 'saamvloei' om ī- te vorm. Dieselfde geld vir 'n aanvanklike 'u-'.**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Woorstam | 3de sing. perf. verlede tyd | 3de meerv. perf. verlede tyd |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
-
 :::
 ::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
+**3. Wortels wat begin met 'a-' voor twee medeklinkers of met 'ṛ-' het 'ān-' as hul herhalingssilabe**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Woorstam | 3de sing. perf. verlede tyd | 3de mv. perf. verlede tyd |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Typen des reduplizierten Perfekts
+## 34.3. Tipes van die herhaalde perfek
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
-*   unregelmässige Perfektbildungen
+Klassifikasieprinsipe: Spesifieke kenmerke van stamgradering:
+*   Perfek sonder stamgradering: Tipe I
+*   Perfek met stamgradering: Tipes II–V
+*   onreëlmatige perfekvormings
 
-## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
+## 34.4. Perfektum Tipe I: Perfektum sonder stamgradering
 
 ::: grammar-box
-**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**Perfektum Tipe I (sonder stamgradering) het wortels van die volgende tipes:**
+*   **(medeklinker)-medeklinker-lang vokaal-medeklinker**
+*   **(medeklinker)-medeklinker-vokaal-medeklinker-medeklinker**
+*   **a-medeklinker**
+*   **ā-medeklinker**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. | 3. pl. Perf. |
+| Woorstam | 3de sing. perf. | 3de mv. perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "om te wees":br⟪अस्⟫ 4 "om te gooi" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫: gereelde reduplikasie! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+## 34.5. Tipe II perfek: Sterk stam (hoë vlak), swak stam (lae vlak)
 
 ::: grammar-box
-**Wird gebildet von Wurzeln der Form:**
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
+**Gebou uit wortels van die vorm:**
+*   **(medeklinker)-(medeklinker)-i/u/ṛ/ḷ-medeklinker**
 
-**Bildung:**
-*   **starker Stamm: Hochstufe**
-*   **schwacher Stamm: Tiefstufe**
+**Vorming:**
+*   **sterk stam: hoë graad**
+*   **swak stam: lae graad**
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Woortjie | 3de sing. Perf. P. | 3de vpl. Perf. P. | 3de sing. Perf. Ā. | 3de vpl. perfektief aktief |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
 | ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
@@ -185,84 +183,83 @@ Beispiele:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. Woordelys
 
-**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
+**⟪क्षिति⟫ v. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. en pl.:** Saad, veldvrugte, graan
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
+Afb.: ⟪सस्यम्⟫
 Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+(Beeldbron: [Details](/af/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** hoe lank, hoe groot
 
-**⟪तावत्⟫ :** so lange, so gross
+**⟪तावत्⟫ :** so lank, so groot
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** hoogste
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.v.:** Eiland, kontinent
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
+Afb.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+(Beeldbron: [Details](/af/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** sterfelijk (aan ⟪मृ⟫)
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** Sesam(korrel) (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
+Afb.: ⟪तिलाः⟫
 Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+(Beeldbron: [Details](/af/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
+Afb.: *Sesamum indicum* L.
 Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+(Beeldbron: [Details](/af/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** (pragtig gekleur =) Goud
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
+Afb.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+(Beeldbron: [Details](/af/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** Woonplek, tempel
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ v.:** Spits; 10 miljoen
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** beste
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.v.:** Vlak, oppervlakte
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** Bul
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
+Afb.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+(Beeldbron: [Details](/af/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** terughou, hou, aanbied, verleen
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** uitsteek, aanbied, lewer
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
+**⟪या⟫ 2P ⟪याति⟫ :** gaan, ry
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ v.:** Meisie, maagd
+## 34.7. Oefening
 
-## 34.7. Übung
-
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
+Vorm die perfekte tydsoorte ooreenkomstig persoon, getal en geslag vir die volgende werkwoordvorme:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -296,38 +293,30 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. Vertalingsopdrag
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen:
+Vertaal die volgende teks uit ⟪पद्मपुराण⟫ rakende offers aan Brahmins:
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫:sig[⟪त्तम⟫] ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫:sig[⟪श्चतुर्दश⟫] ⟪॥१॥⟫  
-:sig[⟪सप्त⟫]⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
-⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
-⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
-⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
-⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
-⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
-⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
+⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो⟫:sig[⟪त्तम⟫] ⟪। विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा⟫:sig[⟪श्चतुर्दश⟫] ⟪॥१॥⟫  
+:sig[⟪सप्त⟫]⟪द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज । तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥ तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति । हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥ सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥ अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले । तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟫
 
-Erklärungen:
+Verduidelikings:
 
 ::: indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "Gott!"
+**Die vokatiewe enkelvoud** van manlike / onbepaalde selfstandige naamwoorde wat op -a eindig, is ook -a: bv. ⟪देव⟫ "God!"
 
-⟪चतुर्दश⟫ vierzehn
+⟪चतुर्दश⟫ veertien
 
-:sig[⟪सप्त⟫] sieben
+⟪सप्त⟫ sewe
 
-⟪जन्म⟫ Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt
+⟪जन्म⟫ nominatief/akkusatief enkelvoud van **⟪जन्मन्⟫ n.** geboorte
 
-**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
+**⟪सर्व⟫ 3** "all, entirely" (declined according to pronominal declension)
 :::
 ::: media
 ![](/images/lekt3407.webp)
-Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
+Fig.: ⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥⟫
 Hindu wedding ritual.
-(Bildquelle: [Details](/licenses#lekt3407))
+(Image source: [Details](/af/licenses#lekt3407))
 :::
 

@@ -2,6 +2,10 @@
 outline: 2
 ---
 
+::: deleteme-box
+**Quelle & Urheberrecht**
+
+:::
 
 # Glossar Sanskrit–LT
 

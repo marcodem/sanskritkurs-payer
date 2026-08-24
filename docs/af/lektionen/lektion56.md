@@ -1,231 +1,203 @@
 ---
-title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+title: "Lesing 56"
+subtitle: "Die herhalende aoristus"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 56
+---# Les 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. Die herhaalde aoristus
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-**Augment + reduplizierte Wurzel + a + thematische Sekundärendung**
+**Augment + herhaalde wortel + a + tematiese sekondêre agtervoegsel**
 
-**Die Wurzelsilbe kann tief- oder hochstufig sein. Bei Wurzeln auf -i oder -u ist Tiefstufe die Regel.**
+**Die wortellettergreep kan laag-graad of hoog-graad wees. Vir wortels wat op -i of -u eindig, is laag-graad die reël.**
 
-**Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
+**'n Finale -i of -u word onderskeidelik vervang deur -iy of -uv.**
 
-**Auslautendes -ā (für -e) fällt ab.**
+**'n Finale -ā (vir -e) word weggelaat.**
 :::
-Paradigma:
+Infleksietabel:
 
-⟪श्रि⟫ 1U "sich begeben zu, sich anlehnen"
+⟪श्रि⟫ 1U 'voortgaan na, teen aanleun'
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫–⟪शि⟫–⟪श्रिय्⟫–⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-Diese Form des Aorist bilden u.a.:
+Hierdie vorm van die aorist word, onder andere, gebruik in:
 
-*   ⟪श्रि⟫ 1U "sich begeben zu"
-*   ⟪द्रु⟫ 1P "rennen"
-*   ⟪कम्⟫ 1Ā "lieben": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (siehe unten!)
-*   ⟪पत्⟫ 1P "fallen": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = Tiefstufe zu pat)
-*   ⟪वच्⟫ 2P "sagen": ⟪अवोचत्⟫ (a-va + uc-a-t)
-
-::: grammar-box
-**Alle Wurzeln der 10. Präsensklasse sowie alle Kausative bilden stets den reduplizierten Aorist.**
-:::
-### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-
-Stammsilbe:
+*   ⟪श्रि⟫ 1U "wegstuur"
+*   ⟪द्रु⟫ 1P "hardloop"
+*   ⟪कम्⟫ 1Ā "om lief te hê": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (sien hieronder!)
+*   ⟪पत्⟫ 1P "om te val": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = laag-graad vorm van pat)
+*   ⟪वच्⟫ 2P "om te sê": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
-**Ausgangspunkt ist die Form des Präsensstamms bzw. des Kausativstamms, die dieser nach Wegfall des Bildungselements -aya- hat (also Stamm auf -p bei Kausativen auf -paya-).**
-
-**Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:**
-
-*   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**
+**Alle wortels van die 10de teenwoordige tydklas, sowel as alle causatiewe, vorm altyd die herhaalde aoristus.**
 :::
-::: indent
-⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫
-⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫
-:sig[⟪नी⟫] 1U: Kaus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫
-⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
-:::
+### 56.1.1. Vorming van die aoristus van die causatief en die wortels van die 10de teenwoordige tydklas
 
-*   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**
-::: indent
-⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
-:::
-
-*   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**
-::: indent
-⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
-:::
-
-**Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:**
-
-*   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**
-::: indent
-⟪कॢप्⟫  1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫
-⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
-:::
-Vokal der Reduplikationssilbe:
-
-Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen folgende Regeln für den Vokal der Reduplikationssilbe befolgt werden:
+Stamlettergreep:
 
 ::: grammar-box
-**Ausgangspunkt ist der reguläre Reduplikationsvokal, d.h.**
+**Die beginpunt is die vorm van die teenwoordige tydstam of die kauzatiewe stam, soos dit verskyn nadat die afleidingselement -aya- weggelaat is (d.w.s. 'n stam wat op -p eindig, word -paya- vir kauzatiewe).**
 
-*   a für a, ā, ṛ,  ṝ, ḷ
-*   i für i, ī, e, ai
-*   u für u, ū, o, au
+**Die vokaal van hierdie sogenaamde stamlettergreep word in die aorist volgens die volgende reëls bepaal:**
+*   **\-ā- voor 'n enkele medeklinker word vervang deur -a-:**  
+    ⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, aorist ⟪अपि⟫:sig[⟪पर⟫]⟪त् द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त् नी⟫ 1U: Caus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त् ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
+     
+*   **\-ī-, -e-, -ai- voor 'n enkele medeklinker word vervang deur -i-:**  
+    ⟪चित्⟫ eerste persoon: causatief: sig[⟪चेत⟫]⟪यति⟫, aorist (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
+     
+*   **\-u-, -o-, -au- voor 'n enkele medeklinker word vervang deur -u-:**  
+    ⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
 
-**Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:**
+**Vir sommige wortels is die tot dusver genoemde veranderinge opsioneel of moet hulle weggelaat word:**
 
-*   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**
+*   **Die ar, ār, īr of al—wat ṛ, ṝ of ḷ vervang en onmiddellik die finale konsonant van die stamlettergreep voorafgaan—kan opsioneel onveranderd bly of onderskeidelik deur ṛ of ḷ vervang word:**  
+    ⟪कॢप्⟫  1Ā: Causatief: sig[⟪कल्प⟫]⟪यति⟫, Aorist ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत् कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
-::: indent
-⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
-:::
+Vokaal van die reduplikasieluid:
 
-*   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**
-    :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-    :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
-::: indent
-⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
-:::
-
-Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
-
-**Vokalisch anlautende Stammsilben werden nach folgenden Regeln redupliziert:**
-
-*   **Folgt dem anlautenden Vokal nur ein einziger Konsonant oder eine Konsonantengruppe, deren erstes Glied weder Nasal noch d oder r ist, so lautet die reduplizierte Silbe:**
-
-Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssilbe geforderter Vertreter) - **i** \- alle Konsonanten
-
-::: indent
-⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplizierte Silbe ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplizierte Silbe ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplizierte Silbe ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
-:::
-*   **Folgt dem anlautenden Vokal eine mit einem Nasal oder d oder r anfangende Konsonantengruppe, so wird der zweite Konsonant der Gruppe (oder sein Stellvertreter) mit i nach folgendem schema eingeschoben:**
-
-Vokal - erster Konsonant - zweiter Konsonant (Stellvertreter) - i - zweiter Konsonant
-
-::: indent
-⟪अञ्ज्⟫ 7P: Kaus. ⟪अञ्जयति⟫, reduplizierte Silbe ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, reduplizierte Silbe ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, reduplizierte Silbe ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
-:::
-Diese Form der Reduplikation vokalisch anlautender abgeleiteter Stämme (Kausative) nennt man "attische Reduplikation".
-## 56.2. Der Injunktiv
+Sodra die bogenoemde reëls op die wortellettergreep toegepas is, moet die volgende reëls vir die vokaal van die herhalingslettergreep gevolg word:
 
 ::: grammar-box
-**Der Injunktiv ist die augmentlose Form zu Augmentformen, d.h. seine Formen sind identisch mit den augmentlosen Formen des Indikativ Imperfekt oder Aorist. Die einheimische indische Grammatik hat den Injunktiv nicht als besondere grammatische Kategorie erkannt.**
+**Die beginpunt is die gereelde herhalingsvokaal, d.w.s.**
+
+*   a vir a, ā, ṛ, ṝ, ḷ
+*   i vir i, ī, e, ai
+*   u vir u, ū, o, au
+
+**Hierdie herhalingsvokaal is onderhewig aan die volgende veranderinge:**
+*   **i, u word vervang deur ī, ū as die wortellettergreep met 'n enkele medeklinker begin en metriese kort is:**  
+    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत् तुद्⟫ 6U: caus. ⟪तोदयति⟫, aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫  
+     
+*   **'a' word vervang deur 'ī' as die stamlettergreep metries kort is en met net een medeklinker begin. As die stamlettergreep metries kort is en met meer as een medeklinker begin, word die 'a' in die reduplikasiegreep vervang deur 'i'. As die stamlettergreep metries lank is, word die 'a' behou:**  
+    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, stamlettergreep van die aorist ⟪नय्⟫, aorist ⟪अ⟫:sig[⟪नी⟫]⟪नयत् कृ⟫ 8U: Caus. ⟪कारयति⟫, stamlettergreep van die aorist. ⟪कर्⟫, aorist ⟪अ⟫:sig[⟪ची⟫]⟪करत् त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, stamlettergreep van die aorist ⟪त्यज्⟫, aorist ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत् भू⟫ 1P: Caus. ⟪भावयति⟫, stamlettergreep van die aorist ⟪भव्⟫, aorist ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
+
+Spesiale kenmerke van sekere wortels in Kielhorn, Grammatika § 435c ens.
+
+**Stamlettergrepe wat met 'n vokaal begin, word volgens die volgende reëls geredupliseer:**
+
+*   **As die aanvanklike vokaal gevolg word deur 'n enkele medeklinker of 'n medeklinkergroep waarvan die eerste element nie 'n neusklinker of 'n d of r is nie, is die geredupliseerde lettergreep:**
+
+Vokaal – eerste daaropvolgende medeklinker (of sy vereiste plaasvervanger in 'n redupliserende lettergreep) – **i** \- alle medeklinkers
+
 :::
-Gemäss der grundlegenden Arbeit:
+::: indent
+⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, herhaalde lettergreep ⟪आशिश्⟫, aoristus ⟪आशिशत् इष्⟫ 6P: causatief ⟪एषयति⟫, herhaalde lettergreep ⟪एषिष्⟫, aorist ⟪ऐषिषत् ईक्ष्⟫ 1Ā: causatief ⟪ईक्षयति⟫, herhaalde lettergreep ⟪ईचिक्ष्⟫, aorist ⟪ऐचिक्षत्⟫
+:::
+*   **As die aanvanklike vokaal gevolg word deur 'n medeklinkergroep wat met 'n neusklank, d of r begin, word die tweede medeklinker van die groep (of sy plaasvervanger) met 'n 'i' ingevoeg volgens die volgende patroon:**
+    
+
+Vokaal – eerste medeklinker – tweede medeklinker (vervanger) – i – tweede medeklinker
+
+::: indent
+⟪अञ्ज्⟫ 7P: Causatief. ⟪अञ्जयति⟫, geredupliseerde lettergreep ⟪अञ्जिज्⟫, aorist ⟪आञ्जिजत् ऋ⟫ 1P: causatief ⟪अर्पयति⟫, herhaalde lettergreep ⟪अर्पिप्⟫, aorist ⟪आर्पिपत् अर्ह्⟫ 1ste persoon: causatief ⟪अर्हयति⟫, herhaalde lettergreep ⟪अर्जिह्⟫, aoristus ⟪आर्जिहत्⟫
+:::
+Hierdie vorm van reduplikasie van afgeleide stamme wat met 'n vokaal begin (kauzatiewe) staan bekend as 'Attiese reduplikasie'.
+## 56.2. Die imperatiewe
+
+::: grammar-box
+**Die imperatief is die nie-aangevulde vorm wat ooreenstem met aangevulde vorme; dit wil sê, sy vorme is identies aan die nie-aangevulde vorme van die indikatief imperfektum of aorist. Die inheemse Amerikaanse grammatika het die imperatief nie as 'n afsonderlike grammatikale kategorie erken nie.**
+:::
+Volgens die baanbrekende werk:
 
 ::: media
 ![](/images/lekt5601.jpg)
-Abb.:
-Professor für Vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983)
-(Bildquelle: [Details](/licenses#lekt5601))
+Fig.:
+Professor in Vergelykende Taalkunde, Universiteit van Erlangen-Neu-Ulm (1955–1983)
+(Beeldbron: [Besonderhede](/af/licenses#lekt5601))
 :::
 
 ::: indent
-Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+Hoffmann, Karl (1915–1996): Die subjunktief in die Veda: 'n sinkroniese funksionele studie / deur Karl Hoffmann. -- Heidelberg: Winter, 1967. -- 298 bls. -- (Indo-Europese Biblioteek: 3de Reeks, Studies)
 :::
-hat der Injunktiv im Veda folgende Eigenschaften:
+die subjunktief in die Veda's het die volgende kenmerke:
 
-*   er ist nicht berichtend, sondern erwähnend
-*   er ist zeitstufenlos
-*   der Injunktiv Präsens (= augmentloses Imperfekt) bezeichnet den unvollendeten Aspekt
-*   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
+*   dit rapporteer nie, maar vermeld eerder
+*   dit is nie-tydsgebonde nie
+*   die teenwoordige subjunktief (= imperfektum sonder augmentasie) dui die imperfektiewe aspek aan
+*   die aoristus-subjunktief dui die perfektiewe aspek aan.
+::: grammar-box
+**In post-Vediese Sanskriet kom die gebodsvorm slegs voor in samehang met die verbodende deeltjie ⟪मा⟫ (+ subjunktiewe aorist) of ⟪मा स्म⟫ (+ subjunktiewe teenwoordige tyd of aorist); die verskillende aspek is oor die algemeen nie meer relevant nie.**
+
+(met aspek
+
+*   ⟪मा⟫ + die aorist-subjunktief sou 'n verbodsklousule aandui: 'Moenie begin om … te doen nie!', 'Moenie … nie!'
+*   ⟪मा स्म⟫ + die teenwoordige subjunktief sou 'n inhibitiewe klousule aandui, d.w.s. 'n reeds aan die gang synde handeling of 'n reeds bestaande toestand word verbied: "Hou op …!", "Hou op om …!"
+
+Hierdie onderskeid word egter gewoonlik nie in Klassieke Sanskriet gemaak nie.)
+:::
+## 56.3. Die verbodsklasus
 
 ::: grammar-box
-**Im nachvedischen Sanskrit kommt der Injunktiv nur noch in Verbindung mit der Verbotspartikel ⟪मा⟫ (+ Injunktiv Aorist) bzw. ⟪मा⟫ ⟪स्म⟫ (+ Injunktiv Präsens oder Aorist) vor, der unterschiedliche Aspekt kommt meist nicht mehr zum Tragen.**
+**Hoofvorm:**
 
-(mit Aspekt
+**⟪मा⟫ + gebodswysende aoristus**
 
-*   würde ⟪मा⟫ + Injunktiv Aorist einen Prohibitivsatz bezeichnen: "Beginne nicht zu ...!", "Tu nicht ...!"
-*   würde ⟪मा⟫ ⟪स्म⟫ + Injunktiv Präsens einen Inhibitivsatz bezeichnen, d.h. eine schon verlaufende Handlung oder ein schon bestehender Zustand wird verboten: "Höre auf, zu ...!", "Lass ab von ...!"
-
-Dieser Unterschied wird jedoch im klassischen Sanskrit meist nicht gemacht.)
+**⟪मा स्म⟫ + gebodswysende aoristus of gebodswysende teenwoordige tyd**
 :::
-## 56.3. Der Verbotssatz
-
-::: grammar-box
-**Hauptform:**
-
-**⟪मा⟫ + Injunktiv Aorist**
-
-**⟪मा⟫ ⟪स्म⟫ + Injunktiv Aorist oder Injunktiv Präsens**
-:::
-Beispiele:
+Voorbeelde:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Werde nicht einer, der durch die Frucht einer Tat motiviert wird!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा कर्महेतुर्भूः⟫ "Moenie iemand word wat deur die vrug van 'n daad gemotiveer word nie!" (Injunktiwiese aorist) (⟪भगवद्गीता⟫ 2.47c)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Werde nicht unmännlich!" (Injunktiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
+⟪क्लैब्यं मा स्म गमः⟫ "Moenie effeminieer word nie!" (Aorist-subjunktief) (⟪भगवद्गीता⟫ 2.3a)
 :::
 ::: media
 ![](/images/lekt5602.webp)
-Abb.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Bildquelle: [Details](/licenses#lekt5602))
+Fig.: ⟪क्लैब्यं मा स्म गमः⟫
+Plakkaat (Ernesto Che Guevara) van 'n politieke party in Vallachira (瓦所有奇拉), Thrissur (Thrissur). "'n Grof vertaling van wat daarop geskryf is, sou wees: Martelaarskap is 'n fassinerende ervaring vir 'n revolusionêr. En 'n afskrikwekkende vooruitsig vir 'n lafaard. Che is nie 'n rolmodel vir lafaards nie."
+(Beeldbron: [Details](/af/licenses#lekt5602))
 :::
-Beide Beispiele haben prohibitiven Sinn. Der Injunktiv Aorist ist hier also in seiner ursprünglichen Bedeutung gebraucht. (Das Überwiegen des Injunktiv Aorist in solchen Sätzen erklärt sich vielleicht aus dem Überwiegen der Prohibitivsätze gegenüber Inhibitivsätzen, doch müsste diese Frage für das klassische Sanskrit noch untersucht werden.)
-
+Albei voorbeelde het 'n verbiedende betekenis. Die imperatiewe aorist word dus hier in sy oorspronklike betekenis gebruik. (Die oorheersing van die imperatiewe aorist in sulke sinne kan verklaar word deur die oorheersing van verbodsklousules bo remmende klousules, alhoewel hierdie vraag nog ondersoek moet word vir Klassieke Sanskrit.)
 ::: grammar-box
-**Andere Formen von Verbotssätzen:**
+**Ander vorme van verbiedende sinne:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativ (selten)  **
-**z.B.  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
+*   **⟪मा⟫ + (⟪स्म⟫) + imperatief (skaars)  **
+**bv. ⟪मा ते सङ्गो ऽस्त्वकर्मणि⟫**
 
-*   ⟪अलम्⟫ oder ⟪कृतम्⟫  = Instrumentalis im Inhibitivsatz
-    z.B. ⟪अलं⟫  ⟪विषादेन⟫ "Genug mit dem Verzagen! = Hör auf, verzagt zu sein! = Kopf hoch!"
+*   ⟪अलम्⟫ of ⟪कृतम्⟫  = Instrumenteel geval in 'n verbiedende klousule
+    bv. ⟪अलं विषादेन⟫ "Genoeg met hierdie wanhoop! = Hou op om wanhoopig te wees! = Moedig op!"  
 
-*   ⟪न⟫ + Gerundiv (Partizip der Notwendigkeit)
+*   ⟪न⟫ + gerundief (deelwoord van noodsaaklikheid)
 
-Daneben gibt es noch weitere, seltenere Formen von Verbotssätzen, siehe z.B.
+Daarbenewens is daar ander, skaarser vorme van verbodsklousules; sien, byvoorbeeld,
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit Syntax. -- Leiden: Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)
-Abb.: ⟪अलं⟫  ⟪विषादेन⟫
-(Bildquelle: [Details](/licenses#lekt5603))
+Fig.: ⟪अलं विषादेन⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
-**⟪स्म⟫ hebt hervor: "wahrlich, allerdings, gewiss, gerade"**
+**⟪स्म⟫ beklemtoon: 'waarlik, inderdaad, beslis, presies'**
 
-**Ausserdem ist folgende Konstruktion sehr wichtig:**
+**Verder is die volgende konstruksie baie belangrik:**
 
 :::
 ::: indent
-⟪स्म⟫ + Indikativ Präsens dient zum Erzählen in der Vergangenheit, vor allem um eine Dauer in der Vergangenheit zu bezeichnen:
+⟪स्म⟫ + die teenwoordige aanwysende tyd word gebruik vir vertelling in die verlede, veral om 'n duur in die verlede aan te dui:
 
-z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
+bv. ⟪वसति स्म⟫ "eenmaal" (⟪स्म⟫ kan soms weggelaat word).
 :::
-## 56.5. Übung
+## 56.5. Oefening
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
+A) Identifiseer en vertaal die volgende vorme sonder om enige hulpmiddels te gebruik (!):
 
 1.  ⟪अस्मत्⟫
 2.  ⟪अस्मात्⟫
@@ -307,4 +279,3 @@ A) Bestimmen und übersetzen Sie ohne Hilfsmittel (!) folgende Formen:
 78.  ⟪अकस्मात्⟫
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
-

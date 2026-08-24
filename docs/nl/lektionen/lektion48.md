@@ -152,9 +152,9 @@ Avm.: ¹ Verklaring van ⟪जहि⟫ zie Thumb-Hauschild I,2 blz. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:bronregelmatig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **Derde persoon** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **Eerste persoon** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | ⟪जुहवै⟫ | ⟪जुहवामहै⟫ |
+| **Tweede persoon** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:bronregelmatig¹ | ⟪जुहुत⟫ | ⟪जुहुष्व⟫ | ⟪जुहुध्वम्⟫ |
+| **Derde persoon** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | ⟪जुहुताम्⟫ | ⟪जुह्वताम्⟫ |
 
 Opmerking: ¹ Dissimilatie, zodat niet twee lettergrepen met ⟪ह्⟫ op elkaar volgen.
 :::

@@ -1,159 +1,155 @@
 ---
 title: "Oefening 48"
 uebung_id: 48
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 48
 
-# Oefening 48
+A) Vertaal die ⟪सुभाषितानि⟫ aan die begin van die les:
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion:
+⟪१⟫. **⟪सत्यं वद ॥ १ ॥⟫**
+Spreek die waarheid!
 
-⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Sprich die Wahrheit!
+⟪२⟫. **⟪धर्मं चर ॥ २ ॥⟫**
+Handel in ooreenstemming met geregtigheid en behoorlikheid!
 
-⟪२⟫. **⟪धर्मं⟫ ⟪चर⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Wandle nach Recht und Sitte!
+⟪३⟫. **⟪मातृदेवो भव ॥ ३ ॥⟫**
+Beskou jou moeder as 'n godheid!
 
-⟪३⟫. **⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Betrachte deine Mutter als Gottheit!
+⟪४⟫. **⟪गौरवं प्राप्यते दानात् ॥ ४ ॥⟫**
+Waardigheid word deur vrygewigheid bereik.
 
-⟪४⟫. **⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Würde wird durch Freigebigkeit erlangt.
+⟪५⟫. **⟪श्वः कार्यमद्य कुर्वी⟫it ⟪॥ ५ ॥⟫**
+Wat môre gedoen moet word, moet vandag gedoen word. (Moenie tot môre uitstel wat jy vandag kan doen nie!)
 
-⟪५⟫. **⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वी⟫it ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Was morgen zu tun ist, soll man heute tun. (Verschiebe nicht auf morgen, was du heute kannst besorgen!)
+⟪६⟫. **⟪विद्याविहीनः पशुः ॥ ६ ॥⟫**
+'n Mens sonder opvoeding is nie beter as 'n dier nie.
 
-⟪६⟫. **⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Ein Mensch ohne Bildung ist ein Vieh.
-
-⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Die Kürze ist der Schmuck des Grammatikers.
+⟪७⟫. **⟪लाघवं वैयाकरणस्य भूषणम् ॥ ७ ॥⟫**
+Kortheid is die grammatikus se sierade.
 
 ::: media
 ![](/images/uebung083.webp)
-Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
-(Bildquelle: [Details](/licenses#uebung083))
+Fig.: ⟪विद्याविहीनः पशुः⟫
+(Beeldbron: [Details](/licenses#uebung083))
 :::
 ---
 
-## Übersetzungen ins Sanskrit (Imperativ)
+## Vertalings in Sanskrit (imperatief)
 
-B) Übersetzen Sie ins Sanskrit unter Verwendung des Imperativs (vorzugsweise Wurzeln der 2. und 3. Klasse):
+B) Vertaal in Sanskrit met behulp van die imperatief (verkieslik 2de en 3de klaswortels):
 
-⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Oder: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
-Nachdem du einen Sohn bekommen hast, verlasse die Familie!
+⟪१⟫. **⟪पुत्रं लब्ध्वा कुलं जहाहि ॥ १ ॥⟫** (Of: **... ⟪जहीहि⟫ / ⟪जहिहि ॥⟫**)
+Sodra jy 'n seun gehad het, verlaat die familie!
 
-⟪२⟫. **⟪पौरवाः⟫ ⟪कृतपापेभ्यो⟫ ⟪बिभीत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben!
+⟪२⟫. **⟪पौरवाः कृतपापेभ्यो बिभीत ॥ २ ॥⟫**
+Nageslag van Puru, vrees dié wat kwaad gedoen het!
 
-⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Die Mädchen sollen den Bettlern Speise geben.
+⟪३⟫. **⟪कन्या भिक्षुभ्यो ऽन्नं ददतु ॥ ३ ॥⟫**
+Die meisies moet kos aan die bedelaars gee.
 
-⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Oder: **⟪वचाम⟫ ⟪॥⟫**)
-Wir wollen sprechen.
+⟪४⟫. **⟪ब्रवाम ॥ ४ ॥⟫** (Of: **⟪वचाम ॥⟫**)
+Kom ons praat.
 
 ::: media
 ![](/images/uebung085.webp)
-Abb.: ⟪वचाम⟫
-(Bildquelle: [Details](/licenses#uebung085))
+Fig.: ⟪वचाम⟫
+(Beeldbron: [Besonderhede](/licenses#uebung085))
 :::
-⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Mit den Worten "Komm, Mönch!" nahm der Buddha den Mann in den Orden auf.
+⟪५⟫. **"⟪एहि भिक्ष⟫" ⟪इति बुद्धो नरमुपसमपादयत् ॥ ५ ॥⟫**
+Met die woorde "Kom, monnik!", het die Boeddha die man in die Orde aangeneem.
 
-⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Seid wahre Menschen (Nachfahren Manus)!
+⟪६⟫. **⟪सन्मानवाः स्त ॥ ६ ॥⟫**
+Wees ware mense (nakomelinge van Manu)!
 
-⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Ich will Śiva und die anderen Götter preisen.
+⟪७⟫. **⟪शिवादिदेवान्स्तवानि ॥ ७ ॥⟫**
+Ek wil Śiva en die ander gode prys.
 
-⟪८⟫. **⟪आख्याहि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Erzähle!
+⟪८⟫. **⟪आख्याहि ॥ ८ ॥⟫**
+Vertel ons!
 
-⟪९⟫. **⟪नरकान्मिमीष्व⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Miss die Höllen aus!
+⟪९⟫. **⟪नरकान्मिमीष्व ॥ ९ ॥⟫**
+Beskryf die helle!
 
-⟪१०⟫. **⟪एतेषु⟫ ⟪शयनेषु⟫ ⟪शेरताम्⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Sie sollen auf diesen Lagern liegen.
+⟪१०⟫. **⟪एतेषु शयनेषु शेरताम् ॥ १० ॥⟫**
+Hulle moet op hierdie beddens lê.
 
-⟪११⟫. **⟪पुरुषव्याघ्रा⟫ ⟪इन्द्रशत्रून्घ्नन्तु⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Die tigergleichen Männer sollen die Feinde Indras töten.
+⟪११⟫. **⟪पुरुषव्याघ्रा इन्द्रशत्रून्घ्नन्तु ॥ ११ ॥⟫**
+Die tigris-agtige mans moet Indra se vyande doodmaak.
 
-⟪१२⟫. **⟪समाधेहि⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (Oder: **⟪समाधत्स्व⟫ ⟪॥⟫**)
-Konzentriere dich!
+⟪१२⟫. **⟪समाधेहि ॥ १२ ॥⟫** (Of: **⟪समाधत्स्व ॥⟫**)
+Konsentreer!
 
-⟪१३⟫. **⟪अत्राध्वम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-Sitzt hier!
+⟪१३⟫. **⟪अत्राध्वम् ॥ १३ ॥⟫**
+Sit hier!
 
-⟪१४⟫. **⟪तानि⟫ ⟪फलान्यदाम⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
-Wir wollen diese Früchte essen.
+⟪१४⟫. **⟪तानि फलान्यदाम ॥ १४ ॥⟫**
+Ons wil hierdie vrugte eet.
 
-⟪१५⟫. **⟪दासो⟫ ⟪धेनुं⟫ ⟪दोग्धु⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Der Diener soll die Kuh melken.
+⟪१५⟫. **⟪दासो धेनुं दोग्धु ॥ १५ ॥⟫**
+Die dienaar moet die koei melk.
 
-⟪१६⟫. **⟪राजन्धर्मं⟫ ⟪जनांश्च⟫ ⟪पाहि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-König, schütze das Recht und die Leute!
+⟪१६⟫. **⟪राजन्धर्मं जनांश्च पाहि ॥ १६ ॥⟫**
+Koning, beskerm geregtigheid en die mense!
 
-⟪१७⟫. **⟪शिष्याञ्शाधि⟫ ⟪वेदम्⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫** (Oder: **... ⟪शाधि⟫ ...**)
-Lehre die Schüler den Veda!
+⟪१७⟫. **⟪शिष्याञ्शाधि वेदम् ॥ १७ ॥⟫** (Of: **... ⟪शाधि⟫ ...**)
+Leer die Veda aan die leerlinge!
 
-⟪१८⟫. **⟪नवानि⟫ ⟪वस्त्राणि⟫ ⟪वस्ताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-Er soll neue Kleider anziehen.
+⟪१८⟫. **⟪नवानि वस्त्राणि वस्ताम् ॥ १८ ॥⟫**
+Hy sal nuwe klere aantrek.
 
-⟪१९⟫. **⟪मम⟫ ⟪गृह⟫ ⟪आसताम्⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-Sie sollen in meinem Haus sitzen.
+⟪१९⟫. **⟪मम गृह आसताम् ॥ १९ ॥⟫**
+Hulle sal in my huis sit.
 
-⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Ehemänner sollen ihre Gattinnen erhalten.
+⟪२०⟫. **⟪भर्तारो भार्या बिभ्रतु ॥ २० ॥⟫**
+Mans moet hul vroue bewaar.
 
 ::: media
 ![](/images/uebung076.webp)
-Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
-(Bildquelle: [Details](/licenses#uebung076))
+Fig.: ⟪तानि फलान्यदाम⟫
+(Beeldbron: [Besonderhede](/licenses#uebung076))
 :::
 ---
 
-## Dharma der Frauen (⟪स्त्रीधर्मः⟫)
+## Die Dharma vir Vroue (⟪स्त्रीधर्मः⟫)
+Van **⟪मनुस्मृति ९⟫**:
 
-Aus der **⟪मनुस्मृति⟫ ⟪९⟫**:
+**⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫**  
+**⟪विषयेषु च सज्जन्त्यः संस्थाप्या आत्मनो वशे ॥ २ ॥⟫**  
+Mans moet hul vroue dag en nag van hulle afhanklik maak. Vroue wat aan wêreldse dinge geheg is, moet onder hul eie beheer gebring word.
 
-**⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫**  
-**⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Die Männer müssen ihre Frauen Tag und Nacht abhängig machen. Frauen, die an den Sinnesobjekten haften, müssen unter die eigene Kontrolle gebracht werden.
+**⟪पिता रक्षति कौमारे भर्ता रक्षति यौवने ।⟫**  
+**⟪रक्षन्ति स्थाविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥ ३ ॥⟫**  
+Die vader beskerm haar in haar kinderjare, die man in haar jeug, en haar seuns beskerm haar in haar oudag; 'n vrou is nie geskik vir onafhanklikheid nie.
 
-**⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमारे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫**  
-**⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Der Vater behütet sie in der Kindheit, der Gatte in der Jugend, und die Söhne behüten sie im Alter; eine Frau ist nicht für die Eigenständigkeit geeignet.
+**⟪काले ऽदाता पिता वाच्यो वाच्यश्चानुपनयन्पतिः ।⟫**  
+**⟪मृते भर्तरि पुत्रस्तु वाच्यो मातुररक्षिता ॥ ४ ॥⟫**  
+'n Vader wat haar nie op die regte tyd laat trou nie, is te blameer; 'n man wat haar nie op die regte tyd benader nie, is te blameer; en 'n seun wat nie sy moeder ná sy vader se dood beskerm nie, is te blameer.
 
-**⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫**  
-**⟪मृते⟫ ⟪भर्तरि⟫ ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**  
-Tadelnswert ist der Vater, der sie nicht zur rechten Zeit verheiratet; tadelnswert ist der Gatte, der sich ihr nicht zur rechten Zeit nähert; und tadelnswert ist der Sohn, der seine Mutter nach dem Tod des Vaters nicht beschützt.
+**⟪सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः स्त्रियो रक्ष्या विशेषतः ।⟫**  
+**⟪द्वयोर्हि कुलयोः शोकमावहेयुररक्षिताः ॥ ५ ॥⟫**  
+Vroue moet beskerm word, veral teen onbelangrike sake; want, as hulle onbeskerm gelaat word, sou hulle twee families in rou dompel.
 
-**⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫**  
-**⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**  
-Besonders vor geringfügigen Anlässen sind Frauen zu schützen; denn ungeschützt würden sie zwei Familien in Kummer stürzen.
+**⟪इमं हि सर्ववर्णानां पश्यन्तो धर्ममुत्तमम् ।⟫**  
+**⟪यतन्ते रक्षितुं भार्यां भर्तारो दुर्बला अपि ॥ ६ ॥⟫**  
+Aangesien dit as die hoogste plig van alle sosiale klasse beskou word, doen selfs swak mans moeite om hul vroue te beskerm.
+**⟪स्वां प्रसूतिं चरित्रं च कुलमात्मानमेव च ।⟫**  
+**⟪स्वं च धर्मं प्रयत्नेन जायां रक्षन्हि रक्षति ॥ ७ ॥⟫**  
+Hy wat sy vrou sorgvuldig beskerm, beskerm werklik sy nageslag, sy lewenswyse, sy familie, homself en sy godsdienstige plig.
 
-**⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫**  
-**⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-Da sie dies als die höchste Pflicht aller Stände erkennen, bemühen sich selbst schwache Gatten, ihre Ehefrau zu beschützen.
-
-**⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫**  
-**⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**  
-Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, seinen Lebenswandel, seine Familie, sich selbst und seine religiöse Pflicht.
-
-**⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
-**⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (⟪जायात्वम्⟫) der Gattin, dass der Gatte in ihr wiedergeboren wird.
+**⟪पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते ।⟫**  
+**⟪जायायास्तद्धि जायात्वं यद् अस्यां जायते पुनः ॥ ८ ॥⟫**  
+Die man betree sy vrou, word 'n embrio en word dan hier gebore; dit is wat dit beteken om 'n 'vrou' te wees (⟪जायात्वम्⟫) van die vrou: dat die man in haar hergebore word.
 
 ::: media
 ![](/images/uebung084.webp)
-Abb.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung084))
+Fig.: ⟪अस्वतन्त्राः स्त्रियः कार्याः पुरुषैः स्वैर्दिवानिशम् ।⟫
+(Beeldbron: [Details](/licenses#uebung084))
 :::
 ::: media
 ![](/images/uebung077.webp)
-Abb.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
-(Bildquelle: [Details](/licenses#uebung077))
+Fig.: ⟪पतिर्भार्यां संप्रविश्य गर्भो भूत्वेह जायते⟫
+(Beeldbron: [Details](/licenses#uebung077))
 :::
 

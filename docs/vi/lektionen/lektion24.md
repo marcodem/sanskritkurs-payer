@@ -1,114 +1,115 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: "Bài 24"
+subtitle: 'Cách Đốc (⟪चतुर्थी⟫ = \"hậu tố cách thứ tư\")'
 lesson_id: 24
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 24
+# Bài 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. Cách Dative (⟪चतुर्थी⟫ = "hậu tố cách thứ tư")
 
 ::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.**
+**1. Để diễn đạt mục đích hoặc ý định ("để") của một hành động, thay vì dùng động từ nguyên mẫu (⟪तुमुन्⟫), người ta cũng có thể sử dụng một danh từ với hậu tố kṛt, chỉ hành động hoặc trạng thái, ở cách Dative (⟪चतुर्थी⟫ = "hậu tố cách thứ tư").**
 
-Beispiel:
+Ví dụ:
 
-anstatt:
+thay vì:
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनं श्रोतुं गतः ।⟫
 :::
-kann man auch sagen:
+người ta cũng có thể nói:
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनस्य श्रवणाय गतः ।⟫
 
-oder:
+hoặc:
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+⟪रामो गुरुवचनश्रवणाय गतः ।⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören."
+= "Rāma đã đi để nghe bài giảng của thầy."
 ::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404))
+Abb.: ⟪बाला गुरुश्रवणाय गताः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
+**2. Cách Dative (⟪चतुर्थी⟫) cũng có thể chỉ đối tượng của một động từ nguyên mẫu mục đích cần được bổ sung:**
 
-Beispiel:
+Ví dụ:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
+⟪फलेभ्यो ग्रामं गच्छति⟫ = "Anh ấy đi đến làng với mục đích lấy trái cây = Anh ấy đi vào làng để hái trái cây."
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
+**Theo cách tương tự, cách Dative (⟪चतुर्थी⟫) chỉ mục đích của một vật hoặc hành động:**
 
-Beispiel:
+Ví dụ:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
+⟪यज्ञायान्नम्⟫ = "Thức ăn với mục đích của một lễ hy sinh = Thức ăn cho một lễ hy sinh"
 :::
 ::: media
 ![](/images/lekt2401.webp)
 Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401))
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन पूजा⟫] là một sự kiện truyền thống của Hindu diễn ra trong các lễ kỷ niệm Năm Mới Hindu tại tất cả các mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Hàng trăm món ăn chay được dâng lên Bhagwan Swaminarayan [સ્વામિનારાયણ] trong ngày này.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)**
+**3. Cách tặng (⟪चतुर्थी⟫) cũng chỉ người hoặc vật mà đối tượng của hành động được dành cho (đối tượng gián tiếp; câu hỏi: cho ai?). (Tuy nhiên, hãy lưu ý các động từ có hai cách accusative (⟪द्वितीया⟫)!)**
 
-Beispiel:
+Ví dụ:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse)
+⟪रामाय फलं ददाति⟫ = "Ông ấy cho Rāma một quả trái cây." (Gốc ⟪दा⟫ lớp 3 của thì hiện tại)
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402))
+Abb.: ⟪बाला बालाय रक्षबन्धनं ददाति⟫
+Raksha bandhan được tổ chức với nhiệt huyết và niềm vui trên khắp Ấn Độ. Lễ hội này là biểu tượng của tình yêu vô điều kiện giữa anh em trai và chị em gái.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2402))
 :::
 
 ::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
+**4. Cách tặng đứng sau một số động từ (và một số từ khác) tương tự như trong tiếng Đức, trả lời cho câu hỏi "cho ai?":**
 
-Beispiele:
+Ví dụ:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern."
+⟪क्रुध्⟫ : ⟪देवो नरेभ्यो क्रुध्यति⟫ = "Thần giận dữ với những người đàn ông."
 
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen"
+⟪अलम्⟫ Trạng từ: "đủ, thỏa đáng, ngang tài": ⟪अलं योधो योधाय⟫ = "một chiến binh ngang tài với một chiến binh khác"
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403))
+Abb.: ⟪अलं योधो योधाय⟫
+"Rama (phải) ngồi trên vai Hanuman, chiến đấu với vua quỷ Ravana." khoảng năm 1820
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2403))
 :::
-Weitere Verwendungen des Dativ später.
+Các cách sử dụng khác của cách tặng sẽ được đề cập sau.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Hình thành cách tặng (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Die regelmässigen Endungen des Dativ sind:**
+**Các hậu tố thông thường của cách tặng là:**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai**
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
+* **Số ít: -e; các gốc danh từ giống cái kết thúc bằng nguyên âm: -ai**
+* **Số nhiều: Cách tặng và cách tách ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Các gốc phụ âm
 
 ::: grammar-box
 
-| | Dativ Singular | Dativ Plural |
+| | Cách tặng số ít | Cách tặng số nhiều |
 | :--- | :--- | :--- |
 | ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
 | ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
@@ -116,292 +117,275 @@ Weitere Verwendungen des Dativ später.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Đại từ nghi vấn
 
 ::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum |
+| | Giống đực / Giống trung | Giống cái |
 | :--- | :--- | :--- |
-| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
-| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
+| **Dative số ít** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Dative số nhiều** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Đại từ chỉ định
 
 ::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| **Giống đực / Giống trung** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
 | | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
-| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| **Giống cái** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Các gốc từ nguyên âm
 
 ::: grammar-box
-**Vokalische Stämme**
+**Các gốc từ nguyên âm**
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫
-  * Dat. sg. ⟪देवाय⟫
-  * Dat. pl. ⟪देवेभ्यस्⟫
-* **Maskulina auf -i:** ⟪कवि⟫
-  * Dat. sg. ⟪कवये⟫
-  * Dat. pl. ⟪कविभ्यस्⟫
-* **Maskulina auf -u:** ⟪पशु⟫
-  * Dat. sg. ⟪पशवे⟫
-  * Dat. pl. ⟪पशुभ्यस्⟫
-* **Feminina auf -ā:** ⟪देवता⟫
-  * Dat. sg. ⟪देवतायै⟫
-  * Dat. pl. ⟪देवताभ्यस्⟫
-* **Feminina auf -ī:** ⟪देवी⟫
-  * Dat. sg. ⟪देव्यै⟫
-  * Dat. pl. ⟪देवीभ्यस्⟫
-* **Feminina auf -i:** ⟪श्रुति⟫
-  * Dat. sg. ⟪श्रुतये⟫ oder ⟪श्रुत्यै⟫ (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
-  * Dat. pl. ⟪श्रुतिभ्यस्⟫
-* **Feminina auf -u:** ⟪धेनु⟫
-  * Dat. sg. ⟪धेनवे⟫ oder ⟪धेन्वै⟫
-  * Dat. pl. ⟪धेनुभ्यस्⟫
+* **Giống đực / Giống trung kết thúc bằng -a:** ⟪देव⟫
+* Dat. sg. ⟪देवाय⟫
+* Dat. pl. ⟪देवेभ्यस्⟫
+* **Giống đực kết thúc bằng -i:** ⟪कवि⟫
+* Dat. sg. ⟪कवये⟫
+* Dat. pl. ⟪कविभ्यस्⟫
+* **Giống đực kết thúc bằng -u:** ⟪पशु⟫
+* Dat. sg. ⟪पशवे⟫
+* Dat. pl. ⟪पशुभ्यस्⟫
+* **Giống cái kết thúc bằng -ā:** ⟪देवता⟫
+* Dat. sg. ⟪देवतायै⟫
+* Dat. pl. ⟪देवताभ्यस्⟫
+* **Giống cái kết thúc bằng -ī:** ⟪देवी⟫
+* Dat. sg. ⟪देव्यै⟫
+* Dat. pl. ⟪देवीभ्यस्⟫
+* **Giống cái kết thúc bằng -i:** ⟪श्रुति⟫
+* Dat. sg. ⟪श्रुतये⟫ hoặc ⟪श्रुत्यै⟫ (tức là như ⟪कवि⟫ hoặc như ⟪देवी⟫)
+* Dat. pl. ⟪श्रुतिभ्यस्⟫
+* **Giống cái kết thúc bằng -u:** ⟪धेनु⟫
+* Dat. sg. ⟪धेनवे⟫ hoặc ⟪धेन्वै⟫
+* Dat. pl. ⟪धेनुभ्यस्⟫
 :::
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. Sandhi của -ai và -au ở cuối từ
 
 ::: grammar-box
-**Sandhi von auslautendem -ai und -au**
+**Sandhi của -ai và -au ở cuối từ**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)**
+* **-ai đứng trước nguyên âm thường được thay thế bằng -a (hiếm khi là -āy như ở giữa từ)**
+* **-au đứng trước nguyên âm thường được thay thế bằng -ā (hiếm khi là -ā)**
 
-Beispiel:
+Ví dụ:
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा अग्नये⟫ = "ngọn lửa này"
 :::
-## 24.4. Wortliste
+## 24.4. Danh sách từ vựng
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
+⟪अलम्⟫ Trạng từ: đủ, đầy đủ, tương xứng (với ai đó, điều gì); với cách Dative: đủ cho, đầy đủ cho, tương xứng; với cách Instrumentalis: đủ với, hãy dừng lại , ví dụ ⟪अलं क्रोधेन⟫ = "đủ với cơn giận = hãy dừng cơn giận!"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
+Theo cách tương tự, ⟪अलम्⟫ được sử dụng với Instrumentalis:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = "Cơn giận đã được giải quyết = hãy dừng cơn giận!"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫: trang trí
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ danh từ giống đực: đồ trang sức, phương tiện trang trí (trong thi ca)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+Hình: ⟪अलंकारः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ danh từ giống đực: động lực, lý do, nguyên nhân; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ với cách Genetiv hoặc như thành phần thứ hai của từ ghép = "vì ..., do"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ danh từ giống cái: hình ảnh, bản sao
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Hình: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫: xảy ra, diễn ra, phát sinh
 
-Von ⟪वृत्⟫:
+Từ ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ danh từ giống cái: hành vi, hoạt động, lối sống
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ danh từ giống trung: hành vi
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ Tiền tố:  be-, theo - hướng, đến - lại, đến - đi, chống lại, vào - bên trong, liên quan đến, về, trên, tại
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ Tiền tố: xuống dưới, đi xuống, vào trong, quay ngược lại
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ Giới từ / Hậu giới từ: trước Ablativ hoặc sau Akkusativ: cho đến, tới ; với Ablativ: từ đó, kể từ
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ Từ bất biến: từ đó, sau đó, vì lý do đó (Gốc đại từ a- "này" + hậu tố Ablativ -tas)
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: người giám sát, trưởng phòng; nhân chứng
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: sức mạnh, cơ quan giác quan
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: sự suy nghĩ, lập luận
 
-davon
+về điều đó
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: sự phủ nhận (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: thảo luận về mặt lợi và hại
 :::
 ::: media
 ![](/images/lekt2407.webp)
 Abb.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Phó biên tập viên đối ngoại của Mạng CNN-IBN 18, Ấn Độ, điều hành một cuộc thảo luận panel tại Hội nghị Thượng đỉnh Kinh tế Ấn Độ 2008 của Diễn đàn Kinh tế Thế giới tại New Delhi."
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hữu ích
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: sản phẩm từ rừng, kim loại (không phải kim loại quý)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : nhìn, trở nên hữu hình; gọi tên, giải thích, thông báo
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : kể chuyện
 
-davon:
+về điều đó:
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: câu chuyện
 :::
 ::: media
 ![](/images/lekt2408.webp)
 Abb.: ⟪आख्यानम्⟫
-"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+"Người kể chuyện Jeff Byers ở San Francisco chia sẻ một câu chuyện với cư dân của Chenneri, một ngôi làng Irula. Người kể chuyện Jeeva Raghunath dịch sang tiếng Tamil cho người dân làng."
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2408))
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : cộng lại, tính toán
 
-davon:
+về điều đó:
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
+⟪संख्या⟫ f.: sự đếm, liệt kê; ⟪सांख्य⟫ n.: một trong sáu hệ thống triết học (tạm gọi: Basham, Wonder tr. 326f.)
 :::
-⟪ग्रहण⟫ n.: Ergreifen
+⟪ग्रहण⟫ n.: sự nắm bắt
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
+⟪चौल⟫ n.: nghi lễ (⟪संस्कार⟫) cắt tóc (ở tuổi 3)
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
+⟪तत्त्व⟫ n.: bản chất thật, chân lý, thực tại (⟪तद्⟫ + ⟪त्व⟫ = tính chất này)
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
+⟪स्वस्ति⟫ f.: hạnh phúc, sự cứu rỗi (danh từ hóa từ ⟪सु अस्ति⟫ = "thật tốt")
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: sự cúi chào, sự tôn kính, lời chào (cách biến đổi sẽ được học sau). Công thức chào hỏi: ⟪नमो नमः⟫
 
-davon:
+từ đó:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : cúi chào, tôn kính, chào hỏi
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+Hình: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Bản thảo của ⟪गीतगोविन्द⟫, năm 1730 sau Công nguyên.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: lời chào mừng (từ su-ā-gata)
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: cọng cỏ
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ Trạng từ: một lần nữa, lại, trở về, nhưng
 
-## 24.5. Übung
+## 24.5. Bài tập
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) Hãy tạo cách Dative số ít và cách Dative/(Ablativ) số nhiều, đồng thời cho biết ý nghĩa của gốc danh từ:
 
-1.  ⟪श्रव⟫
-2.  ⟪भवन⟫
-3.  ⟪गति⟫
-4.  ⟪ऋषि⟫
-5.  ⟪सुख⟫
-6.  ⟪गमन⟫
-7.  ⟪जय⟫
-8.  ⟪साधु⟫
-9.  ⟪धेनु⟫
-10.  ⟪शुद्रा⟫
-11.  ⟪ब्राह्मणी⟫
-12.  ⟪अग्नि⟫
-13.  ⟪एतद्⟫ ⟪३⟫
-14.  ⟪सन्त्⟫
-15.  ⟪बुद्धिमन्त्⟫
-16.  ⟪यज्ञ⟫
-17.  ⟪वचन⟫
-18.  ⟪सत्यवन्त्⟫
-19.  ⟪स्मृति⟫
-20.  ⟪सर्ग⟫
-21.  ⟪स्वर्ग⟫
-22.  ⟪दर्शन⟫
-23.  ⟪सृष्टि⟫
-24.  ⟪अर्हन्त्⟫
-25.  ⟪भक्ति⟫
-26.  ⟪दोष⟫
-27.  ⟪पूजा⟫
-28.  ⟪दासी⟫
-29.  ⟪गुरु⟫
+1. ⟪श्रव⟫
+2. ⟪भवन⟫
+3. ⟪गति⟫
+4. ⟪ऋषि⟫
+5. ⟪सुख⟫
+6. ⟪गमन⟫
+7. ⟪जय⟫
+8. ⟪साधु⟫
+9. ⟪धेनु⟫
+10. ⟪शुद्रा⟫
+11. ⟪ब्राह्मणी⟫
+12. ⟪अग्नि⟫
+13. ⟪एतद् ३⟫
+14. ⟪सन्त्⟫
+15. ⟪बुद्धिमन्त्⟫
+16. ⟪यज्ञ⟫
+17. ⟪वचन⟫
+18. ⟪सत्यवन्त्⟫
+19. ⟪स्मृति⟫
+20. ⟪सर्ग⟫
+21. ⟪स्वर्ग⟫
+22. ⟪दर्शन⟫
+23. ⟪सृष्टि⟫
+24. ⟪अर्हन्त्⟫
+25. ⟪भक्ति⟫
+26. ⟪दोष⟫
+27. ⟪पूजा⟫
+28. ⟪दासी⟫
+29. ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Hãy dịch và phân tích các từ ghép trong tiếng Phạn:
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
+⟪ब्राह्मणो देवप्रतिमादर्शनाय गर्भगृहं विशति ॥१॥ नरा धनलाभाय व्रतानि चरन्ति ॥२॥ गुरुर्धर्मोपदेशाय नगरं गतः ॥३॥ बाला अपि गुरुवचनश्रुत्यै नगरं गताः ॥४॥ देवप्रतिमायै गृहं गर्भगृहम् ॥५॥ स्वर्गेभ्यो नराः पुण्यं कर्तुमिच्छन्ति ॥६॥ मोक्षार्थं बुद्धगता बुद्ध्याप्तिमिच्छन्ति ॥७॥ देवास्तेभ्यो ऽकृतपूजाब्राह्मणेभ्यः क्रुध्यन्ति ॥८॥ मरणाय जना जायन्ते ॥९॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
+C) Hãy viết lại các câu A) 1-4 sang tiếng Phạn bằng cách thay thế các động từ nguyên mẫu ở cách Dative (⟪तुमुन्⟫). Lưu ý rằng động từ nguyên mẫu sẽ điều khiển cách giống như động từ tương ứng.
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
+D) Thay thế trong câu A) 7 cấu trúc với -⟪अर्थ⟫ bằng một cách dùng Dative tương đương.
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
+E) Thay thế trong câu A) 6 cấu trúc Dative bằng một cách dùng tương đương với -⟪अर्थ⟫
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
+## 24.6. Các bài tập thêm về cách dùng Dative
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
+Dịch sang tiếng Phạn:
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
+1. Nữ thần, người không được hiến tế, giận dữ với con người.
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
+2. Anh ta thả con bò vào làng.
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
+3. Bây giờ đủ rồi = Đủ sự kiên nhẫn đi.
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb.
+4. Điều đó tốt (⟪हित⟫, ⟪सुख⟫) đối với một người Bà-la-môn.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ.
-
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫
-
-## 24.6. Weitere Übungen zum Gebrauch des Dativ
-
-Übersetzen Sie ins Sanskrit:
-
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen.
-
-2\. Er lässt die Kuh ins Dorf los.
-
-3\. Jetzt reichts = Genug mit der Geduld.
-
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen.
-
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
+5. Sự tôn kính (⟪नमस्⟫) xin dâng Śiva! Sự tôn kính xin dâng Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409))
+Hình: ⟪श्रीगणेशाय नमः⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2409))
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!)
+6. Tạm biệt! (= Sự bình an (⟪स्वस्ति⟫ f.) đến với bạn!)
 
-7\. Diese Frucht reicht zum Essen.
+7. Quả này đủ để ăn.
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫).
+8. Một chiến binh ngang tài (⟪शक्त⟫) với (chiến binh kia).
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht.
+9. Ngay cả Viṣṇu cũng không vượt trội (⟪प्र⟫-⟪भू⟫ + Dat.) hơn Śiva.
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
+10. Sau khi tôi cúi chào ba vị hiền nhân (Akk.) (⟪नमस्कृ⟫)... Anh ta cúi chào Narasiṃha (Dat.)
 
 ::: indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+Giải thích: ⟪मुनित्रयम्⟫ "Tam vị hiền nhân = ba vị hiền nhân" = các nhà ngữ pháp ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410))
+Hình: ⟪नरो नरसिंहाय नमस्करोति नरसिंह⟫ xé xác ⟪हिरण्यकशिपु⟫, trang từ một bản thảo của ⟪भागवतपुराण⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt2410))
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin.
+11. Chào mừng (⟪स्वागतम्⟫) đến với bạn. Chào mừng nữ hoàng.
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen!
+12. Tôi chúc bạn bình an (⟪कुशल⟫) = Bình an đến với bạn!
 
-13\. Er betrachtet ihn nicht als Grashalm.
+13. Anh ta không xem anh ấy như một cọng cỏ.
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken.
+14. Có đủ một quả để ăn và nước để uống.
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
+15⟪१५⟫. Hẹn gặp lại! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 

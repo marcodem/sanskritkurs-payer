@@ -1,856 +1,856 @@
-# Inhaltsverzeichnis
+# Mục lục
 
-## [Lektion 1](lektion01)
+## [Bài 1](lektion01)
 
-*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Verehrung des Gaṇeśa
-*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Glückbringender Anfang"
-*   1\. Literatur für Anfänger in Indologie
-*   2\. Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift
-    *   2.1. Zur Aussprache einzelner Laute
-*   3\. Übung
+*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Sự tôn kính Gaṇeśa
+*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Khởi đầu tốt lành"
+*   1\. Tài liệu văn học cho người mới bắt đầu trong Ấn Độ học
+*   2\. Các âm của tiếng Phạn theo phân loại truyền thống Ấn Độ và cách phiên âm khoa học
+*   2.1. Về phát âm của từng âm riêng lẻ
+*   3\. Bài tập
 
-## [Lektion 2](lektion02)
+## [Bài 2](lektion02)
 
-*   1\. Der Nominalsatz
-*   2\. Zur Deklination (Beugung von Nomina)
-*   3\. Der Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫
-    *   3.1. Nominativ Singular auf -s
+*   1\. Câu danh từ
+*   2\. Về sự biến cách (biến đổi của danh từ)
+*   3\. Cách xưng hô số ít = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫
+*   3.1. Cách xưng hô số ít kết thúc bằng -s
 *   4\. Sandhi -- ⟪सन्धि⟫
-    *   4.1. Sandhi von auslautendem -s
-*   5\. Wortliste
-*   6\. Übung
+*   4.1. Sandhi của âm -s ở cuối từ
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
 
-## [Lektion 3](lektion03)
+## [Bài 3](lektion03)
 
-*   1\. Nominativ singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (Fortsetzung)
-    *   1.1. Nominativ Singular auf -s (Fortsetzung)
-    *   1.2. Nominativ singular ohne Endung
-*   2\. Bildung der Feminina zu Maskulina (Adjektive und Substantive)
-*   3\. Nominativ plural = prathamā bahuvacanam = ⟪प्रथमा⟫ ⟪बहुचनम्⟫
-*   4\. Vokalsandhi
-*   5\. Satzsandhi von -ās
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Cách xưng hô số ít = prathamā ekavacanam = ⟪प्रथमा एकवचनम्⟫ (Tiếp tục)
+*   1.1. Cách xưng hô số ít kết thúc bằng -s (Tiếp tục)
+*   1.2. Cách xưng hô số ít không có đuôi
+*   2\. Hình thành giống cái từ giống đực (tính từ và danh từ)
+*   3\. Cách xưng hô số nhiều = prathamā bahuvacanam = ⟪प्रथमा बहुचनम्⟫
+*   4\. Sandhi nguyên âm
+*   5\. Sandhi câu của -ās
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
 
-## [Lektion 4](lektion04)
+## [Bài 4](lektion04)
 
-Gesprochenes Sanskrit
+Tiếng Phạn nói
 
-*   1\. Einfache Ergänzungsfragen (Wortfragen) und Antworten
-    *   1.1. Fragepronomina (praśnārthakasarvanāma n.) und Demonstrativpronomina (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
-        *   1.1.1.Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
-        *   1.1.2. Demonstrativponomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
-    *   1.2. Sandhi von auslautendem -m
-    *   1.3. Sandhi von auslautendem -e
-    *   1.4. Sandhi von aulautendem -d
-    *   1.5. Frageformeln
-*   2\. Übung
+*   1\. Câu hỏi bổ sung đơn giản (câu hỏi từ) và câu trả lời
+*   1.1. Đại từ nghi vấn (praśnārthakasarvanāma n.) và đại từ chỉ định (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम निदर्शकसर्वनामानि च⟫
+*   1.1.1. Đại từ nghi vấn (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+*   1.1.2. Đại từ chỉ định (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+*   1.2. Sandhi của âm -m ở cuối từ
+*   1.3. Sandhi của âm -e ở cuối từ
+*   1.4. Sandhi của âm -d ở cuối từ
+*   1.5. Công thức câu hỏi
+*   2\. Bài tập
 
-## [Lektion 5](lektion05)
+## [Bài 5](lektion05)
 
-*   1\. Nominalkomposita = samāsa m. = ⟪समास⟫
-*   2\. Zur Sanskrit-Terminologie für Komposita
-*   3\. Kopulative Komposita = Dvandva n. ("Paar") = ⟪द्वन्द्व⟫
-    *   3.1. Vorderglieder von Komposita
-    *   3.2. Plural-Itaretaradvandva
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Danh từ hợp thành = samāsa m. = ⟪समास⟫
+*   2\. Về thuật ngữ Sanskrit cho danh từ hợp thành
+*   3\. Danh từ hợp thành liên kết = Dvandva n. ("Cặp đôi") = ⟪द्वन्द्व⟫
+*   3.1. Các thành phần đầu của danh từ hợp thành
+*   3.2. Plural-Itaretaradvandva
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
 
-## [Lektion 6](lektion06)
+## [Bài 6](lektion06)
 
-*   1\. Der Verbalsatz
-*   2\. Zur Bildung der Verbalformen
-*   3\. Indikativ Präsens (laṭ = ⟪लट्⟫)
-*   4\. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
-*   5\. Bildung des Präsensstamms
-    *   5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
-    *   5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
-        *   5.2.1. Wortsandhi von e und o
-        *   5.2.2. Lautabstufung (Ablaut)
-    *   5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
-    *   5.4. Themavokal, thematische Präsensklassen
-*   6\. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
-*   7\. Wortliste
-*   8\. Übung
-*   9\. Wiederholungsübung
+*   1\. Câu vị ngữ
+*   2\. Về cách hình thành các dạng động từ
+*   3\. Thì hiện tại chỉ định (laṭ = ⟪लट्⟫)
+*   4\. Hậu tố chính của ngôi thứ ba (prathama m. = ⟪प्रथम⟫ = "ngôi thứ nhất (!)")
+*   5\. Hình thành gốc hiện tại
+*   5.1. Động từ lớp hiện tại thứ 6 (tudādi = ⟪तुदादि⟫ = "tud v.v.")
+*   5.2. Động từ lớp hiện tại thứ 1 (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū v.v.")
+*   5.2.1. Sandhi từ vựng của e và o
+*   5.2.2. Biến đổi âm (Ablaut)
+*   5.3. Động từ lớp hiện tại thứ 4 (divādi = ⟪दिवादि⟫ = "div v.v.")
+*   5.4. Nguyên âm chủ đề, các lớp hiện tại có chủ đề
+*   6\. Sanskrit nói: Các câu hỏi khác (praśna m. = ⟪प्रश्न⟫)
+*   7\. Danh sách từ vựng
+*   8\. Bài tập
+*   9\. Bài tập ôn tập
 
-## [Lektion 7](lektion07)
+## [Bài 7](lektion07)
 
-Wochenspruch
+Câu nói trong tuần
 
-*   1\. Der Verbalsatz mit direktem Objekt
-*   2\. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-    *   2.1. Akkusativ singular und Plural der Frage- und Demonstrativpronomina
-    *   2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
-*   3\. Sandhi von auslautendem -n
-*   4\. Das Neutrum (napuṃsaka n. =  ⟪नपुंसक⟫)
-    *   4.1. Neutrum der Stämme auf -a
-*   5\. Athematische Präsensklassen
-    *   5.1. Primärendungen der 3. Person Plural bei athematischen Präsensstämmen
-    *   5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw."
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Câu vị ngữ với tân ngữ trực tiếp
+*   2\. Cách accusative (Cách hỏi, dvitīyā f. = ⟪द्वितीया⟫ = "hậu tố cách thứ hai")
+*   2.1. Số ít và số nhiều của đại từ nghi vấn và chỉ định ở cách accusative
+*   2.2. Cách sử dụng cách accusative (Cách hỏi, dvitīyā f. = ⟪द्वितीया⟫ = "hậu tố cách thứ hai")
+*   3\. Sandhi của -n cuối câu
+*   4\. Giống trung (napuṃsaka n. = ⟪नपुंसक⟫)
+*   4.1. Giống trung của các gốc kết thúc bằng -a
+*   5\. Các lớp hiện tại không có nguyên âm chủ đề
+*   5.1. Hậu tố chính của ngôi thứ ba số nhiều ở các gốc hiện tại không có nguyên âm chủ đề
+*   5.2. Lớp hiện tại thứ 5 (svādi = ⟪स्वादि⟫ = "su v.v."
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
 
-## [Lektion 8](lektion08)
+## [Bài 8](lektion08)
 
-*   1\. Zur Bildung von Nomina
-*   2\. Einteilung der Nominalsuffixe
-*   3\. Einige wichtige Nominalsuffixe
-    *   3.1. -a m. (kṛt)
-    *   3.2. -ana n. (kṛt)
-    *   3.3. -tra n. (kṛt)
-    *   3.4. -ti f. (kṛt)
-    *   3.5. -tva n., tā f. (taddhita)
-*   4\. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Lese- und Übersetzungsübung
+*   1\. Về việc hình thành danh từ (Nomina)
+*   2\. Phân loại các hậu tố danh từ (Nominalsuffixe)
+*   3\. Một số hậu tố danh từ quan trọng
+*   3.1. -a giống đực (kṛt)
+*   3.2. -ana giống trung (kṛt)
+*   3.3. -tra giống trung (kṛt)
+*   3.4. -ti giống cái (kṛt)
+*   3.5. -va giống trung, tāi giống cái (taddhita)
+*   4\. Lớp hiện tại thứ 8 (tanādi = ⟪तनादि⟫ = "tan v.v.")
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
+*   7\. Bài đọc và dịch thuật
 
-## [Lektion 9](lektion09)
+## [Bài 9](lektion09)
 
-*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Zusammenfassungsdvandva")
-*   2\. Zur Bildung von Nominalstämmen
-    *   2.1. -ka (taddhita)
-    *   2.2. -aka (kṛt), fem. oft -ikā
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("Dvandva tổng hợp")
+*   2\. Về việc hình thành gốc danh từ (Nominalstämmen)
+*   2.1. -ka (taddhita)
+*   2.2. -aka (kṛt), giống cái thường là -ikā
+*   3\. Danh sách từ vựng
+*   4\. Bài tập
 
-## [Lektion 10](lektion10)
+## [Bài 10](lektion10)
 
-*   1\. Der Passivsatz
-*   2\. Der Instrumentalis = tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung"
-    *   2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
-*   3\. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
-*   4\. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
-    *   4.1. Sonderregeln zur Bildung des Passiv
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wortliste 2
-*   8\. Lese- und Übersetzungsübung
+*   1\. Câu bị động
+*   2\. Cách dụng cụ (Instrumentalis) = tṛtīyā giống cái = ⟪तृतीया⟫ = "hậu tố cách thứ ba"
+*   2.1. Về việc sử dụng cách dụng cụ (tṛtīyā = ⟪तृतीया⟫)
+*   3\. Quy luật Cerebralisations cho -n- (một loại Wortsandhi)
+*   4\. Câu bị động, Chỉ định hiện tại (yak = ⟪यक्⟫)
+*   4.1. Quy tắc đặc biệt về việc hình thành câu bị động
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
+*   7\. Danh sách từ vựng 2
+*   8\. Bài đọc và dịch thuật
 
-## [Lektion 11](lektion11)
+## [Bài 11](lektion11)
 
-*   1\. Doppelter Akkusativ
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
+*   1\. Tân ngữ kép (Doppelter Akkusativ)
+*   2\. Danh sách từ vựng
+*   3\. Bài tập
+*   4\. Bài tập ôn tập
 
-## [Lektion 12](lektion12)
+## [Bài 12](lektion12)
 
-*   1\. Partizip Perfekt Passiv (PPP)
-    *   1.1. Schema für transitive Verben
-    *   1.2. Schema I für intransitive Verben und Verben der der Bewegung
-    *   1.3. Schema II für intransitive Verben und Verben der Bewegung
-*   2\. Zur Bedeutung des PPP
-*   3\. Bildung des PPP
-    *   3.1. PPP auf -ta (kta)
-        *   3.1.1. Ohne Bindevokal -i- (aniṭ)
-        *   3.1.2. Mit Bindevokal -i- (seṭ)
-*   4\. Gesetze der Lautverbindung im Wort
-*   5\. Wortliste
-    *   5.1. Passiv und PPP der bisher gelernten Wurzeln
-*   6\. Übung
+*   1\. Phân từ quá khứ bị động (PPP)
+*   1.1. Sơ đồ cho động từ ngoại động
+*   1.2. Sơ đồ I cho động từ nội động và động từ chỉ chuyển động
+*   1.3. Sơ đồ II cho động từ nội động và động từ chỉ chuyển động
+*   2\. Về ý nghĩa của PPP
+*   3\. Việc hình thành PPP
+*   3.1. PPP kết thúc bằng -ta (kta)
+*   3.1.1. Không có nguyên âm nối -i- (aniṭ)
+*   3.1.2. Có nguyên âm nối -i- (seṭ)
+*   4\. Các quy luật về tổ hợp âm trong từ
+*   5\. Danh sách từ vựng
+*   5.1. Câu bị động và PPP của các gốc từ đã học cho đến nay
+*   6\. Bài tập
 
-## [Lektion 13](lektion13)
+## [Bài 13](lektion13)
 
-*   1\. PPP auf -na-
-*   2\. Weiteres zum Gebrauch des PPP
-*   3\. Attributive Bestimmungen von Nomina (Wortstellung)
-*   4\. Bildung von Adjektiven auf -mant und -vant (taddhita)
-*   5\. Stammabstufung von Nomina
-*   6\. Zum Wortsandhi
-*   7\. Kasusendungen konsonantischer Stämme
-*   8\. Deklination der Stämme auf -mant und -vant
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+*   1\. PPP trên -na-
+*   2\. Thêm về cách sử dụng PPP
+*   3\. Bổ ngữ thuộc tính của danh từ (trật tự từ)
+*   4\. Hình thành tính từ trên -mant và -vant (taddhita)
+*   5\. Biến âm của gốc danh từ
+*   6\. Về Wortsandhi (Sandhi từ)
+*   7\. Hậu tố cách của các gốc phụ âm
+*   8\. Biến cách của các gốc trên -mant và -vant
+*   9\. Danh sách từ vựng
+*   10\. Bài tập
+*   11\. Bài tập ôn tập
 
-## [Lektion 14](lektion14)
+## [Bài 14](lektion14)
 
-*   1\. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
-*   2\. Bildung der Genetivformen (ṣāṣṭhī f. = ⟪षष्ठी⟫)
-*   3\. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
-*   4\. Wortliste
-*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
-*   6\. Übung
+*   1\. Cách diễn đạt mối quan hệ của những thứ được chỉ định bởi danh từ: cách sở hữu (ṣaṣṭhī f. = ⟪षष्टी⟫ = hậu tố cách thứ sáu)
+*   2\. Hình thành các dạng Genetiv (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3\. Thêm về cách sử dụng Genetiv (⟪षष्ठी⟫)
+*   4\. Danh sách từ vựng
+*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = Tục ngữ
+*   6\. Bài tập
 
-## [Lektion 15](lektion15)
+## [Bài 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
 *   2\. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   3\. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   4\. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   5\. Zerlegung von Komposita (ausser Dvandvas)
-*   6\. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
-*   7\. Einteilung der ⟪तत्पुरुष⟫
-    *   7.1. Einteilung der ⟪कर्मधारय⟫
-*   8\. Wortliste
-*   9\. Übung 1
-*   10\. Übung 2
-*   11\. Übung 3
+*   3\. Determinativkomposita với thành phần trước mang tính thuộc tính / đồng nghĩa = Karmadhāraya m. = ⟪कर्मधारय⟫
+*   4\. Determinativkomposita với một thành phần trước, mà trong mối quan hệ cách với thành phần sau không mang tính thuộc tính/đồng nghĩa = Tatpuruṣa theo nghĩa hẹp
+*   5\. Phân tích các hợp từ (ngoại trừ Dvandvas)
+*   6\. Hình thức của thành phần trước trong hợp từ (⟪समास⟫ m.)
+*   7\. Phân loại ⟪तत्पुरुष⟫
+*   7.1. Phân loại ⟪कर्मधारय⟫
+*   8\. Danh sách từ vựng
+*   9\. Bài tập 1
+*   10\. Bài tập 2
+*   11\. Bài tập 3
 
-## [Lektion 16](lektion16)
+## [Bài 16](lektion16)
 
-*   1\. Zum Sandhi auslautender Konsonanten
-*   2\. Wortliste
-*   3\. Übung
-*   4\. Wiederholungsübung
+*   1\. Về Sandhi của phụ âm cuối
+*   2\. Danh sách từ vựng
+*   3\. Bài tập
+*   4\. Bài tập ôn tập
 
-## [Lektion 17](lektion17)
+## [Bài 17](lektion17)
 
-*   1\. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
-*   2\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
-*   3\. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
-*   4\. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
-*   5\. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
-*   6\. Wortliste
-*   7\. Übung 1
-*   8\. Übung 2
+*   1\. Lớp thứ hai của thì hiện tại (⟪अदादि⟫ = ⟪अद्⟫ v.v.)
+*   2\. Gốc động từ của lớp thứ hai thì hiện tại với biến cách gốc: bậc cao - bậc thấp
+*   3\. Gốc động từ của lớp thứ hai thì hiện tại với biến cách gốc: bậc dài - bậc thấp
+*   4\. Gốc động từ của lớp thứ hai thì hiện tại không có biến cách gốc
+*   5\. Gốc động từ hai âm tiết kết thúc bằng -i/-ī có biến cách gốc
+*   6\. Danh sách từ vựng
+*   7\. Bài tập 1
+*   8\. Bài tập 2
 
-## [Lektion 18](lektion18)
+## [Bài 18](lektion18)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
-    *   2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
-*   3\. Verbalkomposita
-    *   3.1. Nominalbildungen zu Verbalkomposita
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+*   2\. Hợp từ định danh (⟪तत्पुरुष⟫) với thành phần trước mang tính trạng từ
+*   2.1. Hợp từ loại ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   2.2. Ý nghĩa của hợp từ Tatpuruṣa phủ định (a- / an-)
+*   3\. Hợp từ động từ
+*   3.1. Danh từ hóa các hợp từ động từ
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. Bài tập ôn tập
 
-## [Lektion 19](lektion19)
+## [Bài 19](lektion19)
 
-*   1\. Der Relativsatz
-*   2\. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Mệnh đề quan hệ
+*   2\. Đại từ quan hệ = ⟪व्यपेक्षकसर्वनाम⟫ giống đực
+*   3\. Danh sách từ vựng
+*   4\. Bài tập
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lektion 20](lektion20)
+## [Bài 20](lektion20)
 
-*   1\. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
-*   2\. Bahuvrīhi mit attributivem Vorderglied
-*   3\. Bahuvrīhi mit appositionellem Vorderglied
-*   4\. Bahuvrīhi mit kasuellem Vorderglied
-*   5\. Bahuvrīhi mit adverbiellem Vorderglied
-*   6\. Flexion des Schlussglieds eines Bahuvrīhi
-*   7\. Eine andere Einteilung der Arten von Bahuvrīhis
-*   8\. Verhältnis von Bahuvrīhi und Relativsatz
-*   9\. Wortliste
-*   10\. Übung 1
-*   11\. Übung 2
-*   12\. Übersetzungsübung
+*   1\. Hợp từ sở hữu = ⟪बहुव्रीहि⟫ giống đực
+*   2\. Bahuvrīhi với thành phần trước mang tính bổ ngữ
+*   3\. Bahuvrīhi với thành phần trước mang tính đồng vị
+*   4\. Bahuvrīhi với thành phần trước mang tính nguyên nhân
+*   5\. Bahuvrīhi với thành phần trước mang tính trạng từ
+*   6\. Biến cách của thành phần cuối trong một hợp từ Bahuvrīhi
+*   7\. Một cách phân loại khác các loại hợp từ Bahuvrīhi
+*   8\. Mối quan hệ giữa hợp từ Bahuvrīhi và mệnh đề quan hệ
+*   9\. Danh sách từ vựng
+*   10\. Bài tập 1
+*   11\. Bài tập 2
+*   12\. Bài dịch thuật
 
-## [Lektion 21](lektion21)
+## [Bài 21](lektion21)
 
-*   1\. Weitere Präsensstämme auf -nt
-    *   1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
-    *   1.2. ⟪महान्त्⟫ "gross"
-*   2\. Sandhi für auslautende Nasale
-*   3\. Höfliche Formen der Anrede
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Các gốc thì hiện tại khác kết thúc bằng -nt
+*   1.1. Phân từ hiện tại (⟪लडादेशः⟩) Parasmaipada
+*   1.2. ⟪महान्त्⟩ "lớn"
+*   2\. Quy tắc Sandhi cho các âm mũi kết thúc từ
+*   3\. Các hình thức xưng hô lịch sự
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
 
-## [Lektion 22](lektion22)
+## [Bài 22](lektion22)
 
-*   1\. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   2\. Bildung des Absolutivums
-    *   2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
-    *   2.2. Verben mit Präverb
-        *   2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
-        *   2.2.2. Wurzeln auf -ā
-        *   2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
-        *   2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
-*   3\. Wortliste
-*   4\. Übung
+*   1\. Cách tuyệt đối (⟪क्त्वा । ल्यप्⟫)
+*   2\. Cách thành lập cách tuyệt đối
+*   2.1. Động từ không có tiền tố: cách tuyệt đối tận cùng bằng -⟪त्वा⟫
+*   2.2. Động từ có tiền tố
+*   2.2.1. Gốc động từ tận cùng bằng nguyên âm dài (trừ -ā) hoặc phụ âm
+*   2.2.2. Gốc động từ tận cùng bằng -ā
+*   2.2.3. Gốc động từ ở dạng thấp tận cùng bằng -i, -u, -ṛ ngắn
+*   2.2.4. Gốc động từ tận cùng bằng -am / -an, ở dạng thấp tận cùng bằng -a
+*   3\. Danh sách từ vựng
+*   4\. Bài tập
 
-## [Lektion 23](lektion23)
+## [Bài 23](lektion23)
 
-*   1\. Der Infinitiv (⟪तुमुन्⟫)
-*   2\. Bildung des Infinitiv (⟪तुमुन्⟫)
-*   3\. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Wiederholungsübung
+*   1\. Động từ nguyên mẫu (⟪तुमुन्⟫)
+*   2\. Cách thành lập động từ nguyên mẫu (⟪तुमुन्⟫)
+*   3\. Động từ nguyên mẫu (⟪तुमुन्⟫) đối với các gốc động từ đã học cho đến nay
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. Bài tập ôn tập
 
-## [Lektion 24](lektion24)
+## [Bài 24](lektion24)
 
-*   1\. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
-*   2\. Bildung des Dativ (⟪चतुर्थी⟫)
-    *   2.1. Konsonantische Stämme
-    *   2.2. Fragepronomen
-    *   2.3. Demonstrativpronomina
-    *   2.4. Vokalische Stämme
-*   3\. Sandhi von auslautendem -ai und -au
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Weitere Übungen zum Gebrauch des Dativ
+*   1\. Cách tặng (⟪चतुर्थी⟫ = "cách kết thứ tư")
+*   2\. Cách thành lập cách tặng (⟪चतुर्थी⟫)
+*   2.1. Các gốc phụ âm
+*   2.2. Đại từ nghi vấn
+*   2.3. Đại từ chỉ định
+*   2.4. Các gốc nguyên âm
+*   3\. Quy tắc Sandhi đối với -ai và -au tận cùng
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. Các bài tập khác về cách sử dụng cách tặng
 
-## [Lektion 25](lektion25)
+## [Bài 25](lektion25)
 
-*   1\. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
-*   2\. Gebrauch des Ablativ (⟪पञ्चमी⟫)
-*   3\. Das Suffix -⟪तस्⟫
-*   4\. Andere Möglichkeiten, Begründungen auszudrücken
-*   5\. Wortliste
-*   6\. Übung
+*   1\. Cách thành lập cách cất (⟪पञ्चमी⟫ = "cách kết thứ năm")
+*   2\. Cách sử dụng cách cất (⟪पञ्चमी⟫)
+*   3\. Hậu tố -⟪तस्⟫
+*   4\. Các cách khác để diễn đạt lý do
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
 *   7\. ⟪सुभाषितानि⟫
-*   8\. Übersetzungsübung
+*   8\. Bài tập dịch thuật
 
-## [Lektion 26](lektion26)
+## [Bài 26](lektion26)
 
-*   1\. Cerebralisationsgesetz für -s- im Wortinnern
-*   2\. Cerebralisationsgesetz für Dentale im Wortinnern
-*   3\. Wortsandhi für Palatal, Guttural, ṣ, h + -s
-*   4\. Grassmannsches Hauchdissimilationsgesetz
-*   5\. Wortsandhi für -m, -n vor Zischlaut
-*   6\. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   7\. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   8\. Übung
+*   1\. Quy tắc Cerebralisations đối với -s- ở giữa từ
+*   2\. Quy tắc Cerebralisations đối với các âm răng ở giữa từ
+*   3\. Wortsandhi đối với âm mềm, âm ngạc cứng, ṣ, h + -s
+*   4\. Quy tắc Grassmannsches Hauchdissimilationsgesetz
+*   5\. Wortsandhi đối với -m, -n trước âm xát
+*   6\. Cách sử dụng thì tương lai đơn (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   7\. Cách thành lập thì tương lai đơn (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+*   8\. Bài tập
 
-## [Lektion 27](lektion27)
+## [Bài 27](lektion27)
 
-*   1\. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung)
-*   2\. Bildung des Lokativ (⟪सप्तमी⟫)
-    *   2.1. Konsonatische Stämme
-    *   2.2. Frage, Demonstrativ- und Relativpronomina
-    *   2.3. Vokalische Stämme
-*   3\. Übersicht über die regulären Kasusendungen (⟪विभक्ति⟫) des Singular und Plural
-*   4\. Ein Vers mit allen Deklinationsformen des Singular zu ⟪राम⟫
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Deklinationsparadigmen zum Auswendiglernen
-    *   7.1. Maskulina auf -a: ⟪नर⟫
-    *   7.2. Neutra auf -a: ⟪फल⟫
-    *   7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
-    *   7.4. Maskulina auf -i: ⟪अरि⟫
-    *   7.5. Feminina auf -i: ⟪मति⟫
-    *   7.6. Maskulina auf -u: ⟪गुरु⟫
-    *   7.7. Feminina auf -u: ⟪धेनु⟫#
-    *   7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
-    *   7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
-    *   7.10. ⟪महान्त्⟫
-    *   7.11. Maskulina und Neutra auf -vant / -mant: ⟪गुणवन्त्⟫
-    *   7.12. Demonstrativpronomina: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   7.13. Relativpronomen: ⟪यद्⟫
-    *   7.14. Fragepronomen: ⟪किम्⟫
+*   1\. Cách sử dụng cách Locative (⟪सप्तमी⟫ f. = "hậu tố cách thứ bảy")
+*   2\. Hình thành cách Locative (⟪सप्तमी⟫)
+*   2.1. Các gốc từ phụ âm (Consonant stems)
+*   2.2. Đại từ nghi vấn, đại từ chỉ định và đại từ quan hệ
+*   2.3. Các gốc từ nguyên âm (Vowel stems)
+*   3\. Tổng quan về các hậu tố cách thông thường (⟪विभक्ति⟫) của số ít và số nhiều
+*   4\. Một câu thơ với tất cả các dạng biến cách của số ít đối với ⟪राम⟫
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
+*   7\. Bảng biến cách để học thuộc lòng
+*   7.1. Giống đực kết thúc bằng -a: ⟪नर⟫
+*   7.2. Giống trung kết thúc bằng -a: ⟪फल⟫
+*   7.3. Giống cái kết thúc bằng -ā: ⟪क्षत्रिया⟫
+*   7.4. Giống đực kết thúc bằng -i: ⟪अरि⟫
+*   7.5. Giống cái kết thúc bằng -i: ⟪मति⟫
+*   7.6. Giống đực kết thúc bằng -u: ⟪गुरु⟫
+*   7.7. Giống cái kết thúc bằng -u: ⟪धेनु⟫#
+*   7.8. Giống cái đa âm tiết kết thúc bằng -ī: ⟪देवी⟫
+*   7.9. Phân từ hiện tại (Partizip Präsens) Parasmaipada kết thúc bằng -ant: ⟪सन्त्⟫
+*   7.10. ⟪महान्त्⟫
+*   7.11. Giống đực và giống trung kết thúc bằng -vant / -mant: ⟪गुणवन्त्⟫
+*   7.12. Đại từ chỉ định: ⟪तद् । एतद् । इदम्⟫
+*   7.13. Đại từ quan hệ: ⟪यद्⟫
+*   7.14. Đại từ nghi vấn: ⟪किम्⟫
 
-## [Lektion 28](lektion28)
+## [Bài 28](lektion28)
 
-*   1\. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   2\. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   3\. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   4\. Bildung des Passivs (⟪यक्⟫)  zum Kausativ
-*   5\. Bildung des Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
-*   6\. Bildung des PPP (⟪क्त⟫) zum Kausativ
-*   7\. Bildung des Absolutivs (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) zum Kausativ
-*   8\. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
-*   9\. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
-*   10\. Wortliste
-*   11\. Übung
+*   1\. Dạng sai khiến (Kausativum) (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   2\. Cấu trúc câu với dạng sai khiến (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   3\. Hình thành gốc hiện tại cho dạng sai khiến (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   4\. Hình thành dạng bị động (⟪यक्⟫) cho dạng sai khiến
+*   5\. Hình thành thì tương lai (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) cho dạng sai khiến
+*   6\. Hình thành PPP (⟪क्त⟫) cho dạng sai khiến
+*   7\. Hình thành trạng từ phân từ (Absolutivs) cho dạng sai khiến
+*   8\. Hình thành động từ nguyên mẫu (Infinitivs) cho dạng sai khiến
+*   9\. Lớp hiện tại thứ mười (⟪चुरादि⟫ = ⟪चुर्⟫ v.v.)
+*   10\. Danh sách từ vựng
+*   11\. Bài tập
 
-## [Lektion 29](lektion29)
+## [Bài 29](lektion29)
 
-*   1\. Verwendung des Parasmaipada und Ātmanepada im Kausativum
-*   2\. Wortliste
-*   3\. Übersetzungsübung zur Wiederholung
-*   4\. Futur und Kausativ zu den bisher gelernten Wurzeln
+*   1\. Việc sử dụng Parasmaipada và Ātmanepada trong dạng Nguyên nhân
+*   2\. Danh sách từ vựng
+*   3\. Bài tập dịch để ôn lại kiến thức
+*   4\. Thì Tương lai và Dạng Nguyên nhân cho các gốc từ đã học đến nay
 
-## [Lektion 30](lektion30)
+## [Bài 30](lektion30)
 
-*   1\. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
-*   2\. Gebrauch des Optativ (⟪लिङ्⟫)
-*   3\. Sekundärendungen der 3. Personen Singular und Plural
-*   4\. Bildung des Optativ Präsens (⟪लिङ्⟫)
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Sandhi von auslautendem -r
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. Lớp Hiện tại thứ 9 (⟪क्र्यादि⟫ = "⟪क्री⟫ v.v.")
+*   2\. Cách dùng Dạng Nguyện cách (⟪लिङ्⟫)
+*   3\. Hậu tố thứ cấp của ngôi thứ ba số ít và số nhiều
+*   4\. Hình thành Hiện tại Nguyện cách (⟪लिङ्⟫)
+*   4.1. Các lớp Hiện tại có chủ tố (Thematische Präsensklassen)
+*   4.2. Các lớp Hiện tại không có chủ tố (Athematische Präsensklassen)
+*   5\. Quy tắc Sandhi của phụ âm -r ở cuối từ
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
+*   8\. Bài tập ôn lại về Hình thái học (Formenlehre)
 
-## [Lektion 31](lektion31)
+## [Bài 31](lektion31)
 
-*   1\. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
-*   2\. Wortliste
-*   3\. Übung
+*   1\. Lớp Hiện tại thứ 7 (⟪रुधादि⟫ = "⟪रुध्⟫ v.v.")
+*   2\. Danh sách từ vựng
+*   3\. Bài tập
 
-## [Lektion 32](lektion32)
+## [Bài 32](lektion32)
 
-*   1\. Die Vergangenheitstempora
-*   2\. Das Imperfekt (⟪लङ्⟫)
-*   3\. Regeln für das Augment
-*   4\. Beispiele für die Imperfektbildung der einzelnen Präsensklassen
-    *   4.1. Thematische Präsensklassen
-    *   4.2. Athematische Präsensklassen
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Übung zur Wiederholung über die Weihnachtsferien
+*   1\. Các thì Quá khứ
+*   2\. Thì Không hoàn thành (Imperfekt) (⟪लङ्⟫)
+*   3\. Các quy tắc về Phụ tố tăng cường (Augment)
+*   4\. Ví dụ về cách hình thành thì Không hoàn thành của các lớp Hiện tại khác nhau
+*   4.1. Các lớp Hiện tại có chủ tố (Thematische Präsensklassen)
+*   4.2. Các lớp Hiện tại không có chủ tố (Athematische Präsensklassen)
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
+*   7\. Bài tập ôn lại trong kỳ nghỉ Giáng sinh
 
-## [Lektion 33](lektion33)
+## [Bài 33](lektion33)
 
-*   1\. Die Reduplikation (⟪अभ्यास⟫ m.)
-    *   1.1. Der Reduplikationskonsonant
-*   2\. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
-    *   2.1. Der Reduplikationsvokal der 3. Präsensklasse
-*   3\. Zum Ablaut von ā
-*   4\. Wurzeln auf -ā der dritten Präsensklasse
-    *   4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
-*   5\. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
-*   6\. Wortliste
-*   7\. Übung
+*   1\. Sự lặp lại (⟪अभ्यास⟫ m.)
+*   1.1. Phụ âm lặp lại (Reduplikationskonsonant)
+*   2\. Lớp Hiện tại thứ ba (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ v.v.")
+*   2.1. Nguyên âm lặp lại của Lớp Hiện tại thứ ba
+*   3\. Về hiện tượng Ablaut của nguyên âm ā
+*   4\. Các gốc từ kết thúc bằng -ā thuộc Lớp Hiện tại thứ ba
+*   4.1. Các gốc từ ⟪दा⟫ và ⟪धा⟫
+*   5\. Phân từ Hiện tại Parasmaipada của các gốc từ thuộc Lớp Hiện tại thứ ba
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
 
-## [Lektion 34](lektion34)
+## [Bài 34](lektion34)
 
-*   1\. Das Perfekt (⟪लिट्⟫)
-*   2\. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Stammabstufung
-    *   2.2. Die Perfektendungen
-    *   2.3. Bindevokal -i-
-    *   2.4. Reduplikation konsonantisch anlautender Wurzeln
-    *   2.5. Reduplikation vokalisch anlautender Wurzeln
-*   3\. Typen des reduplizierten Perfekts
-*   4\. Perfekt Typ I: Perfekt ohne Stammabstufung
-*   5\. Perfekt II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Übersetzungsübung
+*   1\. Thì hoàn thành (⟪लिट्⟫)
+*   2\. Thì hoàn thành có lặp lại (⟪द्वित्वलिट्⟫)
+*   2.1. Biến đổi gốc từ
+*   2.2. Các hậu tố thì hoàn thành
+*   2.3. Nguyên âm nối -i-
+*   2.4. Sự lặp lại của các gốc từ bắt đầu bằng phụ âm
+*   2.5. Sự lặp lại của các gốc từ bắt đầu bằng nguyên âm
+*   3\. Các loại thì hoàn thành có lặp lại
+*   4\. Loại I: Thì hoàn thành không biến đổi gốc từ
+*   5\. Loại II: Gốc mạnh ở mức cao, gốc yếu ở mức thấp
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
+*   8\. Bài dịch thuật
 
-## [Lektion 35](lektion35)
+## [Bài 35](lektion35)
 
-*   1\. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-    *   1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-    *   1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-*   2\. Perfekt Typ IV: Wurzeln auf -ā / -ai
-*   3\. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
-    *   3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
-    *   3.2. Perfekt Typ Vb: Wurzeln Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h. Schwacher Stamm ohne Reduplikation, mit -e-
-    *   3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
-*   4\. Wortliste
-*   5\. Übung
+*   1\. Loại III: Gốc mạnh ở mức cao/mức kéo dài
+*   1.1. Loại IIIa: Gốc mạnh ở mức cao/mức kéo dài, gốc yếu ở mức thấp
+*   1.2. Loại IIIb: Gốc mạnh ở mức cao/mức kéo dài, gốc mạnh ở mức cao
+*   2\. Loại IV: Các gốc từ kết thúc bằng -ā / -ai
+*   3\. Loại V: Các gốc từ Phụ âm-a-Phụ âm
+*   3.1. Loại Va: Gốc yếu ở mức thấp
+*   3.2. Loại Vb: Các gốc từ Phụ âm-a-Phụ âm, phụ âm đầu không phải là guttural, aspirate hoặc h. Gốc yếu không lặp lại, có -e-
+*   3.3. Loại Vc: Các gốc từ Phụ âm-a-Phụ âm. Gốc mạnh ở mức cao
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
 
-## [Lektion 36](lektion36)
+## [Bài 36](lektion36)
 
-*   1\. Besondere Bildungen des Perfekts
-*   2\. Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   3\. Perfekt Passiv
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Das Perfekt (⟪लिट्⟫) zu den bisher gelernten Wurzeln
-*   7\. Übersetzungsübung
-*   8\. Wiederholungsübung zur Formenlehre
+*   1\. Các hình thành đặc biệt của thì hoàn thành
+*   2\. Thì hoàn thành phân tích (⟪अनुप्रयोगलिट्⟫)
+*   3\. Thì hoàn thành bị động
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. Thì hoàn thành (⟪लिट्⟫) đối với các gốc từ đã học cho đến nay
+*   7\. Bài dịch thuật
+*   8\. Bài tập lặp lại về hình thái học
 
-## [Lektion 37](lektion37)
+## [Bài 37](lektion37)
 
-*   1\. Das Adverb (⟪क्रियाविशेषनम्⟫)
-*   2\. Adverbialer Gebrauch von Kasusformen
-    *   2.1. Akkusativ (⟪द्वितीया⟫)
-    *   2.2. Instrumentalis (⟪तृतीया⟫)
-    *   2.3. Dativ (⟪चतुर्थी⟫)
-    *   2.4. Ablativ (⟪पञ्चमी⟫)
-    *   2.5. Genetiv (⟪षष्ठी⟫)
-    *   2.6. Lokativ (⟪सप्तमी⟫)
-*   3\. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusfomen
-*   4\. Bildung von Adverbien mit Adverbialsuffixen
-*   5\. Adverbiale Komposita
-    *   5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
-    *   5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
-    *   5.3. ⟪अव्ययीभाव⟫-Komposita
-*   6\. Syntaktisches
-*   7\. Indefinitpronomina
-*   8\. Der Fragesatz
-    *   8.1. Wortfragen (Ergänzungsfragen)
-    *   8.2. Satzfragen
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wiederholungsübung
+*   1\. Trạng từ (⟪क्रियाविशेषनम्⟫)
+*   2\. Cách sử dụng trạng ngữ của các dạng cách thức
+*   2.1. Cách đối tượng (⟪द्वितीया⟫)
+*   2.2. Cách công cụ (⟪तृतीया⟫)
+*   2.3. Cách cho (⟪चतुर्थी⟫)
+*   2.4. Cách tách (⟪पञ्चमी⟫)
+*   2.5. Cách sở hữu (⟪षष्ठी⟫)
+*   2.6. Cách tại (⟪सप्तमी⟫)
+*   3\. Cách sử dụng trạng ngữ của các dạng cách thức không còn phổ biến
+*   4\. Hình thành trạng từ với các hậu tố trạng ngữ
+*   5\. Từ ghép trạng ngữ
+*   5.1. Từ ghép với một trạng từ hoặc dạng cách thức được sử dụng như trạng ngữ làm thành phần sau
+*   5.2. ⟪बहुव्रीहि⟫ được sử dụng như trạng ngữ
+*   5.3. Từ ghép ⟪अव्ययीभाव⟫
+*   6\. Ngữ pháp cú pháp
+*   7\. Đại từ bất định
+*   8\. Câu hỏi
+*   8.1. Câu hỏi từ (Câu hỏi bổ ngữ)
+*   8.2. Câu hỏi câu
+*   9\. Danh sách từ vựng
+*   10\. Bài tập
+*   11\. Bài tập ôn tập
 
-## [Lektion 38](lektion38)
+## [Bài 38](lektion38)
 
-*   1\. Losung der Woche
-*   2\. Lautwandel von Nasalen im Wort
-*   3\. Deklination der Stämme auf -n
-    *   3.1. Nomina auf -an sowie Nomina -man bzw. -van nach Vokal
-    *   3.2. Nomina auf -man bzw. -van nach Konsonant
-    *   3.3. Maskulina und Neutra auf -in, -min, -vin
-*   4\. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
-*   5\. Syntaktisches zu ⟪नामन्⟫
-*   6\. Syntaktisches zu ⟪आत्मन्⟫
-*   7\. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
-*   8\. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
-*   9\. Wortliste
-*   10\. Übung
-*   11\. Wortliste zur Übersetzungsübung
-*   12\. Übersetzungsübung
+*   1\. Lời giải của tuần
+*   2\. Biến đổi âm thanh của các phụ âm mũi trong từ
+*   3\. Biến cách của các gốc từ kết thúc bằng -n
+*   3.1. Danh từ kết thúc bằng -an cũng như danh từ -man hoặc -van sau nguyên âm
+*   3.2. Danh từ kết thúc bằng -man hoặc -van sau phụ âm
+*   3.3. Giống đực và giống trung kết thúc bằng -in, -min, -vin
+*   4\. Về việc hình thành danh từ: Hậu tố -in ⟪तद्धित⟫
+*   5\. Ngữ pháp cú pháp liên quan đến ⟪नामन्⟫
+*   6\. Ngữ pháp cú pháp liên quan đến ⟪आत्मन्⟫
+*   7\. Các gốc từ kết thúc bằng phụ âm làm thành phần trước của từ ghép
+*   8\. Các gốc từ kết thúc bằng -an làm thành phần sau của ⟪बहुव्रीहि⟫
+*   9\. Danh sách từ vựng
+*   10\. Bài tập
+*   11\. Danh sách từ vựng cho bài dịch
+*   12\. Bài tập dịch văn bản
 
-## [Lektion 39](lektion39)
+## [Bài 39](lektion39)
 
-*   1\. Die Personalendungen der ersten Person (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "dritte Person")
-*   2\. Bildung der Verbformen der ersten Person thematischer Präsensstämme
-    *   2.1. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.2. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.3. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Passiv (Suffix ⟪यक्⟫)
-*   3\. Bildung der Verbformen der ersten Person des einfachen Futur (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫-Bildung
-    *   3.2. ⟪सेट्⟫-Bildung
-*   4\. Bildung der Verbformen der ersten Person athematischer Präsensstämme
-    *   4.1. Zweite Präsensklasse (⟪अदादि⟫)
-    *   4.2. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   4.4. Achte Präsensklasse (⟪तनादि⟫)
-    *   4.5. Siebte Präsensklasse (⟪रुधादि⟫)
-    *   4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   5\. Übung
+*   1\. Các hậu tố ngôi thứ nhất (⟪तृतीयः पुरुषः⟫ = "ngôi thứ ba")
+*   2\. Hình thành các dạng động từ ngôi thứ nhất của gốc hiện tại có âm tiết (thematischer Präsensstämme)
+*   2.1. Lớp hiện tại thứ nhất (⟪भ्वादि⟫)
+*   2.2. Lớp hiện tại thứ sáu (⟪तुदादि⟫)
+*   2.3. Lớp hiện tại thứ tư (⟪दिवादि⟫)
+*   2.4. Lớp hiện tại thứ mười (⟪चुरादि⟫) và nguyên nhân (⟪णिजन्त⟫)
+*   2.5. Bị động (hậu tố ⟪यक्⟫)
+*   3\. Hình thành các dạng động từ ngôi thứ nhất của tương lai đơn (⟪ऌत्⟫)
+*   3.1. Hình thành ⟪अनिट्⟫
+*   3.2. Hình thành ⟪सेट्⟫
+*   4\. Hình thành các dạng động từ ngôi thứ nhất của gốc hiện tại không có âm tiết (athematischer Präsensstämme)
+*   4.1. Lớp hiện tại thứ hai (⟪अदादि⟫)
+*   4.2. Lớp hiện tại thứ ba (⟪जुहोत्यादि⟫)
+*   4.3. Lớp hiện tại thứ năm (⟪स्वादि⟫)
+*   4.4. Lớp hiện tại thứ tám (⟪तनादि⟫)
+*   4.5. Lớp hiện tại thứ bảy (⟪रुधादि⟫)
+*   4.6. Lớp hiện tại thứ chín (⟪क्र्यादि⟫)
+*   5\. Bài tập
 
-## [Lektion 40](lektion40)
-
-*   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
-    *   2.1. Perfekt Typ I: keine Stammabstufung
-    *   2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   2.5. Perfekt Typ V: Konsonant-a-Konsonant
-        *   2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   2.6. Besondere Perfekt-Bildungen
-*   3\. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
-*   5\. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
-*   6\. Wortliste
-*   7\. Übung
-*   8\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 41](lektion41)
-
-*   1\. ⟪सुभाषिते⟫  (zwei Sprichwörter)
-*   2\. Weitere ⟪कृत्⟫-Bildungen auf -a
-    *   2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) Passiv, Partizip Futur (⟪ऌडादेशः⟫) Ā
-        *   2.1.1. Thematische Präsensstämme, Passiv und Futur
-        *   2.1.2. Athematische Präsensklassen
-    *   2.2. "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-        *   2.2.1. Das Suffix -⟪तव्य⟫ / -⟪तव्या⟫
-        *   2.2.2. Das Suffix -⟪अनीय⟫ / -⟪अनीया⟫
-        *   2.2.3. Das Suffix -⟪य⟫ / -⟪या⟫
-        *   2.2.4. Das Suffix -⟪त्य⟫ / ⟪त्या⟫ (statt -⟪य⟫ / -⟪या⟫)
-    *   2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
-    *   2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
-    *   2.5. Keine Verbindung mit ⟪सु⟫- und ⟪दुस्⟫-
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 42](lektion42)
-
-*   1\. Stämme auf -ṛ
-    *   1.1. Stämme mit Dehnstufe im starken Stamm
-    *   1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
-    *   1.3. Stämme mit Hochstufe im starken Stamm
-    *   1.4. Stämme auf -ṛ in Komposita
-*   2\. Wortliste
-    *   2.1. Einige Verwandtschaftsbezeichnungen
-*   3\. Übung
-*   4\. Übersetzungsübung
-
-## [Lektion 43](lektion43)
-
-*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
-*   2\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
-    *   2.1. Thematische Stämme
-        *   2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
-        *   2.1.2. Sechste Präsensklasse (⟪तुदादि⟫)
-        *   2.1.3. Vierte Präsensklasse (⟪दिवादि⟫)
-        *   2.1.4. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-        *   2.1.5. Passiv
-        *   2.1.6. Futur (⟪ऌट्⟫)
-            *   2.1.6.1. ⟪अनिट्⟫-Bildungen
-            *   2.1.6.2. ⟪सेट्⟫-Bildungen
-*   3\. Das Personalpronomen der zweiten Person
-*   4\. Wortliste
-*   5\. Übung
-*   6\. ⟪संवादः⟫ = Gespräch
-
-## [Lektion 44](lektion44)
-
-*   1.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
-    *   1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.2. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Zum Wortsandhi
-    *   2.1. Zum Wortsandhi für dh-
-    *   2.2. Zum Wortsandhi für s-
-*   3.  Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
-    *   3.1. Zweite Präsensklasse (⟪अदादि⟫)
-*   4\. Der Vokativ (⟪आमन्त्रितम्⟫)
-*   5\. Wortliste
-*   6\. Übung
-*   7\. Wiederholungsübung zur Formenlehre
-
-## [Lektion 45](lektion45)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
-    *   1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-    *   1.2. Siebte Präsensklasse (⟪रुधादि⟫)
-*   2\. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)
-*   3\. Wortliste
-*   4\. Übung
-
-## [Lektion 46](lektion46)
-
-*   1\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
-    *   1.1. Endungen
-    *   1.2. Lautveränderung der Endung -dhve
-    *   1.3. Perfekt Typ I: keine Stammabstufung
-    *   1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
-        *   1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
-    *   1.7. Perfekt Typ V: Konsonant-a-Konsonant
-        *   1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   1.7.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-    *   1.8. Besondere Perfekt-Bildungen
-    *   1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   2\. Wortliste
-*   3\. Übung
-
-## [Lektion 47](lektion47)
-
-*   1\. Der Imperativ (⟪लोट्⟫)
-*   2\. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an thematischen Präsensstämmen
-    *   2.2. Erste Präsensklasse (⟪भ्वादि⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादि⟫)
-    *   2.4. Vierte Präsensklasse (⟪दिवादि⟫)
-    *   2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
-    *   2.6. Passiv
-*   3\. Übung
-
-## [Lektion 48](lektion48)
+## [Bài 40](lektion40)
 
 *   1\. ⟪सुभाषितानि⟫
-*   2\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
-    *   2.1. Endungen des Imperativ an athematischen Präsensstämmen
-    *   2.2. Form des Präsensstamms
-    *   2.3. Zweite Präsensklasse (⟪अदादि⟫)
-    *   2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
-*   3\. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
-*   4\. Wortliste
-*   5\. Übung
-*   6\. Übersetzungsübung
+*   2\. Hình thành các dạng động từ ngôi thứ nhất của thì hoàn thành (⟪लिट्⟫)
+*   2.1. Hoàn thành Loại I: không biến đổi gốc
+*   2.2. Hoàn thành Loại II: gốc mạnh ở mức cao, gốc yếu ở mức thấp
+*   2.3. Hoàn thành Loại III: Gốc mạnh ở mức cao/mức kéo dài
+*   2.3.1. Hoàn thành Loại IIIa: Gốc mạnh ở mức cao/mức kéo dài, gốc yếu ở mức thấp
+*   2.3.2. Hoàn thành Loại IIIb: Gốc mạnh ở mức cao/mức kéo dài, gốc mạnh ở mức cao
+*   2.4. Hoàn thành Loại IV: Gốc kết thúc bằng -ā / -ai
+*   2.5. Hoàn thành Loại V: Phụ âm-a-Phụ âm
+*   2.5.1. Hoàn thành Loại Va: Phụ âm-a-Phụ âm, gốc yếu ở mức thấp
+*   2.5.2. Hoàn thành Loại Vb: Phụ âm-a-Phụ âm, phụ âm đầu không phải là guttural, aspirate, h; Gốc yếu không có lặp lại âm đầu, với -e-
+*   2.5.3. Hoàn thành Loại Vc: Phụ âm-a-Phụ âm, gốc mạnh ở mức cao
+*   2.6. Các hình thành hoàn thành đặc biệt
+*   3\. Hình thành các dạng động từ ngôi thứ nhất của thì hoàn thành vòng (⟪अनुप्रयोगलिट्⟫)
+*   4\. Ngữ pháp về ngôi thứ nhất (⟪तृतीयः⟫)
+*   5\. Đại từ nhân xưng (⟪पुरुषार्थकसर्वनाम⟫) số ít và số nhiều ngôi thứ nhất
+*   6\. Danh sách từ vựng
+*   7\. Bài tập
+*   8\. Bài tập lặp lại về hình thái học
 
-## [Lektion 49](lektion49)
+## [Bài 41](lektion41)
 
-*   1\. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)
-    *   1.1. Siebte Präsensklasse  (⟪रुधादि⟫)
-    *   1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
-    *   1.3. Achte Präsensklasse (⟪तनादि⟫)
-    *   1.4. Neunte Präsensklasse (⟪क्र्यादि⟫)
-*   2\. Deklination der Nominalstämme auf -as, -is, -us
-*   3\. Nominalbildung: ⟪कृत्⟫-Suffix -as Neutrum
-*   4\. Wortliste
-*   5\. Wiederholungsübung zur Formenlehre
-*   6\. Übersetzungsübung
+*   1\. ⟪सुभाषिते⟫ (hai tục ngữ)
+*   2\. Các hình thành ⟪कृत्⟫ khác trên -a
+*   2.1. Phân từ hiện tại (⟪लडादेशः⟫) Ā, Phân từ hiện tại (⟪लडादेशः⟫) Bị động, Phân từ tương lai (⟪ऌडादेशः⟫) Ā
+*   2.1.1. Gốc hiện tại theo chủ đề, Bị động và Tương lai
+*   2.1.2. Các lớp hiện tại không theo chủ đề
+*   2.2. "Phân từ" của sự cần thiết bị động (Gerundivum) (⟪कृत्य⟫)
+*   2.2.1. Hậu tố -⟪तव्य⟫ / -⟪तव्या⟫
+*   2.2.2. Hậu tố -⟪अनीय⟫ / -⟪अनीया⟫
+*   2.2.3. Hậu tố -⟪य⟫ / -⟪या⟫
+*   2.2.4. Hậu tố -⟪त्य⟫ / ⟪त्या⟫ (thay vì -⟪य⟫ / -⟪या⟫)
+*   2.3. Các vấn đề cú pháp liên quan đến "Phân từ" của sự cần thiết bị động (Gerundivum) (⟪कृत्य⟫)
+*   2.4. Sự khác biệt trong cách sử dụng các hậu tố Gerundiv
+*   2.5. Không liên quan với ⟪सु⟫- và ⟪दुस्⟫-
+*   3\. Danh sách từ vựng
+*   4\. Bài tập
 
-## [Lektion 50](lektion50)
+## [Bài 42](lektion42)
 
-*   1\. Nominalbildung: regelmässige Steigerung
-*   2\. Wortliste
-*   3\. Übersetzungsübung
+*   1\. Các gốc trên -ṛ
+*   1.1. Gốc có bậc dài ở gốc mạnh
+*   1.2. Hình thành danh từ: Hậu tố ⟪कृत्⟫ -⟪तृ⟫
+*   1.3. Gốc có bậc cao ở gốc mạnh
+*   1.4. Các gốc trên -ṛ trong từ ghép
+*   2\. Danh sách từ vựng
+*   2.1. Một số danh xưng thân thuộc
+*   3\. Bài tập
+*   4\. Bài dịch thuật
 
-## [Lektion 51](lektion51)
+## [Bài 43](lektion43)
 
-*   1\. ⟪उपपद⟫-Komposita
-*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten
-    *   2.1. Stämme auf nichtpalatalen Verschlusslaut
-    *   2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
-    *   2.3. Stämme auf -h
-*   3\. Sandhi von anlautendem h-
-*   4\. Sandhi von anlautendem ch-
-*   5\. -ch- im Wortinnern
-*   6\. Wortliste
-*   7\. Übersetzungsübung
+*   1\. Các hậu tố ngôi của người thứ hai (⟪मध्यमः⟫ = "ngôi giữa")
+*   2\. Hình thành các dạng động từ của người thứ hai (⟪मध्यमः⟫)
+*   2.1. Gốc theo chủ đề
+*   2.1.1. Lớp hiện tại thứ nhất (⟪भ्वादि⟫)
+*   2.1.2. Lớp hiện tại thứ sáu (⟪तुदादि⟫)
+*   2.1.3. Lớp hiện tại thứ tư (⟪दिवादि⟫)
+*   2.1.4. Lớp hiện tại thứ mười (⟪चुरादि⟫) và Dạng sai khiến
+*   2.1.5. Bị động
+*   2.1.6. Tương lai (⟪ऌट्⟫)
+*   2.1.6.1. Các hình thành ⟪अनिट्⟫
+*   2.1.6.2. Các hình thành ⟪सेट्⟫
+*   3\. Đại từ nhân xưng ngôi thứ hai
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. ⟪संवादः⟫ = Hội thoại
 
-## [Lektion 52](lektion52)
+## [Bài 44](lektion44)
 
-*   1\. Neutrum der Stämme auf -i und -u
-*   2\. Nominalbildung
-    *   2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-    *   2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-    *   2.3. ⟪तद्धित⟫-Suffix -eya
-*   3\. Adverbialbildung: Adverbialsuffix -śas
-*   4\. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
-    *   4.1. cvi-Bildungen
-    *   4.2. Suffix -sāt
-*   5\. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-*   6\. Das Zahlwort (⟪सम्ख्या⟫ f.)
-    *   6.1. Kardinalzahlen
-        *   6.1.1. Zahladjektive (für 1 bis 19)
-        *   6.1.2. Zahlsubstantive (für 19ff.)
-        *   6.1.3. Syntaktisches zu den Kardinalzahlen
-    *   6.2. Ordinalzahlen
-    *   6.3. Zahladverbien
-    *   6.4. Zahladjektive
-    *   6.5. Komposita mit Kardinalzahlen im Vorderglied
-*   7\. Wortliste
-*   8\. Übersetzungsübung
-*   9\. Aufgaben während der Semesterferien
+*   1.  Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) của các gốc không có âm đệm với hậu tố kết thúc bằng nguyên âm
+*   1.1. Lớp hiện tại thứ năm (⟪स्वादि⟫)
+*   1.2. Lớp hiện tại thứ tám (⟪तनादि⟫)
+*   1.3. Lớp hiện tại thứ chín (⟪क्र्यादि⟫)
+*   2\. Về Sandhi từ vựng
+*   2.1. Về Sandhi từ vựng cho dh-
+*   2.2. Về Sandhi từ vựng cho s-
+*   3.  Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) của các gốc không có âm đệm với hậu tố không kết thúc bằng nguyên âm
+*   3.1. Lớp hiện tại thứ hai (⟪अदादि⟫)
+*   4\. Cách gọi (Vokativ) (⟪आमन्त्रितम्⟫)
+*   5\. Danh sách từ vựng
+*   6\. Bài tập
+*   7\. Bài tập lặp lại về hình thái học
 
-## [Lektion 53](lektion53)  (Semesterferien)
+## [Bài 45](lektion45)
 
-*   1\. Der Dual (⟪द्विवचन⟫ n.) der Nomina
-*   2\. Dualendungen des Nomen
-*   3\. Der Dual konsonantisch auslautender Stämme
-    *   3.1. Stämme ohne Stammabstufung
-    *   3.2. Stämme mit Stammabstufung
-*   4\. Der Dual vokalisch auslautender Stämme
-*   5\. Dualdvandva
-*   6\. Der Dual von Pronomina
-*   7\. Pronominaladjektive
-*   8\. Unregelmässige Steigerung
-*   9\. Deklination der Komparative auf -īyas
-*   10\. Metrik (Lehre von den Versmassen)
-    *   10.1. Bedeutung der Bestimmung des Metrums
-    *   10.2. Arten von Metren
-    *   10.3. Die metrische Quantität von Silben
-    *   10.4. Der epische Śloka (⟪श्लोक⟫ m.)
-*   11\. Übung
+*   1\. Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) của các gốc không có âm đệm với hậu tố không kết thúc bằng nguyên âm (Tiếp theo)
+*   1.1. Lớp hiện tại thứ ba (⟪जुहोत्यादि⟫)
+*   1.2. Lớp hiện tại thứ bảy (⟪रुधादि⟫)
+*   2\. Cách gọi số ít (⟪आमन्त्रितमेकवचने⟫)
+*   3\. Danh sách từ vựng
+*   4\. Bài tập
 
-## [Lektion 54](lektion54)
+## [Bài 46](lektion46)
 
-*   1\. Vorbemerkung
-*   2\. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
-*   3\. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
-*   4\. Übung zur Metrik
-*   5\. Bildungstypen des Aorist (⟪लुङ्⟫)
-*   6\. Wurzelaorist
-    *   6.1. Der Aorist der 3.sg.Passiv
-*   7\. Übung
+*   1\. Hình thành các dạng động từ ngôi thứ hai (⟪मध्यमः⟫) thì hoàn thành (⟪लिट्⟫)
+*   1.1. Các hậu tố
+*   1.2. Biến đổi âm của hậu tố -dhve
+*   1.3. Hoàn thành Loại I: không có biến đổi gốc
+*   1.4. Hoàn thành Loại II: Gốc mạnh ở mức cao, gốc yếu ở mức thấp
+*   1.5. Hoàn thành Loại III: Gốc mạnh ở mức cao/mức kéo dài
+*   1.5.1. Hoàn thành Loại IIIa: Gốc mạnh ở mức cao/mức kéo dài, gốc yếu ở mức thấp
+*   1.5.2. Hoàn thành Loại IIIb: Gốc mạnh ở mức cao/mức kéo dài, gốc mạnh ở mức cao
+*   1.6. Hoàn thành Loại IV: Các gốc kết thúc bằng -ā / -ai
+*   1.7. Hoàn thành Loại V: Phụ âm-a-Phụ âm
+*   1.7.1. Hoàn thành Loại Va: Phụ âm-a-Phụ âm, gốc yếu ở mức thấp
+*   1.7.2. Hoàn thành Loại Vb: Phụ âm-a-Phụ âm, phụ âm đầu không phải là Guttural, Aspirate, h; Gốc yếu không có lặp lại âm đầu, với -e-
+*   1.7.3. Hoàn thành Loại Vc: Phụ âm-a-Phụ âm, gốc mạnh ở mức cao
+*   1.8. Các hình thành hoàn thành đặc biệt
+*   1.9. Hoàn thành vòng quanh (⟪अनुप्रयोगलिट्⟫)
+*   2\. Danh sách từ vựng
+*   3\. Bài tập
 
-## [Lektion 55](lektion55)
+## [Bài 47](lektion47)
 
-*   1\. Der a-Aorist (Aorist mit Themavokal)
-*   2\. Übung
+*   1\. Mệnh lệnh thức (⟪लोट्⟫)
+*   2\. Cách thành lập mệnh lệnh thức (⟪लोट्⟫) của các gốc hiện tại theo chủ đề
+*   2.1. Hậu tố của mệnh lệnh thức gắn vào các gốc hiện tại theo chủ đề
+*   2.2. Lớp hiện tại thứ nhất (⟪भ्वादि⟫)
+*   2.3. Lớp hiện tại thứ sáu (⟪तुदादि⟫)
+*   2.4. Lớp hiện tại thứ tư (⟪दिवादि⟫)
+*   2.5. Lớp hiện tại thứ mười (⟪चुरादि⟫) và nguyên nhân
+*   2.6. Bị động
+*   3\. Bài tập
 
-## [Lektion 56](lektion56)
+## [Bài 48](lektion48)
 
-*   1\. Der reduplizierte Aorist
-    *   1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
-*   2\. Der Injunktiv
-*   3\. Der Verbotssatz
+*   1\. ⟪सुभाषितानि⟫
+*   2\. Cách thành lập mệnh lệnh thức (⟪लोट्⟫) của các gốc hiện tại không theo chủ đề
+*   2.1. Hậu tố của mệnh lệnh thức gắn vào các gốc hiện tại không theo chủ đề
+*   2.2. Hình thức của gốc hiện tại
+*   2.3. Lớp hiện tại thứ hai (⟪अदादि⟫)
+*   2.4. Lớp hiện tại thứ ba (⟪जुहोत्यादि⟫)
+*   3\. Về việc hình thành danh từ: các hậu tố ⟪तद्धित⟫ -a và -ya
+*   4\. Danh sách từ vựng
+*   5\. Bài tập
+*   6\. Bài dịch
+
+## [Bài 49](lektion49)
+
+*   1\. Cách thành lập mệnh lệnh thức (⟪लोट्⟫) của các gốc hiện tại không theo chủ đề (tiếp tục)
+*   1.1. Lớp hiện tại thứ bảy (⟪रुधादि⟫)
+*   1.2. Lớp hiện tại thứ năm (⟪स्वादि⟫)
+*   1.3. Lớp hiện tại thứ tám (⟪तनादि⟫)
+*   1.4. Lớp hiện tại thứ chín (⟪क्र्यादि⟫)
+*   2\. Sự biến cách của các gốc danh từ kết thúc bằng -as, -is, -us
+*   3\. Hình thành danh từ: hậu tố ⟪कृत्⟫ -as Trung tính
+*   4\. Danh sách từ vựng
+*   5\. Bài tập ôn lại về hình thái học
+*   6\. Bài dịch
+
+## [Bài 50](lektion50)
+
+*   1\. Hình thành danh từ: sự tăng cường đều đặn
+*   2\. Danh sách từ vựng
+*   3\. Bài dịch
+
+## [Bài 51](lektion51)
+
+*   1\. Các hợp danh ⟪उपपद⟫
+*   2\. Sự biến cách của các gốc kết thúc bằng một phụ âm đơn (ngoại trừ mũi, bán nguyên âm, -s)
+*   2.1. Các gốc kết thúc bằng âm tắc không mềm
+*   2.2. Các gốc kết thúc bằng âm tắc mềm (c, ch, j), ś, ṣ
+*   2.3. Các gốc kết thúc bằng -h
+*   3\. Sandhi của h- đứng đầu từ
+*   4\. Sandhi của ch- đứng đầu từ
+*   5\. -ch- ở giữa từ
+*   6\. Danh sách từ vựng
+*   7\. Bài dịch
+
+## [Bài 52](lektion52)
+
+*   1\. Trung tính của các gốc từ tận cùng bằng -i và -u
+*   2\. Hình thành danh từ (Nominalbildung)
+*   2.1. PPP + -vant: Phân từ quá khứ của Parasmaipada
+*   2.2. ⟪तद्धित⟫-suffix -maya / -mayī
+*   2.3. ⟪तद्धित⟫-suffix -eya
+*   3\. Hình thành trạng từ: Trạng thái từ -śas
+*   4\. Hợp danh động từ (Verbalkomposita) diễn đạt việc trở thành hoặc được làm thành cái mà trước đó nó không phải là (⟪अभुततद्भावः⟫)
+*   4.1. Hình thành cvi-
+*   4.2. Suffix -sāt
+*   5\. Sự lặp lại từ (⟪द्विरुक्तम्⟫)
+*   6\. Số từ (⟪सम्ख्या⟫ f.)
+*   6.1. Số đếm (Kardinalzahlen)
+*   6.1.1. Tính từ số (cho 1 đến 19)
+*   6.1.2. Danh từ số (cho 19 trở lên)
+*   6.1.3. Ngữ pháp liên quan đến số đếm
+*   6.2. Số thứ tự
+*   6.3. Trạng từ số
+*   6.4. Tính từ số
+*   6.5. Hợp danh với số đếm ở thành phần trước
+*   7\. Danh sách từ vựng
+*   8\. Bài tập dịch thuật
+*   9\. Nhiệm vụ trong kỳ nghỉ học kỳ
+
+## [Bài 53](lektion53)  (Kỳ nghỉ học kỳ)
+
+*   1\. Số đôi (⟪द्विवचन⟫ n.) của danh từ
+*   2\. Hậu tố số đôi cho danh từ
+*   3\. Số đôi của các gốc từ tận cùng bằng phụ âm
+*   3.1. Gốc từ không có biến đổi gốc
+*   3.2. Gốc từ có biến đổi gốc
+*   4\. Số đôi của các gốc từ tận cùng bằng nguyên âm
+*   5\. Hợp danh số đôi (Dualdvandva)
+*   6\. Số đôi của đại từ
+*   7\. Tính từ đại danh (Pronominaladjektive)
+*   8\. So sánh không đều (Unregelmässige Steigerung)
+*   9\. Biến cách của tính từ so sánh hơn tận cùng bằng -īyas
+*   10\. Luật vần (Metrik) (Học về các thể thơ)
+*   10.1. Ý nghĩa của việc xác định luật vần
+*   10.2. Các loại thể thơ (Metren)
+*   10.3. Độ dài ngắn của âm tiết trong luật vần
+*   10.4\. Thể thơ Śloka sử thi (⟪श्लोक⟫ m.)
+*   11\. Bài tập
+
+## [Bài 54](lektion54)
+
+*   1\. Lời nói đầu
+*   2\. Cấu tạo từ: Hậu tố -u ⟪कृत्⟫ cho gốc cầu thị
+*   3\. Luật vần II: ⟪त्रिष्टुभ्⟫ sử thi và ⟪जगती⟫
+*   4\. Bài tập về luật vần
+*   5\. Các kiểu tạo thì Aorist (⟪लुङ्⟫)
+*   6\. Aorist gốc
+*   6.1. Thì Aorist ngôi thứ ba số ít bị động
+*   7\. Bài tập
+
+## [Bài 55](lektion55)
+
+*   1\. Thì Aorist nguyên mẫu a (Aorist có nguyên âm chủ đề)
+*   2\. Bài tập
+
+## [Bài 56](lektion56)
+
+*   1\. Thì Aorist lặp lại phụ âm đầu
+*   1.1. Cấu tạo thì Aorist của động từ nguyên nhân và các gốc thuộc lớp thứ mười của thời hiện tại
+*   2\. Thì Báo lệnh (Injunktiv)
+*   3\. Câu cấm đoán
 *   4\. ⟪स्म⟫
-*   5\. Übung
+*   5\. Bài tập
 
-## [Lektion 57](lektion57)
+## [Bài 57](lektion57)
 
-*   1\. Aorist 4: s-Aorist
-*   2\. Übung
+*   1\. Thì Aorist 4: Aorist s
+*   2\. Bài tập
 
-## [Lektion 58](lektion58)
+## [Bài 58](lektion58)
 
-*   1\. Die Primärendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-*   3\. Der Dual des einfachen Futurs (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫
-    *   3.2. ⟪सेट्⟫
-*   4\. Der Dual Passiv (Suffix -⟪यक्⟫)
-*   5\. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
-    *   5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   5.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   5.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   6\. Aorist 5: iṣ-Aorist
-*   7\. Übung
+*   1\. Các hậu tố chính của số đôi (⟪द्विवचनम्⟫)
+*   2\. Số đôi của các lớp thời hiện tại có chủ đề: Hiện tại chỉ định (⟪लट्⟫)
+*   2.1. Lớp thời hiện tại thứ nhất (⟪भ्वादिगणः⟫)
+*   2.2. Lớp thời hiện tại thứ tư (⟪दिवादिगणः⟫)
+*   2.3. Lớp thời hiện tại thứ sáu (⟪तुदादिगणः⟫)
+*   2.4. Lớp thời hiện tại thứ mười (⟪चुरादिगणः⟫) và động từ nguyên nhân (⟪णिजन्त⟫)
+*   3\. Số đôi của thì Tương lai đơn giản (⟪ऌत्⟫)
+*   3.1. ⟪अनिट्⟫
+*   3.2. ⟪सेट्⟫
+*   4\. Số đôi bị động (Hậu tố -⟪यक्⟫)
+*   5\. Số đôi của các lớp thời hiện tại không có chủ đề: Hiện tại chỉ định (⟪लट्⟫)
+*   5.1. Lớp thời hiện tại thứ hai (⟪अदादिगणः⟫)
+*   5.2. Lớp thời hiện tại thứ ba (⟪जुहोत्यादिगणः⟫)
+*   5.3. Lớp thời hiện tại thứ năm (⟪स्वादिगणः⟫)
+*   5.4. Lớp thời hiện tại thứ tám (⟪तनादिगणः⟫)
+*   5.5. Lớp thời hiện tại thứ bảy (⟪रुधादिगणः⟫)
+*   5.6. Lớp thời hiện tại thứ chín (⟪क्र्यादिगणः⟫)
+*   6\. Thì Aorist 5: Aorist iṣ
+*   7\. Bài tập
 
-## [Lektion 59](lektion59)
+## [Bài 59](lektion59)
 
-*   1\. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
-    *   2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
-    *   2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
-    *   2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
-    *   2.5. Der Passiv (Suffix -⟪यक्⟫)
-*   3\. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
-    *   3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
-    *   3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
-    *   3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
-    *   3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
-    *   3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
-    *   3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
-*   4\. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   4.1. Wurzelaorist
-    *   4.2. a-Aorist
-    *   4.3. Reduplizierter Aorist
-    *   4.4. s-Aorist
-    *   4.5. iṣ-Aorist
-*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
-*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
-*   7\. Übung
+*   1\. Các đuôi phụ và đuôi mệnh lệnh của song số (⟪द्विवचनम्⟫)
+*   2\. Song số của các lớp hiện tại có âm tiết: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   2.1. Lớp hiện tại thứ nhất (⟪भ्वादिगणः⟫)
+*   2.2. Lớp hiện tại thứ tư (⟪दिवादिगणः⟫)
+*   2.3. Lớp hiện tại thứ sáu (⟪तुदादिगणः⟫)
+*   2.4. Lớp hiện tại thứ mười (⟪चुरादिगणः⟫) và nguyên nhân (⟪णिजन्त⟫)
+*   2.5. Bị động (đuôi -⟪यक्⟫)
+*   3\. Song số của các lớp hiện tại không có âm tiết: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+*   3.1. Lớp hiện tại thứ hai (⟪अदादिगणः⟫)
+*   3.2. Lớp hiện tại thứ ba (⟪जुहोत्यादिगणः⟫)
+*   3.3. Lớp hiện tại thứ năm (⟪स्वादिगणः⟫)
+*   3.4. Lớp hiện tại thứ tám (⟪तनादिगणः⟫)
+*   3.5. Lớp hiện tại thứ bảy (⟪रुधादिगणः⟫)
+*   3.6. Lớp hiện tại thứ chín (⟪क्र्यादिगणः⟫)
+*   4\. Song số (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+*   4.1. Aorist gốc
+*   4.2. a-Aorist
+*   4.3. Aorist lặp lại
+*   4.4. s-Aorist
+*   4.5. iṣ-Aorist
+*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (chỉ P)
+*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (s-Aorist có âm tiết)
+*   7\. Bài tập
 
-## [Lektion 60](lektion60)
+## [Bài 60](lektion60)
 
-*   1\. Die Perfektendungen des Dual (⟪द्विवचनम्⟫)
-*   2\. Der Dual des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-    *   2.1. Typ 1: keine Stammabstufung
-    *   2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
-    *   2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
-        *   2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
-        *   2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
-    *   2.4. Typ 4: Wurzeln auf -ā / -ai
-    *   2.5. Typ 5: Konsonant-a-Konsonant
-        *   2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
-        *   2.5.2. Typ 5b: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e-
-        *   2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
-*   3\. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
-*   4\. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
-*   5\. Deklination der Stämme auf -añc (-ac)
-    *   5.1. Dreistämmige Stämme auf -añc
-    *   5.2. Zweistämmige Stämme auf -añc
-*   6\. Das Desiderativum (⟪सन्⟫)
-    *   6.1. Bildung des Desiderativstammes
-    *   6.2. Konjugation des Desiderativs (⟪सन्⟫)
-*   7\. Übung
+*   1\. Các đuôi hoàn thành của song số (⟪द्विवचनम्⟫)
+*   2\. Song số của hoàn thành lặp lại (⟪द्वित्वलिट्⟫)
+*   2.1. Loại 1: không biến đổi gốc
+*   2.2. Loại 2: gốc mạnh ở mức cao, gốc yếu ở mức thấp
+*   2.3. Loại 3: Gốc mạnh ở mức cao/mở rộng
+*   2.3.1. Loại 3a: Gốc mạnh ở mức cao/mở rộng, gốc yếu ở mức thấp
+*   2.3.2. Loại 3b: Gốc mạnh ở mức cao/mở rộng, gốc mạnh ở mức cao
+*   2.4. Loại 4: Gốc kết thúc bằng -ā / -ai
+*   2.5. Loại 5: Phụ âm-a-Phụ âm
+*   2.5.1. Loại 5a: Phụ âm-a-Phụ âm, gốc yếu ở mức thấp
+*   2.5.2. Loại 5b: Phụ âm-a-Phụ âm, phụ âm đầu không phải là guttural, aspirate, h, Gốc yếu không lặp lại, với -e-
+*   2.5.3. Loại 5c: Phụ âm-a-Phụ âm, gốc mạnh ở mức cao
+*   3\. Song số của hoàn thành vòng quanh (⟪अनुप्रयोगलिट्⟫)
+*   4\. Phân từ ⟪परस्मैपद⟫ của hoàn thành lặp lại (⟪द्वित्वलिट्⟫)
+*   5\. Biến cách của các gốc kết thúc bằng -añc (-ac)
+*   5.1. Các gốc ba âm tiết kết thúc bằng -añc
+*   5.2. Các gốc hai âm tiết kết thúc bằng -añc
+*   6\. Dạng mong muốn (⟪सन्⟫)
+*   6.1. Hình thành gốc mong muốn
+*   6.2. Chia động từ dạng mong muốn (⟪सन्⟫)
+*   7\. Bài tập
 
-## [Lektion 61](lektion61)
+## [Bài 61](lektion61)
 
-*   1\. Deklination der Wurzelnomina auf -ā, -ī, -ū
-    *   1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
-    *   1.2. Feminine Wurzelnomina auf -ī
-    *   1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
-    *   1.4. Einsilbige, feminine Wurzelnomina auf -ū
-    *   1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
-    *   1.6. Deklination mehrsilbiger Feminina auf -ū
-*   2\. Das periphrastische Futur (⟪लुट्⟫)
-*   3\. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
-    *   3.1. Ātmanepada-Intensivum
-    *   3.2. Parasmaipada-Intensivum
-*   4\. Denominativa (⟪नामधातु⟫)
-    *   4.1. Bildung ohne besonderes Suffix, Parasmaipada
-    *   4.2. Bildung mit Suffix -ya, Parasmaipada
-    *   4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
-    *   4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
-    *   4.5. Bildung mit dem Suffix -ya, Ātmanepada
-    *   4.6. Bildung mit dem Suffix -aya, -āpaya
-*   5\. Der Benediktiv (⟪आशीर्लिङ्⟫)
-*   6\. Der Konditionalis (⟪ऌङ्⟫)
-*   7\. Deklination der Nomina auf -ai, -o, -au
-*   8\. Restliche Pronomina
-    *   8.1. Personalpronomen des Dual
-    *   8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
-*   9\. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   1\. Sự biến cách của các danh từ gốc kết thúc bằng -ā, -ī, -ū
+*   1.1. Danh từ gốc kết thúc bằng -ā ở cuối ⟪तत्पुरुष⟫
+*   1.2. Danh từ gốc giống cái kết thúc bằng -ī
+*   1.3. Danh từ gốc giống cái kết thúc bằng -ī ở cuối ⟪तत्पुरुष⟫
+*   1.4. Danh từ gốc đơn âm tiết, giống cái kết thúc bằng -ū
+*   1.5. Danh từ gốc kết thúc bằng -ū ở cuối ⟪तत्पुरुष⟫
+*   1.6. Sự biến cách của các danh từ giống cái đa âm tiết kết thúc bằng -ū
+*   2\. Thì tương lai phân tích (⟪लुट्⟫)
+*   3\. Thì nhấn mạnh (Frequentativum) (⟪चर्करीतम्⟫)
+*   3.1. Thì nhấn mạnh dạng Atmanepada
+*   3.2. Thì nhấn mạnh dạng Parasmaipada
+*   4\. Danh từ phái sinh (⟪नामधातु⟫)
+*   4.1. Hình thành không có hậu tố đặc biệt, Parasmaipada
+*   4.2. Hình thành với hậu tố -ya, Parasmaipada
+*   4.3. Hình thành với hậu tố -kāmya, Parasmaipada
+*   4.4. Hình thành với hậu tố -sya hoặc -asya, Parasmaipada
+*   4.5. Hình thành với hậu tố -ya, Atmanepada
+*   4.6. Hình thành với hậu tố -aya, -āpaya
+*   5\. Thì chúc phúc (⟪आशीर्लिङ्⟫)
+*   6\. Thì điều kiện (⟪ऌङ्⟫)
+*   7\. Sự biến cách của các danh từ kết thúc bằng -ai, -o, -au
+*   8\. Các đại từ còn lại
+*   8.1. Đại từ nhân xưng số đôi
+*   8.2. Đại từ chỉ định ⟪अदस्⟫ "đó (xa)"
+*   9\. Ra mắt đại dương văn học Sanskrit: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-ENDE DES SANSKRITKURSES
+KẾT THÚC KHÓA HỌC SANSKRIT
 

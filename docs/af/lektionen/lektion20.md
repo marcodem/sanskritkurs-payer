@@ -1,362 +1,358 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: "Lesing 20"
+subtitle: "Possessive komposisies = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 20
+---# Les 20
 
-## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
+## 20.1. Besittende samestellings = ⟪बहुव्रीहि⟫ m.
 
 ::: media
 ![](/images/lekt2004.webp)
-Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
+Fig.: ⟪बहुव्रीहिः पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt2004))
+(Beeldbron: [Details](/af/licenses#lekt2004))
 :::
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt"
+⟪बहुव्रीहिः⟫ = ⟪बहवो व्रीहयो यस्य सः⟫ = "iemand wat baie rys besit"
 
 ::: grammar-box
 
-**Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während ⟪बालपुत्रः⟫ als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (⟪पुत्र⟫) ausgedrückt wird, bedeutet ⟪बालपुत्रः⟫ als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (⟪पुत्र⟫) noch unbedingt jung (⟪बाल⟫), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.**
+**Anders as die Tatpuruṣa, dui 'n Bahuvrīhi iets anders aan as wat deur sy bestanddele uitgedruk word: terwyl ⟪बालपुत्रः⟫ , wanneer dit as 'n Tatpuruṣa ontleed word, beteken dit 'n jong seun' – dit wil sê iets wat deur die finale element van die samestelling uitgedruk word (⟪पुत्र⟫, ⟪बालपुत्रः⟫, wanneer dit as 'n Bahuvrīhi opgelos word, beteken dit 'iemand wie se seun jonk is', d.w.s. die verwysingsobjek is nie die seun (⟪पुत्र⟫) of noodwendig jonk (⟪बाल⟫) nie, maar 'n persoon wat van die jong seun onderskei word, naamlik sy vader.**
 
-**Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.**
+**Besittende samestellings is aanvanklik altyd byvoeglikes, alhoewel hulle as selfstandige naamwoorde gebruik kan word. Daarom hang die grammatikale geslag van 'n bahuvrīhi af van waarna die bahuvrīhi verwys, en nie van die geslag van die finale bestanddeel nie.**
 
 :::
 ::: grammar-box
 
-**Schema für die Auflösung eines Bahuvrīhi:**
+**Skema vir die ontleding van 'n bahuvrīhi:**
 
-**1. Glied meist im Nominativ (⟪प्रथमा⟫) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - ⟪षष्ठी⟫) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.**
+**1ste element gewoonlik in die nominatief (⟪प्रथमा⟫) enkelvoud, dualis of meervoud -- 2de element in die nominatief enkelvoud, dualis of meervoud -- relatiwum in 'n val anders as die nominatief (gewoonlik die genitief – ⟪षष्ठी⟫) en in die geslag en getal van die geheel bahuvrīhi -- Demonstratiewe voornaamwoord in die getal, geval en geslag van die geheel bahuvrīhi.**
 
 :::
-Beispiele:
+Voorbeelde:
+
 
 ::: indent
-⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist"
+⟪गतपापः⟫ = ⟪गतं पापं यस्य सः⟫ = "iemand wie se kwaadheid vergaan het" = "iemand wat vry is van misdade"
+Akk. sg. ⟪गतपापम्⟫ = ⟪गतं पापं यस्य तम्⟫
 
-Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
+Instr. sg. ⟪गतपापेन⟫ = ⟪गतं पापं यस्य तेन⟫
 
-Inst. sg. ⟪गतपापेन⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫
+Genitief enkelvoud ⟪गतपापस्य⟫ = ⟪गतं पापं यस्य तस्य⟫
 
-Gen. sg. ⟪गतपापस्य⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तस्य⟫
+Nominatief meervoud ⟪गतपापाः⟫ = ⟪गतानि पापानि⟫ ye⟪षां ते⟫
 
-Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि⟫ ye⟪षां⟫ ⟪ते⟫
+ens.
 
-usw.
+⟪अस्तमोहा⟫ = ⟪अस्तो मोहो यया सा⟫ = "'n (vrou) wat die illusie afgestreep het"
 
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "eine (Frau), die die Verblendung abgeworfen hat"
+⟪प्राप्तोदको ग्रामः⟫ = ⟪प्राप्तमुदकं यं⟫ s ⟪ग्रामः⟫ = "'n dorpie wat deur die water bereik word" = "'n dorpie wat deur oorstroming bedreig word"
 
-⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf"
-
-⟪पुण्यवत्पुत्रः⟫ als Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, oder: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen"
+⟪पुण्यवत्पुत्रः⟫ as Bahuvrīhi = ⟪पुण्यवान्पुत्रो यस्य सः⟫, of: ⟪पुण्यवन्तः पुत्रा यस्य सः⟫ = "iemand wie se seun verdienste besit" of: "iemand wie se seuns verdienste besit"
 :::
 ::: grammar-box
 
-**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:**
+**Die verhouding tussen die voorste element en die agterste element in 'n Bahuvrīhi kan wees:**
 
-*   **attributiv**
-*   **appositionell**
-*   **kasuell**
-*   **adverbial**
+*   **attributief**
+*   **appositief**
+*   **causaal**
+*   **byvoeglike naamwoordelik**
 
-**Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.**
+**Soos by die Tatpuruṣa, kom die meer spesifiek gedefinieerde element gewoonlik tweede.**
 
 :::
-Traditionell unterscheidet man:
+Tradisioneel word 'n onderskeid gemaak:
 
-*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied im selben Kasus
+*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫, is die voorafgaande en daaropvolgende elemente in dieselfde geval
+    
+*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫, is die voorste en agterste element in verskillende gevalle
+    
 
-*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied in verschiedenen Kasus
-
-## 20.2. Bahuvrīhi mit attributivem Vorderglied
+## 20.2. Bahuvrīhi met 'n attributiewe voorste element
 
 ::: grammar-box
 
-**Schema:**
+**Skema:**
 
 :::
 ::: indent
-**Adjektiv -- Nomen**
+**Byvoeglike naamwoord -- Selfstandige naamwoord**
 :::
-**Beispiel:**
+**Voorbeeld:**
 
 ::: indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen"
+⟪गुणवत्पुत्रो ब्राह्मणः⟫ = ⟪गुणवान्पुत्रो यस्य स ब्राह्मणः⟫ = "'n Brahmin wie se seun / seuns goeie eienskappe besit"
 :::
-**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).**
+**Baie algemeen — alhoewel skaars in Tatpuruṣa — is die attributiewe wysiging deur 'n PPP. By resolusie is die relatiewe voornaamwoord gewoonlik in die instrumentaalgeval (⟪तृतीया⟫) (minder gereeld in die genitief / ⟪षष्ठी⟫).**
+**Vingerreël:**
 
-**Faustregel:**
+*   **PPP – selfstandige naamwoord = gewoonlik Bahuvrīhi**
+*   **selfstandige naamwoord – PPP = gewoonlik Tatpuruṣa**
 
-*   **PPP - Substantiv = meistens Bahuvrīhi**
-*   **Substantiv -- PPP = meistens Tatpuruṣa**
-
-**Beispiel:**
+**Voorbeeld:**
 
 ::: indent
-⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives"
+⟪कृतफल ३⟫ = ⟪कृतं फलं⟫ ye⟪न सः । यया सा ।⟫ ye⟪न तत्⟫ = "iemand wat 'n resultaat behaal het, iemand of iets effektiefs"
 :::
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
+## 20.3. Bahuvrīhi met 'n appositiewe eerste element
 
 ::: grammar-box
 
-**Schema:**
+**Skema:**
 
 :::
 ::: indent
-**Substantiv -- Substantiv**
+**Selfstandige naamwoord -- Selfstandige naamwoord**
 :::
-**Beispiele:**
+**Voorbeelde:**
 
 ::: indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, dessen Söhne Helden sind"
+⟪शूरपुत्रो नरः⟫ = ⟪शूरा एव पुत्रा यस्य स नरः⟫ = "'n man wie se seuns helde is"
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "der / die / das, dessen Ende dieses ist" = "damit endender"
+⟪तदन्त ३⟫ = ⟪सो ऽन्तो यस्य सः । यस्याः सा । यस्य तत्⟫ = "die een wie se einde dit is" = "wat hierin eindig"
 :::
 ::: grammar-box
 
-**Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "erster, Anfang", seltener ⟪प्रभृति⟫ "Anfang". Solche Komposita entsprechen dem "u.s.w.":**
+**Appositisionele Bahuvrīhi met die finale elemente ⟪आदि । आदिक । आद्य⟫ 'eers', of, minder algemeen, ⟪प्रभृति⟫ 'begin', is baie belangrik. Sulke samestellings stem ooreen met 'ens.':**
 
-**Beispiel:**
+**Voorbeeld:**
 
 :::
 ::: indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter"
+⟪देवा इन्द्रादयः⟫ = ⟪इन्द्र आदिर्येषां ते देवाः⟫ = "Die gode, wie se begin Indra is" = "die gode Indra ens." = "Indra en die ander gode"
 :::
-**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:**
+**Om 'slegs' uit te druk, kan mens bahuvrīhis met ⟪मात्रा⟫ f. 'maat, limiet' as die agtervoegsel gebruik:**
 
-**Beispiel:**
+**Voorbeeld:**
 
 ::: indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "das, dessen Maß ein Wort ist" = "nur ein Wort"
+⟪शब्दमात्रम्⟫ = ⟪शब्दो मात्रा यस्य तत्⟫ = "daarvan wie se maat 'n woord is" = "net een woord"
 :::
-**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:**
+**⟪मात्र⟫ wat op 'n PPP volg, moet vertaal word as "so gou as":**
 
-**Beispiel:**
+**Voorbeeld:**
 
 ::: indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist"
+⟪जातमात्रं शत्रुं घ्नन्ति⟫ = ⟪जातं मात्रा यस्य तं शत्रुं घ्नन्ति⟫ = "hulle verslaan 'n vyand wie se maatstaf die totstandkoming is" = "hulle verslaan die vyand sodra hy tot stand gekom het"
 :::
 ::: media
 ![](/images/lekt2005.webp)
-Abb.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus und die übrigen Götter, Ahmedabad
-(Bildquelle: [Details](/licenses#lekt2005))
+Fig.: ⟪देवा यीश्वादयः⟫
+Jesus en die ander gode, Ahmedabad
+(Beeldbron: [Details](/af/licenses#lekt2005))
 :::
 
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. Bahuvrīhi met 'n informele eerste element
 
-d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (⟪प्रथमा⟫) vertritt.
+d.w.s. Bahuvrīhi waarvan die eerste element in 'n ander geval as die nominatief is (⟪प्रथमा⟫).
 
-Beispiel:
+Voorbeeld:
 
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen"
+⟪देवरूपा⟫ = ⟪देवस्यैव रूपं यस्याः सा⟫ = "'n (vrou) wie se gedaante dié van 'n god is" "'n vrou met 'n goddelike voorkoms"
 :::
 ::: grammar-box
 
-**Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:**
+**Uitsondering op die algemene reël rakende die volgorde van samestellende elemente:**
 
-**Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:**
+**Die oorsaaklike element kom tweede wanneer dit na 'n liggaamsdeel verwys (veral die hand):**
 
-**Beispiel:**
+**Voorbeeld:**
 
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt."
+⟪दण्डहस्तः⟫ =  ⟪दण्डो हस्ते⟫ (lokaal, enkelvoud) ⟪यस्य सः⟫ = "iemand wat 'n stok in sy hand het" = "iemand wat 'n stok in sy hand dra."
 :::
 ::: media
 ![](/images/lekt2001.webp)
-Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
-Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
-(Bildquelle: [Details](/licenses#lekt2001))
+Fig.: ⟪इन्द्रो वज्रपाणिः⟫
+Siem Reap (ក្រុងសៀមរាប), Kambodja, 9de eeu n.C.
+(Beeldbron: [Besonderhede](/af/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## 20.5. Bahuvrīhi met 'n byvoegsel-eerste element
 
-Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein anderes Indeklinabile; solche Komposita sind in der Regel ⟪नित्यसमास⟫.
+Die voorste element is 'n byvoegsel, 'n voorsetsel, 'n voorsyfer of 'n ander onverbuigbare woord; sulke samestellings is oor die algemeen ⟪नित्यसमास⟫.
 
-Beispiele:
+Voorbeelde:
 
 ::: indent
-⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann"
+⟪अपुत्रो नरः⟫ = ⟪पुत्रो यस्य नास्ति स नरः⟫ = "'n man wat geen seun het nie" = "'n seunlose man"
 
-⟪दुर्बल⟫ ⟪३⟫ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach"
+⟪दुर्बल ३⟫ = "iemand / iets wie se krag swak is" = "magloos, swak"
 :::
 ::: grammar-box
 
-**⟪सह⟫ "mit" als Vorderglied eines Bahuvrīhi wird oft durch ⟪स⟫ ersetzt.**
-
-**Beispiel:**
+**⟪सह⟫ "met" as die eerste element van 'n Bahuvrīhi word dikwels vervang deur ⟪स⟫.**
+**Voorbeeld:**
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "mit einem Sohn", "von einem Sohn begleitet"
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण सहितः । पुत्रेण सह्⟫ = "met 'n seun", "begelei deur 'n seun"
 :::
 ::: media
 ![](/images/lekt2006.webp)
-Abb.: ⟪सपुत्रा⟫
+Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
-(Bildquelle: [Details](/licenses#lekt2006))
+(Beeldbron: [Details](/af/licenses#lekt2006))
 :::
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
+## 20.6. Fleksie van die finale element van 'n Bahuvrīhi
 
 ::: grammar-box
 
-**Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.**
+**Die finale element van 'n Bahuvrīhi word as 'n veelgeslagskenmerker gevleksiëer, ongeag sy oorspronklike geslag. Daarom, as die laaste element in 'n samestelling 'n ander geslag as sy oorspronklike het, moet dit 'n Bahuvrīhi wees, tensy dit 'n Samāhāradvanva (neutraal enkelvoud) is.**
 
-**Bei der Adjektivierung werden**
+**By die vorming van byvoeglike name,**
 
-*   **-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen**
-*   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī**
-*   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen**
+*   **-ā-stamme in die manlike en onbepaalde geslag word -a-stamme**
+*   **-a-stamme (m., n.) vorm hul vroulike agtervoegsel in -ā of -ī**
+*   **-ī-stamme (v.) moet die agtervoegsel -ka, -kā, -ka (n.) aan die einde van Bahuvrīhis neem; baie ander Bahuvrīhis mag of moet ook hierdie agtervoegsel neem**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. Nog 'n klassifikasie van die tipes Bahuvrīhis
 
-Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen
+Die voorbeelde word hier verskaf vir latere studie; vir sommige is die nodige grammatika en woordeskat nog nie behandel nie
 
-1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2.  Indeklinabile im Vorderglied: ⟪उच्चैःश्रवस्⟫
-3.  Vergleich im Vorderglied: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4.  Impliziter Vergleich: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "kamelmündig" = dessen Mund wie der eines Kamels ist
-5.  Numerale als Hinterglied bei ungefährer Zahl:. ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "ungefähr zehn"
-6.  beide Glieder sind Numeralia: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "ein oder zwei"
-7.  mit sa-/saha- im Vorderglied: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8.  mit sa- (= ⟪समान⟫) im Vorderglied: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9.  ⟪नञ्बहुव्रीहिः⟫ = mit a-/an- im Vorderglied: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10.  mit Präposition u.ä. im Vorderglied: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11.  Richtungsbezeichnungen um Zwischenrichtungen zu bezeichnen: ⟪पुर्वोत्तरा⟫ "nordöstlich"
-12.  PPP als Vorderglied: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13.  und andere
-
+1.  kwalifiserende woord in die antecedent -- gekwalifiseerde woord in die konsekwent: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं चित्तं यस्य सः⟫
+2.  onbuigbare woord in die antecedent: ⟪उच्चैःश्रवस्⟫
+3.  Vergelyking in die antecedent: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र इव धीर्यस्य सः⟫
+4. Implisiete vergelyking: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य मुखमिव मुखं यस्य सः⟫ = 'kameldmondig' = wie se mond soos dié van 'n kameel is
+5.  Getalle as die tweede element in 'n benaderde getal: ⟪उपसशाः⟫ = ⟪दशानां समीपे ये सन्ति ते⟫ = "ongeveer tien"
+6.  Albei lede is getalle: ⟪एकद्वाः⟫ = ⟪एको वा द्वौ वा⟫ = "een of twee"
+7.  met sa-/saha- in die eerste element: ⟪सपुत्रः । सहपुत्रः⟫
+8.  met sa- (= ⟪समान⟫) in die eerste element: ⟪सजनपदः⟫ = ⟪समानो जनपदो यस्य सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = met a-/an- in die eerste element: ⟪अपुत्रः⟫ = ⟪न विद्यते पुत्रो यस्य सः⟫ ; ⟪अनङ्गः⟫ = ⟪न विद्यते अङ्गं यस्य सः⟫
+10.  met 'n voorsetsel of soortgelyk in die eerste element: ⟪प्रवातः⟫ =⟪प्रकृष्टो वातो यस्मिन् सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं धनं यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु बुद्धिर्यस्य सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा बुद्धिर्यस्य सः⟫
+11.  Rigtingterme wat gebruik word om tussentydse rigtings aan te dui: ⟪पुर्वोत्तरा⟫ "noordoos"
+12.  PPP as die eerste element: ⟪कृतकटः⟫ = ⟪कृतः कटो येन सः⟫
+13.  en ander
 ::: media
 ![](/images/lekt2007.webp)
-Abb.: ⟪कृतकटा⟫
+Fig.: ⟪कृतकटा⟫
 Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt2007))
+(Beeldbron: [Besonderhede](/af/licenses#lekt2007))
 :::
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## 20.8. Die verhouding tussen die bahuvrīhi en die relatiewe klousule
 
-Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt:
+Alhoewel elke bahuvrīhi in 'n relatiewe klousule uitgebrei kan word, kan nie elke relatiewe klousule deur 'n bahuvrīhi vervang word nie. Hermann Georg Jacobi (1850–1937), wat die verhouding tussen die twee in groter besonderheid ondersoek het (Compositum und Nebensatz, 1897), skryf:
 
 ::: indent
-"Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze."
+"Wanneer daar uit die Duits of 'n ander moderne taal in Sanskrit vertaal word, mag nie alle ondergeskikte bysinne as composita vertaal word nie, maar slegs dié wat versierend of beskrywend is; dié wat egter 'n konseptueel nodige of belangrike spesifikasie bevat, verskyn ook in die Sanskrit as bysinne."
 :::
 ::: media
 ![](/images/lekt2002.jpg)
-Abb.: Hermann Jacobi
-(Bildquelle: [Details](/licenses#lekt2002))
+Fig.: Hermann Jacobi
+(Beeldbron: [Details](/af/licenses#lekt2002))
 :::
-Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden.
+Dit mag wel waar wees. Die Indiërs beskou egter baie dinge as dekoratief en beskrywend wat ons as "konseptueel noodsaaklik of belangrik" sou beskou.
 
-## 20.9. Wortliste
+## 20.9. Woordelys
 
-⟪वा⟫ : oder
+⟪वा⟫ : of
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
+⟪आश्रम⟫ m., n.: hermitage, lewensstadium, lewensfase (naamlik as ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ en moontlik as ⟪सन्न्यासिन्⟫; sien Basham, Wonder, bl. 159ff.)
 
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+Fig.: ⟪आश्रमः⟫
+Rishikesh = ⟪ऋषिकेश⟫. "Dit is eintlik deel van die ashram in Rishikesh waar die Beatles gebly het. Hierdie spesifieke deel was nie daar toe hulle daar was nie, maar dit lyk wel koel."
+(Beeldbron: [Besonderhede](/af/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ v. ⟪करी । करा⟫ : doen, maak, veroorsaak
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: hand (verwant aan ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ m.: heffing, tribuut, belasting (nie verwant aan ⟪कृ⟫ nie, maar waarskynlik 'n leenwoord uit Tamil – தமிழ்)
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ v.: daad, heilige daad, offerrite, seremonie (verwant aan ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf
+⟪अधि⟫ voorsetsel: omtrent, op, aangaande, met betrekking tot 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 1ste persoon ⟪अधिगच्छति⟫ : te teëkom, by aan te kom, te bereik
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verminder, verswak
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ f.: ⟪दायिका⟫ : gee, verleen
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ m.: 'Beskermer van mense' = Koning
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ n.: toepassing, moeite, aandag daaraan, diens, besinning, eed
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ v.: benoudheid, kwelling, angs
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ v.: 'sy wat onderhou moet word' = vrou
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ v.: meditasie-ontwikkeling (oorsaaklik van ⟪भू⟫)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ v.: aarde, land
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ n.: kenmerk, merk, eienskap
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ m.: 'trembelaar' = digter, sanger, priester, Brahmaan
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.: gebied, domein, voorwerp, voorwerp van die sintuie
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ m.: einde, bevryding
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ adv.: na onder, in, agtertoe
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : om terug te draai, om terug te keer
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sit, neerstryk
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : gaan sit, gesit wees (in 'n figuurlike sin) = rustig, kalm, vrolik word; genadig wees teenoor iemand (genitief ⟪षष्ठी⟫)
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: innerlike samestelling, uiterste aandag, meditasie-'absorpsie'
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: 'selfstudie', herhaling (veral van die Veda's), die studie van die Veda's
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ : betreklik tot die hiernamaals, anderwêrelds
+⟪तनु ३⟫ : slank
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪मध्य ३⟫ : medium; n. middel
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪पृथु ३⟫ (⟪पृथ्वी⟫): wyd, breed, groot
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß
+⟪श्रोणि । श्रोणी⟫ v.: heup
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪रक्त ३⟫ : gekleurde, rooi
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪ओष्ठ⟫ m.: lip
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪असित ३⟫ : donker, swart
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : om te sien
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : buig
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪उद्⟫ Voornaamwoord: op, op, uit, van, uit-
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪नाभि⟫ v.: navel
 
-⟪नाभि⟫ f.: Nabel
+⟪वपुस्⟫ n.: skoonheid, figuur, liggaam (sien hieronder vir die verbuiging)
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪स्त्री⟫ v.: vrou
 
-⟪स्त्री⟫ f.: Frau
+⟪स्तन⟫ m.: bors
 
-⟪स्तन⟫ m.: Brust
+⟪दरैद्र ३⟫ : arm
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : floreer
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ + ⟪सम्⟫ : floreer; PPP: suksesvol, ryk
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪विचित्र ३⟫ : kleurvol, uiteenlopend, pragtig, wonderlik, vreemd
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विधि⟫ m.(!): rangskikking, wet, regulasie; skepping, lot
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : roer
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+## 20.10. Oefening 1
 
-## 20.10. Übung 1
-
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an.
+Herskep die volgende samestellings in Sanskrit in Bahuvrīhi en/of Dvandva en/of Tatpuruṣa op elke wyse wat jy moontlik ag (uitgesonderd: samestellings met 'n adverbiale eerste element). Vertaal hierdie samestellings, in verskeie maniere ontleed, in Duits, en dui die geslag, geval en getal van die samestelling as geheel aan.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -439,130 +435,94 @@ Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatp
 79.  ⟪सफलम्⟫
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
+## 20 November Oefening 2
 
-## 20.11. Übung 2
+A) Vertaal en ontleed die samestellende woorde in Sanskrit:
 
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+⟪इन्द्रशत्र्वनार्या देवेन्द्रेण जीयन्ते ॥१॥ शूरबलक्षत्रिययोधः शूरपुत्रमिच्छति ॥२॥ सुदुर्गममार्गेण स्वर्गं गम्यते । सुगमस्तु नरकमार्गः ॥३॥ मृतपुत्रब्राह्मणी रोदिति ॥४॥ वीतमोहब्राह्मणः सम्पन्नरूपामपि शूद्रां न लुभ्यति ॥५॥ सुनीतिपुत्रः प्राप्तमतिदर्शनसाधुं गच्छति ॥६॥ प्राप्तप्रभावक्षत्रिया दृष्टमात्राञ्छत्रून्घ्नन्ति ॥७॥ जितशत्रुयोधाः शत्रुजितान्मुञ्चन्ति ॥८॥ कृतोपनयनबालः शिवादिदेवपूजां करोति ॥९॥ बुद्धगता दुःखादिसत्यानि शृण्वन्ति ॥१०॥⟫
 
-⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
+B) Vertaal die volgende in Sanskrit met saamgestelde woorde:
 
-⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
+1\. 'n Kṣatriya wat nie 'n staf in sy hand hou nie, beskerm nie die mense nie.
 
-⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
+2\. Kālidāsa en die ander digters is die onderwysers van Sanskrit.
 
-⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
+3. 'n Kṣatriya verdien sy brood deur die gebruik van wapens.
 
-⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
+4. Śūdra-vroue het ook geweldloosheid, waarheidsgetrouheid, reinheid, geen geklaag nie, geen kwaadwilligheid nie en verdraagsaamheid as hul dharma.
 
-⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
+## 20.12. Vertalingsopdrag
 
-⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घ्नन्ति⟫ ⟪॥७॥⟫
-
-⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-
-⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
-
-⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
-
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit:
-
-1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht.
-
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit.
-
-3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen.
-
-4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut.
-
-## 20.12. Übersetzungsübung
-
-⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
+⟪मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणां भावनतश्चित्तप्रसादनम् ॥योगसूत्र १⟫.⟪३३॥⟫
 
 ::: indent
-Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+Verduideliking: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + die agtervoegsel -tas, wat 'n ablatiewe betekenis het. Vertaal as: 'weens …' of soortgelyk.
 :::
-⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
-⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
+⟪तपःस्वाध्यायेश्वरप्रणिधानानि क्रियायोगः ॥योगसूत्र २⟫.⟪१॥ समाधिभावनार्थः क्लेशतनूकरणार्थश्च ॥योगसूत्र २⟫.⟪२॥⟫
 
 ::: indent
-Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung
+Verduideliking: ⟪तपस्⟫ n. (deklinasie volg): emmers, hitte, foltering; asketiese emmers, mortifikasie
 :::
 ::: media
 ![](/images/lekt2010.webp)
-Abb.: ⟪तपस्⟫
-Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2010))
+Fig.: ⟪तपस्⟫
+Die Boeddha as 'n asket voor sy bevrydende verligting, Gandhara, 2de/3de eeu.
+(Beeldbron: [Details](/af/licenses#lekt2010))
 :::
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.)
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः ॥सांख्यसूत्र १⟫.⟪१॥⟫ (Vir die Sāṃkhya-stelsel, sien Basham, Wonder, bl. 324 vv.)
 
 ::: indent
-Erklärung: ⟪त्रिविध⟫ ⟪३⟫ : "dreifach"
+Verduideliking: ⟪त्रिविध ३⟫ : 'drieledig'
 :::
-Definition der Erlösung nach dem Nyāyasystem:
+Definisie van verlossing volgens die Nyāya-stelsel:
 
 ::: indent
-⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
-
-⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
+⟪बाधनालक्षणं दुःखम् ॥न्यायसूत्र १⟫.⟪२१॥ तदत्यन्तविमोक्षो ऽपवर्गः ॥न्यायसूत्र १⟫.⟪२२॥⟫
 :::
-Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ :
+Stelling van die materialiste volgens ⟪सर्वदर्शनसंग्रह⟫:
 
 ::: indent
-⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
-⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
+⟪न स्वर्गो नापवर्गो वा नैवात्मा पारलौकिकः । नैव वर्णाश्रमादी⟫na⟪ं क्रियाश्च फलदायिकाः ॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+Verduideliking: ⟪अत्मा⟫ = nominatief enkelvoud manlik van ⟪आत्मन्⟫ m. "Self, siel; die Absoluut, vir sover dit in 'n individu gerealiseer is"
 :::
-Ein ⟪सुभाषितम्⟫ :
+'n ⟪सुभाषितम्⟫ :
 
 ::: indent
-⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
-⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
-⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
-⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
+⟪देवानां करदा विप्रा विप्राणां करदा नृपाः । नृपाणां करदा लोका लोकानां करदा मही ॥⟫
 
-Erläuterung: -da am Ende eines Kompositums: "gebend"
+Verduideliking: -da aan die einde van 'n samestelling: 'gee'
 :::
 ::: media
 ![](/images/lekt2009.webp)
-Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
+Fig.: ⟪लोकानां करदा मही⟫
 Karnataka
-(Bildquelle: [Details](/licenses#lekt2009))
+(Beeldbron: [Details](/af/licenses#lekt2009))
 :::
-Über Besitzverhältnisse:
+Oor besitverhoudings:
 
 ::: indent
-⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
-⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
-⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
-⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
+⟪भार्या पुत्रश्च दासश्च त्रय एवाधनाः स्मृताः । यत्ते समधिगच्छन्ति यस्य ते तस्य तद्धनम् ॥मनुस्मृति ८⟫.⟪४१६॥⟫
 
-Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
+Verduideliking: ⟪त्रयस्⟫ = nominatief manlike meervoud van ⟪त्रि⟫ 'drie'
 :::
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
+'n ⟪सुभाषितम्⟫ oor vroulike skoonheid:
 
 ::: indent
-⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
-⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
-⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
-⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
-
-Erklärung: alle Formen außer ⟪कं⟫ und ⟪स्त्रीणाम्⟫ sind Nom. sg. neut. und beziehen sich auf ⟪वपुस्⟫.
+⟪तनुमध्यं पृथुश्रोणि रक्तौष्ठमसितेक्षणम् । नतनाभि वपुः स्त्रीणां कं न हन्त्युन्नतस्तनम् ॥⟫
+Verduideliking: alle vorme behalwe ⟪कं⟫ en ⟪स्त्रीणाम्⟫ is nominatief enkelvoud neutraal en verwys na ⟪वपुस्⟫.
 :::
 ::: media
 ![](/images/lekt2003.webp)
-Abb.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
+Fig.: ⟪तनुमध्यं पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
-(Bildquelle: [Details](/licenses#lekt2003))
+(Beeldbron: [Details](/af/licenses#lekt2003))
 :::
-Noch ein ⟪सुभाषितम्⟫ :
+Nog 'n ⟪सुभाषितम्⟫ :
 
 ::: indent
-⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
-⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
-⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
-⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
+⟪सन्ति पुत्राः सुबहवो दरिद्राणामनिच्छताम् । नास्ति पुत्रः समृद्धानां विचित्रं विधिचेष्टितम् ॥⟫
 
-Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
+Verduideliking: ⟪इच्छताम्⟫ = genitief meervoud teenwoordige deelwoord van ⟪इष्⟫: van die een wat wens
 :::
 

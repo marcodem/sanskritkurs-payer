@@ -158,7 +158,7 @@ outline: 2
 | Санскрит | IAST | Рід | Українська | Лекція |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | на одному місці | [51](/uk/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | підкреслює попереднє, німецькою мовою часто відповідає наголосу, своєрідний емодзі \<!\>, наприклад, "сама істина  | [15](/uk/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | підкреслює попереднє, німецькою мовою часто відповідає наголосу, своєрідний емодзі \<!\>, наприклад, "сама істина перема | [15](/uk/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

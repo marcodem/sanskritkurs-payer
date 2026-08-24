@@ -1,390 +1,383 @@
 ---
-title: Lektion 28
+title: "Lesing 28"
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
----
 
-# Les 28
+---# Les 28
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-
-::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
-
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt"
-:::
-
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Die causatief (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema 1:**
+**As mens wil uitdruk dat iemand of iets veroorsaak of teweegbring dat 'n ander persoon of ding iets doen of ondergaan, wat uitgedruk word deur 'n wortel (met of sonder 'n voorsetsel), gebruik mens die causatief (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:**
-
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ**
+Voorbeeld:
+⟪गम्⟫ "gaan" » Causatief: ⟪गमयति⟫ "hy laat iemand gaan; hy stuur"
+⟪दृश्⟫ "sien" » Verwekkend: ⟪दर्शयति⟫ "hy laat iemand sien = hy wys"
 :::
-Beispiele:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt."
+## 28.2. Sinbou met die causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel"
+::: grammar-box
+**Skema 1:**
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda"
+**As die wortel wat aan die basis van die lydende werkwoord lê (met of sonder 'n voorsetselwoord) ONOORDRYFLIK is (d.w.s. nie 'n akkusatiewe voorwerp kan neem nie) of beweging, kennis, inligting of eet uitdruk:**
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda"
+**Agent (⟪कर्ता⟫) van die causatief in die nominatief (⟪प्रथमा⟫) — Agent van die veroorsaakte handeling in die akkusatief (⟪द्वितीया⟫) — (Teiken van beweging, voorwerp van kennis, ens. in die akkusatief = ⟪द्वितीया⟫) — Werkswoord in die verbuigingsvorm**
+:::
+Voorbeelde:
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise"
+⟪दुर्जनो रामं मोहयति⟫ = "'n bose persoon laat Rāma verward raak = verwar Rāma = laat Rāma dwaal"
+Resultaat: ⟪रामो मुह्यति⟫ = "Rāma is verward / mislei / vergis."
+
+⟪रामः शत्रून्स्वर्गं गमयति⟫ = "Rāma laat die vyande na die hemel gaan = stuur die vyande na die hemel"
+Resultaat: ⟪शत्रवः स्वर्गं गच्छन्ति⟫ = "die vyande gaan na die hemel / betree die hemel"
+
+⟪गुरू रामं वेदार्थं वेदयति⟫ = "Die Meester laat Rāma die betekenis van die Veda ken = verduidelik / leer Rāma die betekenis van die Veda"
+Resultaat: ⟪रामो वेदार्थं वेत्ति⟫ = "Rāma ken / verstaan die betekenis van die Veda"
+⟪स रामं वेदमध्यापयति⟫ = "hy leer Rāma die Veda"
+Resultaat: ⟪रामो वेदमधीते⟫ "Rāma bestudeer die Veda"
+
+⟪रामो देवानामृतमाशयति⟫ = "Rāma laat die gode die voedsel van onsterflikheid eet = gee die gode die voedsel van onsterflikheid om te eet" (⟪अश्⟫ 9 "eet")
+Resultaat: ⟪देवा अमृतमश्नन्ति⟫ "Die gode eet die voedsel van onsterflikheid"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801))
+Fig.: ⟪स नरान्प्रबन्धविज्ञानमध्यापयति⟫
+ISKCON-tempel, Bangalore.
+(Beeldbron: [Besonderhede](/af/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:**
+**Die wortel ⟪दृश्⟫, onder andere, is volgens Skema 1 gekonstrueer:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2**
+**Vir uitsonderings op Skema 1, sien Skema 2**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn"
+Voorbeeld:
+(⟪स⟫) ⟪रामं पुत्रं दर्शयति⟫ = "hy wys Rāma die seun"
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada):
+Die volgende vers som voorbeelde van die causatiewe vorming volgens Skema 1 op (die werkwoordvorme is almal in die derde persoon imperfek Parasmaipada):
 ::: indent
-⟪शत्रूनगमयत्स्वर्गं⟫
-⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
-⟪आशयच्चामृतं⟫ ⟪देवान्⟫
-⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
-⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् । आशयच्चामृतं देवान् वेदमध्यापयद्विधिम् । आसयत्सलिलै पृथ्वीं यः स मे श्रीहरिगतिः ॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte.
+My toevlug en my doel is Hari,
+Wat die vyande na die hemel gestuur het,
+Wat Sy eie die betekenis van die Veda geleer het,
+Wat die gode met die voedsel van onsterflikheid gevoed het,
+Wat die Veda aan die Skepper geleer het,
+Wat die aarde in die water geplaas het.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802))
+Fig.: ⟪स मे श्रीहरिगतिः⟫
+Bestuursgebou van die Jadavpur Universiteit.
+(Beeldbron: [Besonderhede](/af/licenses#lekt2802))
 :::
 
 ::: grammar-box
-**Schema 2:**
+**Skema 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):**
-
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Vir transitive werkwoorde (anders as dié wat onder Skema 1 genoem word). Ook vir alle werkwoorde waar die voorwerp van die vervoorsaker die agent is (d.w.s. waar die vervoorsaker self weer 'n vervoorsaker is):**
+Agent (⟪कर्ता⟫) van die causativum in die nominatief (⟪प्रथमा⟫) — Agens van die veroorsaakte handeling in die instrumentaalgeval (⟪तृतीया⟫) — Objekt van die veroorsaakte handeling in die geval wat dit ná die eenvoudige werkwoord sou hê (d.w.s. gewoonlik in die akkusatief) — Werkswoord in die causatief**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau"
+Voorbeelde:
+(⟪स⟫) ⟪रामेण भार्यां त्याजयति⟫ = "Hy laat Rāma sy vrou verlaat"
+Resultaat: ⟪रामो भार्यां त्यजति⟫ = "Rāma verlaat sy vrou"
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht"
+⟪विष्णुमित्रो रामेण गोविन्दं गमयति⟫ = "Viṣṇumitra laat Rāma Govinda laat weggaan = Viṣṇumitra laat Rāma Govinda wegstuur"
+Resultaat: ⟪रामो गोविन्दं गमयति⟫ = "Rāma stuur Govinda weg"
+Resultaat van hierdie resultaat: ⟪गोविन्दो गच्छति⟫ = "Govinda vertrek"
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**Uitsonderings op Skema 1:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:**
+**Die volgende werkwoorde, onder andere, word ook volgens Skema 2 gekonstrueer:**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**Kausatief van:**
+- **⟪नी⟫ "lei"**
+- **⟪वह्⟫ "ry" (slegs as die agent van die veroorsaakte handeling nie die bestuurder is nie)**
+- **⟪स्मृ⟫ "visualiseer" (daar is uitsonderings hierop)**
+- **⟪अद्⟫ "eet"**
+- **⟪खाद्⟫ "kou"**
 :::
-Beispiele:
+Voorbeelde:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last"
+⟪रामो भृत्येन भारं नाययति वाहयति वा⟫ = "Rāma laat die dienaar die vrag dra of stoot"
+Resultaat: ⟪भृत्यो भारं नयति वहति वा⟫ = "Die dienaar dra of ry die vrag"
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise"
+⟪रामो बालेनान्नमादयति खादयति वा⟫ = "Rāma laat die seun kos eet of kou"
+Resultaat: ⟪बालो ऽन्नमत्ति खादति वा⟫ = "die seun eet of kou kos"
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich"
+(⟪स⟫) ⟪रामेण स्मारयति⟫ = "Hy laat Rāma onthou"
+Resultaat: ⟪रामः स्मरति⟫ = "Rāma onthou"
+::: grammar-box
+**Die volgende causatiewe kan volgens beide Skema 1 en Skema 2 gekonstrueer word:**
+
+- **⟪हृ⟫ "hou, haal"**
+- **⟪कृ⟫ "doen, maak"**
+- **Ātmanepadakausatief met ⟪दृश्⟫**
+:::
+Voorbeelde:
+
+⟪रामो भृत्यं कटं कारयति हारयति वा⟫ = "Rāma laat die dienaar 'n mat maak of haal (⟪कट⟫ m.)"
+of:
+⟪रामो भृत्येन कटं कारयति हारयति वा⟫
+Resultaat: ⟪भृत्यः कटं करोति हरति वा⟫ = "Die dienaar maak of haal 'n mat"
+
+⟪रामो बालं प्रतिमां दर्शयते⟫ = "Rāma laat die seun die beeld sien = wys die seun die beeld (in sy eie belang)"
+of:
+⟪रामो बालेन प्रतिमां दर्शयते⟫
+Resultaat: ⟪बालः प्रतिमां पश्यति⟫ = "die seun sien die beeld"
+
+Wanneer die causatief in 'n passiewe konstruksie gebruik word, geld die volgende patroon byna altyd:
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:**
+**Skema A (passiewe konstruksie):**
 
-- **⟪हृ⟫ "halten, holen"**
-- **⟪कृ⟫ "tun, machen"**
-- **Ātmanepadakausativ zu ⟪दृश्⟫**
+**Agent van die veroorsakende in die instrumentaalgeval (⟪तृतीया⟫) — Agent van die veroorsaakte handeling in die nominatiefgeval (⟪प्रथमा⟫) — Voorwerp van die veroorsaakte handeling in die geval wat dit ná die eenvoudige werkwoord sou hê (d.w.s. gewoonlik in die genitief) — Werkwoord in die causatief**
 :::
-Beispiele:
+Voorbeelde:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte"
+⟪गुरुणा रामो ग्रामं गम्यते⟫ = "Die meester stuur Rāma na die dorp"
+Resultaat: ⟪रामो ग्रामं गच्छति⟫ = "Rāma gaan na die dorp"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
-⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis"
+⟪रामेण भृत्यः कटं कार्यते⟫ = "Rāma laat die dienaar 'n mat maak"
+Resultaat: ⟪भृत्यः कटं करोति⟫ = "Die dienaar maak 'n mat"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung:
+⟪रामेण भृत्यो भारं हार्यते⟫ = "Rāma sê vir die dienaar om die vrag te gaan haal"
+Resultaat: ⟪भृत्यो भारं हरति⟫ = "Die dienaar gaan haal die vrag"
+## 28.3. Vorming van die teenwoordige tydstam vir die causatief (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema A (Passivkonstruktion):**
-
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum**
+**Die tematiese uitgange van die teenwoordige tydwortel word aan die causatiewe wortel aangeheg**
 :::
-Beispiele:
-
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf"
-
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte"
-
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last"
-
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+Daar is verskeie vormtipes:
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms**
+**Vormtipe 1: (gewoonlik) hoëvlakwortel + -aya-**
 :::
-Es gibt verschiedene Bildungstypen:
+Voorbeelde:
 
-::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
-:::
-Beispiele:
-
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Woortipe | Aansporende 3de persoon enkelvoud teenwoordige tyd | Betekenis |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | hy/sy/dit laat toe om in te gaan, lei in |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | laat iemand begeer, maak iets begeerlik, verlei |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | laat iemand sien = wys |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | laat iemand draai, draai (oorgangend), rol (oorgangend), laat rol |
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-**
+**Vormtipe 2: lengtegraadwortel + -aya-**
 
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.**
+**Dikwels gevind by wortels wat op 'n vokaal eindig, en by wortels waar -a- gevolg word deur 'n enkele slotmedeklinker.**
 :::
-Beispiele:
+Voorbeelde:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Woorwortel | Aansporende 3de pers. enk. teenwoordige wysende | Betekenis |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(from: bhau-aya-ti) | om iemand of iets te laat word, te laat ontstaan |
+| ⟪इ⟫ | ⟪आययति⟫:br(from: ai-aya-ti) | om iemand te laat gaan |
+| ⟪नी⟫ | ⟪नाययति⟫:br(from: nai-aya-ti) | om iemand te laat lei word |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | om iemand iets te laat doen |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | laat praat, laat uitspreek, (maak dat 'n teks uitgespreek word =) hardop lees |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**Afleidingstipe 3: laagvlakwortel + -aya-**
 
-**Kommt vor.**
+**Verskyn.**
 :::
-Beispiel:
+Voorbeeld:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Wortel | Causatief 3de persoon enkelvoud teenwoordige aanwysende wijs | Betekenis |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | om (iemand) te verwoes |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-**
+**Tipe Pendidikan 4: Akar + -paya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.**
+**Bagi akar yang berakhir dengan -ā dan beberapa akar lainnya.**
 :::
-Beispiele:
+Contoh:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Akar | Kausatif 3. sg. Indikativ Präsens | Arti |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | membuat berdiri, menempatkan |
+| ⟪इ⟫ + ⟪अधि⟫:br"mempelajari" | ⟪अध्यापयति⟫:br(keluar: adhi+ā-paya-ti):br(liat penjelasan di Thumb-Hauschildt Bd. I,2 S. 341) | membiarkan belajar, mengajar |
 
 ::: grammar-box
-**Unregelmässige Bildungen:**
+**Pembentukan Tidak Beraturan:**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:**
+**Grammarian lokal menganggap bentuk-bentuk berikut sebagai Kausatif:**
 
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen"
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen"
+**han** : Kaus. **ghātayati**¹ "membiarkan membunuh, membuat mati"
+**pā** 2 "menjaga": **pālayati**² "membawa melintasi, menyelamatkan, melindungi"
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+Catatan:
+1. **ghātayati** sebenarnya adalah kata kerja yang berasal dari nomina **ghāta** m. "pukulan" (denominativum) dan digunakan sebagai pengganti Kausatif dari **han**.
+2. **pālayati** adalah Kausatif sejati, namun berasal dari akar **pṛ** 3 "membawa melintasi, menyelamatkan, melindungi": **pārayati** (pār-aya-ti) » **pālayati** (di beberapa wilayah India, r setara dengan l, dan di tempat lain sebaliknya).
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ
+
+## 28.4. Pembentukan Pasif (⟪यक्⟫) dari Kausatif
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:**
+**Pasif dari Kausatif dibentuk sebagai berikut:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-**
+**Stem Kausatif TANPA -aya- + Suffix Pasif -ya-**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt"
+Contoh:
+**bhāvyate** (bhāv-ya-te) "ia/di/itu dibawa keluar"
+**sthāpyate** (sthāp-ya-te) "ia/di/itu ditempatkan"
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird.
+Sementara Pasif dari akar asli biasanya dibentuk dari akar tingkat rendah, Pasif dari Kausatif umumnya dapat dikenali karena dibentuk dari akar tingkat tinggi atau panjang.
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+
+## 28.5. Vorming van die Toekomende Tyd (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ v.) vir die Kausatief
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:**
+**Die Toekomende Tyd van die Kausatief word vanaf die kausatiwewortelstam gevorm, waarby die uitgaande -a- van die kausatiwsuffiks weggelaat word:**
 
 **-ay-iṣya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken"
+Voorbeeld:
+**budh** Toekomende-Tydkausatief: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "hy/sy/ Dit sal opwek"
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. Vorming van die PPP (⟪क्त⟫) vir die Kausatief
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta**
+**Kausatiwewortelstam op -ay- (sonder uitgaande a) + -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt"
+Voorbeelde:
+**gam** — **gamayati** — **gamita** (gam-i-ta) "gestuur" (PPP van die eenvoudige wortel: **gata**)
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "opgerig"
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. Vorming van die Absolutief (⟪क्त्वा⟫ . ⟪ल्यप्⟫) vir die Kausatief
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Die Absolutief op -tvā word vanaf die kausatiwewortelstam op -ay- (sonder uitgaande a) gevorm:**
 
-**Kausativstamm auf -ay- + -i- + -tvā**
+**Kausatiwewortelstam op -ay- + -i- + -tvā**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat"
+Voorbeeld:
+**sthāpayitvā** (sthā-pay-i-tvā) "nadat hy opgerig het"
 :::
 ::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-**
+**Die Absolutief op -ya verskyn by kausatiwum met voorvoegsels gewoonlik aan die kausatiwewortelstam SONDER -aya-**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat"
+Voorbeelde:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nadat hy opgewek het"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nadat hy laat kom het, nadat hy laat gebring het"
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**Bevat egter die wortelsilbe van die kausatief 'n kort -a- voor 'n enkele medeklinker, verskyn die -ya van die Absolutief aan die kausatiwewortelstam op -ay- (sonder uitgaande a)**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat"
+Voorbeeld:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nadat hy laat kom het"
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. Vorming van die infinitief (⟪तुमुन्⟫) vir die causatief
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:**
+**Die infinitief vir die causative word gevorm uit die causative stam wat op -ay- eindig (sonder 'n finale a):**
 
-**Kausativstamm auf -ay- + -i- + -tum**
+**Causative stam wat op -ay- eindig + -i- + -tum**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen"
+Voorbeeld:
+**jan** — **janayati** — **janayitum** (janay-i-tum) 'om voort te bring'
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. Die 10de teenwoordige tydklas (⟪चुरादि⟫ = ⟪चुर्⟫ ens.)
 
 ::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.**
+**Net soos die causatiewe vorm sommige wortels van die 10de teenwoordige tydklas die teenwoordige tyd (en die ander tye) sonder om causatiewe te wees.**
 
-Beispiele:
-1.  Dehnstufige Wurzel + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben"
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate**
+Voorbeelde:
+1.  Langgraadwortel + -aya-: ⟪कम्⟫ 10Ā ⟪कामयते⟫ "om lief te hê"
+2.  Hoë-graadwortel + -aya- : **cur** 10U **corayati** 'om te steel'; toekoms: **corayiṣyate**; passief: **coryate**
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.**
+**Die vorme van die causatief vir werkwoorde in die 10de teenwoordige tydklas is identies aan dié van die eenvoudige werkwoord. Dit is slegs moontlik om te bepaal of 'n causatief teenwoordig is op grond van betekenis of, in sommige gevalle, die konstruksie.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Woordelys
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: om te weet, om bewus te wees van
 Fut. **vediṣyati**
 Pass. **vidyate**
 Kaus. **vedayati**
-PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+Voltooide deelwoord **vidita**
+Onvoltooide deelwoord **vediṣyum**
+Afgeleide terme: **vidyā** v., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): vind
+Toek. **vediṣyati** / **vetsyat**
+Pass. **vidyate**: daar is, dit bestaan
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: om te bestudeer, om uit die kop te leer
+Kaus. **adhyāpayati**: laat iemand studeer, onderrig
+afgelei hieruit: **adhyayana** n.: studie (veral van die Veda); **adhyāya** m.: les, hoofstuk (afdeling wat uit die kop geleer moet word)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
+⟪कम्⟫ 10Ā ⟪कामयते⟫: liefhebber
+Toekomende tyd **kāmayiṣyate** / **kamiṣyate**
+Passief **kāmyate**
+Kousatief **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Afbeelding: ⟪कृष्णो राधां कामयति⟫
+Skildery deur ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Beeldbron: [Details](/af/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
+⟪चुर्⟫ 10 ⟪चोरयति⟫: steel
+Toekomende tyd **corayiṣyati**
+Passief **coryate**
+Kousatief **corayati**
 PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Onthou veral die betekenis van die kousatiewe vir die volgende werkwoorde:**
+**dṛś** — **darśayati**: wys
+**man** — **mānayati**: hoog ag, eerbiedig (is waarskynlik 'n denominatief van **māna** "eer")
+**vac** — **vācayati**: ook: hardop lees (laat 'n teks spreek)
+**vad** — **vādayati**: ook: 'n musiekinstrument laat praat = 'n musiekinstrument speel
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Afbeelding: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Beeldbron: [Details](/af/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: las
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Afbeelding: ⟪बाला भारं हरति⟫
+Meisie dra las. By Ahmedabad.
+(Beeldbron: [Details](/af/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
+⟪भृत्य⟫ m.: ondergeskikte, dienskneg
 
-## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+## 28.11. Oefening
 
-**1. Mit hochstufiger Wurzel:**
+**A) Vorm die kousatief van die volgende werkwoord- en partisiëpvorme, en gee die betekenis aan:**
+
+**1. Met hoë graad van die wortel:**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -414,8 +407,7 @@ Mädchen trägt Last. Bei Ahmedabad.
 27. ⟪स्रक्ष्यति⟫
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
-
-**2. Mit dehnstufiger Wurzel:**
+2. Met 'n wortel van wisselende lengte:
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -456,30 +448,18 @@ Mädchen trägt Last. Bei Ahmedabad.
 38. ⟪हरन्ती⟫
 39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫**
+**3. Verursakende vorme wat eindig op -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen**
+**4. Let veral op en leer die volgende werkwoordelike vorme**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫
+2. ⟪पा⟫ 1 ('om te drinke') — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("beskerm") — ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:**
+B. Vertaal die volgende sinne, ontleed die samestelde woorde in Sanskrit en vorm, met eenvoudige werkwoorde, sinne wat uitdruk wat gebeur wanneer die handeling wat deur die causatief uitgedruk word, teweeggebring word:
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
-
-⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
-⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
-⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪॥३॥⟫
-⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫
-⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪।⟫ ⟪सुभगः⟫ ⟪पुत्र⟫ ⟪इति⟫ ⟪दासो⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪तच्छ्रुत्वा⟫ ⟪ब्राह्मणो⟫ ⟪सुखतां⟫ ⟪गच्छति⟫ ⟪॥५॥⟫
-⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫
-⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
-⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
-⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
+Voorbeeld: ⟪रामो दासं भारं हारयति⟫ » ⟪दासो भारं हरति शत्रुजयाय क्षत्रियो ब्राह्मणेन हरिहरं याजयित्वारीन्योत्स्यते ॥१॥ गुरुर्बालान्वेदमध्याप्य गृहं गतः ॥२॥ गर्भगृहे देवीप्रतिमा दृश्यते ॥३॥ यजन्नग्निनान्नमादयति पानं च पाययति ॥४॥ पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति । ब्राह्मणस्तं दासं गृहं प्रवेश्य पुत्रं पृच्छति । सुभगः पुत्र इति दासो वक्ति । तच्छ्रुत्वा ब्राह्मणो सुखतां गच्छति ॥५॥ स्तुवता नरेण देवा महाकवेः स्तोत्राणि श्राविताः ॥६॥ आर्ययोधैर्महायुद्धे ऽरयो मार्यन्ते ॥७॥ सत्क्षत्रिया ब्राह्मणेनेष्टदेवतापूजां कारयति । स ब्राह्मणः पूजां कृत्वा क्षत्रियाया धनमेषिष्यति ॥८॥ धनं जेतुं महाक्षत्रियो योधव्याघ्रैर्व्रतानि चारयिष्यति ॥९॥ पापान्मोक्षार्थेन सुगत आर्यजनानार्यसत्यानि बोधयति ॥१०॥⟫

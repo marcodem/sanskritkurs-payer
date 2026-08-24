@@ -28,7 +28,7 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
     Ignores lines inside ::: deleteme-box containers and YAML frontmatter.
     """
     # Languages where German prose is explicitly allowed as fallback
-    if target_lang in {'rm', 'la', 'grc', 'el', 'cop'}:
+    if target_lang in {'rm', 'la', 'grc', 'el', 'cop', 'af'}:
         return []
 
     flagged = []

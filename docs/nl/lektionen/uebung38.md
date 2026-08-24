@@ -1,77 +1,71 @@
-
 ---
-title: "Übung 38"
+title: "Oefening 38"
 uebung_id: 38
 category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 38
 
-# Oefening 38
-
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
+A) Vul in de volgende zinnen de juiste vorm van de woorden tussen haakjes in en vertaal:
 
 ::: grammar-box
-⟪१⟫. ⟪राज्ञि⟫ (oder: ⟪राजनि⟫) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
-Wenn der König Recht und Sitte hütet, sind die Leute ohne Furcht.
+⟪१⟫. ⟪राज्ञि⟫ (of: ⟪राजनि⟫) **⟪धर्मं रक्षत्यभया जनाः ॥ १ ॥⟫** (⟪राजन्⟫)
+Als de koning recht en zeden handhaaft, zijn de mensen zonder vrees.
 
-⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
-Es war einmal ein Königssohn — Gautama war sein Name — er hatte seine Aufgaben gut erfüllt, war voll Einsicht, schön und von unermesslicher Kraft.
+⟪२⟫. **⟪आसीद्राजपुत्रो गौतमो नाम सुकृतकर्मोपपन्नो बुद्ध्या रूप्यमितबलः ॥ २ ॥⟫** (⟪नामन्⟫)
+Er was eens een prins — Gautama was zijn naam — hij had zijn taken goed vervuld, was vol inzicht, mooi en van onmetelijke kracht.
 
-⟪३⟫. **⟪राज्यस्य⟫ ⟪सीमस्वरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (⟪सीमन्⟫ — ⟪सप्तमी⟫ ⟪बहुवचन⟫)
-An den Grenzen des Reichs stehen Feinde, um den König zu bekämpfen.
+⟪३⟫. **⟪राज्यस्य सीमस्वरयो राजानं योद्धुं तिष्ठन्ति ॥ ३ ॥⟫** (⟪सीमन्⟫ — ⟪सप्तमी बहुवचन⟫)
+Aan de grenzen van het rijk staan vijanden klaar om de koning te bestrijden.
 
-⟪४⟫. **⟪वैश्यानां⟫ ⟪कानि⟫ ⟪नामानि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (⟪नामन्⟫)
-Was für Namen haben Vaiśyas?
+⟪४⟫. **⟪वैश्यानां कानि नामानि ॥ ४ ॥⟫** (⟪नामन्⟫)
+Welke namen hebben de Vaiśya’s?
 
-⟪५⟫. **⟪वैश्याः⟫ ⟪किंनामानः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫** (⟪किंनामन्⟫)
-Welche Namen tragen die Vaiśyas?
+⟪५⟫. **⟪वैश्याः किंनामानः ॥ ५ ॥⟫** (⟪किंनामन्⟫)
+Welke namen dragen de Vaiśya's?
 
-⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heisst es in der Bhagavadgītā.
+⟪६⟫. **⟪कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः स बुद्धिमान्मनुष्येषु स युक्त इति भगवद्गीतायाम् ॥ ६ ॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी एकवचन⟫)
+"Wie in het doen het niet-doen ziet en in het niet-doen het doen, die is wijs onder de mensen, die is een yogi" — zo staat het in de Bhagavadgītā.
 
-⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
-Selbst Dichter sind darüber verwirrt, was Tun und was Nichttun ist.
+⟪७⟫. **⟪किं कर्म किमकर्मेति कवयो ऽप्यत्र मोहिताः ॥ ७ ॥⟫** (⟪कर्मन्⟫)
+Zelfs dichters zijn in de war over wat handelen en wat niet-handelen is.
 
-⟪८⟫. **⟪ब्रह्मभूतः⟫ ⟪प्रसन्नात्मा⟫ ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा⟫ ⟪एकवचन⟫)
-Wer zum Absoluten geworden ist und wessen Seele abgeklärt ist, der trauert nicht und begehrt nicht.
+⟪८⟫. **⟪ब्रह्मभूतः प्रसन्नात्मा न शोचति न लुभ्यति ॥ ८ ॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा एकवचन⟫)
+Wie het Absolute heeft bereikt en wiens ziel verlicht is, treurt niet en begeert niet.
 
-⟪९⟫. **⟪कर्मणः⟫ ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी⟫ ⟪एकवचन⟫)
-Man sagt, dass eine gut getane Tat eine gute Frucht bringt.
+⟪९⟫. **⟪कर्मणः सुकृतस्य सुफलमाहुः ॥ ९ ॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी एकवचन⟫)
+Men zegt dat een goed uitgevoerde daad een goede vrucht oplevert.
 
-⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-Das Geniessen der Welt ist die Pflicht der Könige.
+⟪१०⟫. **⟪महीभोगो राज्ञां धर्मः ॥ १० ॥⟫** (⟪राजन्⟫ — ⟪षष्ठी बहुवचन⟫)
+Het genieten van de wereld is de plicht der koningen.
 
-⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
-Starke Elefanten soll man dem König geben.
+⟪११⟫. **⟪राज्ञे बलिनो हस्तिनो दीयेरन् ॥ ११ ॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
+Sterke olifanten moet men aan de koning geven.
 
-⟪१२⟫. **⟪ब्रह्मणा⟫ ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Brahmā hat die Welten erschaffen.
+⟪१२⟫. **⟪ब्रह्मणा लोका असृज्यन्त ॥ १२ ॥⟫** (⟪ब्रह्मन्⟫ — ⟪तृतीया एकवचन⟫)
+Brahmā heeft de werelden geschapen.
 
-⟪१३⟫. **⟪आत्मना⟫ ⟪कृतं⟫ ⟪पापमात्मनाकृतं⟫ ⟪पापम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया⟫ ⟪एकवचन⟫)
-Selbst tut man Böses, selbst unterlässt man Böses.
+⟪१३⟫. **⟪आत्मना कृतं पापमात्मनाकृतं पापम् ॥ १३ ॥⟫** (⟪आत्मन्⟫ — ⟪तृतीया एकवचन⟫)
+Men doet zelf het kwade, men laat zelf het kwade na.
 
-⟪१४⟫. **⟪सद्भी⟫ ⟪राजभिर्जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫** (⟪राजन्⟫)
-Gute Könige schenken den Menschen Furchtlosigkeit.
+⟪१४⟫. **⟪सद्भी राजभिर्जनेभ्यो ऽभयं दीयते ॥ १४ ॥⟫** (⟪राजन्⟫)
+Goede koningen schenken de mensen angsteloosheid.
 
-⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
-Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
+⟪१५⟫. **⟪राजसु धर्मं न रक्षत्सु सभया जनाः ॥ १५ ॥⟫** (⟪राजन्⟫)
+Als koningen recht en gebruik niet bewaken, zijn de mensen vol angst.
 :::
 ::: media
 ![](/images/uebung063.webp)
-Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
-(Bildquelle: [Details](/licenses#uebung063))
+Afbeelding: ⟪राज्ञे बलिनो हस्तिनो दीयेरन्⟫
+(Bron afbeelding: [Details](/licenses#uebung063))
 :::
 ---
 
-## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
+## Verhaal: De Tien Dwaasheid (⟪दश मूढाः⟫)
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां चेष्टितानि प्रायेण विनोदावहानि । यथा हि⟫ — ⟪एकदा दश मूढा देशाटनाय प्रस्थिताः । किञ्चिद्दूरं गतानां तेषामुपस्थिता काचिदगाधा नदी । बाहुभ्यां तरन्तस्ते कथमपि नदीं तीर्त्वा पारं गताः ॥ आसीत्तेषां मध्ये कश्चन वृद्धः । स किं सर्वे तीरमनुप्राप्ता ईति जिज्ञासमानस्तानेकैकशो गणयामास । परं नवैव परिगणितास्तेन । ततः स आक्रोशत् । अहो वयम् दश प्रस्थिताः । इदानीं नवैव स्मः । नूनमस्माकमेको नद्यां निमग्नः । गवेषयत तमिति । ततस्तेषामेकैको ऽपि गणनां चकार । परं नवैव दृश्यन्ते । ततस्तेषां व्याकुलीभूतानां महान्कोलाहलः समजनि । तत्रैव नातिदूरे कस्यचिदृषेराश्रमो ऽवर्तत । तत्र वसन्नृषिस्तेषां विवेष्टितमवलोक्योच्चैर्जहास । तस्य हासशब्दं श्रुत्वा मूढास्तरसा समुपसृत्य हासकारणमपृच्छन् । ऋषिराह । अहो । अनात्मज्ञा यूयम् । युष्माकमेकैको ऽपि नात्मानमगणयत् । तेनायं व्यामोहः संजात इति । तदाकर्ण्य ते मूढाः सलज्जमधोमुखाः प्रययुः ॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+**Vertaling:**
+Tien dwazen. De capriolen van dwazen zijn meestal vermakelijk. Zoals bijvoorbeeld: Ooit trokken tien dwazen eropuit om door het land te zwerven. Toen ze een eindje hadden gelopen, blokkeerde een diepe rivier hun weg. Met hun armen roeiend staken ze op de een of andere manier de rivier over en kwamen aan de overkant.
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ⟪सर्वे⟫ ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ⟪जिज्ञासमानस्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ⟪वयम्⟫ ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ⟪स्मः⟫ ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ⟪गवेषयत⟫ ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषामेकैको⟫ ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ⟪समजनि⟫ ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढास्तरसा⟫ ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ⟪यूयम्⟫ ⟪।⟫ ⟪युष्माकमेकैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
-
-**Übersetzung:**
-Zehn Deppen. Das Treiben von Toren ist meist unterhaltsam. So zum Beispiel: Einst sind zehn Toren aufgebrochen, um im Land herumzuschweifen. Als sie ein Stück weit gegangen waren, stellte sich ihnen ein tiefer Fluss in den Weg. Mit den Armen rudernd überquerten sie irgendwie den Fluss und gelangten ans andere Ufer.
-
-Unter ihnen war ein Alter. Er wollte wissen, ob alle ans Ufer gekommen seien, und zählte darum jeden einzelnen. Aber er zählte nur neun. Da schrie er: "Hallo! Wir sind zu zehnt aufgebrochen, jetzt sind wir nur neun! Sicherlich ist einer im Fluss ertrunken! Sucht nach ihm!" Daraufhin zählte jeder einzelne von ihnen nach. Aber es waren immer nur neun! Da wurden sie aufgeregt und es entstand ein grosses Geschrei. Nicht weit von dort war die Einsiedelei eines Ṛṣi. Der dort wohnende Weise betrachtete ihr Gebaren und lachte laut. Die Toren hörten sein Gelächter, eilten zu ihm und fragten nach dem Grund. Der Ṛṣi sagte: "Ha! Ihr kennt euch selbst nicht. Jeder einzelne von euch hat sich selbst nicht mitgezählt. Deswegen ist diese Verwirrung entstanden." Als sie das hörten, zogen die Toren beschämt und mit gesenktem Haupt ab.
+Onder hen bevond zich een oude man. Hij wilde weten of iedereen aan de overkant was gekomen en telde daarom iedereen afzonderlijk. Maar hij telde er slechts negen. Toen riep hij: „Hé! We zijn met tien vertrokken, nu zijn we er maar negen! Er is vast iemand in de rivier verdronken! Ga hem zoeken!“ Daarop telde ieder van hen nog eens na. Maar het bleven er steeds maar negen! Toen raakten ze in paniek en ontstond er een groot geschreeuw. Niet ver daarvandaan lag de kluis van een Ṛṣi. De wijze die daar woonde, keek naar hun gedrag en lachte hardop. De dwazen hoorden zijn gelach, haastten zich naar hem toe en vroegen naar de reden. De Ṛṣi zei: „Ha! Jullie kennen jezelf niet. Ieder van jullie heeft zichzelf niet meegeteld. Daarom is deze verwarring ontstaan.” Toen ze dat hoorden, trokken de dwazen beschaamd en met gebogen hoofd weg.
 

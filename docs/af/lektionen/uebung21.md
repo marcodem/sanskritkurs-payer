@@ -1,53 +1,47 @@
 ---
 title: "Oefening 21"
 uebung_id: 21
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 21
 
-# Oefening 21
+A) Ontleed die volgende Sanskrit-samesestelde woorde en vertaal dit:
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und übersetzen Sie sie:
+⟪१⟫. ⟪अनादिकालिकसंसरः । अनादिः कालो यस्य सो ऽनादिकालिकः संसरः ।⟫
+Die siklus van hergeboortes sonder 'n begin of vasgestelde duur.
 
-⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
-⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
-Der Lauf durch die Wiedergeburten ohne Anfang und feste Zeitdauer.
+⟪२⟫. ⟪अनादिमध्यान्तः । न आदिश्च मध्यं च अन्तश्च यस्य सः ।⟫
+Sonder 'n begin, middel of einde.
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫ ⟪।⟫
-⟪न⟫ ⟪आदिश्च⟫ ⟪मध्यं⟫ ⟪च⟫ ⟪अन्तश्च⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Ohne Anfang, Mitte und Ende.
+⟪३⟫. ⟪महामैत्रीकरुणाचित्तः । महती मैत्री च करुणा च यस्मिंस्तच्चित्तं यस्य सः ।⟫
+Met 'n hart vol groot welwillendheid en deernis.
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫ ⟪।⟫
-⟪महती⟫ ⟪मैत्री⟫ ⟪च⟫ ⟪करुणा⟫ ⟪च⟫ ⟪यस्मिंस्तच्चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Mit einem Herz voll grossen Wohlwollens und Mitgefühls.
+⟪४⟫. ⟪सर्वहतान्धकारः । सर्वस्मिन्हतो ऽन्धकारो येन सः ।⟫
+Wat oral die duisternis vernietig het.
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫ ⟪।⟫
-⟪सर्वस्मिन्हतो⟫ ⟪ऽन्धकारो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫
-Der überall die Finsternis zerstört hat.
+B) Vertaal:
 
-B) Übersetzen Sie:
+⟪१⟫. ⟪मृतं दहन्नग्निः सतीमपि दहति ॥⟫
+Die vuur wat die dooies kremeer, kremeer ook die getroue vrou (satī).
 
-⟪१⟫. ⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥⟫
-Das Feuer, das den Toten verbrennt, verbrennt auch die treue Gattin (satī).
+⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥⟫
+Die goeie meester prys die groot God met hymne deur die groot digters.
 
-⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-Der gute Meister preist den grossen Gott mit Lobliedern der grossen Dichter.
+⟪३⟫. ⟪महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥⟫
+Die seuns wat groot vrugte eet, drink ook water.
 
-⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-Die Knaben, die grosse Früchte essen, trinken auch Wasser.
+⟪४⟫. ⟪पुजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥⟫
+Tydens aanbidding bring die man offers en prys hy die godheid.
 
-⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
-Während der Verehrung opfert und preist der Mann die Gottheit.
+⟪५⟫. ⟪गुरूपनीतनरो द्विजः ॥⟫
+'n Twee-geborene is iemand wat deur die Meester in die Veda's ingewy is.
 
-⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
-
-⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
-Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
+⟪६⟫. ⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥⟫
+Hy wat woede oorwin het, haat nie 'n vyand nie, selfs al vermoor daardie vyand hom. Maar hy wat deur woede oorweldig word, haat wel.
 
 ::: media
 ![](/images/uebung033.webp)
-Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#uebung033))
+Figuur: ⟪हतान्धकारा दीपाः⟫
+(Beeldbron: [Besonderhede](/licenses#uebung033))
 :::

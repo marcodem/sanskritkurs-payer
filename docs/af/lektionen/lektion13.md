@@ -1,118 +1,116 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: "Lesing 13"
+subtitle: "PPP op -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 13
+---# Les 13
 
-## 13.1. PPP auf -na-
 
-Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch:
+## 13.1. PPP's wat op -na- eindig
+
+Geen vaste reëls kan vasgestel word ten opsigte van die verspreiding van PPP's wat op -ta- of -na- eindig nie. Daar is egter:
 
 ::: grammar-box
 
-Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durch -n-n- ersetzt, was sonst im Wortsandhi nicht geschieht, sondern eine Nachahmung des Satzsandhi ist.
+Byna alle wortels wat op -d eindig, vorm die PPP op -na-. In hierdie geval word -d-n- vervang deur -n-n-, wat normaalweg nie in woord-sandhi voorkom nie, maar 'n nabootsing van sinsandhi is.
 
-Beispiel:
+Voorbeeld:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Weiteres zum Gebrauch des PPP
+## 13.2. Verdere notas oor die gebruik van die PPP
 
 ::: grammar-box
 
-**1. Das PPP zu Verben der Bedeutung "denken", "wünschen", "kennen", "wissen", "verehren" sowie einiger weiterer Verben, die im Dhātupāṭha, dem Wurzelverzeichnis zu Pāṇini, durch ñi gekennzeichnet sind, hat nicht nur Vergangenheitsbedeutung, sondern kann auch in präsentischer Bedeutung verwendet werden:**
-z.B.
+**1. Die PPP vir werkwoorde wat 'dink', 'wens', 'weet', beteken, 'om te weet', 'om te vereer', sowel as sekere ander werkwoorde wat in die Dhātupāṭha, Pāṇini se lys van wortels, met ñi gemerk is, nie net 'n verlede tydbetekenis oordra nie, maar ook in die hede gebruik kan word:**
+bv.
 :::
 ::: indent
-⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart)
-⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā)
+⟪इष्ट⟫ "gewens" (d.w.s. nie net in die verlede gewens nie, maar ook in die hede)
+⟪त्वरित⟫ "haastig, gehaast" (PPP van tvar 1 Ā "haastig wees"; Dhātupāṭha: ñitvárā)
 :::
 
-**2. Das PPP kann als Adjektiv attributiv verwendet werden:**
-z.B.
+**2. Die PPP kan attributief as 'n byvoeglike naamwoord gebruik word:**
+bv.
 ::: indent
-⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)"
+⟪इष्टं फलम्⟫ "die verlangde vrug (bv. van 'n mens se dade)"
 :::
 
-Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl":
-z.B.
+As ⟪अपि⟫ in hierdie geval die PPP volg, beteken ⟪अपि⟫ 'alhoewel':
+bv.
 ::: indent
-⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht."
+⟪इष्टमपि फलं न लभते⟫ = "Alhoewel hy die vrug begeer, ontvang hy dit nie."
 :::
 
-**3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden:**
-z.B.
+**3. Die onbepaalde enkelvoudsvorm van die PPP van enige werkwoord kan ook as 'n werkwoordelike abstraksie gebruik word:**
+bv.
 ::: indent
-⟪गत⟫ n.: "das Gehen, der Gang"
-⟪नृत्त⟫ n.: "das Tanzen, der Tanz"
+⟪गत⟫ n.: "die daad van loop, die loop"
+⟪नृत्त⟫ n.: "die dans, die dans"
 :::
 
-## 13.3. Attributive Bestimmungen von Nomina (Wortstellung)
+## 13.3. Attributiewe wysers van selfstandige naamwoorde (woordorde)
+::: grammar-box
+
+In prosa verskyn attribuutwoorde (wysers) in die normale woordorde voor die woord wat hulle wys. Attribuutwoorde ooreenstem met die selfstandige naamwoord in getal, geval en geslag:
+
+Voorbeeld:
+
+:::
+::: indent
+⟪साधुरिष्टं फलं पश्यति⟫ = "'n Heilige sien die verlangde vrug (van sy dade)."
+:::
+
+## 13.4. Vorming van byvoeglike naamwoorde wat op -mant en -vant eindig (taddhita)
 
 ::: grammar-box
 
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein:
+Besittende bywoorde word van selfstandige naamwoorde gevorm met die taddhita-agtervoegsels -mant of -vant. Hul betekenis is: 'in besit van dit wat deur die onderliggende selfstandige naamwoord aangedui word'.
 
-Beispiel:
+-vant word aan selfstandige naamwoorde geheg waarvan die finale of voorlaaste klank 'n a, ā of m is, asook aan selfstandige naamwoorde wat op 'n plosief eindig; vir ander selfstandige naamwoorde word gewoonlik -mant gebruik.
 
-:::
-::: indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)."
-:::
-
-## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
-
-::: grammar-box
-
-Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend".
-
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
-
-Beispiele:
+Voorbeelde:
 
 :::
 ::: indent
-⟪पशुमन्त्⟫ "Vieh besitzend"
+⟪पशुमन्त्⟫ 'besit vee'
 
-⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend"
+⟪गुणवन्त्⟫ 'besit goeie eienskappe / deug'
 :::
 
-## 13.5. Stammabstufung von Nomina
+## 13.5. Stamgradering van selfstandige naamwoorde
 
-Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung.
+Stamme wat op -mant of -vant eindig, behoort tot die klas selfstandige naamwoordstamme met stamgradering.
 
 ::: grammar-box
-Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe.
+By selfstandige naamwoordstamme met stamgradering word 'n onderskeid gemaak tussen sterk en swak gevalle. In die sterk gevalle is die stamvormende agtervoegsel — in die geval van wortelnaamwoorde, die wortelagtige komponent — in die hoë graad of uitgebreide graad; in die swak gevalle is dit in die lae graad.
 :::
-**Starke Kasus sind:**
+**Sterk gevalle is:**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| | Enkelvoud:br⟪एकवचन⟫ | Meervoud:br⟪द्विवचन⟫ | Velevoud:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-
-**Alle übrigen Kasus sind schwach.**
-
-::: grammar-box
-Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren).
-:::
-
-## 13.6. Zum Wortsandhi
-
-Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -vant sind folgende Gesetze des Wortsandhi nötig:
+| **Vir manlike en vroulike selfstandige naamwoorde** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatief:br⟪प्रथमा⟫:brAkkusatief:br⟪द्वितीया⟫:brVokatief:br⟪सम्बोधनप्रथमा⟫ | Nominatief:br⟪प्रथमा⟫:brAkkusatief:br⟪द्वितीया⟫:brVokatief:br⟪सम्बोधनप्रथमा⟫ | Nominatief:br⟪प्रथमा⟫:br:brVokatief:br⟪सम्बोधनप्रथमा⟫ |
+| **Vir onbepaalde selfstandige naamwoorde** :br⟪नपुंसक⟫ | — | — | Nominatief:br⟪प्रथमा⟫:br Akkusatief:br⟪द्वितीया⟫:br Vokatief:br⟪सम्बोधनप्रथमा⟫ |
+**Alle ander gevalle is swak.**
 
 ::: grammar-box
-1. Anzahl der auslautenden Konsonanten eines Wortes: Von zwei oder mehr Konsonanten, auf die ein Wort schliessen würde, bleibt nur der erste Konsonant erhalten, die übrigen fallen ab. Erlaubt ist die Verbindung -r- + Konsonant.
-
-2. Stimmloser Verschlusslaut wird vor stimmhaftem Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt:
+Die eerste element van 'n samestelling is 'n selfstandige naamwoord met 'n stamgraad in die swak stam (in die geval van drie-stam-naamwoorde, in die sogenaamde middelstam).
 :::
-Beispiele:
+
+## 13.6. Oor woord-sandhi
+
+Om die individuele vorme van fleksie vir selfstandige naamwoorde wat op -mant en -vant eindig, te verstaan, is die volgende reëls van woord-sandhi nodig:
+
+::: grammar-box
+1. Aantal finale medeklinkers in 'n woord: Van twee of meer medeklinkers waarmee 'n woord sou eindig, word slegs die eerste medeklinker behou; die ander word weggelaat. Die kombinasie -r- + medeklinker is toegelaat.
+
+2. 'n Doof lettergreep word vervang deur die ooreenstemmende klinkend lettergreep wanneer dit 'n klinkend lettergreep voorafgaan (nie 'n neuslettergreep nie):
+:::
+Voorbeelde:
 ::: indent
 -t + bh- » -d-bh- ⟪द्भ्⟫
 
@@ -123,205 +121,168 @@ Beispiele:
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Gevalledeurdele van medeklinkerwortels
 
 ::: grammar-box
 
-Bei konsonantisch auslautenden Stämmen:
-* ist die Endung des Akkusativ (dvitīyā) Plural Maskulinum und Femininum -as.
-* ist bei regelmässig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos.
-* ist bei regelmässig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i.
+Vir wortels wat op 'n medeklinker eindig:
+* die uitgang vir die genitief (dvitīyā) meervoud manlik en vroulik is -as.
+* Vir gereeld gevormde stamme het die onbepaalde enkelvoud in die naamval (prathamā) en die genitief (dvitīyā) geen uitgang nie.
+* Vir gereeld gevormde stamme is die uitgang vir die onbepaalde meervoud in die naamval en die genitief -i.
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. Deklinasie van stamme wat op -mant en -vant eindig
 
 ::: grammar-box
 
-* starker Stamm: Nomen + -mant- / -vant-
-* schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-)
+* sterk stam: selfstandige naamwoord + -mant- / -vant-
+* swak stam: selfstandige naamwoord + -mat- / -vat- (van: *-mnt- / *-vnt-)
 
-| | | Maskulinum || Neutrum ||
+| | | Manlik || Onbepaalde ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
-
+| Enkelvoud:br⟪एकवचन⟫ | Nominatief:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Akkusatief:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumenteel geval:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Meervoud:br⟪बहुवचन⟫ | Nominaal:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Akkusatief:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumentaal:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 Femininum:
 
-Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-ī. Die Deklination geht wie bei devī, d.h. es gibt keine Stammabstufung.
+Die vroulike stam van die stamme op -mant- en -vant- is -mat-ī en -vat-ī. Die deklinering is soos by devī, d.w.s. daar is geen stamgradering nie.
 
-Beispiel:
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+Voorbeeld:
+* paśumatī, guṇavatī ⟪पशुमती गुणवती⟫
 
 :::
 
-## 13.9. Wortliste
+## 13.9. Woordelys
 
-Lernen Sie folgende Wörter:
+Leer die volgende woorde:
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
+- **eva** ⟪एव⟫ : beklemtoon die vorige woord
+- **asura** m. ⟪असुर⟫ : demoon
 
-> **ASURA.** 'Spiritual, divine.'
->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
->
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+&gt; **ASURA.** 'Geestelik, goddelik.'
+\&gt;
+&gt; In die oudste dele van die Ṛgveda word hierdie term gebruik vir die hoogste gees, en is dieselfde as die Ahura van die Zoroastriete. In die sin van 'god' is dit toegepas op verskeie van die hoofgode, soos Indra, Agni en Varuṇa. Dit het daarna 'n heeltemal teenoorgestelde betekenis aangeneem en het, soos nou, 'n demoon of vyand van die gode gaan beteken.
+\&gt;
+&gt; Die woord kom met hierdie betekenis voor in die latere gedeeltes van die Rigveda, veral in die laaste boek, en ook in die Atharvaveda. Die Brahmana's heg dieselfde betekenis daaraan, en neem baie stryde tussen die Asura's en die gode op. Volgens die Taittirīya Brāhmaṇa het die asem *(asu)* van Prajapati lewendig geword, en "met daardie asem het hy my, die Asuras, geskep." In 'n ander deel van dieselfde werk word gesê dat Prajāpati "swanger geword het. Hy het Asuras uit sy buik geskep." Die Śatapatha Brāhmaṇa stem ooreen met die eerste stelling en verklaar dat "hy Asuras geskep het uit sy onderste asem." Die Taittirīya Āraṇyaka stel dit dat Prajāpati gode, mense, vaders, Gandharvas en Apsarases uit water geskep het, en dat die Asuras, Rakṣasas en piśācas uit die druppels wat gemors is, ontstaan het. Manu se stelling is dat hulle deur die Prajāpatis geskep is.
+\&gt;
+&gt; Volgens die Viṣṇu Purāṇa is hulle uit die lies van Brahma (prajāpati) voortgebring. Die weergawe van die Vāyu Purāṇa is: "Asuras is eers as seuns uit sy (Prajāpati se) lies voortgebring. *Asu* word deur Brāhmaṇa verklaar as asem. Daaruit is hierdie wesens voortgebring; daarom is hulle Asuras." Die woord word al lank gebruik as 'n algemene naam vir die vyande van die gode, insluitend die Daityas en Danavas en ander nakomelinge van Kaśyapa, maar nie die Rakṣasas wat van Pulastya afstam nie.
+\&gt;
+&gt; In hierdie sin is 'n ander afleiding daarvoor gevind: die bron is nie meer asu, 'asem,' nie, maar die aanvanklike *a* word as die negatiewe voorvoegsel beskou, en *asura* beteken 'nie 'n god nie;' hieruit het, volgens sommige, die woord *sura* ontstaan, wat algemeen gebruik word vir ''n god.'"
+\&gt;
+&gt; [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+Fig.: ⟪महिषासुरः⟫
+(Beeldbron: [Details](/af/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ : draad, koord; eienskap, goeie eienskap
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gaan, beland in
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : wees, daar wees
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : gooi, (weg)werp
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : gaan
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : beskerm, versorg
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : drink (tradisioneel tot die 1ste klas gereken)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : haat, vyandig wees
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : eet, verbruik
+**anna** n. ⟪अन्न⟫ : kos (uit PPP: *ad-na: die geëte)
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+Fig.: ⟪अन्नम्⟫
+(Beeldbron: [Details](/af/licenses#lekt1304))
 :::
-Wortbildung:
+Woordvorming:
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
+**pada** n. ⟪पद⟫ : stap, ligging, plek
 
-**pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
+**pāda** m. ⟪पाद⟫ : voet, 'n kwart, versreël
 :::
 
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+Fig.: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Beeldbron: [Details](/af/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Hass
+**dveṣa** ⟪द्वेष⟫ : haat
 :::
 
-## 13.10. Übung
+## 13.10. Oefening
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze:
+A) Vertaal en omskakel na aktiewe teenwoordige sinne:
 
-⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
+⟪१⟫. ⟪अग्निना गृहं दग्धम् । २⟫. ⟪बुद्धेन सत्यं बुद्धम् । ३⟫. ⟪बोध्या गौतमो मुक्तः ।⟫
 
 ::: media
 ![](/images/lekt1305.webp)
-Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Bildquelle: [Details](/licenses#lekt1305))
+Fig.: ⟪अत्र गौतमो बुद्धो बोध्या मुक्तः⟫
+(Bildquelle: [Details](/af/licenses#lekt1305))
 :::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
-⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
+⟪४⟫. ⟪शूद्रा मूढाः ।⟫ (2 Möglichkeiten)
+⟪५⟫. ⟪ब्राह्मणेन मोक्ष इष्टः । ६⟫. ⟪रामेण पुण्यं कृतम् । ७⟫. ⟪ऋषिभिः सत्यमेवोदितमित्युदितम् । ८⟫. ⟪धर्मेण स्वर्गं नीतम् । ९⟫. ⟪साधुनाधर्मो न कृतम् । १०⟫. ⟪मन्त्रेण मोक्षो लब्धः । ११⟫. ⟪कया रक्षिकयेयं बाला रक्षिता ॥⟫
 
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit:
+B) Vertaal en omskakel na passiewe sinne in die verlede tyd:
 
-⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
-⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
-⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्⟫ ⟪यजते⟫ ⟪।⟫
-⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
-⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪।⟫
-⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪कयर्ग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
-⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
+⟪१⟫. ⟪राम इष्टमपि मोक्षं न लभते । २⟫. ⟪योद्धा न मुञ्चति । ३⟫. ⟪साधवो देवान्स्मरन्ति । ४⟫. ⟪पुण्यवान्पुत्रो देवान् यजते । ५⟫. ⟪सुखवान्क्षत्रियो धर्मं रक्षति । ६⟫. ⟪पुत्रवान्नरकं न गच्छति । ७⟫. ⟪धर्मवती पापं न करोतीति गुरुर्वदति । ८⟫. ⟪बुद्धिमन्तः सत्यवतो धर्मं पृच्छन्ति । ९⟫. ⟪धर्मवन्तः फलवत्पुण्यं कुर्वन्ति । १०⟫. ⟪ब्राह्मणा गुणवतः पुत्रानिच्छन्ति । ११⟫. ⟪कयर्ग्वेदं शृण्वन्ति । १२⟫. ⟪किमीश्वरः सृजति । १३⟫. ⟪साधुः कृतं पापं सहते । १४⟫. ⟪पार्थिवो धनमिच्छतीति नीचा मन्यन्ते । १५⟫. ⟪नैवासुरो जयतीत्यृषयः पश्यन्ति । १६⟫. ⟪ब्राह्मणाः किं पिबन्ति खादन्ति च ॥⟫
 
-## 13.11. Wiederholungsübung
 
-A) Übersetzen Sie folgende Sätze:
+## 13.11. Herhalingsoefening
 
-⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
-⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
-⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
-⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
-⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
-⟪८⟫. ⟪गुणवान्⟫ ⟪द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
-⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
+A) Vertaal die volgende sinne:
 
-B) Setzen Sie die Sätze Übung A) ins Passiv.
+⟪१⟫. ⟪रामो मार्गेण ग्रामं गच्छति । २⟫. ⟪नरा धनेन सुखमिच्छन्ति । ३⟫. ⟪नरः पुत्रेण नगरं पद्यते । ४⟫. ⟪देवो लोकान्सृजति । ५⟫. ⟪बाला जलं पिबति । ६⟫. ⟪कवयो धनं लुभ्यन्ति । ७⟫. ⟪बलवान्क्षत्रियः शूद्राञ्जयति । ८⟫. ⟪गुणवान् द्विष्टमपि शत्रुं न युध्यते । ९⟫. ⟪अधर्मः क्रोधश्च द्वेषश्च लोभश्चेत्यृषिर्वदति । १०⟫. ⟪बाला अन्नेन बलमाप्नुवन्ति । ११⟫. ⟪बुद्धिमन्तः सत्येन मोक्षं लभन्ते । १२⟫. ⟪इमाः साध्व्यः पापं सहन्ते । १३⟫. ⟪कां देवतामृषिः पश्यति । १४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या यजन्ते ।⟫
+B) Herskryf die sinne uit Oefening A) in die passiewe stem.
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion.
+C) Vorm 'n PPP-konstruksie vir die sinne uit Oefening A).
 
 ::: media
 ![](/images/lekt1302.webp)
-Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Bildquelle: [Details](/licenses#lekt1302))
+Fig.: ⟪सत्यमेव जयते⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt1302))
 :::
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
+D) Uit watter klankkombinasies kan die volgende Sandhi-vorme ontstaan het? Lys alle moontlikhede:
 
-1. -a vor Vokal (ausser a-)
+1. -a voor 'n vokaal (behalwe a-)
 2. -ā-
-3. -ā vor Vokal
-4. -ā vor stimmhaften Konsonanten
+3. -ā voor 'n vokaal
+4. -ā voor beklemtonede medeklinkers
 5. -ī-
 6. -ū-
 7. -ṝ-
 8. -e-
-9. -e vor Avagraha
+9. -e voor avagraha
 10. -o-
-11. -o vor Avagraha
-12. -o vor stimmhaften Konsonanten
+11. -o voor avagraha
+12. -o voor beklemtoonde medeklinkers
 13. -ai-
 14. -au-
-15. -y vor Vokal
-16. -v vor Vokal
-17. -r vor Vokal
-18. -ay vor Vokal
-19. -av vor Vokal
+15. -y voor 'n vokaal
+16. -v voor 'n vokaal
+17. -r voor 'n vokaal
+18. -ay voor 'n vokaal
+19. -av voor 'n vokaal
 20. -ar-
-21. -ir vor Vokal oder stimmhaftem Konsonanten
-22. -īr vor Vokal oder stimmhaftem Konsonanten
-23. -ur vor Vokal oder stimmhaftem Konsonanten
-24. -ūr vor Vokal oder stimmhaftem Konsonanten
-25. -er vor Vokal oder stimmhaftem Konsonanten
-26. -or vor Vokal oder stimmhaftem Konsonanten
-27. -air vor Vokal oder stimmhaftem Konsonanten
-28. -aur vor Vokal oder stimmhaftem Konsonanten
+21. -ir voor 'n vokaal of 'n beklemde medeklinker
+22. -īr voor 'n vokaal of 'n beklemde medeklinker
+23. -ur voor 'n vokaal of 'n beklemde medeklinker
+24. -ūr voor 'n vokaal of 'n beklemde medeklinker
+25. -er voor 'n vokaal of 'n beklemtoonde medeklinker
+26. -or voor 'n vokaal of 'n beklemtoonde medeklinker
+27. -air voor 'n vokaal of 'n beklemtoonde medeklinker
+28. -aur voor 'n vokaal of 'n beklemtoonde medeklinker
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -329,21 +290,21 @@ D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? G
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. Anusvāra vor Konsonant
+36. Anusvara voor 'n medeklinker
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
-E) Übersetzen Sie ins Sanskrit:
+E) Vertaal in Sanskrit:
 
-1. Die Göttin war erzürnt.
-2. Śūdras sind in einen Himmel gelangt.
-3. Die Bauern sind den Weg gegangen.
-4. Durch die Buddhalehre wurden die Leute befreit.
-5. Der Sohn tanzte.
-6. Das Amulett hat den Lehrer beschützt.
-7. Ein Brahmane hat keine Unwahrheit gesagt.
-8. Śūdrafrauen haben die Göttin mit Opfern verehrt.
-9. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt.
-10. Die vedischen Weisen haben die Śruti gehört.
-11. Die Opferpriester haben den Soma gepresst.
+1. Die godin was verontwaardig.
+2. Die Śūdras het 'n hemel bereik.
+3. Die boere het die pad geloop.
+4. Deur die leringe van die Boeddha is die mense bevry.
+5. Die seun het gedans.
+6. Die amulet het die onderwyser beskerm.
+7. 'n Brahmin het nie 'n leuen gespreek nie.
+8. Die Śūdra-vroue het die godin met offers aanbid.
+9. Die Boeddha het tot die waarheid ontwaak = Die Boeddha het die waarheid besef.
+10. Die Vediese wyse manne het die Śruti gehoor.
+11. Die offerpriesters het die Soma gepers.

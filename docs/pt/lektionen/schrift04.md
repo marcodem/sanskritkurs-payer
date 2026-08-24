@@ -4,24 +4,24 @@
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: ponto sobre a letra que precede o som: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: Ponto sobre a letra que precede o som: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
 
-Schreibung:
+Escrita:
 
 ![](/images/schrift007.jpg)
 
-Beachten Sie die obligatorische Schreibung von hṛ: ⟪हृ⟫
+Note a escrita obrigatória de hṛ: ⟪हृ⟫
 
 ## Exercício
 
-A) Schreiben Sie in Devanāgarī:
+A) Escreva em Devanāgarī:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 
-B) Lesen und translitterieren Sie:
+B) Leia e translitere:
 
 ⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
 
-Zu Lektion 6
+Para a Lição 6
 
-Para o exercício de escrita 5
+Para o Exercício de Escrita 5

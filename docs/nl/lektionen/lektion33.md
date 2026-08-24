@@ -100,9 +100,9 @@ Voorbeelden:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicatief praesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfectum** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optatief** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indicatief praesens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+| **Imperfectum** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
+| **Optatief** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
 ## 33.3. Over de ablaut van ā
 

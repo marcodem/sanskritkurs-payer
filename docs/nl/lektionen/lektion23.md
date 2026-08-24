@@ -63,7 +63,7 @@ Van de tot dusver geleerde wortels verdienen de volgende infinitieven bijzondere
 ::: indent
 ⟪गम्⟫ : ⟪गन्तुम् प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als versterkende trap van -ṛ- hebben in de infinitief:
 
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫

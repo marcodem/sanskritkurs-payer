@@ -2,9 +2,9 @@
 pageClass: license-page
 ---
 
-# Image License Audit
+# Bild-Lizenzen Audit
 
-| File | Found Source Information | Preview |
+| Stamm | Gefundene Quell-Angabe | Vorschau |
 |---|---|---|
 | <a id="icon_32"></a> `icon_32.png` | Nicht in Lektionen verwendet (verwaist) | N/A |
 | <a id="lekt0102"></a> `lekt0102.jpg` | Abb.: Gaṇeśa, Adamspeak, Sri Lanka [Bildquelle: Wikipedia, gemeinfrei] | ![lekt0102.jpg](/images/lekt0102.webp) |

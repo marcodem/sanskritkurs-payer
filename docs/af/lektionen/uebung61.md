@@ -1,11 +1,12 @@
 ---
 title: "Oefening 61"
 uebung_id: 61
-category: "Oefening"
+category: "Übung"
+
 ---
 
 # Oefening 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+Lesing 61 vorm die afsluiting van die Sanskritkursus en bevat geen verdere skryfopdragte nie. 
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+Met die studie van wortelnomina, die perifrastiese toekoms tyd en denominatiewa is die grondslae vir die lees van Sanskrit-originele tekste gelê. Die kursus sluit af met die tradisionele aanroeping tot Gaṇeśa (⟪श्रीगणनाथ⟫), wat die oorgang van handboek na selfstandige leeswerk merk.

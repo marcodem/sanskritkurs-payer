@@ -6,63 +6,61 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----
+---# Les 41
 
-# Lektion 41
-
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫  (twee spreekwoorden)
 
 ::: indent
 ⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् । कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥१॥⟫
 :::
-Erklärung: ⟪पर⟫ "anderer"
+Uitleg: ⟪पर⟫ "ander"
 
 ::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
-Abb.: ⟪पुस्तकस्था च या विद्या⟫ ...
-(Bildquelle: [Details](/nl/licenses#lekt4102))
+Afb.: ⟪पुस्तकस्था च या विद्या⟫ ...
+(Afbeeldingsbron: [Details](/nl/licenses#lekt4102))
 :::
 
 ::: indent
 ⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये । पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥२॥⟫
 :::
-Erklärung: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
+Uitleg: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Overige ⟪कृत्⟫-vormen op -a
 
-### 41.2.1. Partizip Präsens (⟪लडादेशः⟫) Ā, Partizip Präsens (⟪लडादेशः⟫) Passiv, Partizip Futur (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Onvoltooid deelwoord (⟪लडादेशः⟫) Ā, onvoltooid deelwoord (⟪लडादेशः⟫) passief, toekomend deelwoord (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Thematische Präsensstämme, Passiv und Futur
+#### 41.2.1.1. Thematische tegenwoordige tijdstammen, passief en toekomende tijd
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
+Stam van de tegenwoordige tijd / passieve stam / toekomende tijdstam + -māna (vrouwelijk: mānā)
 :::
-Beispiele:
+Voorbeelden:
 
-⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "jemand, der im eignen Interesse mit einem Opfer verehrt = Opferherr"
+⟪यज्⟫ 1U, part. tegenw. Ā ⟪यजमान⟫ 3 „iemand die in eigen belang met een offer vereert = offerheer“
 
-⟪मन्⟫ 4Ā, Part.Präs.Ā  ⟪मन्यमान⟫ 3 "ein denkender"
+⟪मन्⟫ 4Ā, part. pres.Ā  ⟪मन्यमान⟫ 3 "een denker"
 
-⟪कृ⟫ 8U, Part.Präs.Passiv ⟪क्रियमाण⟫ 3 "etwas, das getan wird"
+⟪कृ⟫ 8U, part. pres. passief ⟪क्रियमाण⟫ 3 "iets dat wordt gedaan"
 
-⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "jemand, der im eignen Interesse geben wird"
+⟪दा⟫ 3U, part.toekomstĀ ⟪दास्यमान⟫ 3 "iemand die in eigen belang zal geven"
 
-#### 41.2.1.2. Athematische Präsensklassen
+#### 41.2.1.2. Athematische tegenwoordige tijdklassen
 
 ::: grammar-box
-**Bildung:**
+**Vorming:**
 
-Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
+Zwakke tegenwoordige tijdstam (in de vorm die deze heeft vóór de uitgang -ate van de 3e pers. m.Ā) + -āna (vrouwelijk -ānā)
 :::
-Beispiele:
+Voorbeelden:
 
 ::: grammar-box
-| Wurzel / Klasse | Partizip Präsens Ā |
+| Wortel / Klasse | Participium tegenwoordige tijd Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
-| ⟪हु⟫ 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| ⟪हु⟫ 3P | ⟪जुह्वान⟫:brju-hu + āna |
 | ⟪सु⟫ 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | ⟪रुध्⟫ 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |

@@ -160,7 +160,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | في مكان واحد | [51](/ar/lektionen/lektion51#_51-6-) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يشدد الكلمة السابقة | [13](/ar/lektionen/lektion13#_13-9-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يؤكد ما سبق، ويتوافق في الألمانية غالبًا مع التوكيد، وهو نوع من الرموز التعبيرية \<!\>، مثلًا "الحقيقة فقط تنتصر"، | [15](/ar/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | يؤكد ما سبق، ويتوافق في الألمانية غالبًا مع التوكيد، وهو نوع من الرموز التعبيرية \<!\>، مثلًا "الحقيقة فقط تنتصر"، "بالض | [15](/ar/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

@@ -1,22 +1,21 @@
 ---
-title: Lektion 57
+title: "Lesing 57"
 subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 57
+---# Les 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. Aoristus 4: s-aoristus
 
 ::: grammar-box
-**Der s-Aorist wird zu den meisten ⟪अनिट्⟫-Wurzeln gebildet, sofern sie nicht ausschliesslich eine andere Aoristform haben. Fakultative ⟪अनिट्⟫-Wurzeln können im allgemeinen wahlweise diesen oder den iṣ-Aorist bilden. Auch ⟪अनिट्⟫-Wurzeln, die das ⟪परस्मैपद⟫ nach der 1.,2. oder 6. Form des Aorist bilden, bilden das ⟪आत्मनेपद⟫ nach dem s-Aorist.**
+Die s-aorist word gevorm met die meeste ⟪अनिट्⟫ wortels, mits hulle nie uitsluitlik 'n ander aoristvorm het nie. Opsionele ⟪अनिट्⟫ wortels kan oor die algemeen óf hierdie óf die iṣ-aorist vorm. Net so vorm ⟪अनिट्⟫-wortels wat die ⟪परस्मैपद⟫ ná die 1ste, 2de of 6de vorm van die aorist, vorm die ⟪आत्मनेपद⟫ volgens die s-aorist.**
 
-**Bildung: Augment + Wurzel + s + athematische Sekundärendung**
+**Vorming: augment + wortel + s + athemiese sekondêre uitgang**
 :::
-Tabelle der Endungen mit Stammbildungssuffix
+Tabel van uitgange met stamvormende agtervoegsels
 
 ::: grammar-box
 
@@ -28,79 +27,78 @@ Tabelle der Endungen mit Stammbildungssuffix
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**Es wird das allgemeine Lautgesetz angewendet, dass ein Zischlaut zwischen zwei Verschlusslauten ausfällt (vgl. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.h. das Stammbildungssuffix -s- vor Endungen, die mit -t- oder -th- beginnen, entfällt (nicht aber nach Nasalen oder r-).**
+Die algemene fonologiese reël geld dat 'n sibilant weggelaat word tussen twee plosiewe (vergelyk ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), d.w.s. die stamvormende agtervoegsel -s- word weggelaat voor uitganges wat met -t- of -th- begin (maar nie na neusklinkers of r- nie).**
 
-Beispiele:
+Voorbeelde:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟫:sig[⟪क्षिप्त⟫]
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
+3de sing. Ā a-kṣip + s + ta » ⟪अ⟫:sig[⟪क्षिप्त⟫]
+2de sing. Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
 :::
-Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden:
-
+Sulke vorme kan ook tot die stam-aoristus behoort en behoort waarskynlik deels daaraan.
+Indiese grammatikusse het ook vorme soos ⟪अकृत⟫ geklassifiseer (3de persoon enkelvoud Ā) as behorend tot die s-aorist, alhoewel hulle duidelik tot die stam-aorist behoort. Hiervoor het die Indiese grammatikus die volgende ad hoc fonologiese reël vir die s-aorist opgestel:
 ::: indent
-"Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-."
+"Na 'n kort vokaal verloor 'uitgange' wat met -st- of -sth- begin die -s-."
 :::
-Sonst sind die Lautregeln für die Verbindung auslautender Konsonanten mit s- zu beachten.
+Anders moet die fonologiese reëls wat die kombinasie van slotmedeklinkers met 's-' reguleer, nagekom word.
 
-Für -dhvam gilt:
+Die volgende geld vir -dhvam:
 
 ::: grammar-box
-**Das -dh- von -dhvam wird nach allen Nicht-a/ā-Vokalen sowie nach -r durch -ḍh- ersetzt.**
+**Die -dh- in -dhvam word ná alle nie-a/ā-vokale en ná -r vervang deur -ḍh-.**
 
 :::
 ::: indent
-z.B. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
+bv. :sig[⟪चि⟫] 5U: 2de vpl. Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
-**Form der Wurzel:**
+**Vorm van die wortel:**
 
-*   **⟪परस्मैपद⟫ : Dehnstufe**
+*   **⟪परस्मैपद⟫ : Lang vorm**
 *   **⟪आत्मनेपद⟫ :**
-    *   **Wurzeln mit auslautendem i/ī/u/ū: Hochstufe**
-    *   **auslautendes -ṝ wird durch -īr oder -ūr ersetzt**
-    *   **ablautfähige Wurzeln auf ā/e/o: Tiefstufe**
-    *   **andere Wurzelvokale: unverändert (d.h. in der Regel tiefstufig)**
+    *   **Woordstamme wat in i/ī/u/ū eindig: hoë graad**
+    *   **'n Finale -ṝ word vervang deur -īr of -ūr**
+    *   **Swortels wat in ā/e/o kan eindig: lae graad**
+    *   **Ander swartwortels: onveranderd (d.w.s. oor die algemeen lae graad)**
 :::
-Beispiele:
+Voorbeelde:
 
-|   | **3.sg.P** |
+|   | **3de persoon enkelvoud teenwoordige tyd** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
+| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
 | ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
 | ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
 
-|   | **3.sg.Ā** |
+|   | **derde persoon enkelvoud Ā** |
 | --- | --- |
-| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
+| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
 | ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
-|   | **1.sg.Ā** |
+|   | **1ste persoon enkelvoud Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ und ⟪सृज्⟫ haben im ⟪परस्मैपद⟫ Dehnstufe mit steigendem Diphton -rā-:**
+**⟪दृश्⟫ en ⟪सृज्⟫ het 'n verlengingsstadium in ⟪परस्मैपद⟫ met 'n stygende diftong -rā-:
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
+⟪दृश्⟫ 3de persoon enkelvoud passief ⟪अ⟫:sig[⟪द्राक्षी⟫]⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Die aorist van ander wortels met -ṛ- in die voorlaaste posisie kan ook op hierdie wyse gevorm word:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
+⟪कृष्⟫ 1ste persoon enkelvoud, 6de persoon meervoud, 3de enkelvoud, teenwoordige tyd ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
-Paradigmen:
+Paradigmas:
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U "om te lei"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -111,10 +109,10 @@ Paradigmen:
 
 ::: media
 ![](/images/lekt5701.webp)
-Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt5701))
+Fig.: ⟪भीमराव रामजी आंबेडकर⟫ (⟪१८९१ १९५६⟫) ⟪। सो ऽनैषीद्दलितान् ॥⟫
+(Beeldbron: [Details](/af/licenses#lekt5701))
 :::
-⟪कृ⟫ 8U "tun"
+⟪कृ⟫ 8U "doen"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -123,7 +121,7 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | :sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | :sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
 
-⟪तुद्⟫ 6U "schlagen"
+⟪तुद्⟫ 6U "slaan"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -133,26 +131,21 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box
-**Unregelmässige Formen:**
+**Onreël vorme:**
 
-**1.  Wurzeln auf Nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) bilden den s-Aorist hochstufig:**
-**⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**Daneben gibt es für ⟪गम्⟫ die regelmässigen tiefstufigen Formen:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (im P hat ⟪गम्⟫ den themavokalischen Aorist)**
+**1. Wortstamme op nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) vorm die s-aorist met hoë graad:**
+**⟪अगंसि । अमंसि । अरंस्त⟫**
+**Daarbenewens bestaan vir ⟪गम्⟫ die reëlmatige vorme met laë graad:**
+**⟪अगसि⟫ (« \*a-gm-si) ⟪। अगथास् । अगत⟫ (in die P het ⟪गम्⟫ die tema-vokalistiese aorist)**
+2.  ⟪पद्⟫ 4Ā is gereeld (bv. ⟪अपत्सि⟫), maar in die derde persoon enkelvoud neem Ā die vorm van die passiewe aoriststam aan:
+    ⟪अपादि⟫ "hy het gegaan"
 
-2.  ⟪पद्⟫ 4Ā ist regelmässig (z.B. ⟪अपत्सि⟫), in der 3.sg.Ā hat es aber die Form des passivischen Wurzelaorist:
+3.  ⟪बुध्⟫ Ā kan opsioneel die vorm van die passiewe aorist in die derde persoon enkelvoud aanneem:
+    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "hy het herken"
 :::
-::: indent
-⟪अपादि⟫ "er ging"
-:::
+## 57.2. Oefening
 
-3.  ⟪बुध्⟫ Ā kann in der 3.sg.Ā wahlweise die Form des passiven Wurzelaorists annehmen:
-::: indent
-⟪अबोधि⟫ / ⟪अबुद्ध⟫ "er erkannte"
-:::
-## 57.2. Übung
-
-A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Aoristformen. Ausser bei Kausativen und Wurzeln, die den s-Aorist bilden, ist in Klammer die Klasse des entsprechenden Aorists angegeben:
+A) Vertaal en identifiseer die volgende vorme sonder die gebruik van verwysingsmateriaal, en vorm die ooreenstemmende aorist-vorme. Behalwe vir kausatiewe en wortels wat die s-aorist vorm, word die klas van die ooreenstemmende aorist in hakies aangedui:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)
@@ -180,7 +173,7 @@ A) Übersetzen und bestimmen Sie ohne Hilfsmittel folgende Formen und bilden Sie
 24.  ⟪कर्षन्ति⟫
 25.  ⟪अप्रच्छयन्⟫
 
-B) Übersetzen und bestimmen Sie folgende Formen:
+B) Vertaal en identifiseer die volgende vorme:
 
 1.  ⟪चेलुः⟫
 2.  ⟪जन्तुः⟫
@@ -238,4 +231,3 @@ B) Übersetzen und bestimmen Sie folgende Formen:
 54.  ⟪आदि्षि⟫
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
-

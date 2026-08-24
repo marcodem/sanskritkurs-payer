@@ -159,7 +159,7 @@ outline: 2
 | சமஸ்கிருதம் | IAST | பால் | தமிழ் | பாடம் |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | ஒரு இடத்தில் | [51](/ta/lektionen/lektion51#_51-6-) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | முந்தையதை வலியுறுத்துகிறது, ஜெர்மனில் பெரும்பாலும் வலியுறுத்தலுக்கு இணங்குகிறது, ஒரு விதமான Emoticon \<!\>, எ.கா " | [15](/ta/lektionen/lektion15#_15-8-) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | முந்தையதை வலியுறுத்துகிறது, ஜெர்மனில் பெரும்பாலும் வலியுறுத்தலுக்கு இணங்குகிறது, ஒரு விதமான Emoticon \<!\>, எ.கா "உண்மை  | [15](/ta/lektionen/lektion15#_15-8-) |
 
 ## ओ
 

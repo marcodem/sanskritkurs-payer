@@ -1,112 +1,113 @@
 ---
 title: "Exercício 9"
 uebung_id: 9
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+A) Tente determinar os possíveis significados das seguintes palavras:
 
-1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
+1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. aquele que é apenas semelhante a um brâmane = um brâmane ruim
 
-2\. mati ⟪मति⟫ : f. Meinung
+2\. mati ⟪मति⟫ : f. opinião
 
-3\. śravaṇa ⟪श्रवण⟫ : n. Ohr
+3\. śravaṇa ⟪श्रवण⟫ : n. ouvido
 
-4\. dhenuka ⟪धेनुक⟫ : m. (Koitus) in der Art einer Kuh
+4\. dhenuka ⟪धेनुक⟫ : m. (coito) à maneira de uma vaca
 
-5\. jayaka ⟪जयक⟫ : 3 siegreich
+5\. jayaka ⟪जयक⟫ : 3 vitorioso
 
-6\. rakṣikā ⟪रक्षिका⟫ : f. Wächterin, Amulett
+6\. rakṣikā ⟪रक्षिका⟫ : f. guardiã, amuleto
 
-7\. karṣaka ⟪कर्षक⟫ : 3 pflügend ; m. Ackerbauer
+7\. karṣaka ⟪कर्षक⟫ : 3 arando ; m. agricultor
 
-8\. kleśa ⟪क्लेश⟫ : m. Qual
+8\. kleśa ⟪क्लेश⟫ : m. tormento
 
-9\. nāyikātva ⟪नायिकात्व⟫ : n. Zustand einer Geliebten
+9\. nāyikātva ⟪नायिकात्व⟫ : n. estado de uma amante
 
-10\. tantraka ⟪तन्त्रक⟫ : 3 (eben) von der Webkette / dem Webstuhl kommend = neu gewebt
+10\. tantraka ⟪तन्त्रक⟫ : 3 (recém) vindo da cadeia de urdume / do tear = tecido novo
 
-11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : Tänzer
+11\. nartaka (f. nartakī) ⟪नर्तक⟫ (⟪नर्तकी⟫) : dançarino
 
-12\. naraka ⟪नरक⟫ : m. Hölle
+12\. naraka ⟪नरक⟫ : m. inferno
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. HERR-Sein
+14\. īśvaratā ⟪ईश्वरता⟫ : f. ser o Senhor
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
-16\. yodhaka ⟪योधक⟫ : m. Kämpfer
+16\. yodhaka ⟪योधक⟫ : m. combatente
 
-17\. kopa ⟪कोप⟫ : m. Zorn
+17\. kopa ⟪कोप⟫ : m. ira
 
-18\. veśaka ⟪वेशक⟫ : 3 eintretend
+18\. veśaka ⟪वेशक⟫ : 3 entrando
 
-19\. darśaka ⟪दर्शक⟫ : 3 sehend
+19\. darśaka ⟪दर्शक⟫ : 3 vendo
 
-20\. kopaka ⟪कोपक⟫ : 3 jemand, der leicht zornig ist, jähzornig
+20\. kopaka ⟪कोपक⟫ : 3 alguém que fica facilmente irritado, irascível
 
-B) Übersetzen Sie:
+B) Traduza:
 
-1\. Aufgaben aller Zweimalgeborenen:
+1\. Tarefas de todos os duas vezes nascidos:
 
 ijyādhyayanadānāni ⟪इज्याध्ययनदानानि⟫
 
 (Yājñavalkyadharmaśāstra I, 118)
 
-Opfer, Vedastudium, Gaben geben.
+Sacrifício, estudo dos Vedas, dar ofertas.
 
-2\. Spezifische Aufgaben eines Brahmanen:
+2\. Tarefas específicas de um brâmane:
 
 pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रतिग्रहाः⟫
 
 (Gautamadharmasūtra X,2)
 
-Lehren, Opfern im Auftrag, Annahme von Gaben.
+Ensinar, sacrificar por encomenda, aceitar ofertas.
 
-3\. Spezifische Aufgaben eines Kṣatriya:
+3\. Tarefas específicas de um kṣatriya:
 
-rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं सर्वभूतानाम्⟫
 
-(sarvabhūtānām = Genetiv (Wesfall): "aller Wesen")
+(sarvabhūtānām = genitivo: "de todos os seres")
 
 (Gautamadharmasūtra X,7)
 
-Hüten aller Wesen.
+Proteger todos os seres.
 
-4\. Spezifische Aufgaben eines Vaiśya:
+4\. Tarefas específicas de um Vaiśya:
 
 kṛṣivāṇijyapāśupālyakusīdam ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
 
-(nach Gautamadharmasūtra X,49)
+(de acordo com o Gautamadharmasūtra X,49)
 
-Ackerbau, Handel, Viehhaltung und Geldleihe.
+Agricultura, comércio, criação de gado e empréstimo de dinheiro.
 
-5\. Aufgaben eines Śūdra:
+5\. Tarefas de um Śūdra:
 
-dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं⟫ ⟪शुश्रूषा⟫ ⟪वार्त्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्विजातीनं शुश्रूषा वार्त्त्ता कारुकुशीलवकर्म च⟫
 
-(nach Kauṭilīya-arthaśāstra 1.3.8.)
+(de acordo com o Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
-dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
+Explicação:
+dvijātīnām = Genitivo (Caso de Posse) Plural de dvijāti (traduza aqui: "em relação aos Duas-Nascidos")
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma é um Tatpuruṣa com um Dvandva (kārukuśīlava) no primeiro membro. karma = Nom. sg. de karman n. "Ato, Atividade, Karma" da raiz kṛ 8 U). Traduza "Ato / Atividade dos ... (Genitivo)" (indicado pelo Dvandva).
 
-Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
+Obediência aos Duas-Nascidos, atividades para o sustento, atividade como artesão ou artista ambulante.
 
-6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫
+6\. kṛṣiḥ pāśupālyaṃ vaṇijyā ca vārttā. ⟪कृषिः पाशुपाल्यं वणिज्या च वार्त्ता⟫
 
-(nach Kauṭilīya-arthaśāstra 1.4.1.)
+(de acordo com o Kauṭilīya-arthaśāstra 1.4.1.)
 
-Ökonomie ist Ackerbau, Viehhaltung und Handel.
+A economia é agricultura, criação de gado e comércio.
 
 ::: media
 ![](/images/uebung013.webp)
-Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Bildquelle: [Details](/licenses#uebung013))
+Fig.: ⟪रक्षणं सर्वभूतानाम्⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung013))
 :::

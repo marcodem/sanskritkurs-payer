@@ -1,79 +1,80 @@
 ---
-title: Lektion 34
+title: "[Bài 34]"
 lesson_id: 34
 status: stable
+
 ---
 
-# Lektion 34
+# Bài 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. Thì hoàn thành (⟪लिट्⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip.
+Trong tiếng Phạn cổ điển, từ gốc của thì hoàn thành chỉ có dạng Khẳng định và Phân từ.
 
 ::: grammar-box
-**Es gibt zwei Arten der Perfektbildung:**
-*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫**
-*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫**
+**Có hai cách hình thành thì hoàn thành:**
+*   **thì hoàn thành lặp lại = ⟪द्वित्वलिट्⟫**
+*   **thì hoàn thành vòng quanh = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:**
-1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)**
-2. **bei Wurzeln, die mit einem langen Vokal (ausser ā-) beginnen, bzw. mit einem Vokal (ausser a-) vor zwei Konsonanten**
-3. **bei einigen sonstigen Wurzeln**
+**Thì hoàn thành vòng quanh (⟪अनुप्रयोगलिट्⟩) được sử dụng:**
+1. **đối với các dạng chia phái sinh (Nguyên nhân, Mong muốn, Thường xuyên, Danh từ hóa)**
+2. **đối với các gốc bắt đầu bằng nguyên âm dài (trừ ā-) hoặc bằng một nguyên âm (trừ a-) đứng trước hai phụ âm**
+3. **đối với một số gốc khác nữa**
 :::
-## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+## 34.2. Thì hoàn thành lặp lại (⟪द्वित्वलिट्⟩)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Phân tầng gốc
 
 ::: grammar-box
-**Bildung:**
+**Hình thành:**
 
-**starker Stamm:** Singular Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
+**Gốc mạnh:** Số ít Parasmaipada
+*   **gốc ở bậc cao hoặc bậc kéo dài được lặp lại + đuôi thì hoàn thành**
 
-**schwacher Stamm:** alle übrigen Formen
-*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+**Gốc yếu:** tất cả các dạng còn lại
+*   **gốc ở bậc thấp được lặp lại + đuôi thì hoàn thành**
 :::
 ::: grammar-box
-**Generell (auch ausserhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+**Nói chung (cả ngoài thì hoàn thành) không có phân tầng gốc là các gốc có dạng:**
+*   **(Phụ âm)-Phụ âm-Nguyên âm dài-Phụ âm**
+*   **(Phụ âm)-Phụ âm-Nguyên âm-Phụ âm-Phụ âm**
 
-**Im Perfekt haben ausserdem keine Stammabstufung Wurzeln der Form:**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**Ngoài ra, trong thì hoàn thành không có phân tầng gốc là các gốc có dạng:**
+*   **a-Phụ âm**
+*   **ā-Phụ âm**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. Đuôi thì hoàn thành
 
 ::: grammar-box
 
-| | 3. Singular | 3. Plural |
+| | Số ít ngôi 3 | Số nhiều ngôi 3 |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.3. Nguyên âm nối -i-
 
 ::: grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
+**Trước đuôi số nhiều ngôi 3 Ā (-re) luôn xuất hiện nguyên âm nối -i-, trước các đuôi còn lại bắt đầu bằng phụ âm ở hầu hết các gốc.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. Sự lặp lại của các gốc bắt đầu bằng phụ âm
 
 ::: grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
+**Các quy tắc về sự lặp lại của các phụ âm đầu được đưa ra trong [Bài 33](lektion33.md) áp dụng.**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
+**Nguyên âm lặp lại đối với các gốc bắt đầu bằng phụ âm là nguyên âm gốc ngắn.**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
+**Các nguyên âm kép đứng trước phụ âm được rút gọn thành nguyên âm bậc thấp ngắn tương ứng.**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+**ṛ, ṝ, ḷ và các nguyên âm kép cuối được lặp lại bằng -a-.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Gốc | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪भिद्⟫ | :sig[⟪बि⟫]⟪भेद⟫ |
 | ⟪मुच्⟫ | :sig[⟪मु⟫]⟪मोच⟫ |
@@ -81,102 +82,102 @@ Beispiele:
 
 :::
 ::: grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
+**Một số gốc bắt đầu bằng y- hoặc v- lặp lại bằng i- hoặc u-, cái sau "hòa tan" với nguyên âm gốc trong các dạng yếu.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gốc | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+### 34.2.5. Sự lặp lại của các gốc bắt đầu bằng nguyên âm
 
 ::: grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.**
+**1. a-, ā- đầu được lặp lại bằng a-, dẫn đến xuất hiện ā-.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Gốc | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "là" và ⟪अस्⟫ 4 "ném" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.**
+**2. Các gốc bắt đầu bằng i- có âm tiết lặp lại là iy- trong dạng mạnh, và i- trong dạng yếu, cái sau "hòa tan" với nguyên âm gốc thành ī-. Điều tương tự cũng đúng đối với u- đầu.**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gốc | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-**
+**3. Các gốc động từ bắt đầu bằng a- trước hai phụ âm hoặc bằng ṛ-, có âm lặp lại là ān-**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Gốc động từ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Typen des reduplizierten Perfekts
+## 34.3. Các loại hoàn thành lặp lại
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
-*   unregelmässige Perfektbildungen
+Nguyên tắc phân loại: Những đặc điểm của sự biến đổi gốc:
+*   Hoàn thành không có biến đổi gốc: Loại I
+*   Hoàn thành có biến đổi gốc: Loại II - V
+*   Các hình thái hoàn thành bất quy tắc
 
-## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
+## 34.4. Hoàn thành Loại I: Hoàn thành không có biến đổi gốc
 
 ::: grammar-box
-**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**Hoàn thành Loại I (không có biến đổi gốc) được hình thành từ các gốc động từ thuộc các loại:**
+*   **(Phụ âm)-Phụ âm-Nguyên âm dài-Phụ âm**
+*   **(Phụ âm)-Phụ âm-Nguyên âm-Phụ âm-Phụ âm**
+*   **a-Phụ âm**
+*   **ā-Phụ âm**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. | 3. pl. Perf. |
+| Gốc động từ | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "là":br⟪अस्⟫ 4 "ném" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunlặp lại bất quy tắc! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+## 34.5. Hoàn thành Loại II: Gốc mạnh ở bậc cao, gốc yếu ở bậc thấp
 
 ::: grammar-box
-**Wird gebildet von Wurzeln der Form:**
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
+**Được hình thành từ các gốc động từ có dạng:**
+*   **(Phụ âm)-(Phụ âm)-i/u/ṛ/ḷ-Phụ âm**
 
-**Bildung:**
-*   **starker Stamm: Hochstufe**
-*   **schwacher Stamm: Tiefstufe**
+**Hình thành:**
+*   **Gốc mạnh: Bậc cao**
+*   **Gốc yếu: Bậc thấp**
 :::
-Beispiele:
+Ví dụ:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Gốc động từ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
 | ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
@@ -185,84 +186,84 @@ Beispiele:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. Danh sách từ vựng
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. và pl.:** hạt giống, cây trồng, ngũ cốc
 
 ::: media
 ![](/images/lekt3406.webp)
 Abb.: ⟪सस्यम्⟫
-Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+Ruộng lúa ở Ấn Độ.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** bao lâu, to lớn như thế nào
 
-**⟪तावत्⟫ :** so lange, so gross
+**⟪तावत्⟫ :** lâu như thế, to lớn như thế
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** cao nhất
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.n.:** hòn đảo, lục địa
 
 ::: media
 ![](/images/lekt3405.webp)
 Abb.: ⟪लक्षद्वीपाः⟫
-Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+Bản đồ Quần đảo Lakshadweep.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** hữu hạn (liên quan đến ⟪मृ⟫)
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** hạt mè (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
 Abb.: ⟪तिलाः⟫
-Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+Hạt mè.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
 Abb.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+Cây mè đang ra hoa.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** (có màu sắc đẹp =) vàng
 
 ::: media
 ![](/images/lekt3402.webp)
 Abb.: ⟪स्वर्णम्⟫
-Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+Đền Vàng (Harmandir Sahib), Amritsar.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** nơi ở, đền thờ
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ f.:** đỉnh nhọn; 10 triệu
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** tốt nhất
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.n.:** đồng bằng, mặt phẳng
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** con bò đực
 
 ::: media
 ![](/images/lekt3401.webp)
 Abb.: ⟪ऋषभः⟫
-Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+Tượng bò Nandi, Đồi Chamundi, Mysore.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** kiềm chế, giữ lại, dâng lên, ban cho
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** đưa ra, cung cấp, giao nộp
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
+**⟪या⟫ 2P ⟪याति⟫ :** đi, di chuyển
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ f.:** cô gái, trinh nữ
 
-## 34.7. Übung
+## 34.7. Bài tập
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen:
+Hãy tạo các dạng thức hoàn thành (Perfekt) tương ứng về ngôi, số và giống cho các dạng động từ sau:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -296,38 +297,30 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. Bài tập dịch thuật
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen:
+Hãy dịch đoạn văn sau từ ⟪पद्मपुराण⟫ về việc cúng dường cho các vị Brahman:
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫:sig[⟪त्तम⟫] ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫:sig[⟪श्चतुर्दश⟫] ⟪॥१॥⟫  
-:sig[⟪सप्त⟫]⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
-⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
-⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
-⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
-⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
-⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
-⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
+⟪क्षितिं सशस्यां यो दद्याद्ब्राह्मणाय द्विजो⟫:sig[⟪त्तम⟫] ⟪। विष्णुलोके सुखं भुङ्क्ते यावदिन्द्रा⟫:sig[⟪श्चतुर्दश⟫] ⟪॥१॥⟫  
+sig[⟪सप्त⟫]⟪द्वीपां महीं दत्त्वा यत्पुण्यं प्राप्यते द्विज । तत्पुण्यं प्राप्नुयान्मर्त्यो धेनुं यच्छन्द्विजातये ॥२॥ तिलप्रमाणं स्वर्णं यो ब्राह्मणाय प्रयच्छति । हरिनिकेतनं याति युक्तं कोटिकुलैरपि ॥३॥ सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥ अन्नं वारि द्विजश्रेष्ठ येन दत्तं महीतले । तेन दत्तानि दानानि सर्वाणि च द्विजर्षभ ॥५॥⟫
 
-Erklärungen:
+Giải thích:
 
 ::: indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "Gott!"
+**Cách gọi (Vokativ) số ít** của giống đực / trung tính kết thúc bằng -a sẽ kết thúc bằng -a: ví dụ, ⟪देव⟫ "Hỡi Thần linh!"
 
-⟪चतुर्दश⟫ vierzehn
+⟪चतुर्दश⟫ mười bốn
 
-⟪सप्त⟫ sieben
+⟪सप्त⟫ bảy
 
-⟪जन्म⟫ Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt
+⟪जन्म⟫ Cách gọi/Cách đối (Nom./Akk.) số ít của **⟪जन्मन्⟫ n.** sự sinh ra
 
-**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination)
+**⟪सर्व⟫ 3** "tất cả, hoàn toàn" (chia theo biến cách đại danh từ)
 :::
 ::: media
 ![](/images/lekt3407.webp)
-Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫:sig[⟪र्जन्म⟫] ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
-Hindu wedding ritual.
-(Bildquelle: [Details](/licenses#lekt3407))
+Abb.: ⟪सालङ्कारां द्विजश्रेष्ठ कन्यां यच्छति यो नरः । स गच्छेद्ब्रह्मसदनं पुन⟫:sig[⟪र्जन्म⟫] ⟪न विद्यते ॥४॥⟫
+Nghi thức cưới Hindu.
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt3407))
 :::
 

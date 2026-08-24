@@ -1,182 +1,150 @@
 ---
 title: "Oefening 17"
 uebung_id: 17
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 17
 
-# Oefening 17
+A) Vul die werkwoord in die volgende sinne in en vertaal dit:
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+⟪१⟫. ⟪ब्राह्मनो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫) ⟪। ब्रवीति । वक्ति । वदति ।⟫
+'n Brahmin spreek nie onwaarhede nie.
 
-⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
-⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-Ein Brahmane spricht keine Unwahrheit.
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫) ⟪। पाति । रक्षति ।⟫
+'n Kshatriya beskerm die mense.
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
-⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
-Ein Kṣatriya hütet die Leute.
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫) ⟪। द्विजारीञ्जयति । द्विजारीन्हन्ति । युध्यते ।⟫
+Die magtige kryger oorwin / verslaan / beveg die vyande van die Tweegeborenes.
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
-⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Der mächtige Kämpfer besiegt / tötet / bekämpft die Feinde der Zweimalgeborenen.
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫) ⟪। स्तौति । स्तुते । यजते । यजति ।⟫
+Die Brahmin-digter prys die Heer van die Wêreld. (of: …bring 'n offer… aan die Heer van die Wêreld)
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
-⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Der brahmanische Dichter preist den HERRN der Welt. (oder: ...opfert... dem HERRN der Welt)
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫) ⟪। अत्ति । दहति ।⟫
+Die vuur verteer / verbrand die kos.
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
-⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
-Das Feuer verzehrt / verbrennt die Speise.
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫) ⟪। दोग्धि । दुग्धे । रक्षति । पाति ।⟫
+Die jong Vaiśya melk / versorg die koei.
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
-⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-Der junge Vaiṣya melkt / hütet die Kuh.
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫) ⟪। गच्छति । एति । पद्यते ।⟫
+'n Dienaar van die Tweegeborenes loop langs die wildspoor na die Brahmin-dorp.
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
-⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Ein Diener der Zweimalgeborenen geht auf dem Wildwechsel ins Brahmanendorf.
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫) ⟪। द्विजदासः शूद्रो ऽस्ति ।⟫ ... ⟪शूद्रो भवति ।⟫
+'n Śūdra is 'n dienaar van die TweemalGeborenes.
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
-⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-Ein Śūdra ist Knecht der Zweimalgeborenen.
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫) ⟪। रोदिति । बालब्राह्मण्याते । म्रियते ।⟫
+Die klein Brahmin-meisie huil / sit / sterf.
+⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫) ⟪। द्वेष्टि । द्विष्टे । न करोति । न कुरुते ।⟫
+'n Goeie persoon haat onreg. (of: ...doen geen onreg nie.)
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
-⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-Die kleine Brahmanin weint / sitzt / stirbt.
+B) Sit die agent en die werkwoord in die sinne wat in A) gevorm is, in die meervoud
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
-⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
-Eine gute Person hasst das Unrecht. (oder: ...tut kein Unrecht.)
-
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
-
-⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Plural von ⟪वच्⟫ kommt nicht vor) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
-
-⟪२⟫. ⟪क्षत्रिया⟫ ⟪जनान्पान्ति⟫ ⟪।⟫ ⟪रक्षन्ति⟫ ⟪।⟫
-
-⟪३⟫. ⟪बलवद्योधा⟫ ⟪द्विजारीञ्जयन्ति⟫ ⟪।⟫ ... ⟪द्विजारीन्घन्ति⟫ ⟪।⟫ ⟪युध्यन्ते⟫ ⟪।⟫
-
-⟪४⟫. ⟪ब्राह्मणकवयो⟫ ⟪लोकेश्वरं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ ⟪स्तुवते⟫ ⟪।⟫ ⟪यजन्ति⟫ ⟪।⟫ ⟪यजन्ते⟫ ⟪।⟫
-
-⟪५⟫. ⟪अग्नयो⟫ ⟪यज्ञान्नमदन्ति⟫ ⟪।⟫ ⟪दहन्ति⟫ ⟪।⟫
-
-⟪६⟫. ⟪बालवैश्या⟫ ⟪धेनुं⟫ ⟪दुहन्ति⟫ ⟪।⟫ ⟪दुहते⟫ ⟪।⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪पान्ति⟫ ⟪।⟫
-
-⟪७⟫. ⟪द्विजदासा⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪यन्ति⟫ ⟪।⟫ ⟪पद्यन्ते⟫ ⟪।⟫
-
-⟪८⟫. ⟪द्विजदासाः⟫ ⟪शूद्राः⟫ ⟪सन्ति⟫ ⟪।⟫ ... ⟪शूद्रा⟫ ⟪भवन्ति⟫ ⟪।⟫
-
-⟪९⟫. ⟪बालब्राह्मण्या⟫ ⟪रुदन्ति⟫ ⟪।⟫ ⟪बालब्राह्मण्य⟫ ⟪आसते⟫ ⟪।⟫ ⟪बालब्राह्मण्यो⟫ ⟪म्रियन्ते⟫ ⟪।⟫
-
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
+⟪१⟫. ⟪ब्राह्मणा अनृतं न ब्रुवन्ति ।⟫ (die meervoud van ⟪वच्⟫ kom nie voor nie) ⟪। वदन्ति । २⟫. ⟪क्षत्रिया जनान्पान्ति । रक्षन्ति । ३⟫. ⟪बलवद्योधा द्विजारीञ्जयन्ति ।⟫ ... ⟪द्विजारीन्घन्ति । युध्यन्ते । ४⟫. ⟪ब्राह्मणकवयो लोकेश्वरं स्तुवन्ति । स्तुवते । यजन्ति । यजन्ते । ५⟫. ⟪अग्नयो यज्ञान्नमदन्ति । दहन्ति । ६⟫. ⟪बालवैश्या धेनुं दुहन्ति । दुहते । रक्षन्ति । पान्ति । ७⟫. ⟪द्विजदासा मृगमार्गेण ब्राह्मणग्रामं गच्छन्ति । यन्ति । पद्यन्ते । ८⟫. ⟪द्विजदासाः शूद्राः सन्ति ।⟫ ... ⟪शूद्रा भवन्ति । ९⟫. ⟪बालब्राह्मण्या रुदन्ति । बालब्राह्मण्य आसते । बालब्राह्मण्यो म्रियन्ते । १०⟫. ⟪साधुजनो ऽधर्मं द्विषन्ति । द्विषते । न कुर्वन्ति । न कुर्वते ।⟫
 
 ::: media
 ![](/images/uebung025.webp)
-Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
-(Bildquelle: [Details](/licenses#uebung025))
+Fig.: ⟪बालब्राह्मणी रोदिति⟫
+(Beeldbron: [Details](/licenses#uebung025))
 :::
 ---
 
-## Verbformen-Übung
+## Werkswoorde-oefening
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
+Vertaal die volgende werkswoorde en noem die ooreenstemmende stam:
 
-⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): sie essen
+⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): hulle eet
 
-⟪२⟫. ⟪सन्ति⟫ (⟪अस्⟫ 2P): sie sind
+⟪२⟫. ⟪सन्ति⟫ (⟪अस्⟫ 2P): hulle is
 
-⟪३⟫. ⟪आसते⟫ (⟪आस्⟫ 2Ā): sie sitzen
+⟪३⟫. ⟪आसते⟫ (⟪आस्⟫ 2Ā): hulle sit
 
-⟪४⟫. ⟪यन्ति⟫ (⟪इ⟫ 2P): sie gehen
+⟪४⟫. ⟪यन्ति⟫ (⟪इ⟫ 2P): hulle loop
 
-⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): er wünscht
+⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): hy wens
 
-⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): sie tun (im eigenen Interesse)
+⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): hulle doen (in hul eie belang)
 
-⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): sie gehen
+⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): hulle
 
-⟪८⟫. ⟪जायते⟫ (⟪जन्⟫ 4Ā): er entsteht
+⟪८⟫. ⟪जायते⟫ (⟪जन्⟫ 4Ā): ontstaan
 
-⟪९⟫. ⟪जयति⟫ (⟪जि⟫ 1P): er siegt
+⟪९⟫. ⟪जयति⟫ (⟪जि⟫ 1P): oorwin
 
-⟪१०⟫. ⟪तनोति⟫ (⟪तन्⟫ 8U): er spannt auf
+⟪१०⟫. ⟪तनोति⟫ (⟪तन्⟫ 8U): span
 
-⟪११⟫. ⟪दहति⟫ (⟪दह्⟫ 1P): er verbrennt
+⟪११⟫. ⟪दहति⟫ (⟪दह्⟫ 1P): brand
 
-⟪१२⟫. ⟪दोग्धि⟫ (⟪दुह्⟫ 2U): er melkt
+⟪१२⟫. ⟪दोग्धि⟫ (⟪दुह्⟫ 2U): melk
 
-⟪१३⟫. ⟪पश्यति⟫ (⟪दृश्⟫ 4P): er sieht
+⟪१३⟫. ⟪पश्यति⟫ (⟪दृश्⟫ 4P): sien
 
-⟪१४⟫. ⟪द्विष्टे⟫ (⟪द्विष्⟫ 2U): er hasst
+⟪१४⟫. ⟪द्विष्टे⟫ (⟪द्विष्⟫ 2U): haat
 
-⟪१५⟫. ⟪नयन्ति⟫ (⟪नी⟫ 1U): sie führen
+⟪१५⟫. ⟪नयन्ति⟫ (⟪नी⟫ 1U): lei
 
-⟪१६⟫. ⟪नृत्यति⟫ (⟪नृत्⟫ 4P): er tanzt
+⟪१६⟫. ⟪नृत्यति⟫ (⟪नृत्⟫ 4P): dans
 
-⟪१७⟫. ⟪पद्यन्ते⟫ (⟪पद्⟫ 4Ā): sie schreiten
+⟪१७⟫. ⟪पद्यन्ते⟫ (⟪पद्⟫ 4Ā): stap
 
-⟪१८⟫. ⟪पिबति⟫ (⟪पा⟫ 1P): er trinkt
+⟪१८⟫. ⟪पिबति⟫ (⟪पा⟫ 1P): drink
 
-⟪१९⟫. ⟪पान्ति⟫ (⟪पा⟫ 2P): sie hüten
+⟪१९⟫. ⟪पान्ति⟫ (⟪पा⟫ 2P): versorg
 
-⟪२०⟫. ⟪पृच्छति⟫ (⟪प्रच्छ्⟫ 6P): er fragt
+⟪२०⟫. ⟪पृच्छति⟫ (⟪प्रच्छ्⟫ 6P): vra
 
-⟪२१⟫. ⟪बुध्यन्ते⟫ (⟪बुध्⟫ 4Ā): sie erwachen
+⟪२१⟫. ⟪बुध्यन्ते⟫ (⟪बुध्⟫ 4Ā): ontwaak
 
-⟪२२⟫. ⟪ब्रवीति⟫ (⟪ब्रू⟫ 2U): er spricht
+⟪२२⟫. ⟪ब्रवीति⟫ (⟪ब्रू⟫ 2U): praat
 
-⟪२३⟫. ⟪भवन्ति⟫ (⟪भू⟫ 1P): sie werden
+⟪२३⟫. ⟪भवन्ति⟫ (⟪भू⟫ 1P): word
 
-⟪२४⟫. ⟪मन्यते⟫ (⟪मन्⟫ 4Ā): er meint
+⟪२४⟫. ⟪मन्यते⟫ (⟪मन्⟫ 4Ā): bedoel
 
-⟪२५⟫. ⟪मुञ्चन्ति⟫ (⟪मुच्⟫ 6U): sie befreien
+⟪२५⟫. ⟪मुञ्चन्ति⟫ (⟪मुच्⟫ 6U): vry
 
-⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): sie sterben
+⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): sterf
 
-⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): er opfert als Opferherr
+⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): offer as offermeester
 
-⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): sie kämpfen
+⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): veg
 
-⟪२९⟫. ⟪रक्षति⟫ (⟪रक्ष्⟫ 1P): er hütet
+⟪२९⟫. ⟪रक्षति⟫ (⟪रक्ष्⟫ 1P): versorg
 
-⟪३०⟫. ⟪रोदिति⟫ (⟪रुद्⟫ 2P): er heult
+⟪३०⟫. ⟪रोदिति⟫ (⟪रुद्⟫ 2P): huil
 
-⟪३१⟫. ⟪लभते⟫ (⟪लभ्⟫ 1Ā): er erhält
+⟪३१⟫. ⟪लभते⟫ (⟪लभ्⟫ 1Ā): kry
 
-⟪३२⟫. ⟪वक्ति⟫ (⟪वच्⟫ 2P): er spricht
+⟪३२⟫. ⟪वक्ति⟫ (⟪वच्⟫ 2P): praat
 
-⟪३३⟫. ⟪वदति⟫ (⟪वद्⟫ 1P): er spricht
+⟪३३⟫. ⟪वदति⟫ (⟪वद्⟫ 1P): praat
 
-⟪३४⟫. ⟪शृणोति⟫ (⟪श्रु⟫ 5P): er hört
+⟪३४⟫. ⟪शृणोति⟫ (⟪श्रु⟫ 5P): hoor
 
-⟪३५⟫. ⟪स्तौति⟫ (⟪स्तु⟫ 2U): er lobt
+⟪३५⟫. ⟪स्तौति⟫ (⟪स्तु⟫ 2U): loof
 
-⟪३६⟫. ⟪स्मरति⟫ (⟪स्मृ⟫ 1P): er vergegenwärtigt
+⟪३६⟫. ⟪स्मरति⟫ (⟪स्मृ⟫ 1P): verbeeld
 
-⟪३७⟫. ⟪हन्ति⟫ (⟪हन्⟫ 2P): er erschlägt
+⟪३७⟫. ⟪हन्ति⟫ (⟪हन्⟫ 2P): slaan
 
-⟪३८⟫. ⟪अश्नुवते⟫ (⟪अश्⟫ 5Ā): sie erreichen
+⟪३८⟫. ⟪अश्नुवते⟫ (⟪अश्⟫ 5Ā): bereik
 
-⟪३९⟫. ⟪कुप्यते⟫ (⟪कुप्⟫ 4P): es wird gezürnt
+⟪३९⟫. ⟪कुप्यते⟫ (⟪कुप्⟫ 4P): word kwaad
 
-⟪४०⟫. ⟪कर्षन्ति⟫ (⟪कृष्⟫ 6U): sie ziehen
+⟪४०⟫. ⟪कर्षन्ति⟫ (⟪कृष्⟫ 6U): trek
 
-⟪४१⟫. ⟪उद्यते⟫ (⟪वद्⟫ 1P): es wird gesagt
+⟪४१⟫. ⟪उद्यते⟫ (⟪वद्⟫ 1P): word gesê
 
-⟪४२⟫. ⟪सहन्ते⟫ (⟪सह्⟫ 1Ā): sie ertragen
+⟪४२⟫. ⟪सहन्ते⟫ (⟪सह्⟫ 1Ā): verdra
 
-⟪४३⟫. ⟪सिच्यन्ते⟫ (⟪सिच्⟫ 6U): sie werden beträufelt
+⟪४३⟫. ⟪सिच्यन्ते⟫ (⟪सिच्⟫ 6U): word besprinkel
+⟪४४⟫. ⟪आप्नोति⟫ (⟪आप्⟫ 5P): dit bereik
 
-⟪४४⟫. ⟪आप्नोति⟫ (⟪आप्⟫ 5P): er erreicht
+⟪४५⟫. ⟪जीव्यते⟫ (⟪जीव्⟫ 1P): die lewe word geleef
 
-⟪४५⟫. ⟪जीव्यते⟫ (⟪जीव्⟫ 1P): es wird gelebt
-
-⟪४६⟫. ⟪दिश्यन्न्ते⟫ (⟪दिश्⟫ 6U): sie werden gezeigt
+⟪४६⟫. ⟪दिश्यन्न्ते⟫ (⟪दिश्⟫ 6U): hulle word gewys
 
 ::: media
 ![](/images/uebung026.webp)
-Abb.: ⟪शृणोति⟫
-(Bildquelle: [Details](/licenses#uebung026))
+Fig.: ⟪शृणोति⟫
+(Beeldbron: [Besonderhede](/licenses#uebung026))
 :::

@@ -20,9 +20,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optatif** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | ⟪जुहुषे⟫ | ⟪जुहुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | ⟪अजुहुथास्⟫ | ⟪अजुहुध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
 :::
 ⟪धा⟫ 2U
 
@@ -105,7 +105,7 @@ Gbr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Latihan
 
-A) Translate into Sanskrit (for past tense forms, please use the imperfect \<⟪लङ्⟫\>):
+A) Translate into Sanskrit (for past tense forms, please use the imperfect ⟪लङ्⟫):
 
 1\. You are dividing the (Buddhist) community.
 

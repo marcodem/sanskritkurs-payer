@@ -1,65 +1,63 @@
 ---
 title: "Oefening 45"
 uebung_id: 45
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 45
 
-# Oefening 45
+A) Vertaal in Sanskrit (gebruik die onvoltooide tyd vir die verlede):
 
-A) Übersetzen Sie ins Sanskrit (verwenden Sie für die Vergangenheit das Imperfekt):
+⟪१⟫. **⟪सङ्घं भिनत्सि ॥ १ ॥⟫**
+Jy verdeel die (Boeddhistiese) gemeenskap.
 
-⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Du spaltest die (buddhistische) Gemeinde.
+⟪२⟫. **⟪किं महीमभुङ्क्त ॥ २ ॥⟫**
+Het jy die aarde geniet?
 
-⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Habt ihr die Erde genossen?
+⟪३⟫. **⟪किं राज्ञो दानमादत्थाः ॥ ३ ॥⟫** (Of: **... ⟪राज्ञा⟫ ...**)
+Het u 'n geskenk van die koning ontvang?
 
-⟪३⟫. **⟪किं⟫ ⟪राज्ञो⟫ ⟪दानमादत्थाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Oder: **... ⟪राज्ञा⟫ ...**)
-Hast du vom König eine Gabe empfangen?
+⟪४⟫. **⟪साधो कस्माद्भयेभ्यो न बिभेषि ॥ ४ ॥⟫**
+Heilige man, waarom is u nie bang vir gevaar nie?
 
-⟪४⟫. **⟪साधो⟫ ⟪कस्माद्भयेभ्यो⟫ ⟪न⟫ ⟪बिभेषि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
+⟪५⟫. **⟪पितः कुत्र गच्छन्कुलं जहासि ॥ ५ ॥⟫**
+Vader, waarheen gaan jy dat jy die familie verlaat?
 
-⟪५⟫. **⟪पितः⟫ ⟪कुत्र⟫ ⟪गच्छन्कुलं⟫ ⟪जहासि⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Vater, wohin gehend verlässt du die Familie?
+⟪६⟫. **⟪शूद्रे ऽपि धनिनो ब्राह्मणस्य गृहं भारमबिभः ॥ ६ ॥⟫**
+Śūdra-vrou, het jy dalk die vrag na die huis van die ryk Brahmin gedra?
 
-⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra-Frau, hast du etwa die Last in das Haus des reichen Brahmanen getragen?
+⟪७⟫. **⟪देवि कृतपुण्यस्य वैश्यस्य सुखेष्टिं पिपूर्याः ॥ ७ ॥⟫**
+Godin, jy behoort die wens vir geluk van die Vaiśya wat verdienstelike dade verrig het, te vervul.
 
-⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen.
+⟪८⟫. **⟪हस्तिनो बन्धनानि न भञ्ज्यात ॥ ८ ॥⟫** (Of: **... ⟪न भिन्द्यात ॥⟫**)
+Olifante, julle behoort nie die bande te breek nie.
 
-⟪८⟫. **⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (Oder: **... ⟪न⟫ ⟪भिन्द्यात⟫ ⟪॥⟫**)
-Elefanten, ihr solltet die Fesseln nicht zerbrechen.
+⟪९⟫. **⟪नरसिंह कस्माद्ब्रह्मणि न समादधासि ॥ ९ ॥⟫**
+O man soos 'n leeu, waarom rig jy nie jou aandag heeltemal op die Absolute nie?
 
-⟪९⟫. **⟪नरसिंह⟫ ⟪कस्माद्ब्रह्मणि⟫ ⟪न⟫ ⟪समादधासि⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Du löwengleicher Mann, warum richtest du deine Aufmerksamkeit nicht ganz auf das Absolute?
-
-⟪१०⟫. **⟪कवे⟫ ⟪कच्चिल्लोकानमिमीथाः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-Hast du, o Dichter, etwa die Welten gemessen?
+⟪१०⟫. **⟪कवे कच्चिल्लोकानमिमीथाः ॥ १० ॥⟫**
+Het jy, o digter, dalk die wêrelde gemeet?
 
 ---
 
-## Übungstexte
+## Oefeningtekste
 
-B) Übersetzen Sie:
+B) Vertaal:
 
-⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, entweder wirst du getötet und den Himmel erreichen, oder du wirst siegen und die Erde geniessen. Deshalb ist von dir zu kämpfen (musst du kämpfen).
+⟪१⟫. **⟪अर्जुन हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीं । तस्माद्भवता योध्यम् ॥ १ ॥⟫**
+Arjuna, of jy sal gedood word en die hemel bereik, of jy sal oorwin en die aarde geniet. Daarom moet jy veg.
 
-⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Ehrwürdige, wie haben Sie das unendliche Leiden beendet?
+⟪२⟫. **⟪भवति कथमनन्तदुःखमरुणत् ॥ २ ॥⟫**
+Eerbiedige, hoe het u die oneindige lyding beëindig?
 
-⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Brahmane, hast du Ghee ins Opferfeuer gegossen?
+⟪३⟫. **⟪ब्राह्मण किमग्नौ घृतमजुहोः ॥ ३ ॥⟫**
+Brahman, het u ghee in die offerbrandwerp gegooi?
 
-⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Feind, mit dem Schwert spaltest du nicht die Seele (das Leben).
+⟪४⟫. **⟪शत्रो शस्तेण जीवं न छिनत्सि ॥ ४ ॥⟫**
+Vyand, met die swaard skeur jy nie die siel (die lewe) in twee nie.
 
 ::: media
 ![](/images/uebung074.webp)
-Abb.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
-(Bildquelle: [Details](/licenses#uebung074))
+Afbeelding: ⟪हस्तिनो बन्धनानि न भञ्ज्यात । भिन्द्यात⟫
+(Beeldbron: [Details](/licenses#uebung074))
 :::

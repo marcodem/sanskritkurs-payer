@@ -1,107 +1,108 @@
 ---
 aside: true
 outline: [2, 3]
+
 ---
 
-# Grammatik Themen
+# Grammar Topics
 
-Diese Seite bietet eine systematische Übersicht über alle grammatikalischen Themen des Sanskrit-Kurses. Jede der 61 Lektionen ist hier thematisch eingeordnet.
+This page provides a systematic overview of all grammatical topics in the Sanskrit course. Each of the 61 lessons is categorized thematically here.
 
-## 1. Lautlehre & Schrift (Saṃhitā & Lipi)
+## 1. Phonology & Script (Saṃhitā & Lipi)
 
-*   **Einführung in die Laute**: Systematik und Aussprache -\> [Lektion 1](/lektionen/lektion01)
-*   **Schrifteinführung (Devanāgarī)**:
-    *   Vokale und einfache Konsonanten -\> [Lektion 40](/lektionen/lektion40)
-    *   Verbundkonsonanten (Ligaturen) -\> [Lektion 41](/lektionen/lektion41) & [Lektion 42](/lektionen/lektion42)
-*   **Sandhi (Lautverbindung)**:
-    *   Sandhi von auslautendem **-s/Visarga** -\> [Lektion 2](/lektionen/lektion02), [Lektion 3](/lektionen/lektion03), [Lektion 30](/lektionen/lektion30)
-    *   Sandhi von **-m, -e, -d** -\> [Lektion 4](/lektionen/lektion04)
-    *   **Vokalsandhi** -\> [Lektion 3](/lektionen/lektion03), [Lektion 24](/lektionen/lektion24)
-    *   Sandhi von **-n** -\> [Lektion 7](/lektionen/lektion07)
-    *   Sandhi für **Nasale** -\> [Lektion 21](/lektionen/lektion21), [Lektion 26](/lektionen/lektion26)
-    *   Cerebralisation (**n -\> ṇ / s -\> ṣ**) -\> [Lektion 10](/lektionen/lektion10), [Lektion 26](/lektionen/lektion26)
-    *   Wortsandhi (h-, ch-) -\> [Lektion 44](/lektionen/lektion44), [Lektion 51](/lektionen/lektion51)
-    *   **Konsonantensandhi** (Zusammenfassungen) -\> [Lektion 16](/lektionen/lektion16), [Lektion 43](/lektionen/lektion43)
+*   **Introduction to Sounds**: Systematics and pronunciation -\> [Lesson 1](/sh/lektionen/lektion01)
+*   **Script Introduction (Devanāgarī)**:
+*   Vowels and simple consonants -\> [Lesson 40](/sh/lektionen/lektion40)
+*   Conjunct consonants (ligatures) -\> [Lesson 41](/sh/lektionen/lektion41) & [Lesson 42](/sh/lektionen/lektion42)
+*   **Sandhi (Sound Combination)**:
+*   Sandhi of final **-s/Visarga** -\> [Lesson 2](/sh/lektionen/lektion02), [Lesson 3](/sh/lektionen/lektion03), [Lesson 30](/sh/lektionen/lektion30)
+*   Sandhi of **-m, -e, -d** -\> [Lesson 4](/sh/lektionen/lektion04)
+*   **Vowel Sandhi** -\> [Lesson 3](/sh/lektionen/lektion03), [Lesson 24](/sh/lektionen/lektion24)
+*   Sandhi of **-n** -\> [Lesson 7](/sh/lektionen/lektion07)
+*   Sandhi for **Nasals** -\> [Lesson 21](/sh/lektionen/lektion21), [Lesson 26](/sh/lektionen/lektion26)
+*   Cerebralization (**n -\> ṇ / s -\> ṣ**) -\> [Lesson 10](/sh/lektionen/lektion10), [Lesson 26](/sh/lektionen/lektion26)
+*   Word Sandhi (h-, ch-) -\> [Lesson 44](/sh/lektionen/lektion44), [Lesson 51](/sh/lektionen/lektion51)
+*   **Consonant Sandhi** (Summaries) -\> [Lesson 16](/sh/lektionen/lektion16), [Lesson 43](/sh/lektionen/lektion43)
 
-## 2. Wortkunde (Morphologie)
+## 2. Lexicology (Morphology)
 
-### 2.1 Substantive und Adjektive (Deklination)
+### 2.1 Nouns and Adjectives (Declension)
 
-*   **Grundlagen**: Kasuslehre -\> [Lektion 1](/lektionen/lektion01), [Lektion 2](/lektionen/lektion02)
-*   **A-Stämme** (Maskulinum & Neutrum) -\> [Lektion 2](/lektionen/lektion02), [Lektion 7](/lektionen/lektion07)
-*   **I- und U-Stämme** -\> [Lektion 3](/lektionen/lektion03), [Lektion 27](/lektionen/lektion27), [Lektion 52](/lektionen/lektion52)
-*   **Konsonantische Stämme**:
-    *   Stämme auf **-mant / -vant** -\> [Lektion 13](/lektionen/lektion13)
-    *   Stämme auf **-n** (Rājan, Ātman) -\> [Lektion 38](/lektionen/lektion38)
-    *   Einfache Konsonantenstämme -\> [Lektion 51](/lektionen/lektion51), [Lektion 54](/lektionen/lektion54)
-    *   Wurzelnomina auf **-ā, -ī, -ū** -\> [Lektion 61](/lektionen/lektion61)
-*   **Der Dual (Zweizahl)** der Nomina -\> [Lektion 49](/lektionen/lektion49), [Lektion 50](/lektionen/lektion50), [Lektion 53](/lektionen/lektion53)
-*   **Zahlen & Steigerung**:
-    *   Zahlwörter (Kardinalia/Ordinalia) -\> [Lektion 52](/lektionen/lektion52)
-    *   Steigerung (Komparativ/Superlativ) -\> [Lektion 53](/lektionen/lektion53)
+*   **Osnove**: Teorija padeža -\> [Lekcija 1](/sh/lektionen/lektion01), [Lekcija 2](/sh/lektionen/lektion02)
+*   **A-padeži** (Muški i Srednji rod) -\> [Lekcija 2](/sh/lektionen/lektion02), [Lekcija 7](/sh/lektionen/lektion07)
+*   **I- i U-padeži** -\> [Lekcija 3](/sh/lektionen/lektion03), [Lekcija 27](/sh/lektionen/lektion27), [Lekcija 52](/sh/lektionen/lektion52)
+*   **Suglasnički padeži**:
+*   Padeži na **-mant / -vant** -\> [Lekcija 13](/sh/lektionen/lektion13)
+*   Padeži na **-n** (Rājan, Ātman) -\> [Lekcija 38](/sh/lektionen/lektion38)
+*   Jednostavni suglasnički padeži -\> [Lekcija 51](/sh/lektionen/lektion51), [Lekcija 54](/sh/lektionen/lektion54)
+*   Korijenski imeni na **-ā, -ī, -ū** -\> [Lekcija 61](/sh/lektionen/lektion61)
+*   **Dual (Dvojina)** imenica -\> [Lekcija 49](/sh/lektionen/lektion49), [Lekcija 50](/sh/lektionen/lektion50), [Lekcija 53](/sh/lektionen/lektion53)
+*   **Brojevi i stupnjevanje**:
+*   Brojevne riječi (Kardinalni/Ordinalni) -\> [Lekcija 52](/sh/lektionen/lektion52)
+*   Stupnjevanje (Komparativ/Superlativ) -\> [Lekcija 53](/sh/lektionen/lektion53)
 
-### 2.2 Pronomina & Adverbien
+### 2.2 Zamjenice i prilozi
 
-*   **Pronomina**:
-    *   Frage- und Demonstrativpronomen -\> [Lektion 4](/lektionen/lektion04)
-    *   Relativpronomen (yad) -\> [Lektion 19](/lektionen/lektion19)
-    *   Personalpronomen (1. & 2. Person) -\> [Lektion 46](/lektionen/lektion46), [Lektion 47](/lektionen/lektion47)
-    *   Indefinitpronomina -\> [Lektion 37](/lektionen/lektion37)
-*   **Adverbien & Anrede**:
-    *   Bildung von Adverbien -\> [Lektion 37](/lektionen/lektion37), [Lektion 52](/lektionen/lektion52)
-    *   Höfliche Anrede & Vokativ -\> [Lektion 21](/lektionen/lektion21), [Lektion 44](/lektionen/lektion44)
+*   **Zamjenice**:
+*   Upitne i demonstrativne zamjenice -\> [Lekcija 4](/sh/lektionen/lektion04)
+*   Relativne zamjenice (yad) -\> [Lekcija 19](/sh/lektionen/lektion19)
+*   Osobne zamjenice (1. i 2. lice) -\> [Lekcija 46](/sh/lektionen/lektion46), [Lekcija 47](/sh/lektionen/lektion47)
+*   Neodređene zamjenice -\> [Lekcija 37](/sh/lektionen/lektion37)
+*   **Prilozi i obraćanje**:
+*   Oblikovanje priloga -\> [Lekcija 37](/sh/lektionen/lektion37), [Lekcija 52](/sh/lektionen/lektion52)
+*   Učtivo obraćanje i vokativ -\> [Lekcija 21](/sh/lektionen/lektion21), [Lekcija 44](/sh/lektionen/lektion44)
 
-### 2.3 Verben (Konjugation)
+### 2.3 Glagoli (konjugacija)
 
-*   **Das Präsenssystem (Indikativ)**:
-    *   Personalendungen (3., 2., 1. Person) -\> [Lektion 6](/lektionen/lektion06), [Lektion 44](/lektionen/lektion44), [Lektion 39](/lektionen/lektion39)
-    *   Thematische Klassen (1, 4, 6, 10) -\> [Lektion 6](/lektionen/lektion06), [Lektion 28](/lektionen/lektion28)
-    *   Athematische Klassen -\> [Lektion 17](/lektionen/lektion17), [Lektion 33](/lektionen/lektion33), [Lektion 7](/lektionen/lektion07), [Lektion 31](/lektionen/lektion31), [Lektion 8](/lektionen/lektion08), [Lektion 30](/lektionen/lektion30)
-*   **Andere Tempora & Modi**:
-    *   **Imperfekt** (Vergangenheit) -\> [Lektion 32](/lektionen/lektion32)
-    *   **Optativ & Imperativ** -\> [Lektion 30](/lektionen/lektion30), [Lektion 48](/lektionen/lektion48)
-    *   **Perfekt** (Singular/Plural) -\> [Lektion 34](/lektionen/lektion34), [Lektion 35](/lektionen/lektion35), [Lektion 36](/lektionen/lektion36)
-    *   **Perfekt (Dual)** -\> [Lektion 60](/lektionen/lektion60)
-    *   **Futur** (Einfach & Periphrastisch) -\> [Lektion 26](/lektionen/lektion26), [Lektion 61](/lektionen/lektion61)
-    *   **Aorist** (Vergangenheit) -\> [Lektion 54](/lektionen/lektion54), [Lektion 55](/lektionen/lektion55), [Lektion 56](/lektionen/lektion56), [Lektion 57](/lektionen/lektion57), [Lektion 58](/lektionen/lektion58)
-*   **Abgeleitete Verbformen**:
-    *   **Passiv & Kausativ** -\> [Lektion 10](/lektionen/lektion10), [Lektion 28](/lektionen/lektion28), [Lektion 29](/lektionen/lektion29)
-    *   **Intensivum & Denominativa** -\> [Lektion 61](/lektionen/lektion61)
-*   **Verben im Dual (Zweizahl)** -\> [Lektion 59](/lektionen/lektion59), [Lektion 60](/lektionen/lektion60)
+*   **Sustav prezensa (indikativ)**:
+*   Osobne nastavke (3., 2., 1. lice) -\> [Lekcija 6](/sh/lektionen/lektion06), [Lekcija 44](/sh/lektionen/lektion44), [Lekcija 39](/sh/lektionen/lektion39)
+*   Tematske klase (1, 4, 6, 10) -\> [Lekcija 6](/sh/lektionen/lektion06), [Lekcija 28](/sh/lektionen/lektion28)
+*   Atemske klase -\> [Lekcija 17](/sh/lektionen/lektion17), [Lekcija 33](/sh/lektionen/lektion33), [Lekcija 7](/sh/lektionen/lektion07), [Lekcija 31](/sh/lektionen/lektion31), [Lekcija 8](/sh/lektionen/lektion08), [Lekcija 30](/sh/lektionen/lektion30)
+*   **Drugi vremenski oblici i modovi**:
+*   **Imperfekt** (prošlost) -\> [Lekcija 32](/sh/lektionen/lektion32)
+*   **Optativ i imperativ** -\> [Lekcija 30](/sh/lektionen/lektion30), [Lekcija 48](/sh/lektionen/lektion48)
+*   **Perfekt** (jednina/množina) -\> [Lekcija 34](/sh/lektionen/lektion34), [Lekcija 35](/sh/lektionen/lektion35), [Lekcija 36](/sh/lektionen/lektion36)
+*   **Perfekt (dvojina)** -\> [Lekcija 60](/sh/lektionen/lektion60)
+*   **Futur** (jednostavni i periphrastični) -\> [Lekcija 26](/sh/lektionen/lektion26), [Lekcija 61](/sh/lektionen/lektion61)
+*   **Aorist** (prošlost) -\> [Lekcija 54](/sh/lektionen/lektion54), [Lekcija 55](/sh/lektionen/lektion55), [Lekcija 56](/sh/lektionen/lektion56), [Lekcija 57](/sh/lektionen/lektion57), [Lekcija 58](/sh/lektionen/lektion58)
+*   **Izvedeni glagolski oblici**:
+*   **Pasiv i kauzativ** -\> [Lekcija 10](/sh/lektionen/lektion10), [Lekcija 28](/sh/lektionen/lektion28), [Lekcija 29](/sh/lektionen/lektion29)
+*   **Intenzivum i denominativa** -\> [Lekcija 61](/sh/lektionen/lektion61)
+*   **Glagoli u dvojini** -\> [Lekcija 59](/sh/lektionen/lektion59), [Lekcija 60](/sh/lektionen/lektion60)
 
-### 2.4 Nominalbildungen & Komposita
+### 2.4 Nominalne tvorbe i kompoziti
 
-*   **Komposita (Samāsa)**:
-    *   **Dvandva** (Kopulativkomposita) -\> [Lektion 5](/lektionen/lektion05), [Lektion 9](/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinativ) -\> [Lektion 15](/lektionen/lektion15), [Lektion 18](/lektionen/lektion18)
-    *   Upapada-Komposita -\> [Lektion 51](/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessiv) -\> [Lektion 20](/lektionen/lektion20)
-*   **Suffixe & Partizipien**:
-    *   Wichtige Suffixe (-a, -ana, -tra, etc.) -\> [Lektion 8](/lektionen/lektion08), [Lektion 9](/lektionen/lektion09)
-    *   **PPP** (Partizip Perfekt Passiv) -\> [Lektion 12](/lektionen/lektion12), [Lektion 13](/lektionen/lektion13)
-    *   **PPA** (Partizip Perfekt Aktiv) -\> [Lektion 52](/lektionen/lektion52)
-    *   **Absolutivum & Infinitiv** -\> [Lektion 22](/lektionen/lektion22), [Lektion 23](/lektionen/lektion23)
+*   **Kompoziti (Samāsa)**:
+*   **Dvandva** (kopolativni kompozit) -\> [Lekcija 5](/sh/lektionen/lektion05), [Lekcija 9](/sh/lektionen/lektion09)
+*   **Tatpuruṣa** (determinativni kompozit) -\> [Lekcija 15](/sh/lektionen/lektion15), [Lekcija 18](/sh/lektionen/lektion18)
+*   Upapada-kompoziti -\> [Lekcija 51](/sh/lektionen/lektion51)
+*   **Bahuvrīhi** (posesivni kompozit) -\> [Lekcija 20](/sh/lektionen/lektion20)
+*   **Sufiksi i participi**:
+*   Važni sufiksi (-a, -ana, -tra, itd.) -\> [Lekcija 8](/sh/lektionen/lektion08), [Lekcija 9](/sh/lektionen/lektion09)
+*   **PPP** (particip perfekta pasiva) -\> [Lekcija 12](/sh/lektionen/lektion12), [Lekcija 13](/sh/lektionen/lektion13)
+*   **PPA** (particip perfekta aktiva) -\> [Lekcija 52](/sh/lektionen/lektion52)
+*   **Absolutiv i infinitiv** -\> [Lekcija 22](/sh/lektionen/lektion22), [Lekcija 23](/sh/lektionen/lektion23)
 
-## 3. Satzlehre (Syntax)
+## 3. Sintaksa rečenice (Sintaksa)
 
-*   **Der Nominalsatz** -\> [Lektion 2](/lektionen/lektion02)
-*   **Der Fragesatz** -\> [Lektion 37](/lektionen/lektion37)
-*   **Kasusgebrauch**:
-    *   Nominalsatz & Nominativ -\> [Lektion 2](/lektionen/lektion02)
-    *   Akkusativ (auch doppelt) -\> [Lektion 7](/lektionen/lektion07), [Lektion 11](/lektionen/lektion11)
-    *   Instrumentalis -\> [Lektion 10](/lektionen/lektion10)
-    *   Genitiv -\> [Lektion 14](/lektionen/lektion14)
-    *   Dativ -\> [Lektion 24](/lektionen/lektion24)
-    *   Ablativ -\> [Lektion 25](/lektionen/lektion25)
-    *   Lokativ -\> [Lektion 27](/lektionen/lektion27)
-*   **Nebensätze**:
-    *   Relativsätze -\> [Lektion 19](/lektionen/lektion19)
-    *   Gebrauch der Partizipien -\> [Lektion 12](/lektionen/lektion12), [Lektion 44](/lektionen/lektion44)
+*   **Nominalna rečenica** -\> [Lekcija 2](/sh/lektionen/lektion02)
+*   **Upitna rečenica** -\> [Lekcija 37](/sh/lektionen/lektion37)
+*   **Korišćenje padeža**:
+*   Nominalna rečenica i nominativ -\> [Lekcija 2](/sh/lektionen/lektion02)
+*   Akuzativ (takođe dvostruki) -\> [Lekcija 7](/sh/lektionen/lektion07), [Lekcija 11](/sh/lektionen/lektion11)
+*   Instrumental -\> [Lekcija 10](/sh/lektionen/lektion10)
+*   Genitiv -\> [Lekcija 14](/sh/lektionen/lektion14)
+*   Dativ -\> [Lekcija 24](/sh/lektionen/lektion24)
+*   Ablativ -\> [Lekcija 25](/sh/lektionen/lektion25)
+*   Lokativ -\> [Lekcija 27](/sh/lektionen/lektion27)
+*   **Podređene rečenice**:
+*   Relativne rečenice -\> [Lekcija 19](/sh/lektionen/lektion19)
+*   Korišćenje participâ -\> [Lekcija 12](/sh/lektionen/lektion12), [Lekcija 44](/sh/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. Metrika (Učenje o stihu)
 
-Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
+Sansktska filozofija i književnost često su sastavljene u stihovima. Metrika poučava ritam i strukturu tih stihova.
 
-*   **Einführung & Śloka** -\> [Lektion 45](/lektionen/lektion45), [Lektion 53](/lektionen/lektion53)
-*   **Fortgeschrittene Metren** (Trīṣṭubh, Jāgatī) -\> [Lektion 54](/lektionen/lektion54)
+*   **Uvod & Śloka** -\> [Lekcija 45](/sh/lektionen/lektion45), [Lekcija 53](/sh/lektionen/lektion53)
+*   **Napredni metri** (Trīṣṭubh, Jāgatī) -\> [Lekcija 54](/sh/lektionen/lektion54)
 

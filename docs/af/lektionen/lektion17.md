@@ -1,412 +1,320 @@
 ---
-title: Lektion 17
-subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
+title: "Lesing 17"
+subtitle: "Tweede teenwoordige klas (⟪अदादि⟫ = ⟪अद्⟫ ens.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 17
+---# Les 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. Tweede teenwoordige tydklas (⟪अदादि⟫ = ⟪अद्⟫ ens.)
 
-Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
+Die werkwoorduitgange word direk aan die wortel gevoeg. Hierby moet die klankveranderings wat uit woord-sandhi voortspruit, in ag geneem word.
 
 ::: grammar-box
 
-Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
+Die volgende afleidingsvorme bestaan in die tweede teenwoordige tydklas:
 
-1.  Wurzeln mit Stammabstufung
-    *   meistens: Hochstufe - Tiefstufe
-    *   einige Wurzeln: Dehnstufe - Tiefstufe
-2.  Wurzeln ohne Stammabstufung
-3.  zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+1.  Wortels met stamgradering 
+    *   gewoonlik: hoë graad – lae graad
+    *   sommige wortels: verlengde graad – lae graad 
+2.  Wortels sonder stamgradering 
+3.  Tweesilabiese wortels wat op -i/-ī eindig met stamgradering
 
 :::
-## 17.2. Wurzeln der zweiten Präsensklasse mit Stammabstufung Hochstufe - Tiefstufe
+## 17.2. Wortels van die tweede teenwoordige tydklas met stamgradering: hoë graad – lae graad
 
-Beispiele:
+Voorbeelde:
 
-⟪द्विष्⟫ 2 U "hassen"
+⟪द्विष्⟫ 2 U 'om te haat'
 
-*   starker Präsensstamm: dveṣ-
-*   schwacher Präsensstamm: dviṣ-
+*   sterk teenwoordige tydstam: dveṣ-
+*   swak teenwoordige tydstam: dviṣ-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. Präs. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3de sing. teenw. P | ⟪द्वेष्टि⟫ ('dveṣ + -ti') |
+| 3de pl. teenw. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3de pers. enk. teenw. Ā | ⟪द्विष्टे⟫ ('dviṣ + -te') |
+| 3de pl. teenw. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
 :::
-Hierbei wirkt folgendes Wortsandhigesetz:
+Die volgende reël van woord-sandhi is hier van toepassing:
 
 ::: grammar-box
-Wortsandhi von -ṣ + t(h)-
+Woord-sandhi van -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
-Weitere Beispiele:
+Verder voorbeelde:
 
-⟪इ⟫ 2 P "gehen" (Ā nach bestimmten Präverbien)
+⟪इ⟫ 2 P 'om te gaan' (Ā na sekere voorsetsels)
 
-*   starker Präsensstamm: e-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: i-
-    *   vor Vokal: y-/iy-
-
-::: no-header
-
-| | |
-| :--- | :--- |
-| 3\. sg. Präs. P | ⟪एति⟫ (e-ti) |
-| 3\. pl. Präs. P | ⟪यन्ति⟫ (y-anti) |
-| 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
-
-:::
-⟪दुह्⟫ 2 U "melken"
-
-*   starker Präsensstamm: doh-
-*   schwacher Präsensstamm: duh-
+*   sterk teenwoordige stam: e-
+*   swak teenwoordige stam:
+    *   voor 'n medeklinker: i-
+    *   voor 'n vokaal: y-/iy-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪दोग्धि⟫ (« doh- + -ti) |
-| 3\. pl. Präs. P | ⟪दुहन्ति⟫ (duh-anti) |
-| 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3de persoon enkelvoud teenwoordige tyd P | ⟪एति⟫ (e-ti) |
+| 3de pl. teenw. P | ⟪यन्ति⟫ (y-anti) |
+| 3de sing. teenw. Ā | ⟪इते⟫ (i-te) |
+| 3de pers. meerv. teenw. Ā | ⟪इयते⟫ (iy-ate) |
 
 :::
-⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
+⟪दुह्⟫ 2de persoon enkelvoud 'melk'
 
-*   starker Präsensstamm: han-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han-
+*   sterk teenwoordige stam: doh-
+*   swak teenwoordige stam: duh-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪हन्ति⟫ (han-ti) |
-| 3\. pl. Präs. P | ⟪घ्नन्ति⟫ (ghn-anti) |
-| 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3de sing. teenw. P | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3de vpl. teenw. P | ⟪दुहन्ति⟫ (duh-anti) |
+| 3de enk. teenw. Ā | ⟪दुग्धे⟫ ('duh- + -te') |
+| 3de pers. pl. teenw. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪अस्⟫ 2 P "sein"
+⟪हन्⟫ 2 P "slaag, slaan dood, doodge"
 
-*   starker Präsensstamm: as-
-*   schwacher Präsensstamm: s-
+*   Sterk teenwoordige stam: han-
+*   Swak teenwoordige stam:
+*   voor medeklinker: ha- (« \*hn-)
+*   voor klinker: ghn-/han-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. sg. teenw. P | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. teenw. P | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. teenw. Ā | ⟪हते⟫ (ha-te) |
+| 3\. pl. teenw. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
 :::
-## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
+⟪अस्⟫ 2 P "wees"
 
-Beispiel:
-
-⟪स्तु⟫ 2 U "preisen"
-
-*   starker Präsensstamm: stau-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: stu-
-    *   vor Vokal: stuv-
+*   Sterk teenwoordige stam: as-
+*   Swak teenwoordige stam: s-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
-| 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
-| 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. sg. teenw. P | ⟪अस्ति⟫ (as-ti) |
+| 3\. pl. teenw. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
+## 17.3. Wortstamme van die tweede teenwoordige klas met stamafwisseling lengtegraad - laaggraad
+
+Voorbeeld:
+
+⟪स्तु⟫ 2 U "loof"
+
+*   Sterk teenwoordige stam: stau-
+*   Swak teenwoordige stam:
+*   voor medeklinker: stu-
+*   voor klinker: stuv-
+
+::: no-header
+
+| | |
+| :--- | :--- |
+| 3\. sg. teenw. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
+| 3\. pl. teenw. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 3\. sg. teenw. Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. pl. teenw. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+
+:::
+## 17.4. Wortstamme van die tweede teenwoordige klas sonder stamafwisseling
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
+Sonder stamafwisseling is wortels van die tweede teenwoordige klas op -ā
 :::
-Beispiel:
+Voorbeeld:
 
-⟪पा⟫  2 P "schützen, behüten, hüten"
+⟪पा⟫ 2 P "beskerm, bewaak, hoed"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. sg. teenw. P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. teenw. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
 :::
-Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
+Ook sommige ander wortels van die tweede klas het geen stamafwisseling nie:
 
-Beispiele:
+Voorbeelde:
 
-⟪अद्⟫ 2 P "essen"
+⟪अद्⟫ 2 P "eet"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. sg. teenw. P | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. teenw. P | ⟪अदन्ति⟫ (ad-anti) |
 
 :::
-⟪आस्⟫ 2 Ā "sitzen"
+⟪आस्⟫ 2 Ā "sit"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. sg. Pres. Ā | ⟪आस्ते⟫ (ās-te) |
+| 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
-⟪वच्⟫ 2 P "sagen"
+⟪वच्⟫ 2 P "sê"
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 3\. sg. Pres. P | ⟪वक्ति⟫ (« vac- + -ti) |
+| 3\. pl. Pres. P | kom nie voor nie
 
 :::
-## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
+## 17.5. Tweesilabige wortstamme op -i/-ī met stamafwisseling
 
-Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
+Verskeie wortstamme is in 'n reeks vorme tweesilabig, d.w.s. hulle het voor konsonantiese eindings 'n -i (of voor sekere eindings -ī). Hierdie wortstamme word egter steeds deur inheemse grammatici en in woordeboeke ens. as eensilabig beskou.
 
-Beispiele:
+Voorbeelde:
 
-⟪रुद्⟫ 2 P "weinen, heulen"
+⟪रुद्⟫ 2 P "huil, jammer"
 
-*   starker Präsensstamm: rodi-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: rudi-
-    *   vor Vokal: rud-
+*   sterk teenwoordige stam: rodi-
+*   swakke teenwoordige stam:
+*   voor konsonant: rudi-
+*   voor klinker: rud-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. sg. Pres. P | ⟪रोदिति⟫ (rodi-ti) |
+| 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
-⟪ब्रू⟫ 2 U "sprechen"
+⟪ब्रू⟫ 2 U "praat"
 
-*   starker Präsensstamm: bravī- (« bro- + -ī)
-*   schwacher Präsensstamm:
-    *   vor Konsonant: brū-
-    *   vor Vokal: bruv-
+*   sterk teenwoordige stam: bravī- (« bro- + -ī)
+*   swakke teenwoordige stam:
+*   voor konsonant: brū-
+*   voor klinker: bruv-
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪ब्रवीति⟫ (bravī-ti) |
-| 3\. pl. Präs. P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
-| 3\. sg. Präs. Ā | ⟪ब्रूते⟫ (brū-te) |
-| 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
+| 3\. sg. Pres. P | ⟪ब्रवीति⟫ (bravī-ti) |
+| 3\. pl. Pres. P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
+| 3\. sg. Pres. Ā | ⟪ब्रूते⟫ (brū-te) |
+| 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
+Ook ⟪स्तु⟫ 2 U "loof" het naast die vorms onder 3. aangedui, vorms volgens hierdie patroon:
 
 ::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. Woordelys
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : slaan, doodslaan, doo
 
-davon:
+daarvan:
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.: doodslag
 :::
 
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+Afbeelding: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Beeldbron: [Details](/af/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sit
 
-davon:
+daarvan:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.: die sit, sitplek ; ook: yogi se sitposisies
 :::
 
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+Afbeelding: ⟪योगासनम्⟫
+(Beeldbron: [Details](/af/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : huil, jammer
 
-davon:
+daarvan:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.: (die huiler =) die stormgod Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ geen Passief en PPP: praat, sê (iets aan iemand: dubbele akkusatief)
 
-⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
+⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melk
 
 ::: media
 ![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
+Afbeelding: ⟪दोग्धि⟫
+(Beeldbron: [Details](/af/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : wys, aanwys, beveel
 
-davon:
+daarvan:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+⟪दिष्टि⟫ f.: aanwysing, gelukkige toeval
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+⟪दिष्ट्या⟫ Instr.: (letterlik: deur 'n gelukkige toeval) O gelukkige toeval (uitroep van vreugde en seën)
 :::
 
-## 17.7. Übung 1
+## 17.7. Oefening 1
 
-A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
+A) Vul die werkwoorde in die volgende sinne in en vertaal:
 
-⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
+⟪१⟫. ⟪ब्राह्मणो ऽनृतं न⟫ ... (⟪ब्रू । वच् । वद्⟫)
 
-⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫)
+⟪२⟫. ⟪क्षत्रियो जनान्⟫ ... (⟪पा । रक्ष्⟫)
 
-⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫)
+⟪३⟫. ⟪बलवद्योधो द्विजारीन्⟫ ... (⟪जि । हन् । युध्⟫)
 
-⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫)
+⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु । यज्⟫)
 
-⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫)
+⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद् । दह्⟫)
 
-⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫)
+⟪६⟫. ⟪बालवैश्यो धेनुम्⟫ ... (⟪दुह् । रक्ष् । पा⟫)
 
-⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫)
+⟪७⟫. ⟪द्विजदासो मृगमार्गेण ब्राह्मणग्रामम्⟫ ... (⟪गम् । इ । पद्⟫)
+⟪८⟫. ⟪द्विजदासः शूद्रस्⟫ ... (⟪अस् २ । भू⟫)
 
-⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫)
+⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद् । आस् । मृ⟫)
 
-⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫)
+⟪१०⟫. ⟪साधुजनो ऽधर्मम्⟫ ... (⟪द्विष् । न कृ⟫)
 
-⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
+B) In die sinne wat in A) gevorm is, stel die agent en die werkwoord in die meervoud
 
-B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
+## 17.8. Oefening 2
 
-## 17.8. Übung 2
+Vertaal die volgende werkwoordvorme en noem die ooreenstemmende stam:
 
-Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
-
-⟪१⟫. ⟪अदन्ति⟫
-
-⟪२⟫. ⟪सन्ति⟫
-
-⟪३⟫. ⟪आसते⟫
-
-⟪४⟫. ⟪यन्ति⟫
-
-⟪५⟫. ⟪इच्छति⟫
-
-⟪६⟫. ⟪कुर्वते⟫
-
-⟪७⟫. ⟪गच्छन्ति⟫
-
-⟪८⟫. ⟪जायते⟫
-
-⟪९⟫. ⟪जयति⟫
-
-⟪१०⟫. ⟪तनोति⟫
-
-⟪११⟫. ⟪दहति⟫
-
-⟪१२⟫. ⟪दोग्धि⟫
-
-⟪१३⟫. ⟪पश्यति⟫
-
-⟪१४⟫. ⟪द्विष्टे⟫
-
-⟪१५⟫. ⟪नयन्ति⟫
-
-⟪१६⟫. ⟪नृत्यति⟫
-
-⟪१७⟫. ⟪पद्यन्ते⟫
-
-⟪१८⟫. ⟪पिबति⟫
-
-⟪१९⟫. ⟪पान्ति⟫
-
-⟪२०⟫. ⟪पृच्छति⟫
-
-⟪२१⟫. ⟪बुध्यन्ते⟫
-
-⟪२२⟫. ⟪ब्रवीति⟫
-
-⟪२३⟫. ⟪भवन्ति⟫
-
-⟪२४⟫. ⟪मन्यते⟫
-
-⟪२५⟫. ⟪मुञ्चन्ति⟫
-
-⟪२६⟫. ⟪म्रियन्ते⟫
-
-⟪२७⟫. ⟪यजते⟫
-
-⟪२८⟫. ⟪युध्यन्ते⟫
-
-⟪२९⟫. ⟪रक्षति⟫
-
-⟪३०⟫. ⟪रोदिति⟫
-
-⟪३१⟫. ⟪लभते⟫
-
-⟪३२⟫. ⟪वक्ति⟫
-
-⟪३३⟫. ⟪वदति⟫
-
-⟪३४⟫. ⟪शृणोति⟫
-
-⟪३५⟫. ⟪स्तौति⟫
-
-⟪३६⟫. ⟪स्मरति⟫
-
-⟪३७⟫. ⟪हन्ति⟫
-
-⟪३८⟫. ⟪अश्नुवते⟫
-
-⟪३९⟫. ⟪कुप्यते⟫
-
-⟪४०⟫ ⟪कर्षन्ति⟫
-
-⟪४१⟫. ⟪उद्यते⟫
-
-⟪४२⟫. ⟪सहन्ते⟫
-
-⟪४३⟫. ⟪सिच्यन्ते⟫
-
-⟪४४⟫. ⟪आप्नोति⟫
-
-⟪४५⟫. ⟪जीव्यते⟫
-
-⟪४६⟫. ⟪दिश्यन्ते⟫
+⟪१⟫. ⟪अदन्ति २⟫. ⟪सन्ति ३⟫. ⟪आसते ४⟫. ⟪यन्ति ५⟫. ⟪इच्छति ६⟫. ⟪कुर्वते ७⟫. ⟪गच्छन्ति ८⟫. ⟪जायते ९⟫. ⟪जयति १०⟫. ⟪तनोति ११⟫. ⟪दहति १२⟫. ⟪दोग्धि १३⟫. ⟪पश्यति १४⟫. ⟪द्विष्टे १५⟫. ⟪नयन्ति १६⟫. ⟪नृत्यति १७⟫. ⟪पद्यन्ते १८⟫. ⟪पिबति १९⟫. ⟪पान्ति २०⟫. ⟪पृच्छति २१⟫. ⟪बुध्यन्ते २२⟫. ⟪ब्रवीति २३⟫. ⟪भवन्ति २४⟫. ⟪मन्यते २५⟫. ⟪मुञ्चन्ति २६⟫. ⟪म्रियन्ते २७⟫. ⟪यजते २८⟫. ⟪युध्यन्ते २९⟫. ⟪रक्षति ३०⟫. ⟪रोदिति ३१⟫. ⟪लभते ३२⟫. ⟪वक्ति ३३⟫. ⟪वदति ३४⟫. ⟪शृणोति ३५⟫. ⟪स्तौति ३६⟫. ⟪स्मरति ३७⟫. ⟪हन्ति ३८⟫. ⟪अश्नुवते ३९⟫. ⟪कुप्यते ४० कर्षन्ति ४१⟫. ⟪उद्यते ४२⟫. ⟪सहन्ते ४३⟫. ⟪सिच्यन्ते ४४⟫. ⟪आप्नोति ४५⟫. ⟪जीव्यते ४६⟫. ⟪दिश्यन्ते⟫
 

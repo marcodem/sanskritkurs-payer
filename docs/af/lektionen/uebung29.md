@@ -1,40 +1,33 @@
 ---
 title: "Oefening 29"
 uebung_id: 29
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 29
 
-# Oefening 29
+Vertaal woord-vir-woord in goeie Duits en leer die Sanskriet-tekste uit die kop:
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
+### ⟪१⟫. Definisie van ⟪अविद्या⟫
 
-### ⟪१⟫. Definition von ⟪अविद्या⟫
+**⟪अनित्याशुचिदुःखानात्मसु नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या ॥ योगसूत्र २⟫.⟪५ ॥⟫**
 
-**⟪अनित्याशुचिदुःखानात्मसु⟫ ⟪नित्यशुचिस⟫u⟪खात्मख्यातिरविद्या⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪५⟫ ⟪॥⟫**
+Onkunde beteken om die onbestendige, die onreine, die pynlike en die nie-absolute onderskeidelik as bestendig, rein, vreugdevol en absoluut te beskou.
 
-Unwissen bedeutet, dass man Unbeständiges, Unreines, Leidvolles und Nicht-Absolutes als beständig, rein, freudvoll bzw. absolut ansieht.
+### ⟪२⟫. Oor die korrekte gebruik van ⟪दण्ड⟫ (Kautilya se Arthaśāstra 1.4)
 
-### ⟪२⟫. Über den rechten Gebrauch des ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
+⟪तीक्ष्णदण्डो भूतानामुद्वेजनीयो भवति । मृदुदण्डः परिभूयते । यथार्हदण्डः पूज्यते । सुविज्ञातप्रणीतो हि दण्डः प्रजा धर्मार्थकामैर्योजयति । दुष्प्रणीतः कामक्रोधाभ्यामवज्ञानाद्वा वानप्रस्थपरिव्राजकानपि कोपयति⟫, ⟪किमङ्ग पुनर्गृहस्थान् । अप्रणीतस्तु मात्स्यन्यायमुद्भावयति । बलीयानबलं हि ग्रसते दण्डधराभावे । स तेन गुप्तः प्रभवतीति । चतुर्वर्णाश्रमो लोको राज्ञा दण्डेन पालितः । स्वधर्मकर्माभिरतो वर्तते स्वेषु वर्त्मसु ॥१६॥⟫
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूतानामुद्वेजनीयो⟫ ⟪भवति⟫ ⟪।⟫ ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।⟫ ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।⟫ ⟪सुविज्ञातप्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामैर्योजयति⟫ ⟪।⟫ ⟪दुष्प्रणीतः⟫ ⟪कामक्रोधाभ्यामवज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ⟪किमङ्ग⟫ ⟪पुनर्गृहस्थान्⟫ ⟪।⟫ ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।⟫ ⟪बलीयानबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।⟫ ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।⟫
+Wese moet sidder by 'n regime (daṇḍa) wat te hard is. 'n Los regime word verag. 'n Regime wat presies reg is, word vereer. 'n Wys bestuurde regime bevorder geregtigheid, wins en plesier onder sy onderdane. 'n Swak bestuurde regime uit wellus, haat of minagting wek selfs die toorn op van ou mans wat in die woud teruggetrek het en rondtrekkende askete; hoeveel te meer dan van huishouders. 'n Gebrek aan bestuur lei tot gedrag soortgelyk aan dié van visse (mātsyanayāya). Want wanneer daar niemand is om die bestuur handhaaf nie, verslind die sterker die swakker. Wanneer die swakkes deur die heerser beskerm word, floreer hulle.
 
-⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫  
-⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
-⟪स्वधर्मकर्माभिरतो⟫  
-⟪वर्तते⟫ ⟪स्वेषु⟫ ⟪वर्त्मसु⟫ ⟪॥१६॥⟫
-
-Vor einem zu strengen Regiment (daṇḍa) müssen die Wesen schaudern. Ein lasches Regiment wird verachtet. Ein gerade richtiges Regiment wird verehrt. Ein weise geführtes Regiment fördert bei den Untertanen Recht, Gewinn und Lust. Ein wegen Lust und Hass oder Verachtung schlecht geführtes Regiment erzürnt selbst in den Wald zurückgezogene Alte und Wandersasketen, um wieviel mehr Hausväter. Nicht ausgeübtes Regiment bewirkt ein Verhalten wie Fische (mātsyanayāya). Wenn niemand da ist, der das Regiment aufrecht erhält, verschlingt nämlich der Stärkere den Schwachen. Wenn der Schwache vom Regimentsinhaber behütet wird, gedeiht er.
-
-> Die Welt mit ihren vier Ständen und Lebensstadien  
-> Wird vom König durch das Regiment beschützt:  
-> Froh über die Tätigkeit nach eigenem Recht und eigener Sitte  
-> Bewegt sie sich auf ihren eigenen Bahnen.
+> Die Welt met haar vier stande en lewensfases  
+> word deur die koning beskerm deur middel van regeer:  
+> Bly oor die aktiwiteit volgens eie reg en eie gebruik  
+> beweeg sy op haar eie paaie.
 
 ::: media
 ![](/images/uebung046.webp)
-Abb.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
-(Bildquelle: [Details](/licenses#uebung046))
+Afbeelding: ⟪चतुर्वर्णाश्रमो लोको⟫
+(Beeldbron: [Details](/licenses#uebung046))
 :::
 

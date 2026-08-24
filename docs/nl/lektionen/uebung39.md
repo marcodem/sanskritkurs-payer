@@ -1,18 +1,18 @@
-
 ---
-title: "Übung 39"
+title: "Oefening 39"
 uebung_id: 39
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Vervoeg de volgende werkwoordsvormen in de eerste persoon, overeenkomstig getal, tijd, wijs (indicatief, optatief) en diathese (P, Ā, passief):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 3e persoon | 1e persoon |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -23,7 +23,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 | ⟪७⟫. ⟪अश्नुते⟫ | ⟪अश्नुवे⟫ |
 | ⟪८⟫. ⟪अश्नीयात्⟫ | ⟪अश्नीयाम्⟫ |
 | ⟪९⟫. ⟪व्याञ्जत⟫ | ⟪व्याञ्ज्महि⟫ |
-| ⟪१०⟫. ⟪ऐत्⟫ | ⟪आयम्⟫ |
+| ⟪१०⟫. ⟪ऐत्⟫ | ⟪आयम्⟫ye
 | ⟪११⟫. ⟪एषिष्यन्ति⟫ | ⟪एषिष्यामः⟫ |
 | ⟪१२⟫. ⟪ऐक्ष्यन्त⟫ | ⟪ऐक्ष्यामहि⟫ |
 | ⟪१३⟫. ⟪अकुप्यत्⟫ | ⟪अकुप्यम्⟫ |
@@ -33,7 +33,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 | ⟪१७⟫. ⟪विक्रेष्यन्ते⟫ | ⟪विक्रेष्यामहे⟫ |
 | ⟪१८⟫. ⟪खाद्यते⟫ | ⟪खाद्ये⟫ |
 | ⟪१९⟫. ⟪आगच्छन्⟫ | ⟪आगच्छाम⟫ |
-| ⟪२०⟫. ⟪अगीयत⟫ | ⟪अगी⟫ye |
+| ⟪२०⟫. ⟪अगीयत⟫ | ⟪अगी⟫
 | ⟪२१⟫. ⟪चरिष्यति⟫ | ⟪चरिष्यामि⟫ |
 | ⟪२२⟫. ⟪अचोरयत्⟫ | ⟪अचोरयम्⟫ |
 | ⟪२३⟫. ⟪चिनुयुः⟫ | ⟪चिनुयाम⟫ |
@@ -106,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Afbeelding: ⟪आगारे सीदामः⟫
+(Bron afbeelding: [Details](/licenses#uebung064))
 :::
 

@@ -1,19 +1,19 @@
-
 ---
-title: "Übung 25"
+title: "Oefening 25"
 uebung_id: 25
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 25
 
-A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫).
+A) Vul de vervoegingsvoorbeelden van les 16 aan door het toevoegen van de 4e. datief (⟪चतुर्थी⟫) en de 5e. ablatief (⟪पञ्चमी⟫).
 
-### ⟪१⟫. ⟪सन्त्⟫ (seiend, gut)
+### ⟪१⟫. ⟪सन्त्⟫ (zijnde, goed)
 
-| Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
+| Kasus | m. enkelvoud | m. meervoud | n. enkelvoud | n. meervoud |
 | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪सन्⟫ | ⟪सन्तः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
 | 2. Akk. | ⟪सन्तम्⟫ | ⟪सतः⟫ | ⟪सत्⟫ | ⟪सन्ति⟫ |
@@ -21,9 +21,9 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 4. Dat. | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
 | 5. Abl. | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
 
-### ⟪२⟫. ⟪महान्त्⟫ (gross)
+### ⟪२⟫. ⟪महान्त्⟫ (groot)
 
-| Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
+| Kasus | m. enkelvoud | m. meervoud | n. enkelvoud | n. meervoud |
 | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪महान्⟫ | ⟪महान्तः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
 | 2. Akk. | ⟪महान्तम्⟫ | ⟪महतः⟫ | ⟪महत्⟫ | ⟪महान्ति⟫ |
@@ -31,110 +31,105 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. ⟪यद्⟫ (welcher, wer)
+### ⟪३⟫. ⟪यद्⟫ (welke, wie)
 
-| Kasus | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
+| Kasus | m. ev. | m. mv. | n. ev. | n. mv. | f. ev. | f. mv. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪यः⟫ | ⟪ये⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪या⟫ | ⟪याः⟫ |
 | 2. Akk. | ⟪यम्⟫ | ⟪यान्⟫ | ⟪यत्⟫ | ⟪यानि⟫ | ⟪याम्⟫ | ⟪याः⟫ |
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Vertaal en ontbind de samenstellingen in het Sanskriet:
 
-⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
-Auf Anweisung des Lehrers geht Rāma aus dem Dorf in die Stadt, betritt das Haus des Heiligen, stellt sich ehrerbietig vor den Heiligen und spricht: "Genug des Zornes!"
+⟪१⟫. **⟪गुर्वादेशाद्रामो ग्रामान्नगरं गत्वा साधुगृहं प्रविश्य साधुमुपस्थायालं क्रोधेनेति वक्ति ॥१॥⟫**
+Op bevel van de leraar gaat Rāma uit het dorp naar de stad, betreedt het huis van de heilige, stelt zich eerbiedig voor aan de heilige en spreekt: "Genoeg van de woede!"
 
-⟪२⟫. **⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫**
-Der Veda (śruti) und die Tradition (smṛti) sagen, dass man von einem Meister nichts Unrechtes hören kann.
+⟪२⟫. **⟪गुरोरधर्मः श्रोतुं न शक्यत इति श्रुत्या च स्मृतिभिश्चोद्यते ॥२॥⟫**
+De Veda (śruti) en de traditie (smṛti) zeggen dat men van een meester niets onrechtvaardigs kan horen.
 
-⟪३⟫. **⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫**
-Pflicht der Kṣatriyas ist, dass die Kṣatriyas das Volk vor den Feinden schützen sollen.
+⟪३⟫. **⟪क्षत्रिया जनाञ्छत्रुभ्यो रक्षितुमर्हन्तीति क्षत्रियधर्मः ॥३॥⟫**
+De plicht van de Kṣatriyas is dat zij het volk moeten beschermen tegen vijanden.
 
-⟪४⟫. **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्ह⟫ti ⟪॥४॥⟫**
-Da er einen Opferfehler begangen hat, darf der Brahmane kein Geld bekommen.
+⟪४⟫. **⟪कृतयज्ञदोषत्वाद्ब्राह्मणो धनं लब्धुं नार्ह⟫ti ⟪॥४॥⟫**
+Omdat hij een offerfout heeft begaan, mag de Brahmane geen geld ontvangen.
 
-⟪५⟫. **⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫**
-(⟪धनस्य⟫ ⟪लाभाय⟫)
-Um reich zu werden, haben diese Vaiśyas ein Gelübde gemacht und enthalten sich sexuell.
+⟪५⟫. **⟪धनलाभहेतोस्ते वैश्या व्रतं कृत्वा ब्रह्मचर्यं चरन्ति ॥५॥⟫**
+(⟪धनस्य लाभाय⟫)
+Om rijk te worden, hebben deze Vaiśyas een gelofte afgelegd en onthouden zich seksueel.
 
-⟪६⟫. **⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫**
-Buddhas und Arhants sind vom Leid befreit. Sie haben nämlich die erlösende Einsicht erreicht.
+⟪६⟫. **⟪बुद्द्धाश्चार्हन्तश्च दुःखान्मुक्ताः । मुञ्चन्ती बुद्धिर्हि तैः प्राप्ता ॥६॥⟫**
+Boeddha's en Arhants zijn bevrijd van lijden. Zij hebben namelijk de verlossende inzicht bereikt.
 
-⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
-Durch Gier, Hass und Verblendung verderben Menschen. Wenn die Zeit gekommen ist, fallen sie dann in eine Hölle.
+⟪७⟫. **⟪लोभ⟫en ⟪च क्रोधेन च मोहेन च जना दुष्यन्ति । ततः प्राप्तकाला नरकं पतन्ति ॥७॥⟫**
+Door hebzucht, haat en verdorvenheid bederven mensen. Als de tijd gekomen is, vallen zij dan in een hel.
 
 ::: media
 ![](/images/uebung040.webp)
-Abb.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
-(Bildquelle: [Details](/licenses#uebung040))
+Afb.: ⟪लोभेन च क्रोधेन च मोहेन च जना दुष्यन्ति⟫
+(Bron afbeelding: [Details](/licenses#uebung040))
 :::
-⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-Der Kṣatriya bringt heldenhafte Krieger aus der Grossstadt, um das Dorf der Feinde zu bekämpfen.
+⟪८⟫. **⟪क्षत्रियो महानगरतः शत्रुग्रामं योद्धुं शूरयोधानानयति ॥८॥⟫**
+De Kṣatriya brengt heldhaftige krijgers uit de grote stad om het dorp van de vijanden te bestrijden.
 
-⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
-Um einen Sohn zu bekommen, hält die Brahmanin ein Gelübde (d.h. sie fastet).
+⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी व्रतं चरति ॥९॥⟫**
+Om een zoon te krijgen, houdt de Brahmanin een gelofte (d.w.z. zij vast).
+⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन महासुखमाप्तम् ॥१०॥⟫**
+Omdat hij een zoon heeft gekregen, wordt de tweemaal geboren door groot geluk overmand.
 
-⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫**
-Weil er einen Sohn bekommen hat, überkommt den Zweimalgeborenen grosses Glück.
+⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति ॥११॥⟫**
+Viṣṇu behoedt zijn gelovigen voor de dood.
 
-⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫**
-Viṣṇu bewahrt seine Gläubigen vor dem Tod.
+⟪१२⟫. **⟪रामाद्विना⟫ = ⟪रामं विना⟫ = ⟪रामेण विना ॥१२॥⟫**
+Zonder Rāma.
 
-⟪१२⟫. **⟪रामाद्विना⟫ = ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫**
-Ohne Rāma.
+⟪१३⟫. **⟪साधोः शिक्षा गुणाय संपद्यते नासाधोः ॥१३॥⟫**
+De leer van een heilige leidt tot deugdzaamheid, niet die van een onheilige.
 
-⟪१३⟫. **⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫**
-Der Unterricht eines Heiligen gereicht zur Tugend, nicht der eines Unheiligen.
-
-⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
+⟪१४⟫. **⟪रामः कृष्णाय तिष्ठति ॥१४॥⟫**
 Rāma wartet auf Kṛṣṇa.
 
-⟪१५⟫. **⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫**
-Es geht leicht (glücklich).
+⟪१५⟫. **⟪सुखेन गच्छति ॥१५॥⟫**
+Het gaat gemakkelijk (gelukkig).
 
-⟪१६⟫. **⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫**
-Hör auf mit der Angst!
+⟪१६⟫. **⟪अलं भयेन ॥१६॥⟫**
+Houd op met die angst!
 
-⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Grösser als die Welt ist Hari.
+⟪१७⟫. **⟪लोकादधिको हरिः ॥१७॥⟫**
+(Hari = Viṣṇu / Kṛṣṇa) Hari is groter dan de wereld.
 
 ---
 
-## Scholarly Fragments
+## Wetenschappelijke fragmenten
 
-⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫ ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
-⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫ ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫  
-Wovon man sich zurückzieht, davon wird man befreit. Wenn man sich nämlich von allem zurückzieht, dann kennt man kein Leid, und sei's so klein wie ein Atom.
+⟪यतो यतो निवर्तते ततस्ततो विमुच्यते । निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि ॥ १ ॥⟫  
+Waarvan men zich terugtrekt, daarvan wordt men bevrijd. Want als men zich van alles terugtrekt, kent men geen leed, hoe klein ook, zelfs niet zo klein als een atoom.
 
-⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫ ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
-⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫ ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫  
-Wenn jemand aus Hochmut, Gier, Zorn oder Furcht ein falsches Gerichtsurteil spricht, dann kommt er in eine Hölle.
+⟪मानाद्वा यदि वा लोभात् क्रोधाद्वा यदि वा भयात् । यो न्यायमन्यथा ब्रूते स याति नरकं नरः ॥ २ ॥⟫  
+Als iemand uit hoogmoed, hebzucht, woede of angst een onrechtvaardig vonnis velt, dan komt hij in de hel terecht.
 
-⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫ ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
-Höllen entstehen wegen des Bösen, Böses entsteht aus Armut, Armut entsteht aus Nicht-Geben.
+⟪भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम् । दारिद्र्यमप्रदानेन ॥ ३ ॥⟫  
+Helden ontstaan door het kwaad, het kwaad ontstaat uit armoede, armoede ontstaat uit het niet geven.
 
 ::: media
 ![](/images/uebung041.webp)
-Abb.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
-(Bildquelle: [Details](/licenses#uebung041))
+Afb.: ⟪भवन्ति नरकाः पापात्⟫
+(Bron: [Details](/licenses#uebung041))
 :::
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
-⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freilassung. Wenn ihn aber der König nicht bestraft, dann übernimmt er die Schuld des Diebes.
+⟪शासनाद्वा विमोक्षाद्वा स्तेनः स्तेयाद्विमुच्यते । अशासित्वा तु तं राजा स्तेनस्याप्नोति किल्बिषम् ॥ मनुस्मृति ८⟫.⟪३१६ ॥ ॥ ४ ॥⟫  
+Een dief wordt van de schuld van diefstal bevrijd door bestraffing of door vrijlating. Maar als de koning hem niet bestraft, neemt hij de schuld van de dief op zich.
 
 ---
 
-## Staatswissenschaftliche Fragmente (Arthaśāstra)
+## Fragmenten over staatswetenschap (Arthaśāstra)
 
-⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
-Die Wirtschaft ist nützlich, weil sie Getreide, Vieh, Gold, Metalle und Arbeit hervorbringt.
+⟪१⟫. **⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी ॥⟫** (AS 1.4.1)  
+De economie is nuttig omdat zij graan, vee, goud, metalen en arbeid voortbrengt.
 
 ::: media
 ![](/images/uebung042.webp)
-Abb.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
-(Bildquelle: [Details](/licenses#uebung042))
+Afb.: ⟪वार्त्ता धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
+(Bron afbeelding: [Details](/licenses#uebung042))
 :::
-⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Deswegen haben die drei Wissenschaften den Stock (daṇḍa) als Grundlage. Der Stock, der die Grundlage von gutem Verhalten ist, bringt den Lebewesen Erwerb und sicheren Besitz. Gutes Verhalten ist erarbeitet bzw. angeboren. Tätigkeit erzieht nämlich ein geeignetes Material, kein ungeeignetes. Wissen erzieht einen Geist, der durch Gehorsam, Zuhören, Bergreifen, Verstehen und Überlegen zur Wahrheit gekommen ist, nicht einen anderen. ... Aus Gehörten entsteht nämlich Erkenntnis, aus Erkenntnis Praxis, aus Praxis Selbstbesitz; so entsprechen die Wissenschaften ihrem Zweck. Wissen und gutes Verhalten ist die Ursache für den Sieg über die Sinne. Dieser ist nötig, um Lüsternheit, Hass, Gier, Einbildung, Rausch und Erregung abzulegen.
+⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो विद्याः ॥⟫** (AS 1.5)  
+Daarom hebben de drie wetenschappen de stok (daṇḍa) als basis. De stok, die de basis vormt van goed gedrag, brengt levende wezens verworvenheden en veilig bezit. Goed gedrag is aangeleerd of aangeboren. Activiteit vormt namelijk geschikt materiaal, geen ongeschikt materiaal. Kennis vormt een geest die door gehoorzaamheid, luisteren, onthouden, begrijpen en nadenken tot de waarheid is gekomen, en geen andere. ... Uit het gehoorde ontstaat namelijk inzicht, uit inzicht praktijk, uit praktijk zelfbeheersing; zo beantwoorden de wetenschappen aan hun doel. Kennis en goed gedrag zijn de oorzaak van de overwinning op de zintuigen. Deze is noodzakelijk om wellust, haat, hebzucht, hoogmoed, roes en opwinding af te leggen.

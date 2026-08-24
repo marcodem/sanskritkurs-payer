@@ -1,60 +1,62 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: "Mësimi 1"
+subtitle: "Tingujt e Sanskritit"
 lesson_id: 1
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
+
 ---
 
 # Mësimi 1
 
+
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Verehrung des Gaṇeśa
+Adhurimi i Gaṇeśas
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Abb. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
-(Bildquelle: [Details](/licenses#lekt0102))
+Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0102))
 :::
 
 ::: center
-:sig[लम्बोदर नमस् तुभ्यं]
-:sig[सततं मोदकप्रिय ⟪|⟫]
-:sig[निर्विघ्नं कुरु मे देव]
-:sig[सर्वकार्येषु सर्वदा ⟪||⟫]
+sig[लम्बोदर नमस् तुभ्यं]
+sig[सततं मोदकप्रिय ⟪|⟫]
+sig[निर्विघ्नं कुरु मे देव]
+sig[सर्वकार्येषु सर्वदा ⟪||⟫]
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen!
+Ti me bark të rrumbullakët, ti i etur për ëmbëlsira,
+Qofsh gjithmonë i nderuar!
+Zoti, bëj që të gjitha përpjekjet e mia
+Të jenë pa pengesa!
 :::
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Glückbringender Anfang"
+"Fillim i fatmbarë"
 :::
 
 ::: media
 ![](/images/lekt0101.webp)
-Abb. 1.1: Ardhanarīśvara
-(Bildquelle: [Details](/licenses#lekt0101))
+Fig. 1.1: Ardhanarīśvara
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0101))
 :::
 
 ::: center
-:sig[वागर्थाविव संपृक्तौ]
-:sig[वागर्थप्रतिपत्तये ⟪|⟫]
-:sig[जगतः पितरौ वन्दे]
-:sig[पार्वतीपरमेश्वरौ ⟪||⟫]
+sig[वागर्थाविव संपृक्तौ]
+sig[वागर्थप्रतिपत्तये ⟪|⟫]
+sig[जगतः पितरौ वन्दे]
+sig[पार्वतीपरमेश्वरौ ⟪||⟫]
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -63,131 +65,134 @@ pārvatīparameśvarau |**
 
 (Kālidāsa: Raghuvaṃśa 1.1)
 
-Ich grüsse die Eltern der Welt,
-Pārvatī und Śiva,
-Die so fest miteinander verbunden sind
-Wie Wort und Sinn zum Verständnis
-Des Wortsinns.
+Unë përshëndes prindërit e botës,
+Pārvatī dhe Śiva,
+Të cilët janë të lidhur fort së bashku
+Si fjala dhe kuptimi për të kuptuar
+Kuptimin e fjalës.
 :::
 
-Zu Beginn ein Kuriosum:
+Në fillim një kuriozitet:
 
+
+>"Kur William Jones [1746–1794] dhe Henry Thomas Colebrooke (1765—1857) studuan për herë të parë thellë sanskritishten, e përkthyen pjesërisht dhe zbuluan se kishte një letërsi të pasur dhe një lidhje jo të vogël me gjuhët klasike, ata u përballën me rezistencë jo të vogël. Meqenëse kjo marrëdhënie e ngushtë e sanskritishtes me gjuhët evropiane kaq të largëta gjeografisht nuk mund të pajtohej me pikëpamjet e vjetra, të cilat ose i nxirrnin të gjitha gjuhët nga hebraishtja ose i izoluan pjesërisht njëra nga tjetra, filologu i famshëm Dugald Steward (1753—1828) mori rrugën më të thjeshtë, duke deklaruar gjithë historinë me gjuhën sanskrite si një gënjeshtr. Ai shkroi një ese, në të cilën përpiqej të vërtetonte se ajo ishte shkruar nga brahmanët mashtrues sipas modelit të greqishtes dhe latinishtes, dhe se si gjuha ashtu edhe letërsia ishin falsifikime. Kjo pikëpamje u zhvollua më tej nga profesori në Dublin, Charles William Wall, në vitin 1840 (Göttingische gelehrte Anzeigen 1842 faqja 1888)."
 >
->[Quelle: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 ::: literatur-box
-[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10] <!-- TODO: Fallback translation -->
+[Burimi: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Qasje më 2010-01-10]
 :::
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. Letërsi për fillestarët në Indologji
 
 ::: media
 ![](/images/lekt0103.webp)
-Abb.: Einbandtitel einer Taschenbuchausgabe
-(Bildquelle: [Details](/licenses#lekt0103))
+Fig.: Titulli i kopertinës së një edicioni xhepi
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ pjesa: Një përmbledhje e kulturës nënkontinentit indian para ardhjes së myslimanëve. -- London : Sidgwick & Jackson, 1954. -- Që atëherë shumë edicione, edhe edicione xhepi. -- **Lexim i detyrueshëm.** Një përmbledhje e mirë mbi jetën, historinë dhe kulturën në Indi para myslimanëve. Përmbledhje e plotë mbi fushat e ndryshme të Indologjisë klasike.
 
 ::: media
 ![](/images/lekt0104.webp)
-Abb.: Titelblatt
-(Bildquelle: [Details](/licenses#lekt0104))
+Fig.: Faqja titullare
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0104))
 :::
 
-Beste systematische Grammatik:
+Gramatika më e mirë sistematike:
 
 ::: literatur-box
-**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language <!-- TODO: Fallback translation -->
+**Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Përkthyer nga anglishtja nga W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 faqe. -- Titulli origjinal: A grammar of the Sanscrit language
 :::
 
 ::: media
 ![](/images/lekt0105.webp)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0105))
+Fig.: Titulli i mbulesës
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0105))
 :::
 
-Gute systematische Grammatik auf der Grundlage der einheimischen Grammatiker und zugleich eine Einführung in Pāṇini:
+Gramatikë e mirë sistematike bazuar në gramatikanët vendas dhe njëkohësisht një hyrje te Pāṇini:
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Origjinalisht e shkruar në malajalam. Përkthyer në anglisht nga K.V.R. Pai. -- Parathode : Shtypshkronja e autorit, 1983. -- 818 faqe ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Abb.: Einbandtitel
-(Bildquelle: [Details](/licenses#lekt0107))
+Fig.: Titulli i kopertinës
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0107))
 :::
 
-Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in:
+Një përshkrim i mirë, i shkurtër i terminologjisë gjuhësore evropiane gjendet në:
 
 ::: literatur-box
-**Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII. <!-- TODO: Fallback translation -->
+**Fjalor Etimologjik i Gjuhës Gjermane** / [Friedrich] Kluge (1856–1926). Përgatitur nga Elmar Seebold. -- Edicioni i 24-të, i rishikuar dhe i zgjeruar. -- Berlin [d.t.] : de Gruyter, 2002. - LXXXIX, 1023 faqe : 24 cm. -- ISBN 3-11-017473-1 Kopertinë e butë. -- Faqet XIII - XLVII.
 :::
 
 ::: media
 ![](/images/lekt0108.jpg)
-Abb.: Umschlagtitel
-(Bildquelle: [Details](/licenses#lekt0108))
+Fig.: Titulli i mbulesës
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0108))
 :::
 
-Für Wissbegierige zum Nachschlagen:
+Për ata me dëshirë për dije, si referencë:
 
-> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Fjalor i Gjuhës së Fjalëve** / nën redaksionin e Hadumod Bussmann. -- Edicioni i 4-të, i rishikuar dhe i plotësuar bibliografikisht / në bashkëpunim me Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 faqe ; 22 cm. -- ISBN 978-3-520-45204-7
 
-## 1.2. Die Laute des Sanskrit
 
-Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift.
+## 1.2. Tingujt e Sanskritit
+
+Tingujt e Sanskritit sipas klasifikimit tradicional indian dhe transkriptimi i tyre shkencor.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Bildquelle: [Details](/licenses#lekt0106))
+(Burimi i imazhit: [Detaje](/sq/licenses#lekt0106))
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
+Fjalaret moderne të Sanskritit janë të renditura sipas këtij klasifikimi. Ky klasifikim është i domosdoshëm për të kuptuar gramatikën e Sanskritit dhe prandaj duhet mësuar në memorie:
 
 ::: note-box
-Klassifikation
-- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫):
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha
+Klasifikimi
+**Zërat e thjeshtë** (samānākṣara -- ⟪समानाक्षर⟫):
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+**Diftongët** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+**Konsonantet** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
-### 1.2.1. Zur Aussprache einzelner Laute
+### 1.2.1. Për shqiptimin e tingujve të veçantë
 
 ::: laut-table
-| Laut | Beschreibung |
+| Tingull | Përshkrimi |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
-| **ṛ - ⟪ऋ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
-| **ṝ - ⟪ॠ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
-| **jñ - ⟪ज्ञ्⟫** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
-| **ś - ⟪श्⟫** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
-| **ṣ - ⟪ष्⟫** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
-| **h - ⟪ह्⟫** | Hauchlaut, nie Dehnungszeichen. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
-| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
+| **a - ⟪अ⟫** | "a e shkurtër" nga indianët -- që prej kohësh të lashta -- shpesh shqiptohet si ə. Në Evropë shqiptohet si a e shkurtër, në Bengal si o i errët dhe i shkurtër. |
+| **ṛ - ⟪ऋ⟫** | si r i vokalizuar çek. Jehonë e lehtë e i-së. |
+| **ṝ - ⟪ॠ⟫** | si r i vokalizuar çek. Jehonë e lehtë e u-së. |
+| **jñ - ⟪ज्ञ्⟫** | edhe si dny (Marāṭhī) ose gy (Veri i Indisë). |
+| **ś - ⟪श्⟫** | tingull sh me majën e gjuhës të përkulur poshtë. Ngjashëm si sh në "mischen". |
+| **ṣ - ⟪ष्⟫** | tingull kh me majën e gjuhës të përkulur prapa. Shpesh aq thellë në fyt sa që tingëllon pothuajse si kh. |
+| **h - ⟪ह्⟫** | tingull frymëzues, kurrshim shenjë zgjatimi. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Tingull frymëzues i pa zëshëm me jehonë të vokalit përpara ose pjesës së dytë të diphthongut përparues: agniḥ -- ⟪अग्निः⟫ = agnihī, devaiḥ -- ⟪देवैः⟫ = devaihī, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Para tingujve të zhurmshëm, h, l: nazalizimi i vokalit. Në fund = m. Në mes përpara konsonantit: nazali që i përgjigjet konsonantit të pasues: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
+Shqiptimi më i mirë arrihet kur lexoni fjali, vargje ose fjalë mjaft ngadalë dhe monotone, duke marrë parasysh me saktësi gjatësinë e vokaleve.
 
-## 1.3. Übung
 
-**A) Lesen Sie folgende Worte:**
+## 1.3. Ushtrimi
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
-2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
-4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+**A) Lexoni fjalët e mëposhtme:**
+
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण ब्राह्मणः क्षत्रिय वैश्य शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा विष्णु शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम ब्राह्मचारिन् गृहस्थ वानप्रस्थ संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद सामवेद यजुर्वेद अथर्ववेद⟫
 5. upaniṣad — ⟪उपनिषद्⟫
-6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+6. jaina bauddha — ⟪जैन बौद्ध⟫
 7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
-8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+8. cakra vajra — ⟪चक्र वज्र⟫
 9. pitṝn — ⟪पितॄन्⟫
 10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.**
+**B) Lexhni shprehjet sanskrite në klasifikimin fonetik më sipër.**

@@ -106,9 +106,9 @@ Beispiele:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | ⟪जुहुते⟫ | ⟪जुह्वते⟫:brjuhu + ate |
+| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | ⟪अजुहुत⟫ | ⟪अजुह्वत⟫:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | ⟪जुह्वीत⟫:brjuhu + ī-ta | ⟪जुह्वीरन्⟫:brjuhu + ī-ran |
 :::
 ## 33.3. Zum Ablaut von ā
 

@@ -1,29 +1,29 @@
-# Schriftübung 11
+# Bài tập viết 11
 
-### Ziffern
+### Chữ số
 
-Folgende zwei Schreibweisen sind gebräuchlich:
+Hai cách viết sau đây là phổ biến:
 
 ![](/images/schrift026.jpg)
 
-Variante in der Schrifttype von Kielhorns Grammatik:
+Biến thể trong phông chữ của cuốn Ngữ pháp Kielhorn:
 
 ![](/images/schrift027.jpg)
 
-### Übung
+### Bài tập
 
-A) Schreiben Sie in Devanāgarī:
+A) Hãy viết bằng chữ Devanāgarī:
 
 123 654 587 908 1007 9876 34 12 14 16 27 38 49 50 12 23 34 45 56 67 78 89 98 76 65 54 43 32 21
 
-B) Lesen und transliterieren Sie:
+B) Đọc và chuyển tự:
 
-⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
+⟪१२ २३ २४ ५३६ ६५ ८७ १९४४ २००८ ९९० ८७ ७६ ६५ ५४ ४३ ३२ २१ १९ २८ ८३ ७४ ५७ ६६⟫
 
-### Klassifikation der Laute des Sanskrit (aus: Kielhorn: Grammatik der Sanskritsprache)
+### Phân loại các âm trong tiếng Phạn (trích từ: Kielhorn: Ngữ pháp tiếng Sanskrit)
 
 ![](/images/schrift028.webp)
 
-### Ende der Schriftübungen
+### Kết thúc các bài tập viết chữ
 
-## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫
+## ⟪ॐ श्रीगणेशाय नमः ॐ⟫

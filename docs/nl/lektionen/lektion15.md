@@ -33,12 +33,7 @@ De naamvalverhouding tussen de twee delen van een samengesteld woord is onafhank
 
 bijv.
 
-\> Nom. enkelvoud ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫  
-\> Acc. enkelvoud ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫  
-\> Instr. enkelvoud ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫  
-\> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫  
-\> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫  
-\> enz.
+\> Nom. enkelvoud ⟪तत्पुरुषः⟫ = ⟪तस्य पुरुषः⟫ Acc. enkelvoud ⟪तत्पुरुषम्⟫ = ⟪तस्य पुरुषम्⟫ Instr. enkelvoud ⟪तत्पुरुषेण⟫ = ⟪तस्य पुरुषेण⟫ Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य पुरुषस्य⟫ Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य पुरुषाः⟫ enz.
 
 Het geslacht van een Tatpuruṣa is – op enkele uitzonderingen na – dat van het achterliggende deel.
 

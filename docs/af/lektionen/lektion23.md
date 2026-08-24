@@ -1,169 +1,112 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: "Lesing 23"
+subtitle: "Die Infinitief (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 23
+---# Les 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
-
-::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
-
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:**
-
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
-
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:**
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören."
-
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":**
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren)
-
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":**
-
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen."
-
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
-
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen"
-
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.**
-
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.**
-
-z.B.
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun."
-
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".**
-
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:**
-
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht".
-:::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+## 23.1. Die infinitief (⟪तुमुन्⟫)
 
 ::: grammar-box
-**hochstufige Wurzel + -tum**
+**As mens in Sanskrit wil uitdruk dat 'n handeling ten einde van 'n ander handeling ('om te') verrig word, kan mens die infinitief (⟪तुमुन्⟫) gebruik vir die handeling waarvoor dit verrig word. Die infinitief dui hoofsaaklik die doel of bedoeling aan:**
 
-**oder**
+&gt; ⟪रामो गुरुवचनं श्रोतुं गतः⟫ = "Rāma het gegaan om die Meester se toespraak te hoor."
 
-**hochstufige Wurzel + -i- + -tum**
+**Neem asseblief kennis dat – met 'n paar duidelik gedefinieerde uitsonderings – die infinitief nie as die onderwerp of objek van 'n werkwoord kan funksioneer nie:**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.**
+&gt; "Hy leer dans" mag dus nie met die infinitief ("dans") vertaal word nie, maar moet 'n werkwoordnaam gebruik, bv.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "om te leer").
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.**
+**Die infinitief word ook met werkwoorde en selfstandige naamwoorde gebruik om 'te wens' of 'na iets te hunker' te beteken, wanneer die agent (⟪कर्तृ⟫) van die infinitief en die werkwoord identies is:**
+
+&gt; ⟪रामो गुरुवचनं श्रोतुमिच्छति⟫ = "Rāma wens om die Meester se verhandeling te hoor."
+
+**Die infinitief word ook, onder andere, gebruik met werkwoorde wat "kan" beteken, 'daar is', 'om te weet' en 'om te begin':**
+
+&gt; ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = "'n heilige kan nie verkeerd doen nie."  
+&gt; ⟪अस्ति भोक्तुमन्नम्⟫ = "Daar is kos om te eet" (⟪भुज्⟫ 7: Ā: eet, P: regeer)
+
+**Die infinitief word ook gebruik met woorde wat 'genoeg' of 'bekwaam' beteken, en met selfstandige naamwoorde wat 'vermoë', 'krag' of 'vaardigheid' beteken:**
+
+&gt; ⟪अस्त्यग्नेर्विभवः सर्वं दग्धुम्⟫ = "Vuur het die krag om alles te verbrand."
+**Die infinitief kan ook saam met woorde wat 'tyd' beteken gebruik word in uitdrukkings soos 'Dit is tyd om te …':**
+
+&gt; ⟪कालो भोजनं सेवितुम्⟫ = "Dit is tyd om aandag aan eet te skenk" = "Dit is tyd om te eet"
+
+**Die infinitief kan in beide die aktiewe en passiewe vorme gebruik word. 'n passiewe infinitief in Duits word in Sanskrit weergegee deur die werkwoord (veral dikwels ⟪शक्⟫ 'kan, in staat is om') waarop die infinitief afhanklik is, in die passiewe stem te plaas.
+
+**Wat die voorwerp betref, tree die infinitief op soos 'n werkwoordvorm; dit wil sê, die direkte voorwerp (⟪कर्मन्⟫) is in die genitief (⟪द्वितीया⟫) of in die geval wat deur die betrokke werkwoord vereis word; wanneer die infinitief in die passief gebruik word, is die direkte voorwerp in die nominatief.**
+
+bv.
+
+&gt; ⟪साधुरधर्मं कर्तुं न शक्नोति⟫ = ⟪साधुनाधर्मः कर्तुं न शक्यते⟫ = "'n heilige kan nie verkeerd doen nie."
+
+**In die tweede persoon, ⟪अर्ह्⟫ + die infinitief word dikwels as 'n sagte imperatief gebruik: "Jy behoort te".**
+
+**Wanneer die infinitief van 'n selfstandige naamwoord afhang, mag dit nie daarmee gekombineer word om 'n samestelling te vorm nie. Uitsonderings is Bahuvrīhi-samestellings waarvan die tweede element ⟪काम⟫ of ⟪मनस्⟫ is:**
+
+&gt; ⟪वक्तुकामः⟫ = ⟪वक्तुं कामो यस्य सः⟫ = "iemand wie se begeerte dit is om te praat; iemand wat wil praat".
 :::
-Beispiele:
+## 23.2. Vorming van die infinitief (⟪तुमुन्⟫)
+
+::: grammar-box
+**hoëgraadwortel + -tum**
+
+**of**
+
+**hoëgraadwortel + -i- + -tum**
+
+**Laat medeklinkers van die wortel word voor -tum verander volgens dieselfde reëls as voor die -ta van die PPA.**
+
+**Werwe met 'n voorwerf vorm die infinitief op dieselfde wyse as eenvoudige wortels.**
+
+**Werwe met 'n voorwerf vorm die infinitief op dieselfde wyse as eenvoudige wortels.**
+:::
+Voorbeelde:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम् रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein.
+Geen vaste reëls kan vasgestel word ten opsigte van die gebruik van die verbindingsvokaal -i-. In wese stem die verspreiding van die verbindingsvokaal in die infinitief ooreen met dié in die toekomende tyd.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
+Van die wortels wat tot dusver geleer is, verdien die volgende infinitiewe besondere aandag:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫
-
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪⟨DEVA_3⟫ : ⟪⟨DEVA_4⟫ : ⟪⟨DEVA_5⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv:
+-ra- als hoëtraps zu -ṛ- haben im Infinitiv:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫
-
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪दृश्⟫ : ⟪द्रष्टुम् सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die ander wortels met -ṛ- in die voorlaaste posisie het 'n opsionele -ra- of -ar- as hulle aniṭ is.
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
-⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫
+## 23.3. Die infinitief (⟪तुमुन्⟫) vir die wortels wat tot dusver geleer is
 
-## 23.4. Wortliste
+⟪अद्⟫ 2P ⟪अत्तुम् अश्⟫ 5Ā ⟪अशितुम् । अष्टुम् अस्⟫ 2P —  
+⟪अस्⟫ 4P ⟪असितुम् आप्⟫ 5P ⟪आप्तुम् आस्⟫ 2Ā ⟪आसितुम् इ⟫ 2P ⟪एतुम् इष्⟫ 6P ⟪एष्टुम् । एषितुम् कुप्⟫ 4P ⟪कोपितुम् कृ⟫ 8U ⟪कर्तुम् कृष्⟫ 1P ⟪कर्ष्टुम् । क्राष्टुम् कृष्⟫ 6U ⟪कर्ष्टुम् । क्राष्टुम् क्रुध्⟫ 4P ⟪कोद्धुम् खाद्⟫ 1P ⟪खादितुम् गम्⟫ 1P ⟪गन्तुम् जन्⟫ 4Ā ⟪जनितुम् जि⟫ 1P ⟪जेतुम् जीव्⟫ 1P ⟪जीवितुम् तन्⟫ 8U ⟪तनितुम् दह्⟫ 1P ⟪दग्धुम् दिश्⟫ 6U ⟪देष्टुम् दुष्⟫ 4P — 
+⟪दुह्⟫ 2U ⟪दोग्धुम् दृश् द्रष्टुम् द्विष्⟫ 2U ⟪द्वेष्टुम् नी⟫ 1U ⟪नेतुम् नृत्⟫ 4P ⟪नर्तितुम् पच्⟫ 1U ⟪पक्तुम् पद्⟫ 4Ā ⟪पत्तुम् पा⟫ 1P ⟪पातुम् पा⟫ 2P ⟪पातुम् प्रच्छ्⟫ 6P ⟪प्रष्टुम् बुध्⟫ 1U, 4Ā ⟪बोधितुम् । बोद्धुम् ब्रू⟫ 2U — 
+⟪भज्⟫ 1U ⟪भक्तुम् भू⟫ 1P ⟪भवितुम् मन्⟫ 4Ā ⟪मन्तुम् मुच्⟫ 6U ⟪मोक्तुम् मुह्⟫ 4P ⟪मोहितुम् । मोग्धुम् । मोढुम् मृ⟫ 4Ā ⟪मर्तुम् यज्⟫ 1U ⟪यष्टुम् युध्⟫ 4Ā ⟪योद्धुम् रक्ष्⟫ 1P ⟪रक्षितुम् रुद्⟫ 2P ⟪रोदितुम् लभ्⟫ 1Ā ⟪लब्धुम् लुभ्⟫ 4P ⟪लोभितुम् वच्⟫ 2P ⟪वक्तुम् वद्⟫ 1P ⟪वदितुम् विश्⟫ 6P ⟪वेष्टुम् वृत्⟫ 1Ā ⟪वर्तितुम् श्रु⟫ 5P ⟪श्रोतुम् सद्⟫ 1P ⟪सत्तुम् सह्⟫ 1Ā ⟪सहितुम् । सोढुम् सिच्⟫ 6U ⟪सेक्तुम् सु⟫ 5U ⟪सोतुम् सृज्⟫ 6P ⟪स्रष्टुम् स्तु⟫ 2U ⟪स्तोतुम् स्था⟫ 1P ⟪स्थातुम् स्मृ⟫ 1P ⟪स्मर्तुम् हन्⟫ 2P ⟪हन्तुम्⟫  
 
-⟪समान⟫ ⟪३⟫: gleich
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
+## 23.4. Woordelys
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+⟪समान ३⟫: gelyk
 
-## 23.5. Übung
+⟪सामान्य⟫ n.: Gelykheid, ooreenstemming
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
+⟪अधिक ३⟫ : oortollig, bykomstig, groter, beter, buitengewoon
+
+⟪विशेष⟫ m.: Besonderheid, spesifikasie, differentia specifica
+
+
+## 23.5. Oefening
+
+A) Die volgende wortels vorm die infinitief sonder verbindende klinker -i-. Vorm die infinitief met inagneming van die klankveranderings vir:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -178,8 +121,8 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 11.  ⟪द्विष्⟫
 12.  ⟪नी⟫
 13.  ⟪पद्⟫
-14.  ⟪पा⟫ ⟪१⟫
-15.  ⟪पा⟫ ⟪२⟫
+14.  ⟪पा १⟫
+15.  ⟪पा २⟫
 16.  ⟪भज्⟫
 17.  ⟪कृष्⟫
 18.  ⟪सु⟫
@@ -203,7 +146,7 @@ A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Inf
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
+B) Die volgende wortels vorm die infinitief met verbindende klinker -i-. Vorm die infinitief vir:
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -213,106 +156,84 @@ B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infi
 6.  ⟪वृत्⟫
 7.  ⟪कुप्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
+C) Die volgende wortels keuselik met of sonder verbindende klinker:
 
 1.  ⟪अश्⟫
 2.  ⟪इष्⟫
 3.  ⟪बुध्⟫
-4.  ⟪मुह्⟫ (3 Formen!)
+4.  ⟪मुह्⟫ (3 vorms!)
 5.  ⟪सह्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf:
+D) Vertaal en ontleed die saamgestelde woorde:
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
-
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
-
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
+⟪नराः स्वर्गं लब्धुं देवान्यज्ञैर्यष्टुमिच्छन्ति ॥१॥ महापुण्यं कृत्वा गतपापजनेन नरकं गन्तुं न शक्यते ॥२॥ फलवन्ति पुण्यानीति सज्जनो ऽधर्मं कर्तुं नेच्छति ॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
+Afb.: ⟪फलवन्ति पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303))
+(Beeldbron: [Details](/af/licenses#lekt2303))
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
-
+⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति ॥४॥⟫
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Fig.: ⟪सुगतो लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301))
+(Beeldbron: [Besonderhede](/af/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
+⟪शूद्रजनो ब्राह्मणेन सह अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति ॥५॥ लोभसम्पन्ननरा नृत्यन्तीं सम्पन्नरूपदासीं द्रष्टुं गताः ॥६॥ शूद्रया संगत्य ब्राह्मणो यष्टुं नार्हति ॥७॥ धर्मं श्रोतुकामा ब्राह्मणी सपुत्रा गुरुं द्रष्टुं महानगरं गता ॥८॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
+C) Vertaal die volgende ⟪सुभाषितम् आहारनिद्राभयमैथुनं च सामान्यमेतत्पशुभिर्नराणाम् । धर्मे हि तेषामधिको विशेषो धर्मेण हीनाः पशुभिः समानाः ॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
-
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
-
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
-
-⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
-⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
-⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
-
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+Verduideliking: ⟪हीन ३⟫: PPP na ⟪हा⟫ 3: laat staan ; ⟪धर्मे⟫ = lokatief enkelvoud 'in …'
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+Fig.: ⟪आहारनिद्राभयमैथुनं च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302))
+(Beeldbron: [Details](/af/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung
+## 23.6. Hersieningsoefening
 
-Bitte keine Hilfsmittel benutzen!
+Gebruik asseblief geen hulpmiddels nie!
 
-A) Übersetzen Sie ins Sanskrit:
+A) Vertaal in Sanskrit:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib.
+1\. Die vyf (⟪पञ्च⟫) 'martelings' is: onkunde, die valse geloof in die self, gehegtheid, afkeer en vasklou aan die liggaam.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht.
+2\. Kennis word verkry deur gehoorsaamheid aan 'n leermeester, in ruil vir 'n groot bedrag geld, of in ruil vir ander kennis. Daar is geen vierde manier om kennis te verkry nie.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur.
+3\. 'n Laaggeestige persoon praat maar handel nie; 'n goeie persoon praat nie, maar handel slegs.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre.
+4\. Die hulptugwetenskappe van die Veda is: fonetiek, rituele wetenskap, grammatika, semantiek, meetkunde (⟪छन्दस्⟫) en kronologie.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans.
+5\. Yoga is die staaking van die aktiwiteite van die orgaan van denke.
+6\. Regverdigheid oorheers, nie onreg nie; waarheid oorheers, nie valsheid nie; geduld oorheers, nie woede nie; God oorheers, nie 'n valse god nie. (Passief)
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv)
-
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
+7\. Die 'staf' bewerkstellig die verkryging en veilige besit van filosofie, die Veda's en ekonomie. Die hantering van hierdie staf is politiek.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304))
+Fig.: ⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन सिंह⟫, Hoofminister van Indië = ⟪भारत के प्रधानमन्त्री⟫, sedert 2004
+(Beeldbron: [Details](/af/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\. Vrou, seun en slaaf—hierdie drie (⟪त्रयस्⟫) is, volgens tradisie, sonder besittings. Wat hierdie drie ook al verwerf, behoort aan die een tot wie hulle behoort.
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
+9\. Moskiete begeer 'n wond, heersers begeer besittings, die nederiges begeer twis, die deugsaamdes begeer vrede.
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern.
+10\. Die spesifieke plig van 'n Brahmin is: studie, onderrig, die uitvoering van offers as die offeraar, die uitvoering van offers namens ander, gee en ontvang; dié van 'n Kshatriya is: studie, die uitvoering van offers as die offeraar, gee, die verdien van 'n bestaan deur wapens, die beskerming van lewende wesens; dié van 'n Vaishya: studie, die uitvoering van offers as die offeraar, gee, boerdery, veeteelt en handel; dié van 'n Śūdra: gehoorsaamheid aan die Tweegeborenes, ekonomiese aktiwiteit, en die werk (⟪कर्म⟫) van ambagsmanne en vermaaklikes.
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben.
+11\. Verheldering van die bewussyn ontstaan deur die meditasie-ontwikkeling van liefdevolle vriendelikheid, deernis, meegevoelende vreugde en gelymoedigheid, wat geluk en lyding, goed en kwaad as voorwerpe het.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals.
+12\. Die armes het baie seuns, al begeer hulle hulle nie. Die rykes het geen seuns nie. Vreemd is die werkinge van die noodlot.
+13\. Wie sou nie betower word deur 'n vrou se liggaam (⟪वपुस्⟫ n.) met 'n slanke middel, breë heupe, rooi lippe, swart oë, 'n putvormige navel en stewig borste nie?
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
+B) Bepaal ⟪क्षत्रिया⟫ f. in al die gevalle wat jy ken.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f.
+C) Gee die stamvorme (d.w.s. teenwoordige tydklas, modus, 3de persoon enkelvoud teenwoordige aanwysende, 3de persoon enkelvoud passief, voltooide deelwoord, absolutiewe, infinitief) vir die volgende werkwoorde:
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+⟪१⟫. ⟪सह् २⟫. ⟪पा⟫ (2x)
 
-⟪१⟫. ⟪सह्⟫
-
-⟪२⟫. ⟪पा⟫ (2x)
-
-⟪३⟫. ⟪वच्⟫
-
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫
+⟪३⟫. ⟪वच् ४⟫. ⟪हन् ॥⟫
 

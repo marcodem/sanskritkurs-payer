@@ -1,29 +1,29 @@
-# Skriftoefening 11
+# Skriføvelse 11
 
-### Ziffern
+### Sifre
 
-Folgende zwei Schreibweisen sind gebräuchlich:
+Følgende to skrivemåter er alminnelige:
 
 ![](/images/schrift026.jpg)
 
-Variante in der Schrifttype von Kielhorns Grammatik:
+Variant i skrifttypen fra Kielhorns grammatikk:
 
 ![](/images/schrift027.jpg)
 
-### Oefening
+### Øvelse
 
-A) Schreiben Sie in Devanāgarī:
+A) Skriv i Devanāgarī:
 
 123 654 587 908 1007 9876 34 12 14 16 27 38 49 50 12 23 34 45 56 67 78 89 98 76 65 54 43 32 21
 
-B) Lesen und transliterieren Sie:
+B) Les og transliterer:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Klassifikation der Laute des Sanskrit (aus: Kielhorn: Grammatik der Sanskritsprache)
+### Klassifisering av lydene i sanskrit (fra: Kielhorn: Grammatikk over sanskritspråket)
 
 ![](/images/schrift028.webp)
 
-### Ende der Schriftübungen
+### Slutten på skriveøvelsene
 
 ## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

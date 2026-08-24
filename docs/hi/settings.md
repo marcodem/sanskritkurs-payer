@@ -4,6 +4,12 @@ title: "सेटिंग्स"
 
 ---
 
-<क्लाइंटओनली>
-<पेयरलैंग्वेजसेटिंग्स />
-</क्लाइंटओनली>
+<ClientOnly>
+<PayerLanguageSettings />
+</ClientOnly>
+
+::: note-box  Informationen & Version
+**वर्तमान संस्करण**: `v1.7.0`
+**रिलीज़ नोट्स और चेंजलॉग**: [v1.7.0 में क्या नया है?](/hi/release-notes)
+**स्रोत कोड और रिपॉजिटरी**: [GitHub Repository](https://github.com/birchville-org/sanskritkurs-payer)
+:::

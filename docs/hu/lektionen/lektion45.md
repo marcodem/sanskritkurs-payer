@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | ⟪जुहुषे⟫ | ⟪जुहुध्वे⟫ |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | ⟪अजुहुथास्⟫ | ⟪अजुहुध्वम्⟫ |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | ⟪जुह्वीथास्⟫ | ⟪जुह्वीध्वम्⟫ |
 :::
 ⟪धा⟫ 2U
 
@@ -104,7 +104,7 @@ pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 
 ## 45.4. Gyakorlat
 
-A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot \<⟪लङ्⟫\> használatával):
+A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot ⟪लङ्⟫ használatával):
 
 Te szétosztod a (buddhista) közösséget.
 

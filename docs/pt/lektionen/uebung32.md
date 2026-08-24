@@ -1,17 +1,18 @@
 ---
 title: "Exercício 32"
 uebung_id: 32
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 32
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbi entsprechenden Imperfektformen:
+A) Determine as seguintes formas verbais e forme as correspondentes formas do pretérito imperfeito em pessoa, número e gênero verbal:
 
 ::: grammar-box
-| Präsens / Futur | Imperfekt |
+| Presente / Futuro | Imperfeito |
 | :--- | :--- |
 | ⟪१⟫. ⟪हरिष्यन्ते⟫ | ⟪अहरन्त⟫ |
 | ⟪२⟫. ⟪घातयति⟫ | ⟪अघातयत्⟫ |
@@ -89,236 +90,227 @@ A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genu
 | ⟪७४⟫. ⟪प्रजानीते⟫ | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. ⟪जीवन्ति⟫ | ⟪अजीवन्⟫ |
 :::
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
+B) Traduza e resolva os compostos em sânscrito:
 
-⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
-(⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
-Es war einmal ein Fürst, der alle wünschenswerten Vorzüge hatte, von schöner Gestalt. Er stach unter allen Menschenfürsten hervor. Er opferte den Göttern, besiegte die Feinde, hütete das Volk und tat viel Verdienstvolles; deshalb wurde er nach seinem Tod in einer Götterwelt wiedergeboren.
+⟪१⟫. **⟪आसीत्क्षत्रिय उपपन्नो गुणैरिष्टै रूपवान् । स जनेन्द्राग्रे ऽतिष्ठत् । स देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत् । तस्मान्मृत्वा देवलोके पुनर्भवमलभत ॥१॥⟫**
+(⟪जनस्य इन्द्रस्य अग्रे । महत्⟫-⟪पुण्यम् । देवानां लोके⟫)
+Havia uma vez um príncipe que possuía todas as qualidades desejáveis, de bela aparência. Ele se destacava entre todos os soberanos humanos. Oferecia sacrifícios aos deuses, derrotava os inimigos, protegia o povo e realizava muitas ações meritórias; por isso, após sua morte, renasceu em um mundo divino.
 
-⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
-(⟪ब्राह्मणस्य⟫ ⟪पुत्रः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪गृहे⟫)
-Ein Brahmane wohnte in einer Grossstadt. Er liess seinen Sohn kommen und sprach: "Ein Brahmanensohn soll den Veda bei einem Meister studieren." Auf diese Worte hin ging der Sohn zu einem Meister, um zu studieren. Er trat ins Haus des Meisters und trat ehrfürchtig vor den Meister. Der Meister erkundigte sich nach dem Brahmanen. Dann gab er jenem Sohn Speise zu essen.
+⟪२⟫. **⟪ब्राह्मणो महानगरे ऽवसत् । स पुत्रमागमय्यावक् । ब्राह्मणपुत्रो वेदं गुरावधीयीतेति ॥२॥⟫**
+(⟪ब्राह्मणस्य पुत्रः । गुरोः गृहे⟫)
+Um brâmane residia em uma grande cidade. Ele chamou seu filho e disse: "Um filho de brâmane deve estudar o Veda sob a orientação de um mestre." Ouvindo essas palavras, o filho foi até um mestre para estudar. Ele entrou na casa do mestre e apresentou-se com reverência diante dele. O mestre indagou sobre o brâmane. Em seguida, ofereceu alimento àquele filho.
 
-⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
-Rāma ging zum Lehrer und sprach (die Worte).
+⟪३⟫. **⟪राम आचर्यमुपसंगम्य वचनमब्रवीत् ॥३॥⟫**
+Rāma dirigiu-se ao professor e proferiu (as palavras).
 
-⟪४⟫. **⟪ब्राह्मणा⟫ ⟪वेदमध्यैयत⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यैयत⟫ ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयत⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫**
-(⟪द्विजानां⟫ ⟪दासाः⟫)
-Brahmanen haben den Veda studiert und gelehrt, den Göttern als Opferherren und in fremdem Auftrag geopfert. Kṣatriyas haben den Veda studiert, das Volk behütet, die Erde genossen und den Göttern als Opferherren geopfert. Vaiśyas haben den Veda studiert, den Göttern als Opferherren geopfert, gekauft und verkauft. Śūdras aber waren Leibeigene der Zweimalgeborenen.
-
-⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
-(⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-Söhne Buddhas haben die Wahrheit erkannt, das Leiden zum Stillstand gebracht und die Erlösung erreicht. Als "Sohn Buddhas" wird ein Mönch bezeichnet, der den Weg Buddhas geht.
+⟪४⟫. **⟪ब्राह्मणा वेदमध्यैयत चाध्यापयंश्च देवांश्चायजन्नयजन्त च क्षत्रियाः श्रुतिमध्यैयत जनानरक्षन्महीमभुञ्जन्देवानयजन्त वैश्या वेदमध्यैयत देवानयजन्ताक्रीणन्व्यक्रीणत च द्विजदासास्तु शूद्रा आसन् ॥४॥⟫**
+(⟪द्विजानां दासाः⟫)
+Os brâmanes estudaram e ensinaram o Veda, ofereceram sacrifícios aos deuses como sacerdotes oficiantes e em nome de terceiros. Os kṣatriyas estudaram o Veda, protegeram o povo, desfrutaram da terra e ofereceram sacrifícios aos deuses como sacerdotes oficiantes. Os vaiśyas estudaram o Veda, ofereceram sacrifícios aos deuses como sacerdotes oficiantes, compraram e venderam. Os śūdras, porém, eram servos dos duas vezes nascidos.
+⟪५⟫. **⟪बुद्धपुत्राः सत्यमजानन्दुःखमरुन्धन्मोक्षं प्राप्नुवन् । बुद्धपुत्र इति बुद्धमार्गभिक्षुरुच्यते ॥५॥⟫**
+(⟪बुद्धस्य पुत्राः⟫)
+Os filhos de Buda reconheceram a verdade, puseram fim ao sofrimento e alcançaram a salvação. Denomina-se «filho de Buda» um monge que segue o caminho de Buda.
 
 ::: media
 ![](/images/uebung050.webp)
-Abb.: ⟪सम्पन्नरूपा⟫
-(Bildquelle: [Details](/licenses#uebung050))
+Fig.: ⟪सम्पन्नरूपा⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung050))
 :::
 ---
 
-## Wortformbestimmung
+## Identificação da forma gramatical
 
-Bestimmen und übersetzen Sie folgende Wörter:
+Identifique e traduza as seguintes palavras:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| Forma gramatical | Classificação | Significado |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | des Gottes |
-| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | (von) der bewohnten |
-| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden erhalten |
-| ⟪४⟫. ⟪गुरौ⟫ | Lok. sg. m. | beim Lehrer |
-| ⟪५⟫. ⟪भाव्यते⟫ | 3. sg. Ind. Präs. Kaus. Passiv | er wird hervorgebracht |
-| ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | dem Feuer |
-| ⟪७⟫. ⟪मोक्तुम्⟫ | Inf. | um zu befreien |
-| ⟪८⟫. ⟪वितत्य⟫ | Absol. | nachdem er aufgespannt hat |
-| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | für die Vergegenwärtigung |
-| ⟪१०⟫. ⟪देवताः⟫ | Nom./Akk. pl. f. | die Gottheiten |
-| ⟪११⟫. ⟪ब्रवीति⟫ | 3. sg. P. Ind. Präs. | er spricht |
-| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3. pl. P. Fut. | sie werden fragen |
-| ⟪१३⟫. ⟪पततः⟫ | Gen. sg. m./n. Part. Präs. | des fallenden |
-| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden schreiten |
-| ⟪१५⟫. ⟪आसते⟫ | 3. pl. Ā. Ind. Präs. | sie sitzen |
-| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | die grossen |
-| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sg. m./n. Part. Präs. | durch den Tötenden |
-| ⟪१८⟫. ⟪आययन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie schicken / lassen kommen |
-| ⟪१९⟫. ⟪एषिता⟫ | Nom. sg. f. Kaus. PPP | die wünschen gemachte |
-| ⟪२०⟫. ⟪आनाय्य⟫ | Absol. Kaus. | nachdem er herbeiführen liess |
-| ⟪२१⟫. ⟪अनृताय⟫ | Dat. sg. n. | für die Lüge |
-| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | durch die Verehrung |
-| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | (von) den Fragen |
-| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3. pl. P. Fut. | sie werden verbrennen |
-| ⟪२५⟫. ⟪मृगान्⟫ | Akk. pl. m. | die Wildtiere |
-| ⟪२६⟫. ⟪बोधिम्⟫ | Akk. sg. f. | die Einsicht |
-| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | durch Eigenschaften |
-| ⟪२८⟫. ⟪सन्ति⟫ | 3. pl. P. Ind. Präs. | sie sind / die wahren |
-| ⟪२९⟫. ⟪यन्ति⟫ | 3. pl. P. Ind. Präs. | sie gehen |
-| ⟪३०⟫. ⟪क्रियते⟫ | 3. sg. Ind. Präs. Pass. | es wird getan |
-| ⟪३१⟫. ⟪विगत्य⟫ | Absol. | nachdem es vergangen ist |
-| ⟪३२⟫. ⟪चरित्वा⟫ | Absol. | nachdem er geweidet hat |
-| ⟪३३⟫. ⟪पीते⟫ | Lok. sg. m./n. PPP | im getrunkenen |
-| ⟪३४⟫. ⟪अन्नानि⟫ | Nom./Akk. pl. n. | die Speisen |
-| ⟪३५⟫. ⟪जलम्⟫ | Nom./Akk. sg. n. | das Wasser |
-| ⟪३६⟫. ⟪वक्ति⟫ | 3. sg. P. Ind. Präs. | er sagt |
-| ⟪३७⟫. ⟪उक्तिः⟫ | Nom. sg. f. | der Ausspruch |
-| ⟪३८⟫. ⟪अर्धात्⟫ | Abl. sg. m./n. | vom halben |
-| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sg. m. | durch den Zweck |
-| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden gepriesen |
-| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3. sg. P. Fut. | er wird hören |
-| ⟪४२⟫. ⟪स्रष्टुम्⟫ | Inf. | um zu schöpfen |
-| ⟪४३⟫. ⟪पशुम्⟫ | Akk. sg. m. | das Tier |
-| ⟪४४⟫. ⟪स्तुतीः⟫ | Akk. pl. f. | die Lobpreisungen |
-| ⟪४५⟫. ⟪अरयः⟫ | Nom. pl. m. | die Feinde |
-| ⟪४६⟫. ⟪जात्या⟫ | Instr. sg. f. | durch die Geburt |
-| ⟪४७⟫. ⟪जाताम्⟫ | Akk. sg. f. PPP | die geborene |
-| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3. sg. P. Fut. | er wird zeigen |
-| ⟪४९⟫. ⟪दर्शितः⟫ | Nom. sg. m. Kaus. PPP | der gezeigte |
-| ⟪५०⟫. ⟪दुष्टाः⟫ | Nom. pl. m. PPP | verdorbene |
-| ⟪५१⟫. ⟪द्विजातीन्⟫ | Akk. pl. m. | die Zweimalgeborenen |
-| ⟪५२⟫. ⟪मृत्योः⟫ | Abl./Gen. sg. m. | des Todes |
-| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Gen. pl. PPP | der gemolkenen |
-| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | durch Anweisungen |
-| ⟪५५⟫. ⟪मात्रायाम्⟫ | Lok. sg. f. | im Mass |
-| ⟪५६⟫. ⟪अत्ति⟫ | 3. sg. P. Ind. Präs. | er isst |
-| ⟪५७⟫. ⟪जायन्ते⟫ | 3. pl. Ā. Ind. Präs. | sie werden geboren |
-| ⟪५८⟫. ⟪जीयन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden besiegt |
-| ⟪५९⟫. ⟪जयन्ति⟫ | 3. pl. P. Ind. Präs. | sie siegen |
-| ⟪६०⟫. ⟪जनयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie erzeugen |
-| ⟪६१⟫. ⟪प्रभृतेः⟫ | Abl./Gen. sg. f. | vom Beginn |
-| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3. pl. P. Ind. Präs. | sie treten davor |
-| ⟪६३⟫. ⟪स्थित्याम्⟫ | Lok. sg. f. | in der Festsetzung |
-| ⟪६४⟫. ⟪भिक्षुषु⟫ | Lok. pl. m. | bei den Mönchen |
-| ⟪६५⟫. ⟪पक्त्वा⟫ | Absol. | nachdem er gekocht hat |
-| ⟪६६⟫. ⟪योद्धुम्⟫ | Inf. | um zu kämpfen |
-| ⟪६७⟫. ⟪मारयित्वा⟫ | Absol. Kaus. | nachdem er getötet hat |
-| ⟪६८⟫. ⟪धेन्वा⟫ | Instr. sg. f. | durch die Milchkuh |
-| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3. pl. Ā. Fut. | sie werden denken |
-| ⟪७०⟫. ⟪इज्यते⟫ | 3. sg. Ind. Präs. Pass. | es wird geopfert |
-| ⟪७१⟫. ⟪प्रोद्य⟫ | Absol. | nachdem er verkündet hat |
-| ⟪७२⟫. ⟪लम्भयति⟫ | 3. sg. Ind. Präs. Kaus. | er lässt erhalten |
-| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Kaus. PPP | durch die gestellten |
-| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (von) den Kräften |
-| ⟪७५⟫. ⟪अलम्⟫ | Adv. | genug |
-| ⟪७६⟫. ⟪हेतून्⟫ | Akk. pl. m. | die Gründe |
-| ⟪७७⟫. ⟪प्रतिमासु⟫ | Lok. pl. f. | bei den Bildnissen |
-| ⟪७८⟫. ⟪यस्याः⟫ | Gen. sg. f. Rel. | von welcher |
-| ⟪७९⟫. ⟪हि⟫ | Konj. | denn, nämlich |
-| ⟪८०⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. Dem. | in diesem |
-| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3. pl. Ind. Präs. Pass. | sie werden genommen |
-| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Lok. pl. m./n. PPP | bei den Beauftragten |
-| ⟪८३⟫. ⟪अध्यापयति⟫ | 3. sg. P. Ind. Präs. Kaus. | er unterrichtet |
-| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3. pl. P. Ind. Präs. Kaus. | sie lassen lesen |
+| ⟪१⟫. ⟪देवस्य⟫ | Gen. sg. m. | do deus |
+| ⟪२⟫. ⟪उषितायाः⟫ | Abl./Gen. sg. f. PPP | (da) habitada |
+| ⟪३⟫. ⟪लप्स्यन्ते⟫ | 3.ª pessoa do plural, Ā. Futuro | serão preservados |
+| ⟪४⟫. ⟪गुरौ⟫ | Loc. sing. m. | junto do professor |
+| ⟪५⟫. ⟪भाव्यते⟫ | 3.ª sing. Ind. Pres. Caus. Passiva | ele é produzido |
+| ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | pelo fogo |
+| ⟪७⟫. ⟪मोक्तुम्⟫ | Infinitivo | para libertar |
+| ⟪८⟫. ⟪वितत्य⟫ | Absoluto | depois de ter estendido |
+| ⟪९⟫. ⟪स्मृत्यै⟫ | Dat. sg. f. | para a visualização |
+| ⟪१०⟫. ⟪देवताः⟫ | Nom./Ac. pl. f. | as divindades |
+| ⟪११⟫. ⟪ब्रवीति⟫ | 3.ª pessoa do singular, presente do indicativo | ele fala |
+| ⟪१२⟫. ⟪प्रक्ष्यन्ति⟫ | 3.ª pessoa do plural do futuro | elas vão perguntar |
+| ⟪१३⟫. ⟪पततः⟫ | Gen. 3.ª pers. sing. m./n. Part. Pres. | do que cai |
+| ⟪१४⟫. ⟪पत्स्यन्ते⟫ | 3.ª pl. Ā. Fut. | eles irão avançar |
+| ⟪१५⟫. ⟪आसते⟫ | 3.ª pessoa do plural, Ā. Ind. Pres. | elas estão sentadas |
+| ⟪१६⟫. ⟪महान्ति⟫ | Nom./Ac. pl. n. | os grandes |
+| ⟪१७⟫. ⟪घ्नता⟫ | Instr. sing. m./n. Part. Pres. | pelo assassino |
+| ⟪१८⟫. ⟪आययन्ति⟫ | 3.º pl. P. Ind. Pres. Caus. | eles mandam / fazem vir |
+| ⟪१९⟫. ⟪एषिता⟫ | Nominativo, singular, feminino, Causativo, P.P.P. | que desejam que seja feito |
+| ⟪२०⟫. ⟪आनाय्य⟫ | Causativo absoluto | depois de ter feito com que acontecesse |
+| ⟪२१⟫. ⟪अनृताय⟫ | Dativo singular neutro | pela mentira |
+| ⟪२२⟫. ⟪पूजया⟫ | Instr. sg. f. | pela veneração |
+| ⟪२३⟫. ⟪प्रश्नेभ्यः⟫ | Dat./Abl. pl. m. | (das) perguntas |
+| ⟪२४⟫. ⟪धक्ष्यन्ति⟫ | 3.ª pessoa do plural, futuro | elas arderão |
+| ⟪२५⟫. ⟪मृगान्⟫ | Acusativo plural masculino | os animais selvagens |
+| ⟪२६⟫. ⟪बोधिम्⟫ | Acusativo, singular, feminino | a compreensão |
+| ⟪२७⟫. ⟪गुणैः⟫ | Instr. pl. m. | pelas características |
+| ⟪२८⟫. ⟪सन्ति⟫ | 3.ª pl. P. Ind. Pres. | são / os verdadeiros |
+| ⟪२९⟫. ⟪यन्ति⟫ | 3.ª pessoa do plural, indicativo, presente | vão |
+| ⟪३०⟫. ⟪क्रियते⟫ | 3.ª pessoa do singular, indicativo, presente, passivo | é feito |
+| ⟪३१⟫. ⟪विगत्य⟫ | Absoluto | depois de ter passado |
+| ⟪३२⟫. ⟪चरित्वा⟫ | Absoluto | depois de ter pastado |
+| ⟪३३⟫. ⟪पीते⟫ | Loc. sg. m./n. PPP | no que foi bebido |
+| ⟪३४⟫. ⟪अन्नानि⟫ | Nom./Ac. pl. n. | os alimentos |
+| ⟪३५⟫. ⟪जलम्⟫ | Nom./Ac. sing. n. | a água |
+| ⟪३६⟫. ⟪वक्ति⟫ | 3.ª pessoa do singular, presente do indicativo | ele diz |
+| ⟪३७⟫. ⟪उक्तिः⟫ | nominativo, singular, feminino | a frase |
+| ⟪३८⟫. ⟪अर्धात्⟫ | abl. sing. m./n. | da metade |
+| ⟪३९⟫. ⟪अर्थेन⟫ | Instr. sing. m. | pelo propósito |
+| ⟪४०⟫. ⟪स्तूयन्ते⟫ | 3.ª pessoa do plural, indicativo, presente, passivo | serão louvados |
+| ⟪४१⟫. ⟪श्रोष्यति⟫ | 3.ª pessoa do singular, futuro do pretérito | ele ouvirá |
+| ⟪४२⟫. ⟪स्रष्टुम्⟫ | Infinitivo | para criar |
+| ⟪४३⟫. ⟪पशुम्⟫ | Acusativo sing. m. | o animal |
+| ⟪४४⟫. ⟪स्तुतीः⟫ | Acus. pl. f. | os louvores |
+| ⟪४५⟫. ⟪अरयः⟫ | nom. pl. m. | os inimigos |
+| ⟪४६⟫. ⟪जात्या⟫ | Instr. sing. f. | pelo nascimento |
+| ⟪४७⟫. ⟪जाताम्⟫ | Acusativo, singular, feminino, particípio passado | a nascida |
+| ⟪४८⟫. ⟪देक्ष्यति⟫ | 3.ª pessoa do singular, presente do futuro | ele vai mostrar |
+| ⟪४९⟫. ⟪दर्शितः⟫ | Nomeativo, singular, masculino, causal. PPP | o mostrado |
+| ⟪५०⟫. ⟪दुष्टाः⟫ | Nom. pl. m. PPP | estragadas |
+| ⟪५१⟫. ⟪द्विजातीन्⟫ | Acus. pl. m. | os que nasceram duas vezes |
+| ⟪५२⟫. ⟪मृत्योः⟫ | abl./gen. sing. m. | da morte |
+| ⟪५३⟫. ⟪दुग्धानाम्⟫ | Genitivo plural PPP | do ordenhado |
+| ⟪५४⟫. ⟪दिष्टिभिः⟫ | Instr. pl. f. | por instruções |
+| ⟪५५⟫. ⟪मात्रायाम्⟫ | Loc. sing. f. | em massa |
+| ⟪५६⟫. ⟪अत्ति⟫ | 3.ª pessoa do singular, indicativo, presente | ele come |
+| ⟪५७⟫. ⟪जायन्ते⟫ | 3.ª pessoa do plural, modo indicativo, presente | elas nascem |
+| ⟪५८⟫. ⟪जीयन्ते⟫ | 3.ª pessoa do plural, indicativo, presente, passivo | são derrotados |
+| ⟪५९⟫. ⟪जयन्ति⟫ | 3.ª pessoa do plural, presente do indicativo | eles vencem |
+| ⟪६०⟫. ⟪जनयन्ति⟫ | 3.ª pl. P. Ind. Pres. Caus. | eles produzem |
+| ⟪६१⟫. ⟪प्रभृतेः⟫ | abl./gen. sg. f. | desde o início |
+| ⟪६२⟫. ⟪उपतिष्ठन्ति⟫ | 3.ª pl. ind. pres. | elas aparecem antes disso |
+| ⟪६३⟫. ⟪स्थित्याम्⟫ | Locativo, singular, feminino | na determinação |
+| ⟪६४⟫. ⟪भिक्षुषु⟫ | Loc. pl. m. | junto dos monges |
+| ⟪६५⟫. ⟪पक्त्वा⟫ | Absoluto | depois de ter cozinhado |
+| ⟪६६⟫. ⟪योद्धुम्⟫ | Infinitivo | para lutar |
+| ⟪६७⟫. ⟪मारयित्वा⟫ | Causativo absoluto | depois de ter matado |
+| ⟪६८⟫. ⟪धेन्वा⟫ | Instrumental, singular, feminino | pela vaca leiteira |
+| ⟪६९⟫. ⟪मंस्यन्ते⟫ | 3.ª pessoa do plural, Ā, futuro | elas vão pensar |
+| ⟪७०⟫. ⟪इज्यते⟫ | 3.ª pessoa do singular, indicativo, presente, passivo | será sacrificado |
+| ⟪७१⟫. ⟪प्रोद्य⟫ | Absoluto | depois de ter anunciado |
+| ⟪७२⟫. ⟪लम्भयति⟫ | 3.ª pessoa do singular, indicativo, presente, causal | ele faz com que se mantenha |
+| ⟪७३⟫. ⟪स्थापिताभिः⟫ | Instr. pl. f. Caus. PPP | através das condições estabelecidas |
+| ⟪७४⟫. ⟪शक्तिभ्यः⟫ | Dat./Abl. pl. f. | (das) forças |
+| ⟪७५⟫. ⟪अलम्⟫ | Adv. | suficientes |
+| ⟪७६⟫. ⟪हेतून्⟫ | Acusativo, plural, masculino | as razões |
+| ⟪७७⟫. ⟪प्रतिमासु⟫ | loc. pl. f. | junto aos retratos |
+| ⟪७८⟫. ⟪यस्याः⟫ | gen. sg. f. rel. | de qual |
+| ⟪७९⟫. ⟪हि⟫ | Conj. | pois, nomeadamente |
+| ⟪८०⟫. ⟪तस्मिन्⟫ | Loc. sing. m./n. Dem. | neste |
+| ⟪८१⟫. ⟪ह्रियन्ते⟫ | 3.ª pl. Ind. Pres. Pass. | são levados |
+| ⟪८२⟫. ⟪अधिकृतेषु⟫ | Loc. pl. m./n. PPP | pelos encarregados |
+| ⟪८३⟫. ⟪अध्यापयति⟫ | 3.ª pessoa do singular, presente do indicativo, causativo | ele ensina |
+| ⟪८४⟫. ⟪वाचयन्ति⟫ | 3.ª pessoa do plural, presente do indicativo, condicional | elas fazem ler |
 :::
 ::: media
 ![](/images/uebung051.webp)
-Abb.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
-(Bildquelle: [Details](/licenses#uebung051))
+Fig.: ⟪किमयं रथो बालान् सुखतां वहति⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung051))
 :::
 ---
 
-## Exercício zum Sandhi
+## Exercício sobre Sandhi
 
-Setzen Sie in folgenden Sätzen die Wörter in den Klammern ein und beachten Sie die Sandhi-Regeln:
+Insira as palavras entre parênteses nas frases seguintes e observe as regras do Sandhi:
 
-⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
-- ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
-- ⟪रामो⟫ ⟪ग्रामादार्यग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-- ⟪रामो⟫ ⟪ग्रामान्महानगरं⟫ ⟪गच्छति⟫ ⟪।⟫
-- ⟪रामो⟫ ⟪ग्रामाच्छत्रुग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-- ⟪रामो⟫ ⟪ग्रामाज्जयनगरं⟫ ⟪गच्छति⟫ ⟪।⟫
-- ⟪रामो⟫ ⟪ग्रामात्कविगृहं⟫ ⟪गच्छति⟫ ⟪।⟫
-
-⟪२⟫. **⟪जयन्⟫ ... ⟪अरीन्हन्ति⟫ ⟪।⟫** (⟪इन्द्रशत्रु⟫ ⟪।⟫ ⟪शत्रु⟫ ⟪।⟫ ⟪जितशत्रुक्षत्रिय⟫ ⟪।⟫ ⟪लोकेश्वर⟫ ⟪।⟫ ⟪तद्गुणशूर⟫ ⟪।⟫ ⟪देवता⟫)
-- ⟪जयन्निन्द्रशत्रुररीन्हन्ति⟫ ⟪।⟫
-- ⟪जयञ्शत्रुररीन्हन्ति⟫ ⟪।⟫
-- ⟪जयञ्जितशत्रुक्षत्रियो⟫ ⟪ऽरीन्हन्ति⟫ ⟪।⟫
-- ⟪जयंल्लोकेश्वरो⟫ ⟪ऽरीन्हन्ति⟫ ⟪।⟫
-- ⟪जयंस्तद्गुणशूरो⟫ ⟪ऽरीन्हन्ति⟫ ⟪।⟫
-- ⟪जयन्ती⟫ ⟪देवतारीन्हन्ति⟫ ⟪।⟫
-
-⟪३⟫. **⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ... ⟪।⟫** (⟪अरि⟫ ⟪।⟫ ⟪आर्यशत्रु⟫)
-- ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्ते⟫ ⟪ऽरयः⟫ ⟪।⟫
-- ⟪न⟫ ⟪हि⟫ ⟪पुण्यवन्तस्त⟫ ⟪आर्यशत्रवः⟫ ⟪।⟫
-
-⟪४⟫. **⟪देवतया⟫ ... ⟪आद्यते⟫ ⟪।⟫** (⟪ऋषि⟫ ⟪।⟫ ⟪इन्द्रदेवी⟫)
-- ⟪देवतर्षिणाद्यते⟫ ⟪।⟫ (Plural: ⟪देवतर्षिभिराद्यते⟫ ⟪।⟫)
-- ⟪देवतेन्द्रदेव्याद्यते⟫ ⟪।⟫
-
-⟪५⟫. **⟪ब्राह्मणस्⟫ ... ⟪एति⟫ ⟪।⟫** (⟪नगर⟫)
-- ⟪ब्राह्मणो⟫ ⟪नगर⟫ ⟪एति⟫ ⟪।⟫ (Plural: ⟪ब्राह्मणो⟫ ⟪नगरेष्वेति⟫ ⟪।⟫)
+⟪१⟫. **⟪रामो ग्रामात्⟫ ... ⟪गच्छति ।⟫** (⟪नगर । आर्यग्राम । महानगर । शत्रुग्राम । जयनगर । कविगृह⟫)
+⟪रामो ग्रामान्नगरं गच्छति ।⟫
+⟪रामो ग्रामादार्यग्रामं गच्छति ।⟫
+⟪रामो ग्रामान्महानगरं गच्छति ।⟫
+⟪रामो ग्रामाच्छत्रुग्रामं गच्छति ।⟫
+⟪रामो ग्रामाज्जयनगरं गच्छति ।⟫
+⟪रामो ग्रामात्कविगृहं गच्छति । २⟫. **⟪जयन्⟫ ... ⟪अरीन्हन्ति ।⟫** (⟪इन्द्रशत्रु । शत्रु । जितशत्रुक्षत्रिय । लोकेश्वर । तद्गुणशूर । देवता⟫)
+⟪जयन्निन्द्रशत्रुररीन्हन्ति ।⟫
+⟪जयञ्शत्रुररीन्हन्ति ।⟫
+⟪जयञ्जितशत्रुक्षत्रियो ऽरीन्हन्ति ।⟫
+⟪जयंल्लोकेश्वरो ऽरीन्हन्ति ।⟫
+⟪जयंस्तद्गुणशूरो ऽरीन्हन्ति ।⟫
+⟪जयन्ती देवतारीन्हन्ति । ३⟫. **⟪न हि पुण्यवन्तस्ते⟫ ... ⟪।⟫** (⟪अरि । आर्यशत्रु⟫)
+⟪न हि पुण्यवन्तस्ते ऽरयः ।⟫
+⟪न हि पुण्यवन्तस्त आर्यशत्रवः । ४⟫. **⟪देवतया⟫ ... ⟪आद्यते ।⟫** (⟪ऋषि । इन्द्रदेवी⟫)
+⟪देवतर्षिणाद्यते ।⟫ (Plural: ⟪देवतर्षिभिराद्यते ।⟫)
+⟪देवतेन्द्रदेव्याद्यते । ५⟫. **⟪ब्राह्मणस्⟫ ... ⟪एति ।⟫** (⟪नगर⟫)
+⟪ब्राह्मणो नगर एति ।⟫ (Plural: ⟪ब्राह्मणो नगरेष्वेति ।⟫)
 
 ---
 
-## Zusätzliche Sanskrit-Übersetzungen
+## Traduções adicionais de Sânscrito
 
-1\. Nachdem der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen.
-**⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
+1\. Após o nascimento do filho, a brâmani envia um servo ao brâmane.
+**⟪पुत्रे जाते ब्राह्मणी दासं ब्राह्मणं गमयति ।⟫**
 
-2\. Der Heilige hat das ihm angetane Böse ertragen.
-**⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
+2\. O Santo suportou o mal que lhe foi infligido.
+**⟪साधुना कृतं पापं सोढम् ॥⟫**
 
-3\. Sittlichkeit ist des Mannes Zier.
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫**
+3\. A virtude é o ornamento do homem.
+**⟪शीलं नरस्य भूषणम् ॥⟫**
 
-4\. Die mächtigen Krieger sind ins Brahmanendorf gegangen.
-**⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫**
+4\. Os poderosos guerreiros foram à aldeia dos brâmanes.
+**⟪बलवद्योधा ब्राह्मणग्रामं गताः ॥⟫**
 
-5\. Das Mädchen weint.
-**⟪बाला⟫ ⟪रोदिति⟫ ⟪॥⟫**
+5\. A menina chora.
+**⟪बाला रोदिति ॥⟫**
 
-6\. Es gibt keine Krankheit gleich wie die Wollust, keinen Feind wie die Verwirrung, kein Feuer wie den Zorn, kein Glück wie die Erkenntnis.
-**⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫**
-**⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫**
+6\. Não há doença igual à luxúria, nenhum inimigo como a confusão, nenhum fogo como a ira, nenhuma felicidade como o conhecimento.
+**⟪नास्ति कामसमो व्याधिर्नास्ति मोहसमो रिपुः ।⟫**
+**⟪नास्ति क्रोधसमो वह्निर्नास्ति ज्ञानसमं सुखम् ॥⟫**
 
-7\. Ein Mann, den die Göttin behütet, ist glücklich.
-**⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫**
+7\. Um homem protegido pela deusa é feliz.
+**⟪यं नरं देवी रक्षति स सुखवान् ॥⟫**
 
-8\. Mit welchem Wind auch immer eine Wolke Wasser lässt, mit dem Wind bewegt ein Gelehrter seinen Schirm.
-**⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪वारिदो⟫ ⟪वारिं⟫ ⟪मुञ्चति⟫ ⟪।⟫**
-**⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥⟫**
+8\. Com qual vento quer que uma nuvem deixe cair água, com esse vento move um erudito seu guarda-sol.
+**⟪येन येन च वातेन वारिदो वारिं मुञ्चति ।⟫**
+**⟪तेन तेन च वातेन छत्रं वहति पण्डितः ॥⟫**
 
-9\. Der Kreislauf der Wiedergeburten hat keinen Anfang.
-**⟪अनादिकालिकः⟫ ⟪संसारः⟫ ⟪॥⟫**
+9\. O ciclo de renascimentos não tem início.
+**⟪अनादिकालिकः संसारः ॥⟫**
 
-10\. Willkommen der Königin!
-**⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
+10\. Bem-vinda a rainha!
+**⟪स्वागतं देव्यै ॥⟫**
 
-11\. Um des Himmels willen tun die Menschen Verdienstvolles.
-**⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
+11\. Por amor do céu, as pessoas praticam o mérito.
+**⟪स्वर्गेभ्यो नराः पुण्यं कुर्वते ॥⟫**
 
-12\. Auf Wiedersehen!
-**⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
+12\. Adeus!
+**⟪पुनर्दर्शनाय ॥⟫**
 
 ::: media
 ![](/images/uebung052.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
-(Bildquelle: [Details](/licenses#uebung052))
+Fig.: ⟪पुनर्दर्शनाय⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung052))
 :::
 ---
 
-## Scholarly Fragment (Stotra)
+## Fragmento Acadêmico (Stotra)
 
-**⟪शत्रूनगमयत्स्वर्गं⟫ ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫**  
-**⟪आशयच्चामृतं⟫ ⟪देवान्वेदमध्यापयद्विधिम्⟫ ⟪।⟫**  
-**⟪आसयत्सलिले⟫ ⟪पृथ्वीं⟫ ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिर्गतिः⟫ ⟪॥⟫**  
-Der hehre Hari ist meine Zuflucht, der seine Feinde in den Himmel schickte, die Seinen den Sinn des Veda wissen liess, den Göttern Amṛta zu essen gab, den Schöpfer den Veda lehrte und die Erde im Wasser festsetzte.
+**⟪शत्रूनगमयत्स्वर्गं वेदार्थं स्वानवेदयत् ।⟫**  
+**⟪आशयच्चामृतं देवान्वेदमध्यापयद्विधिम् ।⟫**  
+**⟪आसयत्सलिले पृथ्वीं यः स मे श्रीहरिर्गतिः ॥⟫**  
+O sublime Hari é meu refúgio, que enviou seus inimigos ao céu, permitiu que os seus conhecessem o sentido do Veda, deu aos deuses Amṛta para comer, ensinou ao criador o Veda e firmou a terra na água.
 
 ::: media
 ![](/images/uebung053.webp)
-Abb.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#uebung053))
+Fig.: ⟪श्रीगङ्गाधराय नमः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung053))
 :::
 ---
 
-## Erzählung: Der Greis und die Affen (Sanskrit-Bālādarśa)
+## Narrativa: O Idoso e os Macacos (Sanskrit-Bālādarśa)
 
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
+⟪एकदा कश्चिद्वृद्धो ग्रामान्तरं गच्छन्पथि श्रान्तो ऽभवत् । अतः स विश्रमाय पार्श्वस्थितस्य चूततरोर्मूलमगच्छत् ॥ तस्मिन्वृक्षे पचेलिमानि फलान्यवर्तन्त । वृद्धस्य तेषु स्पृहा जाती । परं स वृक्षमारुह्य तानि ग्रहीतुं नाशक्नोत् ॥ दिष्ट्या तस्मिन् तरौ केचिद्वानराः फलानि खादन्तः स्थिताः । तानवलोक्य वृद्धः प्रहर्षं गतः । स किमकरोत् । स कतिचिदुपलानादाय वानरांल्लक्ष्यीकृत्य प्राक्षिपत् । वानराः कुपिताः कानिचित्फलान्यवचित्य वृद्धं प्रति प्राक्षिपन् । वृद्धः सहर्षं तान्यादाय स्वाभीष्टदेशं गतः ॥ अहो वृद्धस्य कौशलम् ॥⟫
 
-**Übersetzung:**
-Einst ging ein Greis in ein anderes Dorf und wurde unterwegs müde. Um sich auszuruhen, ging er an den Fuss eines Mangobaums am Wegrand. Auf diesem Baum hingen reife Früchte. Der Greis bekam Lust auf sie, aber er konnte nicht auf den Baum steigen, um sie zu pflücken. Zum Glück waren auf dem Baum einige Affen, die Früchte frassen. Als der Greis dies sah, freute er sich. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf sie. Die Affen wurden wütend, pflückten einige Früchte und warfen sie auf den Greis. Der Greis nahm freudig die Früchte und ging seines Weges. Grossartig ist das Geschick des Greises!
+**Tradução:**
+Certa vez, um idoso foi a uma outra aldeia e cansou-se pelo caminho. Para descansar, ele se dirigiu à base de uma mangueira à beira da estrada. Nesse árvore pendiam frutos maduros. O idoso sentiu desejo por eles, mas não conseguia subir na árvore para colhê-los. Por sorte, havia alguns macacos nessa árvore que comiam frutos. Ao ver isso, o idoso alegrou-se. O que ele fez? Ele pegou algumas pedras, mirou nos macacos e as arremessou. Os macacos ficaram furiosos, colh alguns frutos e os atiraram no idoso. O idoso recebeu os frutos com alegria e seguiu seu caminho. Admirável é a astúcia do idoso!
 
 ::: media
 ![](/images/uebung054.webp)
-Abb.: ⟪वानरः⟫ ⟪कुपितः⟫
-(Bildquelle: [Details](/licenses#uebung054))
+Fig.: ⟪वानरः कुपितः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung054))
 :::

@@ -1,52 +1,53 @@
 ---
 title: "Exercício 41"
 uebung_id: 41
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 41
 
-A) Übersetzen Sie die beiden Sprichwörter am Anfang der Lektion:
+A) Traduza os dois provérbios no início da lição:
 
-⟪१⟫. **⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫**  
-**⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫ ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen, das (nur) in Büchern steht, und Geld, das in fremder Hand ist: Wenn der Augenblick des Bedarfs eintritt, ist dieses Wissen kein Wissen und dieses Geld kein Geld.
+⟪१⟫. **⟪पुस्तकस्था च या विद्या परहस्ते च यद्धनम् ।⟫**  
+**⟪कार्यकाले समुत्पन्ने न सा विद्या न तद्धनम् ॥ १ ॥⟫**  
+O conhecimento que está (apenas) em livros e o dinheiro que está nas mãos de outros: quando chega a hora da necessidade, esse conhecimento não é conhecimento e esse dinheiro não é dinheiro.
 
-⟪२⟫. **⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫ ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫**  
-**⟪पयःपानं⟫ ⟪भुजङ्गानां⟫ ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Unterweisung für Toren führt zur Erbitterung, nicht zum Frieden. Das Trinken von Milch durch Schlangen ist lediglich eine Vermehrung des Giftes.
+⟪२⟫. **⟪उपदेशो हि मूर्खाणां प्रकोपाय न शान्तये ।⟫**  
+**⟪पयःपानं भुजङ्गानां केवलं विषवर्धनम् ॥ २ ॥⟫**  
+A instrução para tolos leva à amargura, não à paz. Beber leite por parte das serpentes é apenas um aumento do veneno.
 
 ---
 
-## Übungstexte
+## Textos de Exercício
 
-B) Übersetzen Sie:
+B) Traduza:
 
-⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-"Ich nehme Zuflucht zum Buddha, ich nehme Zuflucht zum Dharma, ich nehme Zuflucht zum Sangha" — dies ist von denen zu sagen, die zum Buddha gegangen sind.
+⟪१⟫. **⟪बुद्धं शरणं गच्छामि धर्मं शरणं गच्छामि सङ्घं शरणं गच्छामीति बुद्धगतैर्वक्तव्यम् ॥ १ ॥⟫**
+"Busco refúgio no Buda, busco refúgio no Dharma, busco refúgio na Sangha" — isso deve ser dito por aqueles que foram ao Buda.
 
-### Exkurs: Die drei Zufluchten
-Diese dreifache Zuflucht ist entscheidend, um auf dem Weg zur Erlösung die nötige Motivation und Ausdauer zu besitzen. Da es zahllose Weisheitslehrer gibt, ist es unmöglich, allen einzeln zu folgen. Man muss eine Auswahl treffen. Die Persönlichkeit eines Lehrers muss vertrauenswürdig erscheinen (**Zuflucht zu Buddha**).
+### Nota lateral: Os Três Refúgios
+Este triplo refúgio é decisivo para possuir a motivação e a perseverança necessárias no caminho da libertação. Como existem inúmeros mestres de sabedoria, é impossível seguir cada um individualmente. É preciso fazer uma escolha. A personalidade do mestre deve parecer digna de confiança (**Refúgio no Buda**).
 
-Das Wesentliche ist jedoch nicht die Erlöserpersönlichkeit, sondern die Erlösungslehre, die es dem Einzelnen ermöglicht, den Weg selbst zu gehen. Man muss von der Lehre so überzeugt sein, dass man die Energie aufbringt, sie auf ihren Wahrheitsgehalt zu testen (**Zuflucht zum Dharma**).
+No entanto, o essencial não é a personalidade do libertador, mas sim a doutrina da libertação que permite ao indivíduo seguir o caminho por si mesmo. É preciso estar tão convencido pela doutrina a ponto de gastar energia para testar seu conteúdo verdadeiro (**Refúgio no Dharma**).
 
-Zudem muss man überzeugt sein, dass auch andere diesen Weg erfolgreich gegangen sind. Dies ist die **Zuflucht zum Sangha**, der Gemeinschaft derer, die auf dem Weg Buddhas zur Erlösung gelangt sind.
-⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-"Ich werde nach Benares (Kāśī) gehen, den Ganges sehen und dort sterben" — mit diesem Gedanken verliess der ehrenwerte alte Mann Söhne, Enkelsöhne und Besitz und zog nach Benares aus. Ich denke, dass er so das zu beendende Leiden überwinden wird.
+Além disso, deve-se estar convencido de que outros também percorreram com êxito esse caminho. Esta é a **Refúgio na Sangha**, a comunidade daqueles que alcançaram a libertação no caminho de Buda.
+⟪२⟫. **⟪काशीं पत्स्ये गङ्गां द्रक्ष्यामि तत्र च मरिष्यामीति मन्यमानो मान्यो वृद्धनरः पुत्रांश्च पुत्रपुत्रांश्च धनं च तत्याज काशीं च प्राव्रजत् । एवं च रोध्यं दुःखं तरिष्यतीति मन्ये ॥ २ ॥⟫**
+"Vou para Benares (Kāśī), verei o Ganges e ali morrerei" — com este pensamento, o venerável ancião abandonou filhos, netos e bens e partiu para Benares. Penso que ele assim superará o sofrimento que deve ser posto fim.
 
-⟪३⟫. **⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Ich habe ein Mädchen geheiratet, mit ihr einen Sohn gezeugt und grossen Reichtum erlangt; so habe ich das Glück erreicht" — in dieser Weise täuschte ich mich in der Vergangenheit. Dann erkannte ich: Aus Glück entsteht Leid; deshalb ist auch das weltliche Glück aufzugeben, und nichts sollte mit den Sinnen berührt werden.
+⟪३⟫. **⟪कन्यां व्युवह तस्यां च पुत्रमजनयं महाधनं च लेभ एवं सुखमापेत्यतीते मुमोह । ततः प्रजज्ञौ सुखाद्दुःखं जायते तस्माल्लोकसुखमपि त्यजनीयं न च किंचिदिन्द्रियैः स्प्रष्टव्यमिति ॥ ३ ॥⟫**
+"Casei-me com uma menina, geramos um filho e adquirimos grande riqueza; assim alcancei a felicidade" — dessa forma iludi-me no passado. Então reconheci: da felicidade surge o sofrimento; por isso, também a felicidade mundana deve ser abandonada, e nada deve ser tocado pelos sentidos.
 
-⟪४⟫. **⟪विक्रेयाणि⟫ ⟪विक्रीयापुत्रवैश्यो⟫ ⟪भिक्षुभ्यो⟫ ⟪विक्रयफलमददाद्दानपुण्यं⟫ ⟪चादत्त⟫ ⟪।⟫ ⟪एतत्कर्म⟫ ⟪स्तुत्यमिति⟫ ⟪भिक्षवः⟫ ⟪प्रोचुर्बुद्धिमन्तस्तु⟫ ⟪विकल्पयन्ति⟫ ⟪किमेवं⟫ ⟪कुर्वाणो⟫ ⟪वैश्यः⟫ ⟪पुण्यं⟫ ⟪चकारेति⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Nachdem er die zu verkaufenden Waren veräussert hatte, gab der sohnlose Vaiśya den Erlös den Mönchen und empfing das Verdienst der Gabe. Die Mönche verkündeten: "Diese Tat ist lobenswert." Die Einsichtigen jedoch zweifeln, ob der so handelnde Vaiśya tatsächlich Verdienstvolles getan hat.
+⟪४⟫. **⟪विक्रेयाणि विक्रीयापुत्रवैश्यो भिक्षुभ्यो विक्रयफलमददाद्दानपुण्यं चादत्त । एतत्कर्म स्तुत्यमिति भिक्षवः प्रोचुर्बुद्धिमन्तस्तु विकल्पयन्ति किमेवं कुर्वाणो वैश्यः पुण्यं चकारेति ॥ ४ ॥⟫**
+Após ter vendido as mercadorias para venda, o vaiśya sem filhos deu a receita aos monges e recebeu o mérito da doação. Os monges proclamaram: "Esta ação é louvável." Os sábios, no entanto, duvidam se o vaiśya que age assim realmente realizou algo meritório.
 
-⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-Von Lehrern sind Schüler zu unterweisen; von Schülern ist das Pensum zu studieren.
+⟪५⟫. **⟪गुरुभिः शिष्याः शासितव्याः शिष्यैरध्ययनमध्येतव्यम् ॥ ५ ॥⟫**
+Os alunos devem ser instruídos pelos professores; os estudantes devem estudar o currículo.
 
 ::: media
 ![](/images/uebung067.jpg)
-Abb.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
-(Bildquelle: [Details](/licenses#uebung067))
+Fig.: ⟪बुद्धं शरणं गच्छामि⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung067))
 :::

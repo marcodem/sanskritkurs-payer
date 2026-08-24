@@ -1,130 +1,131 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: "Lesing 59"
+subtitle: "Die sekondêre uitgange en imperatiewe uitgange van die tweevoud (⟪द्विवचनम्⟫)"
 lesson_id: 59
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Les 59
+# Lesing 59
 
-## 59.1. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
+## 59.1. Die sekondêre uitgange en imperatiewe uitgange van die tweevoud (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|   | sekundär | Imperativ (⟪लोट्⟫) | sekundär thematisch | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) |
+|   | sekondêr | Imperatief (⟪लोट्⟫) | sekondêr tematies | sekondêr atematies:brOptatief (⟪विधिलिङ्⟫) | Imperatief (⟪लोट्⟫) |
 | **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.2. Die tweevoud van tematiese teenwoordige tyd klasse: Optatief (⟪विधिलिङ्⟫), Onvoltooid Verlede Tyd (⟪लङ्⟫), Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-**Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt.**
+**Voordat -va en -vahi verskyn, word die tematiese klinker -a- vervang deur -ā-.**
 :::
-### 59.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 59.2.1. Eerste teenwoordige tyd klas (⟪भ्वादिगणः⟫)
 
-⟪भू⟫ 1P "werden, sein"
+⟪भू⟫ 1P "word, wees"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | \<⟪भवेवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \<⟪भवेयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \<⟪भवेयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | ⟪भवेवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | ⟪भवेयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | ⟪भवेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid Verlede Tyd (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | \<⟪अभवावहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | \<⟪अभवेथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | \<⟪भभवेताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | ⟪अभवावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | ⟪अभवेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | ⟪भभवेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | \<⟪भवावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \<⟪भवेथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \<⟪भवेताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | ⟪भवावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | ⟪भवेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | ⟪भवेताम्⟫ |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. Vierde teenwoordige tyd klas (⟪दिवादिगणः⟫)
 
-⟪नृत्⟫ 4P "tanzen"
+⟪नृत्⟫ 4P "dans"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | \<⟪नृत्येवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | \<⟪नृत्येयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | \<⟪नृत्येयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | ⟪नृत्येवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | ⟪नृत्येयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | ⟪नृत्येयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvolledend (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | \<⟪अनृत्यावहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | \<⟪अनृत्येथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | ⟪अनृत्यावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | ⟪अनृत्येथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | ⟪नृत्येताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | \<⟪नृत्यावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \<⟪नृत्येथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | ⟪नृत्यावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | ⟪नृत्येथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | ⟪नृत्येताम्⟫ |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. Sesde teenwoordige klas (⟪तुदादिगणः⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "stoot, slaan"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदेव⟫ | ⟪तुदेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvolledend (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतुदाव⟫ | ⟪अतुदावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतुदताम्⟫ | ⟪अतुदेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 59.2.4. Tiende teenwoordige klas (⟪चुरादिगणः⟫) en Kausatiwe (⟪णिजन्त⟫)
 
-⟪चुर्⟫ 10U "stehlen"
+⟪चुर्⟫ 10U "stelen"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयेव⟫ | ⟪चोरयेवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
@@ -133,26 +134,26 @@ Optativ (⟪विधिलिङ्⟫)
 Imperfekt (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अचोरयाव⟫ | ⟪अचोरयावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अचोरयताम्⟫ | ⟪अचोरयेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चोरयाव⟫ | ⟪चोरयावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. Die Passief (Suffix -⟪यक्⟫)
 
-⟪तुद्⟫ 6U "stossen, schlagen"
+⟪तुद्⟫ 6U "stoot, slaan"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्येवहि⟫ |
@@ -168,7 +169,7 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अतुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतुद्येताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यावहै⟫ |
@@ -176,22 +177,22 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. Die Dual van athematiese teenwoordige tyd klasse: Optatief (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperatief (⟪लोट्⟫)
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 59.3.1. Tweede teenwoordige tyd klas (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen"
+⟪द्विष्⟫ 2U "haat"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪द्विष्याव⟫ | ⟪द्विषीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid Verlede Tyd (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -200,7 +201,7 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अद्विष्टम्⟫ | ⟪अद्विषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अद्विष्टाम्⟫ | ⟪अद्विषाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Gebiedende Wys (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -209,9 +210,9 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्टम्⟫ | ⟪द्विषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषाताम्⟫ |
 :::
-⟪दुह्⟫ 2U "melken"
+⟪दुह्⟫ 2U "melk"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -220,7 +221,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid Verlede Tyd (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -229,7 +230,7 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अदुग्धम्⟫ | ⟪अदुहाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अदुग्धाम्⟫ | ⟪अदुहाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Gebiedende Wys (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -238,9 +239,9 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दुग्धम्⟫ | ⟪दुहाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुग्धाम्⟫ | ⟪दुहाताम्⟫ |
 :::
-⟪इ⟫ 2P "gehen"
+⟪इ⟫ 2P "gaan"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -249,7 +250,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid Verlede Tyd (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -258,423 +259,423 @@ Imperfekt (⟪लङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪ऐतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪ऐताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Gebiedende Wys (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अयाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪इतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इताम्⟫ |
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren"
+⟪इ⟫ + ⟪अधि⟫ 2Ā "study"
 
-Optativ (⟪विधिलिङ्⟫)
+Optative (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीयीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अध्यैवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अध्यैयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अध्यैयाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperative (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪आत्मनेपदम्⟫ |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अध्यैयावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयाताम्⟫ |
 :::
-⟪हन्⟫ 2P "erschlagen"
+⟪हन्⟫ 2P "slay"
 
-Optativ (⟪विधिलिङ्⟫)
+Optative (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪हन्याव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अहन्व⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫   |
 | \*a-hn-tam | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अहताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperative (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪हनाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪हतम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हताम्⟫ |
 :::
-⟪अस्⟫ 2P "sein"
+⟪अस्⟫ 2P "be"
 
-Optativ (⟪विधिलिङ्⟫)
+Optative (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪स्याव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आस्व⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आस्ताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ |
 :::
-### 59.3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 59.3.2. Der derde teenwoordige klas (⟪जुहोत्यादिगणः⟫)
 
-⟪हु⟫ 3P "ins Opferfeuer giessen"
+⟪हु⟫ 3P "in die offerbrandoffer gooi"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | \<⟪जुह्वीवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | ⟪जुह्वीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | ⟪जुह्वीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | ⟪जुह्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid verlede tyd (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | \<⟪अजुहुवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | \<⟪अजुह्वाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | \<⟪अजुह्वाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | ⟪अजुहुवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | ⟪अजुह्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | ⟪अजुह्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | \<⟪जुहवावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | \<⟪जुह्वाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | \<⟪जुह्वाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | ⟪जुहवावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | ⟪जुह्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | ⟪जुह्वाताम्⟫ |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen"
+⟪धा⟫ 3U "plaas, lê, stel"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्याव⟫ | ⟪दधीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दध्याताम्⟫ | ⟪दधीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid verlede tyd (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अदध्व⟫ | ⟪अदध्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधत्ताम्⟫ | ⟪अदधाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫   |
 | da-dhā + āvahai | | | |
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. Vyfde teenwoordige klas (⟪स्वादिगणः⟫)
 
-⟪सु⟫ 5U "auspressen"
+⟪सु⟫ 5U "pers uit"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सुनुयाव⟫ | ⟪सुन्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुयातम्⟫ | ⟪सुन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुयाताम्⟫ | ⟪सुन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid verlede tyd (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असुनुव⟫ / ⟪असुन्व⟫ | ⟪असुनुवहि⟫ / ⟪असुन्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असुनुतम्⟫ | ⟪असुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असुनुताम्⟫ | ⟪असुन्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सुनवाव⟫ | ⟪सुनवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. Agtste teenwoordige klas (⟪तनादिगणः⟫)
 
-⟪तन्⟫ 8U "aufspannen"
+⟪तन्⟫ 8U "span uit"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तनुयाव⟫ | ⟪तन्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Onvoltooid verlede tyd (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतनुव⟫ / ⟪अतन्व⟫ | ⟪अतनुवहि⟫ / ⟪अतन्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अतनुतम्⟫ | ⟪अतन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अतनुताम्⟫ | ⟪अतन्वताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तनवाव⟫ | ⟪तनवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen"
+⟪कृ⟫ 8U "do, make"
 
-Optativ (⟪विधिलिङ्⟫)
+Optative (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्याव⟫ | ⟪कुर्वीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अकुर्व⟫ | ⟪अकुर्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अकुरुतम्⟫ | ⟪अकुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अकुरुताम्⟫ | ⟪अकुर्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperative (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪करवाव⟫ | ⟪करवावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ |
 :::
-### 59.3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 59.3.5. Seventh Present Class (⟪रुधादिगणः⟫)
 
-⟪रुध्⟫ 7U "stoppen"
+⟪रुध्⟫ 7U "stop"
 
-Optativ (⟪विधिलिङ्⟫)
+Optative (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्याव⟫ | ⟪रुन्धीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अरुन्ध्व⟫ | ⟪अरुन्ध्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अरुन्द्धम्⟫ | ⟪अरुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अरुन्द्धाम्⟫ | ⟪अरुन्धाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperative (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुणधाव⟫ | ⟪रुणधावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ |
 :::
-⟪युज्⟫ 7U "anschirren"
+⟪युज्⟫ 7U "yoke"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्याव⟫ | ⟪युञ्जीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfektum (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अयुञ्ज्व⟫ | ⟪युञ्ज्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अयुङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-### 59.3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 59.3.6. Negende teenwoordige klas (⟪क्र्यादिगणः⟫)
 
-⟪क्री⟫ 9U "kaufen"
+⟪क्री⟫ 9U "koop"
 
-Optativ (⟪विधिलिङ्⟫)
+Optatief (⟪विधिलिङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfektum (⟪लङ्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अक्रीणीव⟫ | ⟪अक्रीणीवहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अक्रीणीताम्⟫ | ⟪अक्रीणाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫)
+Imperatief (⟪लोट्⟫)
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪क्रीणाव⟫ | ⟪क्रीणावहै⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Tweeled (⟪द्विवचनम्⟫) Aoristus (⟪लुङ्⟫)
 
-### 59.4.1. Wurzelaorist
+### 59.4.1. Wortstelaoristus
 
-⟪पा⟫ 1P "trinken"
+⟪पा⟫ 1P "drink"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अपाव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. a-Aoristus
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U "besprenkel"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪असिचाव⟫ | ⟪असिचावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. Herhaling-Aoristus
 
-⟪श्रि⟫ 1U "sich begeben zu"
+⟪श्रि⟫ 1U "gaan na"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अशिश्रियाव⟫ | ⟪अशिश्रियावहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. s-Aoristus
 
-⟪नी⟫ 1U "führen"
+⟪नी⟫ 1U "lei"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अनैष्व⟫ | ⟪अनेष्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अनैष्टम्⟫ | ⟪अनेषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अनैष्टाम्⟫ | ⟪अनेषाताम्⟫ |
 :::
-⟪तुद्⟫ 6U "stossen"
+⟪तुद्⟫ 6U "stoot"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अतौत्स्व⟫ | ⟪अतुत्स्वहि⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫ | |
+| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫   | |
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. iṣ-Aorist
+### 59.4.5. iṣ-Aoristus
 
-⟪पू⟫ 9U "reinigen"
+⟪पू⟫ 9U "reinig"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अपाविष⟫ | ⟪अपविष्वहि⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. Aoristus (⟪लुङ्⟫) 6: siṣ-aoristus (P slegs)
 
 ::: grammar-box
-**Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Im Ā bilden alle diese Wurzeln den s-Aorist.**
+**In P word die siṣ-aorist gevorm deur alle wortels wat op -ā, -e, -o, -ai eindig en nie tot die 1ste, 2de of 3de aorist beperk is nie, asook 'n aantal ander wortels, insluitend ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. In die Ā vorm al hierdie wortels die s-aorist.
 
-**Bildung:**
+**Vorming:**
 
-**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
+**Augment + hooggrade-wortel + s + i + ṣ + athemiese sekondêre agtervoegsel (soos in die iṣ-aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
+Die stamvormende agtervoegsel en uitgange van die siṣ-aorist is dus:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |||
@@ -684,9 +685,9 @@ Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 | **2. ⟪द्वितीयः⟫** | **-sīs** | **-siṣṭam** | **-siṣṭa** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | **-siṣṭām** | **-siṣur** |
 :::
-Paradigma:
+Infleksietabel:
 
-⟪या⟫ 2P "gehen"
+⟪या⟫ 2P 'om te gaan'
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ |||
@@ -696,18 +697,18 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | :sig[⟪अयासीस्⟫] | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | :sig[⟪अयासीत्⟫] | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. Aoristus (⟪लुङ्⟫) 7: sa-aoristus (tematieke s-aoristus)
 
 ::: grammar-box
-**Den sa-Aorist bilden die meisten ⟪अनिट्⟫-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative ⟪अनिट्⟫-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist.**
+**Die sa-aorist word gevorm deur die meeste ⟪अनिट्⟫-wortels wat eindig in -ś, -ṣ of -h en i, u of ṛ in die voorlaaste posisie het. Opsionele ⟪अनिट्⟫-wortels van hierdie vorm kan óf die sa-aorist óf die iṣ-aorist vorm.
 
-**Bildung:**
+**Vorming:**
 
-**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung**
+**Augment + laagste-graadwortel + s + a + tematiese sekondêre agtervoegsel**
 
-**Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.**
+**Die 1ste persoon enkelvoud, 2de en 3de persoon meervoud Ā-vorme word gevorm deur die s-aorist, d.w.s. atematies.**
 :::
-Stammbildungssuffix + Endungen des sa-Aorist lauten also:
+Die stamvormende agtervoegsel en uitgange van die sa-aorist is dus:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -717,9 +718,9 @@ Stammbildungssuffix + Endungen des sa-Aorist lauten also:
 | **2. ⟪द्वितीयः⟫** | **-sas** | **-satam** | **-sata** | **-sathās** | **-sāthām** | **-sadhvam** |
 | **3. ⟪प्रथमः⟫** | **-sat** | **-satām** | **-san** | **-sata** | **-sātām** | **-santa** |
 :::
-Paradigma:
+Infleksie:
 
-⟪दिश्⟫ 6U "zeigen"
+⟪दिश्⟫ 6U 'om te wys'
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -730,13 +731,13 @@ Paradigma:
 | **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | :sig[⟪अदिक्षाताम्⟫] | ⟪अदिक्षन्त⟫ |
 :::
 ::: grammar-box
-**Besonderheiten:**
+**Spesiale kenmerke:**
 
-**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.**
+**'n Paar woorde word afgelei van -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) kan opsioneel die 2de persoon enkelvoud, 1ste dualis en 2de meervoud in die Ā-geval sonder -sa- vorm.**
 :::
 Paradigma:
 
-⟪दिह्⟫ 2U "bestreichen"
+⟪दिह्⟫ 2U 'om te bedek'
 
 ::: indent
 |   | ⟪आत्मनेपदम्⟫ |||
@@ -746,41 +747,41 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / :sig[⟪अधिग्धास्⟫] | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / :sig[⟪अधिग्ध्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / :sig[⟪अदिग्ध⟫] | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Übung
+## 59.7. Oefening
 
-A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen.
+A) Vertaal die volgende teks en identifiseer al die werkwoordvorme wat daarin voorkom.
 
-_Vorbemerkung:_
+_Voorlopige nota:_
 
-Der folgende Text stammt aus dem ⟪भट्टिकाव्य⟫ ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das ⟪भट्टिकाव्य⟫ erzählt in 22 Gesängen die Geschichte von ⟪राम⟫, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele.
+Die volgende teks is geneem uit die ⟪भट्टिकाव्य⟫ (''n Gedig deur die \[digters\] Bhaṭṭi'). Die ⟪भट्टिकाव्य⟫ vertel die verhaal van ⟪राम⟫ in 22 kantos, terwyl dit terselfdertyd die reëls van grammatika en poëtiek met voorbeelde illustreer.
 
-Das Gedicht hat vier Abschnitte:
+Die gedig het vier afdelings:
 
-1.  Gesang 1-5: vermischte Regeln
-2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik
-3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel
-4.  Gesang 14-22: Gebrauch der Tempora und Modi
+1.  Kantiek 1–5: uiteenlopende reëls
+2.  Kantiek 6–9: hoofreëls van Pāṇini se grammatika
+3.  Kantiek 10–13: die belangrikste poëtiese middele
+4.  Kanto 14–22: gebruik van tye en modi
 
-Das ⟪भट्टिकाव्य⟫ ist in der Zeit zwischen 495 und 641 n. Chr. entstanden.
+⟪भट्टिकाव्य⟫ is tussen 495 en 641 n.C. gekomponeer.
 
 ::: media
 ![](/images/lekt5902.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt5902))
+Fig.: ⟪रावणः⟫
+(Beeldbron: [Details](/af/licenses#lekt5902))
 :::
-Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. ⟪रावण⟫, der Dämonenkönig, der dem ⟪राम⟫ dessen Frau ⟪सीता⟫ geraubt hat, schickt nach seinem Bruder ⟪कुम्भकर्ण⟫ ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt.
+Die volgende afdeling dui die begin van die 15de canto aan, wat aan die aorist opgedra is. ⟪रावण⟫, die demoonkoning wat ⟪राम⟫ ontvoer het wie se vrou ⟪सीता⟫ hy ontvoer het, stuur vir sy broer ⟪कुम्भकर्ण⟫ ("Pot-Oor"), wat as straf vir sy misdade in 'n soort voortdurende sluimer lê.
 
 ::: media
 ![](/images/lekt5903.webp)
-Abb.: ⟪कुम्भकर्णः⟫
-Kecak-Tanz, Bali (Indonesien)
-(Bildquelle: [Details](/licenses#lekt5903))
+Fig.: ⟪कुम्भकर्णः⟫
+Kecak-dans, Bali (Indonesië)
+(Beeldbron: [Besonderhede](/af/licenses#lekt5903))
 :::
-_Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ zu ⟪दृश्⟫
+_Vertalingsnota:_ Vers 6: ⟪दिदृक्षते⟫ \= Wensvorm van ⟪दृश्⟫
 
 ::: media
 ![](/images/lekt5901.webp)
-(Bildquelle: [Details](/licenses#lekt5901))
+(Beeldbron: [Besonderhede](/af/licenses#lekt5901))
 :::
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
+Teks uit: Otto Böhtlingk: Sanskrit-Chrestomathie, bl. 127ff.
 

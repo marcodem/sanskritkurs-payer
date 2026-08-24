@@ -1,11 +1,11 @@
-
 ---
 outline: 2
+
 ---
 
-# Woordenlijst (Gesamtübersicht)
+# Woordenlijst (Totaaloverzicht)
 
-*Alle neuen Wörter aus dem Kurs in der Reihenfolge ihrer Einführung, mit thematischen Erläuterungen.*
+*Alle nieuwe woorden uit de cursus in de volgorde van hun introductie, met thematische toelichtingen.*
 
 
 ## Les 2
@@ -16,110 +16,112 @@ outline: 2
 
 
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König.
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
+
+**deva** m. -- ⟪देव⟫ : hemelbewoner, god; vorst, koning.
+
+**īśvara** m. -- ⟪ईश्वर⟫ : heer, heerser, god (monotheïstisch).
+
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : brahmaan (geestelijke stand).
+
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (vorsten- en krijgersstand).
+
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (voedings- en handelsstand).
+
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (dienstverlenende stand).
 
 ::: note-box Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
+Volgens de klassieke theorie (bijv. Manusmṛti I, 88-91) zijn de taken verdeeld:
 
-- **der Brahmanen**
-  - Vedastudium
-  - Lehre
-  - Opfer für sich
-  - Opfer für andere
-  - Geben
-  - Empfangen von Gaben
-- **der Kṣatriyas**
-  - das Volk schützen
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Vaiśyas**
-  - Viehhaltung
-  - Landwirtschaft
-  - Handel
-  - Geldverleih
-  - für sich opfern
-  - Gaben (an Brahmanen) geben
-  - für sich opfern
-  - Vedastudium
-- **der Śūdras**
-  - den drei oberen Klassen dienen
+**van de brahmanen**
+vedastudie
+onderricht
+offer voor zichzelf
+offer voor anderen
+geven
+ontvangen van gaven
+**van de kṣatriya's**
+het volk beschermen
+gaven (aan brahmanen) geven
+voor zichzelf offeren
+vedastudie
+**van de vaiśya's**
+veeteelt
+landbouw
+handel
+geldverlening
+voor zichzelf offeren
+gaven (aan brahmanen) geven
+voor zichzelf offeren
+vedastudie
+**van de śūdra's**
+de drie hogere klassen dienen
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "tweemaalgeborene" (geïnitieerden van de drie hoogste standen: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung).
+**varṇa** m. -- ⟪वर्ण⟫ : kleur, geboortestand (streven).
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
-
+De vier standen (**varṇa** m.) worden vaak met kasten verward. De vier standen zijn echter -- in tegenstelling tot de kasten -- niets specifiek Indisch, ook in Europa hadden wij (deels tot aan de Eerste Wereldoorlog) een standenmaatschappij, zoals de volgende afbeelding uit de 15e eeuw aantoont:
 ::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201))
+Afb.: Weergave van de standenindeling in de Europese middeleeuwen (houtsnede uit het einde van de 15e eeuw).
+(Bron: [Details](/licenses#lekt0201))
 :::
-**Beschriftung:**
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend!
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze!
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite!
+**Bijschriften:**
+- **Priesterklasse** (~Brāhmaṇa): Tu supplex ora = Bid smekend!
+- **Adel** (~Kṣatriya): Tu protege = Bescherm!
+- **Boerenstand** (~Vaiśya/Śūdra): Tuque labora = En werk!
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
+De drie standen dragen de bijbehorende standskleding. Boven de standen – die daarmee als door God gewild worden aangeduid – troont Christus.
 
-Max Weber \<1864 – 1920\> definiert Stand so:
+Max Weber (1864–1920) definieert ‘stand’ als volgt:
 
 ::: note-box
-»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+»**Stand**« verwijst naar een groep mensen die binnen een vereniging daadwerkelijk
+a) aanspraak maken op een bijzondere status binnen de stand, – en mogelijk dus ook
+b) aanspraak maken op bijzondere standmonopolies.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
+Standen kunnen ontstaan
+a) primair, door een eigen standgebonden levenswijze, waaronder in het bijzonder door de aard van het **beroep** (**levenswijze- resp. beroepsstanden**),
+b) secundair, erfelijks-charismatisch, door succesvolle aanspraken op prestige op grond van standgebonden **afstamming** (**geboortestanden**),
+c) door standgebonden **toe-eigening** van politieke of hiocratische heersersbevoegdheden als monopolies (**politieke of hiocratische standen**).
 
-Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+De ontwikkeling van de stand op basis van afkomst is doorgaans een vorm van (erfelijke) toe-eigening van privileges aan een vereniging of aan gekwalificeerde individuen. Elke vaste toe-eigening van kansen, in het bijzonder [van] heersersbevoegdheden of [verdien]kansen, neigt ertoe om tot standvorming te leiden. Elke standvorming leidt doorgaans tot een monopolistische toe-eigening van heersersbevoegdheden en verdienkansen.
+Terwijl de werkende klassen groeien op basis van een marktgerichte economie, ontstaan en bestaan standen bij voorkeur op basis van een monopolistisch-liturgische, feodale of op standen gebaseerde, patrimoniale voorziening in behoeften door verenigingen.
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
+Een samenleving wordt »**standgebonden**« genoemd wanneer de sociale indeling bij voorkeur volgens standen plaatsvindt, en »**klassegebonden**« wanneer deze bij voorkeur volgens klassen plaatsvindt. Van de »klassen« staat de »sociale« klasse het dichtst bij de »stand«, de »arbeidsklasse« het verst ervan verwijderd. Standen worden vaak, wat hun zwaartepunt betreft, gevormd door bezitsklassen.
 
-»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+Elke standgenootschappelijke samenleving is conventioneel, geordend door regels voor de levenswijze, creëert daarom economisch irrationele consumptieomstandigheden en belemmert op deze manier de vrije marktvorming door monopolistische toe-eigeningen en door het uitschakelen van de vrije beschikking over het eigen verdienvermogen.
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
-
-[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Economie en samenleving: Schets van de interpretatieve sociologie. – 5e, herziene druk. – Tübingen: Mohr, 1976. – blz. 625 e.v.]
 :::
-Varṇas sind demgemäss Geburtsstände.
+Varṇa’s zijn derhalve geboorteklassen.
 
-**kavi** m. -- ⟪कवि⟫ : Dichter.
+**kavi** m. -- ⟪कवि⟫ : dichter.
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
+**agni** m. -- ⟪अग्नि⟫ : vuur, de god Agni.
 
 ::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203))
+Afb.: de god Agni, miniatuur, 18e eeuw.
+(Bron: [Details](/licenses#lekt0203))
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut.
+**sādhu** 3 -- ⟪साधु⟫ : juist, goed.
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
+**sādhu** m. -- ⟪साधु⟫ : „heilige” man, sādhu.
 
 ::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202))
+Afb.: Sādhu (⟪साधु⟫), Pashupatinath-tempel, Kathmandu.
+(Bron: [Details](/licenses#lekt0202))
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert
+**guru** 3 -- ⟪गुरु⟫ : zwaar, belangrijk, vereringenswaardig
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
-
----
+**guru** m. -- ⟪गुरु⟫ : vereringenswaardige persoon: vader, moeder, oudere verwant, met name leraar, meester
 
 ## Les 3
 
@@ -129,67 +131,71 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst:
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten)
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫)
-- die **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum).
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret).
+**Leer de volgende woorden:**
+
+**śruti** v. = ⟪श्रुति⟫ : het horen, de eeuwige overlevering (benaming voor de Veda's en Brāhmaṇa's).
+
+**smṛti** v. = ⟪स्मृति⟫ : herinnering, meditatieve herinnering = aandachtigheid, overlevering (tegenovergesteld aan **śruti**). Omvat:
+de zes **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** v. (⟪शिक्षा⟫): juiste uitspraak
+2. **chandas** o. (⟪छन्दस्⟫): metrum
+3. **vyākaraṇa** o. (⟪व्याकरण⟫): grammatica
+4. **nirukta** o. (⟪निरुक्त⟫) : woordverklaring, etymologie
+5. **jyotiṣa** o. (⟪ज्योतिष⟫) : astronomie, kalenderleer
+6. **kalpa** m. (⟪कल्प⟫) : ceremonieel
+**śrautasūtra** o. (⟪श्रौतसूत्र⟫) : leerwerken voor de uitvoering van de grote offers
+**gṛhyasūtra** o. (⟪गृह्यसूत्र⟫) : leerwerken voor de ceremonies en offers van het dagelijks leven
+**dharmasūtra** o. (⟪धर्मसूत्र⟫) en **dharmaśāstra** o. (⟪धर्मशास्त्र⟫) : leerwerken over recht en zeden (juist gedrag)
+de grote epen **mahābhārata** o. (⟪महाभारत⟫) en **rāmāyaṇa** o. (⟪रामायण⟫)
+de **purāṇa**'s (⟪पुराण⟫)
+**nītiśāstra** o. (⟪नीतिशास्त्र⟫) : leerwerken van levenswijsheid
+
+**smṛti** is ook een benaming voor dharmaleerwerken.
+
+**dhenu** v. = ⟪धेनु⟫ : (melk)koe.
+
+**paśu** m. = ⟪पशु⟫ : gedomesticeerd vee, veestapel (collectiefum).
+
+**devatā** v. = ⟪देवता⟫ : godheid (abstract en concreet).
 
 **brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya.
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : vrouwelijke Kṣatriya.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya.
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : vrouw van een Kṣatriya.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya.
+**vaiśyā** f. = ⟪वैश्या⟫ : vrouwelijke Vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra.
+**śūdrā** f. = ⟪शूद्रा⟫ : vrouwelijke Śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra.
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री शूद्राणी⟫ : vrouw van een Śūdra.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫.
+**devī** f. = ⟪देवी⟫ : godin, met name Durgā f. = ⟪दुर्गा⟫, de echtgenote van Śiva = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303))
+Afbeelding: Durgā = ⟪दुर्गा⟫, Orissa
+(Bron afbeelding: [Details](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu.
+**sādhvī** f. = ⟪साध्वी⟫ : vrouwelijke vorm van sādhu.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru.
+**gurvī** f. = ⟪गुर्वी⟫ : vrouwelijke vorm van guru.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw.
+**asmitā** f. = ⟪अस्मिता⟫ : "Ik-zijn", d.w.z. de (verkeerde) overtuiging: **Ik** ben het die ziet, enz.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt).
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : filosofie (de wetenschap die door logisch correcte redeneringen tot haar conclusies komt).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut.
+**upekṣā** f. = ⟪उपेक्षा⟫ : niet-opmerking, gelijkmoedigheid.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid.
+**karuṇā** f. = ⟪करुणा⟫ : mededogen, compassie.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid).
-
----
+**muditā** f. = ⟪मुदिता⟫ : vreugde, met name medevreugde (tegenovergesteld aan jaloezie).
 
 ## Les 5
 
@@ -199,49 +205,52 @@ Abb.: Durgā = ⟪दुर्गा⟫, Orissa
 
 
 
-**Lernen Sie folgende Wörter:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes.
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
+
+
+
+
+**Leer de volgende woorden:**
+
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : neiging tot, volharding, aandringen op; specifiek: gehechtheid aan het lichaam alsof het iets eigen is.
+
+**kāma** m. = ⟪काम⟫ : wens, begeerte, gewenst geschenk, zinnelijk genot, liefde; liefdesgod Kāma.
 
 ::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain)
+Afbeelding: God Kāma = kāmadeva = ⟪कामदेव⟫, 18e eeuw
+(Bron afbeelding: Wikipedia, publiek domein)
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn.
+**krodha** m. = ⟪क्रोध⟫ : woede.
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage.
+**kleśa** m. = ⟪क्लेश⟫ : kwelling, plaag.
+**trayī** v. = ⟪त्रयी⟫ : het getal drie; in het bijzonder de drie Veda’s (Ṛgveda, Sāmaveda, Yajurveda).
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda).
+**daṇḍanīti** v. = ⟪दण्डनीति⟫ : politiek (een Tatpuruṣa van daṇḍa m. = "stok, macht, heerschappij, straf" en nīti v. = "juiste leiding").
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung").
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : tweemaal geboren.
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener.
+**dveṣa** m. = ⟪द्वेष⟫ : haat.
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass.
+**maitrī** v. = ⟪मैत्री⟫ : vriendschap, vriendelijkheid, welwillendheid.
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen.
+**rāga** m. = ⟪राग⟫ : (rode) kleur, hartstocht, liefde.
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe.
+**lobha** m. = ⟪लोभ⟫ : hebzucht, begeerte.
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht.
+**varṇa** m. = ⟪वर्ण⟫ : kleur, soort, stand.
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand.
+**vārttā** v. = ⟪वार्त्ता⟫ : verworven bezit, economie.
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft).
+**vidyā** v. = ⟪विद्या⟫ : kennis, wetenschap.
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft.
+**avidyā** v. = ⟪अविद्या⟫ : onwetendheid, onkennis.
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen.
+**ca** = ⟪च⟫ : en.
+(Wordt achter het woord geplaatst waaraan het wordt gekoppeld. Als meerdere woorden worden gekoppeld, staat het idealiter achter het eerste woord van het laatste koppelingslid: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्च⟫).
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
-
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
-
----
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : zowel ... als.
 
 ## Les 6
 
@@ -251,28 +260,31 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 
 
+
+
+
+
+
+
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
+In het Sanskriet worden de werkwoorden in de **stamvorm** weergegeven. Het getal achter de stam geeft de **vervoegingsklasse** aan.
 
-- **P:** Wurzel ist nur Parasmaipada
-- **Ā:** Wurzel ist nur Ātmanepada
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet.
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ).
+- **P:** de stam komt alleen voor in de Parasmaipada
+- **Ā:** de stam komt alleen voor in de Ātmanepada
+- **U:** Ubhayapada („beide woordvormen”): de stam wordt zowel in de Parasmaipada als in de Ātmanepada gebruikt.
+- **():** Tussen haakjes staat de 3e persoon enkelvoud tegenwoordige tijd indicatief (laṭ).
 :::
-**Lernen Sie folgende Wörter:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
-
----
-
+**Leer de volgende woorden:**
+- **yaj** 1 U (yajati) ⟪यज् यजति⟫ : vereren met een offer, offeren
+- **bhū** 1e persoon (bhavati) ⟪भू भवति⟫ : worden, ontstaan, zijn
+- **smṛ** 1e persoon (smarati) ⟪स्मृ स्मरति⟫ : zich voor de geest halen, zich herinneren
+- **nṛt** 4 P (nṛtyati) ⟪नृत् नृत्यति⟫ : dansen
+- **nī** 1 U (nayati) ⟪नी नयति⟫ : leiden
+- **man** 4 Ā (manyate) ⟪मन् मन्यते⟫ : denken
+- **muh** 4 P (muhyati) ⟪मुह् मुह्यति⟫ : verward zijn
+- **yudh** 4 Ā (yudhyate) ⟪युध् युध्यते⟫ : vechten
+- **viś** 6 P (viśati) ⟪विश् विशति⟫ : binnengaan
+- **sṛj** 6 P (sṛjati) ⟪सृज् सृजति⟫ : loslaten, uit zichzelf laten stromen, laten emaneren
 ## Les 7
 
 
@@ -281,31 +293,33 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
+
+
+
+
+
+**Leer de volgende woorden:**
+
+- **aś** 5 Ā (aśnute) ⟪अश् अश्नुते⟫ : bereiken, bij komen, verkrijgen
+- **āp** 5 P (āpnoti) ⟪आप् आप्नोति⟫ : bereiken, verkrijgen
+- **kup** 4 P (kupyati) ⟪कुप् कुप्यति⟫ : toornen
+- **krudh** 4 P (krudhyati) ⟪क्रुध् क्रुध्यति⟫ : toornig worden
+- **khād** 1 P (khādati) ⟪खाद् खादति⟫ : kauwen, eten
+- **śru** 5 P (śṛṇoti !) ⟪श्रु शृणोति⟫ : horen (iets: accusatief, iemand: genitief of accusatief; over: accusatief; van iemand: genitief, ablatief, instrumentaal)
+- **su** 5 U (sunoti) ⟪सु सुनोति⟫ : uitpersen
+- **soma** m. ⟪सोम⟫ : persdrank, soma; maan (uit welke plant soma werd geperst, is tot op de dag van vandaag omstreden).
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701))
+>> Afb.: Was dit de vedische somaplant?: Vliegenzwam: *Amanita muscaria* (L.) Lam.
+(Bron: [Details](/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat)
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen)
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**)
-
-
-
----
+- **phala** zn. ⟪फल⟫ : vrucht (ook in figuurlijke zin: (karmische) vrucht van een daad)
+- **nṛtya** n. ⟪नृत्य⟫ : dans
+- **svarga** m. ⟪स्वर्ग⟫ : hemel
+- **naraka** m. ⟪नरक⟫ : hel (volgens een hindoeïstische opvatting heeft het universum de vorm van een ei (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = „ei van Brahmā“): boven de aarde bevinden zich zes hemelen met toenemende gelukzaligheid, onder de aarde bevinden zich zeven zogenaamde **pātāla** n. = ⟪पाताल⟫, verblijfsplaatsen van de **nāga** m. = ⟪नाग⟫ (slangen) en andere mythische wezens; daaronder bevinden zich 7 hellewerelden met toenemende kwellingen)
+- **aṅga** n. ⟪अङ्ग⟫ : lichaamsdeel, onderdeel; ook = **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम् गच्छति⟫ : gaan (behoort volgens de inheemse werkwoordclassificatie tot de tegenwoordige tijdklasse 1, maar is in werkelijkheid een vorming met een stamvormingsachtervoegsel **-ccha-** voor de tegenwoordige tijd: **gam** » laaggraad (**gm** ») **ga-ccha-ti**)
 
 ## Les 8
 
@@ -315,40 +329,45 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet)
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann
-- **kapi** m. ⟪कपि⟫ : Affe
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch)
-- **gaja** m. ⟪गज⟫ : Elefant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern
-- **śuka** m. ⟪शुक⟫ : Papagei
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen
-- **patrikā** f. ⟪पत्रिका⟫ : Brief
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein)
+
+
+
+
+
+**Leer de volgende woorden:**
+
+**ji** 1 P (jayati) ⟪जि जयति⟫ : overwinnen, verslaan, veroveren
+**labh** 1 Ā (labhate) ⟪लभ् लभते⟫ : vatten, verkrijgen, grijpen
+**tu** ⟪तु⟫ : maar (staat na het eerste woord van de tegenstellende zin of zinsdeel)
+**paś** 4 P (paśyati) ⟪पश् पश्यति⟫ : zien, gewaarworden (wordt als presensstam gebruikt in plaats van de wortel **dṛś** 0 "zien, gewaarworden")
+**kṛ** 8 U (karoti) ⟪कृ करोति⟫ : maken, doen
+**tan** 8 U (tanoti) ⟪तन् तनोति⟫ : uitrekken
+**rakṣ** 1 P (rakṣati) ⟪रक्ष् रक्षति⟫ : bewaken
+**sārathi** m. ⟪सारथि⟫ : wagenmenner, voerman
+**kapi** m. ⟪कपि⟫ : aap
+**kumārī** f. ⟪कुमारी⟫ : het meisje, de maagd
+**nāga** m. ⟪नाग⟫ : de Naakte, de olifant, de slang (olifant en slang hebben geen vacht, evenals de "naakte aap" mens)
+**gaja** m. ⟪गज⟫ : olifant
+**śuc** 1 P (śocati) ⟪शुच् शोचति⟫ : treuren
+**śuka** m. ⟪शुक⟫ : papegaai
+**pat** 1 P (patati) ⟪पत् पतति⟫ : vallen, vliegen
+**patrikā** f. ⟪पत्रिका⟫ : brief
+**likh** 1 P (likhati) ⟪लिख् लिखति⟫ : krassen, schrijven (oorspronkelijk met een graveerstift op een palmblad, later echter algemeen)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809))
+Afb.: **likh** (⟪लिख्⟫) : Indische schrijfgriffel van staal om in te kerven in palmbladen
+(Bron afbeelding: [Details](/licenses#lekt0809))
 :::
+
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809))
+Afb.: **likh** (⟪लिख्⟫) : Schrijfstokje van de Batak (Sumatra), zoals het vermoedelijk ook in Indië gebruikelijk was
+(Bron afbeelding: [Details](/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid
-
----
+**sukha** n. ⟪सुख⟫ : geluk, welzijn
+**duḥkha** n. ⟪दुःख⟫ : ongeluk, lijden
 
 ## Les 9
 
@@ -358,39 +377,43 @@ Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
+
+
+
+
+
+**Leer de volgende woorden:**
+
+**adhyayana** n. (⟪अध्ययन⟫) : leren, met name vedastudie
 
 ::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903))
+Afb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bij Madurai.
+(Bron afbeelding: [Details](/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
+**kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : ambachtsman
 
 ::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902))
+Afb.: **kāru** = ⟪कारु⟫, Gujarat.
+(Bron afbeelding: [Details](/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger
-- **kusīda** n. (⟪कुसीद⟫) : Wucher
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht
-- zu **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
-
----
+**kuśīlava** m. (⟪कुशीलव⟫) : (reizende) vertoonder, acteur, zanger
+**kusīda** n. (⟪कुसीद⟫) : woeker
+**kṛṣ** 1 P (karṣati) ⟪कृष् कर्षति⟫ : trekken
+**kṛṣ** 6 U (kṛṣati) ⟪कृष् कृषति⟫ : ploegen
+daarvan: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : akkerbouw
+**dāna** n. (⟪दान⟫) : geven, geschenk, vrijgevigheid
+**pratigraha** m. (⟪प्रतिग्रह⟫) : ontvangen, geschenk
+**pravacana** n. (⟪प्रवचन⟫) : rede, (mondelinge) onderricht
+**pāśupālya** n. (⟪पाशुपाल्य⟫) : veehouderij, veeteelt
+bij **yaj** 1 U:
+**ijyā** f. (⟪इज्या⟫) : offer (uit \*yj » ij + suffix **yā**)
+**yajana** n. (⟪यजन⟫) : offer in opdracht van iemand anders
+**rūpa** n. (⟪रूप⟫) : uiterlijk, vorm, mooie vorm, natuur, wezen
+**vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : handel
+**śuśrūṣā** f. (⟪शुश्रूषा⟫) : gehoorzaamheid, gehoorzame dienst
 
 ## Les 10
 
@@ -400,34 +423,109 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 
 
 
-**Lernen Sie folgende Wörter:**
 
-- **gṛha** n. ⟪गृह⟫ : Haus
-- **grāma** m. ⟪ग्राम⟫ : Dorf
-- **nagara** n. ⟪नगर⟫ : Stadt
 
-::: note-box
-  Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  - **yajña** m. ⟪यज्ञ⟫ : Opfer
 
-:::
-::: note-box
-  Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
+
+
+
+**Leer de volgende woorden:**
+
+**gṛha** n. ⟪गृह⟫ : huis
+**grāma** m. ⟪ग्राम⟫ : dorp
+**nagara** n. ⟪नगर⟫ : stad
+
+  ::: note-box
+>>   Voor het stads- en dorpsleven zie Basham, *Wonder*, hoofdstuk 6.
+  :::
+
+- **yajña** m. ⟪यज्ञ⟫ : Opfer
+
+  ::: note-box
+>>   Het offer is in India in de eerste plaats een verering van de godheid als gast. Hierdoor verplicht men zich jegens de godheid.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  - **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+  :::
 
-:::
-::: note-box
-  Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  - **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+
+  ::: note-box
+>>   Hiermee verdient men welzijn en goede wedergeboorten.
+  :::
+
+- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-:::
 ::: note-box
-In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
+>> In India schreef men het ware woord toverskracht toe, ja de hele wereldorde wordt door het ware woord onderhouden en geschapen. Voor dit belangrijke concept zie het fundamentele werk:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Bildquelle: [Details](/licenses#lekt1003))
+:::
+- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  De namen van deze **ṛṣi**'s worden genoemd in de Brāhmaṇa's en in afzonderlijke indexen bij de Veda's. Alle brahmanen leiden hun afkomst af van dergelijke **ṛṣi**'s, naar wie hun **gotra** (⟪गोत्र⟫) zijn genoemd. Voor het concept **gotra** zie Basham, *Wonder*, Hfdst. 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪विश्वामित्रः⟫
+(Bildquelle: [Details](/licenses#lekt1002))
+:::
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+
+::: media
+![](/images/lekt1003.webp)
+Abb.: ⟪वरुणः⟫
+(Bildquelle: [Details](/licenses#lekt1003))
+:::
+- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+
+  ::: note-box
+  Wortbildung **an-** („un-“) + **ṛta** n.
+  
+  **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
+  De namen van deze **ṛṣi**'s worden genoemd in de Brāhmaṇa's en in afzonderlijke indexen bij de Veda's. Alle brahmanen leiden hun afkomst af van dergelijke **ṛṣi**'s, naar wie hun **gotra** (⟪गोत्र⟫) zijn genoemd. Voor het concept **gotra** zie Basham, *Wonder*, Hfdst. 5.
+  :::
+
+::: media
+![](/images/lekt1002.jpg)
+Abb.: ⟪विश्वामित्रः⟫
+(Bildquelle: [Details](/licenses#lekt1002))
+:::
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
+
+::: literatur-box
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -444,20 +542,26 @@ Abb.: ⟪वरुणः⟫
 
 :::
 ::: note-box
-  Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
+  De namen van deze **ṛṣi**'s worden genoemd in de Brāhmaṇa's en in afzonderlijke indexen bij de Veda's. Alle brahmanen leiden hun afkomst af van dergelijke **ṛṣi**'s, naar wie hun **gotra** (⟪गोत्र⟫) zijn genoemd. Voor het concept **gotra** zie Basham, *Wonder*, Hfdst. 5.
 :::
 ::: media
 ![](/images/lekt1002.jpg)
 Abb.: ⟪विश्वामित्रः⟫
 (Bildquelle: [Details](/licenses#lekt1002))
 :::
-- **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
-- **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+- **vad** 1 P (vadati) ⟪वद् वदति⟫ : sagen, sprechen
+- **prach** 6 P (pṛcchati !) ⟪प्रच्छ् पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
+- **saha** ⟪सह⟫ : samen met, gezamenlijk met (ook bij "vechten met" enz.) (postpositie met instrumentalis)
 
 ---
 
-## Les 11
+## Lektion 11
+
+
+
+
+
+
 
 
 
@@ -468,40 +572,37 @@ Abb.: ⟪विश्वामित्रः⟫
 **Lernen Sie folgende Wörter:**
 
 - **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+>>   - Staat *na* de formulering van een gedachte, wens, uitspraak, citaat gelijk als aanhalingstekens (").
   - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+>>   - In het Sanskriet bestaat er geen indirecte rede; vormingen met **iti** moeten in het Duits vaak in indirecte rede worden weergegeven.
   - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+>>   - Vaak is na **iti** een werkwoord van denken toe te voegen: "denkend: '...' doet hij dat". In het Duits idiomatisch weergeven (bijv. "Omdat hij honger heeft, gaat hij...").
+- **evam** ⟪एवम्⟫ : zo (bijwoordelijk, bijv. **evaṃ jayati** "zo overwint hij").
+- **na** ⟪न⟫ : niet
+  - Ontkent afzonderlijke woorden (staat er direct voor: **na sādhuḥ** "een niet-goede") of hele zinnen (staat aan het begin of direct voor het werkwoord).
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er").
-- **na** ⟪न⟫ : nicht
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb).
+- **putra** m. ⟪पुत्र⟫ : zoon (in India was het noodzakelijk om een zoon te verwekken die de offers voor de voorouders kon brengen.)
+- **dharma** m. ⟪धर्म⟫ : („dat wat vaststaat”, d.w.z.) recht, wet, zeden, karakter.
+  - Komt het meest overeen met de natuurwet/zedenwet. Iedereen heeft, afhankelijk van zijn **varṇa** en **āśrama** (levensfase), zijn eigen plichten (**svadharma**).
+- **adharma** m. ⟪अधर्म⟫ : onrecht (tegenpool van **dharma**).
+- **iṣ** 6 P (icchati) ⟪इष् इच्छति⟫ : wensen (**iṣ-ccha-ti**).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.)
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter.
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**).
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**).
+**Enkele naamwoordvormen:**
 
-**Einige Nominalbildungen:**
-
-- **vad** 1 P ⟪वद्⟫ : sagen
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht
+- **vad** 1 P ⟪वद्⟫ : zeggen
+  - **vāda** m. ⟪वाद⟫ : uitspraak, verklaring, woord
+  - **vadana** n. ⟪वदन⟫ : het spreken; spraakorgaan: mond, gezicht
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102))
+Afb.: **vadanāni** = ⟪वदनानि⟫
+(Bron: [Details](/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**)
+- **prach** 6 P ⟪प्रच्छ्⟫ : vragen
+  - **praśna** m. ⟪प्रश्न⟫ : vraag (achtervoegsel **-na** zoals in **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**)
-
----
+- **iṣ** 6 P ⟪इष्⟫ : wensen
+  - **iṣṭi** v. ⟪इष्टि⟫ : wens (**iṣ** + **-ti**)
 
 ## Les 12
 
@@ -511,48 +612,53 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 
 
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : erwachen, zur Erkenntnis erwachen, erkennen; PPP **buddha** 3 erwacht, daher **Buddha** = "der Erwachte" (nicht: der Erleuchtete)
+
+
+
+
+
+
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध् बुध्यते बोधति बुद्ध⟫ : ontwaken, tot inzicht komen, beseffen; PPP **buddha** 3 ontwaakt, vandaar **Buddha** = "de Ontwaakte" (niet: de Verlichte)
 
 ::: media
 ![](/images/lekt1201.webp)
-Abb.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Bildquelle: [Details](/licenses#lekt1201))
+Afb.: ⟪गौतमो बुद्धः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (etwas) verbrennen
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : bewältigen, ertragen, geduldig ertragen = verzeihen
-- **mṛga** m. ⟪मृग⟫ : Wildtier
-- **mārga** m. ⟪मार्ग⟫ : Weg (Wege waren oft die Wildwechsel)
+**dah** 1 P (dahati), PPP **dagdha** ⟪दह् दहति दग्ध⟫ : (iets) verbranden
+**sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : overwinnen, verdragen, geduldig verdragen = vergeven
+**mṛga** m. ⟪मृग⟫ : wild dier
+**mārga** m. ⟪मार्ग⟫ : weg (paden waren vaak de wildpaadjes)
 
 ::: media
 ![](/images/lekt1202.webp)
-Abb.: ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#lekt1202))
+Afb.: ⟪मार्गः⟫
+(Bron afbeelding: [Details](/licenses#lekt1202))
 :::
-- **api** ⟪अपि⟫ : auch (nachgestellt)
+**api** ⟪अपि⟫ : ook (achtergesteld)
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+Tot de zesde presentieklass worden door de inheemse grammatici enkele wortels gerekend, die de presentiestam vormen met een nasale infix en themavokaal a, bijv.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : losmachen, loslassen, befreien; vom Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = erlösen
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : beträufeln
+**muc** 6 U (muñcati), PPP **mukta** ⟪मुच् मुञ्चति मुक्त⟫ : losmaken, loslaten, bevrijden; bevrijden van de cyclus van wedergeboorten (**saṃsāra** m.) = verlossen
+**sic** 6 U (siñcati), PPP **sikta** ⟪सिच् सिञ्चति सिक्त⟫ : besprenkelen
 
-Zur Wortbildung:
+Tot woordvorming:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : Loslösung, Befreiung, Erlösung
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : Besprengung eines Königs bei der Königsweihe, Königsweihe
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : das Erwachen (wodurch ein Buddha oder Jina zur erlösenden Einsicht gelangt)
+**muc**: **mokṣa** m. ⟪मोक्ष⟫ : losmaking, bevrijding, verlossing
+**sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : besprenkeling van een koning bij de koningswijding, koningswijding
+**budh**: **bodhi** m./f. ⟪बोधि⟫ : het ontwaken (waardoor een Boeddha of Jina tot de verlossende inzicht komt)
 
 ::: media
 ![](/images/lekt1203.webp)
-Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Bildquelle: [Details](/licenses#lekt1203))
+Afb.: ⟪महावीरो जिनः⟫
+(Bron afbeelding: [Details](/licenses#lekt1203))
 :::
-- **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : Erkenntnis, Erkenntnisorgan.
+**buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : inzicht, orgaan van het inzicht.
 
----
 
-### 12.5.1. Passiv und PPP der bisher gelernten Wurzeln
+### 12.5.1. Passief en PPP van de tot nu toe geleerde wortels
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Wortel:br⟪धातु⟫ | Passief Present 3. sg. Indicativ:br⟪यक् लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
@@ -599,8 +705,6 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
----
-
 ## Les 13
 
 
@@ -609,67 +713,73 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 
 
-Lernen Sie folgende Wörter:
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort
-- **asura** m. ⟪असुर⟫ : Dämon
 
-> **ASURA.** 'Spiritual, divine.'
+
+
+
+
+Leer de volgende woorden:
+
+**eva** ⟪एव⟫ : benadrukt het voorafgaande woord
+**asura** m. ⟪असुर⟫ : demon
+
+> **ASURA.** 'Spiritueel, goddelijk.'
 >
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+> In de oudste delen van de Ṛgveda wordt deze term gebruikt voor de hoogste geest en is hetzelfde als de Ahura van de Zoroastrische gelovigen. In de betekenis van 'god' werd het toegepast op verschillende belangrijke godheden, zoals Indra, Agni en Varuṇa. Later verkreeg het een volledig tegenovergestelde betekenis en ging het, zoals nu, verwijzen naar een demon of vijand van de goden.
 >
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+> Dit woord komt met deze betekenis voor in de latere delen van de Ṛgveda, vooral in het laatste boek, en ook in de Atharvaveda. De Brāhmaṇas geven het dezelfde betekenis en beschrijven veel gevechten tussen de Asuras en de goden. Volgens het Taittirīya Brāhmaṇa werd de adem *(asu)* van Prajapati levend, en "met die adem schiep ik de Asuras." In een ander deel van hetzelfde werk wordt gezegd dat Prajāpati "zwanger werd. Hij schiep Asuras uit zijn buik." Het Śatapatha Brāhmaṇa sluit aan bij de eerste uitspraak en stelt dat "hij Asuras schiep uit zijn lagere adem." Het Taittirīya Āraṇyaka stelt dat Prajāpati goden, mensen, vaders, Gandharvas en Apsarases schiep uit water, en dat de Asuras, Rakṣasas en piśācas voortkwamen uit druppels die morsen werden. De uitspraak van Manu is dat ze door de Prajāpatis werden geschapen.
 >
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> Volgens de Viṣṇu Purāṇa werden ze voortgebracht uit het schaamgebied van Brahma (prajāpati). De beschrijving in de Vāyu Purāṇa luidt: "Asuras werden eerst als zonen voortgebracht uit zijn (Prajāpati's) schaamgebied. *Asu* wordt door de Brāhmaṇa verklaard als adem betekenis. Uit deze bestonden ze; vandaar dat ze Asuras heten." Het woord wordt al lang gebruikt als algemene naam voor de vijanden van de goden, waaronder de Daityas en Danavas en andere nakomelingen van Kaśyapa, maar niet de Rakṣasas die afstammen van Pulastya.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> In deze betekenis is een andere afleiding voor het woord gevonden: de bron is niet langer asu, 'adem,' maar het initiële *a* wordt opgevat als de negatieve prefix, en *asura* betekent 'niet een god;' vandaar dat volgens sommigen het woord *sura* ontstond, vaak gebruikt voor 'een god.'"
 >
-> [Quelle: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Bron: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301))
+Afbeelding: ⟪महिषासुरः⟫
+(Bron afbeelding: [Details](/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten
+**guṇa** m. ⟪गुण⟫ : draad, koord; eigenschap, goede eigenschap
+**pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद् पद्यते पद्यते पन्न⟫ : gaan, geraken in
+**as** 2 P (asti) ⟪अस् अस्ति⟫ : zijn, aanwezig zijn
+**as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस् अस्यति अस्यते अस्त⟫ : werpen, (weg-)werpen
+**i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ एति ईयते इत⟫ : gaan
+**pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा पाति पायते पात⟫ : beschermen, hoeden
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet)
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा पिबति पीयते पीत⟫ : drinken (traditioneel gerekend tot de 1e klasse)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene)
+**dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष् द्वेष्टि द्विष्यते द्विष्ट⟫ : haten, vijandig zijn
+**ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद् अत्ति अद्यते अन्न⟫ : eten, verorberen
+**anna** n. ⟪अन्न⟫ : voedsel (afgeleid van PPP: *ad-na: het gegetene)
 
 ::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304))
+Afbeelding: ⟪अन्नम्⟫
+(Bron afbeelding: [Details](/licenses#lekt1304))
 :::
-Wortbildung:
+Woordvorming:
 
 pad 4 Ā:
 
 ::: indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte
+**pada** n. ⟪पद⟫ : stap, standplaats, plaats
 
-**pāda** m. ⟪पाद⟫ : Fuss, ein Viertel, Verszeile
+**pāda** m. ⟪पाद⟫ : voet, een vierde, versregel
 :::
+
 ::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303))
+Afbeelding: ⟪चत्वारः पादाः⟫ : ⟪गजः⟫
+(Bron afbeelding: [Details](/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
 ::: indent
-**dveṣa** ⟪द्वेष⟫ : Hass
+**dveṣa** ⟪द्वेष⟫ : haat
 :::
----
 
 ## Les 14
 
@@ -679,28 +789,34 @@ dviṣ 2 U:
 
 
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
-* **dīpa m.** (⟪दीप⟫) : Lampe
+
+
+
+
+
+
+* **śīla n.** (⟪शील⟫) : (goede) karakter, zedelijkheid
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : sieraad
+* **dīpa m.** (⟪दीप⟫) : lamp
 
 ::: media
 ![](/images/lekt1405.webp)
-Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405))
+Afbeelding: ⟪दीपाः⟫
+(Bron afbeelding: [Details](/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
-* **bālā f.** (⟪बाला⟫) : junges Mädchen
-* **nara m.** (⟪नर⟫) : Mann, Mensch
-* **śatru m.** (⟪शत्रु⟫) : Feind
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
-* **jala n.** (⟪जल⟫) : Wasser
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
+* **bala n.** (⟪बल⟫) : geweld, kracht, sterkte; legermacht, troepen
+* **bāla 3** (⟪बाल⟫) : jong, kinderlijk, dwaas; m. knaap
+* **bālā f.** (⟪बाला⟫) : jong meisje
+* **nara m.** (⟪नर⟫) : man, mens
+* **śatru m.** (⟪शत्रु⟫) : vijand
+* **loka m.** (⟪लोक⟫) : wereld; Enk. en Meerv.: de mensen, het volk
+* **jala n.** (⟪जल⟫) : water
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन् जायते जन्यते जायते जात⟫) : geboren worden, ontstaan, optreden
+* **jan-a m.** (⟪जन⟫) : schepsel, mens, mensen
+* **vac 2 P** (vakti, geen 3. meerv.!), Pass. ucyate, PPP ukta (⟪वच् वक्ति उच्यते उक्त⟫) : zeggen, spreken tot (accusatief)
+* **uk-ti f.** (⟪उक्ति⟫) : uitspraak, woord
+* **vac-ana n.** (⟪वचन⟫) : het spreken, het woord
+* **vāk-ya n.** (⟪वाक्य⟫) : woord, rede
 
 ## Les 15
 
@@ -710,29 +826,29 @@ Abb.: ⟪दीपाः⟫
 
 
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich
 
-⟪वा⟫ : oder (nachgestellt)
 
-⟪अथवा⟫ : oder (vorangestellt)
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
+⟪पुष्कल⟫ 3: prachtig, schitterend, overvloedig
 
-⟪अर्ध⟫ 3: halb, m.n. Hälfte
+⟪वा⟫ : of (achtergesteld)
 
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā)
+⟪अथवा⟫ : of (voorafgaand)
+
+⟪चतुर्थ⟫ 3 (v.: ⟪चतुर्थी⟫): vierde
+
+⟪विद्⟫ "vinden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त विद्⟫ "weten" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित पत्⟫ "vliegen, vallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित अर्ध⟫ 3: half, m.n. helft
+
+⟪पूजा⟫ v.: eerbetoon, eervolle ontvangst, religieuze verering (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504))
+Afbeelding: ⟪पूजा⟫
+(Bron afbeelding: [Details](/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie
+⟪कुल⟫ n.: kudde, menigte, geslacht, afstamming, familie
 
 ⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra
 ::: media
@@ -750,7 +866,7 @@ Abb.: ⟪इन्द्रः⟫
 
 ⟪पुरुष⟫ m.: Mensch, Mann, Knecht
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals
+\-⟪जन⟫ als tweede lid van Tatpuruṣa's, vaak uitdrukking van het meervoud
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen
 
@@ -773,31 +889,32 @@ Abb.: ⟪सिंहः⟫
 Abb.: ⟪व्याघ्रः⟫
 (Bildquelle: [Details](/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann"
+⟪इव⟫ (achtergeplaatst): als het ware, als (in vergelijkingen: ⟪व्याघ्र इव पुरुषः⟫ = "een man als een tijger", "een tijgerachtige man"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt"
+⟪एव⟫ (achtergeplaatst): benadrukt het voorgaande, komt in het Nederlands vaak overeen met beklemtoning, een soort emoticon `\<!\>`, bijv. ⟪सत्यमेव जयति⟫ "alleen de waarheid overwint", "juist de waarheid overwint", "de waarheid overwint"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling)
+⟪अरि⟫ m.: vijand (volgens Thieme, Der Fremdling im Ṛgveda: oorspronkelijk = vreemdeling)
 
 ::: indent
 ⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann
 :::
-zu ⟪जन्⟫
+naar ⟪जन्⟫
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.)
+⟪जाति⟫ v.: geboorte, soort, kaste (voor kaste zie Basham, Wonder, blz. 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterven (volgens Indiase grammaticus: 6 Ā)
 
-davon:
+daarvan:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod
+⟪मरण⟫ n.: sterven, dood
 
-⟪मृति⟫ f.: Sterben, Tod
+⟪मृति⟫ v.: sterven, dood
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott
+⟪मृत्यु⟫ m.: dood ; gepersonifieerd: god van de dood
 :::
+
 ## Les 16
 
 
@@ -806,64 +923,71 @@ davon:
 
 
 
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht
+
+
+
+
+
+
+⟪अध्यापन⟫ n.: onderwijzen, onderwijs
 
 ::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602))
+Afb.: ⟪अध्यापनम्⟫
+"Dit is een speciale ceremonie in een kleine tempel in Satara (⟪सातारा⟫). Het wordt uitgevoerd door de studenten van de Swami Muktananda Vedashala ter viering van Mahāśivarātri. Dit is een vedische school waar kinderen de heilige teksten, de Veda's, uit hun hoofd leren. Deze school onderwijst de Krishna Yajurveda en enkele delen van het Samaveda. Ik schrijf mijn masterthesis over deze school."
+(Bron afbeelding: [Details](/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit
+⟪अनसूया⟫ v.: niet morren, afgunsteloosheid
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht
+⟪नृशंस्य⟫ n.: kwaadaardigheid, lafheid
 
-davon:
+daarvan:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
+⟪अनृशंस्य⟫ n.: niet kwaadaardig zijn
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leven
 
-davon:
+daarvan:
 
 ::: indent
-⟪आजीव⟫ m.: Lebensunterhalt
+⟪आजीव⟫ m.: levensonderhoud
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
+⟪क्षमा⟫ v.: geduld, langmoedigheid, vergevingsgezindheid
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz
+⟪क्षेम⟫ n.: rust, vrede, welzijn, zeker bezit
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist
+⟪चित्त⟫ n.: bewustzijn, denken, geest
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen
+⟪निरोध⟫ m.: stoppen, tot stilstand brengen
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst
+* **bhūta n.** (⟪भूत⟫) (PPP van bhū): wezen, spook
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
+⟪योग⟫ m.: aanspanning, verbinding, vereniging, verwerving ; yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
+Afbeelding: ⟪योगी⟫
 Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601))
+(Bron afbeelding: [Details](/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : draaien, wenden, (ergens) bevinden, wonen
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe
+⟪शस्त्र⟫ (śastra) n.: snijdtuig, snijwapen, zwaard, wapen
 
-⟪शौच⟫ n.: Reinigung, Reinheit
+⟪शौच⟫ n.: reiniging, zuiverheid
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend
+⟪साधन⟫ m.,n. ⟪साधनी साधना⟫ f.: naar het doel leidend, veroorzakend
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
+⟪अहिंसा⟫ f.: het niemand iets tot last doen, niet-verwonden, geweldloosheid
 
 ::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603))
+Afb.: ⟪अहिंसा⟫
+"De hand met een wiel op de palm symboliseert de Jain-eda van Ahimsa. Het woord in het midden is 'ahimsa'. Het wiel vertegenwoordigt de dharmacakra, die staat voor de vastberadenheid om de cyclus van reïncarnatie te stoppen door een onvermoeide zoektocht naar waarheid en geweldloosheid."
+(Bron afbeelding: [Details](/licenses#lekt1603))
 :::
+
 ## Les 17
 
 
@@ -872,56 +996,64 @@ Abb.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
 
-davon:
+
+
+
+
+
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : slaan, doden, vermoorden
+
+daarvan:
 
 ::: indent
-⟪घात⟫ m.: Tötung
+⟪घात⟫ m.: doden
 :::
+
 ::: media
 ![](/images/lekt1703.webp)
-Abb.: ⟪घाताः⟫
+Afb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt1703))
+(Bron afbeelding: [Details](/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sitzen
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : zitten
 
-davon:
+daarvan:
 
 ::: indent
-⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
+⟪आसन⟫ n.: het zitten, zit ; ook: zithoudingen van de yogi
 :::
+
 ::: media
 ![](/images/lekt1701.webp)
-Abb.: ⟪योगासनम्⟫
-(Bildquelle: [Details](/licenses#lekt1701))
+Afb.: ⟪योगासनम्⟫
+(Bron afbeelding: [Details](/licenses#lekt1701))
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : weinen, heulen
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : huilen, janken
 
-davon:
+daarvan:
 
 ::: indent
-⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
+⟪रुद्र⟫ m.: (de jankende =) de stormgod Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ geen Passief en PPP: spreken, zeggen (iemand iets zeggen: dubbele accusatief)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
-
 ::: media
 ![](/images/lekt1702.webp)
-Abb.: ⟪दोग्धि⟫
-(Bildquelle: [Details](/licenses#lekt1702))
+Afb.: ⟪दोग्धि⟫
+(Bron: [Details](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : zeigen, anweisen, befehlen
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : tonen, instrueren, bevelen
 
-davon:
+waarvan:
 
 ::: indent
-⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
+⟪दिष्टि⟫ v.: instructie, gelukkige samenloop van omstandigheden
 
-⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
+⟪दिष्ट्या⟫ Instr.: (letterlijk: door een gelukkige samenloop van omstandigheden) O gelukkige samenloop van omstandigheden (uitroep van vreugde en geluk)
 :::
+
 ## Les 18
 
 
@@ -930,39 +1062,43 @@ davon:
 
 
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
 
-⟪व्याधि⟫ m.: Krankheit
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
-⟪ज्ञान⟫ n.: Erkenntnis
+⟪सुष्टु⟫ 3: geprezen, voortreffelijk, goed
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held
+⟪शोभन⟫ 3: schitterend, prachtig, schitterend, mooi, goed
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort
+⟪सम⟫ 3: gelijk, even, vergelijkbaar (met instrumentalis)
 
-⟪उदक⟫ n.: Wasser
+⟪व्याधि⟫ m.: ziekte
 
-⟪अन्त⟫ m.: Ende, Grenze
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , bedrieger
 
-⟪आदि⟫ m.: Anfang
+⟪वह्नि⟫ m. = ⟪अग्नि ज्ञान⟫ n.: inzicht
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe
+⟪शूर⟫ 3: dapper, heldhaftig ; m.: held
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Mass, Begrenzung
+⟪शब्द⟫ m.: geluid, toon, signaal: woord
 
-⟪सहित⟫ 3: vereinigt, versehen mit
+⟪उदक⟫ n.: water
 
-⟪हस्त⟫ m.: Hand
+⟪अन्त⟫ m.: einde, grens
 
-⟪प्रभृति⟫ f.: Anfang
+⟪आदि⟫ m.: begin
+
+⟪दण्ड⟫ m.: stok, stokslagen, straf
+
+⟪मात्रा⟫ v. ⟪मात्र⟫ n.: maat, begrenzing
+
+⟪सहित⟫ 3: verenigd, voorzien van
+
+⟪हस्त⟫ m.: hand
+
+⟪प्रभृति⟫ v.: begin
 
 ## Les 19
 
@@ -972,103 +1108,107 @@ davon:
 
 
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
-⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+
+
+
+
+
+**⟪अर्थ⟫ m.:** doel, betekenis (van een woord), rijkdom, bezit, vermogen. ⟪अर्थम्⟫ (acc.), ⟪अर्थेन⟫ (instr.) met gen. of als achterlid van een Tatpuruṣa: ter wille van ..., om te.
+
+⟪अर्थ⟫ is een van de drie levensdoelen (⟪पुरुषार्थ⟫), zoals deze in de wereldlijke en religieuze literatuur worden beschreven:
 
 ::: indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
+**⟪धर्म⟫ m.:** het verwerven van verdiensten door te doen wat voor iemand juist is, of op zijn minst het vermijden van het kwaad dat zou voortvloeien uit het niet naleven van de dharma
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
+**⟪अर्थ⟫ m.:** doelgericht rationeel gedrag, het verwerven van welvaart
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
+**⟪काम⟫ m.:** zinslust, met name ook op seksueel gebied
 :::
 ::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809))
+Afb.: ⟪कामः⟫
+Illustratie bij ⟪कामसूत्र⟫
+(Bron afbeelding: [Details](/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** staan, blijven, standhouden, zich bevinden. (Wordt traditioneel gerekend tot de 1e presentieklassse, hoewel het een reduplicerende thematische presentieklassse betreft, zoals ⟪पा⟫ 1 ⟪पिबति⟫)
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** naderen, zich in eerbiedige houding voor iemand neerzetten
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** vertrekken, wegtrekken
 
-von ⟪स्था⟫ :
+van ⟪स्था⟫ :
 
 ::: indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
+**⟪स्थान⟫ n.:** plaats, (juiste) locatie, standplaats
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.:** verblijf, standvastigheid, volharden
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** baarmoeder, schoot, binnenste, embryo / foetus. Aan het einde van een Bahuvrīhi vaak: "binnenste", bijv.
 
 ::: indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
+**⟪धनगर्भ⟫ 3:** "wiens binnenste geld is = waarin zich geld bevindt"
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** de innerlijkste heilige ruimte van een hindoe-tempel, die het belangrijkste godenbeeld van de tempel bevat (voor de opbouw van hindoe-tempels zie: Volwahsen, A.: India : Bouwwerken van de Hindu's, Boeddhisten en Jainas. -- München, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
+Afb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901))
+(Bron afbeelding: [Details](/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke
+**⟪वारिद⟫ m.:** waterdrager = regenwolk
 
 ::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
+Afb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902))
+(Bron afbeelding: [Details](/licenses#lekt1902))
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen
-
-davon:
+**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** waaien
+waarvan:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** wind
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** leiden, rijden (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
+**⟪छत्त्र⟫ zn.:** parasol, scherm
 
 ::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904))
+Afb.: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditionele klederdracht, is een gebruik in de zuidelijke delen van Kerala. _Onappottan_ bezoekt huizen tijdens het _onam_ en geeft zegeningen. De laatste tijd is _onappottan_ een zeldzaam verschijnsel geworden, dat zich beperkt tot dorpen.”
+(Afbeeldingsbron: [Details](/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
+**⟪पण्डित⟫ m.:** geleerde, wijze; 3: slim, bedreven (in)
 
 ::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
-⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903))
+Afb.: ⟪पण्डितः जवाहरलाल नेहरू १९५९⟫
+(Bron: [Details](/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ passief ⟪सेव्यते⟫ voltooid deelwoord ⟪सेवित⟫ :** wonen bij, bewonen (acc., lok.); bezoeken, zich begeven naar (acc.); bedienen, verzorgen, vereren; beoefenen, gebruiken; bijwonen, geslachtsgemeenschap hebben
 
-**⟪नि⟫ Präverb:** nieder, hinein
+**⟪नि⟫ Voorvoegsel:** neer, in
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen
+**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** verblijven bij, bewonen, bezoeken
 
-**⟪अमुत्र⟫ :** dort, im Jenseits
+**⟪अमुत्र⟫ :** daar, in het hiernamaals
 
-**⟪इह⟫ :** hier, im Diesseits
+**⟪इह⟫ :** hier, in dit leven
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden
+**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** vinden
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin
+**⟪भार्या⟫ v.:** te behouden = echtgenote
 
-**⟪प्रिय⟫ 3:** lieb, angenehm
+**⟪प्रिय⟫ 3:** lief, aangenaam
 
-**⟪मित्र⟫ n. (!):** Freund
+**⟪मित्र⟫ zn. (!):** vriend
 
-**⟪बान्धव⟫ m.:** Verwandter
+**⟪बान्धव⟫ m.:** familielid
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen)
+**⟪हि⟫ :** want, ja, namelijk (mag nooit aan het begin van een zin staan)
 
 ## Les 20
 
@@ -1078,105 +1218,110 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 
 
-⟪वा⟫ : oder
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.)
 
+
+
+
+
+⟪वा⟫ : of
+
+⟪आश्रम⟫ m., n.: kluizenaarschap, levensfase, levensperiode (namelijk als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ en eventueel als ⟪सन्न्यासिन्⟫ ; zie Basham, Wonder, p. 159 e.v.)
 ::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008))
+Afb.: ⟪आश्रमः⟫
+Rishikesh = ⟪ऋषिकेश⟫. "Dit is eigenlijk een deel van de ashram in Rishikesh waar de Beatles verbleven. Dit specifieke deel was er nog niet toen zij er waren, maar het ziet er wel gaaf uit."
+(Bron afbeelding: [Details](/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend
+⟪कर ३⟫ f. ⟪करी । करा⟫ : doend, makend, bewerkstelligend
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8)
+⟪कर⟫ m.: hand (zie ⟪कृ⟫ 8)
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்)
+⟪कर⟫ m.: heffing, tribuut, belasting (niet gerelateerd aan ⟪कृ⟫, maar vermoedelijk een leenwoord uit het Tamil - தமிழ்)
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8)
+⟪क्रिया⟫ v.: handeling, heilige handeling, offerhandeling, ceremonie (zie ⟪कृ⟫ 8)
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf 
+⟪अधि⟫ voorvoegsel: over, op, er-, met betrekking tot 
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : aantreffen, bereiken, verkrijgen
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verminderen, verzwakken
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend
+⟪दायक ३⟫ v.: ⟪दायिका⟫ : gevend, schenkend
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König
+⟪नृप⟫ m.: „beschermer van de mannen“ = koning
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde
+⟪प्रणिधान⟫ zn.: toepassing, inspanning, aandacht voor, dienstbaarheid, nadenken, gelofte
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein
+⟪बाधना⟫ v.: benauwdheid, kwelling, pijn
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin
+⟪भार्या⟫ v.: "die behouden moet worden" = echtgenote
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ)
+⟪भावना⟫ v.: meditatieve ontplooiing (naar ⟪भू⟫ causatief)
 
-⟪मही⟫ f.: Erde, Grund und Boden
+⟪मही⟫ v.: aarde, grond en bodem
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut
+⟪लक्षण⟫ n.: kenmerk, eigenschap, attribuut
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane
+⟪विप्र⟫ m.: „Zitterer“ = dichter, zanger, priester, brahmaan
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt
+⟪विषय⟫ m.: gebied, domein, object, zintuiglijk object
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung
+⟪अपवर्ग⟫ m.: einde, verlossing
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ bijwoord: naar beneden, naar binnen, achteruit
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : omkeren, terugkeren
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) passief ⟪सद्यते⟫ PPP ⟪सन्न⟫ : zitten, zich neerzetten
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : gaan zitten, neergezet worden (in figuurlijke zin) = sereen, rustig, opgewekt worden ; iemand (genitief ⟪षष्ठी⟫) genadig zijn
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung"
+⟪समाधि⟫ m.: innerlijke verzameling, hoogste aandacht, meditatieve "verzonkenheid"
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium
+⟪स्वाध्याय⟫ m.: "zelfstudie", recitatie (vooral van de Veda), Vedastudie
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig
+⟪परलौकिक ३⟫ : het hiernamaals betreffend, ginds
 
-⟪तनु⟫ ⟪३⟫ : schlank
+⟪तनु ३⟫ : slank
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte
+⟪मध्य ३⟫ : middelgroot; n. midden
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, gross
+⟪पृथु ३⟫ (⟪पृथ्वी⟫) : wijd, breed, groot
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte
+⟪श्रोणि । श्रोणी⟫ f.: heup
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot
+⟪रक्त ३⟫ : geverfd, rood
 
-⟪ओष्ठ⟫ m.: Lippe
+⟪ओष्ठ⟫ m.: lip
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz
+⟪असित ३⟫ : donker, zwart
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : zien
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen
+⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : buigen
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus-
+⟪उद्⟫ voorvoegsel: op, omhoog, uit, eruit
 
-⟪नाभि⟫ f.: Nabel
+⟪नाभि⟫ f.: navel
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später)
+⟪वपुस्⟫ n.: schoonheid, gestalte lichaam (declinatie zie later)
 
-⟪स्त्री⟫ f.: Frau
+⟪स्त्री⟫ f.: vrouw
 
-⟪स्तन⟫ m.: Brust
+⟪स्तन⟫ m.: borst
 
-⟪दरैद्र⟫ ⟪३⟫ : arm
+⟪दरैद्र ३⟫ : arm
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedijen
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich
+⟪ऋध्⟫ + ⟪सम्⟫ : gedijen; PPP: geslaagd, rijk
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam
+⟪विचित्र ३⟫ : bont, gevarieerd, mooi, wonderbaarlijk, vreemd
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal
+⟪विधि⟫ m.(!): ordening, wet, voorschrift; schepping, lot
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : zich bewegen
 
 ## Les 21
 
@@ -1186,51 +1331,57 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren
 
-davon:
+
+
+
+
+
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** iemand (acc.) iets toewijzen, laten toekomen, iemand liefhebben, eren, vereren
+
+daarvan:
 
 ::: indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ f.:** toewijding, trouw, liefde (in religieus opzicht: liefde en respect voor een persoonlijke god. zie daarvoor Basham, Wonder blz. 332v.)
+**⟪भाग⟫ m.:** aandeel, deel
+**⟪भग⟫ m.:** (goed) aandeel, geluk, welzijn, waardigheid
+**⟪भगवन्त्⟫ 3:** gelukbezitter, waardigheidbezitter (bijnaam van ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 :::
 ::: media
 ![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103))
+Afbeelding: ⟪भगवान्कृष्णः भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) met zijn halfzus ⟪सुभद्रा⟫ (midden) en zijn oudere broer ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Bron afbeelding: [Details](/licenses#lekt2103))
 :::
+
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ v.:** "Lied (⟪गीता⟫) van de Eerbiedwaardige (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105))
+Afbeelding: ⟪भगवद्गीता भगवद्गीता⟫ - manuscript, 19e eeuw
+(Bron afbeelding: [Details](/licenses#lekt2105))
 :::
-::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln
-:::
-davon:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigenlijk een desiderativum van ⟪भज्⟫: wensen dat men deelneemt): bedelen
+:::
+daarvan:
+
+::: indent
+**⟪भिक्षु⟫ m.:** bedelaar, monnik
 :::
 ::: media
 ![](/images/lekt2104.webp)
-Abb.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
-(Bildquelle: [Details](/licenses#lekt2104))
+Afbeelding: ⟪भिक्षवः⟫
+Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
+(Bron afbeelding: [Details](/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** bederven (intransitief), slecht worden, in diskrediet raken
 
 ::: indent
-**⟪दोष⟫ m.:** Fehler
+**⟪दोष⟫ m.:** fout
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw.
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (geen PPP, in plaats daarvan ⟪पक्व⟫ 3: gekookt, gaar) Absol. ⟪पक्त्वा⟫ :** garen (transitief) = koken, braden, roosteren enz.
 
 ## Les 22
 
@@ -1240,58 +1391,63 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
 
 
 
-**⟪काम⟫ m.:** Wunsch, Begehren; erwünschte Gabe, Sinnenlust, Liebe, Liebesgott
+
+
+
+
+
+
+**⟪काम⟫ m.:** wens, begeerte; gewenste gave, zinnenlust, liefde, god van de liefde
 
 ::: indent
-⟪कामम्⟫ Akk. adverbiell: nach Wunsch, nach Herzenslust
+⟪कामम्⟫ Akk. adverbieel: naar wens, naar hartenlust
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
-19. Jhdt
-(Bildquelle: [Details](/licenses#lekt2202))
+Afbeelding: ⟪कामदेवः⟫
+19e eeuw
+(Bron afbeelding: [Details](/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** fähig sein, können
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** in staat zijn, kunnen
 
-davon:
+daarvan:
 
 ::: indent
-**⟪शक्ति⟫ f.:** das Können, Vermögen, Fähigkeit, Kraft; auch: göttliche Kraft, personifiziert als weibliche Begleiterin insbes. von ⟪शिव⟫
-
-**⟪शक्र⟫ m.:** der Mächtige (Beiname von ⟪इन्द्र⟫)
+**⟪शक्ति⟫ v.:** het kunnen, vermogen, vaardigheid, kracht; ook: goddelijke kracht, gepersonifieerd als vrouwelijke metgezel vooral van ⟪शिव⟫
+**⟪शक्र⟫ m.:** de Machtige (bijnaam van ⟪इन्द्र⟫)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Abb.: ⟪दुर्गाशक्तिः⟫
-Kolkatta = কলকাতা
-(Bildquelle: [Details](/licenses#lekt2203))
+Afb.: ⟪दुर्गाशक्तिः⟫
+Kolkata = কলকাতা
+(Afbeeldingsbron: [Details](/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** etwas verdienen (zu etwas würdig sein), dürfen, verpflichtet sein zu, sollen (in der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** iets verdienen (iets waard zijn), mogen, verplicht zijn om, moeten (in de 2e persoon wordt ⟪अर्ह्⟫ + infinitief vaak gebruikt als een milde bevelsvorm: "Je zou moeten")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Präs. P: ein Würdiger. Im Buddhismus und Jainismus: jemand, der die endgültige Erlösung erreicht hat
+**⟪अर्हन्त्⟫ 3** part. pres. P: een waardige. In het boeddhisme en het jaïnisme: iemand die de definitieve verlossing heeft bereikt
 :::
-**⟪व्रत⟫ n.:** Gelübde, religiöse Pflicht, religiöse Observanz (man verspricht der Gottheit etwas, um etwas von ihr zu bekommen. Beispiel: eine Mutter verspricht, ihre Tochter als Tempelprostituierte (⟪देवदासी⟫) hinzugeben, wenn ihre Tochter wieder gesund wird. Wichtige ⟪व्रत⟫ heute: Fasten; Enthaltsamkeit von Speisen, die man liebt; sexuelle Enthaltsamkeit; Lesen heiliger Schriften; Vollzug bestimmter Riten; Speisung von Brahmanen u. ä. Kurz zu den ⟪व्रत⟫: Walker, Hindu World Bd. II, S. 581f. Ausführlich: P. V. Kane: History of Dharmaśāstra Bd. 5,1 S. 1 - 462. Dort S. 253 - 462 Liste von ⟪व्रत⟫ und religiösen Festen ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ zn.:** gelofte, religieuze plicht, religieuze naleving (men belooft de godheid iets om er iets van terug te krijgen. Voorbeeld: een moeder belooft haar dochter als tempelprostituee (⟪देवदासी⟫) aan te bieden als haar dochter weer gezond wordt. Belangrijke ⟪व्रत⟫ vandaag de dag: vasten; zich onthouden van voedsel waar men van houdt; seksuele onthouding; het lezen van heilige geschriften; het uitvoeren van bepaalde rituelen; het voeden van brahmanen en dergelijke. Kort over de ⟪व्रत⟫: Walker, Hindu World deel II, blz. 581 e.v. Uitgebreid: P. V. Kane: History of Dharmaśāstra deel 5,1 blz. 1 - 462. Daar, blz. 253–462: lijst van ⟪व्रत⟫ en religieuze feesten („the following list … does not claim to be thoroughly exhaustive”!!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, umhergehen, sich regen, sich bewegen, handeln, etwas ausüben, vollziehen (z.B. **⟪व्रतं⟫ ⟪चर्⟫**: ein Gelübde praktizieren, insbes. sexuelle Enthaltsamkeit)
-
-davon:
+**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskriet: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** weiden, rondlopen, zich bewegen, handelen, iets beoefenen, uitvoeren (bijv. **⟪व्रतं चर्⟫**: een gelofte naleven, met name seksuele onthouding)
+waarvan:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर ३⟫:** beweeglijk; zn.: het beweeglijke = dieren (in tegenstelling tot planten)
 
-**⟪चरण⟫ n., m.:** Fuss
+**⟪चरण⟫ zn., m.:** voet
 
-**⟪चरित⟫ n.:** Lebenswandel, Lebenstaten
+**⟪चरित⟫ zn.:** levenswijze, levensdaden
 
-**⟪ब्रह्मचर्य⟫ n.:** Vollzug des Veda (⟪ब्रह्मन्⟫) = Studium des Veda im ersten Lebensstadium (dem des ⟪ब्रह्मचारिन्⟫), welches strenge sexuelle Enthaltsamkeit erfordert; deshalb auch: sexuelle Enthaltsamkeit, zölibatärer Lebenswandel
+**⟪ब्रह्मचर्य⟫ zn.:** de beoefening van de Veda (⟪ब्रह्मन्⟫) = de studie van de Veda in de eerste levensfase (die van ⟪ब्रह्मचारिन्⟫), die strikte seksuele onthouding vereist; vandaar ook: seksuele onthouding, celibatair levensgedrag
 :::
 ::: media
 ![](/images/lekt2201.webp)
-Abb.: ⟪धेनवश्चरन्ति⟫
+Afb.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Bildquelle: [Details](/licenses#lekt2201))
+(Bron: [Details](/licenses#lekt2201))
 :::
+
 ## Les 23
 
 
@@ -1300,13 +1456,19 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪समान⟫ ⟪३⟫: gleich
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
+
+
+
+⟪समान ३⟫: gelijk
+
+⟪सामान्य⟫ zn.: gelijkheid, overeenstemming
+
+⟪अधिक ३⟫ : overvloedig, extra, groter, beter, buitengewoon
+
+⟪विशेष⟫ m.: bijzonderheid, specificatie, differentia specifica
 
 ## Les 24
 
@@ -1316,120 +1478,127 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!"
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
+
+
+
+⟪अलम्⟫ Bijwoord: genoeg, voldoende, (iemand, iets) aan kunnen ; met datief: genoeg voor, voldoende voor, aan kunnen ; met instrumentaal: genoeg met, laat het los, bijv. ⟪अलं क्रोधेन⟫ = "genoeg met de woede = laat de woede rusten!"
+
+Op dezelfde manier wordt ⟪अलम्⟫ met instrumentalis gebruikt:
+
+⟪कृतम्⟫ : ⟪कृतं क्रोधेन⟫ = „Het is gedaan met de woede = laat de woede varen!”
+
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : versieren
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
+⟪अलंकार⟫ m.: versiering, versieringsmiddel (in de poëzie)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405))
+Afb.: ⟪अलंकारः⟫
+(Bron: [Details](/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen"
+⟪हेतु⟫ m.: drijfveer, aanleiding, oorzaak, reden; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ met genitief of als tweede deel van een samengesteld woord = "omwille van..., vanwege"
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild
+⟪प्रतिमा⟫ v.: portret, afbeelding
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Afbeelding: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406))
+(Bron afbeelding: [Details](/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : plaatsvinden, gebeuren, ontstaan
 
-Von ⟪वृत्⟫:
+Van ⟪वृत्⟫:
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
+⟪वृत्ति⟫ v.: gedrag, activiteit, levenswijze
 
-⟪वृत्त⟫ n.: Benehmen
+⟪वृत्त⟫ n.: gedrag
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ voorvoegsel:  be-, naar - toe, van - af, naar - toe, tegen, in - binnenin, met betrekking tot, op, over, aan
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ voorvoegsel: omlaag, naar beneden, binnenin, achteruit
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit
+⟪आ⟫ voorzetsel / postpositie: voor ablative of na accusatief: tot aan, tot ; met ablative: van af, vanaf, sedert
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas)
+⟪अतस्⟫ indeclinabile: daarvandaan, toen, daarom, vandaar (pronomatische stam a- "deze" + ablative suffix -tas)
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge
+⟪अध्यक्ष⟫ m.: toezichthouder, afdelingshoofd ; ooggetuige
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan
+⟪इन्द्रिय⟫ n.: kracht, zintuig
 
-⟪ऊह⟫ m.: Überlegung, Argumentation
+⟪ऊह⟫ m.: overweging, argumentatie
 
-davon
+daarvan
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
+⟪अपोह⟫ m.: ontkenning (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
+⟪ऊहापोह⟫ m.: discussie van pro en contra
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
+Afbeelding: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407))
+(Bron afbeelding: [Details](/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich
+⟪औपकारिक⟫ 3 v.: -⟪ई⟫ : nuttig
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall)
+⟪कुप्य⟫ n.: bosproduct, metaal (edelmetaal niet)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : zien, zichtbaar worden ; noemen, uitleggen, meedelen
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : vertellen
 
-davon:
+daarvan:
 
-⟪आख्यान⟫ n.: Erzählung
+⟪आख्यान⟫ n.: verhaal
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
+Afbeelding: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408))
+(Bron afbeelding: [Details](/licenses#lekt2408))
 :::
-::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
-
-davon:
-
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.)
-:::
-⟪ग्रहण⟫ n.: Ergreifen
-
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren)
-
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit)
-
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
-
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
-
-davon:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : optellen, berekenen
+
+daarvan:
+
+⟪संख्या⟫ v.: telling, opsomming ; ⟪सांख्य⟫ n.: een van de zes filosofische systemen (kort: Basham, Wonder S. 326f.)
+:::
+⟪ग्रहण⟫ n.: grijpen
+
+⟪चौल⟫ n.: ceremonie (⟪संस्कार⟫) van het knippen van haar (op 3-jarige leeftijd)
+
+⟪तत्त्व⟫ n.: ware aard, waarheid, realiteit (⟪तद्⟫ + ⟪त्व⟫ = deze-heid)
+
+⟪स्वस्ति⟫ v.: geluk, heil (nominaal gevormd uit ⟪सु अस्ति⟫ = "het is goed")
+
+⟪नमस्⟫ n.: buiging, eerbiediging, groet (declinatie later). Begrotingsformule: ⟪नमो नमः⟫
+
+daarvan:
+
+::: indent
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : zich buigen, eerbiedigen, begroeten
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411))
+Afb.: ⟪जयदेवकविर्विष्णुं नमस्करोति⟫
+Manuscript van de ⟪गीतगोविन्द⟫, 1730 n.Chr.
+(Bron afbeelding: [Details](/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata)
+⟪स्वागत⟫ n.: welkom (uit su-ā-gata)
 
-⟪तृण⟫ n.: Grashalm
+⟪तृण⟫ n.: grassteel
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber
+⟪पुनर्⟫ Adverb: wederom, weer, terug, maar
 
 ## Les 25
 
@@ -1439,7 +1608,13 @@ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
 
 
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen
+
+
+
+
+
+
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ : verlaten, opgeven, in de steek laten
 
 ::: indent
 Fut. ⟪त्यक्ष्यति⟫  
@@ -1448,22 +1623,22 @@ PPP ⟪त्यक्त⟫
 Inf. ⟪त्यक्तुम्⟫  
 Absol. 2: -⟪त्यज्य⟫
 
-davon:
+daarvan:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden
+⟪त्याग⟫ m.: opgeven, afstand doen, vermijden
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau
+⟪दार⟫ m. mv. (!!!): echtgenote
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld
+⟪द्रव्य⟫ n.: voorwerp, bezit, materieel eigendom, geld
 
-⟪धान्य⟫ n.:  gedroschenes Getreide
+⟪धान्य⟫ n.: gedorsen graan
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501))
+Afb.: ⟪धान्यम्⟫
+(Bron afbeelding: [Details](/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten
+⟪धृ⟫ 1U ⟪धरति⟫ : houden, vasthouden
 
 ::: indent
 Fut. ⟪धरिष्यति⟫  
@@ -1472,20 +1647,20 @@ PPP ⟪धृत⟫
 Inf. ⟪धर्तुम्⟫  
 Absol. 2: -⟪धृत्य⟫
 
-davon:
+daarvan:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma
+⟪धर्म⟫ m.: dat wat vast is en vasthoudt = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig
+⟪नित्य ३⟫ : voortdurend, bestendig, eeuwig
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer
+⟪नित्यम्⟫ Adv.: altijd, bestendig immer
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis
+⟪प्रज्ञा⟫ f.: wijsheid, kennis
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende
+⟪प्रदान⟫ n.: geven, schenken ; gift, schenking
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!): zich verheugen, zich aan iets (Instr., Gen., Lok.) bedrinken
 
 ::: indent
 Fut. ⟪मदिष्यति⟫  
@@ -1493,17 +1668,17 @@ Pass. ⟪मद्यते⟫
 PPP ⟪मत्त⟫  
 Inf. ⟪मदितुम्⟫
 
-davon:
+daarvan:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust
+⟪मद⟫ m.: dronkenheid, zinnendronkenschap = zinnenlust
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen)
+⟪मान⟫ m.: inschatting, aanzien, roem, eer, trots, hoogmoed, minderwaardigheidscomplex ; (men meet zich aan anderen)
 
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Konjunktie: als
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a)
+⟪न्याय⟫ m.: regel, principe, methode, oordeel (jurist.), logica (uit ni + i +a)
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig
+⟪अन्यथा⟫ Adv.: anders, anderszins, ten onrechte, onjuist
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
@@ -1513,37 +1688,33 @@ PPP ⟪यात⟫
 Inf. ⟪यातुम्⟫  
 Absol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
-
-⟪प्रदान⟫ n. = ⟪दान⟫
-
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य भावः प्रदान⟫ n. = ⟪दान शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. mv.) : bevelen, onderwijzen, straffen
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
+PPP ⟪शिष्ट ३⟫ : onderwezen  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon:
+daarvan:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik
+⟪शिक्षा⟫ f.: wetenschap, onderricht ; fonetiek
 :::
-⟪स्तेन⟫ m.: Dieb
+⟪स्तेन⟫ m.: dief
 
-⟪स्तेय⟫ n.: Diebstahl
+⟪स्तेय⟫ n.: diefstal
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde
+⟪किल्बिष⟫ n.: schuld, belediging, zonde
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.)
+⟪विना⟫ Postpositie: zonder, behalve (met Akk., Instr., Abl.)
 
-⟪मूल⟫ n.: Wurzel
+⟪मूल⟫ n.: wortel
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502))
+Afb.: ⟪मूलानि⟫
+(Bron: [Details](/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): besmeren, insmeren
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
@@ -1551,81 +1722,79 @@ Pass. ⟪लिप्यते⟫
 PPP ⟪लिप्त⟫  
 Inf. ⟪लेप्तुम्⟫
 
-davon:
+daarvan:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift
+⟪लिप्ति⟫ v.: besmeren, schrijven, schrift
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503))
+Afbeelding: ⟪लिप्तिः⟫
+(Bron afbeelding: [Details](/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr
+⟪वर्ष⟫ n.,m.: regen, regentijd, jaar
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : leiden, rijden, waaien (wind)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫
+Absol 2: -⟪उह्य वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegleiden (namelijk de bruid uit het ouderlijk huis) = trouwen
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten
+daarvan:
 
-davon:
-
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171)
+⟪विवाह⟫ m.: wegleiden, huwelijk van een vrouw (Instr., saha) (voor het huwelijk zie Basham, Wonder S. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504))
+Afbeelding: ⟪विवाहः⟫
+(Bron afbeelding: [Details](/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegleiden, onderwijzen, opvoeden
 
 ::: indent
-davon:
+daarvan:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht
+⟪विनय⟫ m.: verwijderen, opvoeden, discipline, boeddhistisch: kloosterdiscipline, kloosterrichtlijn
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis
+⟪विज्ञान⟫ n.: kennis, inzicht
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst
+⟪विष्टि⟫ f.: arbeid, dwangarbeid
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505))
+Afbeelding: ⟪विष्टिः⟫
+(Bron afbeelding: [Details](/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : groeien, groter worden
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
+PPP ⟪वृद्ध⟫ : volwassen, oud, vermeerderd  
 Inf. ⟪वर्धितुम्⟫
 
-davon:
+daarvan:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti)
+⟪वृद्धि⟫ f.: groeien, groei, verdubbelingsgraad (uit: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen
+⟪सामर्थ्य⟫ n.: het aan zijn doel beantwoordend
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter
+⟪स्वभाव⟫ m.: wezen, natuur, karakter
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude
+⟪हर्ष⟫ m.: (rechtop staan van de haren op het lichaam), vreugde
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum
+⟪हिरण्य ३⟫ : goudkleurig ; n.: goud, geld, rijkdom
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506))
+Afbeelding: ⟪हिरण्यम्⟫
+(Bron afbeelding: [Details](/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom
+⟪अणु ३⟫ : dun, fijn, zeer klein ; m.: atoom
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫)
+⟪गोदान⟫ n.: het geven van koeien / een koe; tweede kapselceremonie (een ⟪संस्कार⟫)
 
 ## Les 27
 
@@ -1635,85 +1804,85 @@ Abb.: ⟪हिरण्यम्⟫
 
 
 
-⟪वस्⟫ 1P (⟪वसति⟫): verweilen, wohnen (mit Lokativ der Person, bei der man wohnt)
+
+
+
+
+
+
+⟪वस्⟫ 1P (⟪वसति⟫): verblijven, wonen (met lokatief van de persoon bij wie men woont)
 
 ::: indent
-**Fut.:** ⟪वत्स्यति⟫
-**Pass.:** ⟪उष्यते⟫
-**PPP:** ⟪उषित⟫
-**Inf.:** ⟪वस्तुम्⟫
+**Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
 :::
-davon:
+daarvan:
 
 ::: indent
-⟪वस्तु⟫ n.: Sitz, Ort; Realie, reales Ding, Wirklichkeit, Gegenstand
+⟪वस्तु⟫ n.: zitplaats, plaats; realiteit, reëel ding, werkelijkheid, object
 
 :::
 ::: indent
-⟪वस्तुतस्⟫: in Wirklichkeit, wirklich
+⟪वस्तुतस्⟫: in werkelijkheid, echt
 :::
-⟪वस्⟫ 2Ā (⟪वस्ते⟫): anziehen (Kleidung), tragen (Kleidung)
+⟪वस्⟫ 2Ā (⟪वस्ते⟫): aantrekken (kleding), dragen (kleding)
 
 ::: indent
-**Fut.:** ⟪वसिष्यते⟫
-**PPP:** ⟪वसित⟫
-**Inf.:** ⟪वसितुम्⟫
+**Fut.:** ⟪वसिष्यते⟫:br **PPP:** ⟪वसित⟫:br **Inf.:** ⟪वसितुम्⟫
 :::
-davon:
+daarvan:
 
 ::: indent
-⟪वस्त्र⟫ n.: Mittel, um sich anzuziehen = Kleid, Gewand, Stoff
+⟪वस्त्र⟫ n.: middel om zich aan te trekken = kleding, gewaad, stof
 :::
 ::: media
 ![](/images/lekt2706.webp)
-Abb.: ⟪वस्त्राणि⟫
+Afb.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Bildquelle: [Details](/licenses#lekt2706))
+(Bron afbeelding: [Details](/licenses#lekt2706))
 :::
-⟪वस्⟫ 6P (⟪उच्छति⟫): aufleuchten (diese Wurzel ist wichtig wegen der Nominalbildungen:)
+⟪वस्⟫ 6P (⟪उच्छति⟫): oplichten (deze wortel is belangrijk vanwege de nominale afleidingen:)
 
 ::: indent
-⟪वसु⟫ n.: Reichtum, Schatz, Habe, Besitz
+⟪वसु⟫ n.: rijkdom, schat, bezit, eigendom
 
-⟪वसन्त⟫ m.: ("leuchtend" =) Frühling (März bis Mai)
+⟪वसन्त⟫ m.: ("schitterend" =) lente (maart tot mei)
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Abb.: ⟪वसन्तः⟫
+Afb.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Bildquelle: [Details](/licenses#lekt2707))
+(Bron afbeelding: [Details](/licenses#lekt2707))
 :::
-⟪हृ⟫ 1U (⟪हरति⟫): halten, tragen; holen, wegnehmen, rauben
+⟪हृ⟫ 1U (⟪हरति⟫): houden, dragen; halen, wegnemen, roven
 
 ::: indent
-**Fut.:** ⟪हरिष्यति⟫
-**Pass.:** ⟪ह्रियते⟫
-**PPP:** ⟪हृत⟫
-**Inf.:** ⟪हर्तुम्⟫
+**Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
 :::
-davon:
+daarvan:
 
 ::: indent
-⟪हर⟫ 3: wegnehmend; m.: der Zerstörer = Beiname von Śiva
+⟪हर⟫ 3: wegnemend; m.: de vernietiger = bijnaam van Śiva
 :::
-Gegenstück zu ⟪हर⟫:
+Gegenstück to ⟪हर⟫:
 
-⟪हरि⟫ 3: blond, gelb, grün; m. Beiname des Viṣṇu (gehört nicht zur Wurzel ⟪हृ⟫ 1)
+⟪हरि⟫ 3: blond, geel, groen; m. bijnaam van Viṣṇu (behoort niet tot de wortel ⟪हृ⟫ 1)
 
-⟪हरिहर⟫ m.: Viṣṇu und Śiva vereint als eine einzige Gottheit.
+⟪हरिहर⟫ m.: Viṣṇu en Śiva verenigd als één enkele godheid.
 
 ::: media
 ![](/images/lekt2704.webp)
-Abb.: ⟪हरिहरः⟫
+Afb.: ⟪हरिहरः⟫
 Harihara (links: Viṣṇu, rechts: Śiva).
-(Bildquelle: [Details](/licenses#lekt2704))
+(Bron afbeelding: [Details](/licenses#lekt2704))
 :::
+
 ::: media
 ![](/images/lekt2705.webp)
-Abb.: ⟪हरिहरः⟫
-Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
-(Bildquelle: [Details](/licenses#lekt2705))
+Afb.: ⟪हरिहरः⟫
+Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West-Bengalen.
+(Bron afbeelding: [Details](/licenses#lekt2705))
 :::
+
 ## Les 28
 
 
@@ -1722,30 +1891,36 @@ Harihara (links: Viṣṇu, rechts: Śiva). Godrumdwip, West Bengal.
 
 
 
+
+
+
+
+
+
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: weten, kennen
 Fut. **vediṣyati**
 Pass. **vidyate**
 Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m.
+daarvan: **vidyā** v., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): vinden
 Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
+Pass. **vidyate**: er is, het bestaat
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: studeren, uit het hoofd leren
+Kaus. **adhyāpayati**: laten studeren, onderwijzen
+daarvan: **adhyayana** n.: studie (met name van de Veda); **adhyāya** m.: les, hoofdstuk (gedeelte om uit het hoofd te leren)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
+⟪कम्⟫ 10Ā ⟪कामयते⟫: liefhebben
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
@@ -1754,12 +1929,13 @@ Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804))
+Afb.: ⟪कृष्णो राधां कामयति⟫
+Schilderij van ⟪राजा रवि वर्मा⟫ (1848 - 1906)
+(Bron afbeelding: [Details](/licenses#lekt2804))
 :::
+
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10 ⟪चोरयति⟫: stelen
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
@@ -1767,29 +1943,27 @@ PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen
+**Onthoud vooral de betekenis van de kausativa bij de volgende werkwoorden:**
+**dṛś** — **darśayati**: tonen
+**man** — **mānayati**: hoogachten, eren (is waarschijnlijk een denominatief van **māna** "eer")
+**vac** — **vācayati**: ook: hardop lezen (een tekst laten spreken)
+**vad** — **vādayati**: ook: een muziekinstrument aan het spreken brengen = een muziekinstrument spelen
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Afbeelding: ⟪वीणां वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803))
+(Bron afbeelding: [Details](/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: last
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805))
+Afbeelding: ⟪बाला भारं हरति⟫
+Meisje draagt last. Bij Ahmedabad.
+(Bron afbeelding: [Details](/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener
-
----
+⟪भृत्य⟫ m.: ondergeschikte, dienaar
 
 ## Les 29
 
@@ -1799,22 +1973,28 @@ Mädchen trägt Last. Bei Ahmedabad.
 
 
 
-Präverben:
+
+
+
+
+
+
+Preverb:
 
 ::: indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
+⟪उद्⟫° : op, omhoog, ten einde toe, uit, eruit-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher
+⟪परि⟫° : rond, om (plaats, tijd), omheen
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (rond iemand heen worden = inringen =) meester worden, overwinnen ; verachten, minachten
 
-⟪अवज्ञान⟫ n.: Missachtung
+⟪अवज्ञान⟫ n.: verachting
 
-⟪गुप्त⟫ 3: behütet, beschützt
+⟪गुप्त⟫ 3: beschermt, beveiligd
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet)
+⟪गृहस्थ⟫ 3: zich in het huis bevindend ; m. huiskop (iemand die zich in de 2e ⟪आश्रम⟫ bevindt)
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verteren, opeten
 
 ::: indent
 Fut. ⟪ग्रसिष्यते⟫  
@@ -1823,58 +2003,56 @@ Kaus. ⟪ग्रासयति⟫
 PPP ⟪ग्रस्त⟫  
 Inf. ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig
+⟪तीक्ष्ण⟫ 3: "wild", scherp, spits, streng, hevig, scherptongig
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫)
+⟪न्याय⟫ m.: norm, regel, juiste manier; methode, logica (van ⟪इ⟫ + ⟪नि⟫)
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
+⟪परिव्राजक⟫ m.: rondtrekker, zwervende monnik, pelgrim
 
 ::: media
 ![](/images/lekt2903.webp)
-Abb.: ⟪परिव्राजकाः⟫
+Afbeelding: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903))
+(Bron afbeelding: [Details](/licenses#lekt2903))
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
+⟪पालयति⟫ : ook betekenisgelijk met  ⟪पाति पुनर्⟫ Indecl.: weer, steeds terug, terug, nog een keer ; echter, maar (voor stemhebbende klanken behalve r-: ⟪पुनर्⟫)
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten ausser r-: ⟪पुनर्⟫)
+⟪प्रजा⟫ f.: voortbrenging, geboorte, nakomelingschap
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
+⟪मत्स्य⟫ m.: vis
 
-⟪मत्स्य⟫ m.: Fisch
-
-davon:
+daarvan:
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+⟪मात्स्य⟫ 3: behorend tot de vis (tot vissen)
 :::
 ::: media
 ![](/images/lekt2901.webp)
-Abb.: ⟪मत्स्यः⟫
-⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901))
+Afbeelding: ⟪मत्स्यः रोहू मछली⟫ = Labeo rohita Hamilton
+(Bron afbeelding: [Details](/licenses#lekt2901))
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+⟪मृदु⟫  3 (v.: ⟪मृद्वी⟫): zacht, mild, soepel; langzaam, zwak
 
-⟪यथा⟫ Adv.: wie, gleichsam
+⟪यथा⟫ bijwoord: zoals, als het ware
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
+⟪रम्⟫ 1Ā ⟪रमते⟫ : stil staan, rusten, vertoeven ; genot vinden, zich vermaken
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
-Kaus. ⟪रमयति⟫  
+Caus. ⟪रमयति⟫  
 PPP ⟪रत⟫  
 Inf. ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet)
+⟪वानप्रस्थ⟫ m.: boskluizenaar (iemand die zich in het 3e ⟪आश्रम⟫ bevindt)
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit
+⟪शुचि⟫ 3: stralend, glanzend, verfijnd; m.: zuiverheid
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : eren, vereren
 
 ::: indent
 PPP ⟪पूजित⟫
 :::
+
 ## Les 30
 
 
@@ -1883,7 +2061,13 @@ PPP ⟪पूजित⟫
 
 
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
+
+
+
+
+
+
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kopen
 
 ::: indent
 Fut. ⟪क्रेष्यति⟫  
@@ -1891,54 +2075,54 @@ Pass. ⟪क्रीयते⟫
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkopen
 
 ::: indent
 Absol. ⟪विक्रीय⟫
 :::
 ::: media
 ![](/images/lekt3001.webp)
-Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Afb.: ⟪क्रीणन्ति विक्रीणते च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt3001))
+(Bron afbeelding: [Details](/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, herkennen, weten, begrijpen
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
-Kaus. ⟪ज्ञापयति⟫  
-Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+Caus. ⟪ज्ञापयति⟫  
+Caus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-davon:
+waarvan:
 
-⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
+⟪ज्ञाति⟫ m.: (bloed-)verwant (verwanten zijn degenen die men kent!)
 
-⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
+⟪ज्ञान⟫ zn.: inzicht, kennis, begrip (met name van de „hogere“ waarheden in religie en filosofie)
 :::
 ::: media
 ![](/images/lekt3002.webp)
-Abb.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Bildquelle: [Details](/licenses#lekt3002))
+Afb.: ⟪ज्ञातयः⟫
+Darewadi, district Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Bron afbeelding: [Details](/licenses#lekt3002))
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
-Kaus. ⟪पावयति⟫  
+Caus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
 :::
 ::: media
 ![](/images/lekt3003.webp)
-Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Bildquelle: [Details](/licenses#lekt3003))
+Afbeelding: ⟪श्रोत्राणि पुनाति⟫
+(Bron afbeelding: [Details](/licenses#lekt3003))
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : eten, verteren
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
@@ -1949,57 +2133,56 @@ Inf. ⟪अशितुम्⟫
 :::
 ::: media
 ![](/images/lekt3005.webp)
-Abb.: ⟪अश्नीयात्⟫
-⟪थाली⟫, Südindien
-(Bildquelle: [Details](/licenses#lekt3005))
+Afbeelding: ⟪अश्नीयात् थाली⟫, Zuid-India
+(Bron afbeelding: [Details](/licenses#lekt3005))
 :::
-⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
+⟪प्रिय ३⟫: lief, liefhebbend, vriendelijk
 
 ::: media
 ![](/images/lekt3004.webp)
-Abb.: ⟪प्रिया⟫
-(Bildquelle: [Details](/licenses#lekt3004))
+Afbeelding: ⟪प्रिया⟫
+(Bron afbeelding: [Details](/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
+⟪चेत्⟫ Conjunctie: als; mits, dat (staat nooit aan het begin van een zin)
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : wenn nicht
+⟪न चेत्⟫ : indien niet
 :::
-⟪यदि⟫ Konjunktion: wenn
+⟪यदि⟫ Conjunctie: als
 
 ::: indent
-⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
+⟪यद्यपि⟫ : hoewel, zelfs als, ofschoon
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫ : indien het zo is, onder deze omstandigheden
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫ : weer, keer op keer, terug, nogmaals, daarentegen, maar
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
+⟪पुनः पुनर्⟫ : keer op keer
 
-davon:
+daarvan:
 
-⟪पुनर्भव⟫ m.: Wiedergeburt
+⟪पुनर्भव⟫ m.: wedergeboorte
 :::
 ::: media
 ![](/images/lekt2904.webp)
-Abb.: ⟪पुनर्भवः⟫
-(Bildquelle: [Details](/licenses#lekt2904))
+Afbeelding: ⟪पुनर्भवः⟫
+(Bron afbeelding: [Details](/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
+⟪जीव्⟫ 1P ⟪जीवति⟫ : leven
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : lebend  
+PPP ⟪जीवित⟫ : levend  
 Inf. ⟪जीवितुम्⟫
 
-davon:
+daarvan:
 
-⟪जीव⟫ m./n.: Leben, individuelle Seele
+⟪जीव⟫ m./n.: leven, individuele ziel
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : ewig, unvergänglich, beständig
+⟪सनातन ३⟫ v.: ⟪सनातनी⟫ : eeuwig, onvergankelijk, bestendig
 
 ## Les 31
 
@@ -2009,7 +2192,13 @@ davon:
 
 
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫)
+
+
+
+
+
+
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : spannen, voor het juk spannen, aanspannen, bevestigen ; Ā ook: zich inspannen (= zich inspannen), verbinden met, concentreren op (Locatief, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
@@ -2017,24 +2206,24 @@ davon:
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+daarvan:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** juk, paar, wereldtijdperk (er zijn vier wereldtijden:
 1. ⟪कृत⟫
 2. ⟪त्रेता⟫
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323)
+Het ⟪कलियुग⟫ begon rond 3102 v. Chr., het jaar van de ⟪महाभारत⟫-oorlog. Meer details bij Basham, Wonder S. 323)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.)
+**⟪योग⟫ m.:** "aanspanning, inspanning", inspanning, verbinding, yoga (zie daarvoor Basham, Wonder S. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101))
+Afb.: ⟪योगः⟫
+Yoga-afbeelding.
+(Bron afbeelding: [Details](/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, tot stilstand brengen, tegenhouden = insluiten, bedekken
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -2042,7 +2231,7 @@ Yoga-Darstellung.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : afsnijden
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -2050,34 +2239,34 @@ Yoga-Darstellung.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (iets) breken
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : zalven, smeren
 ::: indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**Fut. ⟪अङ्क्ष्यति । अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
+**Inf. ⟪अञ्जितुम् । अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : uiteensmeren = zich schminken, zich onderscheiden maken
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet
+**PPP ⟪व्यक्त⟫ :** onderscheiden, ontvouwd
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden)
+daarvan:
+**⟪व्यञ्जन⟫ n.:** middel van onderscheid = schmink, kruiden, kenmerk, medeklinker (dat waardoor de betekenissen worden onderscheiden)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102))
+Af.: ⟪व्यञ्जनम्⟫
+Voorbereiding op de Kathakali-dans, Kochi.
+(Bron afbeelding: [Details](/licenses#lekt3102))
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : splitsen
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
@@ -2085,7 +2274,7 @@ Vorbereitung zum Kathakali-Tanz, Kochi.
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen)
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : genieten (bijv. eten; "de aarde genieten" = de aarde beheersen)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -2093,10 +2282,10 @@ Vorbereitung zum Kathakali-Tanz, Kochi.
 **PPP bhukt → PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe
+daarvan:
+**⟪भोग⟫ m.:** genot, eten, lust, nut, belasting, heffing
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, vastbinden
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -2104,23 +2293,23 @@ davon:
 **PPP ⟪बद्ध⟫**
 **Inf. ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel
+daarvan:
+**⟪बन्धन⟫ n.:** binden, band
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : herkennen, begrijpen
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis
+daarvan:
+**⟪प्रज्ञा⟫ f.:** wijsheid, kennis
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103))
+Afb.: ⟪प्रज्ञापारमिता⟫
+Uit een Prajñāpāramitā-manuscript.
+(Bron afbeelding: [Details](/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : ontstaan, bestaan
 
-**⟪शरीर⟫ n.:** Leib, Körper
+**⟪शरीर⟫ n.:** lichaam, lijf
 
 ## Les 32
 
@@ -2130,132 +2319,125 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 
 
-**⟪अग्र⟫ n.:** Spitze, äusserstes Ende
 
-**⟪मही⟫ f.:** Erde, Grund und Boden (wörtl.: die Grosse)
+
+
+
+
+
+**⟪अग्र⟫ n.:** punt, uiterste einde
+
+**⟪मही⟫ f.:** aarde, grond en bodem (letterlijk: de Grote)
 
 ⟪एकदा⟫
 
-**⟪श्रम्⟫ ⟪श्राम्यते⟫**
+**⟪श्रम् श्राम्यते⟫**
 ::: indent
-⟪श्रमिष्यते⟫
-⟪श्रम्यते⟫
-⟪श्रमयति⟫
-⟪श्रान्त⟫
-⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
--⟪श्रम्य⟫
+⟪श्रमिष्यते⟫:br
+⟪श्रम्यते⟫:br
+⟪श्रमयति⟫:br
+⟪श्रान्त⟫:br
+⟪श्रमित्वा । श्रान्त्वा⟫:br
+⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-⟪पार्श्व⟫
-
-⟪चूत⟫
+⟪पार्श्व चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Abb.: ⟪चूतः⟫
-Mangobaum, Kanpur.
-(Bildquelle: [Details](/licenses#lekt3202))
+Afb.: ⟪चूतः⟫
+Mango boom, Kanpur.
+(Bron afbeelding: [Details](/licenses#lekt3202))
 :::
-⟪तरु⟫ ⟪वृक्ष⟫
+⟪तरु वृक्ष पचेलिम स्पृहा परम्⟫
 
-⟪पचेलिम⟫
-
-⟪स्पृहा⟫
-
-⟪परम्⟫
-
-**⟪रुह्⟫ ⟪रोहति⟫**
+**⟪रुह् रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟫
-⟪रुह्यते⟫
-⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫
-⟪रूढ⟫
--⟪रुह्य⟫
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति । रोपयति⟫:br
+⟪रूढ⟫:br
+⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
+**⟪ग्रह् गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟫ (!)
-⟪गृह्यते⟫
-⟪ग्राहयति⟫
-⟪गृहीत⟫
--⟪गृह्य⟫
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+⟪गृह्य⟫:br
 ⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟫ ⟪कपि⟫**
+**⟪वानर कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
-Abb.: ⟪वानराः⟫
-Affen (rhesus macaques) in Delhi.
-(Bildquelle: [Details](/licenses#lekt3203))
+Afbeelding: ⟪वानराः⟫
+Apen (rhesusapen) in Delhi.
+(Bron afbeelding: [Details](/licenses#lekt3203))
 :::
-**⟪लोक्⟫ ⟪लोकयति⟫**
+**⟪लोक् लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟫
-⟪लोक्यते⟫
-⟪लोकित⟫
--⟪लोक्य⟫
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟫
-
-⟪कति⟫
-
-⟪उपल⟫
+⟪प्रहर्ष कति उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Abb.: ⟪उपलाः⟫
-Stone quarry south of Pune, Maharashtra.
-(Bildquelle: [Details](/licenses#lekt3204))
+Afbeelding: ⟪उपलाः⟫
+Steengroeve ten zuiden van Pune, Maharashtra.
+(Bron afbeelding: [Details](/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Abb.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Bildquelle: [Details](/licenses#lekt3205))
+Afbeelding: ⟪लक्ष्यम्⟫
+>> Schietoefening / pijlricht, Karnataka.
+(Bron afbeelding: [Details](/licenses#lekt3205))
 :::
-**⟪क्षिप्⟫ ⟪क्षिपति⟫**
+**⟪क्षिप् क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟫
-⟪क्षिप्यते⟫
-⟪क्षेपयति⟫
-⟪क्षिप्त⟫
--⟪क्षिप्य⟫
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+⟪क्षिप्य⟫:br
 ⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟫ ⟪चिनोति⟫**
+**⟪चि चिनोति⟫**
 ::: indent
-⟪चेष्यति⟫
-⟪चीयते⟫
-⟪चाययति⟫
-⟪चित⟫
--⟪चित्य⟫
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+⟪चित्य⟫:br
 ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
-Abb.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cowdung patties in Rajasthan.
-(Bildquelle: [Details](/licenses#lekt3207))
+Afbeelding: ⟪चितं गोमयं दहति⟫
+Brandende koemestplakken in Rajasthan.
+(Bron afbeelding: [Details](/licenses#lekt3207))
 :::
-**⟪चि⟫ ⟪अव⟫**
+**⟪चि अव⟫**
 
-⟪प्रति⟫
+⟪प्रति अहो⟫
 
-⟪अहो⟫
-
-**⟪कौशल⟫ ⟪कुशल⟫**
+**⟪कौशल कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Abb.: ⟪कौशलम्⟫
-Mehndi painting on hands in Mumbai.
-(Bildquelle: [Details](/licenses#lekt3206))
+Afbeelding: ⟪कौशलम्⟫
+Mehndi-schildering op handen in Mumbai.
+(Bron afbeelding: [Details](/licenses#lekt3206))
 :::
+
 ## Les 33
 
 
@@ -2264,7 +2446,13 @@ Mehndi painting on hands in Mumbai.
 
 
 
-⟪दा⟫ 3U ⟪ददाति⟫: geben
+
+
+
+
+
+
+⟪दा⟫ 3U ⟪ददाति⟫: geven
 
 ::: indent
 **Fut.**  ⟪दास्यति⟫  
@@ -2273,26 +2461,26 @@ Mehndi painting on hands in Mumbai.
 **PPP** ⟪दत्त⟫  
 **Inf.** ⟪दातुम्⟫
 
-davon:
+daarvan:
 
-⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+⟪दान⟫ n.: geven, geschenk, vrijgevigheid
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306))
+Afbeelding: ⟪दानम्⟫
+(Bron afbeelding: [Details](/licenses#lekt3306))
 :::
-⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in ontvangst) nemen, in bezit nemen, meenemen
 
 ::: indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
+**Absol.** ⟪आदाय⟫: met Akk.: in gezelschap van, met
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307))
+Afb.: ⟪सा पुत्रमादाय भारं बिभ्रती गच्छति⟫
+(Bron afbeelding: [Details](/licenses#lekt3307))
 :::
-:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: plaatsen, vaststellen, toewijzen
 
 ::: indent
 **Fut.** :sig[⟪धास्यति⟫]  
@@ -2301,24 +2489,24 @@ Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: de volledige aandacht op iets richten, zich verzamelen
 
 ::: indent
-davon:
+daarvan:
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+⟪समाधि⟫ m.: innerlijke verzameling, hoogste aandacht
 :::
 ::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305))
+Afb.: ⟪समाधि⟫
+(Bron afbeelding: [Details](/licenses#lekt3305))
 :::
-⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: vullen, vervullen
 
 ::: indent
-Merke:
+Merk op:
 3.pl.P :sig[⟪पिपुरति⟫]  
-3.sg.Impf.P :sig[⟪अपिपर्⟫] (aus: \*apipart)  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (uit: \*apipart)  
 3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
 3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
@@ -2327,9 +2515,9 @@ Merke:
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ alleen **Pass.** ⟪सम्पूर्यते⟫ en **Kaus.**: volledig vullen
 
-⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: vrezen voor (Abl., Gen.)
 
 ::: indent
 **Fut.** ⟪भेष्यति⟫  
@@ -2338,17 +2526,16 @@ Merke:
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-davon:
+daarvan:
 
-⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+⟪भय⟫ n.: angst, vrees; gevaar (de subjectieve en de objectieve zijde)
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304))
+Afb.: ⟪भयम्⟫
+(Bron afbeelding: [Details](/licenses#lekt3304))
 :::
-⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
-
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: dragen, brengen; onderhouden, voeden
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
 **Pass.** ⟪भ्रियते⟫  
@@ -2356,66 +2543,67 @@ Abb.: ⟪भयम्⟫
 **PPP** ⟪भृत⟫  
 **Inf.** ⟪भर्तुम्⟫
 
-davon:
+waarvan:
 
-⟪भार⟫ m.: Last
+⟪भार⟫ m.: last
 :::
-⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
+⟪मा⟫ 3Ā ⟪मिमीते⟫: meten
 
 ::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
 **Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
+**Caus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergelijken
 
 ::: indent
-davon:
+waarvan:
 
-⟪उपमा⟫ f.: Vergleich
+⟪उपमा⟫ f.: vergelijking
 
-⟪प्रतिमा⟫ f.: Abbild
+⟪प्रतिमा⟫ f.: afbeelding
 :::
-⟪हा⟫ 3P ⟪जहाति⟫: verlassen
+⟪हा⟫ 3P ⟪जहाति⟫: verlaten
 
 ::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
-**Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
+**Caus.** ⟪हापयति⟫  
+**PPP** ⟪हीन⟫: verlaten door, bij gebrek aan, gebrekkig  
 **Inf.** ⟪हातुम्⟫
-von PPP ⟪हीन⟫:
+van PPP ⟪हीन⟫:
 
-⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+⟪हीनयान⟫ zn.: het gebrekkige voertuig (van het boeddhisme): minachtende benaming door de aanhangers van het "grote voertuig", het ⟪महायान⟫; de gebrekkige Weg (⟪यान⟫ naar ⟪या⟫ 2: gaan, rijden). De uitdrukking ⟪हीनयान⟫ mag niet meer worden gebruikt. De vorm van het oude boeddhisme die vandaag de dag nog bestaat, heet ⟪थेरवाद⟫.
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303))
+Afb.: ⟪हीनयानमेव⟫
+(Bron: [Details](/licenses#lekt3303))
 :::
-⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 3P ⟪जुहोति⟫: in het vuur gieten (als offer, met name gesmolten boter)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
 **Pass.** ⟪हूयते⟫  
-**Kaus.** ⟪हावयति⟫  
+**Caus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
 :::
 ::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302))
+Afb.: ⟪घृतमग्नौ जुहोति⟫
+(Bron: [Details](/licenses#lekt3302))
 :::
-⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ n.: gesmolten boter, ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+"Ghee wordt gemaakt door ongezouten boter in een grote pan te laten sudderen tot al het water is verdampt en de eiwitten op de bodem zijn neergeslagen. De gekookte en geklaarde boter wordt vervolgens met een lepel afgeschept om te voorkomen dat de melkbestanddelen op de bodem van de pan worden verstoord. In tegenstelling tot boter kan ghee gedurende langere tijd zonder koeling worden bewaard, mits het in een luchtdichte verpakking wordt bewaard om oxidatie te voorkomen en het vrij van vocht blijft. De textuur, kleur of smaak van ghee hangt af van de herkomst van de melk waaruit de boter is gemaakt. In India wordt ghee meestal gemaakt van waterbuffelmelk, omdat deze doorgaans witter is dan koemelk.”
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
+[Bron: http://en.wikipedia.org/wiki/Ghee. -- Geraadpleegd op 2008-12-26]
 :::
+
 ## Les 34
 
 
@@ -2424,77 +2612,83 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 
 
-**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide
+
+
+
+
+
+**⟪क्षिति⟫ v. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
+
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. en pl.:** zaad, gewas, graan
 
 ::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
-Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406))
+Afbeelding: ⟪सस्यम्⟫
+Rijstveld in India.
+(Bron afbeelding: [Details](/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** wie lange, wie gross
+**⟪यावत्⟫ :** hoe lang, hoe groot
 
-**⟪तावत्⟫ :** so lange, so gross
+**⟪तावत्⟫ :** zo lang, zo groot
 
-**⟪उत्तम⟫ 3:** höchster
+**⟪उत्तम⟫ 3:** hoogste
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent
+**⟪द्वीप⟫ m.v.:** eiland, continent
 
 ::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
-Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405))
+Afbeelding: ⟪लक्षद्वीपाः⟫
+Kaart van de Lakshadweep-eilanden.
+(Bron afbeelding: [Details](/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu ⟪मृ⟫)
+**⟪मर्त्य⟫ 3:** sterveling (van ⟪मृ⟫)
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.:** sesam(zaad) (*Sesamum indicum* L.)
 
 ::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
-Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403))
+Afbeelding: ⟪तिलाः⟫
+Sesamzaad.
+(Bron afbeelding: [Details](/licenses#lekt3403))
 :::
+
 ::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404))
+Afbeelding: *Sesamum indicum* L.
+Bloeiende sesamplant.
+(Bron afbeelding: [Details](/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold
+**⟪स्वर्ण⟫ n.:** (kleurrijk =) goud
 
 ::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
-Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402))
+Afbeelding: ⟪स्वर्णम्⟫
+Gouden Tempel (Harmandir Sahib), Amritsar.
+(Bron afbeelding: [Details](/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel
+**⟪निकेतन⟫ n.:** woonplaats, tempel
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen
+**⟪कोटि⟫ v.:** punt; 10 miljoen
 
-**⟪श्रेष्ठ⟫ 3:** bester
+**⟪श्रेष्ठ⟫ 3:** beste
 
-**⟪तल⟫ m.n.:** Ebene, Fläche
+**⟪तल⟫ m.v.:** vlakte, oppervlak
 
-**⟪ऋषभ⟫ m.:** Stier
+**⟪ऋषभ⟫ m.:** stier
 
 ::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
-Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401))
+Afbeelding: ⟪ऋषभः⟫
+Nandi Stier standbeeld, Chamundi-heuvels, Mysore.
+(Bron afbeelding: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** terughouden, houden, aanbieden, verlenen
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** uitsteken, aanbieden, afleveren
+**⟪या⟫ 2P ⟪याति⟫ :** lopen, rijden
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren
-
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau
+**⟪कन्या⟫ v.:** meisje, maagd
 
 ## Les 35
 
@@ -2504,49 +2698,56 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+
+
+
+
+
+
+⟪नश्⟫ 4P ⟪नश्यति⟫ : verdwalen, ten onder gaan, verdwijnen
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**
-**Kaus. ⟪नाशयति⟫**
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
+**Fut. ⟪नशिष्यति । नङ्क्ष्यति⟫** :br
+**causatief ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : verdwijnen, verloren gaan, ten onder gaan
 
-⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : voortgaan, lopen
 ::: indent
-**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**
-**Fut. ⟪क्रमिष्यति⟫**
-**Pass. ⟪क्रम्यते⟫**
-**Kaus. ⟪क्रमयति⟫**
-**PPP :sig[⟪क्रा⟫]⟪न्त⟫**
-**Inf. ⟪क्रमितुम्⟫**
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
+**Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
+**Fut. ⟪क्रमिष्यति⟫** :br
+**Pass. ⟪क्रम्यते⟫** :br
+**Caus. ⟪क्रमयति⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
+**Inf. ⟪क्रमितुम्⟫** :br
+**Absol. ⟪क्रमित्वा । क्रन्त्वा । क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502))
+Afb.: ⟪क्रामन्ति⟫
+Mensen die lopen, Senegal.
+(Bron: [Details](/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): zingen, op zangerige toon reciteren, in gebonden spraak verkondigen
 ::: indent
-**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**
-**Fut. ⟪गास्यति⟫**
-**Pass. ⟪गीयते⟫**
-**Kaus. ⟪गापयति⟫**
-**PPP ⟪गीत⟫**
+**Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
+**Fut. ⟪गास्यति⟫** :br
+**Pass. ⟪गीयते⟫** :br
+**Caus. ⟪गापयति⟫** :br
+**PPP ⟪गीत⟫** :br
 **Inf. ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+waarvan:
+**⟪गीता⟫ v.:** lied, gezang
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
-Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501))
+Afb.: ⟪जगुः⟫
+Tempelmusici in de Kaadu Malleswara-tempel in Bangalore.
+(Bron: [Details](/licenses#lekt3501))
 :::
+
 ## Les 36
 
 
@@ -2555,122 +2756,130 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 
 
 
-⟪अह्⟫ P nur Perfekt mit Präsensbedeutung ⟪आह⟫, ⟪आहुर्⟫ : sagen, sprechen
 
-⟪अह्⟫ ⟪प्र⟫ P nur Perfekt mit Präsensbedeutung ⟪प्राह⟫ : sagen, sprechen
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : sehen, (er)blicken, betrachten
+
+
+
+
+⟪अह्⟫ P alleen voltooid tegenwoordige tijd met betekenis van tegenwoordige tijd ⟪आह⟫, ⟪आहुर्⟫ : zeggen, spreken
+
+⟪अह् प्र⟫ P alleen voltooid verleden tijd met tegenwoordige tijdbetekenis ⟪प्राह⟫ : zeggen, spreken
+
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : zien, (op)merken, bekijken
 
 ::: indent
-Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
-Fut. ⟪ईक्षिष्यते⟫  
-Pass. ⟪ईक्ष्यते⟫  
-Kaus. ⟪ईक्षयति⟫  
+Perfectum ⟪ईक्षां चक्रे⟫  
+Toekomst ⟪ईक्षिष्यते⟫  
+Passief ⟪ईक्ष्यते⟫  
+Causatief ⟪ईक्षयति⟫  
 PPP ⟪ईक्षित⟫  
-Inf. ⟪ईक्षितुम्⟫
+Infinitief ⟪ईक्षितुम्⟫
 :::
-⟪चि⟫ 5U ⟪चिनोति⟫ : aufschichten, sammeln
+⟪चि⟫ 5U ⟪चिनोति⟫ : stapelen, verzamelen
 
 ::: indent
-Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
+Perf. ⟪चिकाय । चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
-Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
+Caus. ⟪चाययति । चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3601.webp)
-Abb.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Bildquelle: [Details](/licenses#lekt3601))
+Afb.: ⟪गोमयं चिकाय⟫
+(Bron: [Details](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : schreiten, gehen, weggehen
+
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : stappen, lopen, weggaan
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
 Pass. ⟪व्रज्यते⟫  
-Kaus. ⟪व्राजयति⟫  
+Caus. ⟪व्राजयति⟫  
 PPP ⟪व्रजित⟫  
 Inf. ⟪व्रजितुम्⟫
 :::
-⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggehen (insbes. aus dem Heim in die Heimlosigkeit als Asket = ein Mönch werden)
+⟪व्रज्⟫ + ⟪प्र⟫ 1P ⟪प्रव्रजति⟫ : weggaan (met name uit het huis naar een leven zonder thuis als asceet = monnik worden)
 
-⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: Haus, Heim
+⟪अगार⟫ n.⟪। आगार⟫ n.: huis, thuis
 
 ::: media
 ![](/images/lekt3602.webp)
-Abb.: ⟪अगारम्⟫
-(Bildquelle: [Details](/licenses#lekt3602))
+Afb.: ⟪अगारम्⟫
+(Bron: [Details](/licenses#lekt3602))
 :::
-::: indent
-davon:
 
-⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: Heimlosigkeit eines buddhistischen Mönchs oder Novizen
+::: indent
+waarvan:
+
+⟪अनगार्य⟫ zn. ⟪। अनगार⟫ika v.: dakloosheid van een boeddhistische monnik of novice
 :::
 ::: media
 ![](/images/lekt3603.webp)
-Abb.: ⟪अनगार्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3603))
+Afb.: ⟪अनगार्यम्⟫
+(Afbeeldingsbron: [Details](/licenses#lekt3603))
 :::
-⟪अञ्जलि⟫ m.: Die beiden zur Ehrerbietung hoch zusammengelegten Hände
+⟪अञ्जलि⟫ m.: De twee handen die uit eerbied hoog tegen elkaar zijn gevouwen
 
-⟪आदृत⟫ 3: geachtet
+⟪आदृत⟫ 3: gerespecteerd
 
-⟪उपाध्याय⟫ m.: Lehrer
+⟪उपाध्याय⟫ m.: leraar
 
-⟪पृथिवी⟫ f.: Erde
+⟪पृथिवी⟫ v.: aarde
 
-⟪पृष्ठ⟫ n: Rücken, Rückseite
+⟪पृष्ठ⟫ n.: rug, achterkant
 
 ::: indent
-⟪पृष्ठम्⟫ : hinter
+⟪पृष्ठम्⟫ : achter
 :::
-⟪प्रजापति⟫ m.: Herr der Geschöpfe, Schöpfergott
+⟪प्रजापति⟫ m.: Heer der schepselen, Scheppergod
 
-⟪अनु⟫ Präverb: nach, entlang, über - hin, längs, gemäss, hinzu, hinter - her
+⟪अनु⟫ Voorvoegsel: naar, langs, over – heen, in de lengte, volgens, ernaartoe, achter – aan
 
 ::: indent
-z.B.
+bijv.
 
-⟪अनुकृ⟫ : nachahmen, nachmachen
+⟪अनुकृ⟫ : nabootsen, nadoen
 
-⟪अनुगम्⟫ : jemandem nachgehen, entlanggehen
+⟪अनुगम्⟫ : iemand volgen, meelopen
 :::
-⟪अभि⟫ : be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an
+⟪अभि⟫ : naar, toe, ernaartoe, erheen, tegen, erin, met betrekking tot, op, over, aan
 
 ::: indent
-z.B.
+bijv.
 
-⟪अभिगम्⟫ : hingehen, sich nähern
+⟪अभिगम्⟫ : erheen gaan, dichterbij komen
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüssen, anreden
+⟪वद्⟫ + ⟪अभि⟫ Causatief Ā ⟪अभिवादयते⟫ : formeel begroeten, aanspreken
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : weerstand voelen, wegvloeien
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
-Kaus. ⟪ग्लापयति⟫ ⟪।⟫ ⟪ग्लपयति⟫  
+Kaus. ⟪ग्लापयति । ग्लपयति⟫  
 PPP ⟪ग्लान⟫  
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : etwas riechen
+⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : iets ruiken
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
 Kaus. ⟪घ्रापयति⟫  
-PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫  
+PPP ⟪घ्रात । घ्राण⟫  
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : ergötzen, erfreuen; lieben, jemandem geneigt sein
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : vermaak vinden, verblijden; liefhebben, iemand genegen zijn
 
-⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : sich freuen
+⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : zich verheugen
 
 ::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
@@ -2680,23 +2889,23 @@ Kaus. :sig[⟪प्रीणयति⟫]
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
-⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : berühren
+⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : aanraken
 
 ::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
-Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
+Fut. ⟪स्पर्क्ष्यति । स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
 Kaus. ⟪स्पर्शयति⟫  
 PPP ⟪स्पृष्ट⟫  
-Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
+Inf. ⟪स्पर्ष्तुम् । स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
 :::
 ::: media
 ![](/images/lekt3606.webp)
-Abb.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Bildquelle: [Details](/licenses#lekt3606))
+Afbeelding: ⟪सुगतो भूमीं पस्पर्श⟫
+(Bron afbeelding: [Details](/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : starr werden: sich sträuben (Haare), sich freuen über (Instr., Akk., Lok.)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : stijf worden: zich verheffen (haar), zich verheugen over (Instr., Akk., Lok.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -2707,10 +2916,11 @@ PPP ⟪हृषित⟫
 :::
 ::: media
 ![](/images/lekt3604.webp)
-Abb.: ⟪लोमहर्षः⟫
-(Bildquelle: [Details](/licenses#lekt3604))
+Afbeelding: ⟪लोमहर्षः⟫
+(Bron afbeelding: [Details](/licenses#lekt3604))
 :::
-⟪स्वक⟫ 3: eigen (mein, dein ...) ; m.: Angehöriger
+
+⟪स्वक⟫ 3: eigen (mijn, jouw ...) m.: lid van
 
 ## Les 37
 
@@ -2720,28 +2930,33 @@ Abb.: ⟪लोमहर्षः⟫
 
 
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket
+
+
+
+
+
+⟪मूर्ख⟫ 3: stom, dom, dumm m. Dwaas
+⟪मुनि⟫ m.: wijze, (zwijgende) asceet
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: Asceet uit het geslacht van de ⟪शाक्य⟫ (Kṣatriya's uit ⟪कपिलवस्तु⟫) = Boeddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705))
+Afb.: ⟪शाक्यमुनिः⟫
+(Bron: [Details](/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ zn.: dag
 
-⟪वृक्ष⟫ m.: Baum
+⟪वृक्ष⟫ m.: boom
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706))
+Afb.: ⟪वृक्षः⟫
+(Bron: [Details](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang
+⟪मुख⟫ zn.: mond, gezicht, voorste deel, begin
 
 ## Les 38
 
@@ -2751,104 +2966,110 @@ Abb.: ⟪वृक्षः⟫
 
 
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
+
+
+
+
+
+
+⟪सूर्य⟫ m.: zon, zonnegod Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802))
+Afb.: ⟪सूर्यः⟫
+(Afbeeldingsbron: [Details](/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser
+⟪उदक⟫ zn.: water
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805))
+Afb.: ⟪उदकम्⟫
+(Bron: [Details](/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : waaien, blazen
 
 ::: indent
-Fut. ⟪वास्यति⟫
-Perf. IV ⟪ववौ⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+Toekomst ⟪वास्यति⟫
+Voltooid IV ⟪ववौ⟫
+Passief ⟪वायते⟫
+Causatief ⟪वापयति⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+waarvan:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: wind
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : waaien, wegwaaien, uitdoven
 
 ::: indent
-davon:
+waarvan:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana
+⟪निर्वाण⟫ zn.: Uitdoven, Nirvana
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
+⟪परिनिर्वाण⟫ zn.: volkomen uitdoven, volkomen verlossing (aan het einde van het leven van een Boeddha of Arhant)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804))
+Afb.: ⟪गौतमबुद्धस्य महापरिनिर्वाणम्⟫
+(Bron: [Details](/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
+⟪मिह्⟫ 1P ⟪मेहति⟫ : plassen, pissen, ejaculeren
 
 ::: indent
-Fut. ⟪मेक्ष्यति⟫
-Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
-Pass. ⟪मिह्यते⟫
-Kaus. ⟪मेहयति⟫
+Toekomstige tijd ⟪मेक्ष्यति⟫
+Voltooid verleden tijd II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
+Passief ⟪मिह्यते⟫
+Causatief ⟪मेहयति⟫
 PPP ⟪मीढ⟫
 
-davon:
+waarvan:
 
-⟪मेघ⟫ m.: Wolke ("Seicher")
+⟪मेघ⟫ m.: wolk (“Seicher”)
 :::
-⟪सुत⟫ m.: Sohn
+⟪सुत⟫ m.: zoon
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫)
+⟪राजन्⟫ m.: koning (zie Basham, Wonder, blz. 82–94, over het koningschap in India). Als laatste deel van een samengesteld woord (met name ⟪तत्पुरुष⟫) meestal: -⟪राज⟫ m. (zoals ⟪देव⟫)
 
 ::: indent
-Femininum:
+Vrouwelijk:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs
+⟪राज्ञी⟫ v.: koningin, vrouw van een koning
 
-von ⟪राज⟫ :
+van ⟪राज⟫ :
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft
+⟪राज्य⟫ 3: koninklijk; n. koninkrijk, koningschap, heerschappij
 :::
-⟪नामन्⟫ n.: Name
+⟪नामन्⟫ n.: naam
 
-⟪सीमन्⟫ f.: Grenze
+⟪सीमन्⟫ v.: grens
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron)
+⟪आत्मन्⟫ m.: zelf, eigen persoon, innerlijk wezen. Filosofisch en in verlossingsleer: het Absolute in het individu, waarvan zich het individu echter onder omstandigheden niet bewust is (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer")
+⟪ब्रह्मन्⟫ n.: het Absolute, de Veda (volgens Thieme oorspronkelijk: de geformuleerde waarheid, waarvan ⟪ब्राह्मण⟫ "waarheidsformuleerder")
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
+⟪ब्रह्मन्⟫ m.: de persoonlijk gedacht scheppergod Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809))
+Afb.: ⟪ब्रह्मा⟫
+(Bron afbeelding: [Details](/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
+⟪कर्मन्⟫ n.: tot ⟪कृ⟫ 8U: handeling, daad, werk; heilig werk, offerhandeling; karma: het eerdere doen, dat later zijn vruchten brengt (bijv. in wedergeboorte) 
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: rijpen van de daden = de goede en slechte consequenties van daden in eerdere bestaansvormen (tot ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: olifant (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: mens, man; naam van de vader van het menselijk geslacht (tot ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon:
+daarvan:
 
-⟪मनुष्य⟫ m.: Mensch
+⟪मनुष्य⟫ m.: mens
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (vlammen, schijnen); treuren, betreuren
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -2856,26 +3077,28 @@ Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
 Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
+Absol. ⟪शोचित्वा । शुचित्वा⟫
 
-davon:
+daarvan:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar
+⟪शुचि⟫ 3: schijnend, zuiver, helder
 
-⟪शोक⟫ m.: Trauer, Gram
+⟪शोक⟫ m.: rouw, verdriet
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
+⟪अशोक⟫ 3: vrij van verdriet; asoka-boom = _Saraca asoca_ (Roxb.) Wilde; naam van de keizer Aśoka (⟪देवानांप्रिय प्रियदर्शी⟫) (ca. 304 – 232 v.Chr.)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810))
+Afbeelding: ⟪अशोकवृक्षः⟫
+(Bron afbeelding: [Details](/licenses#lekt3810))
 :::
+
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811))
+Afbeelding: ⟪अशोकसाम्राज्यम्⟫
+(Bron afbeelding: [Details](/licenses#lekt3811))
 :::
+
 ## Les 40
 
 
@@ -2884,33 +3107,39 @@ Abb.: ⟪अशोकसाम्राज्यम्⟫
 
 
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke
 
-⟪पुस्तक⟫ m.n.: Manuskript, Buch
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschliessen zu, sich bequemen zu (Dativ)
+
+
+
+⟪पात्र⟫ n.: Eerbiedwaardige, Meester, Verdienstvolle
+
+⟪मेधा⟫ f.: Wijsheid, Verstand, Gedachte
+
+⟪पुस्तक⟫ m.n.: Manuscript, Boek
+
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in juiste volgorde zijn, passen bij (Lok.) ; zich vormen, ontstaan ; besluiten tot, zich neerleggen bij (Dativ)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
+Perf. II ⟪चकॢपे⟫ facultatief ⟪अनिट्⟫  
+Fut. ⟪कल्पिष्यते । कल्प्स्यते⟫  
+Kaus. ⟪कल्पयति⟫ : in orde brengen, creëren, in de verbeelding vormen, zich inbeelden  
 PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
+Inf. ⟪कल्पितुम् । कल्प्तुम्⟫
 
-davon:
+daarvan:
 
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion
+⟪कल्पना⟫ f.: Het vormen in gedachten, het aannemen van iets dat niet bestaat in de werkelijkheid, fictie
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (zich verschillend voorstellen =) ter discussie stellen, betwijfelen
 
 ::: indent
-davon:
+daarvan:
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel
+⟪विक्ल्प⟫ m.: Alternatief, twijfel
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen
+⟪तुद्⟫ 6U ⟪तुदति⟫ : slaan
 
 ::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
@@ -2920,69 +3149,71 @@ Kaus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten)
+⟪तॄ⟫ 1P ⟪तरति⟫ : oversteken, overschrijden, zich redden voor iemand (Akk. = iemands oversteken)
 
 ::: indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+Perf. IIIb ⟪ततार⟫, ⟪ततरुर् । तेरुर्⟫  
+Fut. ⟪तरिष्यति । तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
 Kaus. ⟪तारयति⟫  
 PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+Inf. ⟪तरितुम् । तरीतुम्⟫
 
-davon:
+daarvan:
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort
+⟪तीर्थ⟫ n.: Ford, heilige badplaats, pelgrimsoord
 :::
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003))
+Afbeelding: ⟪हरिद्वारे तीर्थम्⟫
+(Bron afbeelding: [Details](/licenses#lekt4003))
 :::
+
 ::: indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina
+⟪तीर्थङ्कर⟫ m. (uit: ⟪तीर्थम्⟫+ ⟪कृ⟫): oversteekmeester (over het lijden heen) = de 24 leraren van de Jaina
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002))
+Afbeelding: ⟪तीर्थङ्करः⟫
+(Bron afbeelding: [Details](/licenses#lekt4002))
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab-
+⟪अव⟫ Präverb.: neer-, afwaarts, weg-, af-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : neerdaalen
 
 ::: indent
-davon:
+daarvan:
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.: (neerdaaler, neerdaling) inkarnatie van een god, vooral Viṣṇus 10 inkarnaties (zie Basham, Wonder blz. 304 - 309)
 :::
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001))
+Afbeelding: ⟪विष्णोर्दशावताराः⟫
+(Bron afbeelding: [Details](/licenses#lekt4001))
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : slapen, zich neerleggen om te slapen
 
 ::: indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
+Impf. ⟪अस्वपीत् । अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
+Pass. ⟪सुप्यते⟫ (uit \*svp-ya-te)  
 Kaus. ⟪स्वापयति⟫  
 PPP ⟪सुप्त⟫  
 Inf. ⟪स्वप्तुम्⟫
 
-davon:
+daarvan:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum
+⟪स्वप्न⟫ m.: slaap, droom
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf
+⟪सुप्ति⟫ f. (uit \*svp-ti): slaap, vooral diepe slaap
 :::
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004))
+Afbeelding: ⟪स्वपन्ति⟫
+(Bron afbeelding: [Details](/licenses#lekt4004))
 :::
+
 ## Les 41
 
 
@@ -2991,89 +3222,78 @@ Abb.: ⟪स्वपन्ति⟫
 
 
 
-⟪मूर्ख⟫ m = ⟪मूढ⟫
 
-⟪भुजङ्ग⟫ m.: Schlange
+
+
+
+
+
+⟪मूर्ख⟫ m = ⟪मूढ भुजङ्ग⟫ m.: slang
 
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
-Abb.: ⟪भुजङ्गः⟫
-(Bildquelle: [Details](/licenses#lekt4105))
+Afbeelding: ⟪भुजङ्गः⟫
+(Bron afbeelding: [Details](/licenses#lekt4105))
 :::
-⟪केवलम्⟫ Adv.: nur, allein, vollständig
+⟪केवलम्⟫ Adv.: alleen, uitsluitend, volledig
 
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: gif
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Abb.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Bildquelle: [Details](/licenses#lekt4104))
+Afbeelding: ⟪भुजङ्गस्य विषम्⟫
+(Bron afbeelding: [Details](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : zurechtweisen, beherrschen, befehlen, lehren
+⟪शास्⟫ 2P ⟪शास्ति⟫ : terechtwijzen, beheersen, bevelen, onderwijzen
 
 ::: indent
-hat den schwachen Präsensstamm ⟪शिष्⟫ : ⟪शिष्मस्⟫, die 3.Pl. P. hat aber starken Stamm: ⟪शासति⟫ (!! Endung -ati) neben gelegentlich ⟪शासन्ति⟫. ⟪अशासुर्⟫. Auch das ganze ⟪आत्मनेपद⟫ hat, soweit es vorkommt, den starken Stamm: ⟪शास्ते⟫
+heeft de zwakke tegenwoordige-stam ⟪शिष्⟫ : ⟪शिष्मस्⟫, de 3. mv. Tegenwoordige Tijd heeft echter een sterke stam: ⟪शासति⟫ (!! uitgang -ati) naast af en toe ⟪शासन्ति⟫. ⟪अशासुर्⟫. Ook het gehele ⟪आत्मनेपद⟫ heeft, voor zover het voorkomt, de sterke stam: ⟪शास्ते⟫
 
-Perf I ⟪शशास⟫, ⟪शशासुर्⟫  
-Fut. ⟪शासिष्यति⟫  
-Pass. **-⟪शास्यते⟫** ⟪।⟫ ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ : gelehrt, weise  
-Inf. ⟪शासितुम्⟫  
-Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
+Perfectum I ⟪शशास⟫, ⟪शशासुर्⟫  
+Toekomende Tijd. ⟪शासिष्यति⟫  
+Passief **-⟪शास्यते⟫** ⟪। शिष्यते⟫  
+PPP ⟪शिष्ट⟫ : onderwezen, wijs  
+Infinitief ⟪शासितुम्⟫  
+Absolutief **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 
-davon:
+daarvan:
 
-⟪शासना⟫ f.: königliches Edikt, Lehre, Religion
+⟪शासना⟫ v.: koninklijk edict, leer, religie
 :::
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
-Abb.: ⟪शासना⟫
-(Bildquelle: [Details](/licenses#lekt4109))
+Afb.: ⟪शासना⟫
+(Bron afbeelding: [Details](/licenses#lekt4109))
 :::
-::: indent
-⟪शास्त्र⟫ n.: Lehre, Lehrwerk
 
-⟪शास्त्रिन्⟫ m.: gelehrt, Gelehrter
+::: indent
+⟪शास्त्र⟫ o.: leer, leergang
+
+⟪शास्त्रिन्⟫ m.: geleerd, geleerde
 :::
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
-Abb.: ⟪शास्त्री⟫
-(Bildquelle: [Details](/licenses#lekt4110))
+Afb.: ⟪शास्त्री⟫
+(Bron afbeelding: [Details](/licenses#lekt4110))
 :::
-::: indent
-⟪शिष्य⟫ 3: zu belehrender = Schüler
-:::
-⟪शरण⟫ 3: schützend, schirmend ; n. Schutz, Zuflucht, das Zufluchnehmen zu
-
-⟪सङ्घ⟫ n.: (zu ⟪सम्⟫-⟪हन्⟫ : zusammen-schlagen): Schar, Haufe, Gemeinde (z.B. buddhistische)
-
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
-
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+⟪शिष्य⟫ 3: te onderwijzen = leerling
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
+⟪शरण⟫ 3: beschermend, schattend ; o. bescherming, toevlucht, het zich tot iets wenden
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
+⟪सङ्घ⟫ o.: (tot ⟪सम्⟫-⟪हन्⟫ : samen-slaan): schare, hoop, gemeenschap (bijv. boeddhistisch)
 
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
+⟪कन्या⟫ v.: jong meisje, dochter, maagd
+
+⟪अति⟫ voorvoegsel: over, voorbij-, verder dan (in ruimte, in tijd, in aantal, in hoeveelheid, in volgorde, in macht, in intensiteit), uiterst
+
+⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : voorbijgaan
 
 ::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
+PPP ⟪अतीत⟫ : o. verleden tijd
 :::
-⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
-⟪अति⟫ Präverb: über, über -weg, über - hinaus (im Raum, in der Zeit, an Zahl, an Menge, in der Ordnung, an Macht, an Intensität), überaus
-
-⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : vorübergehen
-
-::: indent
-PPP ⟪अतीत⟫ : n. Vergangenheit
-:::
 ## Les 42
 
 
@@ -3082,61 +3302,65 @@ PPP ⟪अतीत⟫ : n. Vergangenheit
 
 
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+
+
+
+
+⟪प्रकृति⟫ v.: (tot ⟪कृ⟫ + ⟪प्र⟫) grondvorm, natuurlijke staat, natuur; oerstof, element
+
+⟪अर्जुन⟫ m. eigennaam: Arjuna, een van de vijf zonen van ⟪पण्डु⟫. Held in het ⟪महाभारत⟫ (zie Basham, Wonder blz. 409 - 414)
+
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : zich onthouden van, afstand nemen van, zich afzijdig houden, blijven staan
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3: staande, zich bevindend
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ Adv.: eens, vroeger
 
-⟪अनेक⟫ 3: viele (nicht einige)
+⟪अनेक⟫ 3: veel (niet een paar)
 
-⟪कुमार⟫ m.: Prinz
+⟪कुमार⟫ m.: prins
 
-⟪दूत⟫ m.: Bote, Gesandter
+⟪दूत⟫ m.: boodschapper, gezant
 
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : sturen
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
+⟪सकाश⟫ m.: aanwezigheid, tegenwoordigheid
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ m.: pijlsteel, pijl
 
-⟪बाण⟫ m.: Pfeil, Ziel
+⟪बाण⟫ m.: pijl, doel
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : goedkeuren, beloven; Ā: antwoorden, bevestigen, beweren, erkennen
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : in beweging komen
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: ijdelheid, trots
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: in gedachten verdiept
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ Adv.: ondertussen
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ f.: grappen, spel
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ Adv.: hoe lang, gedurende
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ Adv.: zo lang
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ Adv.: tweeledig, in twee delen
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : prijzen, gebieden
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
@@ -3144,68 +3368,67 @@ Perf. I ⟪शशंस⟫
 Pass. ⟪शस्यते⟫  
 Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪हृदय⟫ n.: hart
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Enkele verwantschapsaanduidingen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+Afb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(Bron afbeelding: [Details](/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ m. (van ⟪भृ⟫ "dragen, onderhouden"): onderhoudster, voederaar, echtgenoot
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: echtgenote (⟪भार्या⟫ = gerundivum van ⟪भृ⟫ : te dragen, te onderhouden, onderhoudsgerechtigde)
+⟪पितृ⟫ m.: vader
 
-⟪पितृ⟫ m.: Vater
+⟪पितृ⟫ m. meervoud: de overleden mannelijke voorouders, d.w.z.
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+1.  vader, grootvader, overgrootvader
+2.  de voorvaderen van de mensheid
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+Voor beiden worden rituelen uitgevoerd, de zogenaamde ⟪श्राद्ध⟫ n. Dagelijks worden aan drie mannelijke  voorouders (aan vaderszijde en aan moederszijde) water en bij bepaalde gelegenheden rijstballetjes of meelballetjes (⟪पिण्ड⟫ m. „balletjes”) aangeboden. Zo moeten de voorouders voedsel krijgen. Het uitvoeren van deze ceremonie is een van de redenen waarom een man een zoon moet verwekken. Degenen die door dit ⟪पिण्ड⟫-offer met elkaar verbonden zijn, worden ⟪सपिण्ड⟫ genoemd (die ⟪पिण्ड⟫ gemeen hebben). ⟪सपिण्ड⟫ omvat zes generaties: drie terug in de tijd (tot aan de overgrootvader) en drie vooruit (tot aan de achterkleinzoon).
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+⟪तात⟫ m.: vader
 
-⟪तात⟫ m.: Papa
+⟪मातृ⟫ v.: moeder
 
-⟪मातृ⟫ f.: Mutter
+⟪पुत्र⟫ m.: zoon
 
-⟪पुत्र⟫ m.:  Sohn
+⟪दुहितृ⟫ v. ⟪सुता⟫ v.: dochter
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪नप्तृ⟫ m.: kleinzoon
 
-⟪नप्तृ⟫ m.: Enkel
+⟪भ्रातृ⟫ m.: broer
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪स्वसृ⟫ v., ⟪भगिनी⟫ v.: zus
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪देवृ⟫ m.: broer van de echtgenoot (zwager van de vrouw)
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪यातृ⟫ m.: echtgenote van de broer van de echtgenoot
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪ननान्दृ⟫ v.: zus van de man
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪श्वसुर⟫ v.: schoonvader (vroeger: alleen van de vrouw)
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪श्वस्रू⟫ v.: schoonmoeder (declinatie volgt later)
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪मातुल⟫ m.: broer van de moeder (oom van moederszijde)
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪मातुलानी⟫ v.: Echtgenote van de broer van de moeder (vrouw van de broer van de moeder)
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪पितृव्य⟫ m.: Broer van de vader (oom van vaderskant)
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितामह⟫ m.: grootvader van vaderskant
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪पितामही⟫ v.: grootmoeder van vaderskant
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
+⟪मातामह⟫ m.: grootvader van moederszijde
 
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
-
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
+⟪मातामही⟫ v.: grootmoeder van moederszijde
 
 ## Les 43
 
@@ -3215,95 +3438,101 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 
 
-⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : befehlen, anordnen
 
-⟪आपण⟫ m.: Markt
+
+
+
+
+
+⟪ज्ञा⟫ + ⟪आ⟫ Kausativ ⟪आज्ञापयति⟫ : bevelen, aanorden
+
+⟪आपण⟫ m.: markt
 
 ::: media
 ![](/images/lekt4302.webp)
-Abb.: ⟪आपणः⟫
-(Bildquelle: [Details](/licenses#lekt4302))
+Afb.: ⟪आपणः⟫
+(Bron: [Details](/licenses#lekt4302))
 :::
-⟪सत्वर⟫ 3: schnell, eilig
+⟪सत्वर⟫ 3: snel, haastig
 
-⟪पण्य⟫ 3: käuflich; n.: Ware, Handel
+⟪पण्य⟫ 3: koopbaar; n.: goed, handel
 
 ::: media
-![]/images/lekt4303.webp
-Abb.: ⟪पण्यानि⟫
-(Bildquelle: [Details](/licenses#lekt4303))
+![](/images/lekt4303.webp)
+Afb.: ⟪पण्यानि⟫
+(Bron: [Details](/licenses#lekt4303))
 :::
 ⟪आम्⟫ : ja
 
 ⟪सम⟫ m. = ⟪वर्ष⟫ n.
 
-\-⟪आयुत⟫ 3: versehen mit
+\-⟪आयुत⟫ 3: voorzien van
 
-⟪भद्र⟫ 3: gut, glücklich; Vokativ: mein Lieber!
+⟪भद्र⟫ 3: goed, gelukkig; vocatief: mijn lieve!
 
-⟪समय⟫ m. (zu ⟪सम्⟫-⟪इ⟫): Übereinkunft, Vertrag, Frist, Termin, Zeit
+⟪समय⟫ m. (tot ⟪सम्⟫-⟪इ⟫): overeenkomst, contract, termijn, datum, tijd
 
-⟪निश्चित⟫ 3: entschieden, festgesetzt
+⟪निश्चित⟫ 3: besloten, vastgesteld
 
-⟪नोचेत्⟫ : wenn nicht, sonst
+⟪नोचेत्⟫ : indien niet, anders
 
-⟪विलम्ब⟫ n.m.: Verzögerung, Verspätung
+⟪विलम्ब⟫ n.m.: vertraging, uitstel
 
-⟪विपणि⟫ f.: Laden
+⟪विपणि⟫ f.: winkel, kraam
 
 ::: media
 ![](/images/lekt4304.webp)
-Abb.: ⟪विपणिः⟫
-(Bildquelle: [Details](/licenses#lekt4304))
+Afb.: ⟪विपणिः⟫
+(Bron: [Details](/licenses#lekt4304))
 :::
-⟪वणिज्⟫ m.: Kaufmann
+⟪वणिज्⟫ m.: koopman
 
 ::: media
 ![](/images/lekt4305.webp)
-Abb.: ⟪वणिक्⟫
-(Bildquelle: [Details](/licenses#lekt4305))
+Afb.: ⟪वणिक्⟫
+(Bron: [Details](/licenses#lekt4305))
 :::
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: beste
 
-⟪शीघ्र⟫ 3: schnell, rasch
+⟪शीघ्र⟫ 3: snel, vlug
 
-⟪वत्स⟫ m.: Kalb, Junges, Kind ; Vok.: mein Lieber
+⟪वत्स⟫ m.: kalf, jong, kind; voc.: mijn lieve
 
 ::: media
 ![](/images/lekt4306.webp)
-Abb.: ⟪वत्सः⟫
-(Bildquelle: [Details](/licenses#lekt4306))
+Afb.: ⟪वत्सः⟫
+(Bron: [Details](/licenses#lekt4306))
 :::
-⟪उत्तम⟫ 3: oberster, bester
+⟪उत्तम⟫ 3: hoogste, beste
 
 ⟪अल्प⟫ 3: klein, gering
 
-⟪मूल्य⟫ n.: Wert, Preis
+⟪मूल्य⟫ n.: waarde, prijs
 
-⟪कियत्⟫ 3: wie gross
+⟪कियत्⟫ 3: hoe groot
 
-⟪शर्करा⟫ f.: Zucker (das deutsche "Zucker" geht über italienisch zucchero, von dort über arabisch sukkar - سكر und persisch äkär - شکر auf das Sanskrit ⟪शर्करा⟫ zurück!)
+⟪शर्करा⟫ f.: suiker (het Duitse "Zucker" gaat via het Italiaanse zucchero, daarvandaan via het Arabische sukkar - سكر en Perzisch äkär - شکر terug op het Sanskriet ⟪शर्करा⟫!)
 
-⟪अधिक⟫ 3: zusätzlich, überschüssig, ausserordendlich
+⟪अधिक⟫ 3: extra, overtollig, buitengewoon
 
-⟪तर्हि⟫ : damals, dann ; darum, also
+⟪तर्हि⟫ : destijds, toen; daarom, dus
 
-⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : wägen
+⟪तुल्⟫ 10 ⟪तुलयति । तोलयति⟫ : wegen
 
 ::: media
 ![](/images/lekt4307.webp)
-Abb.: ⟪तोलन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4307))
+Afb.: ⟪तोलन्ति⟫
+(Bron: [Details](/licenses#lekt4307))
 :::
-⟪कर्गल⟫ n.: Papier
+⟪कर्गल⟫ n.: papier
 
-⟪संपुट⟫ m.: Dose (hier: Paket, Bündel)
+⟪संपुट⟫ m.: blik (hier: pakket, bundel)
 
-⟪पुरतस्⟫ : vorn, davor, vor
+⟪पुरतस्⟫ : vooraan, ervoor, voor
 
-⟪श्रेष्ठिन्⟫ m.: reicher Kaufmann
+⟪श्रेष्ठिन्⟫ m.: rijke koopman
 
-⟪जव⟫ 3: schnell, eilig
+⟪जव⟫ 3: snel, haastig
 
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ rennen
 
@@ -3316,21 +3545,21 @@ PPP ⟪द्रुत⟫
 Absol. -⟪द्रुत्य⟫  
 Inf. ⟪द्रोतुम्⟫
 :::
-⟪रे⟫ Interjektion: He! Du da!
+⟪रे⟫ interjectie: He! Jij daar!
 
-⟪अन्यद्⟫ 3: ein anderer (Deklination wie ⟪यद्⟫ )
+⟪अन्यद्⟫ 3: een andere (declinatie zoals ⟪यद्⟫ )
 
-⟪वञ्चक⟫ m.: Betrüger
+⟪वञ्चक⟫ m.: bedrieger
 
-⟪पश्चात्ताप⟫ m.: Reue
+⟪पश्चात्ताप⟫ m.: berouw
 
-⟪इत्थम्⟫ Adv.: auf diese Weise, so
+⟪इत्थम्⟫ adv.: op deze manier, zo
 
-⟪दिन⟫ n.: Tag
+⟪दिन⟫ n.: dag
 
-⟪जन्मन्⟫ n.: Geburt
+⟪जन्मन्⟫ n.: geboorte
 
-⟪आनन्द⟫ m.: Wonne, Freude
+⟪आनन्द⟫ m.: zaligheid, vreugde
 
 ## Les 44
 
@@ -3340,18 +3569,24 @@ Inf. ⟪द्रोतुम्⟫
 
 
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin
+
+
+
+
+
+
+⟪प्रति⟫ prefix: terug, tegenover, naar - toe
 
 ::: indent
-z.B.
+bijv.
 
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : terugslaan
 
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : terugspreken = antwoorden
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : afwijzen, verachten
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren
+⟪या⟫ 2P ⟪याति⟫ : gaan, rijden
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -3361,16 +3596,16 @@ Kaus. ⟪यापयति⟫
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
 
-davon:
+daarvan:
 
-⟪यान⟫ n.: Gehen, Weg, Fahrzeug
+⟪यान⟫ n.: gaan, weg, voertuig
 :::
 ::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403))
+Afb.: ⟪रेल्यानम्⟫
+(Bron afbeelding: [Details](/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : liggen. Deze wortel heeft in alle vormen van de tegenwoordige stam **Hoge graad:** 1.sg.Ind.Tegenw.Ā :sig[⟪शेये⟫] (śe + e). Volgende vormen zijn bijzonder om te onthouden: 3.pl.Ind.Tegenw.Ā :sig[⟪शेरते⟫], 3.pl.Imp.Tegenw.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3379,16 +3614,16 @@ Kaus. ⟪शापयति⟫
 PPP ⟪शयित⟫  
 Inf. ⟪शयितुम्⟫  
 
-davon:
+daarvan:
 
-⟪शयन⟫ n.: Liege, Bett
+⟪शयन⟫ n.: ligplaats, bed
 :::
 ::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404))
+Afb.: ⟪योगी शयने शेते⟫
+(Bronvermelding: [Details](/licenses#lekt4404))
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫)
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ : zich verheugen in (⟪तृतीयया⟫)
 
 ::: indent
 Perf. I ⟪ननन्द⟫  
@@ -3398,45 +3633,45 @@ Kaus. ⟪नन्दयति⟫
 PPP ⟪नन्दित⟫  
 Inf. ⟪नन्दितुम्⟫  
 Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫  
+Gerundivum ⟪नन्द्य⟫  
 
-davon:
+daarvan:
 
-⟪नन्दिन्⟫ 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier)
+⟪नन्दिन्⟫ 3: gekenmerkt door (speciale) vreugde, vrolijk ; m. naam van het rijdier (⟪वहन⟫) van de ⟪शिव⟫ (een stier)
 :::
 ::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405))
+Afbeelding: ⟪नन्दी⟫
+(Bron afbeelding: [Details](/licenses#lekt4405))
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüssen, willkommen heissen
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : zijn vreugde hebben in (⟪द्वितीयया⟫), iemand vrolijk begroeten, welkom heten
 
-⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : houden, dragen ; aanbieden, verlenen ; bijeenhouden, temmen, teugelen, overwinnen
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
+Kaus. ⟪यामयति⟫ maar: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : rekken, uitstrekken
 
 ::: indent
-PPP ⟪आयत⟫ 3: lang gestreckt
+PPP ⟪आयत⟫ 3: lang uitgestrekt
 :::
 ::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406))
+Afbeelding: ⟪आयतो मरुः⟫
+(Bron afbeelding: [Details](/licenses#lekt4406))
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben
+⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : aanbieden, presenteren, overhandigen
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : samenbinden, vastbinden, temmen
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
+⟪यत्⟫ 1Ā ⟪यतते⟫ : streven naar (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
 ::: indent
 Perf. Vb ⟪येते⟫  
@@ -3446,19 +3681,19 @@ Kaus. ⟪यातयति⟫
 PPP ⟪यत्त⟫  
 Inf. ⟪यतितुम्⟫  
 
-davon:
+daarvan:
 
-⟪यत्न⟫ m.: Bemühung, Anstrengung
+⟪यत्न⟫ m.: inspanning, moeite
 :::
 ::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407))
+Afbeelding: ⟪यत्नेन⟫
+(Bron afbeelding: [Details](/licenses#lekt4407))
 :::
-⟪रभ्⟫ 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen
+⟪रभ्⟫ 1Ā ⟪रभते⟫ (variant op ⟪लभ्⟫): vatten, grijpen
 
 ::: indent
-Perf. Vb ⟪रेभे⟫  
+Perf. Wv ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
 Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
@@ -3466,25 +3701,16 @@ PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : aanraken, beginnen, ondernemen
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫)
+⟪प्रव्रज्या⟫ v. (van ⟪प्र⟫-⟪व्रज्⟫): het verlaten van huis en haard ten behoeve van de dakloosheid; ceremonie waarbij men boeddhistisch novice wordt (Pali: ⟪पब्बजा⟫)
 
 ::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
+Afbeelding: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(Bron afbeelding: [Details](/licenses#lekt4408))
 :::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
-::: media
-![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408))
-:::
+
 ## Les 45
 
 
@@ -3493,7 +3719,13 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder
+
+
+
+
+
+
+⟪वा⟫ ... ⟪वा⟫ : ofwel ... of
 
 ## Les 46
 
@@ -3503,16 +3735,22 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+
+
+
+
+
+
+⟪सम⟫ 3: gelijk, juist, vergelijkbaar
 
 ::: indent
-davon:
-⟪समम्⟫ Adv.: in gleicher Weise, zugleich (⟪तृतीयया⟫), gleichmässig
-⟪समता⟫ f.: Gleichmut
-⟪विषम⟫ 3: ungleich, uneben, böse
+daarvan:
+⟪समम्⟫ Adv.: op gelijke wijze, tegelijk (⟪तृतीयया⟫), gelijkmatig
+⟪समता⟫ v.: gelijkmoedigheid
+⟪विषम⟫ 3: ongelijk, oneffen, kwaadaardig
 
 :::
-⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : grijpen, vatten
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -3522,44 +3760,47 @@ Kaus.⟪ग्राहयति⟫
 PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
-davon:
-⟪ग्रह⟫ m.: Greifen, Greifer, Krokodil, Wandelstern
-⟪नवग्रह⟫ m.: die neun Wandelsterne (nicht Planeten!) (s. Basham, Wonder S. 493):
-1.  ⟪सूर्यः⟫ = Sonne
-2.  ⟪चन्द्रः⟫ = Mond
-3.  ⟪मङ्गलः⟫ = Mars
-4.  ⟪बुधः⟫ = Merkur
-5.  ⟪बृहस्पतिः⟫ = Jupiter
-6.  ⟪शुक्रः⟫ = Venus
-7.  ⟪शनिः⟫ = Saturn
-8.  ⟪राहुः⟫
-9.  ⟪केतुः⟫
+daarvan:
+⟪ग्रह⟫ m.: grijpen, grijper, krokodil, wandelende ster
+⟪नवग्रह⟫ m.: de negen wandelende sterren (geen planeten!) (zie Basham, Wonder blz. 493):
+1. ⟪सूर्यः⟫ = Zon
+2. ⟪चन्द्रः⟫ = Maan
+3. ⟪मङ्गलः⟫ = Mars
+4. ⟪बुधः⟫ = Mercurius
+5. ⟪बृहस्पतिः⟫ = Jupiter
+6. ⟪शुक्रः⟫ = Venus
+7. ⟪शनिः⟫ = Saturnus
+8. ⟪राहुः⟫
+9. ⟪केतुः⟫
 
 :::
-Zu ⟪राहु⟫ und ⟪केतु⟫ siehe:
+Zie voor ⟪राहु⟫ en ⟪केतु⟫:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Einführung und Überblick. -- 10. Sakramente und Übergangsriten (samskara). -- Anhang C: Rahu und Ketu, die unsichtbaren Wandelsterne . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Bildquelle: [Details](/licenses#lekt4602))
+Afb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
+(Bron: [Details](/licenses#lekt4602))
 :::
+
 ::: media
 ![](/images/lekt4603.webp)
-Abb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Bildquelle: [Details](/licenses#lekt4603))
+Afb.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+(Bron: [Details](/licenses#lekt4603))
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
-Abb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Bildquelle: [Details](/licenses#lekt4604))
+Afb.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
+(Bron: [Details](/licenses#lekt4604))
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
-Abb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Bildquelle: [Details](/licenses#lekt4605))
+Afb.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
+(Bron: [Details](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : sich zufrieden geben, zufrieden sein mit (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : tevreden zijn, genoegen nemen met (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -3570,39 +3811,39 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : sich beugen, sich verbeugen, sich neigen, sich verneigen
+⟪नम्⟫ 1P ⟪नमति⟫ : buigen, zich buigen, neigen, zich buigen
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
-Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
+Kaus. ⟪नमयति । नामयति⟫  
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4607.webp)
-Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/licenses#lekt4607)
-(Bildquelle: [Details](/licenses#lekt4607))
+Afb.: [⟪नारायण तुभ्यं नमामि⟫](/licenses#lekt4607)
+(Bron: [Details](/licenses#lekt4607))
 :::
-⟪रुह्⟫ 1P ⟪रोहति⟫ : ersteigen, besteigen
+⟪रुह्⟫ 1P ⟪रोहति⟫ : beklimmen, bestijgen
 
 ::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+Kaus. ⟪रोहयति । रो⟫:sig[⟪प⟫]⟪यति⟫  
 PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
-Abb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
-(Bildquelle: [Details](/licenses#lekt4606))
+Afb.: [⟪अश्वरोहकः⟫](/licenses#lekt4606)
+(Bron: [Details](/licenses#lekt4606))
 :::
-⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : rufen, herbeirufen
+⟪ह्वे । हू⟫ 1U ⟪ह्वयति⟫ : roepen, aanroepen
 
 ::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
@@ -3616,37 +3857,38 @@ Absol. -⟪हूय⟫
 :::
 ::: media
 ![](/images/lekt4608.webp)
-Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
-(Bildquelle: [Details](/licenses#lekt4608))
+Afbeelding: [⟪महामात्र कं चरिष्णुदूरशब्देनाह्वयसि⟫](/licenses#lekt4608)
+(Bron afbeelding: [Details](/licenses#lekt4608))
 :::
+
 ::: indent
-1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "Olifantendrijver"; ⟪चरिष्णु⟫ 3 "beweeglijk", ⟪दूरशब्द⟫ m. "telefoon, intercom" » ⟪चरिष्णुदूरशब्द⟫ "mobiele telefoon" (woordvorming: A. Payer)
 
 :::
-⟪विभ्रम⟫ m.: das Hin- und Hergehen
+⟪विभ्रम⟫ m.: het heen en weer gaan
 
-⟪भ्रंश⟫ m.: das Entfallen
+⟪भ्रंश⟫ m.: het afvallen
 
-⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : sich abmühen, müde werden
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : zich inspannen, moe worden
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
-Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
+Kaus. ⟪श्रमयति । श्रामयति⟫  
 PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
-Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
-davon:
+Absol. ⟪श्रमित्वा । श्रान्त्वा⟫
+daarvan:
 ⟪आश्रम⟫ m.n.
 
 :::
 ::: media
 ![](/images/lekt4609.webp)
-Abb.: [⟪श्रान्तः⟫](/licenses#lekt4609)
-(Bildquelle: [Details](/licenses#lekt4609))
+Afbeelding: [⟪श्रान्तः⟫](/licenses#lekt4609)
+(Bron afbeelding: [Details](/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : lehnen, sich anlehnen, Halt finden, sich zu jemandem begeben (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : leunen, zich aanleunen, steun vinden, naar iemand toe gaan (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -3657,7 +3899,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : hechten, zich vasthechten aan (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3666,19 +3908,19 @@ Pass. ⟪सज्यते⟫
 Kaus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
-davon:
-⟪सङ्ग⟫ m.: das Anhängen an, Berührung mit (⟪तृतीयया⟫)
+daarvan:
+⟪सङ्ग⟫ m.: het vasthechten aan, contact met (⟪तृतीयया⟫)
 
 :::
 ::: media
 ![](/images/lekt4610.webp)
-Abb.: [⟪सङ्गः⟫](/licenses#lekt4610)
-(Bildquelle: [Details](/licenses#lekt4610))
+Afbeelding: [⟪सङ्गः⟫](/licenses#lekt4610)
+(Bron afbeelding: [Details](/licenses#lekt4610))
 :::
-⟪द्रु⟫ 1P ⟪द्रवति⟫ : laufen, eilen
+⟪द्रु⟫ 1P ⟪द्रवति⟫ : lopen, haasten
 
 ::: indent
-Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
+Perf. IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
 Kaus. ⟪द्रावयति⟫  
@@ -3687,20 +3929,20 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : umherirren, umherstreifen
+⟪भ्रम्⟫ 1P ⟪भ्रमति ।⟫ 4P:sig[⟪भ्रा⟫]⟪म्यति⟫ : dwalen, zwerven
 
 ::: indent
-Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
+Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर् ।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
 PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
-davon:
-⟪विभ्रम⟫ m.: Umherirren, Verwirrung, Irrtum
+daarvan:
+⟪विभ्रम⟫ m.: dwalen, verwarring, dwaling
 
 :::
-⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : herabhängen von (⟪सप्तम्या⟫), hängen an (⟪सप्तम्या⟫)
+⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : hangen aan (⟪सप्तम्या⟫), hangen van (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ललम्बे⟫  
@@ -3714,34 +3956,41 @@ Absol. -⟪लम्ब्य⟫
 :::
 ::: media
 ![](/images/lekt4601.jpg)
-Abb.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/licenses#lekt4601)
-(Bildquelle: [Details](/licenses#lekt4601))
+Afb.: [⟪लम्बोदर नमस्तुभ्यम्⟫](/licenses#lekt4601)
+(Bron afbeelding: [Details](/licenses#lekt4601))
 :::
-⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : sich hängen an (⟪द्वितीयया⟫)
+⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : zich hangen aan (⟪द्वितीयया⟫)
 
-⟪यदि⟫ Konjunktion:  wenn
+⟪यदि⟫ voegwoord:  als
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : einkreisen, bemeistern, besiegen
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : omsingelen, beheersen, verslaan
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3: verslagen, vernederd, neergeslagen
 
 :::
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts
+⟪नि⟫ voorzetsel: naar beneden, omlaag, binnenin, achteruit
 
 ::: indent
-z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sich niedersetzen
+bijv.
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : zich neerzetten
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er :sig[⟪भो⟫].
+⟪भोस्⟫ vocatiefdeeltje: aanroep, bijv.: hey, heda, oh, ei, hallo, hi! vaak niet te vertalen. Dit deeltje heeft een speciale sandhi: voor alle stemhebbende medeklinkers luidt het :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
-Abb.: [⟪भोः⟫](/licenses#lekt4611)
-(Bildquelle: [Details](/licenses#lekt4611))
+Afb.: [⟪भोः⟫](/licenses#lekt4611)
+(Bron afbeelding: [Details](/licenses#lekt4611))
 :::
+
 ## Les 48
+
+
+
+
+
+
 
 
 
@@ -3751,29 +4000,30 @@ Abb.: [⟪भोः⟫](/licenses#lekt4611)
 
 ⟪श्वस्⟫ : morgen
 
-⟪अद्य⟫ : heute
+⟪अद्य⟫ : vandaag
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟫ 3: licht (niet zwaar, niet moeilijk), snel, kort (in uitdrukking)
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
+⟪व्याकरण⟫ n.: grammatica (zie ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+⟪तन्त्र⟫ n.: snaar ; weefgetouw, kettingdraad, weefsel ; grondslag, norm, regel ; leer, handboek ; tantra ; toverformule ; middel, truc, geneesmiddel ; regering, autoriteit
 
 ::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+Afb.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802))
+(Bron afbeelding: [Details](/licenses#lekt4802))
 :::
+
 ::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
-Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803))
+Afb.: ⟪तन्त्री⟫
+Sitar-speler = ⟪सितारवादकः⟫
+(Bron afbeelding: [Details](/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum
+⟪स्त्री⟫ f.: vrouw, echtgenote ; femininum
 
-Deklination:
+Deklinatie:
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -3789,70 +4039,69 @@ Deklination:
 :::
 ::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804))
+Afb.: ⟪स्वतन्त्राः स्त्रियः⟫
+[Zelfhulpgroep (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+(Bron afbeelding: [Details](/licenses#lekt4804))
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht
+⟪दिवानिशम्⟫ Adverb: overdag en 's nachts
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften
+⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hangen, hechten
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ m.: kind, jongeman, prins; bijnaam van ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+Afbeelding: ⟪कुमारः⟫
+Thaipusam-feest = தைப்பூசம், Batu Caves, Maleisië
+(Bron afbeelding: [Details](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ v.: meisje, dochter
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
-⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+Afbeelding: ⟪कुमारी नेपाल⟫
+(Bron afbeelding: [Details](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ n.: kindertijd
 
-⟪यौवन⟫ n.: Jugend
+⟪यौवन⟫ n.: jeugd
 
-⟪स्थविर⟫ 3: alt, betagt
+⟪स्थविर⟫ 3: oud, bejaard
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+Afbeelding: ⟪स्थविराः जोधपुर⟫
+(Bron afbeelding: [Details](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ n.: (hoog) bejaard zijn
 
-⟪वाच्य⟫ 3: auch: tadelnswert
+⟪वाच्य⟫ 3: ook: berispenswaardig
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil
+⟪सूक्ष्म⟫ 3: fijn, klein, subtiel
 
 ::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+Afbeelding: ⟪सूक्ष्मम्⟫
+Karanji-meer = ಕಾರಂಜಿ ಕೆರೆ
+(Bron afbeelding: [Details](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ m.: gehechtheid, neiging ; gelegenheid
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit
+⟪विशेष⟫ m.: verschil, bijzonderheid
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
+⟪प्रसूति⟫ v.: geboorte, nakomelingschap
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ n.: gebruik, gewoonte, gewoonterecht ; gedrag
 
-⟪जाया⟫ f.: Ehefrau
+⟪जाया⟫ v.: echtgenote
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+Afbeelding: ⟪मम जाया⟫
+(Afbeelding: Payer)
+(Bron afbeelding: [Details](/licenses#lekt4809))
 :::
+
 ## Les 49
 
 
@@ -3861,24 +4110,30 @@ Abb.: ⟪मम⟫ ⟪जाया⟫
 
 
 
-⟪दीर्घ⟫ 3: lange
 
-⟪ह्रस्व⟫ 3: kurz
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+
+
+
+
+⟪दीर्घ⟫ 3: lang
+
+⟪ह्रस्व⟫ 3: kort
+
+⟪आयुस्⟫ n.: levensduur (de volledige levensduur die men kan leven, als er niets tussenkomt) ;
 
 ::: indent
-davon:
+daarvan:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: het traditionele Indiase medische systeem
 
-siehe:
+zie:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Geselecteerde teksten uit de Carakasaṃhitā / vertaald en toegelicht door Alois Payer (1944–). -- 0. Inleiding. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werpen, slingeren
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -3890,83 +4145,81 @@ Inf. ⟪क्षेप्तुम्⟫
 Absol. -⟪क्षिप्य⟫
 Gerundiv: ⟪क्षेप्य⟫
 :::
-⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : eilen
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : haasten
 
 ::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित ।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
-⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schaden
 
 ::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
-Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Fut. ⟪द्रोहिष्यति । ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
 Kaus. ⟪द्रोहयति⟫
-PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+PPP ⟪द्रुग्ध । द्रूढ⟫
 Inf. ⟪द्रोग्धुम्⟫
 :::
-⟪कुलूहल⟫ n.: Neugier, Interesse
+⟪कुलूहल⟫ n.: nieuwsgierigheid, interesse
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/licenses#lekt4901))
+Afb.: ⟪कुलूहलम्⟫
+(Bron afbeelding: [Details](/licenses#lekt4901))
 :::
-⟪कृत्स्न⟫ 3: ganz, vollständig
+⟪कृत्स्न⟫ 3: heel, volledig
 
-⟪परिचय⟫ m.: Bekanntschaft
+⟪परिचय⟫ m.: kennismaking
 
-⟪कला⟫ f.: Kunst
+⟪कला⟫ f.: kunst
 
 ::: media
 ![](/images/lekt4902.webp)
-Abb.: ⟪उत्तमा⟫ ⟪काला⟫
-⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt.
-(Bildquelle: [Details](/licenses#lekt4902))
+Afb.: ⟪उत्तमा काला शिवो नटराजा⟫, 11e eeuw
+(Bron afbeelding: [Details](/licenses#lekt4902))
 :::
-⟪वर⟫ m.n.: Wunsch
+⟪वर⟫ m.n.: wens
 
-⟪उत⟫ Indekl.: und, auch, oder
+⟪उत⟫ Indekl.: en, ook, of
 
-⟪विहंग⟫ m.: Vogel ("in den Luf⟪स्⟫traum - ⟪विह⟫ - gehend")
+⟪विहंग⟫ m.: vogel ("in de lucht⟪स्⟫droom - ⟪विह⟫ - gaand")
 
 ::: media
 ![](/images/lekt4903.jpg)
-Abb.: ⟪विहंगः⟫
-(Bildquelle: [Details](/licenses#lekt4903))
+Afb.: ⟪विहंगः⟫
+(Bron afbeelding: [Details](/licenses#lekt4903))
 :::
-⟪वेष⟫ m.: Kleid, Aussehen, Äusseres
+⟪वेष⟫ m.: kleding, uiterlijk, voorkomen
 
 ::: media
 ![](/images/lekt4904.webp)
-Abb.: ⟪वेषः⟫
-⟪वाराणस्याम्⟫
-(Bildquelle: [Details](/licenses#lekt4904))
+Afb.: ⟪वेषः वाराणस्याम्⟫
+(Bron afbeelding: [Details](/licenses#lekt4904))
 :::
-⟪छन्न⟫ n.: Decke, Versteck
+⟪छन्न⟫ n.: deken, schuilplaats
 
-⟪पञ्जर⟫ n.: Käfig
+⟪पञ्जर⟫ n.: kooi
 
 ::: media
 ![](/images/lekt4909.webp)
-Abb.: ⟪पञ्जरम्⟫
-Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht Mysore
-(Bildquelle: [Details](/licenses#lekt4909))
+Afb.: ⟪पञ्जरम्⟫
+Waarzegger met papegaai in kooi: de papegaai trekt briefjes waarop het lot staat Mysore
+(Bron afbeelding: [Details](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: unterste Stufe der [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल । चण्डाल⟫ m.: laagste stand van [Dalits](http://de.wikipedia.org/wiki/Dalit)
 
-⟪स्वयम्⟫ Indekl.: selbst, von selbst
+⟪स्वयम्⟫ Indekl.: zelf, vanzelf
 
-⟪अवनि⟫ f.: Erde
+⟪अवनि⟫ f.: aarde
 
-⟪मुहूर्त⟫ m.,n.: Augenblick, Moment, rechter Augenblick
+⟪मुहूर्त⟫ m.,n.: ogenblik, moment, juist oogenblik
 
-⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : sich vorstellen, denken
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : zich voorstellen, denken
 
 ::: indent
 Perf. IV ⟪दध्यौ⟫
@@ -3977,26 +4230,27 @@ PPP ⟪ध्यात⟫
 Inf. ⟪ध्यातुम्⟫
 Gerundiv ⟪ध्येय⟫
 :::
-⟪आदर⟫ m.: Rücksicht, Beachtung, Respekt
+⟪आदर⟫ m.: rekening, aandacht, respect
 
 ::: media
 ![](/images/lekt4905.webp)
-Abb.: ⟪सादरः⟫
+Afb.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Bildquelle: [Details](/licenses#lekt4905))
+(Bron afbeelding: [Details](/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
-⟪परम⟫ 3: fernster, höchster ; ⟪पञ्चम्या⟫ : besser als, höher als
+⟪परम⟫ 3: verste, hoogste ; ⟪पञ्चम्या⟫ : beter dan, hoger dan
 
-⟪शिशु⟫ m.: Kind, Junges
+⟪शिशु⟫ m.: kind, jong
 
 ::: media
 ![](/images/lekt4906.webp)
-Abb.: ⟪गजशिशुः⟫
+Afb.: ⟪गजशिशुः⟫
 Sri Lanka
-(Bildquelle: [Details](/licenses#lekt4906))
+(Bron afbeelding: [Details](/licenses#lekt4906))
 :::
+
 ## Les 50
 
 
@@ -4005,25 +4259,31 @@ Sri Lanka
 
 
 
-⟪ध्रुव⟫ 3: fest, unveränderlich
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
+
+
+⟪ध्रुव⟫ 3: vast, onveranderlijk
+
+⟪निषेक⟫ m.: besprenkeling, bevruchting, vloeistof, ejaculaat, ceremonie bij de verwekking
+
+⟪पण्डित⟫ 3: verstandig, wijs, geleerd
+
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : verachten, minachten
+
+⟪मन्त्रिन्⟫ 3: raadgevend ; m.: adviseur, raadheer, minister
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001))
+Afb.: ⟪मन्त्री⟫
+Kapil Sibal (1948 -), unie-minister bij het Ministerie van Wetenschap en Technologie en het Ministerie van Aardwetenschappen (sinds 2006)
+(Bron afbeelding: [Details](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit
+⟪रहस्⟫ n.: geheim, eenzaamheid
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : beschadigd worden, mislukken, beschadigen
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -4032,20 +4292,20 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : breken, vernietigen
 
 ::: indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
+Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
 Kaus. ⟪लोपयति⟫
 PPP ⟪लुप्त⟫
 Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
+Gerundivum ⟪लुप्य । लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫)
+⟪विधि⟫ m.: ook: lot (verwant met ⟪विधा⟫)
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : regenen (meestal met een ⟪कर्तृ⟫ -- een god of een wolk)
 
 ::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
@@ -4054,70 +4314,67 @@ Pass. ⟪वृष्यते⟫
 Kaus. ⟪वर्षयति⟫
 PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+Absol. ⟪वर्षित्वा । वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002))
+Afbeelding: ⟪महामेघो वर्षिष्यति⟫
+Aankomst van de moesson, Bangalore  ಬೆಂಗಳೂರು
+(Bron afbeelding: [Details](/licenses#lekt5002))
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig
+⟪संयक्⟫ Adv.: juist, waarachtig, op de behoorlijke manier ; volkomen, volledig
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
+⟪आदित्य⟫ m.: zon ; mv.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : een bepaalde klasse van goden
 
 ::: media
 ![](/images/lekt5005.jpg)
-Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005))
+Afbeelding: ⟪आदित्यः⟫
+(Bron afbeelding: [Details](/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle
+⟪सर्व⟫ 3: elke, alle
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
+Vervoeging zoals ⟪यद्⟫ (uitzondering: Nom.Akk.sg.Neuter)
 
 ::: grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
+| | Enkelvoud:br⟪एकवचनम्⟫ || || Meervoud:br⟪बहुवचनम्⟫ || ||
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominatief:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusatief:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **5. Ablatief:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. Genetief:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. Lokatief:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
+⟪वै⟫ : partikel dat het voorgaande woord benadrukt: waarlijk, inderdaad, maar
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Bijwoord: hier, hier op aarde, hierheen; nu. Voor zelfstandige naamwoorden in de locatief (⟪षष्ठी⟫) synoniem met ⟪अस्मिन्⟫, ⟪अस्याम् कल्प⟫ m: statuut, gewoonte, ritueel; [wereldperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zie ⟪कॢप्⟫)
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫)
-
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
+⟪कल्याण⟫ 3 (v.: ⟪कल्याणी⟫) :mooi
 
 ::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003))
+Afb.: ⟪कल्याणी⟫
+(Bron: [Details](/licenses#lekt5003))
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht
+⟪कु⟫- : als eerste deel van samengestelde woorden: slecht
 
 ::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004))
+Afb.: ⟪कुनगरम् धारावी⟫, ⟪मुंबई⟫
+(Bron: [Details](/licenses#lekt5004))
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : zien
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet
+wordt in de overige tijden niet gebruikt
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : vertellen, beschouwen als, noemen
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend
+⟪देश⟫ m.: plaats, locatie, land, streek
 
 ## Les 51
 
@@ -4127,56 +4384,60 @@ in den übrigen Tempora nicht verwendet
 
 
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe:
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
+
+
+
+
+
+⟪अजिन⟫ n.: antilopenvacht, met name de vacht van de zwarte antilope (hertgeitantilope: _Antilope cervicapra_ L.). Kwam oorspronkelijk voor op het hele Indiase subcontinent, van Punjab en Sind tot Bengalen en van Nepal tot Kanyakumari (Kaap Comorin) (Tamil: கன்னியாகுமரி). Zie:
+
+&gt; **Walker's mammals of the world** / Ronald M. Nowak. -- 6e druk -- Baltimore \[e.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 delen -- ISBN 0-8018-5789-9. -- Deel 2. -- blz. 1193 e.v.
 
 ::: media
 ![](/images/lekt5105.webp)
-Abb.:
-(Bildquelle: [Details](/licenses#lekt5105))
+Afb.:
+(Bron: [Details](/licenses#lekt5105))
 :::
-⟪अतिथि⟫ m.: Gast
+⟪अतिथि⟫ m.: gast
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener
+⟪अभ्यन्तर⟫ 3: zich binnen bevindend, volgende ; m. de naaste verwant, inwoner
+⟪अरण्य⟫ zn.: wildernis, bos
 
-⟪अरण्य⟫ n.: Wildnis, Wald
+⟪ऋतु⟫ m.: periodiek proces, seizoen, tijdsperiode, menstruatie, tijd waarin de vrouw vruchtbaar is en recht heeft op geslachtsgemeenschap met haar echtgenoot.
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat.
+::: note-box
+Zie voor ⟪ऋतु⟫ Manu III, 45-48: volgens deze tekst duurt ⟪ऋतु⟫ 16 dagen (volgens de alternatieve vertaling: 20 dagen) vanaf het begin van de menstruatie; gedurende de eerste vier dagen na het begin van de menstruatie is geslachtsgemeenschap verboden (volgens de alternatieve vertaling: gedurende de eerste acht (4 + 4) dagen), evenals op de 11e (resp. 15e) en 13e (resp. 18e) dag. Op even dagen krijgt de vrouw zonen, op oneven dagen dochters. Voor het volgende wordt uitgegaan van een ⟪ऋतु⟫ van in totaal 16 dagen (niet de alternatieve vertaling), zoals ook de meeste inheemse commentaren doen, en wat dus de heersende opvatting is geweest.
 
-::: indent
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist.
-
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino.
+Aangezien de eisprong 14 dagen vóór het begin van de menstruatie plaatsvindt, is bij deze bepaling van de vruchtbare periode vruchtbaarheid bijna „gegarandeerd” bij een interval tussen menstruaties van 19 tot 30 dagen. De verboden dagen (11e en 13e) vergroten de kans op geslachtsgemeenschap op de 12e en 14e dag, d.w.z. de kans op bevruchting bij een cyclus van 28 dagen (de levensduur van de zaadcellen in de vrouw bedraagt ca. 3 dagen). Deze bepalingen zijn als het ware een positief gebruik van de Knaus-Ogino-methode.
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106))
+Afb.: ⟪ऋतुः⟫
+(Bron: [Details](/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle
+⟪एकत्र⟫ Adv.: op één plaats
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen)
+⟪जटा⟫ v.: vlecht (kapsel van de asceet)
 
 ::: media
 ![](/images/lekt5107.webp)
-Abb.: ⟪जटा⟫
-⟪ऋषिकेश⟫
-(Bildquelle: [Details](/licenses#lekt5107))
+Afbeelding: ⟪जटा ऋषिकेश⟫
+(Bron afbeelding: [Details](/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3: gelijk, vergelijkbaar (⟪तृतीयया⟫)
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): dreifältig, aus drei Teilen bestehend
+⟪तरय⟫ 3 (v.: ⟪तरयी⟫): drievoudig, uit drie delen bestaand
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): tödlich, todbringend, lebenslänglich
+⟪प्राणान्तिक⟫ 3 (v.: -ī): dodelijk, dood brengend, levenslang
 
-⟪बाह्य⟫ 3: ausserhalb, draussen befindlich, fremd
+⟪बाह्य⟫ 3: buiten, zich bevindend aan de buitenkant, vreemd
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise
+⟪भिक्षा⟫ v.: bedeld aalmoes, bedelmaaltijd
 
-⟪मार्यादा⟫ f.: Grenze
+⟪मार्यादा⟫ v.: grens
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlassen, übriglassen
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlaten, achterlaten
 
 ::: indent
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
@@ -4186,105 +4447,104 @@ Kaus. ⟪शेषयति⟫
 PPP⟪शिष्ट⟫
 Absol. -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : unterscheiden
+⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : onderscheiden
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), besser sein als (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), der beste sein unter (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+Pass. ⟪विशिष्यते⟫ : zich onderscheiden van (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), beter zijn dan (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), de beste zijn onder (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse
+⟪समान⟫ 3: gelijksoortig, gelijk, vergelijkbaar ; m.: leeftijdgenoot
 
-⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden:
+⟪स्व⟫ 3: eigen, van iemand (mijn, jouw etc.) Wordt gedeclineerd zoals ⟪सर्व⟫. In Abl.Lok.sg.m.n en in Nom.pl.m kan het ook worden gedeclineerd zoals ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ :sig[⟪स्⟫]⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
+Abl.sg.m.n ⟪स्वस्मात् ।⟫ :sig[⟪स्वात्⟫]
+Lok.sg.m.n. ⟪स्वस्मिन् ।⟫ :sig[⟪स्⟫]⟪वे⟫
+Nom.pl.m ⟪स्वे ।⟫ :sig[⟪स्वास्⟫]
 :::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelden, berispen
 
 ::: indent
 Perf I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (zubereitetes) Fleisch
+⟪पिशित⟫ n.: (voorbereid) vlees
 
 ::: media
 ![](/images/lekt5108.webp)
-Abb.: ⟪पिशितम्⟫
+Afbeelding: ⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Bildquelle: [Details](/licenses#lekt5108))
+(Bron afbeelding: [Details](/licenses#lekt5108))
 :::
-⟪उपहार⟫ m.: Darbringung, Opfer, Geschenk
+⟪उपहार⟫ m.: offerande, offert, geschenk
 
-⟪मधु⟫ n.: Honig, Süsstrank, Met (Honigwein)
+⟪मधु⟫ n.: honing, zoete drank, met (honingwijn)
 
 ::: media
 ![](/images/lekt5109.webp)
-Abb.: ⟪मधु⟫
+Afbeelding: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Bildquelle: [Details](/licenses#lekt5109))
+(Bron afbeelding: [Details](/licenses#lekt5109))
 :::
-⟪मांस⟫ n.: Fleisch
+⟪मांस⟫ n.: Vlees
 
-⟪मृगया⟫ f.: Jagd
+⟪मृगया⟫ f.: Jacht
 
 ::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Bildquelle: [Details](/licenses#lekt5110))
+Afb.: ⟪मृगया⟫
+Jacht met ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
+(Bron afbeelding: [Details](/licenses#lekt5110))
 :::
-⟪शिवा⟫ f.: (weibl.) Schakal (Goldschakal = _Canis aureus_)
+⟪शिवा⟫ f.: (vrouwelijke) jakhals (gouden jakhals = _Canis aureus_)
 
 ::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
+Afb.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
-(Bildquelle: [Details](/licenses#lekt5111))
+(Bron afbeelding: [Details](/licenses#lekt5111))
 :::
-⟪रुत⟫ n.: Geschrei
+⟪रुत⟫ n.: Geschreeuw
 
-⟪कौशिक⟫ m.: Eule
+⟪कौशिक⟫ m.: Uil
 
 ::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Bildquelle: [Details](/licenses#lekt5112))
+Afb.: ⟪कौशिकः⟫
+Brahma-uil (_Athene brama_), Mahesana = મહેસાણા
+(Bron afbeelding: [Details](/licenses#lekt5112))
 :::
 ⟪शकुनि⟫ m.: Vogel
 
-⟪श्वन्⟫ m.: Hund
+⟪श्वन्⟫ m.: Hond
 
 ::: indent
-starker Stamm ⟪श्वान्⟫
-schwacher Stamm vor Vokal ⟪सुन्⟫
-schwacher Stamm vor Konsonant ⟪श्व⟫
+sterke stam ⟪श्वान्⟫
+zwakke stam voor klinker ⟪सुन्⟫
+zwakke stam voor medeklinker ⟪श्व⟫
 :::
 ::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
+Afb.: ⟪श्वा लिङ्गं च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt5113))
+(Bron afbeelding: [Details](/licenses#lekt5113))
 :::
-⟪परिचित⟫ 3: vertraut, bekannt
+⟪परिचित⟫ 3: vertrouwd, bekend
 
-⟪अटवी⟫ f.: Wald
+⟪अटवी⟫ f.: Woud
 
-⟪शून्य⟫ 3: leer, öde
+⟪शून्य⟫ 3: leeg, woest
 
-⟪आपान⟫(⟪क⟫) n.: Zechgelage
+⟪आपान⟫(⟪क⟫) n.: Feestmaal
 
 ::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम्⟫
-⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt5114))
+Afb.: ⟪आपानकम् जोधपुर⟫
+(Bron afbeelding: [Details](/licenses#lekt5114))
 :::
-⟪क्रूर⟫ 3: roh, grausam
+⟪क्रूर⟫ 3: rauw, wreed
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bestreichen, beschmieren
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : besmeren, insmeren
 
 ::: indent
 Perf. II ⟪दिदेह⟫
@@ -4293,73 +4553,73 @@ Pass. ⟪दिह्यते⟫
 Kaus. ⟪देहयति⟫
 PPP ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: Gift
+⟪विष⟫ n.: Gif
 
 ::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
+Afb.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5115))
+(Bron afbeelding: [Details](/licenses#lekt5115))
 :::
-⟪भुजंग⟫ m.: Schlange
+⟪भुजंग⟫ m.: Slang
 
 ::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5116))
+Afb.: ⟪भुजंगः⟫
+Ketenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
+(Bron afbeelding: [Details](/licenses#lekt5116))
 :::
-⟪सायक⟫ m.: Pfeil
+⟪सायक⟫ m.: pijl
 
-⟪उत्साद⟫ m.: Zugrundegehen
+⟪उत्साद⟫ m.: ondergang, verlies
 
-⟪कलत्र⟫ **Neutrum**: Ehefrau, Weibchen
+⟪कलत्र⟫ **Neutrum**: vrouw, wijfje
 
-⟪बन्दी⟫ f.: Gefangene, Raub
+⟪बन्दी⟫ f.: gevangene, buit
 
-⟪योषित्⟫ f.: junge Frau, Mädchen
+⟪योषित्⟫ f.: jonge vrouw, meisje
 
 ⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: Blut
+⟪रुधिर⟫ n.: bloed
 
-⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
+⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut
+⟪बलि⟫ m.:  afgifte, offergave, tribut
 
-⟪मणि⟫ m.: Juwel
+⟪मणि⟫ m.: juweel
 
 ::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Bildquelle: [Details](/licenses#lekt5118))
+Afb.: ⟪मणिः⟫
+Hope Diamond uit Guntur = గుంటూరు, thans Smithsonian Museum of Natural History, Washington DC
+(Bron afbeelding: [Details](/licenses#lekt5118))
 :::
-⟪वन⟫ n.: Wald
+⟪वन⟫ n.: bos, woud
 
-⟪मद⟫ m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth))
+⟪मद⟫ m.: ook "muskus" van een olifant (in [Musht](http://en.wikipedia.org/wiki/Musth))
 
 ::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
-(Bildquelle: [Details](/licenses#lekt5117))
+Afb.: ⟪मदः⟫
+(Bron afbeelding: [Details](/licenses#lekt5117))
 :::
-⟪राग⟫ m.: auch: Farbe, rote Farbe
+⟪राग⟫ m.: ook: kleur, rode kleur
 
-⟪कालन⟫ n.: Wald
+⟪कालन⟫ n.: bos, woud
 
-⟪खन्⟫ 1U ⟪खनति⟫ : graben
+⟪खन्⟫ 1U ⟪खनति⟫ : graven
 
 ::: indent
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
 PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
+Absol ⟪खनित्वा । खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, nachdenken
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, overwegen
 
-⟪शबर⟫ .:  Eigenname eines nichtarischen Stammes
+⟪शबर⟫ .:  eigennaam van een niet-ariaanse stam
 
 ## Les 52
 
@@ -4371,81 +4631,86 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 
 
-⟪अखिल⟫ 3: lückenlos, ganz
 
-⟪निखिल⟫ 3: vollständig, ganz
+
+
+
+
+
+⟪अखिल⟫ 3: ononderbroken, volledig
+
+⟪निखिल⟫ 3: volledig, heel
 
 ::: indent
-von:
+van:
 
-⟪खिल⟫ m.: Brachfeld, Ödland
+⟪खिल⟫ m.: braakliggend land, woestijn
 :::
 ::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+Afb.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210))
+(Bron afbeelding: [Details](/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus
+⟪अन्तर्⟫ Adv.: binnen, in het binnenste ; postpositie met Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): binnenin, middenin ; postpositie met Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): uit ... naar buiten
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander
+⟪अन्योन्य⟫ 3: wederzijds, elkaar
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : mislukken
 
 ::: indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch
+PPP ⟪विपरीत⟫ 3: verkeerd, fout
 :::
-⟪त्रि⟫ 3: drei
+⟪त्रि⟫ 3: drie
 
 ::: grammar-box
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **1. Nominatief:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Accusatief:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **5. Ablatief:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genetief:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokatief:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von
+⟪निस्⟫ Postpositie en prefix bij nomina en werkwoorden: uit, weg, naar buiten, tevoorschijn, uit, weg, zonder - van
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : drukken, kwelen; benauwen, belegeren, plagen
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Afbeelding: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212))
+(Bron afbeelding: [Details](/licenses#lekt5212))
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
+⟪पर⟫ 3: (Vervoeging zoals ⟪सर्व⟫) verafstaand, vreemd, hoger dan (⟪पञ्चम्या⟫), uiterste, hoogst; ander, vreemd, vijandig; m.: vreemdeling
 
 ::: indent
-davon:
+daarvan:
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch
+⟪परम्⟫ Adv.: in hoge mate, daarop, later, maar, echter
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber
+⟪प्रति⟫ Postpositie (⟪द्वितीयया⟫): naar - toe, naar, met betrekking tot, tegenover
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes
+⟪प्रधान⟫ 3: voornaamste, beste; n.: het belangrijkste
 
 ::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213))
+Afbeelding: ⟪प्रधानः मुंबई⟫
+(Bron afbeelding: [Details](/licenses#lekt5213))
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit
+⟪लौल्य⟫ n.: hebzucht, lust
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar
+⟪वर्ग⟫ m.: afdeling, sectie, schare
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: drietal (bijv. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; of: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; of: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : wollen, gebieten, verlangen nach
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : willen, gebieden, verlangen naar
 
 ::: indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
+Perf. Va ⟪उवाश⟫, ⟪ऊशुर्⟫
 Fut. ⟪वशिष्यति⟫
 Pass. ⟪उष्यते⟫
 Kaus. ⟪वाशयति⟫
@@ -4453,41 +4718,41 @@ PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
+⟪वा⟫ 2P ⟪वाति⟫ : waaien, blazen
 
 ::: indent
-Perf IV ⟪ववौ⟫
+Perf. IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
 Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+PPP ⟪वान । वात⟫
 Inf. ⟪वातुम्⟫
 
-davon:
+daarvan:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: wind
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschliessen
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : keren, draaien ; afweren, uitsluiten
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
+Kaus. ⟪वर्जयति⟫ : wegnemen
+Kaus. PPP ⟪वर्जित⟫ : van iets beroofd, vrij van
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess
+⟪व्यवहार⟫ m.: drijven, wandel, omgang, verkeer, zaak, handel, (rechts)zaak
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral
+⟪शील⟫ n.: gebruik, gewoonte, natuur, karakter, goede gewoonte = moraal
 
-⟪सूर्य⟫ m.: Sonne
+⟪सूर्य⟫ m.: zon
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : iemanden (⟪द्वितीया⟫) dienen, opwachten, eren, liefhebben
 
 ::: indent
-Perf I ⟪सिषेवे⟫
+Perf. I ⟪सिषेवे⟫
 Fut. ⟪सेविष्यते⟫
 Pass. ⟪सेव्यते⟫
 Kaus. ⟪सेवयति⟫
@@ -4495,31 +4760,26 @@ PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-davon:
+daarvan:
 
-⟪सेवा⟫ f.: Dienst, Aufwartung
+⟪सेवा⟫ f.: dienst, opwachting
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich
+⟪धीर⟫ 3: vast, standvastig, continu, volhardend
 
-⟪शम्⟫ ⟪शाम्यति⟫
+⟪शम् शाम्यति⟫
 
 ::: indent
-⟪शशाम⟫, ⟪शेमुर्⟫
-⟪शमिष्यति⟫
-⟪शम्यते⟫
-⟪शमयति⟫
-⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
+⟪शशाम⟫, ⟪शेमुर् शमिष्यति शम्यते शमयति शान्त शमित्वा । शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫)
+⟪कोविद⟫ 3: ervaren in (⟪षष्ठ्या सप्तम्या वा⟫)
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden)
+⟪याम⟫ m.: nachtwacht (telkens drie uur)
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe
+⟪परंपरा⟫ f.: ononderbroken reeks
 
-⟪अमुत्र⟫ Adv.: dort, dorthin
+⟪अमुत्र⟫ Adv.: daar, daartoe
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : zich bewegen, zich voortbewegen, neervallen
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -4528,415 +4788,59 @@ Pass. ⟪च्यूयते⟫
 Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, voelen, waarnemen, ervaren
 
-⟪चक्र⟫ n.: Rad
+⟪चक्र⟫ n.: rad
 
 ::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+Afbeelding: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214))
+(Bron afbeelding: [Details](/licenses#lekt5214))
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.)
+⟪कदली⟫ f.: bananenplant (_Musa_ sp.)
 
 ::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+Afbeelding: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208))
+(Bron afbeelding: [Details](/licenses#lekt5208))
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz
+⟪सार⟫ m.n.: kern, merg, essentie, substantie
 
-⟪दिव्य⟫ 3: himmlisch, göttlich
+⟪दिव्य⟫ 3: hemels, goddelijk
 
-⟪वर⟫ 3: bester
+⟪वर⟫ 3: beste
 
-⟪आदर्श⟫ m.: Spiegel
+⟪आदर्श⟫ m.: spiegel
 
-⟪मल⟫ m.n.: Schmutz, Makel
+⟪मल⟫ m.n.: vuil, vlek
 
 ::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
-⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215))
+Afbeelding: ⟪मलम् मुंबई⟫
+(Bron afbeelding: [Details](/licenses#lekt5215))
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel
+⟪त्रिपिष्टप⟫ n.: Indra's hemel
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel
+⟪मार⟫ m.: het gepersonifieerde kwaad, de gepersonifieerde verleiding / manipulatie, duivel
 
 ::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217))
+Afbeelding:
+Amaravati = అమరావతి, 2e eeuw n.Chr.
+(Bron afbeelding: [Details](/licenses#lekt5217))
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will
+⟪विजिज्ञासु⟫ 3: iemand die volledig wil begrijpen
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschermen, redden
 
 ::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
 Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+PPP ⟪त्राण । त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-#### Quellen
-
-**lekt0201**: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts). Beschriftung: * Priesterstand (~Brāhmaṇa): Tu supplex ora = Du bete flehend! * Adelsstand (~Kṣatriya): Tu protege = Du schütze! * Bauernstand (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! Die drei Stände tragen die jeweilige Standestracht. Über den - damit als gottgewollt bezeichneten - Ständen trohnt Christus. [Bildquelle: Meyer, Werner: Hirsebrei und Hellebarde : auf den Spuren des mittelalterlichen Lebens in der Schweiz . -- 2. Aufl. -- Olten [u.a.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- S. 129]
-
-**lekt0203**: Gott Agni, Miniatur, 18. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt0202**: Sādhu (⟪साधु⟫), Pashupatinath Tempel (⟪पशुपतिनाथ⟫ ⟪मन्दिर⟫), Kathmandu (⟪काठमांडौ⟫), Nepal (⟪नेपाल⟫), 2007 [Bildquelle: Peter Akkermans, Wikipedia, GNU FDLizenz]
-
-**lekt0303**: Durgā = ⟪दुर्गा⟫, Orissa (ଓଡ଼ିଶା) [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0501**: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt0701**: War das die vedische Somapflanze?: Fliegenpilz: Amanita muscaria (L.) Lam. [Bildquelle: Wikipedia, GNU FDLizenz]
-
-**lekt0809**: ⟪लिख्⟫ : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0810**: ⟪लिख्⟫ : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war [Bildquelle: Meyers Grosses Konversationslexikon 1905. Gemeinfrei]
-
-**lekt0903**: adhyayana = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai [Bildquelle: jaroslavd. -- http://www.flickr.com/photos/jaroslavd/2679883828/ . -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt0902**: kāru = ⟪कारु⟫, Gujarat [Bildquelle: owenstache. -- http://www.flickr.com/photos/owen-pics/2331791031/. -- Zugriff am 2008-11-23. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1003**: Gott Varuṇa = ⟪वरुण⟫, 17. Jhdt. [Bildquelle. Wikipedia, Public domain]
-
-**lekt1002**: Ein Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / von Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Bildquelle: Wikipedia, Public domain]
-
-**lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Bildquelle: Prakash Subbarao / Wikipedia. -- Public domain]
-
-**lekt1304**: ⟪अन्नम्⟫, Karnataka (ಕರ್ನಾಟಕ), 2005 [Bildquelle: Wikipedia, Public domain]
-
-**lekt1303**: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫ (Elephas maximus) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1405**: ⟪दीपाः⟫ [Bildquelle: [srijith]. -- http://www.flickr.com/photos/srijith/1918428547/. -- Zugriff am 2008-12-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Bildquelle: Wikiepdia, Public domain]
-
-**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Bildquelle: Wikipedia, Public domain]
-
-**lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Bildquelle: Wikipedia, GNU FDLicense]
-
-**lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Bildquelle: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
-
-**lekt1602**: ⟪अध्यापनम्⟫ "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt1603**: ⟪अहिंसा⟫ "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain]
-
-**lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt1701**: ⟪योगासनम्⟫ [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt1702**: ⟪दोग्धि⟫ [Bildquelle: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt1809**: ⟪कामः⟫ Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain]
-
-**lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Bildquelle: Wikipedia, Public domain]
-
-**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2103**: ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense]
-
-**lekt2105**: ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2104**: ⟪भिक्षवः⟫ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2202**: ⟪कामदेवः⟫ , 19. Jhdt [Bildquelle: Wikipedia, Public domain]
-
-**lekt2203**: ⟪दुर्गाशक्तिः⟫ = ⟪दुर्गैव⟫ ⟪शक्तिः⟫ Kolkatta = কলকাতা [Bildquelle: The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2201**: ⟪धेनवश्चरन्ति⟫ Goa = ⟪गोंय⟫ [Bildquelle: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2405**: ⟪अलंकारः⟫ [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Bildquelle: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2408**: ⟪आख्यानम्⟫ "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain]
-
-**lekt2501**: ⟪धान्यम्⟫ Khanna [Bildquelle: appaji. -- http://www.flickr.com/photos/appaji/2205110691/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2502**: ⟪मूलानि⟫ Varanasi [Bildquelle: oceandesetoiles. -- http://www.flickr.com/photos/ocean_of_stars/2544053669/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2503**: ⟪लिप्तिः⟫ Jaina-Manuskript [Bildquelle: Wikipedia, Public domain]
-
-**lekt2504**: ⟪विवाहः⟫ ⟪मुंबई⟫ [Bildquelle: barnism. -- http://www.flickr.com/photos/barnism/3079837348/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2505**: ⟪विष्टिः⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2182943983/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnnenung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt2506**: ⟪हिरण्यम्⟫ Chennai = சென்னை [Bildquelle: Dilip Muralidaran. -- http://www.flickr.com/photos/dilipm/2423883232/. -- Zugriff am 2008-12-15. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt2706**: ⟪वस्त्राणि⟫ Majuli, Assam [Bildquelle: deepsan. -- http://www.flickr.com/photos/deepsan/585991890/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2707**: ⟪वसन्तः⟫ ⟪कुसुम्भ⟫ = Schleichera oleosa (Lour.) Oken, Khopoli = ⟪खोपोली⟫, Maharashtra = ⟪महाराष्ट्र⟫, 2007-04-07[Bildquelle: dinesh_valke. -- http://www.flickr.com/photos/dinesh_valke/451989507/. -- Zugriff am 2008-12-18. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)]
-
-**lekt2704**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2705**: ⟪हरिहरः⟫ (links: ⟪विष्णु⟫, rechts: ⟪शिव⟫) Godrumdwip, West Bengal = পশ্চিমবঙ্গ [Bildquelle: GourangaUK / Wikipedia. GNU FDLicense]
-
-**lekt2804**: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫ Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain]
-
-**lekt2803**: ⟪वीणां⟫ ⟪वादयति⟫ [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-
-**lekt2805**: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫ Bei Ahmedabad [Bildquelle: m-bot. -- http://www.flickr.com/photos/72494286@N00/2127838811/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2903**: ⟪परिव्राजकाः⟫ Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt2901**: ⟪मत्स्यः⟫ ⟪रोहू⟫ ⟪मछली⟫ = _Labeo rohita_ Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-
-**lekt3001**: ⟪क्रीणन्ति⟫ ⟪विक्रीनते⟫ ⟪च⟫ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3002**: ⟪ज्ञातयः⟫ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3003**: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫ [Bildquelle: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3005**: ⟪अश्नीयात्⟫ ⟪थाली⟫, Südindien [Bildquelle: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3004**: ⟪प्रिया⟫ [Bildquelle: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt2904**: ⟪पुनर्भवः⟫ [Bildquelle: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
-**lekt3101**: ⟪योगः⟫ [Bildquelle: http://www.flickr.com/photos/wricontest/294029791/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3102**: ⟪व्यञ्जनम्⟫ Vorbereitung zum Kathakali-Tanz = കഥകളി, Kochi = കൊച്ചി [Bildquelle: winchrisabi. -- http://www.flickr.com/photos/winchrisabi/181399508/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3103**: Aus einem ⟪प्रज्ञापारमिता⟫-Manuskript [Bildquelle: zeno.org. -- gemeinfrei]
-
-**lekt3202**: ⟪चूतः⟫ ⟪कानपुर⟫, / کان پور [Bildquelle: AmarChandra / Wikipedia. -- Creative Commons Attribution ShareAlike 2.5 (Namensnennung, share alike)]
-
-**lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Bildquelle: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3204**: ⟪उपलाः⟫ "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers.They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Bildquelle: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Bearbeitung)]
-
-**lekt3207**: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫ (⟪गोमय⟫ n.: Kuhmist) Rajasthan [Bildquelle: thebigdurian. -- http://www.flickr.com/photos/thebigdurian/29862842/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3206**: ⟪कौशलम्⟫ Mehndi = ⟪मेहन्दी⟫, Mumbai = ⟪मुंबई⟫ [Bildquelle: the_gman. -- http://www.flickr.com/photos/thegman/2860162252/. -- Zugriff am 2008-12-25. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3306**: ⟪दानम्⟫ "On August 20th, 2005 in Chennai, India my soon to be in-laws gave us a formal Indian engagement party. It looks like it was a wedding but it wasn't, it's how they do things. Very extravagate. This event was a huge blessing for me. I have never felt so love by another family. I only wish my family could have been there but at least I have a video of the whole thing to share. My soon to be in-laws made the whole thing happen in 3 days. Everything between invitations to a hired photographer. It was fantastic, beyond words can explain the emotions flowing." [Quelle von Bild und Text: coral11. -- http://www.flickr.com/photos/coral/36326932/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt3307**: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभर्ति⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: gscottie8. -- http://www.flickr.com/photos/gscottie/2152543713/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3305**: ⟪समाधि⟫ ⟪योगिनी⟫, Kaveripakkam = காவேரிப்பாக்கம், Tamil Nadu, 10. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense]
-
-**lekt3304**: ⟪भयम्⟫ Mumbai = ⟪मुंबई⟫, 2008 [Bildquelle: sameer5678in. -- http://www.flickr.com/photos/guptasameer/3080350405/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt3303**: ⟪हीनयानमेव⟫ Thailand [Bildquelle: grrrrl. -- http://www.flickr.com/photos/11619899@N00/867938692/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ im Shiva ashram, Kothavala, Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Zugriff am 2008-12-26. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3308**: ⟪घृतम्⟫ [Bildquelle: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
-
-**lekt3406**: ⟪सस्यम्⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3405**: ⟪लक्षद्वीपाः⟫ = ലക്ഷദ്വീപ് = die 100.000 (⟪लक्ष⟫ m.n.) Inseln (Unionsterritorium) [Bildquelle: CIA. Public domain]
-
-**lekt3403**: ⟪तिलाः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt3404**: ⟪तिलाः⟫ [Bildquelle: Franz Xaver / Wikipedia. GNU FDLicense]
-
-**lekt3402**: ⟪स्वर्णम्⟫ Harmandir Sahib = ਹਰਿਮੰਦਰ ਸਾਹਿಬ, Amritsar = ਅੰਮ੍ਰਿਤසር [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3401**: ⟪ऋषभः⟫ Chamundi-Hills [Bildquelle: Luna Park. -- http://www.flickr.com/photos/lunapark/2124083737/. -- Zugriff am 2008-12-27. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3502**: ⟪क्रामन्ति⟫ [Bildquelle: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2182732473/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3501**: ⟪जगुः⟫ Kaadu Malleswara Temple, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: Samuelraj @. -- http://www.flickr.com/photos/samuelraj/2946969732/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3601**: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Bildquelle: whitecat singapore. -- http://www.flickr.com/photos/whitecatsg/2530543213/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3602**: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Bildquelle: bartvanpoll. -- http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, shere alike)]
-
-**lekt3603**: ⟪अनगार्यम्⟫ Nordostthailand = อีสาน [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/298555436/. -- Zugriff am 2008-12-28. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3606**: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫ ⟪भूमीस्पर्शमुद्रा⟫ [Bildquelle: Payer]
-
-**lekt3604**: ⟪लोमहर्षः⟫ (⟪लोमन्⟫ n. Körperhaar) [Bildquelle: Socceraholic. -- http://www.flickr.com/photos/7amanito/2995353459/. -- Zugriff am 2008-12-29. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3705**: ⟪शाक्यमुनिः⟫ Hussain Sagar = హుస్సేన్ సాగర్, Hyderabad = హైదరాబాద్ [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt3706**: ⟪वृक्षः⟫ ⟪जयपुर⟫ [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3802**: ⟪सूर्यः⟫ ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ [Bildquelle: PriyadarshiC. -- http://www.flickr.com/photos/2kool/421985480/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3805**: ⟪उदकम्⟫ Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy, World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555779241/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3804**: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫ Gandhara, 2./3. Jhdt. n. Chr. [Bildquelle: Wikipedia. Public domain]
-
-**lekt3809**: ⟪ब्रह्मा⟫ Halebidu = ಹಳೆಬೀಡು [Bildquelle: Wikipedia. GNU FDLicense]
-
-**lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense]
-
-**lekt3811**: ⟪अशोकः⟫ Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte [Bildquelle: Wikipedia.GNU FDLicense]
-
-**lekt3812**: ⟪विनोदः⟫ Carrom-Spiel [Bildquelle: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Zugriff am 2009-01-01. -- Creative Commons lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt3813**: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ [Bildquelle: nassio. -- http://www.flickr.com/photos/26116629@N04/2450959377/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt3814**: ⟪गणयां⟫ ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ [Bildquelle: neilhinchley. -- http://www.flickr.com/photos/neilhinchley/50518886/. -- Zugriff am 2009-01-01. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4003**: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)]
-
-**lekt4002**: ⟪तीर्थङ्करः⟫ [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4001**: ⟪विष्णोर्दशावताराः⟫ Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪प्रशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4004**: ⟪स्वपन्ति⟫ Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4105**: ⟪भुजङ्गः⟫ Banded Krait (_Bungarus fasciatus_) [Bildquelle: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-
-**lekt4104**: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫ Melken von Schlangengift (Krait), Thailand [Bildquelle: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4109**: ⟪शासना⟫ Ashoka-Edikt, Dhauli, Orissa [Bildquelle: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Zugriff am 2009-01-03. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Bildquelle: Wikipedia. Public domain]
-
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Bildquelle: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4303**: ⟪पण्यानि⟫ Jamshedpur = ⟪जमशेदपुर⟫ [Bildquelle: amrita b. -- http://www.flickr.com/photos/amrita_b/63071274/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4304**: ⟪विपणिः⟫ Haridwar = ⟪हरिद्वार⟫ [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085721947/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4305**: ⟪वणिक्⟫ Kanchipuram = காஞ்சிபுரம [Bildquelle: visio. -- http://www.flickr.com/photos/visio/421217297/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4306**: ⟪वत्सः⟫ Wasserbüffel (_Bubalus bubalis_), Mangalore = ಮಂಗಳೂರು [Bildquelle: wildxplorer. -- http://www.flickr.com/photos/krayker/2123046126/. -- Zugriff am 2009-001-06. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4307**: ⟪तोलन्ति⟫ [Bildquelle: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183198505/. -- Zugriff am 2009-01-06. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4403**: ⟪रेल्यानम्⟫ ⟪वाराणआस्याम्⟫, ⟪१९७४⟫ [Bildquelle: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4404**: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫ [Bildquelle: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4405**: ⟪नन्दी⟫ Kodagu = ಕೊಡಗು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4406**: ⟪आयतो⟫ ⟪मरुः⟫ ⟪थार⟫ ⟪मरुस्थल⟫ [Bildquelle: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4407**: ⟪यत्नेन⟫ Kollam = കൊല്ലം [Bildquelle: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4408**: ⟪प्रव्रज्या⟫ Thailand = ประเทศไทย [Bildquelle: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4602**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4603**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4604**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4605**: ⟪नवग्रहाः⟫ [Bildquelle der ⟪नवग्रह⟫ : Redtigerxyz / Wikipedia. GNU FDLicense]
-
-**lekt4607**: ⟪नारायणः⟫ ⟪नारायनो⟫ ⟪ऽनन्तशयी⟫, ca. 1870 (⟪अनन्त⟫ = ⟪शेष⟫ = oberster Schlangenkönig) [Bildquelle: Wikipedia. Public domain]
-
-**lekt4606**: ⟪अश्वरोहकः⟫ Pune = ⟪पुणे⟫ [Bildquelle: wili_hybrid. -- http://www.flickr.com/photos/wili/294411828/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4608**: ⟪महामात्रः⟫ ⟪उदयपुर⟫ [Bildquelle: Travel Aficionado. -- http://www.flickr.com/photos/travel_aficionado/2200003879/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4609**: ⟪श्रान्तः⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188588421/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4610**: ⟪सङ्गः⟫ Kamareddy = కామారెడ్డి [Bildquelle: Sumanth K. Garakarajula. -- http://www.flickr.com/photos/photocracy1/2864457448/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4601**: ⟪लम्बोदरः⟫ ⟪गणेशचतुर्थी⟫, Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/1397759461/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4611**: ⟪भोः⟫ Kutch = ⟪कच्छ⟫ [Bildquelle: orange tuesday. -- http://www.flickr.com/photos/63138333@N00/2162104243/. -- Zugriff am 2009-01-09. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4802**: ⟪तन्त्रम्⟫ Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- http://www.flickr.com/photos/kenmak/2083565996/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4803**: ⟪तन्त्री⟫ Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain]
-
-**lekt4804**: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫ [Self-help group (SHG)], Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2229752965/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt4805**: ⟪कुमारः⟫ Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- http://www.flickr.com/photos/cayce/108707865/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4806**: ⟪कुमारी⟫ ⟪नेपाल⟫ [Bildquelle: changhg. -- http://www.flickr.com/photos/changhg/100412648/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4807**: ⟪स्थविराः⟫ ⟪जोधपुर⟫ [Bildquelle: zz77. -- http://www.flickr.com/photos/zz77/2256414024/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4808**: ⟪सूक्ष्मम्⟫ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- http://www.flickr.com/photos/nagesh_kamath/2791791571/. -- Zugriff am 2009-01-10. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt4809**: ⟪जाया⟫ [Bild: Payer]
-
-**lekt4901**: ⟪कुलूहलम्⟫ [Bildquelle: younee. -- http://www.flickr.com/photos/younee/1708474353/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt4902**: ⟪कला⟫ ⟪शिवो⟫ ⟪नटराजा⟫, 11. Jhdt. [Bildquelle: Vassil / Wikipedia. Public domain]
-
-**lekt4903**: ⟪विहंगः⟫ [Bildquelle: Toji Leon. -- http://www.flickr.com/photos/tojileon/295384395/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt4909**: ⟪पञ्जरम्⟫ Wahrsager mit Papagei in Käfig: der Papagei zieht Zettelchen, auf denen das Schicksal steht. Mysore. [Bildquelle: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰಿತਸਰ [Bildquelle: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Bildquelle: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Zugriff am 2009-01-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5005**: ⟪आदित्यः⟫ [Bildquelle: sunder_iyer. -- http://www.flickr.com/photos/sunder_iyer/2225272284/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, share alike)]
-
-**lekt5003**: ⟪कल्याणी⟫ [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/131433199/. -- Zugriff am 2009-01-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5004**: ⟪कुनगरम्⟫ ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense]
-
-**lekt5105**: ⟪कृष्णमृगः⟫ Hirschziegenantilope -- _Antilope cervicapra_ L., Bock [Bildquelle: Wikipedia, public domain]
-
-**lekt5106**: ⟪ऋतुः⟫ "Graphische Darstellung für die Berechnung der fruchtbaren Tage nach OGINO bei 26- bis 30tägigen Zyklusintervallen... [Quelle für Text und Bild: Roche Lexikon Medizin. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Zugriff am 2003-12-16]
-
-**lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Bildquelle: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5108**: ⟪पिशितम्⟫ Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. -- http://www.flickr.com/photos/keep-on-moving/2994878670/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5109**: ⟪मधु⟫ City Palace, ⟪उदयपुर⟫ [Bildquelle: abrinsky. -- http://www.flickr.com/photos/abrinsky/457940260/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5110**: ⟪मृगया⟫ Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain]
-
-**lekt5111**: ⟪शिवा⟫ _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- http://www.flickr.com/photos/gautamnguitar/2181211040/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5112**: ⟪कौशिकः⟫ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2790757825/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Quelle von Bild und Text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
-
-**lekt5116**: ⟪भुजङ्गः⟫ Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- http://www.flickr.com/photos/teemus/455664680/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5118**: ⟪मणिः⟫ Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
-
-**lekt5117**: ⟪मदः⟫ [Bildquelle: muzina_shanghai. -- http://www.flickr.com/photos/muzina_shanghai/2408592293/. -- Zugriff am 2009-01-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5210**: ⟪खिलः⟫ Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- http://www.flickr.com/photos/wricontest/291696431/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5212**: ⟪पीडिताः⟫ Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- http://www.flickr.com/photos/dawilson/2912554387/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5213**: ⟪प्रधानः⟫ ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- http://www.flickr.com/photos/saibotregeel/330885607/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
-
-**lekt5214**: ⟪चक्रम्⟫ Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- http://www.flickr.com/photos/gaurabarka/2758427709/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
-
-**lekt5208**: ⟪कदली⟫ Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- http://www.flickr.com/photos/oliverhiltbrunner/757794766/. -- Zugriff am 2009-01-15. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-
-**lekt5215**: ⟪मलम्⟫ ⟪मुंबई⟫ [Bildquelle: James Cridland. -- http://www.flickr.com/photos/jamescridland/187997905/. -- Zugriff am 2009-01-16. -- Creative Commons Lizenz (Namensnennung)]
-
-**lekt5217**: Māras Angriff auf Buddha Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense]
 

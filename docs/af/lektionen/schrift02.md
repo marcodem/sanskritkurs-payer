@@ -1,17 +1,17 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Schriftübung 2
+## Skriftoefening 2
 
 ![](/images/schrift004.webp)
 
 ## Oefening
 
-A) Schreiben Sie in Devanāgarī:
+A) Skryf in Devanāgarī:
 
 jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā gajo gai gopī ḍāka ḍoḍa dadṛt bako baṭuko bad
 
-B) Lesen und transliterieren Sie:
+B) Lees en transliterateer:
 
-⟪गजो⟫ ⟪गति⟫ ⟪जपति⟫ ⟪डप्⟫ ⟪दा⟫ ⟪ददाति⟫ ⟪जगती⟫ ⟪जटा⟫ ⟪जड⟫ ⟪बीज⟫ ⟪बृबु⟫ ⟪चिद्⟫ ⟪कदा⟫ ⟪तदा⟫ ⟪दीपितो⟫ ⟪जजति⟫
+⟪गजो गति जपति डप् दा ददाति जगती जटा जड बीज बृबु चिद् कदा तदा दीपितो जजति⟫
 
 

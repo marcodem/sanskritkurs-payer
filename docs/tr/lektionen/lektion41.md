@@ -62,7 +62,7 @@ Zayıf Şimdiki Zaman Kökü (3.pl.Ā son eki -ate'den önceki haliyle) + -āna 
 | Kök / Sınıf | Şimdiki Zaman Ortacı Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
-| ⟪हु⟫ 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| ⟪हु⟫ 3P | ⟪जुह्वान⟫:brju-hu + āna |
 | ⟪सु⟫ 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | ⟪रुध्⟫ 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |

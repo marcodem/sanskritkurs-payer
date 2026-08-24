@@ -1,17 +1,15 @@
 ---
 title: "Oefening 39"
 uebung_id: 39
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 39
 
-# Oefening 39
-
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Vorm vir die volgende werkwoordvorme die eerste-persoonvorme wat daarmee ooreenstem in getal, tyd, stemming (aangewese, wensende) en stem (werkende, lydende, weerkerende):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 3de persoon | 1ste persoon |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -105,7 +103,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Fig.: ⟪आगारे सीदामः⟫
+(Bron: [Details](/licenses#uebung064))
 :::
 

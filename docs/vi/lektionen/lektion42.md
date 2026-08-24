@@ -1,39 +1,40 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: "[Bài 42]"
+subtitle: "[Stem kết thúc bằng -ṛ]"
 lesson_id: 42
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 42
+# Bài 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. Các gốc từ kết thúc bằng -ṛ
 
-### 42.1.1. Stämme mit Dehnstufe im starken Stamm
+### 42.1.1. Các gốc từ có bậc dài ở dạng mạnh
 
 ::: grammar-box
-Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen:
+Tất cả các giống đực kết thúc bằng -ṛ, ngoại trừ các danh từ chỉ quan hệ thân thuộc được liệt kê ở mục 1.3. Dưới đây cũng bao gồm các danh từ chỉ quan hệ thân thuộc:
 
-*   ⟪नप्तृ⟫ m. "Enkel"
-*   ⟪भर्तृ⟫ m. "Gatte (wörtl. Erhalter)"
+*   ⟪नप्तृ⟫ giống đực "cháu trai"
+*   ⟪भर्तृ⟫ giống đực "chồng (nghĩa đen: người nuôi dưỡng)"
 
-Den Grossteil der hierhergehörigen Nomina bilden Nomina agentis auf das ⟪कृत्⟫-Suffix -⟪तृ⟫.
+Phần lớn các danh từ thuộc nhóm này là các danh từ chỉ tác nhân với hậu tố ⟪कृत्⟫ -⟪तृ⟫.
 
-**Bildung:**
+**Cách hình thành:**
 
-*   **Starker Stamm: -ār**
-*   **Schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **Gốc mạnh: -ār**
+*   **Gốc yếu**
+*   **trước nguyên âm: -r**
+*   **trước phụ âm: -ṛ**
 
-Beachten Sie die unregelmässigen Bildungen (durch **rot** gekennzeichnet)!
+Lưu ý các hình thành bất quy tắc (được đánh dấu bằng chữ **màu đỏ**)!
 :::
-Maskulinum:
+Giống đực:
 
 ::: indent
-⟪दातृ⟫ m. "Geber"
+⟪दातृ⟫ giống đực "người cho"
 :::
 ::: grammar-box
 
@@ -48,43 +49,43 @@ Maskulinum:
 | ⟪सप्तमी⟫ | :sig[⟪दातरि⟫] | ⟪दातृषु⟫ |
 
 :::
-Zur Erklärung der unregelmässigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81
+Để giải thích các hình thành bất quy tắc, xem Thumb-Hauschild I,2 tr. 76 -81
 
-Femininum:
+Giống cái:
 
 ::: indent
-⟪स्वसृ⟫ f. wird wie ⟪दातृ⟫ dekliniert mit Ausnahme des Akkusativ (⟪द्वितीया⟫) Plural: :sig[⟪स्वसॄस्⟫].
+⟪स्वसृ⟫ giống cái được biến cách như ⟪दातृ⟫ ngoại trừ cách accusative số nhiều (⟪द्वितीया⟫): :sig[⟪स्वसॄस्⟫].
 :::
-### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
+### 42.1.2. Hình thành danh từ: hậu tố ⟪कृत्⟫ -⟪तृ⟫
 
 ::: grammar-box
-Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet man Nomina agentis (Bezeichnungen für den ⟪कर्तृ⟫) zu fast jeder Wurzel bzw. Kausativstamm.
+Với hậu tố ⟪कृत्⟫ -⟪तृ⟫ rất phổ biến, người ta hình thành các danh từ chỉ tác nhân (danh từ chỉ ⟪कर्तृ⟫) cho hầu hết mọi gốc động từ hoặc gốc causative.
 
-**Bildung:**
+**Cách hình thành:**
 
-*   **hochstufige Wurzel + -tṛ**
+*   **Gốc động từ bậc cao + -tṛ**
 
-oder
+hoặc
 
-*   **hochstufige Wurzel / Kausativstamm + i + tṛ**
+*   **gốc cao cấp / gốc nhân quả + i + tṛ**
 :::
-Beispiele:
+Ví dụ:
 
 ::: indent
-⟪कर्तृ⟫ m. "Täter"
+⟪कर्तृ⟫ m. "người thực hiện"
 
-⟪जेतृ⟫ m. "Sieger"
+⟪जेतृ⟫ m. "người chiến thắng"
 
-⟪धातृ⟫ m. "Schöpfer"
+⟪धातृ⟫ m. "người sáng tạo"
 
-⟪रक्षितृ⟫ m. "Beschützer"
+⟪रक्षितृ⟫ m. "người bảo vệ"
 
-⟪बोधयितृ⟫ m. "Wecker"
+⟪बोधयितृ⟫ m. "người đánh thức"
 :::
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
-Abb.: ⟪अयं⟫ ⟪बोधयिता⟫
-(Bildquelle: [Details](/licenses#lekt4201))
+Abb.: ⟪अयं बोधयिता⟫
+(Bildquelle: [Details](/vi/licenses#lekt4201))
 :::
 
 ::: grammar-box
@@ -94,10 +95,10 @@ Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫
 
 z.B. ⟪कर्त्री⟫ f. "Täterin"
 :::
-### 42.1.3. Stämme mit Hochstufe im starken Stamm
+>> ### 42.1.3. Stämme mit Hochstufe im starken Stamm
 
 ::: grammar-box
-Dazu gehören folgende Verwandtschaftsbezeichnungen:
+>> Dazu gehören folgende Verwandtschaftsbezeichnungen:
 
 *   ⟪पितृ⟫ m. "Vater"
 *   ⟪मातृ⟫ f. "Mutter"
@@ -111,8 +112,8 @@ Dazu gehören folgende Verwandtschaftsbezeichnungen:
 
 *   **starker Stamm: -ar**
 *   **schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **vor Vokal: -r**
+*   **vor Konsonant: -ṛ**
 :::
 Beispiele:
 
@@ -135,66 +136,64 @@ Beispiele:
 ::: grammar-box
 Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h.
 
-*   **vor Konsonant: -ṛ**
-*   **vor Vokal: -r**
+*   **trước phụ âm: -ṛ**
+*   **trước nguyên âm: -r**
 :::
-## 42.2. Wortliste
+## 42.2. Danh sách từ vựng
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff
+⟪प्रकृति⟫ f.: (từ ⟪कृ⟫ + ⟪प्र⟫) hình thái cơ bản, trạng thái tự nhiên, bản chất; vật chất nguyên thủy, nguyên liệu gốc
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414)
+⟪अर्जुन⟫ m. Danh từ riêng: Arjuna, một trong năm người con trai của ⟪पण्डु⟫. Anh hùng trong ⟪महाभारत⟫ (xem Basham, Wonder tr. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : từ bỏ, rút lui, tránh xa, ở lại, đứng yên
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3: đang đứng, hiện diện
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ Trạng từ: một lần, trước đây
 
-⟪अनेक⟫ 3: viele (nicht einige)
+⟪अनेक⟫ 3: nhiều (không phải một vài)
 
-⟪कुमार⟫ m.: Prinz
+⟪कुमार⟫ m.: Hoàng tử
 
-⟪दूत⟫ m.: Bote, Gesandter
+⟪दूत⟫ m.: Sứ giả, đặc sứ
 
-⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : senden
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : gửi đi
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart
+⟪सकाश⟫ m.: Sự hiện diện, sự có mặt
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ m.: Thân tên, mũi tên
 
-⟪बाण⟫ m.: Pfeil, Ziel
+⟪बाण⟫ m.: Mũi tên, mục tiêu
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : chấp thuận, hứa hẹn; Ā: trả lời, xác nhận, khẳng định, thừa nhận
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
+⟪चल्⟫ 1P ⟪चलति⟫ : bắt đầu chuyển động
 
 ::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+Kaus. ⟪चलयति । चालयति⟫  
 PPP ⟪चलित⟫  
 Absol. -⟪चल्य⟫  
 Inf. ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫
+⟪अधिपति⟫ m. = ⟪राजन् आटोप⟫ m.: Sự phù phiếm, kiêu ngạo
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz
+⟪चिन्तापर⟫ 3: đắm chìm trong suy nghĩ
 
-⟪चिन्तापर⟫ 3: gedankenversunken
+⟪अन्तरे⟫ Trạng từ: trong lúc đó
 
-⟪अन्तरे⟫ Adv.: inzwischen
+⟪लीला⟫ f.:  Trò đùa, trò chơi
 
-⟪लीला⟫ f.:  Scherz, Spiel
+⟪यावत्⟫ Trạng từ:  bao lâu, trong khi
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪तावत्⟫ Trạng từ: chừng nào
 
-⟪तावत्⟫ Adv.: so lange
+⟪द्विधा । द्वेधा⟫ Trạng từ: hai lần, theo hai phần
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
-
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
+⟪शंस्⟫ 1P ⟪शंसति⟫ : ca ngợi, ra lệnh
 
 ::: indent
 Fut. ⟪शंसिष्यति⟫  
@@ -202,166 +201,138 @@ Perf. I ⟪शशंस⟫
 Pass. ⟪शस्यते⟫  
 Kaus. ⟪शंसयति⟫  
 PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+Absol. ⟪शसित्वा । शस्त्वा⟫  
 Inf. ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz
+⟪हृदय⟫ n.: Trái tim
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. Một số thuật ngữ chỉ quan hệ thân thuộc
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ m. (từ ⟪भृ⟫ "mang, duy trì"): Người nuôi dưỡng, người cung cấp, chồng
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Vợ (⟪भार्या⟫ = Gerundiv của ⟪भृ⟫ : người cần được mang theo, người cần được duy trì, người có quyền nhận trợ cấp)
 
-⟪पितृ⟫ m.: Vater
+⟪पितृ⟫ m.: Cha
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪पितृ⟫ m. Số nhiều: những tổ tiên nam đã khuất, tức là
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+1. Cha, ông cố, cụ nội
+2. Những tổ tiên của nhân loại
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+Cả hai đều được thực hiện các nghi lễ, gọi là ⟪श्राद्ध⟫ n. Hàng ngày, người ta dâng nước và vào những dịp nhất định là xôi hoặc bánh bột (⟪पिण्ड⟫ m. "bánh nhỏ") cho ba tổ tiên nam (theo dòng cha và dòng mẹ). Như vậy, các tổ tiên sẽ nhận được thức ăn. Việc thực hiện nghi lễ này là một lý do tại sao người đàn ông nên sinh con trai. Những người được liên kết qua ⟪पिण्ड⟫-này được gọi là ⟪सपिण्ड⟫ (những người mà ⟪पिण्ड⟫ là chung). ⟪सपिण्ड⟫ bao gồm sáu thế hệ: ba ngược lên (đến cụ nội) và ba xuôi xuống (đến chắt).
 
-⟪तात⟫ m.: Papa
+⟪तात⟫ m.: Bố
 
-⟪मातृ⟫ f.: Mutter
+⟪मातृ⟫ f.: Mẹ
 
-⟪पुत्र⟫ m.:  Sohn
+⟪पुत्र⟫ m.: Con trai
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Con gái
 
-⟪नप्तृ⟫ m.: Enkel
+⟪नप्तृ⟫ m.: Cháu nội
 
-⟪भ्रातृ⟫ m.: Bruder
+⟪भ्रातृ⟫ m.: Anh/em trai
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Chị/em gái
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪देवृ⟫ m.: Anh/em trai của chồng (em rể)
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪यातृ⟫ m.: Vợ của anh/em trai chồng
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ f.: Chị/em gái của chồng
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪श्वसुर⟫ f.: Bố vợ (xưa kia: chỉ của vợ)
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪श्वस्रू⟫ f.: Mẹ vợ (cách chia tiếp theo sẽ được trình bày sau)
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪मातुल⟫ m.: Anh/em trai của mẹ (chú/bác bên ngoại)
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪मातुलानी⟫ f.: Vợ của anh/em trai mẹ (vợ chú/bác bên ngoại)
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितृव्य⟫ m.: Anh/em trai của cha (chú/bác bên nội)
 
-⟪पितामह⟫ m.: Grossvater väterlicherseits
+⟪पितामह⟫ m.: Ông nội (theo phía cha)
 
-⟪पितामही⟫ f.: Grossmutter väterlicherseits
+⟪पितामही⟫ f.: Bà nội (theo phía cha)
 
-⟪मातामह⟫ m.: Grossvater mütterlicherseits
+⟪मातामह⟫ m.: Ông ngoại (theo phía mẹ)
 
-⟪मातामही⟫ f.: Grossmutter mütterlicherseits
+⟪मातामही⟫ f.: Bà ngoại (theo phía mẹ)
 
-## 42.3. Übung
+## 42.3. Bài tập
 
-Übersetzen Sie:
+Dịch sang tiếng Việt:
 
-⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
-
-⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
+⟪प्रकृत्यैव यः कर्माणि क्रियमाणानि पश्यति स आत्मानमकर्तरं पश्यति ॥१॥ कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति ॥२॥⟫
 
 ::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
-Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Bildquelle: [Details](/licenses#lekt4203))
+Abb.: ⟪कृष्णस्तस्य लोकस्य पिता माता पितामहो धातास्ति⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4203))
 :::
-⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
+⟪आचार्याः पितरः पुत्राश्च पितामहाः श्वशुरा नप्तरो युद्धायावस्थिताः । एतान्न हन्तुमिच्छामीत्यर्जुनो भगवद्गीतायामुवाच ॥३॥⟫
 
 ::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
-Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt4204))
+Abb.: ⟪अर्जुनो रथे सीदति । कृष्णो ऽस्य रथवाहो ऽस्ति ।⟫
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4204))
 :::
-⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
+⟪कवयो लब्धपुत्रतायाः पितॄन्मातॄश्च तुष्टुवुः ॥४॥ भर्त्रा भार्या भर्तव्या । तस्माद्भार्येत्युच्यते ॥५॥ सत्पुत्रः पितृभ्यः पिण्डान्ददाति । पितृभिः पिण्डदानमश्यत एवं च सुखजीवो जीवितुं शक्यते ॥६॥ भ्रात्रा स्वसा न विवोड्धव्या । भातरि स्वसारं कामयमाने देवाः क्रुध्यन्ति ॥७॥ क्थं भर्तुर्भ्रातोच्यते । देवेति भर्तुर्भ्राता वक्तव्यः ॥८॥ नप्तॄणां लाभं पितैच्छत् ॥९॥⟫
 
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
+## 42.4. Bài tập dịch thuật
 
-⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥६॥⟫
+sig[⟪सीता⟫]⟪विवाहः पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम राजा बभूव । तस्य सुता सीता नाम । सा रूपे शीले चानुपमा बभूव । तां परिणेतुमिछ्हन्तो ऽनेके राजकुमाराः जनकाय दूतान्प्रेषयामासुः ॥⟫
 
-⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥७॥⟫
-
-⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥८॥⟫
-
-⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
-
-## 42.4. Übersetzungsübung
-
-:sig[⟪सीता⟫]⟪विवाहः⟫
-
-⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
-
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
-
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
-
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः⟫ ⟪श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪जनकस्तु तां वीर्यसम्पन्नाय क्षत्रियकुमाराय दातुमैच्छत् । अतः स तां वीर्येण क्रेतव्यामकल्पयत् । तथा हि⟫ -- ⟪तस्य सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत् । य इदं धनुरुद्धृत्यास्मिन्शरं सन्धत्ते स मम सुतां परिणेष्यतीति जनकः प्रतिजज्ञे ॥ तां तस्य प्रतिज्ञां श्रुत्वा⟫ :sig[⟪शतशो⟫] ⟪राजकुमाराः समाजग्मुः । परं नैको ऽपि तेषां तद्धनुश्चलयितुमपि शशाक ।⟫ :sig[⟪लङ्का⟫]⟪धिपती⟫ :sig[⟪रावणो⟫] ⟪ऽपि साटोपं समेत्य सलज्जं प्रतिनिवृत्त इति ज्ञायते ॥ सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य को मे दुहितुर्भर्ता भविष्यतीति चिन्तापरो बभूव जनकः । अत्रान्तरे⟫ :sig[⟪ऽयोध्या⟫]⟪धिपते⟫:sig[⟪र्दशरथस्य⟫] ⟪पुत्रः श्री⟫:sig[⟪रामः⟫] :sig[⟪सलक्ष्मणो⟫] :sig[⟪विश्वामित्रेण⟫] ⟪तत्रानीयत । श्री⟫:sig[⟪रामो⟫] ⟪महर्षेर्⟫:sig[⟪विश्वामित्र⟫]⟪स्य वचनेन लीलयैव तद्धनुरुद्धृत्य यावत्तस्मिन्बाणमारोपयति तावत्तद्धनुर्द्वेधा भग्नं बभूव ॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
-Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Bildquelle: [Details](/licenses#lekt4208))
+Abb.: ⟪धनुर्द्वेधा भग्नं बभूव⟫
+(Bildquelle: [Details](/vi/licenses#lekt4208))
 :::
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
-
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪साधु साध्विति श्रीरामस्य वीर्यं प्रशशंसुर्जनाः ॥ जनकस्य राज्ञो हृदयं प्रहृष्टं बभूव । ततः स दशरथादीनानाय्य महता विभवेन⟫ :sig[⟪सीतारामयोर्वि⟫]⟪वाहोत्सवं निरवर्तयन् ॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der **rot** hervorgehobenen Ausdrücke:
+Giải thích các từ ngữ được làm nổi bật **màu đỏ**:
 
-⟪सीता⟫ f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: ⟪सीता⟫ f. "Ackerfurche"
+⟪सीता⟫ f. Danh từ riêng: Con gái của vua ⟪जनक⟫ từ ⟪विदेह⟫. Bà đã xuất hiện từ lòng đất khi vị vua kia đang cày ruộng, do đó tên của bà là: ⟪सीता⟫ f. "Luống cày"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Abb.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Bildquelle: [Details](/licenses#lekt4205))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4205))
 :::
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫
+⟪मिथिला⟫ f. Tên riêng: Thủ đô của ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Bildquelle: [Details](/licenses#lekt4206))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4206))
 :::
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫
+⟪जनक⟫ m. Tên riêng: Vua của ⟪विदेह गुरुतर⟫ 3: So sánh hơn của ⟪गुरु⟫ 3: nặng, rất nặng
 
-⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
+⟪धनुस्⟫ Danh từ số ít cách chủ ngữ/tân ngữ trung tính thuộc ⟪धनुस्⟫ n. "Cung"
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Bogen"
+⟪शतशस्⟫ Trạng từ: hàng trăm
 
-⟪शतशस्⟫ Adv.: zu hunderten
+⟪लङ्का⟫ f. Tên riêng: được xác định với Sri Lanka ngày nay (ශ්‍රී ලංකාව / இலங்கை)
 
-⟪लङ्का⟫ f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert
-
-⟪रावण⟫ m. Eigennamen; Herrscher von ⟪लङ्का⟫, Herrscher der ⟪राक्षस⟫.
+⟪रावण⟫ m. Tên riêng; Thống trị của ⟪लङ्का⟫, Thống trị của ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt4207))
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt4207))
 :::
-⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!)
+⟪अयोध्या⟫ f. Tên riêng: Thủ đô của ⟪कोसल⟫ (xem bản đồ ở trên!)
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫
+⟪दशरथ⟫ m. Tên riêng: Vua của ⟪कोसल राम⟫ m. Tên riêng: Con trai của ⟪दशरथ लक्ष्मन⟫ m. Tên riêng: Con trai của ⟪दशरथ विश्वामित्र⟫ m. Tên riêng: ⟪ऋषि⟫, đã cùng với ⟪राम⟫ và ⟪लक्ष्मन⟫ ra đi để giết quỷ; vì vậy cả hai nhận được vũ khí phép thuật từ anh ta.
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫
-
-⟪विश्वामित्र⟫ m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen.
-
-⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Số ít cách sở hữu/cách địa lý thuộc ⟪सीताराम⟫
 

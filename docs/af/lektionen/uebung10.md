@@ -1,14 +1,15 @@
 ---
 title: "Oefening 10"
 uebung_id: 10
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 10
 
-A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform), d.h. das Passiv, das der Verbform in Person und Zahl entspricht:
+A) Vorm die passief van die volgende werkwoordvorms (met vertaling van die werkwoordvorm), d.w.s. die passief wat by die werkwoordvorm in persoon en getal pas:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -18,7 +19,7 @@ A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform)
 6. nayanti ⟪नयन्ति⟫ : nīyante ⟪नीयन्ते⟫
 7. smarati ⟪स्मरति⟫ : smaryate ⟪स्मर्यते⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : śrūyante ⟪श्रूयन्ते⟫
-9. pāśyati ⟪पश्यति⟫ (Passiv wird von dṛś gebildet!) : dṛśyate ⟪दृश्यते⟫
+9. pāśyati ⟪पश्यति⟫ (Passief word van dṛś gevorm!) : dṛśyate ⟪दृश्यते⟫
 10. jayanti ⟪जयन्ति⟫ : jīyante ⟪जीयन्ते⟫
 11. kurvate ⟪कुर्वते⟫ : kriyante ⟪क्रियन्ते⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : āpyante ⟪आप्यन्ते⟫
@@ -31,295 +32,289 @@ A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform)
 19. rakṣanti ⟪रक्षन्ति⟫ : rakṣyante ⟪रक्ष्यन्ते⟫
 20. vadanti ⟪वदन्ति⟫ : udyante ⟪उद्यन्ते⟫
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
-22. tanvanti ⟪तन्वन्ति⟫ (2 Formen!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
+22. tanvanti ⟪तन्वन्ति⟫ (2 vorms!) : tanyante / tāyante ⟪तन्यन्ते तायन्ते⟫
 
-B) Bilden Sie den Instrumentalis singular und plural zu allen bisher gelernten Nomina
+B) Vorm die instrumentalis enkelvoud en meervoud vir alle tot dusver geleerde selfstandige naamwoorde
 
-C) Setzen Sie folgende Sätze ins Passiv und übersetzen Sie sie:
+C) Plaas die volgende sinne in die passief en vertaal hulle:
 
-1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
+1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो देवीं यजति⟫
 
 brāhmaṇena devījyate.
 
-⟪ब्राह्मणेन⟫ ⟪देवीज्यते⟫ ⟪।⟫
+⟪ब्राह्मणेन देवीज्यते ।⟫
 
-2\. sādhuḥ svargaṃ gacchati. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
+2\. sādhuḥ svargaṃ gacchati. ⟪साधुः स्वर्गं गच्छति⟫
 
 sādhunā svargaṃ / svargo gamyate.
 
-⟪साधुना⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪साधुना स्वर्गं गम्यते ।⟫
 
-3\. śūdraṃ jayati. ⟪शूद्रं⟫ ⟪जयति⟫
+3\. Hyê die Sûdra oorwin. ⟪शूद्रं जयति⟫
 
 śūdro jīyate.
 
-⟪शूद्रो⟫ ⟪जीयते⟫ ⟪।⟫
+⟪शूद्रो जीयते ।⟫
 
-4\. guruḥ phalāni khādati. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
+4\. Die goeroe eet die vrugte. ⟪गुरुः फलानि खादति⟫
 
 guruṇā phalāni khādyante.
 
-⟪गुरुना⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
+⟪गुरुना फलानि खाद्यन्ते ।⟫
 
-5\. gurūñchṛṇoti. ⟪गुरूञ्छृणोति⟫
+5\. Hyê goeroes luister. ⟪गुरूञ्छृणोति⟫
 
 guravaḥ śrūyante.
 
-⟪गुरवः⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+⟪गुरवः श्रूयन्ते ।⟫
 
-6\. ko 'gniṃ paśyati. ⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫
+6\. Wie sien die vuur? ⟪को ऽग्निं पश्यति⟫
 
 kenāgnir dṛśyate.
 
-⟪केनाग्निर्दृश्यते⟫ ⟪।⟫
+⟪केनाग्निर्दृश्यते ।⟫
 
-7\. ayaṃ kavirmantraṃ smarati. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
+7\. Hierdie wysman onthou die mantra. ⟪अयं कविर्मन्त्रं स्मरति⟫
 
 anena kavinā mantraḥ smaryate.
 
-⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मर्यते⟫ ⟪।⟫
+⟪अनेन कविना मन्त्रः स्मर्यते ।⟫
 
-8\. iyaṃ devī kṣatriyā rakṣati. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
+8\. Hierdie godin, 'n Ksatriya-vrou, beskerm. ⟪इयं देवी क्त्रिया रक्षति⟫
 
 anayā devyā kṣatriyā rakṣyante.
 
-⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्ष्यन्ते⟫ ⟪।⟫
+⟪अनया देव्या क्षत्रिया रक्ष्यन्ते ।⟫
 
-9\. kṣatriyā viṣṇuṃ yajante. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 Möglichkeiten)
+9\. Die Ksatriya-vroue offer aan Visjnoe. ⟪क्षत्रिया विष्णुं यजन्ते⟫ (2 moontlikhede)
 
-kṣatriyair viṣṇur ijyate / kṣatriyābhir viṣṇur ijyate.
+Die Ksatriya's / die Ksatriya-vroue offer aan Visjnoe.
 
-⟪क्षत्रियैर्विष्णुरिज्यते⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिज्यते⟫ ⟪।⟫
+⟪क्षत्रियैर्विष्णुरिज्यते । क्षत्रियाभिर्विष्णुरिज्यते ।⟫
 
-10\. brāhmaṇo 'gniṃ karoti. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
+10\. Die Brahmane maak die vuur. ⟪ब्राह्मणो ऽग्निं करोति⟫
 
 brāhmaṇenāgniḥ kriyate.
 
-⟪ब्राह्मणेनाग्निः⟫ ⟪क्रियते⟫ ⟪।⟫
+⟪ब्राह्मणेनाग्निः क्रियते ।⟫
 
-11\. vaiśyā imaṃ grāmaṃ  gacchanti. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ (2 Möglichkeiten)
+11\. Die Vaisjya's gaan na hierdie dorp. ⟪वैश्या इमं ग्रामं गच्छन्ति⟫ (2 moontlikhede)
 
-vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
+Die Vaisjya's / die Vaisjya-vroue gaan na hierdie dorp / hierdie dorp word besoek.
 
-⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
+⟪वैश्यैरिमं ग्रामं गम्यते । वैश्यैरयं ग्रामो गम्यते । वैश्याभिरिमं ग्रामं गम्यते । वैश्याभिरयं ग्रामो गम्यते ।⟫
 
-Vaiśyas / Vaiśyafrauen gehen in dieses Dorf.
+Vaisjya's / Vaisjya-vroue gaan na hierdie dorp.
 
-12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+12\. Hierdie mense luister egter na hul goeroes. ⟪एते गुरूंस्तु शृण्वन्ति⟫
 
 etair guravas tu śrūyante.
 
-⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
+⟪एतैर्गुरवस्तु श्रूयन्ते ।⟫
 
-Sie hören aber auf ihre Meister.
+Hulle luister egter na hul goeroes.
 
-13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
+13\. Die regverdige een bereik die hemel. ⟪साधुः स्वर्गमाप्नोति⟫
 
 sādhunā svarga āpyate.
 
-⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
+⟪साधुना स्वर्ग आप्यते ।⟫
 
-Ein Heiliger aerlangt den Himmel.
+'n Heilige verkryg die hemel.
 
-14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
+14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः सोमं सुन्वन्ति⟫
 
 brāhmaṇaiḥ somaḥ sūyate.
 
-⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
+⟪ब्राह्मणैः सोमः सूयते ।⟫
 
-Brahmanen pressen Soma.
+Brahmane pers Soma.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
 paśavo labhyante.
 
-⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
+⟪पशवो लभ्यन्ते ।⟫
 
-Man bekommt Haustiere.
+Mens kry diere.
 
-16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
+16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के योधाः क्षत्रियैः सह युध्यन्ते⟫
 
 kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
-⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪॥⟫
+⟪कैर्योधैः क्षत्रियैः सह युध्यते ॥⟫
 
-Welche Soldaten kämpfen (zusammen) mit den Kṣatriyas?
+Watter sold veg (saam) met die Kṣatriyas?
 
-D) Übersetzen Sie ins Sanskrit:
+D) Vertaal na Sanskrit:
 
-1\. Ein Brahmane geht mit einem Vaiśya ins Dorf.
+1\. 'n Brahmane gaan saam met 'n Vaiśya na die dorp.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
-⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+⟪ब्राह्मणो वैश्येन सह ग्रामं गच्छति ।⟫
 
-2\. Er verehrt Viṣṇu mit einem Opfer. (Opfer yajña ausdrücken!)
+2\. Hy aanbid Viṣṇu met 'n offer. (Offer yajña uitdruk!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
-⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
+⟪यज्ञेन विष्णुं यजति⟫ / ⟪यजते ।⟫
 
-3\. Der Veda wird śruti genannt. (vad)
+3\. Die Veda word śruti genoem. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
-⟪वेदः⟫ ⟪श्रुतिरित्युद्यते⟫ ⟪।⟫
+⟪वेदः श्रुतिरित्युद्यते ।⟫
 
-4\. Man spannt die Webkette auf. (2 Möglichkeiten)
+4\. Mens span die weefketting op. (2 moontlikhede)
 
 tantraṃ tanyate / tāyate / tanvanti.
 
-⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
+⟪तन्त्रं तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति ।⟫
 
-5\. Lehrer fragen. (Passivkonstruktion)
+5\. Onderwysers vra. (Passiewe konstruksie)
 
 gurubhiḥ pṛcchyate.
 
-⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
+⟪गुरुभिः प्र्च्छ्यते ।⟫
 
-6\. Das Auge führt. (Passivkonstruktion) (Auge und Ohr werden sonst normalerweise im Dual verwendet)
+6\. Die oog lei. (Passiewe konstruksie) (Oog en oor word andersins gewoonlik in die dual gebruik)
 
 netreṇa nīyate.
 
-⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
+⟪नेत्रेण नीयते ।⟫
 
-7\. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
+7\. Die digter sien 'n godheid. (Passiewe konstruksie)
 
 kavinā devatā dṛśyate.
 
-⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
+⟪कविना देवता दृश्यते ।⟫
 
-8\. Wer (fem.) hütet das Mädchen? (Passivkonstruktion)
-
+8\. Wie (vroulik) versorg die meisie? (Passiewe konstruksie)
 kayā bālā rakṣyate.
 
-⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
+⟪कया बाला रक्ष्यते ।⟫
 
-9\. Der Kṣatriya verehr den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort yajña zu verwenden)
+9\. Die Kṣatriya aanbid die HERE met 'n offer. (Passiewe konstruksie, sonder om die woord yajña te gebruik)
 
 kṣatriyeṇeśvara ijyate.
 
-⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
+⟪क्षत्रियेनेश्वर इज्यते ।⟫
 
-10\. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
+10\. Deur vrygewigheid bereik 'n volgeling van die Boeddha 'n hemel.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
-⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
+⟪दानेन श्रावकः स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते ।⟫
 
 ::: media
 ![](/images/uebung011.webp)
-Abb.: ⟪ग्रामः⟫
-(Bildquelle: [Details](/licenses#uebung011))
+Figuur: ⟪ग्रामः⟫
+(Beeldbron: [Besonderhede](/licenses#uebung011))
 :::
 ---
 
-## Leseübung
+## Leesoefening
 
-Lesen und übersetzen Sie und setzen Sie ins Passiv:
+Lees, vertaal en verander in die passiewe stem:
 
-⟪क⟫
+⟪क १⟫.
+&gt; ⟪मक्सिका व्रणमिच्छन्ति⟫
+&gt; ⟪धनमिच्छन्ति पार्थिवाः⟫ |
+&gt; ⟪नीचाः कलहमिच्छन्ति⟫
+&gt; ⟪शान्तिमिच्छन्ति साधवः⟫ ||
+\&gt;
+&gt; ⟪मक्षिकाभिर्व्रण इष्यते⟫
+&gt; ⟪धनमिष्यते पार्थिवैः ।⟫
+&gt; ⟪नीचैः कलह इष्यते⟫
+&gt; ⟪शान्तिरिष्यते साध⟫u⟪भिः ॥⟫
 
-⟪१⟫.
-> ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
-> ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
-> ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
-> ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ||
->
-> ⟪मक्षिकाभिर्व्रण⟫ ⟪इष्यते⟫
-> ⟪धनमिष्यते⟫ ⟪पार्थिवैः⟫ ⟪।⟫
-> ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
-> ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
+'n Vlieg smag na 'n wond,
+Koninge smag na rykdom,
+Die goddeloses smag na twis,
+Heiliges smag na vrede.
 
-Fliegen wünschen sich eine Wunde,
-Könige wünschen sich Reichtum,
-Niederträchtige wünschen Streit,
-Frieden wünschen Heilige.
+⟪२⟫. ⟪नरान्सृजति देवः⟫ |
+⟪नरा देवैः सृज्यन्ते ।⟫
+Die gode skep die mensdom.
 
-⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
-⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
-Die Götter erschaffen die Menschen.
+⟪३⟫. ⟪कवयो धनं लुभ्यन्ति⟫ |
+⟪कविभिर्धनं लभ्यते ।⟫
+Digters smag na rykdom.
 
-⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
-⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
-Dichter begehren Reichtum.
-
-⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
-⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Der vedische Weise sieht die vedischen Lieder.
+⟪४⟫. ⟪ऋषिः सूक्तानि पश्यति⟫ |
+⟪ऋषिणा सूक्तानि दृश्यन्ते ।⟫
+Die Vediese wyse aanskou die Vediese hymne.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
-⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
-Der vedische Weise opfert Viṣṇu.
+⟪विष्णुरृषिणेज्यते ।⟫
+Die Vediese wyse bring offers aan Viṣṇu.
 
-⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
-⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Er sieht Meister und Schüler.
+⟪६⟫. ⟪गुरूञ्शिष्यांश्च पश्यति⟫ |
+⟪गुरवः शिष्याश्च दृश्यन्ते ।⟫
+Hy sien die meester en die dissipel.
 
-⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
-⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
-Sie erlangen den Himmel.
+⟪७⟫. ⟪स्वर्गं लभन्ते⟫ |
+⟪स्वर्गो लभ्यते ।⟫
+Hulle bereik die hemel.
 
-⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
-⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Dort begrüsst ein vedischer Weiser die Sonne.
+⟪८⟫. ⟪अत्रर्षिर्भानुं वन्दते⟫ |
+⟪अत्रर्षिणा भानुर्वन्स्यते ।⟫
+Daar groet 'n Vediese wyse die son.
+⟪९⟫. ⟪ग्रामं गच्छन्ति⟫ |
+⟪ग्रामं गम्यते । ग्रामो गम्यते ।⟫
+Hulle gaan in die dorp in.
 
-⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Sie gehen ins Dorf.
+⟪१०⟫. ⟪दानानि वर्षन्ति नृपाः⟫ ||
+⟪दानानि वृष्यन्ते नृपैः ॥⟫
+Konings oorstroom die mense met geskenke.
 
-⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
-⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
-Könige lassen Geschenke regnen.
+⟪ख १⟫. ⟪सदा देवान्स्मरन्ति⟫ |
+⟪सदा देवाः स्मर्यन्ते।⟫
+Hulle hou voortdurend die gode in gedagte.
 
-⟪ख⟫
+⟪२⟫. ⟪ऋषिभी रामो वसति⟫ |
+⟪ऋषिभिः सह रामेणोष्यते ।⟫
+Rāma woon onder die Vediese wyse manne.
 
-⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
-⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Sie vergegenwärtigen sich stets die Götter.
+⟪३⟫. ⟪हरिं क्षीरेण यजति⟫ |
+⟪हरिः क्षीरेणेज्यते ।⟫
+Hy aanbid Hari met 'n melk-offering.
 
-⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
-⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
-Rāma wohnt bei den vedischen Weisen.
+⟪४⟫. ⟪मार्गेण ग्रामं गच्छन्ति⟫ |
+⟪मार्गेन ग्रामं गम्यते । मार्गेन ग्रामो गम्यते ।⟫
+Hulle is op pad na die dorp.
 
-⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
-⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
-Er verehrt Hari mit einem Milchopfer.
+⟪५⟫. ⟪धनेन सुखमिच्छन्ति नराः⟫ |
+⟪धनेने नरैः सुखमिष्यते ।⟫
+Mense soek geluk deur rykdom.
 
-⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
-⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Sie gehen auf dem Weg ins Dorf.
+⟪६⟫. ⟪एवं वदन्ति⟫ |
+⟪एवमुद्यते ।⟫
+So sê hulle.
 
-⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
-⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-Die Menschen wollen Glück durch Reichtum.
+⟪७⟫. ⟪शान्त्यर्षय इह शोभन्ते⟫ |
+⟪शान्त्यर्षिभिरिह शुभ्यते ।⟫
+Op aarde skyn heiliges deur hul vreedsame aard.
 
-⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
-⟪एवमुद्यते⟫ ⟪।⟫
-So sagt man.
+⟪८⟫. ⟪कपयः फलानि खादन्ति⟫ |
+⟪कपिभिः फलानि खाद्यन्ते ।⟫
+Aapies eet vrugte.
 
-⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
-⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-Auf Erden glänzen Heilige durch Friedsamkeit.
+⟪९⟫. ⟪गजो गच्छति⟫ |
+⟪गजेन गम्यते ।⟫
+Die olifant hardloop.
 
-⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
-Affen fressen Früchte.
+⟪१०⟫. ⟪हरिर्गृहं गच्छ⟫ti |
+⟪हरिणा गृहं गम्यते ।⟫
+Hari gaan huis toe.
 
-⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ |
-⟪गजेन⟫ ⟪गम्यते⟫ ⟪।⟫
-Der Elefant läuft.
-
-⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छ⟫ti |
-⟪हरिणा⟫ ⟪गृहं⟫ ⟪गम्यते⟫ ⟪।⟫
-Hari geht nachhause.
-
-⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
-⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
-Der Fuhrmann lenkt den Wagen.
+⟪११⟫. ⟪सारथी रथं नयति⟫ ||
+⟪सारथिना रथो नीयते ॥⟫
+Die wa-bestuurder stuur die wa.
 
 ::: media
 ![](/images/uebung012.webp)
-Abb.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
-(Bildquelle: [Details](/licenses#uebung012))
+Fig.: ⟪सारथी रथं नयति⟫
+(Beeldbron: [Details](/licenses#uebung012))
 :::

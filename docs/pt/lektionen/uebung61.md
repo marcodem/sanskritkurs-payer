@@ -1,11 +1,12 @@
 ---
 title: "Exercício 61"
 uebung_id: 61
-category: "Exercício"
+category: "Übung"
+
 ---
 
 # Exercício 61
 
-Lektion 61 bildet den Abschluss des Sanskritkurses und enthält keine weiteren schriftlichen Übungen. 
+A Lição 61 constitui o encerramento do curso de sânscrito e não contém novos exercícios escritos.
 
-Mit dem Studium der Wurzelnomina, des periphrastischen Futurs und der Denominativa sind die Grundlagen für die Lektüre von Sanskrit-Originaltexten gelegt. Der Kurs schliesst mit der traditionellen Anrufung an Gaṇeśa (⟪श्रीगणनाथ⟫), die den Übergang vom Lehrbuch zur eigenständigen Lektüre markiert.
+Com o estudo dos nomes radiciais, do futuro perifrástico e dos denominativos, foram lançadas as bases para a leitura de textos originais em sânscrito. O curso encerra-se com a invocação tradicional a Gaṇeśa (⟪श्रीगणनाथ⟫), que marca a transição do livro didático para a leitura independente.

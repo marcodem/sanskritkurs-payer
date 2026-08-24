@@ -1,53 +1,50 @@
 ---
 title: "Exercício 21"
 uebung_id: 21
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 21
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und übersetzen Sie sie:
+A) Resolva os seguintes compostos em sânscrito e traduza-os:
 
-⟪१⟫. ⟪अनादिकालिकसंसरः⟫ ⟪।⟫
-⟪अनादिः⟫ ⟪कालो⟫ ⟪यस्य⟫ ⟪सो⟫ ⟪ऽनादिकालिकः⟫ ⟪संसरः⟫ ⟪।⟫
-Der Lauf durch die Wiedergeburten ohne Anfang und feste Zeitdauer.
+⟪१⟫. ⟪अनादिकालिकसंसरः । अनादिः कालो यस्य सो ऽनादिकालिकः संसरः ।⟫
+O ciclo de renascimentos sem início e sem duração fixa.
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫ ⟪।⟫
-⟪न⟫ ⟪आदिश्च⟫ ⟪मध्यं⟫ ⟪च⟫ ⟪अन्तश्च⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Ohne Anfang, Mitte und Ende.
+⟪२⟫. ⟪अनादिमध्यान्तः । न आदिश्च मध्यं च अन्तश्च यस्य सः ।⟫
+Sem início, meio ou fim.
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫ ⟪।⟫
-⟪महती⟫ ⟪मैत्री⟫ ⟪च⟫ ⟪करुणा⟫ ⟪च⟫ ⟪यस्मिंस्तच्चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
-Mit einem Herz voll grossen Wohlwollens und Mitgefühls.
+⟪३⟫. ⟪महामैत्रीकरुणाचित्तः । महती मैत्री च करुणा च यस्मिंस्तच्चित्तं यस्य सः ।⟫
+Com um coração cheio de grande benevolência e compaixão.
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫ ⟪।⟫
-⟪सर्वस्मिन्हतो⟫ ⟪ऽन्धकारो⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫
-Der überall die Finsternis zerstört hat.
+⟪४⟫. ⟪सर्वहतान्धकारः । सर्वस्मिन्हतो ऽन्धकारो येन सः ।⟫
+Aquele que destruiu as trevas em todos os lugares.
 
-B) Übersetzen Sie:
+B) Traduza:
 
-⟪१⟫. ⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥⟫
-Das Feuer, das den Toten verbrennt, verbrennt auch die treue Gattin (satī).
+⟪१⟫. ⟪मृतं दहन्नग्निः सतीमपि दहति ॥⟫
+O fogo que consome os mortos também consome a esposa fiel (satī).
 
-⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥⟫
-Der gute Meister preist den grossen Gott mit Lobliedern der grossen Dichter.
+⟪२⟫. ⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं स्तौति ॥⟫
+O bom mestre louva o grande deus com hinos dos grandes poetas.
 
-⟪३⟫. ⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥⟫
-Die Knaben, die grosse Früchte essen, trinken auch Wasser.
+⟪३⟫. ⟪महान्ति फलान्यदन्तो बाला जलमापि पिबन्ति ॥⟫
+Os meninos que comem grandes frutos também bebem água.
 
-⟪४⟫. ⟪पुजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥⟫
-Während der Verehrung opfert und preist der Mann die Gottheit.
+⟪४⟫. ⟪पुजां कुर्वञ्जनो यजते च स्तौति च देवताम् ॥⟫
+Durante a adoração, o homem oferece sacrifícios e louva a divindade.
 
-⟪५⟫. ⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥⟫
-Ein Zweimalgeborener ist ein Mann, der vom Meister in den Veda initiiert wurde.
+⟪५⟫. ⟪गुरूपनीतनरो द्विजः ॥⟫
+Um duas vezes nascido é um homem que foi iniciado nos Vedas pelo mestre.
 
-⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
-Wer den Zorn besiegt hat, der hasst einen Feind nicht, auch wenn dieser ihn tötet. Wer aber vom Zorn besiegt ist, hasst.
+⟪६⟫. ⟪जितक्रोधो घ्नन्तमप्यरिं न द्वेष्टि । क्रोधजितस्तु द्वेष्टि ॥⟫
+Aquele que venceu a ira não odeia um inimigo, mesmo se este o matar. Mas aquele que foi vencido pela ira odeia.
 
 ::: media
 ![](/images/uebung033.webp)
-Abb.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#uebung033))
+Legenda: ⟪हतान्धकारा दीपाः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung033))
 :::

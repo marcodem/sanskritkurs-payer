@@ -1,73 +1,67 @@
 ---
 title: "Oefening 27"
 uebung_id: 27
-category: "Oefening"
+category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 27
 
-# Oefening 27
+A) In die volgende sin, voeg die uitdrukkings in hakies in in die lokatief (⟪सप्तमी⟫) enkelvoud en — waar toepaslik — meervoud.
 
-A) Setzen Sie im folgenden Satz die Ausdrücke in der Klammer im Lokativ (⟪सप्तमी⟫) Singular und — wo es sinnvoll ist — Plural ein.
+**⟪रामस्⟫ ... ⟪वसति ।⟫** (⟪ग्राम । गुरु । सत्यवान्कविः । पुत्रं लब्धुकामा ब्राह्मणी । गृह । तन्नगरम् । मुह्यञ्छत्रुः⟫)
 
-**⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+⟪१⟫. ⟪रामो ग्रामे वसति । २⟫. ⟪रामो गुरौ वसति ।⟫ (Meervoud: ⟪रामो गुरुषु वसति ।⟫)
 
-⟪१⟫. ⟪रामो⟫ ⟪ग्रामे⟫ ⟪वसति⟫ ⟪।⟫
+⟪३⟫. ⟪रामः⟫ **⟪सत्यवति कवौ⟫** ⟪वसति ।⟫ (Meervoud: ⟪रामः⟫ **⟪सत्यवत्सु कविषु⟫** ⟪वसति ।⟫)
 
-⟪२⟫. ⟪रामो⟫ ⟪गुरौ⟫ ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ ⟪गुरुषु⟫ ⟪वसति⟫ ⟪।⟫)
+⟪४⟫. ⟪रामः⟫ **⟪पुत्रं लब्धुकामायाम् ब्राह्मण्याम्⟫** ⟪वसति ।⟫ (Meervoud: ⟪रामः⟫ **⟪पुत्रं लब्धुकामासु ब्राह्मणीषु⟫** ⟪वसति ।⟫)
 
-⟪३⟫. ⟪रामः⟫ **⟪सत्यवति⟫ ⟪कवौ⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामः⟫ **⟪सत्यवत्सु⟫ ⟪कविषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪५⟫. ⟪रामो गृहे वसति ।⟫ (Meervoud: ⟪रामो गृहेषु वसति ।⟫)
 
-⟪४⟫. ⟪रामः⟫ **⟪पुत्रं⟫ ⟪लब्धुकामायाम्⟫ ⟪ब्राह्मण्याम्⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामः⟫ **⟪पुत्रं⟫ ⟪लब्धुकामासु⟫ ⟪ब्राह्मणीषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪६⟫. ⟪रामस्⟫ **⟪तस्मिन् नगरे⟫** ⟪वसति । ७⟫. ⟪रामो⟫ **⟪मुह्यति शत्रौ⟫** ⟪वसति ।⟫ (Meervoud: ⟪रामो⟫ **⟪मुह्यत्सु शत्रुषु⟫** ⟪वसति ।⟫)
 
-⟪५⟫. ⟪रामो⟫ ⟪गृहे⟫ ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ ⟪गृहेषु⟫ ⟪वसति⟫ ⟪।⟫)
+B) Vertaal en ontleed die samestellende woorde:
 
-⟪६⟫. ⟪रामस्⟫ **⟪तस्मिन्⟫ ⟪नगरे⟫** ⟪वसति⟫ ⟪।⟫
+⟪१⟫. **⟪धर्मं वदति गुरौ दुर्जना न शृण्वन्ति ॥१॥⟫**
+Slegte mense luister nie wanneer die onderwyser die Dharma uitlê nie.
 
-⟪७⟫. ⟪रामो⟫ **⟪मुह्यति⟫ ⟪शत्रौ⟫** ⟪वसति⟫ ⟪।⟫ (Plural: ⟪रामो⟫ **⟪मुह्यत्सु⟫ ⟪शत्रुषु⟫** ⟪वसति⟫ ⟪।⟫)
+⟪२⟫. **⟪बुद्धकाले नरैरार्यसत्यानि श्रोतुं शक्यन्ते ॥२॥⟫**
+(⟪बुद्धस्य काले⟫)
+In die tyd van 'n Boeddha kan mense die Edelwaarhede hoor.
 
-B) Übersetzen Sie und lösen Sie die Komposita auf:
+⟪३⟫. **⟪वसितसुवस्त्रां नरा लुभ्यन्ति । एवं सति सत्यो नरेभ्यः सुवस्त्राणीच्छन्ति ॥३॥⟫**
+(⟪वसितानि शोभनानि वस्त्राणि यया ताम् । शोभनानि वस्त्राणि⟫)
+Mans begeer 'n vrou wat pragtig geklee is. Daarom vra deugsaam vroue mans vir pragtige klere.
 
-⟪१⟫. **⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫**
-Böse Leute hören nicht zu, wenn der Lehrer den Dharma verkündet.
+⟪४⟫. **⟪पुत्रे मृते ऽपुत्रा ब्राह्मणी पुत्रं लब्धुं व्रतं करोति ॥४॥⟫**
+(⟪पुत्रो नास्ति यस्याः सा⟫)
+Nadat haar seun gesterf het, maak die kinderlose Brahmin-vrou 'n gelofte om 'n seun te hê.
 
-⟪२⟫. **⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫**
-(⟪बुद्धस्य⟫ ⟪काले⟫)
-Zur Zeit eines Buddha können die Menschen die edlen Wahrheiten hören.
+⟪५⟫. **⟪उपनीतबालैर्गुरुकुल उष्यते ॥५॥⟫**
+(⟪उपनीतैर्बालैः । गुरोः कुले⟫)
+Na die inisiasie woon die seuns by die familie van die meester.
 
-⟪३⟫. **⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫**
-(⟪वसितानि⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫ ⟪यया⟫ ⟪ताम्⟫ ⟪।⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫)
-Männer begehren eine Frau, die sich schön gekleidet hat. Deswegen wünschen sich gute Frauen von den Männern schöne Kleider.
+⟪६⟫. **⟪यज्ञकाले विगते ऽनिष्टदेवा विस्मृतयज्ञब्राह्मणेभ्यः क्रुध्यन्ति ॥६॥⟫**
+(⟪यज्ञस्य काले । नेष्टा देवाः । विस्मृतो यज्ञो यैस्तेभ्यो ब्राह्मणेभ्यः⟫)
+Aangesien die tyd vir die offer verstryk het, is die gode wat nie geoffer is nie, toevallig op die brahmane wat die offer vergeet het.
 
-⟪४⟫. **⟪पुत्रे⟫ ⟪मृते⟫ ⟪ऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫**
-(⟪पुत्रो⟫ ⟪नास्ति⟫ ⟪यस्याः⟫ ⟪सा⟫)
-Nachdem ihr Sohn gestorben ist, macht die sohnlose Brahmanin ein Gelübde, um einen Sohn zu bekommen.
+⟪७⟫. **⟪गुरौ तिष्ठति बाल आसितुं नार्हति ॥७॥⟫**
+Terwyl die meester staan, mag 'n seun nie sit nie.
 
-⟪५⟫. **⟪उपनीतबालैर्गुरुकुल⟫ ⟪उष्यते⟫ ⟪॥५॥⟫**
-(⟪उपनीतैर्बालैः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪कुले⟫)
-Nach der Initiation wohnen die Knaben in der Familie des Meisters.
+⟪८⟫. **⟪एवं काले गच्छति स्वाचारक्षत्रिय इष्टं धनं न लभते ॥८॥⟫**
+(⟪साधुराचार⟫o ⟪यस्य सः⟫)
+Terwyl die tyd so verbygaan, verkry die Kṣatriya met 'n goeie lewenswyse nie die gewenste welvaart nie.
 
-⟪६⟫. **⟪यज्ञकाले⟫ ⟪विगते⟫ ⟪ऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫**
-(⟪यज्ञस्य⟫ ⟪काले⟫ ⟪।⟫ ⟪नेष्टा⟫ ⟪देवाः⟫ ⟪।⟫ ⟪विस्मृतो⟫ ⟪यज्ञो⟫ ⟪यैस्तेभ्यो⟫ ⟪ब्राह्मणेभ्यः⟫)
-Da der Zeitpunkt für das Opfer verstrichen ist, sind die Götter, denen nicht geopfert wurde, auf die Brahmanen zornig, die das Opfer vergessen hatten.
+⟪९⟫. **⟪ब्राह्मण्यां महाकवावागच्छन्त्यां ब्राह्मणीपुत्रो ऽप्यागच्छति ॥९॥⟫**
+(⟪महति कवौ । ब्राह्मण्याः पुत्रः⟫)
+Terwyl die brahmaninne by die groot digter aankom, kom ook haar seun.
 
-⟪७⟫. **⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Während der Meister steht, darf ein Knabe nicht sitzen.
-
-⟪८⟫. **⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫**
-(⟪साधुराचार⟫o ⟪यस्य⟫ ⟪सः⟫)
-Während die Zeit so vergeht, erhält der Kṣatriya mit guter Lebensart nicht den gewünschten Wohlstand.
-
-⟪९⟫. **⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रो⟫ ⟪ऽप्यागच्छति⟫ ⟪॥९॥⟫**
-(⟪महति⟫ ⟪कवौ⟫ ⟪।⟫ ⟪ब्राह्मण्याः⟫ ⟪पुत्रः⟫)
-Während die Brahmanin beim grossen Dichter ankommt, kommt auch ihr Sohn.
-
-⟪१०⟫. **⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫**
-(⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
-Wenn die Lehrer lehren, dürfen wohlerzogene Kinder nicht schwätzen (sprechen).
+⟪१०⟫. **⟪गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति ॥१०॥⟫**
+(⟪सुष्ठ⟫u ⟪नीता बालाः⟫)
+Wanneer die onderwysers onderrig, mag goed opgevoede kinders nie gesels (praat) nie.
 
 ::: media
 ![](/images/uebung044.webp)
-Abb.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
-(Bildquelle: [Details](/licenses#uebung044))
+Afbeelding: ⟪गुरुषूपदिशत्सु सुनीतबाला वक्तुं नार्हन्ति⟫
+(Beeldbron: [Details](/licenses#uebung044))
 :::

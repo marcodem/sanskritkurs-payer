@@ -164,7 +164,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | egy helyen | [51](/hu/lektionen/lektion51#_51-6-szlista) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | hangsúlyozza az előtte álló szót | [13](/hu/lektionen/lektion13#_13-9-szszedet) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző \<!\>, pl. "csak az iga | [15](/hu/lektionen/lektion15#_15-8-szszedet) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző \<!\>, pl. "csak az igazság g | [15](/hu/lektionen/lektion15#_15-8-szszedet) |
 | ⟪एवम्⟫ | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=evam&filter=roman&accent=no&transLit=roman) | — | így (adverbial, pl. evaṃ jayati „így győz”.) | [11](/hu/lektionen/lektion11#_11-2-sztr) |
 
 ## ओ

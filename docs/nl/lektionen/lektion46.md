@@ -6,41 +6,39 @@ last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 
----
+---# Les 46
 
-# Lektion 46
+## 46.1. Vorming van de werkwoordsvormen van de 2e persoon (⟪मध्यमः⟫) voltooid (⟪लिट्⟫)
 
-## 46.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
-
-### 46.1.1. Endungen
+### 46.1.1. Uitgangen
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Perfektendungen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Voltooid-uitgangen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
-Let op dat de uitgang -- meestal niet de vorm! -- van de 2.pl.P met die van de 1. en 3.sg.P overeenkomt.
+Let op: de uitgang -- maar meestal niet de vorm! -- van de 2e persoon meervoud overeenkomt met die van de 1e en 3e persoon enkelvoud.
 
 ::: grammar-box
-Vor -tha tritt bei den meisten Wurzeln auf -ṛ kein Bindevokal \-i-. Bei manchen Wurzeln ist vor \-tha das \-i- fakultativ.
+Voor -tha komt bij de meeste stammen met -ṛ geen verbindingsklinker \-i-. Bij sommige stammen is de \-i- voor \-tha facultatief.
 :::
 ### 46.1.2. Klankverandering van de uitgang -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+De uitgang -dhve moet in de voltooide tijd worden vervangen door -ḍhve, wanneer deze onmiddellijk wordt voorafgegaan door een stamlettergreep -u of -ṛ. Deze vervanging kan naar keuze plaatsvinden na de verbindingsklinker -i-, wanneer deze onmiddellijk wordt voorafgegaan door een halfklinker of een h.
 :::
-### 46.1.3. Perfectum Type I: geen stamafstoting
+### 46.1.3. Perfectum type I: geen stamgradatie
 
-Verben, die diesem Typ folgen:
+Werkwoorden die aan dit type voldoen:
 
-*   Konsonant-Langvokal-Konsonant
-*   Konsonant-Vokal-Konsonant-Konsonant
-*   a-Konsonant(-Konsonant)
+*   Medeklinker-lange klinker-medeklinker
+*   medeklinker-klinker-medeklinker-medeklinker
+*   a-medeklinker(-medeklinker)
 *   ā-Konsonant
 
 ::: grammar-box
-1.sg.P = 3.sg.P = 2.pl.P
+1e pers. enkelvoud = 3e pers. enkelvoud = 2e pers. meervoud
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -56,7 +54,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | ⟪जिजीविषे⟫ | ⟪जिजीविध्वे⟫:br⟪जिजीविढ्वे⟫ |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -64,13 +62,13 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | ⟪आसिषे⟫ | ⟪आसिध्वे⟫ |
 :::
 ### 46.1.4. Perfectum Type II: sterke stam hoogtraps, zwakke stam laagtraps
 
 Werkwoorden die dit type volgen:
 
-*   (Medeklinker-)i/u/ṛ/ḷ-medeklinker
+*   (Medeklinker-)i/u/ṛ/ḷ-Medeklinker
 
 ⟪भिद्⟫ 7U
 
@@ -94,7 +92,7 @@ Werkwoorden die dit type volgen:
 
 Werkwoorden die dit type volgen:
 
-*   (Medeklinker-)(medeklinker-)i/ī/u/ū
+*   (Medeklinker-)(Medeklinker-)i/ī/u/ū
 *   (Medeklinker-)-ṛ
 
 ⟪इ⟫ 2P
@@ -129,7 +127,7 @@ Werkwoorden die dit type volgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Type IIIb: Sterke stam in hoge graad/verlengde graad, zwakke stam in hoge graad
+#### 46.1.5.2. Perfectum Type IIIb: Sterke stam hoogtrapping/verlengde trapping, zwakke stam hoogtrapping
 
 Werkwoorden die dit type volgen:
 
@@ -152,11 +150,11 @@ Werkwoorden die dit type volgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Type IV: Wortstammen op -ā / -ai
+### 46.1.6. Perfectum Type IV: Wortwortstammen op -ā / -ai
 
 *   Zwakke stam:
-*   voor medeklinker: lage graad-i
-*   voor klinker: lage graad-ø
+*   voor medeklinker: laagtrapping-i
+*   voor klinker: laagtrapping-ø
 
 ⟪दा⟫ 3U
 
@@ -174,9 +172,9 @@ Werkwoorden die dit type volgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Type V: Medeklinker-a-medeklinker
+### 46.1.7. Perfectum Type V: Medeklinker-a-medeklinker
 
-#### 46.1.7.1. Perfekt Type Va: Medeklinker-a-medeklinker, zwakke stam in lage graad
+#### 46.1.7.1. Perfectum Type Va: Medeklinker-a-medeklinker, zwakke stam laagtrapping
 
 Werkwoorden die dit type volgen:
 
@@ -253,10 +251,10 @@ Werkwoorden die dit type volgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfekttype Vb: Consonant-a-Consonant, beginnende consonant geen gutturaal, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
+#### 46.1.7.2. Voltooid verleden tijd type Vb: medeklinker-a-medeklinker, beginmedeklinker geen keelklank, aspiratie, h, zwakke stam zonder reduplicatie, met -e-
 
 ::: grammar-box
-De 2.sg.P. wordt gevormd vanuit de zwakke stam wanneer het verbindende klinker -i- optreedt.
+De 2e persoon enkelvoud in de voltooide tijd wordt gevormd door de zwakke stam wanneer de verbindingsklinker -i- voorkomt.
 :::
 ⟪पच्⟫ 1U
 
@@ -280,9 +278,9 @@ Werkwoorden die aan dit type voldoen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Bijzondere voltooid-vormen
+### 46.1.8. Bijzondere perfectum-vormingen
 
-⟪विद्⟫ 2P voltooid tegenwoordige tijd
+⟪विद्⟫ 2P presentisch perfectum
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
@@ -314,20 +312,20 @@ Werkwoorden die aan dit type voldoen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Perifratisch voltooid (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Perifrastisch perfectum (⟪अनुप्रयोगलिट्⟫)
 
-De perifrastische voltooid verleden tijd wordt gevormd door:
+Het perifrastische perfectum wordt gevormd door:
 
-*   afgeleide werkwoordstammen (causatief, desideratief, frequentatief, denominatief), met name causatief
-*   stamwoorden die beginnen met een lange klinker (behalve ā)
-*   stamwoorden: klinker (behalve a-)-medeklinker-medeklinker
-*   enkele andere
-*   bij sommige stammen kunnen beide voltooide tijden optioneel worden gevormd: uṣ „branden”, vid „weten”, jāgṛ „waken”, daridrā „arm zijn”
-*   bij de volgende stamwoorden  kunnen beide voltooide tijden optioneel worden gevormd en is ook de perifrastische voltooide tijd gedupliceerd, namelijk met de duplicatiesyllabe van de tegenwoordige tijdstam:
-    *   bhī „bang zijn“
-    *   bhṛ „dragen“
-    *   hu „offeren“
-    *   hrī „zich schamen“
+*   afgeleide werkwoordstammen (Kausatief, Desideratief, Frequentatief, Denominativa), met name Kausatief
+*   wortels die beginnen met een lange klinker (behalve ā)
+*   wortels: Vokaal (behalve a-)-Medeklinker-Medeklinker
+*   een aantal andere
+*   bij sommige wortels kunnen beide perfectum-vormen optioneel worden gevormd: uṣ "branden", vid "weten", jāgṛ "waakzaam zijn", daridrā "arm zijn"
+*   bij de volgende wortels kunnen beide perfectum-vormen optioneel worden gevormd en is ook het perifrastische perfectum gerepliceerd, namelijk met de replicatiesilabe van de presentstam:
+*   bhī "zich vrezen"
+*   bhṛ "dragen"
+*   hu "offeren"
+*   hrī "zich schamen"
 
 ⟪बन्ध्⟫ Kausatief
 
@@ -339,11 +337,11 @@ De perifrastische voltooid verleden tijd wordt gevormd door:
 :::
 ## 46.2. Woordenlijst
 
-⟪सम⟫ 3: gelijk, juist, vergelijkbaar
+⟪सम⟫ 3: gelijk, precies, vergelijkbaar
 
 ::: indent
-afgeleiden:
-⟪समम्⟫ Adv.: op dezelfde wijze, tegelijk (⟪तृतीयया⟫), gelijkmatig
+afgeleid daarvan:
+⟪समम्⟫ Adv.: op dezelfde manier, tegelijk (⟪तृतीयया⟫), gelijkmatig
 ⟪समता⟫ v.: gelijkmoedigheid
 ⟪विषम⟫ 3: ongelijk, oneffen, kwaadaardig
 
@@ -358,9 +356,9 @@ Kaus. ⟪ग्राहयति⟫
 PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 Inf. ⟪ग्रहितुम्⟫
 Absol. -⟪ग्राह्य⟫
-afgeleiden:
-⟪ग्रह⟫ m.: grijpen, greper, krokodil, zwervende ster
-⟪नवग्रह⟫ m.: de negen zwervende sterren (geen planeten!) (zie Basham, Wonder S. 493):
+afgeleid daarvan:
+⟪ग्रह⟫ m.: grijpen, greper, krokodil, wandelende ster
+⟪नवग्रह⟫ m.: de negen wandelende sterren (geen planeten!) (zie Basham, Wonder blz. 493):
 1. ⟪सूर्यः⟫ = Zon
 2. ⟪चन्द्रः⟫ = Maan
 3. ⟪मङ्गलः⟫ = Mars
@@ -374,10 +372,10 @@ afgeleiden:
 :::
 Zie voor ⟪राहु⟫ en ⟪केतु⟫:
 
-> **Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare zwervende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Inleiding en overzicht. -- 10. Sacramenten en overgangsrituelen (samskara). -- Aanhangsel C: Rahu en Ketu, de onzichtbare wandelende sterren . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Afbeelding: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/nl/licenses#lekt4602)
+Afb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/nl/licenses#lekt4602)
 (Bron afbeelding: [Details](/nl/licenses#lekt4602))
 :::
 

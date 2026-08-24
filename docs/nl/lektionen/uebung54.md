@@ -1,46 +1,46 @@
-
 ---
-title: "Übung 54"
+title: "Oefening 54"
 uebung_id: 54
 category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Oefening 54
 
-Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aoristformen:
+Vorm de volgende tegenwoordige tijd- of voltooide tijdsvormen om naar de bijbehorende aoristus-vormen:
 
 ::: grammar-box
-| Nr. | Form | Bestimmung / Bedeutung | Aorist |
+| Nr. | Vorm | Bepaling / Betekenis | Aoristus |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪यन्ति⟫ | sie gehen | ⟪अगुः⟫ |
-| ⟪२⟫. | ⟪पिबामि⟫ | ich trinke | ⟪अपाम्⟫ |
-| ⟪३⟫. | ⟪ददौ⟫ | ich habe / er hat gegeben | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
-| ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
-| ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
-| ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
-| ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |
-| ⟪११⟫. | ⟪एष्यथ⟫ | ihr werdet gehen | ⟪अगात⟫ |
-| ⟪१२⟫. | ⟪तस्थुः⟫ | sie standen | ⟪अस्थुः⟫ |
-| ⟪१३⟫. | ⟪अधत्त⟫ | ihr setztet | ⟪अधात⟫ |
-| ⟪१४⟫. | ⟪अददाः⟫ | du gabst | ⟪अदाः⟫ |
-| ⟪१५⟫. | ⟪अभवन्⟫ | sie waren | ⟪अभूवन्⟫ |
-| ⟪१६⟫. | ⟪ददिम⟫ | wir haben gegeben | ⟪अदाम⟫ |
-| ⟪१७⟫. | ⟪भिद्यते⟫ | es wird gespalten | ⟪अभेदि⟫ |
-| ⟪१८⟫. | ⟪उद्यते⟫ | es wird gesagt | ⟪अवादि⟫ |
-| ⟪१९⟫. | ⟪स्तूयते⟫ | er wird gelobt | ⟪अस्तावि⟫ |
-| ⟪२०⟫. | ⟪कृष्यते⟫ | es wird gepflügt | ⟪अकर्षि⟫ |
-| ⟪२१⟫. | ⟪जायते⟫ | er wird geboren | ⟪अजनि⟫ |
-| ⟪२२⟫. | ⟪गीयते⟫ | es wird gesungen | ⟪अगायि⟫ |
-| ⟪२३⟫. | ⟪गम्यते⟫ | es wird gegangen | ⟪अगामि⟫ |
+| ⟪१⟫. | ⟪यन्ति⟫ | zij gaan | ⟪अगुः⟫ |
+| ⟪२⟫. | ⟪पिबामि⟫ | ik drink | ⟪अपाम्⟫ |
+| ⟪३⟫. | ⟪ददौ⟫ | ik heb / hij heeft gegeven | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | ⟪बभूव⟫ | ik / hij / zij was / waren | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | ⟪दधति⟫ | zij plaatsen | ⟪अधुः⟫ |
+| ⟪६⟫. | ⟪ऐम⟫ | wij gingen | ⟪अगाम⟫ |
+| ⟪७⟫. | ⟪पपिथ⟫ | jij hebt gedronken / bewaard | ⟪अपाः⟫ (van :sig[⟪पा⟫] "drinken") |
+| ⟪८⟫. | ⟪तिष्ठति⟫ | hij staat | ⟪अस्थात्⟫ |
+| ⟪९⟫. | ⟪इयेथ⟫ | jij bent gegaan | ⟪अगाः⟫ |
+| ⟪१०⟫. | ⟪पप⟫ | jullie hebben gedronken | ⟪अपात⟫ |
+| ⟪११⟫. | ⟪एष्यथ⟫ | jullie zullen gaan | ⟪अगात⟫ |
+| ⟪१२⟫. | ⟪तस्थुः⟫ | zij stonden | ⟪अस्थुः⟫ |
+| ⟪१३⟫. | ⟪अधत्त⟫ | jullie plaatsten | ⟪अधात⟫ |
+| ⟪१४⟫. | ⟪अददाः⟫ | jij gaf | ⟪अदाः⟫ |
+| ⟪१५⟫. | ⟪अभवन्⟫ | zij waren | ⟪अभूवन्⟫ |
+| ⟪१६⟫. | ⟪ददिम⟫ | wij hebben gegeven | ⟪अदाम⟫ |
+| ⟪१७⟫. | ⟪भिद्यते⟫ | het wordt gespleten | ⟪अभेदि⟫ |
+| ⟪१८⟫. | ⟪उद्यते⟫ | het wordt gezegd | ⟪अवादि⟫ |
+| ⟪१९⟫. | ⟪स्तूयते⟫ | hij wordt geprezen | ⟪अस्तावि⟫ |
+| ⟪२०⟫. | ⟪कृष्यते⟫ | het wordt geploegd | ⟪अकर्षि⟫ |
+| ⟪२१⟫. | ⟪जायते⟫ | hij wordt geboren | ⟪अजनि⟫ |
+| ⟪२२⟫. | ⟪गीयते⟫ | het wordt gezongen | ⟪अगायि⟫ |
+| ⟪२३⟫. | ⟪गम्यते⟫ | het is gegaan | ⟪अगामि⟫ |
 :::
 ::: media
 ![](/images/uebung093.webp)
-Abb.: ⟪अगायि⟫
-(Bildquelle: [Details](/licenses#uebung093))
+Afb.: ⟪अगायि⟫
+(Bron afbeelding: [Details](/licenses#uebung093))
 :::
 

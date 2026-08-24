@@ -1,11 +1,12 @@
 ---
 title: "Exercício 53"
 uebung_id: 53
-category: "Exercício"
+category: "Übung"
+
 ---
 
 # Exercício 53
 
-Die Übung zu Lektion 53 besteht in der metrischen Analyse (Bestimmung des Śloka-Schemas) aller in den vorangegangenen Lektionen gelernten Verse. 
+O exercício da Lição 53 consiste na análise métrica (determinação do esquema de śloka) de todos os versos aprendidos nas lições anteriores.
 
-Da es sich hierbei um eine umfassende Wiederholungs- und Analyseaufgabe handelt, ist kein separater Lösungsschlüssel im klassischen Sinne vorhanden. Die Lösungen ergeben sich aus der Anwendung der in Lektion 53 vermittelten Regeln auf die bereits bekannten Texte.
+Como se trata de uma tarefa abrangente de revisão e análise, não há um gabarito de soluções separado no sentido clássico. As soluções surgem da aplicação das regras ensinadas na Lição 53 aos textos já conhecidos.

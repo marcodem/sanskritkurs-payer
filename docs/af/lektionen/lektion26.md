@@ -1,123 +1,122 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: "Lesing 26"
+subtitle: "Cerebralisasiewet vir -s- binne in die woord"
 lesson_id: 26
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 26
+---# Les 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. Die wet van serebraliserings vir -s- binne woorde
 
 ::: grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — ausser **a, ā** — unmittelbar oder nur durch ⟪अनुस्वार⟫ oder ⟪विसर्ग⟫ getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt.
+**-s-** word vervang deur **-ṣ-** wanneer **k, r, l** of 'n **vokaal** — behalwe **a, ā** — dit onmiddellik voorafgaan of slegs deur ⟪अनुस्वार⟫ of ⟪विसर्ग⟫ daarvan geskei word, en gevolg word deur 'n klank anders as **ṛ, r**.
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita.
+Hierdie sandhi geld ook vir **⟪दुस्⟫-** voor stemlose keel- en lipklanke in samestelde woorde.
 :::
-*Beispiele:*
+*Voorbeelde:*
 ::: indent
-⟪तेषाम्⟫ (aus: *te-sām*)
+⟪तेषाम्⟫ (uit: *te-sām*)
 
-aber: ⟪तासाम्⟫ (*tā-sām*)
+maar: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. Wet van serebraliserings vir dentale klanke binne woorde
 
 ::: grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt:
+Dentale plofklanke wat retrofleksklanke (insluitend **-ṣ-**) volg, word vervang deur die ooreenstemmende retrofleksklanke:
 
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)*
+  *(**ṣ** weens die voorafgaande **i**, **ṭh** weens die **ṣ** wat dit dan voorafgaan)*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. Woordsandhi vir palataal- en keelklanke, ṣ, h + -s
 
 ::: grammar-box
-**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** → **-kṣ**
 
-Beispiele siehe unten
+Sien voorbeelde hieronder
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Grassmann se Wet van Aspirasie-dissimilasie
 
 ::: grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:**
+**Wanneer twee geaspireerde medeklinkers onmiddellik op mekaar volg (geaspireerde medeklinker – vokaal – geaspireerde medeklinker), gaan die aspirasie van die eerste klank verlore:**
 
-Beispiel:
+Voorbeeld:
 
 :::
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**As gevolg van fonologiese reëls verloor die tweede klank sy aspirasie, herverskyn die aspirasie in die eerste klank.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫
+Voorbeelde: sien hieronder vir die toekoms tyd van ⟪दुह्⟫ en ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Grassmann
-(Bildquelle: [Details](/licenses#lekt2601))
+Fig.: Hermann Grassmann
+(Beeldbron: [Details](/af/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Woordsamehang vir -m, -n voor 'n sibilant
 
 ::: grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:**
+**Voor sibilante word -n en -m vervang deur -ṃ-:**
 
-Beispiel: s. unten Futur von ⟪मन्⟫
+Voorbeeld: sien hieronder vir die toekomsvorm van ⟪मन्⟫
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Gebruik van die eenvoudige toekoms (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:**
+**Die eenvoudige toekomsvorm (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ ens.) druk uit:**
 
-- **die Zukunft**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
-- **Hoffnung**
-- **Befürchtung**
-- **Wahrscheinlichkeit**
-- **Meinung des Sprechenden**
-- **Befehl**
+- **die toekoms**
+- **'n beoogde of doelbewuste handeling ("Ek sal gaan", "Ek wil gaan")**
+- **'n verwagting ("dit sal so gebeur")**
+- **hoop**
+- **vrees**
+- **waarskynlikheid**
+- **die spreker se mening**
+- **'n bevel**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).**
+**Die toekomsvorm word soms in die plek van die optatief gebruik (sien hieronder).**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel."
+bv. ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫ = "Iemand wat 'n gelofte wil aflê, gaan na die tempel."
+
 
 ::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602))
+Fig.: ⟪व्रतं करिष्यन्देवगृहं गच्छति⟫
+(Beeldbron: [Besonderhede](/af/licenses#lekt2602))
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Vorming van die eenvoudige toekoms tyd (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**Einfaches Futur:**
+**Eenvoudige toekoms tyd:**
 
 :::
 ::: indent
-**Futursstamm + Primärendung**
+**Toekomsstam + primêre agtervoegsel**
 :::
 ::: grammar-box
-**Futurstamm:**
+**Toekomsstam:**
 
 :::
 ::: indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)**
+**(gewoonlik) hoë-graadwortel + -sya**
+**of**
+**(gewoonlik) hoë-graadwortel + -i- + -sya (= -iṣya)**
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:**
-
+**Jy moet deur die stamvorme leer watter wortel watter toekomstige stam vorm!**  
+**Oor die algemeen stem die wortelvorm en die skakelvokaal van die toekomende tyd ooreen met dié van die infinitief.**  
+**Sommige wortels kan opsioneel die toekomende tyd vorm met of sonder die skakelvokaal -i-.**  
+**Die Parasmaipada-deelwoord van die toekomsvorm word gevorm deur die agtervoegsel -nt- by die toekomsstam te voeg; in die vroulike vorm kan dit opsioneel op -ntī of -tī eindig:**
 ::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
 :::
-Beispiele:
+Voorbeelde:
 
 ::: grammar-box
 
-| Wurzel | Futur 3. sg. P (Ā) |
+| Woordvorm | Toekoms 3de persoon enkelvoud (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -129,16 +128,16 @@ Beispiele:
 | ⟪सृज्⟫ | ⟪स्रक्ष्यति⟫ |
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
-| ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) |
+| ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ + ⟪स्य⟫ + ⟪ति⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ voor 'n stille letter = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Übung
+## 26.8. Oefening
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:
+Vorm die toekomsvorme wat ooreenstem met die getal, persoon en werkwoordgeslag (Parasmaipada, Ātmanepada):
 
-A) ohne Bindevokal -i-:
+A) sonder die verbindingsvokaal -i-:
 
 1.  ⟪अत्ति⟫
 2.  ⟪प्राप्नुवन्ति⟫
@@ -147,7 +146,7 @@ A) ohne Bindevokal -i-:
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
+8.  ⟪पश्यति⟫ (vorm die toekomsvorm van ⟪दृश्⟫)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -176,7 +175,7 @@ A) ohne Bindevokal -i-:
 34.  ⟪स्तौति⟫
 35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-:
+B) Met die verbindingsvokaal -i-:
 
 1.  ⟪अस्यति⟫
 2.  ⟪आसते⟫
@@ -193,7 +192,7 @@ B) Mit Bindevokal -i-:
 13.  ⟪पतन्ति⟫
 14.  ⟪रोदिति⟫
 15.  ⟪प्रभवति⟫
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada)
+16.  ⟪म्रियन्ते⟫ (in die toekoms tyd van Parasmaipada)
 17.  ⟪जीवन्ति⟫
 18.  ⟪रक्षति⟫
 19.  ⟪वदति⟫
@@ -202,9 +201,11 @@ B) Mit Bindevokal -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-:
+C) Toekomsvorm optioneel met en sonder -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada)
+3.  ⟪अश्नुवते⟫ (in die Toekomsvorm Parasmaipada)
+
+
 

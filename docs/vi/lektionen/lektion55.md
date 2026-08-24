@@ -1,32 +1,33 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Bài 55"
+subtitle: "Aorist nguyên mẫu (Aorist với nguyên âm chủ đề)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
+
 ---
 
-# Lektion 55
+# Bài 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. Aorist a- (Aorist với nguyên âm chủ đề)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**Aorist a- được cấu tạo giống như một imperfect (⟪लङ्⟫) của lớp Present thứ 6 (⟪तुदादि⟫), tức là:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**Augment + gốc ở mức thấp (guṇa/zero grade) + a + kết thúc thứ cấp**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**Âm -a- được thay bằng -ā- trong cùng các trường hợp như trong imperfect.**
 
-**Keine Nasalinfixe.**
+**Không có chèn mũi (nasal infix).**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**Dạng Ātmanepada hiếm gặp; đối với các gốc từ Ubhayapada, nó thường được cấu tạo theo các lớp Aorist khác (xem Kielhorn, Grammar §340 cũng như bên dưới ở các lớp Aorist tương ứng).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**Danh sách các gốc từ có dạng Aorist này, xem Kielhorn, Grammar §340.**
 :::
-Beispiel:
+Ví dụ:
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U "rót lên"
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +37,23 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmässige Bildungen:
+Các cấu tạo bất quy tắc:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "ném": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Giải thích xem Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "kể": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "nhìn": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Mức cao!)
 :::
-Beachte:
+Lưu ý:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
+⟪शास्⟫ 2P "ra lệnh": ⟪अशिषत्⟫ (mức thấp thường xuyên!)
 :::
-## 55.2. Übung
+## 55.2. Bài tập
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+Hãy xác định và dịch bằng văn bản các dạng sau đây, đồng thời tạo ra các dạng tương ứng của a-Aorist:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -80,17 +81,17 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+27.  ⟪अजीर्यम्⟫ (Aor.: mức cao)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+30.  ⟪अशोभथाः⟫  (a-Aor.: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
 Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+'Inâyat Khân sắp qua đời, bản phác thảo cho một bức tranh mini trong một bản thảo dành cho Jahângîr = جهانگير, khoảng năm 1618
+(Nguồn ảnh: [Chi tiết](/vi/licenses#lekt5501))
 :::
 

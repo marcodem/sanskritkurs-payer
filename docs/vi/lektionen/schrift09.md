@@ -1,39 +1,39 @@
-# Schriftübung 9
+# Bài tập viết 9
 
-### Worttrennung
+### Ngắt chữ
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+Trong một câu (một nửa dòng thơ), việc ngắt chữ trong văn bản chỉ xảy ra khi một từ kết thúc bằng
 
-*   Vokal
+*   Nguyên âm
 *   Anusvāra (ṃ)
 *   Visarga (ḥ)
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+và từ tiếp theo bắt đầu bằng phụ âm. Tương tự, trong các trường hợp mà quy tắc Sandhi của câu tạo ra một Hiatus giữa hai nguyên âm.
 
-### Interpunktion
+### Dấu câu
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+Cuối một câu trong văn xuôi được ký hiệu bằng | (ardhadanda, giống đực). Trong thơ, dấu | chỉ cuối của nửa dòng (halbstrophe), còn dấu || (danda, giống đực) chỉ cuối của một dòng thơ trọn vẹn. Trong văn xuôi, dấu || biểu thị một đoạn ngắt lớn hơn (ví dụ: cuối của một đoạn văn). Số dòng thơ được đặt giữa hai dấu ||, ví dụ: ||⟪१⟫||.
 
-### Abkürzung
+### Viết tắt
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
+Ký hiệu viết tắt (ví dụ: trong các trích dẫn tác phẩm) là °, ví dụ: ⟪पा⟫° = pā(ṇinīye) = "Trong tác phẩm ngữ pháp của Pāṇini".
 
-### Weitere Vokale in Anfangsstellung
+### Các nguyên âm khác ở vị trí đầu từ
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Lưu ý rằng a, ā, o, au cũng được viết theo cùng một sơ đồ cơ bản.
 
-## Übung
+## Bài tập
 
-A) Schreiben Sie in Devanāgarī:
+A) Viết bằng chữ Devanāgarī:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) Đọc và chuyển tự:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

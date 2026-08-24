@@ -161,7 +161,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | — | in un luogo | [51](/it/lektionen/lektion51#_51-6-elenco-di-parole) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatizza la parola precedente | [13](/it/lektionen/lektion13#_13-9-elenco-di-parole) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon \<!\>, es. "solo la verità  | [15](/it/lektionen/lektion15#_15-8-glossario) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon \<!\>, es. "solo la verità vince" | [15](/it/lektionen/lektion15#_15-8-glossario) |
 
 ## ओ
 

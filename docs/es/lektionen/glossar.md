@@ -161,7 +161,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | en un lugar | [51](/es/lektionen/lektion51#_51-6-lista-de-palabras) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatiza la palabra precedente | [13](/es/lektionen/lektion13#_13-9-lista-de-palabras) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatiza lo anterior, en alemán a menudo corresponde al énfasis, una especie de emoticono \<!\>, p. ej. "sólo la v | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | enfatiza lo anterior, en alemán a menudo corresponde al énfasis, una especie de emoticono \<!\>, p. ej. "sólo la verdad  | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
 
 ## ओ
 
@@ -273,7 +273,7 @@ outline: 2
 | Sánscrito | IAST | Género | Español | Lección |
 |---|---|---|---|---|
 | ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | n | rueda | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
-| ⟪चक्ष्⟫ | [cakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakṣ&filter=roman&accent=no&transLit=roman) | 2Ā | ver \<!-- --&gt | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
+| ⟪चक्ष्⟫ | [cakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakṣ&filter=roman&accent=no&transLit=roman) | 2Ā | ver \<!-- --\> | [50](/es/lektionen/lektion50#_50-2-lista-de-vocabulario) |
 | ⟪चतुर्थ⟫ | [caturtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caturtha&filter=roman&accent=no&transLit=roman) | 3 | cuarto | [15](/es/lektionen/lektion15#_15-8-lista-de-palabras) |
 | ⟪चर⟫ | [cara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cara&filter=roman&accent=no&transLit=roman) | m | lo móvil = animales (en contraste con las plantas) | [22](/es/lektionen/lektion22#_22-3-lista-de-palabras) |
 | ⟪चरित्र⟫ | [caritra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caritra&filter=roman&accent=no&transLit=roman) | n | costumbre, uso, derecho consuetudinario ; comportamiento | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
@@ -841,7 +841,7 @@ outline: 2
 | ⟪सुप्ति⟫ | [supti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=supti&filter=roman&accent=no&transLit=roman) | f | Sueño, especialmente sueño profundo | [40](/es/lektionen/lektion40#_40-6-lista-de-vocabulario) |
 | ⟪सुष्टु⟫ | [suṣṭu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=suṣṭu&filter=roman&accent=no&transLit=roman) | 3 | alabado, excelente, bueno | [18](/es/lektionen/lektion18#_18-4-lista-de-palabras) |
 | ⟪सूक्ष्म⟫ | [sūkṣma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūkṣma&filter=roman&accent=no&transLit=roman) | 3 | fino, diminuto, sutil | [48](/es/lektionen/lektion48#_48-4-lista-de-palabras) |
-| ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | m | Sol, dios del sol Sūrya \<!-- --&gt | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
+| ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | m | Sol, dios del sol Sūrya \<!-- --\> | [38](/es/lektionen/lektion38#_38-9-lista-de-palabras) |
 | ⟪सूर्य⟫ | [sūrya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sūrya&filter=roman&accent=no&transLit=roman) | m | sol | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪सेवा⟫ | [sevā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sevā&filter=roman&accent=no&transLit=roman) | f | servicio, asistencia | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |
 | ⟪सेव्⟫ | [sev](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sev&filter=roman&accent=no&transLit=roman) | 1Ā | servir a alguien (), atender, honrar, amar | [52](/es/lektionen/lektion52#_52-7-lista-de-palabras) |

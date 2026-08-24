@@ -170,7 +170,7 @@ outline: 2
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | di satu tempat | [51](/id/lektionen/lektion51#_51-6-daftar-kata) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | menekankan kata sebelumnya | [13](/id/lektionen/lektion13#_13-9-daftar-kata) |
-| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | menekankan hal sebelumnya, dalam bahasa Jerman sering kali sesuai dengan penekanan, semacam emotikon \<!\>, mis. " | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
+| ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | menekankan hal sebelumnya, dalam bahasa Jerman sering kali sesuai dengan penekanan, semacam emotikon \<!\>, mis. "hanya  | [15](/id/lektionen/lektion15#_15-8-daftar-kata) |
 
 ## ओ
 

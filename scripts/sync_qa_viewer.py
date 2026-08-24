@@ -83,7 +83,7 @@ def sync_snippets(content):
     found_classes = set(re.findall(r'\.vp-doc\s+\.([\w-]+)\b', css_text))
     found_classes.update(re.findall(r'\.custom-block\.([\w-]+)\b', css_text))
     
-    ignore_set = {'sanskrit-dev', 'hi-dev', 'signalrot', 'vp-doc', 'vp-code', 'vp-adaptive-theme'}
+    ignore_set = {'sanskrit-dev', 'hi-dev', 'signalrot', 'vp-doc', 'vp-code', 'vp-adaptive-theme', 'info', 'tip', 'warning', 'danger', 'details'}
     candidate_containers = [c for c in found_classes if c not in ignore_set and not c.startswith('vp-')]
     
     missing_containers = [c for c in candidate_containers if f'::: {c}' not in content]

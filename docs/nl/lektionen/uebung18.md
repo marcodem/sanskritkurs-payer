@@ -1,149 +1,141 @@
-
 ---
-title: "Übung 18"
+title: "Oefening 18"
 uebung_id: 18
 category: "Übung"
 last_reconstructed: 2026-05-15
----
 
+---# Oefening 18
 
-# Oefening 18
+A) Vertaal de ⟪सुभाषित⟫ aan het begin van de les.
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion.
+⟪नास्ति कामसमो व्याधिर् नास्ति मोहसमो रिपुः । नास्ति क्रोधसमो वह्निर् नास्ति ज्ञानसमं सुखम् ॥⟫  
+Er is geen ziekte zoals de liefde,  
+er is geen bedrieger en vijand zoals verblinding,  
+er is geen vuur zoals woede,  
+er is geen geluk zoals inzicht.
 
-⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
-⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
-⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫  
-Es gibt keine Krankheit wie die Liebe,  
-Es gibt keinen Betrüger und Feind wie die Verblendung,  
-Es gibt kein Feuer wie den Zorn,  
-Es gibt kein Glück wie die Erkenntnis.
+B) Vertaal de volgende Tatpuruṣa:
 
-B) Übersetzen Sie folgende Tatpuruṣa:
+⟪१⟫. ⟪सुकर ३⟫ — gemakkelijk te doen
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫ — leicht zu tun
+⟪२⟫. ⟪सुकुल⟫ n. — goede familie
 
-⟪२⟫. ⟪सुकुल⟫ n. — gute Familie
+⟪३⟫. ⟪सुकृति⟫ v. — goede daad
 
-⟪३⟫. ⟪सुकृति⟫ f. — gute Tat
+⟪४⟫. ⟪अकरण⟫ zn. — het nalaten
 
-⟪४⟫. ⟪अकरण⟫ n. — Nichttun
+⟪५⟫. ⟪दुरिष्ट⟫ zn. — slechte wens
 
-⟪५⟫. ⟪दुरिष्ट⟫ n. — böser Wunsch
+⟪६⟫. ⟪दुरिष्टि⟫ v. — onjuist offer
 
-⟪६⟫. ⟪दुरिष्टि⟫ f. — fehlerhaftes Opfer
+⟪७⟫. ⟪सुखादित⟫ 3 — goed gekauwd
 
-⟪७⟫. ⟪सुखादित⟫ 3 — gut gekaut
+⟪८⟫. ⟪दुष्कर⟫ 3 — moeilijk te doen
 
-⟪८⟫. ⟪दुष्कर⟫ 3 — schwer zu tun
+⟪९⟫. ⟪दुर्जय⟫ 3 — moeilijk te verslaan
 
-⟪९⟫. ⟪दुर्जय⟫ 3 — schwer zu besiegen
+⟪१०⟫. ⟪सुगत⟫ m. — iemand die (door de wedergeboorten) het pad goed heeft bewandeld (= Boeddha)
 
-⟪१०⟫. ⟪सुगत⟫ m. — gut (durch die Wiedergeburten) Gegangener (= Buddha)
+⟪११⟫. ⟪सुजन⟫ m. — goed mens
 
-⟪११⟫. ⟪सुजन⟫ m. — guter Mensch
+⟪१२⟫. ⟪दुरुक्ति⟫ v. — harde woorden
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f. — harte Rede
+⟪१३⟫. ⟪दुरुपदेश⟫ m. — slecht advies
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m. — schlechte Anweisung
+⟪१४⟫. ⟪सुजात⟫ 3 — van goede afkomst
 
-⟪१४⟫. ⟪सुजात⟫ 3 — wohlgeboren
+⟪१५⟫. ⟪सु⟫guru 3 — zeer moeilijk
 
-⟪१५⟫. ⟪सु⟫guru 3 — sehr schwer
+⟪१६⟫. ⟪अनाप्त⟫ 3 — ongeschikt
 
-⟪१६⟫. ⟪अनाप्त⟫ 3 — ungeeignet
+⟪१७⟫. ⟪अनीति⟫ v. — ongepast gedrag
 
-⟪१७⟫. ⟪अनीति⟫ f. — ungehöriges Benehmen
+⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — niet-HEER-zijn
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. — nicht-HERR-sein
+⟪१९⟫. ⟪सुदुःख⟫ n. — groot leed
 
-⟪१९⟫. ⟪सुदुःख⟫ n. — grosses Leid
+⟪२०⟫. ⟪दुर्जन⟫ m. — slechte mens
 
-⟪२०⟫. ⟪दुर्जन⟫ m. — böser Mensch
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — ernstig verbrand
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — schlecht verbrannt
+⟪२२⟫. ⟪अतिकृत⟫ 3 — overdreven
 
-⟪२२⟫. ⟪अतिकृत⟫ 3 — übertrieben
+⟪२३⟫. ⟪सुपुत्र⟫ m. — goede zoon
 
-⟪२३⟫. ⟪सुपुत्र⟫ m. — guter Sohn
+⟪२४⟫. ⟪सुबुद्धि⟫ v. — goed inzicht
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f. — gute Einsicht
+⟪२५⟫. ⟪दुष्पुत्र⟫ m. — slechte zoon
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m. — schlechter Sohn
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — slecht uitgevoerd
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — schlecht ausgeführt
+⟪२७⟫. ⟪सुमति⟫ v. — vriendelijkheid
 
-⟪२७⟫. ⟪सुमति⟫ f. — Freundlichkeit
+⟪२८⟫. ⟪दुर्लभ⟫ 3 — moeilijk te krijgen
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3 — schwer zu bekommen
+⟪२९⟫. ⟪दुर्वच⟫ 3 — moeilijk te zeggen
 
-⟪२९⟫. ⟪दुर्वच⟫ 3 — schwer zu sagen
-
-⟪३०⟫. ⟪दुर्वचन⟫ n. — schlechte Rede
-
-⟪३१⟫. ⟪अमृत⟫ n. — Unsterblichkeit, Unsterblichkeitsspeise, Unsterblichkeitstrank
+⟪३०⟫. ⟪दुर्वचन⟫ n. — slechte taal
+⟪३१⟫. ⟪अमृत⟫ n. — Onsterfelijkheid, onsterfelijkheidsvoedsel, onsterfelijkheidsdrank
 
 ::: media
-![](/images/uebung027.jpg)
-Abb.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
-(Bildquelle: [Details](/licenses#uebung027))
+![](/images/oefening027.jpg)
+Afb.: ⟪नास्ति कामसमो व्याधिः⟫
+(Bron: [Details](/licenses#oefening027))
 :::
 ---
 
-## Zusätzliche Übungen
+## Aanvullende oefeningen
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge:
+A) Ontleed de volgende samengestelde woorden in het Sanskriet en geef vertaalvoorstellen:
 
-⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — zu Ende gegangen, Grammatik: auslautend
+⟪१⟫. ⟪अन्तगत ३ । अन्तं गतः ।⟫ — ten einde gekomen, grammatica: eindend op een medeklinker
 
-⟪२⟫. ⟪क्षमाकर⟫ ⟪३।⟫ ⟪क्षमा⟫-⟪करः⟫ ⟪।⟫ — jemand der geduldig ist, geduldiges Tun
+⟪२⟫. ⟪क्षमाकर ३। क्षमा⟫-⟪करः ।⟫ — iemand die geduldig is, geduldig handelen
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪।⟫ ⟪क्षेमस्येन्द्रः⟫ ⟪।⟫ — Herr der Ruhe / des Wohlergehens / Friedens
+⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪। क्षेमस्येन्द्रः ।⟫ — Heer van de rust / het welzijn / de vrede
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — Stoppen des Zorns mit dem Schwert = Stoppen des Kampfes
+⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪। शस्त्राणां कोपस्य निरोधः ।⟫ — De woede met het zwaard stoppen = de strijd stoppen
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — Töten eines / mehrerer Löwen, Töten durch einen / mehrere Löwen
+⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪। सिंहस्य संहननम् ।⟫ — Het doden van één of meerdere leeuwen, gedood door één of meerdere leeuwen
 
-⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — löwengleicher Feind
+⟪६⟫. ⟪अरिसिंह⟫ m. ⟪। सिंह इव अरिः ।⟫ — een vijand die op een leeuw lijkt
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪।⟫ ⟪आहारो⟫ ⟪निद्रा⟫ ⟪भयं⟫ ⟪च⟫ ⟪।⟫ — Essen, Schlafen und Furcht
+⟪७⟫. ⟪आहारनिद्राभय⟫ n. ⟪। आहारो निद्रा भयं च ।⟫ — eten, slapen en angst
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪।⟫ ⟪मृतेः⟫ ⟪साधनी⟫ ⟪।⟫ — Tod bewirkende
+⟪८⟫. ⟪मृतिसाधनी⟫ v. ⟪। मृतेः साधनी ।⟫ — de dood veroorzakend
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — Familienname (Hinweis auf die Familie)
+⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪। कुलस्योपदेशः ।⟫ — Familienaam (verwijzing naar de familie)
 
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse:
+B) Vertaal met behulp van werkwoorden uit de 2e tegenwoordige tijdklasse:
 
-1\. Der Brahmane preist die Göttinnen.
-⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (oder: ⟪स्तवीति⟫ ⟪।⟫)
+1\. De brahmaan prijst de godinnen.
+⟪ब्राह्मणो देवीः स्तौति ।⟫ (of: ⟪स्तवीति ।⟫)
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier.
-⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
+2\. De helden gaan over het moeilijk begaanbare pad naar het dorp van de Ariërs.
+⟪शूरा दुर्गमेण मार्गेणार्यग्रामं यन्ति ।⟫
 
-3\. Die Hausmagd melkt die Kühe.
-⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
+3\. De dienstmeid melkt de koeien.
+⟪गृहदासी धेनूर्दोग्धि ।⟫
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (oder: ⟪आर्यशत्रवो⟫...)
+4\. De vijanden van de Ariërs verslaan de machtige Kṣatriya’s.
+⟪आर्यारयो बलवत्क्षत्रियान्घन्ति ।⟫ (of: ⟪आर्यशत्रवो⟫...)
+5\. Een geest eet geen fruit.
+⟪भूतं फलानि नात्ति ।⟫
 
-5\. Ein Gespenst isst keine Früchte.
-⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
+6\. Zo spreekt hij die [de weg door de wedergeboorten] goed heeft bewandeld tot de leerling.
+⟪एवं सुगतः श्रावकं वक्ति ।⟫ (of: ⟪ब्रवीति । ब्रूते ।⟫)
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (oder: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+C) Geef in het Sanskriet de definitie van yoga op twee manieren: eenmaal met behulp van een samengesteld woord, eenmaal door het samengestelde woord op te splitsen.
 
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen.
+⟪योगश्चित्तवृत्तिनिरोधः ।⟫ (⟪योगश्चित्तस्य वृत्तेर्निरोधः ।⟫)
 
-⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
+D) Vertaal:
 
-D) Übersetzen Sie:
-
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
+(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा सत्यं शौचमनसूयानृशंस्यं क्षमा च ॥⟫
+Het is ieders plicht: geweldloosheid, waarachtigheid, zuiverheid, niet mopperen over het eigen lot, vrij zijn van kwaadaardigheid en geduldige verdraagzaamheid.
 
 ::: media
 ![](/images/uebung028.webp)
-Abb.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Bildquelle: [Details](/licenses#uebung028))
+Afb.: ⟪दुर्गमो मार्गः⟫
+(Bron: [Details](/licenses#oefening028))
 :::

@@ -1,39 +1,39 @@
-# Skriftoefening 9
+# Skryfoefening 9
 
-### Worttrennung
+### Aapstreepskrif
 
-Innerhalb eines Satzes (einer Vershälfte) findet Worttrennung in der Schrift nur statt, wenn ein Wort mit
+Binne 'n sin (of halwe vers), kom aapstreepskrif in skryfwerk slegs voor as 'n woord eindig met
 
-*   Vokal
-*   Anusvāra (ṃ)
-*   Visarga (ḥ)
+*   'n vokaal
+*   'n anusvāra (ṃ)
+*   visarga (ḥ)
 
-schliesst und das folgende Wort konsonantisch anlautet. Ebenso in den Fällen, in denen nach den Satzsandhiregeln ein Hiatus zwischen Vokalen entsteht.
+en die volgende woord begin met 'n medeklinker. Dieselfde geld in gevalle waar, volgens die reëls van sinstruktuur, 'n hiatus tussen vokale voorkom.
 
-### Interpunktion
+### Leestekens
 
-Das Ende eines Satzes wird in Prosa mit | (ardhadaṇḍa m.) bezeichnet. In Versen bezeichnet | das Ende der Halbstrophe, das Ende der Strophe bezeichnet || (daṇḍa m.). In Prosa bezeichnet || einen grösseren Einschnitt (z.B. das Ende eines Absatzes). Die Verszählung wird zwischen zwei || gesetzt, z.B. ||⟪१⟫||.
+In prosa word die einde van 'n sin aangedui met | (ardhadaṇḍa m.). In vers word | die einde van 'n halwe versreël aangedui, terwyl die einde van 'n versreël aangedui word met || (daṇḍa m.). In prosa dui || 'n groot breek aan (bv. die einde van 'n paragraaf). Die reeksgetal word tussen twee || geplaas, bv. ||⟪१⟫||.
 
-### Abkürzung
+### Afkorting
 
-Abkürzungszeichen (z.B. in Angaben von Werken) ist °, z.B. ⟪पा⟫° = pā(ṇinīye) = "Im Grammatiklehrwerk des Pāṇini".
+Die afkortingsimbool (bv. in verwysings na werke) is °, bv. ⟪पा⟫° = pā(ṇinīye) = 'In Pāṇini se grammatikatraktaat'.
 
-### Weitere Vokale in Anfangsstellung
+### Verdere vokale in aanvangsposisie
 
 ![](/images/schrift018.webp)
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+Neem asseblief kennis dat a, ā, o en au volgens dieselfde basiese patroon geskryf word.
 
 ## Oefening
 
-A) Schreiben Sie in Devanāgarī:
+A) Skryf die volgende in Devanagari:
 
 ṛṣayaḥ ekadṛṣṭiḥ ojas ṛcchati aitareya ṛte auṣadhaṃ ṛgvedaḥ eṣin aiśvaryaṃ oṣṭhapallavaḥ etat ṛṇam aitihāsikā aupamyaṃ ṛtvij evaṃvidha
 
-B) Lesen und transliterieren Sie:
+B) Lees en translitereer:
 
-⟪ए⟫ ⟪इ⟫ ⟪उ⟫ ⟪अ⟫ ⟪ऋ⟫ ⟪ई⟫ ⟪ऊ⟫ ⟪ओ⟫ ⟪ऐ⟫ ⟪आ⟫ ⟪औ⟫ ⟪ॠ⟫ ⟪अथ⟫ ⟪इष्⟫ ⟪उत्⟫ ⟪एक⟫ ⟪इन्⟫ ⟪ओत्⟫ ⟪अद्⟫ ⟪ऐश⟫ ⟪ऋध्⟫ ⟪ऊह्⟫ ⟪एध्⟫ ⟪ईश्⟫ ⟪उद्य⟫ ⟪औम्⟫ ⟪ऋण⟫ ⟪ऊढ⟫ ⟪इह⟫ ⟪उष्⟫ ⟪अद्⟫ ⟪अल्⟫ ⟪ॐ⟫ ⟪ओख्⟫ ⟪ऋच्⟫ ⟪ऐण⟫ ⟪उदङ्⟫ ⟪ऋणम्⟫ ⟪ईषत्⟫ ⟪ऊहनम्⟫ ⟪ऋषभ⟫ ⟪औषधम्⟫ ⟪ऐषमस्⟫ ⟪उपकरणम्⟫ ||
+⟪ए इ उ अ ऋ ई ऊ ओ ऐ आ औ ॠ अथ इष् उत् एक इन् ओत् अद् ऐश ऋध् ऊह् एध् ईश् उद्य औम् ऋण ऊढ इह उष् अद् अल् ॐ ओख् ऋच् ऐण उदङ् ऋणम् ईषत् ऊहनम् ऋषभ औषधम् ऐषमस् उपकरणम्⟫ ||
 
 

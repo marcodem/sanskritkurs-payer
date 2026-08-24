@@ -1,17 +1,18 @@
 ---
 title: "Exercício 39"
 uebung_id: 39
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 39
 
-A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser Verbform in Zahl, Zeit, Modus (Indikativ, Optativ) und Aktionsweise (P, Ā, Passiv) entsprechen:
+A) Forme as formas da primeira pessoa correspondentes às seguintes formas verbais, em número, tempo, modo (indicativo, optativo) e voz (P, Ā, Passiva):
 
 ::: grammar-box
-| 3. Person | 1. Person |
+| 3.ª Pessoa | 1.ª Pessoa |
 | :--- | :--- |
 | ⟪१⟫. ⟪अदन्ति⟫ | ⟪अद्मः⟫ |
 | ⟪२⟫. ⟪आसन⟫ | ⟪आस्म⟫ |
@@ -105,7 +106,7 @@ A) Bilden Sie zu folgenden Verbformen die Formen der ersten Person, die dieser V
 :::
 ::: media
 ![](/images/uebung064.webp)
-Abb.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Bildquelle: [Details](/licenses#uebung064))
+Fig.: ⟪आगारे सीदामः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung064))
 :::
 

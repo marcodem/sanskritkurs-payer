@@ -1,32 +1,31 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: "Lesing 55"
+subtitle: "Die a-aorist (aorist met themavokaal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
----
 
-# Les 55
+---# Les 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. Die a-aorist (aorist met 'n tematiese vokaal)
 
 ::: grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
+**Die a-aorist word gevorm soos 'n imperfektum (⟪लङ्⟫) van die 6de teenwoordige tydklas (⟪तुदादि⟫), d.w.s.:**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung**
+**Augment + laagste-graadwortel + a + sekondêre agtervoegsel**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.**
+**Die -a- word in dieselfde gevalle as in die imperfektum deur -ā- vervang.**
 
-**Keine Nasalinfixe.**
+**Geen neusklank-invoegsels nie.**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).**
+**Die Ātmanepada is skaars; vir Ubhayapada-wortels word dit gewoonlik gevorm volgens ander aoristklasse (sien Kielhorn, Grammatika §340 en hieronder onder die relevante aoristklasse).**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.**
+**'n Lys van wortels wat hierdie aorist het, kan in Kielhorn, Grammar §340 gevind word.**
 :::
-Beispiel:
+Voorbeeld:
 
-⟪सिच्⟫ 6U "beträufeln"
+⟪सिच्⟫ 6U 'besprinkel'
 
 ::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,23 +35,23 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmässige Bildungen:
+Onreëlmatige formasies:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P 'gooi': :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Vir 'n verduideliking, sien Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "om te vertel": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "sien": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (gevorderde vlak!)
 :::
-Beachte:
+Nota:
 
 ::: indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
+⟪शास्⟫ 2P "beveel": ⟪अशिषत्⟫ (reëlmatige laevlakvorm!)
 :::
-## 55.2. Übung
+## 55.2. Oefening
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist:
+Identifiseer en vertaal die volgende vorme skriftelik, en vorm die ooreenstemmende vorme van die a-aorist:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -80,17 +79,17 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 24.  ⟪अयुनक्⟫
 25.  ⟪आरिथ⟫
 26.  ⟪अक्लिद्यन्⟫
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+27.  ⟪अजीर्यम्⟫ (Aorist: hoë-vlak)
 28.  ⟪लुम्पति⟫
 29.  ⟪अशाम्यत⟫
-30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+30.  ⟪अशोभथाः⟫  (a-Aor.: P)
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501))
+Afbeelding: ⟪अजीर्यमिति⟫
+'Inâyat Khân op sterven, ontwerp voor een miniature van een handschrift voor Jahângîr = جهانگير, ca. 1618
+(Bron: [Details](/af/licenses#lekt5501))
 :::
 

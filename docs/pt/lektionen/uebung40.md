@@ -1,35 +1,36 @@
 ---
 title: "Exercício 40"
 uebung_id: 40
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 40
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ am Beginn der Lektion:
+A) Traduza o ⟪सुभाषितानि⟫ no início da lição:
 
-⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
-**⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Wissen ergibt rechtes Betragen, wegen rechten Betragens wird man ehrenswert; wenn man ehrenswert ist, wird man reich; wenn man reich ist, wird man gerecht — und daraus folgt das Glück.
+⟪१⟫. **⟪विद्या ददाति विनयं विनयाद्याति पात्रताम् ।⟫**  
+**⟪पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥ १ ॥⟫**  
+O conhecimento gera a conduta correta; por causa da conduta correta, torna-se digno de honra; sendo digno de honra, torna-se rico; sendo rico, torna-se justo — e disso resulta a felicidade.
 
-⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
-**⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Wenn man auf der Suche nach Glück das Wissen aufgibt, oder wenn man auf der Suche nach Wissen das Glück aufgibt: Woher sollte dann ein Glücksuchender Wissen haben, und woher ein Wissensuchender Glück?
+⟪२⟫. **⟪सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् ।⟫**  
+**⟪सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥ २ ॥⟫**  
+Se alguém, em busca da felicidade, abandona o conhecimento, ou se alguém, em busca do conhecimento, abandona a felicidade: de onde teria então o buscador da felicidade o conhecimento, e de onde o buscador do conhecimento a felicidade?
 
-⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
-**⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Ein Schüler erhält ein Viertel (des Wissens) von seinem Lehrer, ein Viertel durch seinen eigenen Verstand, ein Viertel von seinen Mitschülern und ein Viertel durch den Lauf der Zeit.
+⟪३⟫. **⟪आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया ।⟫**  
+**⟪पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥ ३ ॥⟫**  
+Um estudante recebe um quarto (do conhecimento) de seu professor, um quarto por sua própria inteligência, um quarto de seus colegas e um quarto pelo correr do tempo.
 
 ---
 
-## Verbale Transformationen (Perfekt)
+## Transformações Verbais (Perfeito)
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. Person):
+B) Transforme as seguintes formas verbais nas respectivas formas de perfeito (1ª pessoa):
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfekt (1. Person) |
+| Presente / Imperfeito | Perfeito (1ª pessoa) |
 | :--- | :--- |
 | ⟪१⟫. ⟪अश्नीमः⟫ | ⟪आशिम⟫ |
 | ⟪२⟫. ⟪स्मः⟫ | ⟪आसिम⟫ |
@@ -45,9 +46,9 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪१२⟫. ⟪युञ्ज्मः⟫ | ⟪युयुजिम⟫ |
 | ⟪१३⟫. ⟪अजानीम⟫ | ⟪जज्ञिम⟫ |
 | ⟪१४⟫. ⟪ददामि⟫ | ⟪ददौ⟫ |
-| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां⟫ ⟪चकार⟫ |
+| ⟪१५⟫. ⟪अबिभयम्⟫ | ⟪बिभाय⟫ / ⟪बिभयां चकार⟫ |
 | ⟪१६⟫. ⟪वच्मः⟫ | ⟪ऊचिम⟫ |
-| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां⟫ ⟪चक्रे⟫ |
+| ⟪१७⟫. ⟪कामये⟫ | ⟪कामयां चक्रे⟫ |
 | ⟪१८⟫. ⟪वसामः⟫ | ⟪ऊषिम⟫ |
 | ⟪१९⟫. ⟪अभवाम⟫ | ⟪बभूविम⟫ |
 | ⟪२०⟫. ⟪अस्यामि⟫ | ⟪आस⟫ |
@@ -60,12 +61,12 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪२७⟫. ⟪अनश्याम⟫ | ⟪नेशिम⟫ / ⟪नेश्म⟫ |
 | ⟪२८⟫. ⟪चरामः⟫ | ⟪चे⟫er⟪िम⟫ |
 | ⟪२९⟫. ⟪अवदाम⟫ | ⟪ऊदिम⟫ |
-| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां⟫ ⟪चकृम⟫ |
+| ⟪३०⟫. ⟪शोचयामः⟫ | ⟪शोचयां चकृम⟫ |
 | ⟪३१⟫. ⟪दध्महे⟫ | ⟪दधिमहे⟫ |
 | ⟪३२⟫. ⟪पिबामि⟫ | ⟪पपौ⟫ |
 | ⟪३३⟫. ⟪धरामः⟫ | ⟪दध्रिम⟫ |
 | ⟪३४⟫. ⟪म्रिये⟫ | ⟪ममार⟫ / ⟪ममर⟫ (P!) |
-| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां⟫ ⟪चकृम⟫ |
+| ⟪३५⟫. ⟪दूषयामः⟫ | ⟪दूषयां चकृम⟫ |
 | ⟪३६⟫. ⟪मन्ये⟫ | ⟪मेने⟫ |
 | ⟪३७⟫. ⟪स्वपिमः⟫ | ⟪सुषुप्पिम⟫ |
 | ⟪३८⟫. ⟪पामि⟫ | ⟪पपौ⟫ |
@@ -85,7 +86,7 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪५२⟫. ⟪स्मरिष्यामः⟫ | ⟪सस्मरिम⟫ |
 | ⟪५३⟫. ⟪अभजाम⟫ | ⟪भेजिम⟫ |
 | ⟪५४⟫. ⟪जेष्यामः⟫ | ⟪जिग्यिम⟫ |
-| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां⟫ ⟪चक्रे⟫ |
+| ⟪५५⟫. ⟪आसे⟫ | ⟪आसां चक्रे⟫ |
 | ⟪५६⟫. ⟪विन्दामः⟫ | ⟪विविदिम⟫ |
 | ⟪५७⟫. ⟪धक्ष्यामः⟫ | ⟪देहिम⟫ |
 | ⟪५८⟫. ⟪शक्नुमः⟫ | ⟪शेकिम⟫ |
@@ -93,67 +94,66 @@ B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen (1. 
 | ⟪६०⟫. ⟪भोत्स्ये⟫ | ⟪बुबुधे⟫ |
 | ⟪६१⟫. ⟪लभे⟫ | ⟪लेभे⟫ |
 | ⟪६२⟫. ⟪नर्तिष्यामि⟫ | ⟪ननर्त⟫ |
-| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां⟫ ⟪चकार⟫ |
+| ⟪६३⟫. ⟪अगमयम्⟫ | ⟪गमयां चकार⟫ |
 | ⟪६४⟫. ⟪द्विष्महे⟫ | ⟪दिद्विषिमहे⟫ |
-| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां⟫ ⟪चक्रे⟫ |
+| ⟪६५⟫. ⟪चोरये⟫ | ⟪चोरयां चक्रे⟫ |
 | ⟪६६⟫. ⟪अजुहुम⟫ | ⟪जुहुविम⟫ |
 | ⟪६७⟫. ⟪अहनम्⟫ | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. ⟪पश्यामः⟫ | ⟪ददृशिम⟫ |
-| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
+| ⟪६९⟫. ⟪ईक्षे⟫ | ⟪ईक्षां चक्रे⟫ |
 :::
 ::: media
 ![](/images/uebung065.webp)
-Abb.: ⟪आशिमेति⟫
-(Bildquelle: [Details](/licenses#uebung065))
+Fig.: ⟪आशिमेति⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung065))
 :::
 ---
 
-## Wortformbestimmung
+## Determinação de Formas Verbais e Nominais
 
-Bestimmen und übersetzen Sie folgende Wortformen:
+Determine e traduza as seguintes formas:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| Forma | Determinação | Significado |
 | :--- | :--- | :--- |
-| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | ich gab / er gab für sich |
-| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | sie geben für sich |
-| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | im Bösen |
-| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | ich sitze |
-| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | diese |
-| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | im Gegangenen |
-| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | von hier / gegangen |
-| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | von wo / des Gehenden |
-| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | dem Gehenden |
-| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | er wird gegangen |
-| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | welches |
-| ⟪१२⟫. ⟪यदा⟫ | Adv. | wann (relativ) |
-| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | ich pries für mich |
-| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | er pries |
-| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | des Absoluten / des Brahmanen |
-| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | der Brahmane |
-| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | ich erhalte |
-| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | im Gewinn |
-| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | ich erhielt / er erhielt |
-| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | in der Gier |
-| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | irgendwelche |
-| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | im System |
-| ⟪२३⟫. ⟪तत्र⟫ | Adv. | dort |
-| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | in Manu |
-| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | ich dachte / er dachte |
-| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | wir werden wissen |
-| ⟪२७⟫. ⟪कच्चित्⟫ | Fragepartikel | etwa? |
-| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | ich verliess / er verliess |
-| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | o Wissenschaft! |
-| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | die Wissenschaft |
-| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | durch diesen |
-| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | ich sah |
-| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | er sagte |
-| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | er schlug |
+| ⟪१⟫. ⟪ददे⟫ | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | eu dei / ele deu para si mesmo |
+| ⟪२⟫. ⟪ददते⟫ | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | eles dão para si mesmos |
+| ⟪३⟫. ⟪पापे⟫ | ⟪पाप⟫ (n.) Lok. sg. | no mal |
+| ⟪४⟫. ⟪आसे⟫ | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | eu sento |
+| ⟪५⟫. ⟪एते⟫ | ⟪एतद्⟫ (m.) Nom. pl. | estes |
+| ⟪६⟫. ⟪इते⟫ | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | no passado |
+| ⟪७⟫. ⟪इतः⟫ | Adv. / PPP Nom. sg. m. | daqui / ido |
+| ⟪८⟫. ⟪यतः⟫ | Adv. / Part. Präs. P. Gen. sg. | de onde / do que vai |
+| ⟪९⟫. ⟪यते⟫ | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | ao que vai |
+| ⟪१०⟫. ⟪ईयते⟫ | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | ele é ido |
+| ⟪११⟫. ⟪यत्⟫ | ⟪यद्⟫ (n.) Nom./Akk. sg. | qual |
+| ⟪१२⟫. ⟪यदा⟫ | Adv. | quando (relativo) |
+| ⟪१३⟫. ⟪अस्तुवि⟫ | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | eu louvei para si mesmo |
+| ⟪१४⟫. ⟪अस्तवीत्⟫ | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | ele louvou |
+| ⟪१५⟫. ⟪ब्रह्मणः⟫ | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | do Absoluto / do brâmane |
+| ⟪१६⟫. ⟪ब्राह्मणः⟫ | ⟪ब्राह्मण⟫ (m.) Nom. sg. | o brâmane |
+| ⟪१७⟫. ⟪लभे⟫ | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | eu recebo |
+| ⟪१८⟫. ⟪लाभे⟫ | ⟪लाभ⟫ (m.) Lok. sg. | no ganho |
+| ⟪१९⟫. ⟪लेभे⟫ | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | eu recebi / ele recebeu |
+| ⟪२०⟫. ⟪लोभे⟫ | ⟪लोभ⟫ (m.) Lok. sg. | na ganância |
+| ⟪२१⟫. ⟪काश्चन⟫ | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | quaisquer |
+| ⟪२२⟫. ⟪तन्त्रे⟫ | ⟪तन्त्र⟫ (n.) Lok. sg. | no sistema |
+| ⟪२३⟫. ⟪तत्र⟫ | Adv. | ali |
+| ⟪२४⟫. ⟪मनौ⟫ | ⟪मनु⟫ (m.) Lok. sg. | em Manu |
+| ⟪२५⟫. ⟪मेने⟫ | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | eu pensei / ele pensou |
+| ⟪२६⟫. ⟪वेत्स्यामः⟫ | ⟪विद्⟫ (6U) 1. pl. P. Fut. | nós saberemos |
+| ⟪२७⟫. ⟪कच्चित्⟫ | Partícula interrogativa | acaso? |
+| ⟪२८⟫. ⟪तत्याज⟫ | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | eu deixei / ele deixou |
+| ⟪२९⟫. ⟪विद्ये⟫ | ⟪विद्या⟫ (f.) Vok. sg. | ó Ciência! |
+| ⟪३०⟫. ⟪विद्याम्⟫ | ⟪विद्या⟫ (f.) Akk. sg. | a Ciência |
+| ⟪३१⟫. ⟪एनेन⟫ | ⟪एनद्⟫ (m./n.) Instr. sg. | por este |
+| ⟪३२⟫. ⟪ऐक्षे⟫ | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | eu vi |
+| ⟪३३⟫. ⟪आह⟫ | ⟪अह्⟫ (P) 3. sg. P. Perf. | ele disse |
+| ⟪३४⟫. ⟪आहन्⟫ | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | ele golpeou |
 :::
 ::: media
 ![](/images/uebung066.webp)
-Abb.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Bildquelle: [Details](/licenses#uebung066))
+Fig.: ⟪काश्चन वाहिकाः⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung066))
 :::
-
 

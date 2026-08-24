@@ -1,214 +1,215 @@
 ---
 title: "Exercício 8"
 uebung_id: 8
-category: "Exercício"
+category: "Übung"
 last_reconstructed: 2026-05-15
+
 ---
 
 
 # Exercício 8
 
-A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:
+A) Explique os seguintes substantivos indicando a raiz da qual foram derivados e o sufixo nominal. Indique gênero e significado:
 
-1\. lobha: lubh 4 P "begehren" + -a m.: "Begierde"
+1\. lobha: lubh 4 P "desejar" + -a m.: "Desejo, cobiça"
 
-2\. rakṣa: rakṣ 1 P "hüten" + -a 3: "hütend, beschützend" ; m.: "Wächter"
+2\. rakṣa: rakṣ 1 P "guardar" + -a 3: "guardando, protegendo"; m.: "Guardião"
 
-3\. śrotra: śru 5 P "hören" + -tra n.: "Ohr"
+3\. śrotra: śru 5 P "ouvir" + -tra n.: "Ouvido, ouvido"
 
-4\. mati: man 4 Ā "denken" + -ti f.: "Gedanke, Meinung"
+4\. mati: man 4 Ā "pensar" + -ti f.: "Pensamento, opinião"
 
-5\. savana: su 5 U "auspressen" + -ana n.: "Somapressung"
+5\. savana: su 5 U "exprimir, prensar" + -ana n.: "Prensagem de soma"
 
-6\. yodha: yudh 4 Ā "kämpfen" + -a m.: "Kämpfer, Soldat"
+6\. yodha: yudh 4 Ā "lutar" + -a m.: "Combatente, soldado"
 
-7\. lābha: labh 1 Ā "erhalten" + -a m.: "Bekommen, Gewinn"
+7\. lābha: labh 1 Ā "obter" + -a m.: "Obtenção, ganho"
 
-8\. kāraṇa: kṛ 8 U "machen, tun" + -ana n.: "Ursache, Grund"
+8\. kāraṇa: kṛ 8 U "fazer, realizar" + -ana n.: "Causa, motivo"
 
-9\. gati: gam 1 P "gehen" + -ti f.: "Gang, 'Laufbahn', Ziel"
+9\. gati: gam 1 P "ir" + -ti f.: "Movimento, 'caminho', destino"
 
-10\. khādana: khād 1 P "kauen" + -ana n.: "Kauen, Verzehr, Futter"
+10\. khādana: khād 1 P "mastigar" + -ana n.: "Mastigação, consumo, alimento"
 
-11\. smara: smṛ 1 P "vergegenwärtigen" + -a m.: "Erinnerung, Gedächtnis, Sehnsucht, Liebe"
+11\. smara: smṛ 1 P "evocar, recordar" + -a m.: "Memória, lembrança, saudade, amor"
 
-12\. sṛṣṭi: sṛj 6 P / 4 A "emanieren lassen, erschaffen" + -ti: "Emanation, Schöpfung"
+12\. sṛṣṭi: sṛj 6 P / 4 A "emanar, criar" + -ti: "Emanação, criação"
 
-13\. tantra: tan 8 U "aufspannen" + -tra n.: "Webkette, Gewebe"
+13\. tantra: tan 8 U "estender, tensionar" + -tra n.: "Urde, tecido"
 
-14\. bhāva: bhū 1 P "werden, sein" + -a m.: "Werden, natur, Charakter"
+14\. bhāva: bhū 1 P "tornar-se, ser" + -a m.: "Tornar-se, natureza, caráter"
 
-15\. darśana: dṛś (4 P: paśyati) "sehen" + -ana n-: "Sehen, Erscheinung, Sichtweise, philosophisches System"
+15\. darśana: dṛś (4 P: paśyati) "ver" + -ana n-: "Visão, aparência, perspectiva, sistema filosófico"
 
-16\. netra: nī 1 U "führen" + -tra n.: "Auge"
+16\. netra: nī 1 U "guiar, conduzir" + -tra n.: "Olho"
 
-17\. veśana: viś 6 P "eintreten" + -ana n.: "Eintritt"
+17\. veśana: viś 6 P "entrar" + -ana n.: "Entrada, ingresso"
 
-18\. kopa: kup 4 P "zürnen" + -a m.: "Zorn"
+18\. kopa: kup 4 P "zangar-se, irritar" + -a m.: "Ira, raiva"
 
-19\. sarga: ṛj 6 P / 4 A "emanieren lassen, erschaffen" + -a m.: "Loslassen, Emanation, Schöpfung"
+19\. sarga: ṛj 6 P / 4 A "emanar, criar" + -a m.: "Lançamento, Emanação, Criação"
 
-20\. yajana: yaj 1 U "opfern" + -ana n.: "Opfern, Opferplatz"
+20\. yajana: yaj 1 U "sacrificar" + -ana n.: "Sacrifício, local de sacrifício"
 
-21\. moha: muḥ 4 P "verwirrt sein" + -a m.: "Verwirrtsein, Verblendung, Irrtum"
+21\. moha: muḥ 4 P "estar confuso" + -a m.: "confusão, ilusão, erro"
 
-22\. śrava: śru 5 P "hören" + -a m.: "Hören"
+22\. śrava: śru 5 P "ouvir" + -a m.: "audição, ouvir"
 
-23\. bhavana: bhū 1 P "werden, sein" + -ana n.: "Werden, Entstehen, Entstehung"
+23\. bhavana: bhū 1 P "tornar-se, ser" + -ana n.: "tornar-se, surgimento, origem"
 
-24\. nīti: nī 1 U "führen" + -ti f.: "Führung"
+24\. nīti: nī 1 U "guiar" + -ti f.: "guia, direção"
 
-25\. nartana: nṛt 4 P "tanzen" + -ana 3: "tanzend, Tänzer" ; n.: "Tanz"
+25\. nartana: nṛt 4 P "dançar" + -ana 3: "dançante, dançarino"; n.: "dança"
 
-26\. jaya: ji 1 P "siegen" + -a m.: "Siegen, Sieg"
+26\. jaya: ji 1 P "vencer" + -a m.: "vitória, vencer"
 
-27\. nayana: nī 1 U "führen" + -ana n.: "Auge"
+27\. nayana: nī 1 U "guiar" + -ana n.: "olho"
 
-28\. śravaṇa: śru 5 P "hören" + -ana n.: "Ohr"
+28\. śravaṇa: śru 5 P "ouvir" + -ana n.: "orelha, ouvido"
 
-B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich)
+B) Forme abstratos para todos os substantivos aprendidos até agora e reflita sobre seu significado (oralmente)
 
-C) Setzen Sie als direktes Objekt im Singular und Plural ein:
+C) Insira como objeto direto no singular e plural:
 
 kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
 kṣatriyo brāhmaṇaṃ / brāhmaṇān / vaiśyaṃ / vaiśyān rakṣati. kṣatriyaḥ śūdraṃ / śūdrān. kṣatriyo brāhmaṇīṃ / brāhmaṇī rakṣati. kṣatriyaḥ kṣatriyāṃ / kṣatriyā rakṣati.
 
-⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणान्रक्षति⟫ ⟪।⟫ ⟪क्त्रियो⟫ ⟪वैश्यं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪वैश्यान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪शूद्रान्रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणीं⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणी⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रियां⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪क्षत्रियः⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫ ⟪॥⟫
+⟪क्षत्रियो ब्राह्मणं रक्षति । क्षत्रियो ब्राह्मणान्रक्षति । क्त्रियो वैश्यं रक्षति । क्षत्रियो वैश्यान्रक्षति । क्षत्रियः शूद्रं रक्षति । क्षत्रियः शूद्रान्रक्षति । क्षत्रियो ब्राह्मणीं रक्षति । क्षत्रियो ब्राह्मणी रक्षति । क्षत्रियः क्षत्रियां रक्षति । क्षत्रियः क्षत्रिया रक्षति ॥⟫
 
-D) Übersetzen Sie
+D) Traduza
 
-1\. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten)
+1\. Os kṣatriyas protegem tanto brāhmaṇas quanto vaiśyas e śūdras. (2 possibilidades)
 
 kṣatriyā brāhmaṇāṃś ca vaiśyāṃś ca śūdrāṃś ca rakṣanti / kṣatriyā brāhmaṇavaiśyaśūdrān rakṣanti.
 
-⟪क्षत्रिया⟫ ⟪ब्राह्मणांश्च⟫ ⟪वैश्यांश्च⟫ ⟪शूद्रांश्च⟫ ⟪रक्षन्ति⟫ ⟪।⟫ ⟪क्षत्रिया⟫ ⟪ब्राह्मणवैश्यशूद्रान्रक्षन्ति⟫ ⟪।⟫
+⟪क्षत्रिया ब्राह्मणांश्च वैश्यांश्च शूद्रांश्च रक्षन्ति । क्षत्रिया ब्राह्मणवैश्यशूद्रान्रक्षन्ति ।⟫
 
-2\. Ein heiliger Mann sieht sowohl Himmel als auch Höllen.
+2\. Um homem santo vê tanto o céu como os infernos.
 
 sādhuḥ svargāmś ca narakāmś ca paśyati.
 
-⟪साधुः⟫ ⟪स्वर्गांश्च⟫ ⟪नरकांश्च⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪साधुः स्वर्गांश्च नरकांश्च पश्यति ।⟫
 
-3\. Er besiegt Kṣatriyas.
+3\. Ele derrota os Kṣatriyas.
 
 kṣatriyāñ jayati.
 
-⟪क्षत्रियञ्जयति⟫ ⟪।⟫
+⟪क्षत्रियञ्जयति ।⟫
 
-4\. Sie spannt die Webkette auf.
+4\. Ela estende a urdidura.
 
 tantraṃ tanoti.
 
-⟪तन्त्रं⟫ ⟪तनोति⟫ ⟪।⟫
+⟪तन्त्रं तनोति ।⟫
 
-5\. Soldaten kämpfen.
+5\. Os soldados lutam.
 
 yodhā yudhyante.
 
-⟪योधा⟫ ⟪युध्यन्ते⟫ ⟪।⟫
+⟪योधा युध्यन्ते ।⟫
 
-6\. Der Brahmane macht ein Feuer.
+6\. O brâmane faz um fogo.
 
 brāhmaṇo 'gniṃ karoti.
 
-⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫ ⟪।⟫
+⟪ब्राह्मणो ऽग्निं करोति ।⟫
 
-7\. Brahmanen machen Feuer.
+7\. Os brâmanes fazem fogo.
 
 brāhmaṇā agniṃ kurvanti.
 
-⟪ब्राह्मणा⟫ ⟪अग्निं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪ब्राह्मणा अग्निं कुर्वन्ति ।⟫
 
-8\. Was tun diese Kämpfer?
+8\. O que fazem estes combatentes?
 
 ime yodhāḥ kiṃ kurvanti?
 
-⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+⟪इमे योधाः किं कुर्वन्ति ।⟫
 
-9\. Wen sieht das Auge?
+9\. A quem vê o olho?
 
 netraṃ (nayanaṃ) kaṃ paśyati?
 
-⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं⟫ ⟪पश्यति⟫ ⟪।⟫
+⟪नेत्रं⟫ (⟪नयनं⟫) ⟪कं पश्यति ।⟫
 
-10\. Was begehren Götter?
+10\. O que desejam os deuses?
 
 devāḥ kiṃ lubhyanti?
 
-⟪देवाः⟫ ⟪किं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+⟪देवाः किं लुभ्यन्ति ।⟫
 
-11\. Was ist der Grund?
+11\. Qual é a razão?
 
 kiṃ kāraṇam?
 
-⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
+⟪किं कारणम् ॥⟫
 
 ::: media
 ![](/images/uebung007.webp)
-Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#uebung007))
+Fig.: ⟪इमे योधाः किं कुर्वन्ति ।⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung007))
 :::
 ---
 
-## Leseübung
+## Exercício de leitura
 
-1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
-Der Śūdra führt den Knaben.
+1\. ⟪शूद्रो बालं नयति⟫ |
+O śūdra conduz o menino.
 
-2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-Der Dichter opfert dem Gott.
+2\. ⟪कविर्देवं यजते⟫ |
+O poeta sacrifica ao deus.
 
-3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
-Der Heilige isst Früchte.
+3\. ⟪साधुः फलानि खादति⟫ |
+O santo come frutas.
 
-4\. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
-Der Meister besiegt seinen Zorn.
+4\. ⟪गुरुः क्रोधं जयति⟫ |
+O mestre derrota sua ira.
 
-5\. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
-Der Gott erschafft die Hölle.
+5\. ⟪देवो नरकं सृजति⟫ |
+O deus cria o inferno.
 
-6\. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
-Die Kuh betritt das Dorf.
+6\. ⟪धेनुर्ग्रामं विशति⟫ |
+A vaca entra na aldeia.
 
-7\. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
-Leidenschaft, Zorn und Gier führen zur Hölle.
+7\. ⟪कामक्रोधलोभा नरकं नयन्ति⟫ |
+Paixão, ira e cobiça levam ao inferno.
 
-8\. ⟪देवतां⟫ ⟪यजति⟫ |
-Er opfert für einen Opferherren der Gottheit.
+8\. ⟪देवतां यजति⟫ |
+Ele sacrifica para um senhor de sacrifício da divindade.
 
-9\. ⟪बाला⟫ ⟪भवति⟫ |
-Ein Mädchen entsteht.
+9\. ⟪बाला भवति⟫ |
+Uma menina surge.
 
-10\. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
-Ein Wagenlenker lenkt den Wagen.
+10\. ⟪सारथी रथं नयति⟫ |
+Um cocheiro conduz a carruagem.
 
-11\. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
-Die Affen fressen die Früchte.
+11\. ⟪कपयः फलानि खादन्ति⟫ |
+Os macacos comem os frutos.
 
-12\. ⟪बाला⟫ ⟪लिखति⟫ |
-Das Mädchen scheibt bzw. zeichnet.
+12\. ⟪बाला लिखति⟫ |
+A menina escreve ou desenha.
 
-13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
-Die Jungfrau betritt das Haus.
+13\. ⟪कुमारी गृहं विशति⟫ |
+A donzela entra na casa.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+14\. ⟪देवो नागं सृजति⟫ |
+Deus cria o elefante ou a cobra ou o nāga.
 
-15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
-Der Knabe führt den Elefanten.
+15\. ⟪बालो गजं नयति⟫ |
+O menino conduz o elefante.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā)
-Vimalā ist traurig.
+16\. ⟪विमला शोचति⟫ | (⟪विमला⟫ Nome próprio Vimalā)
+Vimalā está triste.
 
-17\. ⟪शुकः⟫ ⟪पतति⟫ |
-Der Papagei fliegt.
+17\. ⟪शुकः पतति⟫ |
+O papagaio voa.
 
-18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
-Der Knabe schreibt einen Brief.
+18\. ⟪बालः पत्रिकां लिखति⟫ |
+O menino escreve uma carta.
 
 ::: media
 ![](/images/uebung008.webp)
-Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
-(Bildquelle: [Details](/licenses#uebung008))
+Fig.: ⟪कपिः फलं खदति⟫
+(Fonte da imagem: [Detalhes](/licenses#uebung008))
 :::
