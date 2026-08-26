@@ -7,7 +7,7 @@
 //   Generates frequent fallbacks to Spanish/English and lacks scientific precision for Sanskrit terminology.
 
 export const ACTIVE_LOCALES = [
-  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'zu', 'am', 'cop', 'gsw', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te'
+  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc', 'fi', 'hu', 'zh', 'fa', 'bg', 'tr', 'nl', 'af', 'lt', 'sh', 'sq', 'pt', 'vi', 'zu', 'am', 'cop', 'gsw', 'pl', 'cs', 'sk', 'sl', 'ka', 'hy', 'si', 'te', 'da', 'no', 'sv', 'is', 'et'
 ];
 
 export const DEFAULT_LOCALES = [];
@@ -58,7 +58,12 @@ export const LOCALE_FLAGS = {
   ka: '🇬🇪',
   hy: '🇦🇲',
   si: '🇱🇰',
-  te: '🇮🇳'
+  te: '🇮🇳',
+  da: '🇩🇰',
+  no: '🇳🇴',
+  sv: '🇸🇪',
+  is: '🇮🇸',
+  et: '🇪🇪'
 };
 
 export const LOCALE_NAMES = {
@@ -107,7 +112,12 @@ export const LOCALE_NAMES = {
   ka: '🇬🇪 ქართული',
   hy: '🇦🇲 Հայերեն',
   si: '🇱🇰 සිංහල',
-  te: '🇮🇳 తెలుగు'
+  te: '🇮🇳 తెలుగు',
+  da: '🇩🇰 Dansk',
+  no: '🇳🇴 Norsk',
+  sv: '🇸🇪 Svenska',
+  is: '🇮🇸 Íslenska',
+  et: '🇪🇪 Eesti'
 };
 
 export const FOOTER_LABELS = {
@@ -157,5 +167,10 @@ export const FOOTER_LABELS = {
   ka: { prev: 'წინა გაკვეთილი', exercise: 'დამატებითი სავარჯიშო', next: 'შემდეგი გაკვეთილი' },
   hy: { prev: 'Նախորդ դասը', exercise: 'Լրացուցիչ վարժություն', next: 'Հաջորդ դասը' },
   si: { prev: 'පෙර පාඩම', exercise: 'අතිරේක ව්‍යායාම', next: 'ඊළඟ පාඩම' },
-  te: { prev: 'మునుపటి పాఠం', exercise: 'అదనపు వ్యాయామం', next: 'తదుపరి పాఠం' }
+  te: { prev: 'మునుపటి పాఠం', exercise: 'అదనపు వ్యాయామం', next: 'తదుపరి పాఠం' },
+  da: { prev: 'Forrige lektion', exercise: 'Ekstra øvelse', next: 'Næste lektion' },
+  no: { prev: 'Forrige leksjon', exercise: 'Ekstra øvelse', next: 'Neste leksjon' },
+  sv: { prev: 'Föregående lektion', exercise: 'Extra övning', next: 'Nästa lektion' },
+  is: { prev: 'Fyrri kennslustund', exercise: 'Auka æfing', next: 'Næsta kennslustund' },
+  et: { prev: 'Eelmine õppetund', exercise: 'Lisaharjutus', next: 'Järgmine õppetund' }
 };
