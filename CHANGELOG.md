@@ -2,6 +2,10 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
+## [1.7.2] - 2026-08-26 (Hotfix)
+### Behoben
+- **Build-Fix:** Hinzufügen der fehlenden VitePress-Konfigurationsdateien (`da.mjs`, `et.mjs`, `is.mjs`, `no.mjs`, `sv.mjs`) für die nordischen Sprachen, die den CI-Build (`docs:build`) auf GitHub Actions abstürzen ließen.
+
 ## [1.7.1] - 2026-08-26 (Hotfix)
 ### Behoben
 - **VitePress Suche Absturz:** Hotfix für `ACTIVE_LOCALES` Scope-Bug im Such-Filter, der die lokale Suche auf der Produktionsseite zum Absturz brachte.
