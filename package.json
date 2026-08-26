@@ -1,6 +1,6 @@
 {
   "name": "sanskritkurs-pipeline",
-  "version": "1.7.2",
+  "version": "1.7.4",
   "description": "SSG Pipeline für Sanskritkurs",
   "main": "index.js",
   "scripts": {

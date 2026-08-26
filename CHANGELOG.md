@@ -2,6 +2,10 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
+## [1.7.4] - 2026-08-26 (Hotfix)
+### Behoben
+- **Build-Fix:** Fehlendes `languages.mjs` Update für die nordischen Sprachen eingecheckt. Das Script verursachte Diskrepanzen zwischen dem lokalen Pre-Push-Check und der GitHub Actions Umgebung.
+
 ## [1.7.2] - 2026-08-26 (Hotfix)
 ### Behoben
 - **Build-Fix:** Hinzufügen der fehlenden VitePress-Konfigurationsdateien (`da.mjs`, `et.mjs`, `is.mjs`, `no.mjs`, `sv.mjs`) für die nordischen Sprachen, die den CI-Build (`docs:build`) auf GitHub Actions abstürzen ließen.
