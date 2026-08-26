@@ -41,6 +41,11 @@ import { pt } from './locales/pt.mjs'
 import { tr } from './locales/tr.mjs'
 import { vi } from './locales/vi.mjs'
 import { zu } from './locales/zu.mjs'
+import { da } from './locales/da.mjs'
+import { no } from './locales/no.mjs'
+import { sv } from './locales/sv.mjs'
+import { is } from './locales/is.mjs'
+import { et } from './locales/et.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
@@ -91,10 +96,15 @@ populateSidebar(bg, 'Урок', 'bg', 'Писмо', 'Упражнение');
 populateSidebar(tr, 'Ders', 'tr', 'Yazı', 'Egzersiz');
 populateSidebar(vi, 'Bài học', 'vi', 'Chữ viết', 'Bài tập');
 populateSidebar(zu, 'Isifundo', 'zu', 'Ukubhala', 'Ukuzivocavoca');
+populateSidebar(da, 'Lektion', 'da', 'Skrift', 'Øvelse');
+populateSidebar(no, 'Leksjon', 'no', 'Skrift', 'Øvelse');
+populateSidebar(sv, 'Lektion', 'sv', 'Skrift', 'Övning');
+populateSidebar(is, 'Kennslustund', 'is', 'Skrift', 'Æfing');
+populateSidebar(et, 'Õppetund', 'et', 'Kiri', 'Harjutus');
 
 
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, zu
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, zu, da, no, sv, is, et
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
@@ -153,7 +163,12 @@ export default defineConfig({
     sh: { ...sh },
     sq: { ...sq },
     pt: { ...pt },
-    bg: { ...bg }
+    bg: { ...bg },
+    da: { ...da },
+    no: { ...no },
+    sv: { ...sv },
+    is: { ...is },
+    et: { ...et }
   },
   
   themeConfig: {
@@ -182,14 +197,13 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ACTIVE_LOCALES.filter(c => c !== 'de');
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
-              if (ACTIVE.includes(seg)) {
+              if (seg.match(/^[a-z]{2,3}(-[A-Z]{2})?$/)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
                 return result.id.startsWith('/' + seg + '/');
               }
-              // Root/DE: nur Seiten ohne Sprachpräfix (kein /xx/ am Anfang)
-              return !result.id.match(/^\/[a-z]{2,3}\//);
+              // Root/DE: nur Seiten ohne Sprachpräfix (kein /xx/ oder /xx-XX/ am Anfang)
+              return !result.id.match(/^\/[a-z]{2,3}(-[A-Z]{2})?\//);
             }
           }
         },

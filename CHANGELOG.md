@@ -2,6 +2,11 @@
 
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
+## [1.7.1] - 2026-08-26 (Hotfix)
+### Behoben
+- **VitePress Suche Absturz:** Hotfix für `ACTIVE_LOCALES` Scope-Bug im Such-Filter, der die lokale Suche auf der Produktionsseite zum Absturz brachte.
+- **Deutsch-Rückstände in Tabellen (z.B. 4.1.1.1.2):** Erweiterung der `translation_qa.py` Keyword-Listen (`STRICT_DE_GRAMMAR_KEYWORDS`) um spezifische deutsche Phrasen ("er, sie, es; der, die, das"), um unübersetzte Fragmente innerhalb von Tabellen, die von Lingua ignoriert werden, zuverlässig abzufangen.
+
 ## [1.7.0] - Unreleased
 ### Hinzugefügt
 - **PWA Decoupling (Offline-Architektur):** Die verfügbaren UI-Sprachen sind jetzt vollständig von den Offline-Downloads (Service Worker) entkoppelt. Benutzer können selektiv einzelne Sprachen für die Offline-Verwendung herunterladen, wodurch die Caching-Zeiten drastisch verkürzt werden.

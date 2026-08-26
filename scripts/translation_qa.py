@@ -87,7 +87,8 @@ def is_sanskrit_iast(text):
 
 def check_has_de_phrases(txt, code, fast=False):
     """Check if text contains unallowed German (or English) phrases/remnants."""
-    return False
+    if code == "de":
+        return False
 
     clean_txt = clean_markdown_for_lid(txt)
 
@@ -154,7 +155,7 @@ def check_has_de_phrases(txt, code, fast=False):
                 try:
                     lang_detected = detector.detect_language_of(p)
                     if lang_detected == Language.GERMAN and code not in DE_FALLBACK_ALLOWED:
-                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf"]):
+                        if any(cit in p for cit in ["Dümmler", "Berlin", "Kielhorn", "Solomons", "Monier-Williams", "Stenzler", "Image source:", "Fig.:", "Lüders", "Alsdorf", "Weber, Max", "Tübingen"]):
                             continue
                         return True
                     elif lang_detected == Language.ENGLISH and code in DE_FALLBACK_ALLOWED and code not in ["en", "rm"]:
