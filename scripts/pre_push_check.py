@@ -18,6 +18,7 @@ Usage:
   python3 scripts/pre_push_check.py --build      # inkl. npm run docs:build
   python3 scripts/pre_push_check.py --scope=all  # alle Files
   python3 scripts/pre_push_check.py --fix        # reparierbare Fehler automatisch fixen
+  python3 scripts/pre_push_check.py --strict     # bricht ab wenn docs/ oder scripts/ uncommitted changes haben
 """
 
 import os, re, sys, subprocess, unicodedata
@@ -169,6 +170,16 @@ def check_config_files_in_diff():
                     and '.vitepress' in f]
     return config_files
 
+def check_dirty_worktree():
+    """Prüft ob in docs/ oder scripts/ uncommitted Änderungen vorliegen, die den Push-Test verfälschen könnten."""
+    result = subprocess.run(
+        ['git', 'status', '--porcelain', 'docs', 'scripts', 'package.json'],
+        capture_output=True, text=True, cwd=ROOT
+    )
+    if result.stdout.strip():
+        return result.stdout.strip().split('\n')
+    return []
+
 # ── Checks ────────────────────────────────────────────────────────────────────
 
 def check_yaml_frontmatter(files):
@@ -239,6 +250,8 @@ def check_index_frontmatter_structural(fix=False):
     errors = []
     valid_keys = {'hero', 'name', 'text', 'tagline', 'actions', 'theme', 'link', 'features', 'title', 'details', 'layout'}
     for index_path in (ROOT / 'docs').glob('**/index.md'):
+        if '.vitepress' in index_path.parts:
+            continue
         content = index_path.read_text(encoding='utf-8', errors='replace')
         if not content.startswith('---'):
             continue
@@ -478,11 +491,11 @@ def check_release_version():
             for path in [ROOT / 'docs/index.md', ROOT / 'docs/release-notes.md', ROOT / 'docs/settings.md']:
                 if path.exists():
                     txt = path.read_text('utf-8')
-                    if f"Version {short_v}" in txt or f"v{short_v}" in txt:
+                    if f"Version {version}" in txt or f"v{version}" in txt:
                         found = True
                         break
             if not found:
-                return f"Version {short_v} fehlt in docs/index.md / release-notes.md (Release Notes nicht nachgetragen!)"
+                return f"Version {version} fehlt in docs/index.md / release-notes.md (Release Notes nicht nachgetragen!)"
     except Exception as e:
         return f"Fehler beim Version-Check: {e}"
     return None
@@ -574,16 +587,33 @@ def main():
     scope = 'diff'
     run_build = False
     fix_mode = False
+    strict_mode = False
 
     for a in args:
         if a == '--scope=all':   scope = 'all'
         if a == '--scope=diff':  scope = 'diff'
         if a == '--build':       run_build = True
         if a == '--fix':         fix_mode = True
+        if a == '--strict':      strict_mode = True
 
     print(f"\n{'='*60}")
-    print(f"  Pre-Push Check  |  scope={scope}  |  build={'ja' if run_build else 'nein'}")
+    print(f"  Pre-Push Check  |  scope={scope}  |  build={'ja' if run_build else 'nein'}  |  strict={'ja' if strict_mode else 'nein'}")
     print(f"{'='*60}\n")
+
+    # ── 0. Strict Mode Check ─────────────────────────────────────────────────
+    if strict_mode:
+        dirty_files = check_dirty_worktree()
+        if dirty_files:
+            print("[0/0] Strict Mode: Dirty Worktree Check...")
+            print("  ❌ Es gibt uncommitted Änderungen in docs/, scripts/ oder package.json!")
+            print("     Der Pre-Push-Check testet Ihre *lokalen Dateien*, nicht den aktuellen Push-Commit.")
+            print("     Bitte committen oder stashen Sie diese Änderungen vor dem Push.")
+            for line in dirty_files[:5]:
+                print(f"       {line}")
+            if len(dirty_files) > 5:
+                print(f"       ... und {len(dirty_files)-5} weitere.")
+            print("\n  ❌ Push blockiert wegen uncommitted Änderungen.\n")
+            sys.exit(1)
 
     total_errors = 0
 
